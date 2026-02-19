@@ -1,0 +1,4162 @@
+[
+  {
+    "name": "Aberdeen Township",
+    "displayName": "Aberdeen",
+    "slug": "aberdeen-nj",
+    "population": 18210,
+    "osmId": 961385,
+    "type": "relation"
+  },
+  {
+    "name": "Absecon",
+    "displayName": "Absecon",
+    "slug": "absecon-nj",
+    "population": 8065,
+    "osmId": 170328,
+    "type": "relation"
+  },
+  {
+    "name": "Alexandria Township",
+    "displayName": "Alexandria",
+    "slug": "alexandria-nj",
+    "population": null,
+    "osmId": 964666,
+    "type": "relation"
+  },
+  {
+    "name": "Allamuchy Township",
+    "displayName": "Allamuchy",
+    "slug": "allamuchy-nj",
+    "population": null,
+    "osmId": 12022267,
+    "type": "relation"
+  },
+  {
+    "name": "Allendale",
+    "displayName": "Allendale",
+    "slug": "allendale-nj",
+    "population": 6713,
+    "osmId": 170586,
+    "type": "relation"
+  },
+  {
+    "name": "Allenhurst",
+    "displayName": "Allenhurst",
+    "slug": "allenhurst-nj",
+    "population": 701,
+    "osmId": 170399,
+    "type": "relation"
+  },
+  {
+    "name": "Allentown",
+    "displayName": "Allentown",
+    "slug": "allentown-nj",
+    "population": 1847,
+    "osmId": 170905,
+    "type": "relation"
+  },
+  {
+    "name": "Alloway Township",
+    "displayName": "Alloway",
+    "slug": "alloway-nj",
+    "population": null,
+    "osmId": 11998799,
+    "type": "relation"
+  },
+  {
+    "name": "Alpha",
+    "displayName": "Alpha",
+    "slug": "alpha-nj",
+    "population": 2437,
+    "osmId": 170912,
+    "type": "relation"
+  },
+  {
+    "name": "Alpine",
+    "displayName": "Alpine",
+    "slug": "alpine-nj",
+    "population": 2429,
+    "osmId": 170588,
+    "type": "relation"
+  },
+  {
+    "name": "Andover",
+    "displayName": "Andover",
+    "slug": "andover-nj",
+    "population": 654,
+    "osmId": 170929,
+    "type": "relation"
+  },
+  {
+    "name": "Asbury Park",
+    "displayName": "Asbury Park",
+    "slug": "asbury-park-nj",
+    "population": 16546,
+    "osmId": 170406,
+    "type": "relation"
+  },
+  {
+    "name": "Atlantic City",
+    "displayName": "Atlantic",
+    "slug": "atlantic-nj",
+    "population": 39958,
+    "osmId": 170330,
+    "type": "relation"
+  },
+  {
+    "name": "Atlantic Highlands",
+    "displayName": "Atlantic Highlands",
+    "slug": "atlantic-highlands-nj",
+    "population": 4614,
+    "osmId": 170405,
+    "type": "relation"
+  },
+  {
+    "name": "Audubon",
+    "displayName": "Audubon",
+    "slug": "audubon-nj",
+    "population": 8981,
+    "osmId": 170673,
+    "type": "relation"
+  },
+  {
+    "name": "Audubon Park",
+    "displayName": "Audubon Park",
+    "slug": "audubon-park-nj",
+    "population": 1071,
+    "osmId": 170674,
+    "type": "relation"
+  },
+  {
+    "name": "Avalon",
+    "displayName": "Avalon",
+    "slug": "avalon-nj",
+    "population": 2125,
+    "osmId": 170425,
+    "type": "relation"
+  },
+  {
+    "name": "Avon-by-the-Sea",
+    "displayName": "Avon-by-the-Sea",
+    "slug": "avon-by-the-sea-nj",
+    "population": 2166,
+    "osmId": 170401,
+    "type": "relation"
+  },
+  {
+    "name": "Barnegat Township",
+    "displayName": "Barnegat",
+    "slug": "barnegat-nj",
+    "population": 21192,
+    "osmId": 962549,
+    "type": "relation"
+  },
+  {
+    "name": "Barnegat Light",
+    "displayName": "Barnegat Light",
+    "slug": "barnegat-light-nj",
+    "population": 833,
+    "osmId": 170884,
+    "type": "relation"
+  },
+  {
+    "name": "Barrington",
+    "displayName": "Barrington",
+    "slug": "barrington-nj",
+    "population": 7004,
+    "osmId": 170677,
+    "type": "relation"
+  },
+  {
+    "name": "Bass River Township",
+    "displayName": "Bass River",
+    "slug": "bass-river-nj",
+    "population": 1570,
+    "osmId": 963135,
+    "type": "relation"
+  },
+  {
+    "name": "Bay Head",
+    "displayName": "Bay Head",
+    "slug": "bay-head-nj",
+    "population": 1050,
+    "osmId": 170309,
+    "type": "relation"
+  },
+  {
+    "name": "Bayonne",
+    "displayName": "Bayonne",
+    "slug": "bayonne-nj",
+    "population": 58844,
+    "osmId": 170504,
+    "type": "relation"
+  },
+  {
+    "name": "Beach Haven",
+    "displayName": "Beach Haven",
+    "slug": "beach-haven-nj",
+    "population": 1191,
+    "osmId": 170323,
+    "type": "relation"
+  },
+  {
+    "name": "Beachwood",
+    "displayName": "Beachwood",
+    "slug": "beachwood-nj",
+    "population": 11274,
+    "osmId": 170313,
+    "type": "relation"
+  },
+  {
+    "name": "Bedminster Township",
+    "displayName": "Bedminster",
+    "slug": "bedminster-nj",
+    "population": null,
+    "osmId": 963375,
+    "type": "relation"
+  },
+  {
+    "name": "Belleville",
+    "displayName": "Belleville",
+    "slug": "belleville-nj",
+    "population": 34444,
+    "osmId": 170773,
+    "type": "relation"
+  },
+  {
+    "name": "Bellmawr",
+    "displayName": "Bellmawr",
+    "slug": "bellmawr-nj",
+    "population": 11707,
+    "osmId": 170675,
+    "type": "relation"
+  },
+  {
+    "name": "Belmar",
+    "displayName": "Belmar",
+    "slug": "belmar-nj",
+    "population": 5923,
+    "osmId": 170403,
+    "type": "relation"
+  },
+  {
+    "name": "Belvidere",
+    "displayName": "Belvidere",
+    "slug": "belvidere-nj",
+    "population": 2701,
+    "osmId": 170913,
+    "type": "relation"
+  },
+  {
+    "name": "Bergenfield",
+    "displayName": "Bergenfield",
+    "slug": "bergenfield-nj",
+    "population": 26194,
+    "osmId": 170589,
+    "type": "relation"
+  },
+  {
+    "name": "Berkeley Township",
+    "displayName": "Berkeley",
+    "slug": "berkeley-nj",
+    "population": 41255,
+    "osmId": 962539,
+    "type": "relation"
+  },
+  {
+    "name": "Berkeley Heights",
+    "displayName": "Berkeley Heights",
+    "slug": "berkeley-heights-nj",
+    "population": 13575,
+    "osmId": 170514,
+    "type": "relation"
+  },
+  {
+    "name": "Berlin",
+    "displayName": "Berlin",
+    "slug": "berlin-nj",
+    "population": 7910,
+    "osmId": 170680,
+    "type": "relation"
+  },
+  {
+    "name": "Bernards Township",
+    "displayName": "Bernards",
+    "slug": "bernards-nj",
+    "population": null,
+    "osmId": 963377,
+    "type": "relation"
+  },
+  {
+    "name": "Bernardsville",
+    "displayName": "Bernardsville",
+    "slug": "bernardsville-nj",
+    "population": 7688,
+    "osmId": 170463,
+    "type": "relation"
+  },
+  {
+    "name": "Bethlehem Township",
+    "displayName": "Bethlehem",
+    "slug": "bethlehem-nj",
+    "population": null,
+    "osmId": 964652,
+    "type": "relation"
+  },
+  {
+    "name": "Beverly",
+    "displayName": "Beverly",
+    "slug": "beverly-nj",
+    "population": 2651,
+    "osmId": 170925,
+    "type": "relation"
+  },
+  {
+    "name": "Blairstown",
+    "displayName": "Blairstown",
+    "slug": "blairstown-nj",
+    "population": 5982,
+    "osmId": 12022292,
+    "type": "relation"
+  },
+  {
+    "name": "Bloomfield",
+    "displayName": "Bloomfield",
+    "slug": "bloomfield-nj",
+    "population": 45372,
+    "osmId": 170727,
+    "type": "relation"
+  },
+  {
+    "name": "Bloomingdale",
+    "displayName": "Bloomingdale",
+    "slug": "bloomingdale-nj",
+    "population": 7604,
+    "osmId": 170716,
+    "type": "relation"
+  },
+  {
+    "name": "Bloomsbury",
+    "displayName": "Bloomsbury",
+    "slug": "bloomsbury-nj",
+    "population": 881,
+    "osmId": 170890,
+    "type": "relation"
+  },
+  {
+    "name": "Bogota",
+    "displayName": "Bogota",
+    "slug": "bogota-nj",
+    "population": 8108,
+    "osmId": 170590,
+    "type": "relation"
+  },
+  {
+    "name": "Boonton",
+    "displayName": "Boonton",
+    "slug": "boonton-nj",
+    "population": 8600,
+    "osmId": 170556,
+    "type": "relation"
+  },
+  {
+    "name": "Bordentown",
+    "displayName": "Bordentown",
+    "slug": "bordentown-nj",
+    "population": 3993,
+    "osmId": 170924,
+    "type": "relation"
+  },
+  {
+    "name": "Bound Brook",
+    "displayName": "Bound Brook",
+    "slug": "bound-brook-nj",
+    "population": 10225,
+    "osmId": 170466,
+    "type": "relation"
+  },
+  {
+    "name": "Bradley Beach",
+    "displayName": "Bradley Beach",
+    "slug": "bradley-beach-nj",
+    "population": 4784,
+    "osmId": 170400,
+    "type": "relation"
+  },
+  {
+    "name": "Branchburg Township",
+    "displayName": "Branchburg",
+    "slug": "branchburg-nj",
+    "population": null,
+    "osmId": 963382,
+    "type": "relation"
+  },
+  {
+    "name": "Branchville",
+    "displayName": "Branchville",
+    "slug": "branchville-nj",
+    "population": 839,
+    "osmId": 170930,
+    "type": "relation"
+  },
+  {
+    "name": "Brick Township",
+    "displayName": "Brick",
+    "slug": "brick-nj",
+    "population": 75072,
+    "osmId": 962548,
+    "type": "relation"
+  },
+  {
+    "name": "Bridgeton",
+    "displayName": "Bridgeton",
+    "slug": "bridgeton-nj",
+    "population": 24389,
+    "osmId": 170909,
+    "type": "relation"
+  },
+  {
+    "name": "Bridgewater Township",
+    "displayName": "Bridgewater",
+    "slug": "bridgewater-nj",
+    "population": 44464,
+    "osmId": 963381,
+    "type": "relation"
+  },
+  {
+    "name": "Brielle",
+    "displayName": "Brielle",
+    "slug": "brielle-nj",
+    "population": 4982,
+    "osmId": 170312,
+    "type": "relation"
+  },
+  {
+    "name": "Brigantine",
+    "displayName": "Brigantine",
+    "slug": "brigantine-nj",
+    "population": 12886,
+    "osmId": 170329,
+    "type": "relation"
+  },
+  {
+    "name": "Brooklawn",
+    "displayName": "Brooklawn",
+    "slug": "brooklawn-nj",
+    "population": 2294,
+    "osmId": 170491,
+    "type": "relation"
+  },
+  {
+    "name": "Buena",
+    "displayName": "Buena",
+    "slug": "buena-nj",
+    "population": 3804,
+    "osmId": 170331,
+    "type": "relation"
+  },
+  {
+    "name": "Buena Vista Township",
+    "displayName": "Buena Vista",
+    "slug": "buena-vista-nj",
+    "population": 7570,
+    "osmId": 7185996,
+    "type": "relation"
+  },
+  {
+    "name": "Burlington",
+    "displayName": "Burlington",
+    "slug": "burlington-nj",
+    "population": 9715,
+    "osmId": 170923,
+    "type": "relation"
+  },
+  {
+    "name": "Butler",
+    "displayName": "Butler",
+    "slug": "butler-nj",
+    "population": 8074,
+    "osmId": 170569,
+    "type": "relation"
+  },
+  {
+    "name": "Byram Township",
+    "displayName": "Byram",
+    "slug": "byram-nj",
+    "population": null,
+    "osmId": 12022532,
+    "type": "relation"
+  },
+  {
+    "name": "Caldwell",
+    "displayName": "Caldwell",
+    "slug": "caldwell-nj",
+    "population": 7373,
+    "osmId": 170483,
+    "type": "relation"
+  },
+  {
+    "name": "Califon",
+    "displayName": "Califon",
+    "slug": "califon-nj",
+    "population": 1052,
+    "osmId": 170891,
+    "type": "relation"
+  },
+  {
+    "name": "Camden",
+    "displayName": "Camden",
+    "slug": "camden-nj",
+    "population": 77344,
+    "osmId": 170683,
+    "type": "relation"
+  },
+  {
+    "name": "Cape May",
+    "displayName": "Cape May",
+    "slug": "cape-may-nj",
+    "population": 3809,
+    "osmId": 170422,
+    "type": "relation"
+  },
+  {
+    "name": "Cape May Point",
+    "displayName": "Cape May Point",
+    "slug": "cape-may-point-nj",
+    "population": 291,
+    "osmId": 170911,
+    "type": "relation"
+  },
+  {
+    "name": "Carlstadt",
+    "displayName": "Carlstadt",
+    "slug": "carlstadt-nj",
+    "population": 6037,
+    "osmId": 170591,
+    "type": "relation"
+  },
+  {
+    "name": "Carneys Point Township",
+    "displayName": "Carneys Point",
+    "slug": "carneys-point-nj",
+    "population": 7981,
+    "osmId": 11999007,
+    "type": "relation"
+  },
+  {
+    "name": "Carteret",
+    "displayName": "Carteret",
+    "slug": "carteret-nj",
+    "population": 22264,
+    "osmId": 170524,
+    "type": "relation"
+  },
+  {
+    "name": "Cedar Grove",
+    "displayName": "Cedar Grove",
+    "slug": "cedar-grove-nj",
+    "population": 12848,
+    "osmId": 170774,
+    "type": "relation"
+  },
+  {
+    "name": "Chatham",
+    "displayName": "Chatham",
+    "slug": "chatham-nj",
+    "population": 8390,
+    "osmId": 170562,
+    "type": "relation"
+  },
+  {
+    "name": "Cherry Hill Township",
+    "displayName": "Cherry Hill",
+    "slug": "cherry-hill-nj",
+    "population": null,
+    "osmId": 962882,
+    "type": "relation"
+  },
+  {
+    "name": "Chesilhurst",
+    "displayName": "Chesilhurst",
+    "slug": "chesilhurst-nj",
+    "population": 1879,
+    "osmId": 170952,
+    "type": "relation"
+  },
+  {
+    "name": "Chester",
+    "displayName": "Chester",
+    "slug": "chester-nj",
+    "population": 1681,
+    "osmId": 170939,
+    "type": "relation"
+  },
+  {
+    "name": "Chesterfield Township",
+    "displayName": "Chesterfield",
+    "slug": "chesterfield-nj",
+    "population": 6451,
+    "osmId": 963151,
+    "type": "relation"
+  },
+  {
+    "name": "Cinnaminson Township",
+    "displayName": "Cinnaminson",
+    "slug": "cinnaminson-nj",
+    "population": 15449,
+    "osmId": 963145,
+    "type": "relation"
+  },
+  {
+    "name": "Clark",
+    "displayName": "Clark",
+    "slug": "clark-nj",
+    "population": 14650,
+    "osmId": 170786,
+    "type": "relation"
+  },
+  {
+    "name": "Clayton",
+    "displayName": "Clayton",
+    "slug": "clayton-nj",
+    "population": 7469,
+    "osmId": 170500,
+    "type": "relation"
+  },
+  {
+    "name": "Clementon",
+    "displayName": "Clementon",
+    "slug": "clementon-nj",
+    "population": 4922,
+    "osmId": 170686,
+    "type": "relation"
+  },
+  {
+    "name": "Cliffside Park",
+    "displayName": "Cliffside Park",
+    "slug": "cliffside-park-nj",
+    "population": 23594,
+    "osmId": 170592,
+    "type": "relation"
+  },
+  {
+    "name": "Clifton",
+    "displayName": "Clifton",
+    "slug": "clifton-nj",
+    "population": 79606,
+    "osmId": 170728,
+    "type": "relation"
+  },
+  {
+    "name": "Clinton",
+    "displayName": "Clinton",
+    "slug": "clinton-nj",
+    "population": 2605,
+    "osmId": 170346,
+    "type": "relation"
+  },
+  {
+    "name": "Closter",
+    "displayName": "Closter",
+    "slug": "closter-nj",
+    "population": 8730,
+    "osmId": 170594,
+    "type": "relation"
+  },
+  {
+    "name": "Collingswood",
+    "displayName": "Collingswood",
+    "slug": "collingswood-nj",
+    "population": 13961,
+    "osmId": 170689,
+    "type": "relation"
+  },
+  {
+    "name": "Colts Neck Township",
+    "displayName": "Colts Neck",
+    "slug": "colts-neck-nj",
+    "population": null,
+    "osmId": 961386,
+    "type": "relation"
+  },
+  {
+    "name": "Commercial Township",
+    "displayName": "Commercial",
+    "slug": "commercial-nj",
+    "population": 5178,
+    "osmId": 11991820,
+    "type": "relation"
+  },
+  {
+    "name": "Corbin City",
+    "displayName": "Corbin",
+    "slug": "corbin-nj",
+    "population": 530,
+    "osmId": 170828,
+    "type": "relation"
+  },
+  {
+    "name": "Cranbury Township",
+    "displayName": "Cranbury",
+    "slug": "cranbury-nj",
+    "population": null,
+    "osmId": 961158,
+    "type": "relation"
+  },
+  {
+    "name": "Cranford",
+    "displayName": "Cranford",
+    "slug": "cranford-nj",
+    "population": 22369,
+    "osmId": 170510,
+    "type": "relation"
+  },
+  {
+    "name": "Cresskill",
+    "displayName": "Cresskill",
+    "slug": "cresskill-nj",
+    "population": 8437,
+    "osmId": 170595,
+    "type": "relation"
+  },
+  {
+    "name": "Deal",
+    "displayName": "Deal",
+    "slug": "deal-nj",
+    "population": 1044,
+    "osmId": 170398,
+    "type": "relation"
+  },
+  {
+    "name": "Deerfield Township",
+    "displayName": "Deerfield",
+    "slug": "deerfield-nj",
+    "population": null,
+    "osmId": 11995924,
+    "type": "relation"
+  },
+  {
+    "name": "Delanco Township",
+    "displayName": "Delanco",
+    "slug": "delanco-nj",
+    "population": null,
+    "osmId": 963124,
+    "type": "relation"
+  },
+  {
+    "name": "Delaware Township",
+    "displayName": "Delaware",
+    "slug": "delaware-nj",
+    "population": null,
+    "osmId": 964654,
+    "type": "relation"
+  },
+  {
+    "name": "Delran Township",
+    "displayName": "Delran",
+    "slug": "delran-nj",
+    "population": 16896,
+    "osmId": 963128,
+    "type": "relation"
+  },
+  {
+    "name": "Demarest",
+    "displayName": "Demarest",
+    "slug": "demarest-nj",
+    "population": 5106,
+    "osmId": 170596,
+    "type": "relation"
+  },
+  {
+    "name": "Dennis Township",
+    "displayName": "Dennis",
+    "slug": "dennis-nj",
+    "population": null,
+    "osmId": 4661477,
+    "type": "relation"
+  },
+  {
+    "name": "Denville",
+    "displayName": "Denville",
+    "slug": "denville-nj",
+    "population": null,
+    "osmId": 6611956,
+    "type": "relation"
+  },
+  {
+    "name": "Deptford Township",
+    "displayName": "Deptford",
+    "slug": "deptford-nj",
+    "population": 30561,
+    "osmId": 12008371,
+    "type": "relation"
+  },
+  {
+    "name": "Dover",
+    "displayName": "Dover",
+    "slug": "dover-nj",
+    "population": 18387,
+    "osmId": 170553,
+    "type": "relation"
+  },
+  {
+    "name": "Downe Township",
+    "displayName": "Downe",
+    "slug": "downe-nj",
+    "population": 1585,
+    "osmId": 11995538,
+    "type": "relation"
+  },
+  {
+    "name": "Dumont",
+    "displayName": "Dumont",
+    "slug": "dumont-nj",
+    "population": 17365,
+    "osmId": 170598,
+    "type": "relation"
+  },
+  {
+    "name": "Dunellen",
+    "displayName": "Dunellen",
+    "slug": "dunellen-nj",
+    "population": 6940,
+    "osmId": 170525,
+    "type": "relation"
+  },
+  {
+    "name": "Eagleswood Township",
+    "displayName": "Eagleswood",
+    "slug": "eagleswood-nj",
+    "population": null,
+    "osmId": 962541,
+    "type": "relation"
+  },
+  {
+    "name": "East Amwell Township",
+    "displayName": "East Amwell",
+    "slug": "east-amwell-nj",
+    "population": 4013,
+    "osmId": 964655,
+    "type": "relation"
+  },
+  {
+    "name": "East Brunswick Township",
+    "displayName": "East Brunswick",
+    "slug": "east-brunswick-nj",
+    "population": null,
+    "osmId": 170544,
+    "type": "relation"
+  },
+  {
+    "name": "East Greenwich Township",
+    "displayName": "East Greenwich",
+    "slug": "east-greenwich-nj",
+    "population": null,
+    "osmId": 12008316,
+    "type": "relation"
+  },
+  {
+    "name": "East Hanover",
+    "displayName": "East Hanover",
+    "slug": "east-hanover-nj",
+    "population": 11633,
+    "osmId": 6611281,
+    "type": "relation"
+  },
+  {
+    "name": "East Newark",
+    "displayName": "East Newark",
+    "slug": "east-newark-nj",
+    "population": 2217,
+    "osmId": 170713,
+    "type": "relation"
+  },
+  {
+    "name": "East Orange",
+    "displayName": "East Orange",
+    "slug": "east-orange-nj",
+    "population": 67247,
+    "osmId": 170487,
+    "type": "relation"
+  },
+  {
+    "name": "East Rutherford",
+    "displayName": "East Rutherford",
+    "slug": "east-rutherford-nj",
+    "population": 8931,
+    "osmId": 170599,
+    "type": "relation"
+  },
+  {
+    "name": "East Windsor Township",
+    "displayName": "East Windsor",
+    "slug": "east-windsor-nj",
+    "population": null,
+    "osmId": 961738,
+    "type": "relation"
+  },
+  {
+    "name": "Eastampton Township",
+    "displayName": "Eastampton",
+    "slug": "eastampton-nj",
+    "population": 6191,
+    "osmId": 963147,
+    "type": "relation"
+  },
+  {
+    "name": "Eatontown",
+    "displayName": "Eatontown",
+    "slug": "eatontown-nj",
+    "population": 14022,
+    "osmId": 170361,
+    "type": "relation"
+  },
+  {
+    "name": "Edgewater",
+    "displayName": "Edgewater",
+    "slug": "edgewater-nj",
+    "population": 9628,
+    "osmId": 170593,
+    "type": "relation"
+  },
+  {
+    "name": "Edgewater Park Township",
+    "displayName": "Edgewater Park",
+    "slug": "edgewater-park-nj",
+    "population": null,
+    "osmId": 963130,
+    "type": "relation"
+  },
+  {
+    "name": "Edison",
+    "displayName": "Edison",
+    "slug": "edison-nj",
+    "population": 107588,
+    "osmId": 171019,
+    "type": "relation"
+  },
+  {
+    "name": "Egg Harbor City",
+    "displayName": "Egg Harbor",
+    "slug": "egg-harbor-nj",
+    "population": 4454,
+    "osmId": 170885,
+    "type": "relation"
+  },
+  {
+    "name": "Elizabeth",
+    "displayName": "Elizabeth",
+    "slug": "elizabeth-nj",
+    "population": 126179,
+    "osmId": 170505,
+    "type": "relation"
+  },
+  {
+    "name": "Elk Township",
+    "displayName": "Elk",
+    "slug": "elk-nj",
+    "population": null,
+    "osmId": 12002266,
+    "type": "relation"
+  },
+  {
+    "name": "Elmer",
+    "displayName": "Elmer",
+    "slug": "elmer-nj",
+    "population": 1370,
+    "osmId": 170940,
+    "type": "relation"
+  },
+  {
+    "name": "Elmwood Park",
+    "displayName": "Elmwood Park",
+    "slug": "elmwood-park-nj",
+    "population": 18805,
+    "osmId": 170610,
+    "type": "relation"
+  },
+  {
+    "name": "Elsinboro Township",
+    "displayName": "Elsinboro",
+    "slug": "elsinboro-nj",
+    "population": null,
+    "osmId": 11998848,
+    "type": "relation"
+  },
+  {
+    "name": "Emerson",
+    "displayName": "Emerson",
+    "slug": "emerson-nj",
+    "population": 7318,
+    "osmId": 170611,
+    "type": "relation"
+  },
+  {
+    "name": "Englewood",
+    "displayName": "Englewood",
+    "slug": "englewood-nj",
+    "population": 27824,
+    "osmId": 170613,
+    "type": "relation"
+  },
+  {
+    "name": "Englewood Cliffs",
+    "displayName": "Englewood Cliffs",
+    "slug": "englewood-cliffs-nj",
+    "population": 5793,
+    "osmId": 170614,
+    "type": "relation"
+  },
+  {
+    "name": "Englishtown",
+    "displayName": "Englishtown",
+    "slug": "englishtown-nj",
+    "population": 1841,
+    "osmId": 170397,
+    "type": "relation"
+  },
+  {
+    "name": "Essex Fells",
+    "displayName": "Essex Fells",
+    "slug": "essex-fells-nj",
+    "population": 2071,
+    "osmId": 170482,
+    "type": "relation"
+  },
+  {
+    "name": "Estell Manor",
+    "displayName": "Estell Manor",
+    "slug": "estell-manor-nj",
+    "population": 1720,
+    "osmId": 170838,
+    "type": "relation"
+  },
+  {
+    "name": "Evesham Township",
+    "displayName": "Evesham",
+    "slug": "evesham-nj",
+    "population": null,
+    "osmId": 963141,
+    "type": "relation"
+  },
+  {
+    "name": "Ewing Township",
+    "displayName": "Ewing",
+    "slug": "ewing-nj",
+    "population": 37264,
+    "osmId": 170585,
+    "type": "relation"
+  },
+  {
+    "name": "Fair Haven",
+    "displayName": "Fair Haven",
+    "slug": "fair-haven-nj",
+    "population": 5885,
+    "osmId": 170377,
+    "type": "relation"
+  },
+  {
+    "name": "Fair Lawn",
+    "displayName": "Fair Lawn",
+    "slug": "fair-lawn-nj",
+    "population": 34927,
+    "osmId": 170615,
+    "type": "relation"
+  },
+  {
+    "name": "Fairfield",
+    "displayName": "Fairfield",
+    "slug": "fairfield-nj",
+    "population": 7707,
+    "osmId": 170576,
+    "type": "relation"
+  },
+  {
+    "name": "Fairview",
+    "displayName": "Fairview",
+    "slug": "fairview-nj",
+    "population": 13628,
+    "osmId": 170616,
+    "type": "relation"
+  },
+  {
+    "name": "Fanwood",
+    "displayName": "Fanwood",
+    "slug": "fanwood-nj",
+    "population": 7697,
+    "osmId": 170503,
+    "type": "relation"
+  },
+  {
+    "name": "Far Hills",
+    "displayName": "Far Hills",
+    "slug": "far-hills-nj",
+    "population": 928,
+    "osmId": 170464,
+    "type": "relation"
+  },
+  {
+    "name": "Farmingdale",
+    "displayName": "Farmingdale",
+    "slug": "farmingdale-nj",
+    "population": 1563,
+    "osmId": 170904,
+    "type": "relation"
+  },
+  {
+    "name": "Fieldsboro",
+    "displayName": "Fieldsboro",
+    "slug": "fieldsboro-nj",
+    "population": 577,
+    "osmId": 170920,
+    "type": "relation"
+  },
+  {
+    "name": "Flemington",
+    "displayName": "Flemington",
+    "slug": "flemington-nj",
+    "population": 4267,
+    "osmId": 170893,
+    "type": "relation"
+  },
+  {
+    "name": "Florence Township",
+    "displayName": "Florence",
+    "slug": "florence-nj",
+    "population": 11637,
+    "osmId": 963134,
+    "type": "relation"
+  },
+  {
+    "name": "Florham Park",
+    "displayName": "Florham Park",
+    "slug": "florham-park-nj",
+    "population": 11496,
+    "osmId": 170566,
+    "type": "relation"
+  },
+  {
+    "name": "Folsom",
+    "displayName": "Folsom",
+    "slug": "folsom-nj",
+    "population": 1948,
+    "osmId": 170337,
+    "type": "relation"
+  },
+  {
+    "name": "Fort Lee",
+    "displayName": "Fort Lee",
+    "slug": "fort-lee-nj",
+    "population": 37008,
+    "osmId": 170618,
+    "type": "relation"
+  },
+  {
+    "name": "Frankford Township",
+    "displayName": "Frankford",
+    "slug": "frankford-nj",
+    "population": null,
+    "osmId": 12026258,
+    "type": "relation"
+  },
+  {
+    "name": "Franklin",
+    "displayName": "Franklin",
+    "slug": "franklin-nj",
+    "population": 5210,
+    "osmId": 170471,
+    "type": "relation"
+  },
+  {
+    "name": "Franklin Lakes",
+    "displayName": "Franklin Lakes",
+    "slug": "franklin-lakes-nj",
+    "population": 11340,
+    "osmId": 170619,
+    "type": "relation"
+  },
+  {
+    "name": "Fredon Township",
+    "displayName": "Fredon",
+    "slug": "fredon-nj",
+    "population": 3361,
+    "osmId": 12026135,
+    "type": "relation"
+  },
+  {
+    "name": "Freehold",
+    "displayName": "Freehold",
+    "slug": "freehold-nj",
+    "population": 11394,
+    "osmId": 170393,
+    "type": "relation"
+  },
+  {
+    "name": "Frelinghuysen Township",
+    "displayName": "Frelinghuysen",
+    "slug": "frelinghuysen-nj",
+    "population": null,
+    "osmId": 12022276,
+    "type": "relation"
+  },
+  {
+    "name": "Frenchtown",
+    "displayName": "Frenchtown",
+    "slug": "frenchtown-nj",
+    "population": 1370,
+    "osmId": 170894,
+    "type": "relation"
+  },
+  {
+    "name": "Galloway Township",
+    "displayName": "Galloway",
+    "slug": "galloway-nj",
+    "population": 37349,
+    "osmId": 7176861,
+    "type": "relation"
+  },
+  {
+    "name": "Garfield",
+    "displayName": "Garfield",
+    "slug": "garfield-nj",
+    "population": 29644,
+    "osmId": 170621,
+    "type": "relation"
+  },
+  {
+    "name": "Garwood",
+    "displayName": "Garwood",
+    "slug": "garwood-nj",
+    "population": 4233,
+    "osmId": 170506,
+    "type": "relation"
+  },
+  {
+    "name": "Gibbsboro",
+    "displayName": "Gibbsboro",
+    "slug": "gibbsboro-nj",
+    "population": 2451,
+    "osmId": 170691,
+    "type": "relation"
+  },
+  {
+    "name": "Glassboro",
+    "displayName": "Glassboro",
+    "slug": "glassboro-nj",
+    "population": 19360,
+    "osmId": 170501,
+    "type": "relation"
+  },
+  {
+    "name": "Glen Gardner",
+    "displayName": "Glen Gardner",
+    "slug": "glen-gardner-nj",
+    "population": 1992,
+    "osmId": 170347,
+    "type": "relation"
+  },
+  {
+    "name": "Glen Ridge",
+    "displayName": "Glen Ridge",
+    "slug": "glen-ridge-nj",
+    "population": 6908,
+    "osmId": 170488,
+    "type": "relation"
+  },
+  {
+    "name": "Glen Rock",
+    "displayName": "Glen Rock",
+    "slug": "glen-rock-nj",
+    "population": 11396,
+    "osmId": 170622,
+    "type": "relation"
+  },
+  {
+    "name": "Gloucester City",
+    "displayName": "Gloucester",
+    "slug": "gloucester-nj",
+    "population": 11482,
+    "osmId": 170684,
+    "type": "relation"
+  },
+  {
+    "name": "Green Township",
+    "displayName": "Green",
+    "slug": "green-nj",
+    "population": null,
+    "osmId": 12026116,
+    "type": "relation"
+  },
+  {
+    "name": "Green Brook Township",
+    "displayName": "Green Brook",
+    "slug": "green-brook-nj",
+    "population": 7203,
+    "osmId": 963380,
+    "type": "relation"
+  },
+  {
+    "name": "Greenwich Township",
+    "displayName": "Greenwich",
+    "slug": "greenwich-nj",
+    "population": null,
+    "osmId": 11007112,
+    "type": "relation"
+  },
+  {
+    "name": "Guttenberg",
+    "displayName": "Guttenberg",
+    "slug": "guttenberg-nj",
+    "population": 10717,
+    "osmId": 170707,
+    "type": "relation"
+  },
+  {
+    "name": "Hackensack",
+    "displayName": "Hackensack",
+    "slug": "hackensack-nj",
+    "population": 44756,
+    "osmId": 170624,
+    "type": "relation"
+  },
+  {
+    "name": "Hackettstown",
+    "displayName": "Hackettstown",
+    "slug": "hackettstown-nj",
+    "population": 10248,
+    "osmId": 170434,
+    "type": "relation"
+  },
+  {
+    "name": "Haddon Township",
+    "displayName": "Haddon",
+    "slug": "haddon-nj",
+    "population": 14484,
+    "osmId": 962880,
+    "type": "relation"
+  },
+  {
+    "name": "Haddon Heights",
+    "displayName": "Haddon Heights",
+    "slug": "haddon-heights-nj",
+    "population": 7365,
+    "osmId": 170676,
+    "type": "relation"
+  },
+  {
+    "name": "Haddonfield",
+    "displayName": "Haddonfield",
+    "slug": "haddonfield-nj",
+    "population": 11515,
+    "osmId": 170692,
+    "type": "relation"
+  },
+  {
+    "name": "Hainesport Township",
+    "displayName": "Hainesport",
+    "slug": "hainesport-nj",
+    "population": null,
+    "osmId": 963140,
+    "type": "relation"
+  },
+  {
+    "name": "Haledon",
+    "displayName": "Haledon",
+    "slug": "haledon-nj",
+    "population": 8358,
+    "osmId": 170722,
+    "type": "relation"
+  },
+  {
+    "name": "Hamburg",
+    "displayName": "Hamburg",
+    "slug": "hamburg-nj",
+    "population": 3554,
+    "osmId": 170472,
+    "type": "relation"
+  },
+  {
+    "name": "Hamilton Township",
+    "displayName": "Hamilton",
+    "slug": "hamilton-nj",
+    "population": 87065,
+    "osmId": 961739,
+    "type": "relation"
+  },
+  {
+    "name": "Hammonton",
+    "displayName": "Hammonton",
+    "slug": "hammonton-nj",
+    "population": 26503,
+    "osmId": 170336,
+    "type": "relation"
+  },
+  {
+    "name": "Hampton",
+    "displayName": "Hampton",
+    "slug": "hampton-nj",
+    "population": 1658,
+    "osmId": 170348,
+    "type": "relation"
+  },
+  {
+    "name": "Hanover Township",
+    "displayName": "Hanover",
+    "slug": "hanover-nj",
+    "population": 13737,
+    "osmId": 6611282,
+    "type": "relation"
+  },
+  {
+    "name": "Harding Township",
+    "displayName": "Harding",
+    "slug": "harding-nj",
+    "population": null,
+    "osmId": 6603188,
+    "type": "relation"
+  },
+  {
+    "name": "Hardwick Township",
+    "displayName": "Hardwick",
+    "slug": "hardwick-nj",
+    "population": 1631,
+    "osmId": 12022287,
+    "type": "relation"
+  },
+  {
+    "name": "Hardyston Township",
+    "displayName": "Hardyston",
+    "slug": "hardyston-nj",
+    "population": null,
+    "osmId": 11271821,
+    "type": "relation"
+  },
+  {
+    "name": "Harmony Township",
+    "displayName": "Harmony",
+    "slug": "harmony-nj",
+    "population": null,
+    "osmId": 11021415,
+    "type": "relation"
+  },
+  {
+    "name": "Harrington Park",
+    "displayName": "Harrington Park",
+    "slug": "harrington-park-nj",
+    "population": 4916,
+    "osmId": 170626,
+    "type": "relation"
+  },
+  {
+    "name": "Harrison",
+    "displayName": "Harrison",
+    "slug": "harrison-nj",
+    "population": 13942,
+    "osmId": 170712,
+    "type": "relation"
+  },
+  {
+    "name": "Harvey Cedars",
+    "displayName": "Harvey Cedars",
+    "slug": "harvey-cedars-nj",
+    "population": 389,
+    "osmId": 170883,
+    "type": "relation"
+  },
+  {
+    "name": "Hasbrouck Heights",
+    "displayName": "Hasbrouck Heights",
+    "slug": "hasbrouck-heights-nj",
+    "population": 11621,
+    "osmId": 170627,
+    "type": "relation"
+  },
+  {
+    "name": "Haworth",
+    "displayName": "Haworth",
+    "slug": "haworth-nj",
+    "population": 3433,
+    "osmId": 170597,
+    "type": "relation"
+  },
+  {
+    "name": "Hawthorne",
+    "displayName": "Hawthorne",
+    "slug": "hawthorne-nj",
+    "population": 18166,
+    "osmId": 170724,
+    "type": "relation"
+  },
+  {
+    "name": "Hazlet Township",
+    "displayName": "Hazlet",
+    "slug": "hazlet-nj",
+    "population": null,
+    "osmId": 961378,
+    "type": "relation"
+  },
+  {
+    "name": "Helmetta",
+    "displayName": "Helmetta",
+    "slug": "helmetta-nj",
+    "population": 2455,
+    "osmId": 170527,
+    "type": "relation"
+  },
+  {
+    "name": "Hi-Nella",
+    "displayName": "Hi-Nella",
+    "slug": "hi-nella-nj",
+    "population": 1007,
+    "osmId": 170693,
+    "type": "relation"
+  },
+  {
+    "name": "High Bridge",
+    "displayName": "High Bridge",
+    "slug": "high-bridge-nj",
+    "population": 3763,
+    "osmId": 170349,
+    "type": "relation"
+  },
+  {
+    "name": "Highland Park",
+    "displayName": "Highland Park",
+    "slug": "highland-park-nj",
+    "population": 13869,
+    "osmId": 170528,
+    "type": "relation"
+  },
+  {
+    "name": "Highlands",
+    "displayName": "Highlands",
+    "slug": "highlands-nj",
+    "population": 4987,
+    "osmId": 170392,
+    "type": "relation"
+  },
+  {
+    "name": "Hightstown",
+    "displayName": "Hightstown",
+    "slug": "hightstown-nj",
+    "population": 5300,
+    "osmId": 170948,
+    "type": "relation"
+  },
+  {
+    "name": "Hillsborough Township",
+    "displayName": "Hillsborough",
+    "slug": "hillsborough-nj",
+    "population": 38303,
+    "osmId": 963383,
+    "type": "relation"
+  },
+  {
+    "name": "Hillsdale",
+    "displayName": "Hillsdale",
+    "slug": "hillsdale-nj",
+    "population": 10053,
+    "osmId": 170630,
+    "type": "relation"
+  },
+  {
+    "name": "Hillside",
+    "displayName": "Hillside",
+    "slug": "hillside-nj",
+    "population": 21684,
+    "osmId": 170776,
+    "type": "relation"
+  },
+  {
+    "name": "Ho-Ho-Kus",
+    "displayName": "Ho-Ho-Kus",
+    "slug": "ho-ho-kus-nj",
+    "population": 4095,
+    "osmId": 170631,
+    "type": "relation"
+  },
+  {
+    "name": "Hoboken",
+    "displayName": "Hoboken",
+    "slug": "hoboken-nj",
+    "population": 39853,
+    "osmId": 170708,
+    "type": "relation"
+  },
+  {
+    "name": "Holland Township",
+    "displayName": "Holland",
+    "slug": "holland-nj",
+    "population": null,
+    "osmId": 964662,
+    "type": "relation"
+  },
+  {
+    "name": "Holmdel Township",
+    "displayName": "Holmdel",
+    "slug": "holmdel-nj",
+    "population": 16834,
+    "osmId": 961379,
+    "type": "relation"
+  },
+  {
+    "name": "Hopatcong",
+    "displayName": "Hopatcong",
+    "slug": "hopatcong-nj",
+    "population": 15884,
+    "osmId": 170476,
+    "type": "relation"
+  },
+  {
+    "name": "Hope Township",
+    "displayName": "Hope",
+    "slug": "hope-nj",
+    "population": null,
+    "osmId": 12022300,
+    "type": "relation"
+  },
+  {
+    "name": "Hopewell",
+    "displayName": "Hopewell",
+    "slug": "hopewell-nj",
+    "population": 2022,
+    "osmId": 170949,
+    "type": "relation"
+  },
+  {
+    "name": "Howell Township",
+    "displayName": "Howell",
+    "slug": "howell-nj",
+    "population": 57075,
+    "osmId": 961381,
+    "type": "relation"
+  },
+  {
+    "name": "Independence Township",
+    "displayName": "Independence",
+    "slug": "independence-nj",
+    "population": null,
+    "osmId": 12022263,
+    "type": "relation"
+  },
+  {
+    "name": "Interlaken",
+    "displayName": "Interlaken",
+    "slug": "interlaken-nj",
+    "population": 881,
+    "osmId": 170391,
+    "type": "relation"
+  },
+  {
+    "name": "Irvington",
+    "displayName": "Irvington",
+    "slug": "irvington-nj",
+    "population": 58024,
+    "osmId": 170777,
+    "type": "relation"
+  },
+  {
+    "name": "Island Heights",
+    "displayName": "Island Heights",
+    "slug": "island-heights-nj",
+    "population": 1650,
+    "osmId": 170322,
+    "type": "relation"
+  },
+  {
+    "name": "Jackson Township",
+    "displayName": "Jackson",
+    "slug": "jackson-nj",
+    "population": 54856,
+    "osmId": 962542,
+    "type": "relation"
+  },
+  {
+    "name": "Jamesburg",
+    "displayName": "Jamesburg",
+    "slug": "jamesburg-nj",
+    "population": 6429,
+    "osmId": 170529,
+    "type": "relation"
+  },
+  {
+    "name": "Jefferson Township",
+    "displayName": "Jefferson",
+    "slug": "jefferson-nj",
+    "population": null,
+    "osmId": 6601035,
+    "type": "relation"
+  },
+  {
+    "name": "Jersey City",
+    "displayName": "Jersey",
+    "slug": "jersey-nj",
+    "population": 292449,
+    "osmId": 170953,
+    "type": "relation"
+  },
+  {
+    "name": "Keansburg",
+    "displayName": "Keansburg",
+    "slug": "keansburg-nj",
+    "population": 10573,
+    "osmId": 170903,
+    "type": "relation"
+  },
+  {
+    "name": "Kearny",
+    "displayName": "Kearny",
+    "slug": "kearny-nj",
+    "population": 38008,
+    "osmId": 170710,
+    "type": "relation"
+  },
+  {
+    "name": "Kenilworth",
+    "displayName": "Kenilworth",
+    "slug": "kenilworth-nj",
+    "population": 7741,
+    "osmId": 170508,
+    "type": "relation"
+  },
+  {
+    "name": "Keyport",
+    "displayName": "Keyport",
+    "slug": "keyport-nj",
+    "population": 7471,
+    "osmId": 170388,
+    "type": "relation"
+  },
+  {
+    "name": "Kingwood Township",
+    "displayName": "Kingwood",
+    "slug": "kingwood-nj",
+    "population": null,
+    "osmId": 964664,
+    "type": "relation"
+  },
+  {
+    "name": "Kinnelon",
+    "displayName": "Kinnelon",
+    "slug": "kinnelon-nj",
+    "population": 9681,
+    "osmId": 170570,
+    "type": "relation"
+  },
+  {
+    "name": "Knowlton Township",
+    "displayName": "Knowlton",
+    "slug": "knowlton-nj",
+    "population": null,
+    "osmId": 12022295,
+    "type": "relation"
+  },
+  {
+    "name": "Lacey Township",
+    "displayName": "Lacey",
+    "slug": "lacey-nj",
+    "population": 26300,
+    "osmId": 962543,
+    "type": "relation"
+  },
+  {
+    "name": "Lafayette Township",
+    "displayName": "Lafayette",
+    "slug": "lafayette-nj",
+    "population": 2524,
+    "osmId": 12026242,
+    "type": "relation"
+  },
+  {
+    "name": "Lake Como",
+    "displayName": "Lake Como",
+    "slug": "lake-como-nj",
+    "population": null,
+    "osmId": 170366,
+    "type": "relation"
+  },
+  {
+    "name": "Lakehurst",
+    "displayName": "Lakehurst",
+    "slug": "lakehurst-nj",
+    "population": 2674,
+    "osmId": 170320,
+    "type": "relation"
+  },
+  {
+    "name": "Lakewood Township",
+    "displayName": "Lakewood",
+    "slug": "lakewood-nj",
+    "population": 92843,
+    "osmId": 962545,
+    "type": "relation"
+  },
+  {
+    "name": "Lambertville",
+    "displayName": "Lambertville",
+    "slug": "lambertville-nj",
+    "population": 3808,
+    "osmId": 170895,
+    "type": "relation"
+  },
+  {
+    "name": "Laurel Springs",
+    "displayName": "Laurel Springs",
+    "slug": "laurel-springs-nj",
+    "population": 1923,
+    "osmId": 170694,
+    "type": "relation"
+  },
+  {
+    "name": "Lavallette",
+    "displayName": "Lavallette",
+    "slug": "lavallette-nj",
+    "population": 1787,
+    "osmId": 170319,
+    "type": "relation"
+  },
+  {
+    "name": "Lawnside",
+    "displayName": "Lawnside",
+    "slug": "lawnside-nj",
+    "population": 2800,
+    "osmId": 170696,
+    "type": "relation"
+  },
+  {
+    "name": "Lawrence Township",
+    "displayName": "Lawrence",
+    "slug": "lawrence-nj",
+    "population": 33077,
+    "osmId": 961740,
+    "type": "relation"
+  },
+  {
+    "name": "Lebanon",
+    "displayName": "Lebanon",
+    "slug": "lebanon-nj",
+    "population": 1830,
+    "osmId": 170896,
+    "type": "relation"
+  },
+  {
+    "name": "Leonia",
+    "displayName": "Leonia",
+    "slug": "leonia-nj",
+    "population": 9304,
+    "osmId": 170634,
+    "type": "relation"
+  },
+  {
+    "name": "Liberty Township",
+    "displayName": "Liberty",
+    "slug": "liberty-nj",
+    "population": null,
+    "osmId": 12022258,
+    "type": "relation"
+  },
+  {
+    "name": "Lincoln Park",
+    "displayName": "Lincoln Park",
+    "slug": "lincoln-park-nj",
+    "population": 10856,
+    "osmId": 170577,
+    "type": "relation"
+  },
+  {
+    "name": "Linden",
+    "displayName": "Linden",
+    "slug": "linden-nj",
+    "population": 39874,
+    "osmId": 170509,
+    "type": "relation"
+  },
+  {
+    "name": "Lindenwold",
+    "displayName": "Lindenwold",
+    "slug": "lindenwold-nj",
+    "population": 17160,
+    "osmId": 170697,
+    "type": "relation"
+  },
+  {
+    "name": "Linwood",
+    "displayName": "Linwood",
+    "slug": "linwood-nj",
+    "population": 7354,
+    "osmId": 170338,
+    "type": "relation"
+  },
+  {
+    "name": "Little Egg Harbor Township",
+    "displayName": "Little Egg Harbor",
+    "slug": "little-egg-harbor-nj",
+    "population": 20065,
+    "osmId": 962547,
+    "type": "relation"
+  },
+  {
+    "name": "Little Falls",
+    "displayName": "Little Falls",
+    "slug": "little-falls-nj",
+    "population": 11829,
+    "osmId": 170729,
+    "type": "relation"
+  },
+  {
+    "name": "Little Ferry",
+    "displayName": "Little Ferry",
+    "slug": "little-ferry-nj",
+    "population": 10715,
+    "osmId": 170638,
+    "type": "relation"
+  },
+  {
+    "name": "Little Silver",
+    "displayName": "Little Silver",
+    "slug": "little-silver-nj",
+    "population": 6131,
+    "osmId": 170375,
+    "type": "relation"
+  },
+  {
+    "name": "Livingston",
+    "displayName": "Livingston",
+    "slug": "livingston-nj",
+    "population": 28413,
+    "osmId": 170560,
+    "type": "relation"
+  },
+  {
+    "name": "Loch Arbour",
+    "displayName": "Loch Arbour",
+    "slug": "loch-arbour-nj",
+    "population": 274,
+    "osmId": 170385,
+    "type": "relation"
+  },
+  {
+    "name": "Lodi",
+    "displayName": "Lodi",
+    "slug": "lodi-nj",
+    "population": 24310,
+    "osmId": 170640,
+    "type": "relation"
+  },
+  {
+    "name": "Logan Township",
+    "displayName": "Logan",
+    "slug": "logan-nj",
+    "population": null,
+    "osmId": 12006533,
+    "type": "relation"
+  },
+  {
+    "name": "Long Beach Township",
+    "displayName": "Long Beach",
+    "slug": "long-beach-nj",
+    "population": 3498,
+    "osmId": 962544,
+    "type": "relation"
+  },
+  {
+    "name": "Long Branch",
+    "displayName": "Long Branch",
+    "slug": "long-branch-nj",
+    "population": 32314,
+    "osmId": 170384,
+    "type": "relation"
+  },
+  {
+    "name": "Long Hill Township",
+    "displayName": "Long Hill",
+    "slug": "long-hill-nj",
+    "population": null,
+    "osmId": 6603115,
+    "type": "relation"
+  },
+  {
+    "name": "Longport",
+    "displayName": "Longport",
+    "slug": "longport-nj",
+    "population": 876,
+    "osmId": 170339,
+    "type": "relation"
+  },
+  {
+    "name": "Lopatcong Township",
+    "displayName": "Lopatcong",
+    "slug": "lopatcong-nj",
+    "population": 8014,
+    "osmId": 11010435,
+    "type": "relation"
+  },
+  {
+    "name": "Lower Township",
+    "displayName": "Lower",
+    "slug": "lower-nj",
+    "population": 22866,
+    "osmId": 4661451,
+    "type": "relation"
+  },
+  {
+    "name": "Lower Alloways Creek Township",
+    "displayName": "Lower Alloways Creek",
+    "slug": "lower-alloways-creek-nj",
+    "population": 1770,
+    "osmId": 11998841,
+    "type": "relation"
+  },
+  {
+    "name": "Lumberton Township",
+    "displayName": "Lumberton",
+    "slug": "lumberton-nj",
+    "population": null,
+    "osmId": 963142,
+    "type": "relation"
+  },
+  {
+    "name": "Lyndhurst",
+    "displayName": "Lyndhurst",
+    "slug": "lyndhurst-nj",
+    "population": 19732,
+    "osmId": 170730,
+    "type": "relation"
+  },
+  {
+    "name": "Madison",
+    "displayName": "Madison",
+    "slug": "madison-nj",
+    "population": 16016,
+    "osmId": 170567,
+    "type": "relation"
+  },
+  {
+    "name": "Magnolia",
+    "displayName": "Magnolia",
+    "slug": "magnolia-nj",
+    "population": 4379,
+    "osmId": 170699,
+    "type": "relation"
+  },
+  {
+    "name": "Mahwah",
+    "displayName": "Mahwah",
+    "slug": "mahwah-nj",
+    "population": 24560,
+    "osmId": 959090,
+    "type": "relation"
+  },
+  {
+    "name": "Manalapan Township",
+    "displayName": "Manalapan",
+    "slug": "manalapan-nj",
+    "population": null,
+    "osmId": 961380,
+    "type": "relation"
+  },
+  {
+    "name": "Manasquan",
+    "displayName": "Manasquan",
+    "slug": "manasquan-nj",
+    "population": 5837,
+    "osmId": 170372,
+    "type": "relation"
+  },
+  {
+    "name": "Manchester Township",
+    "displayName": "Manchester",
+    "slug": "manchester-nj",
+    "population": 43070,
+    "osmId": 962540,
+    "type": "relation"
+  },
+  {
+    "name": "Mannington Township",
+    "displayName": "Mannington",
+    "slug": "mannington-nj",
+    "population": null,
+    "osmId": 11999044,
+    "type": "relation"
+  },
+  {
+    "name": "Mansfield Township",
+    "displayName": "Mansfield",
+    "slug": "mansfield-nj",
+    "population": 8047,
+    "osmId": 963129,
+    "type": "relation"
+  },
+  {
+    "name": "Mantoloking",
+    "displayName": "Mantoloking",
+    "slug": "mantoloking-nj",
+    "population": 474,
+    "osmId": 170300,
+    "type": "relation"
+  },
+  {
+    "name": "Mantua Township",
+    "displayName": "Mantua",
+    "slug": "mantua-nj",
+    "population": 14974,
+    "osmId": 12008294,
+    "type": "relation"
+  },
+  {
+    "name": "Manville",
+    "displayName": "Manville",
+    "slug": "manville-nj",
+    "population": 10481,
+    "osmId": 170926,
+    "type": "relation"
+  },
+  {
+    "name": "Maple Shade Township",
+    "displayName": "Maple Shade",
+    "slug": "maple-shade-nj",
+    "population": null,
+    "osmId": 963125,
+    "type": "relation"
+  },
+  {
+    "name": "Maplewood",
+    "displayName": "Maplewood",
+    "slug": "maplewood-nj",
+    "population": 22759,
+    "osmId": 170781,
+    "type": "relation"
+  },
+  {
+    "name": "Margate City",
+    "displayName": "Margate",
+    "slug": "margate-nj",
+    "population": 8601,
+    "osmId": 170341,
+    "type": "relation"
+  },
+  {
+    "name": "Marlboro Township",
+    "displayName": "Marlboro",
+    "slug": "marlboro-nj",
+    "population": 39843,
+    "osmId": 961383,
+    "type": "relation"
+  },
+  {
+    "name": "Matawan",
+    "displayName": "Matawan",
+    "slug": "matawan-nj",
+    "population": 8781,
+    "osmId": 170383,
+    "type": "relation"
+  },
+  {
+    "name": "Maurice River Township",
+    "displayName": "Maurice River",
+    "slug": "maurice-river-nj",
+    "population": 8083,
+    "osmId": 11991806,
+    "type": "relation"
+  },
+  {
+    "name": "Maywood",
+    "displayName": "Maywood",
+    "slug": "maywood-nj",
+    "population": 10080,
+    "osmId": 170643,
+    "type": "relation"
+  },
+  {
+    "name": "Medford Township",
+    "displayName": "Medford",
+    "slug": "medford-nj",
+    "population": null,
+    "osmId": 963138,
+    "type": "relation"
+  },
+  {
+    "name": "Medford Lakes",
+    "displayName": "Medford Lakes",
+    "slug": "medford-lakes-nj",
+    "population": null,
+    "osmId": 170919,
+    "type": "relation"
+  },
+  {
+    "name": "Mendham",
+    "displayName": "Mendham",
+    "slug": "mendham-nj",
+    "population": 5176,
+    "osmId": 170462,
+    "type": "relation"
+  },
+  {
+    "name": "Merchantville",
+    "displayName": "Merchantville",
+    "slug": "merchantville-nj",
+    "population": null,
+    "osmId": 170701,
+    "type": "relation"
+  },
+  {
+    "name": "Metuchen",
+    "displayName": "Metuchen",
+    "slug": "metuchen-nj",
+    "population": 13216,
+    "osmId": 170935,
+    "type": "relation"
+  },
+  {
+    "name": "Middle Township",
+    "displayName": "Middle",
+    "slug": "middle-nj",
+    "population": 18911,
+    "osmId": 4661464,
+    "type": "relation"
+  },
+  {
+    "name": "Middlesex",
+    "displayName": "Middlesex",
+    "slug": "middlesex-nj",
+    "population": 13746,
+    "osmId": 170526,
+    "type": "relation"
+  },
+  {
+    "name": "Middletown Township",
+    "displayName": "Middletown",
+    "slug": "middletown-nj",
+    "population": 66807,
+    "osmId": 961377,
+    "type": "relation"
+  },
+  {
+    "name": "Midland Park",
+    "displayName": "Midland Park",
+    "slug": "midland-park-nj",
+    "population": 6906,
+    "osmId": 170647,
+    "type": "relation"
+  },
+  {
+    "name": "Milford",
+    "displayName": "Milford",
+    "slug": "milford-nj",
+    "population": 1219,
+    "osmId": 170897,
+    "type": "relation"
+  },
+  {
+    "name": "Millburn",
+    "displayName": "Millburn",
+    "slug": "millburn-nj",
+    "population": 19153,
+    "osmId": 170780,
+    "type": "relation"
+  },
+  {
+    "name": "Millstone",
+    "displayName": "Millstone",
+    "slug": "millstone-nj",
+    "population": 431,
+    "osmId": 170927,
+    "type": "relation"
+  },
+  {
+    "name": "Milltown",
+    "displayName": "Milltown",
+    "slug": "milltown-nj",
+    "population": 7038,
+    "osmId": 170530,
+    "type": "relation"
+  },
+  {
+    "name": "Millville",
+    "displayName": "Millville",
+    "slug": "millville-nj",
+    "population": 28194,
+    "osmId": 170414,
+    "type": "relation"
+  },
+  {
+    "name": "Mine Hill",
+    "displayName": "Mine Hill",
+    "slug": "mine-hill-nj",
+    "population": 3666,
+    "osmId": 6611957,
+    "type": "relation"
+  },
+  {
+    "name": "Monmouth Beach",
+    "displayName": "Monmouth Beach",
+    "slug": "monmouth-beach-nj",
+    "population": 3574,
+    "osmId": 170380,
+    "type": "relation"
+  },
+  {
+    "name": "Monroe Township",
+    "displayName": "Monroe",
+    "slug": "monroe-nj",
+    "population": 48594,
+    "osmId": 961142,
+    "type": "relation"
+  },
+  {
+    "name": "Montague Township",
+    "displayName": "Montague",
+    "slug": "montague-nj",
+    "population": 3904,
+    "osmId": 12026153,
+    "type": "relation"
+  },
+  {
+    "name": "Montclair",
+    "displayName": "Montclair",
+    "slug": "montclair-nj",
+    "population": 37669,
+    "osmId": 170783,
+    "type": "relation"
+  },
+  {
+    "name": "Montgomery Township",
+    "displayName": "Montgomery",
+    "slug": "montgomery-nj",
+    "population": 23243,
+    "osmId": 963379,
+    "type": "relation"
+  },
+  {
+    "name": "Montvale",
+    "displayName": "Montvale",
+    "slug": "montvale-nj",
+    "population": 7308,
+    "osmId": 170651,
+    "type": "relation"
+  },
+  {
+    "name": "Montville Township",
+    "displayName": "Montville",
+    "slug": "montville-nj",
+    "population": null,
+    "osmId": 6611283,
+    "type": "relation"
+  },
+  {
+    "name": "Moonachie",
+    "displayName": "Moonachie",
+    "slug": "moonachie-nj",
+    "population": 2797,
+    "osmId": 170637,
+    "type": "relation"
+  },
+  {
+    "name": "Moorestown Township",
+    "displayName": "Moorestown",
+    "slug": "moorestown-nj",
+    "population": null,
+    "osmId": 963153,
+    "type": "relation"
+  },
+  {
+    "name": "Morris Township",
+    "displayName": "Morris",
+    "slug": "morris-nj",
+    "population": null,
+    "osmId": 6603005,
+    "type": "relation"
+  },
+  {
+    "name": "Morris Plains",
+    "displayName": "Morris Plains",
+    "slug": "morris-plains-nj",
+    "population": 5601,
+    "osmId": 170936,
+    "type": "relation"
+  },
+  {
+    "name": "Morristown",
+    "displayName": "Morristown",
+    "slug": "morristown-nj",
+    "population": 19122,
+    "osmId": 170938,
+    "type": "relation"
+  },
+  {
+    "name": "Mount Arlington",
+    "displayName": "Mount Arlington",
+    "slug": "mount-arlington-nj",
+    "population": 5708,
+    "osmId": 170475,
+    "type": "relation"
+  },
+  {
+    "name": "Mount Ephraim",
+    "displayName": "Mount Ephraim",
+    "slug": "mount-ephraim-nj",
+    "population": 4437,
+    "osmId": 170672,
+    "type": "relation"
+  },
+  {
+    "name": "Mount Holly Township",
+    "displayName": "Mount Holly",
+    "slug": "mount-holly-nj",
+    "population": null,
+    "osmId": 963133,
+    "type": "relation"
+  },
+  {
+    "name": "Mount Laurel Township",
+    "displayName": "Mount Laurel",
+    "slug": "mount-laurel-nj",
+    "population": null,
+    "osmId": 963149,
+    "type": "relation"
+  },
+  {
+    "name": "Mount Olive",
+    "displayName": "Mount Olive",
+    "slug": "mount-olive-nj",
+    "population": 28886,
+    "osmId": 6611958,
+    "type": "relation"
+  },
+  {
+    "name": "Mountain Lakes",
+    "displayName": "Mountain Lakes",
+    "slug": "mountain-lakes-nj",
+    "population": 4343,
+    "osmId": 170557,
+    "type": "relation"
+  },
+  {
+    "name": "Mountainside",
+    "displayName": "Mountainside",
+    "slug": "mountainside-nj",
+    "population": 6644,
+    "osmId": 170512,
+    "type": "relation"
+  },
+  {
+    "name": "Mullica Township",
+    "displayName": "Mullica",
+    "slug": "mullica-nj",
+    "population": 6147,
+    "osmId": 7185909,
+    "type": "relation"
+  },
+  {
+    "name": "National Park",
+    "displayName": "National Park",
+    "slug": "national-park-nj",
+    "population": 3215,
+    "osmId": 12008635,
+    "type": "relation"
+  },
+  {
+    "name": "Neptune City",
+    "displayName": "Neptune",
+    "slug": "neptune-nj",
+    "population": 5150,
+    "osmId": 170379,
+    "type": "relation"
+  },
+  {
+    "name": "Netcong",
+    "displayName": "Netcong",
+    "slug": "netcong-nj",
+    "population": 3375,
+    "osmId": 170478,
+    "type": "relation"
+  },
+  {
+    "name": "New Brunswick",
+    "displayName": "New Brunswick",
+    "slug": "new-brunswick-nj",
+    "population": 50172,
+    "osmId": 170536,
+    "type": "relation"
+  },
+  {
+    "name": "New Hanover Township",
+    "displayName": "New Hanover",
+    "slug": "new-hanover-nj",
+    "population": null,
+    "osmId": 963143,
+    "type": "relation"
+  },
+  {
+    "name": "New Milford",
+    "displayName": "New Milford",
+    "slug": "new-milford-nj",
+    "population": 16243,
+    "osmId": 170653,
+    "type": "relation"
+  },
+  {
+    "name": "New Providence",
+    "displayName": "New Providence",
+    "slug": "new-providence-nj",
+    "population": 11915,
+    "osmId": 170513,
+    "type": "relation"
+  },
+  {
+    "name": "Newark",
+    "displayName": "Newark",
+    "slug": "newark-nj",
+    "population": 311549,
+    "osmId": 170486,
+    "type": "relation"
+  },
+  {
+    "name": "Newfield",
+    "displayName": "Newfield",
+    "slug": "newfield-nj",
+    "population": 1664,
+    "osmId": 170409,
+    "type": "relation"
+  },
+  {
+    "name": "Newton",
+    "displayName": "Newton",
+    "slug": "newton-nj",
+    "population": 8337,
+    "osmId": 170931,
+    "type": "relation"
+  },
+  {
+    "name": "North Arlington",
+    "displayName": "North Arlington",
+    "slug": "north-arlington-nj",
+    "population": 15077,
+    "osmId": 170656,
+    "type": "relation"
+  },
+  {
+    "name": "North Bergen",
+    "displayName": "North Bergen",
+    "slug": "north-bergen-nj",
+    "population": 61627,
+    "osmId": 957237,
+    "type": "relation"
+  },
+  {
+    "name": "North Brunswick Township",
+    "displayName": "North Brunswick",
+    "slug": "north-brunswick-nj",
+    "population": null,
+    "osmId": 170534,
+    "type": "relation"
+  },
+  {
+    "name": "North Caldwell",
+    "displayName": "North Caldwell",
+    "slug": "north-caldwell-nj",
+    "population": 7207,
+    "osmId": 170485,
+    "type": "relation"
+  },
+  {
+    "name": "North Haledon",
+    "displayName": "North Haledon",
+    "slug": "north-haledon-nj",
+    "population": 9039,
+    "osmId": 170723,
+    "type": "relation"
+  },
+  {
+    "name": "North Hanover Township",
+    "displayName": "North Hanover",
+    "slug": "north-hanover-nj",
+    "population": 7963,
+    "osmId": 963123,
+    "type": "relation"
+  },
+  {
+    "name": "North Plainfield",
+    "displayName": "North Plainfield",
+    "slug": "north-plainfield-nj",
+    "population": 21738,
+    "osmId": 170468,
+    "type": "relation"
+  },
+  {
+    "name": "North Wildwood",
+    "displayName": "North Wildwood",
+    "slug": "north-wildwood-nj",
+    "population": 4803,
+    "osmId": 170427,
+    "type": "relation"
+  },
+  {
+    "name": "Northfield",
+    "displayName": "Northfield",
+    "slug": "northfield-nj",
+    "population": 8003,
+    "osmId": 170343,
+    "type": "relation"
+  },
+  {
+    "name": "Northvale",
+    "displayName": "Northvale",
+    "slug": "northvale-nj",
+    "population": 4562,
+    "osmId": 170660,
+    "type": "relation"
+  },
+  {
+    "name": "Norwood",
+    "displayName": "Norwood",
+    "slug": "norwood-nj",
+    "population": 6267,
+    "osmId": 170657,
+    "type": "relation"
+  },
+  {
+    "name": "Nutley",
+    "displayName": "Nutley",
+    "slug": "nutley-nj",
+    "population": 27011,
+    "osmId": 170772,
+    "type": "relation"
+  },
+  {
+    "name": "Oakland",
+    "displayName": "Oakland",
+    "slug": "oakland-nj",
+    "population": 13558,
+    "osmId": 170661,
+    "type": "relation"
+  },
+  {
+    "name": "Oaklyn",
+    "displayName": "Oaklyn",
+    "slug": "oaklyn-nj",
+    "population": 4080,
+    "osmId": 170688,
+    "type": "relation"
+  },
+  {
+    "name": "Ocean City",
+    "displayName": "Ocean",
+    "slug": "ocean-nj",
+    "population": 15124,
+    "osmId": 170430,
+    "type": "relation"
+  },
+  {
+    "name": "Ocean Gate",
+    "displayName": "Ocean Gate",
+    "slug": "ocean-gate-nj",
+    "population": 1932,
+    "osmId": 170882,
+    "type": "relation"
+  },
+  {
+    "name": "Oceanport",
+    "displayName": "Oceanport",
+    "slug": "oceanport-nj",
+    "population": 5751,
+    "osmId": 170378,
+    "type": "relation"
+  },
+  {
+    "name": "Ogdensburg",
+    "displayName": "Ogdensburg",
+    "slug": "ogdensburg-nj",
+    "population": 2623,
+    "osmId": 170470,
+    "type": "relation"
+  },
+  {
+    "name": "Old Bridge Township",
+    "displayName": "Old Bridge",
+    "slug": "old-bridge-nj",
+    "population": 65661,
+    "osmId": 961155,
+    "type": "relation"
+  },
+  {
+    "name": "Old Tappan",
+    "displayName": "Old Tappan",
+    "slug": "old-tappan-nj",
+    "population": 6013,
+    "osmId": 170658,
+    "type": "relation"
+  },
+  {
+    "name": "Oldmans Township",
+    "displayName": "Oldmans",
+    "slug": "oldmans-nj",
+    "population": 1827,
+    "osmId": 11999016,
+    "type": "relation"
+  },
+  {
+    "name": "Oradell",
+    "displayName": "Oradell",
+    "slug": "oradell-nj",
+    "population": 7957,
+    "osmId": 170655,
+    "type": "relation"
+  },
+  {
+    "name": "Orange",
+    "displayName": "Orange",
+    "slug": "orange-nj",
+    "population": 30134,
+    "osmId": 170785,
+    "type": "relation"
+  },
+  {
+    "name": "Oxford Township",
+    "displayName": "Oxford",
+    "slug": "oxford-nj",
+    "population": null,
+    "osmId": 12022256,
+    "type": "relation"
+  },
+  {
+    "name": "Palisades Park",
+    "displayName": "Palisades Park",
+    "slug": "palisades-park-nj",
+    "population": 19306,
+    "osmId": 170633,
+    "type": "relation"
+  },
+  {
+    "name": "Palmyra",
+    "displayName": "Palmyra",
+    "slug": "palmyra-nj",
+    "population": 7598,
+    "osmId": 170455,
+    "type": "relation"
+  },
+  {
+    "name": "Paramus",
+    "displayName": "Paramus",
+    "slug": "paramus-nj",
+    "population": 26880,
+    "osmId": 170623,
+    "type": "relation"
+  },
+  {
+    "name": "Park Ridge",
+    "displayName": "Park Ridge",
+    "slug": "park-ridge-nj",
+    "population": 8945,
+    "osmId": 170650,
+    "type": "relation"
+  },
+  {
+    "name": "Parsippany-Troy Hills",
+    "displayName": "Parsippany-Troy Hills",
+    "slug": "parsippany-troy-hills-nj",
+    "population": 53238,
+    "osmId": 6611284,
+    "type": "relation"
+  },
+  {
+    "name": "Passaic",
+    "displayName": "Passaic",
+    "slug": "passaic-nj",
+    "population": 67974,
+    "osmId": 170671,
+    "type": "relation"
+  },
+  {
+    "name": "Paterson",
+    "displayName": "Paterson",
+    "slug": "paterson-nj",
+    "population": 147000,
+    "osmId": 170726,
+    "type": "relation"
+  },
+  {
+    "name": "Paulsboro",
+    "displayName": "Paulsboro",
+    "slug": "paulsboro-nj",
+    "population": 6062,
+    "osmId": 170499,
+    "type": "relation"
+  },
+  {
+    "name": "Peapack-Gladstone",
+    "displayName": "Peapack-Gladstone",
+    "slug": "peapack-gladstone-nj",
+    "population": null,
+    "osmId": 170461,
+    "type": "relation"
+  },
+  {
+    "name": "Pemberton",
+    "displayName": "Pemberton",
+    "slug": "pemberton-nj",
+    "population": 1381,
+    "osmId": 170450,
+    "type": "relation"
+  },
+  {
+    "name": "Pennington",
+    "displayName": "Pennington",
+    "slug": "pennington-nj",
+    "population": 2688,
+    "osmId": 170951,
+    "type": "relation"
+  },
+  {
+    "name": "Penns Grove",
+    "displayName": "Penns Grove",
+    "slug": "penns-grove-nj",
+    "population": 4797,
+    "osmId": 170578,
+    "type": "relation"
+  },
+  {
+    "name": "Pennsauken Township",
+    "displayName": "Pennsauken",
+    "slug": "pennsauken-nj",
+    "population": 35443,
+    "osmId": 170700,
+    "type": "relation"
+  },
+  {
+    "name": "Pennsville Township",
+    "displayName": "Pennsville",
+    "slug": "pennsville-nj",
+    "population": null,
+    "osmId": 11998850,
+    "type": "relation"
+  },
+  {
+    "name": "Pequannock Township",
+    "displayName": "Pequannock",
+    "slug": "pequannock-nj",
+    "population": 16320,
+    "osmId": 6599472,
+    "type": "relation"
+  },
+  {
+    "name": "Perth Amboy",
+    "displayName": "Perth Amboy",
+    "slug": "perth-amboy-nj",
+    "population": 48607,
+    "osmId": 170538,
+    "type": "relation"
+  },
+  {
+    "name": "Phillipsburg",
+    "displayName": "Phillipsburg",
+    "slug": "phillipsburg-nj",
+    "population": 14831,
+    "osmId": 170917,
+    "type": "relation"
+  },
+  {
+    "name": "Pilesgrove Township",
+    "displayName": "Pilesgrove",
+    "slug": "pilesgrove-nj",
+    "population": null,
+    "osmId": 11999036,
+    "type": "relation"
+  },
+  {
+    "name": "Pine Beach",
+    "displayName": "Pine Beach",
+    "slug": "pine-beach-nj",
+    "population": 2361,
+    "osmId": 170314,
+    "type": "relation"
+  },
+  {
+    "name": "Pine Hill",
+    "displayName": "Pine Hill",
+    "slug": "pine-hill-nj",
+    "population": 11275,
+    "osmId": 170687,
+    "type": "relation"
+  },
+  {
+    "name": "Piscataway Township",
+    "displayName": "Piscataway",
+    "slug": "piscataway-nj",
+    "population": null,
+    "osmId": 961154,
+    "type": "relation"
+  },
+  {
+    "name": "Pitman",
+    "displayName": "Pitman",
+    "slug": "pitman-nj",
+    "population": 9199,
+    "osmId": 170495,
+    "type": "relation"
+  },
+  {
+    "name": "Pittsgrove Township",
+    "displayName": "Pittsgrove",
+    "slug": "pittsgrove-nj",
+    "population": null,
+    "osmId": 11998650,
+    "type": "relation"
+  },
+  {
+    "name": "Plainfield",
+    "displayName": "Plainfield",
+    "slug": "plainfield-nj",
+    "population": 47353,
+    "osmId": 170502,
+    "type": "relation"
+  },
+  {
+    "name": "Plainsboro Township",
+    "displayName": "Plainsboro",
+    "slug": "plainsboro-nj",
+    "population": 21213,
+    "osmId": 961156,
+    "type": "relation"
+  },
+  {
+    "name": "Pleasantville",
+    "displayName": "Pleasantville",
+    "slug": "pleasantville-nj",
+    "population": 18982,
+    "osmId": 170344,
+    "type": "relation"
+  },
+  {
+    "name": "Plumsted Township",
+    "displayName": "Plumsted",
+    "slug": "plumsted-nj",
+    "population": 8421,
+    "osmId": 962538,
+    "type": "relation"
+  },
+  {
+    "name": "Pohatcong Township",
+    "displayName": "Pohatcong",
+    "slug": "pohatcong-nj",
+    "population": null,
+    "osmId": 11003906,
+    "type": "relation"
+  },
+  {
+    "name": "Point Pleasant",
+    "displayName": "Point Pleasant",
+    "slug": "point-pleasant-nj",
+    "population": 18686,
+    "osmId": 170310,
+    "type": "relation"
+  },
+  {
+    "name": "Point Pleasant Beach",
+    "displayName": "Point Pleasant Beach",
+    "slug": "point-pleasant-beach-nj",
+    "population": 4548,
+    "osmId": 170311,
+    "type": "relation"
+  },
+  {
+    "name": "Pompton Lakes",
+    "displayName": "Pompton Lakes",
+    "slug": "pompton-lakes-nj",
+    "population": 11243,
+    "osmId": 170662,
+    "type": "relation"
+  },
+  {
+    "name": "Port Republic",
+    "displayName": "Port Republic",
+    "slug": "port-republic-nj",
+    "population": 1234,
+    "osmId": 170888,
+    "type": "relation"
+  },
+  {
+    "name": "Princeton",
+    "displayName": "Princeton",
+    "slug": "princeton-nj",
+    "population": 13684,
+    "osmId": 961744,
+    "type": "relation"
+  },
+  {
+    "name": "Prospect Park",
+    "displayName": "Prospect Park",
+    "slug": "prospect-park-nj",
+    "population": 5720,
+    "osmId": 170725,
+    "type": "relation"
+  },
+  {
+    "name": "Quinton Township",
+    "displayName": "Quinton",
+    "slug": "quinton-nj",
+    "population": null,
+    "osmId": 11998814,
+    "type": "relation"
+  },
+  {
+    "name": "Rahway",
+    "displayName": "Rahway",
+    "slug": "rahway-nj",
+    "population": 27843,
+    "osmId": 170515,
+    "type": "relation"
+  },
+  {
+    "name": "Ramsey",
+    "displayName": "Ramsey",
+    "slug": "ramsey-nj",
+    "population": 14775,
+    "osmId": 170665,
+    "type": "relation"
+  },
+  {
+    "name": "Randolph Township",
+    "displayName": "Randolph",
+    "slug": "randolph-nj",
+    "population": null,
+    "osmId": 6612300,
+    "type": "relation"
+  },
+  {
+    "name": "Raritan",
+    "displayName": "Raritan",
+    "slug": "raritan-nj",
+    "population": 6427,
+    "osmId": 170844,
+    "type": "relation"
+  },
+  {
+    "name": "Readington Township",
+    "displayName": "Readington",
+    "slug": "readington-nj",
+    "population": 16128,
+    "osmId": 964657,
+    "type": "relation"
+  },
+  {
+    "name": "Red Bank",
+    "displayName": "Red Bank",
+    "slug": "red-bank-nj",
+    "population": 11850,
+    "osmId": 170376,
+    "type": "relation"
+  },
+  {
+    "name": "Ridgefield",
+    "displayName": "Ridgefield",
+    "slug": "ridgefield-nj",
+    "population": 10996,
+    "osmId": 170636,
+    "type": "relation"
+  },
+  {
+    "name": "Ridgefield Park",
+    "displayName": "Ridgefield Park",
+    "slug": "ridgefield-park-nj",
+    "population": 12665,
+    "osmId": 170635,
+    "type": "relation"
+  },
+  {
+    "name": "Ringwood",
+    "displayName": "Ringwood",
+    "slug": "ringwood-nj",
+    "population": 12814,
+    "osmId": 170719,
+    "type": "relation"
+  },
+  {
+    "name": "River Edge",
+    "displayName": "River Edge",
+    "slug": "river-edge-nj",
+    "population": 10862,
+    "osmId": 170654,
+    "type": "relation"
+  },
+  {
+    "name": "River Vale",
+    "displayName": "River Vale",
+    "slug": "river-vale-nj",
+    "population": 9751,
+    "osmId": 170649,
+    "type": "relation"
+  },
+  {
+    "name": "Riverdale",
+    "displayName": "Riverdale",
+    "slug": "riverdale-nj",
+    "population": 2676,
+    "osmId": 170558,
+    "type": "relation"
+  },
+  {
+    "name": "Riverside Township",
+    "displayName": "Riverside",
+    "slug": "riverside-nj",
+    "population": null,
+    "osmId": 963148,
+    "type": "relation"
+  },
+  {
+    "name": "Riverton",
+    "displayName": "Riverton",
+    "slug": "riverton-nj",
+    "population": 2715,
+    "osmId": 170449,
+    "type": "relation"
+  },
+  {
+    "name": "Robbinsville Township",
+    "displayName": "Robbinsville",
+    "slug": "robbinsville-nj",
+    "population": 15476,
+    "osmId": 961741,
+    "type": "relation"
+  },
+  {
+    "name": "Rochelle Park",
+    "displayName": "Rochelle Park",
+    "slug": "rochelle-park-nj",
+    "population": 6027,
+    "osmId": 170644,
+    "type": "relation"
+  },
+  {
+    "name": "Rockaway",
+    "displayName": "Rockaway",
+    "slug": "rockaway-nj",
+    "population": 6410,
+    "osmId": 170550,
+    "type": "relation"
+  },
+  {
+    "name": "Rockleigh",
+    "displayName": "Rockleigh",
+    "slug": "rockleigh-nj",
+    "population": 393,
+    "osmId": 170659,
+    "type": "relation"
+  },
+  {
+    "name": "Rocky Hill",
+    "displayName": "Rocky Hill",
+    "slug": "rocky-hill-nj",
+    "population": 678,
+    "osmId": 170928,
+    "type": "relation"
+  },
+  {
+    "name": "Roosevelt",
+    "displayName": "Roosevelt",
+    "slug": "roosevelt-nj",
+    "population": 913,
+    "osmId": 170901,
+    "type": "relation"
+  },
+  {
+    "name": "Roseland",
+    "displayName": "Roseland",
+    "slug": "roseland-nj",
+    "population": 5400,
+    "osmId": 170481,
+    "type": "relation"
+  },
+  {
+    "name": "Roselle",
+    "displayName": "Roselle",
+    "slug": "roselle-nj",
+    "population": 21158,
+    "osmId": 170511,
+    "type": "relation"
+  },
+  {
+    "name": "Roselle Park",
+    "displayName": "Roselle Park",
+    "slug": "roselle-park-nj",
+    "population": 13124,
+    "osmId": 170507,
+    "type": "relation"
+  },
+  {
+    "name": "Roxbury Township",
+    "displayName": "Roxbury",
+    "slug": "roxbury-nj",
+    "population": 22950,
+    "osmId": 6611959,
+    "type": "relation"
+  },
+  {
+    "name": "Rumson",
+    "displayName": "Rumson",
+    "slug": "rumson-nj",
+    "population": 7194,
+    "osmId": 170374,
+    "type": "relation"
+  },
+  {
+    "name": "Runnemede",
+    "displayName": "Runnemede",
+    "slug": "runnemede-nj",
+    "population": 8461,
+    "osmId": 170702,
+    "type": "relation"
+  },
+  {
+    "name": "Rutherford",
+    "displayName": "Rutherford",
+    "slug": "rutherford-nj",
+    "population": 17871,
+    "osmId": 170670,
+    "type": "relation"
+  },
+  {
+    "name": "Saddle Brook",
+    "displayName": "Saddle Brook",
+    "slug": "saddle-brook-nj",
+    "population": 13625,
+    "osmId": 170642,
+    "type": "relation"
+  },
+  {
+    "name": "Saddle River",
+    "displayName": "Saddle River",
+    "slug": "saddle-river-nj",
+    "population": 3786,
+    "osmId": 170668,
+    "type": "relation"
+  },
+  {
+    "name": "Salem",
+    "displayName": "Salem",
+    "slug": "salem-nj",
+    "population": 5784,
+    "osmId": 170946,
+    "type": "relation"
+  },
+  {
+    "name": "Sandyston Township",
+    "displayName": "Sandyston",
+    "slug": "sandyston-nj",
+    "population": null,
+    "osmId": 12026149,
+    "type": "relation"
+  },
+  {
+    "name": "Sayreville",
+    "displayName": "Sayreville",
+    "slug": "sayreville-nj",
+    "population": 42560,
+    "osmId": 170543,
+    "type": "relation"
+  },
+  {
+    "name": "Scotch Plains",
+    "displayName": "Scotch Plains",
+    "slug": "scotch-plains-nj",
+    "population": 23246,
+    "osmId": 170523,
+    "type": "relation"
+  },
+  {
+    "name": "Sea Bright",
+    "displayName": "Sea Bright",
+    "slug": "sea-bright-nj",
+    "population": 1799,
+    "osmId": 170373,
+    "type": "relation"
+  },
+  {
+    "name": "Sea Girt",
+    "displayName": "Sea Girt",
+    "slug": "sea-girt-nj",
+    "population": 1725,
+    "osmId": 170371,
+    "type": "relation"
+  },
+  {
+    "name": "Sea Isle City",
+    "displayName": "Sea Isle",
+    "slug": "sea-isle-nj",
+    "population": 2104,
+    "osmId": 170429,
+    "type": "relation"
+  },
+  {
+    "name": "Seaside Heights",
+    "displayName": "Seaside Heights",
+    "slug": "seaside-heights-nj",
+    "population": 2440,
+    "osmId": 170308,
+    "type": "relation"
+  },
+  {
+    "name": "Seaside Park",
+    "displayName": "Seaside Park",
+    "slug": "seaside-park-nj",
+    "population": 1436,
+    "osmId": 170307,
+    "type": "relation"
+  },
+  {
+    "name": "Secaucus",
+    "displayName": "Secaucus",
+    "slug": "secaucus-nj",
+    "population": 15562,
+    "osmId": 170711,
+    "type": "relation"
+  },
+  {
+    "name": "Shamong Township",
+    "displayName": "Shamong",
+    "slug": "shamong-nj",
+    "population": null,
+    "osmId": 963131,
+    "type": "relation"
+  },
+  {
+    "name": "Shiloh",
+    "displayName": "Shiloh",
+    "slug": "shiloh-nj",
+    "population": 650,
+    "osmId": 170906,
+    "type": "relation"
+  },
+  {
+    "name": "Ship Bottom",
+    "displayName": "Ship Bottom",
+    "slug": "ship-bottom-nj",
+    "population": 1156,
+    "osmId": 170306,
+    "type": "relation"
+  },
+  {
+    "name": "Shrewsbury",
+    "displayName": "Shrewsbury",
+    "slug": "shrewsbury-nj",
+    "population": 3717,
+    "osmId": 170370,
+    "type": "relation"
+  },
+  {
+    "name": "Somerdale",
+    "displayName": "Somerdale",
+    "slug": "somerdale-nj",
+    "population": 5123,
+    "osmId": 170698,
+    "type": "relation"
+  },
+  {
+    "name": "Somers Point",
+    "displayName": "Somers Point",
+    "slug": "somers-point-nj",
+    "population": 11573,
+    "osmId": 170345,
+    "type": "relation"
+  },
+  {
+    "name": "Somerville",
+    "displayName": "Somerville",
+    "slug": "somerville-nj",
+    "population": 12550,
+    "osmId": 170843,
+    "type": "relation"
+  },
+  {
+    "name": "South Amboy",
+    "displayName": "South Amboy",
+    "slug": "south-amboy-nj",
+    "population": 9810,
+    "osmId": 170537,
+    "type": "relation"
+  },
+  {
+    "name": "South Bound Brook",
+    "displayName": "South Bound Brook",
+    "slug": "south-bound-brook-nj",
+    "population": 4524,
+    "osmId": 170465,
+    "type": "relation"
+  },
+  {
+    "name": "South Brunswick",
+    "displayName": "South Brunswick",
+    "slug": "south-brunswick-nj",
+    "population": 47043,
+    "osmId": 961157,
+    "type": "relation"
+  },
+  {
+    "name": "South Hackensack",
+    "displayName": "South Hackensack",
+    "slug": "south-hackensack-nj",
+    "population": 2313,
+    "osmId": 959089,
+    "type": "relation"
+  },
+  {
+    "name": "South Harrison Township",
+    "displayName": "South Harrison",
+    "slug": "south-harrison-nj",
+    "population": null,
+    "osmId": 12006422,
+    "type": "relation"
+  },
+  {
+    "name": "South Orange",
+    "displayName": "South Orange",
+    "slug": "south-orange-nj",
+    "population": null,
+    "osmId": 170782,
+    "type": "relation"
+  },
+  {
+    "name": "South Plainfield",
+    "displayName": "South Plainfield",
+    "slug": "south-plainfield-nj",
+    "population": 22795,
+    "osmId": 170547,
+    "type": "relation"
+  },
+  {
+    "name": "South River",
+    "displayName": "South River",
+    "slug": "south-river-nj",
+    "population": 15822,
+    "osmId": 170540,
+    "type": "relation"
+  },
+  {
+    "name": "South Toms River",
+    "displayName": "South Toms River",
+    "slug": "south-toms-river-nj",
+    "population": 3643,
+    "osmId": 170305,
+    "type": "relation"
+  },
+  {
+    "name": "Southampton Township",
+    "displayName": "Southampton",
+    "slug": "southampton-nj",
+    "population": 10317,
+    "osmId": 963132,
+    "type": "relation"
+  },
+  {
+    "name": "Sparta Township",
+    "displayName": "Sparta",
+    "slug": "sparta-nj",
+    "population": 19348,
+    "osmId": 12022550,
+    "type": "relation"
+  },
+  {
+    "name": "Spotswood",
+    "displayName": "Spotswood",
+    "slug": "spotswood-nj",
+    "population": 8179,
+    "osmId": 170548,
+    "type": "relation"
+  },
+  {
+    "name": "Spring Lake",
+    "displayName": "Spring Lake",
+    "slug": "spring-lake-nj",
+    "population": 3475,
+    "osmId": 170367,
+    "type": "relation"
+  },
+  {
+    "name": "Spring Lake Heights",
+    "displayName": "Spring Lake Heights",
+    "slug": "spring-lake-heights-nj",
+    "population": 5106,
+    "osmId": 170365,
+    "type": "relation"
+  },
+  {
+    "name": "Springfield",
+    "displayName": "Springfield",
+    "slug": "springfield-nj",
+    "population": null,
+    "osmId": 170520,
+    "type": "relation"
+  },
+  {
+    "name": "Stafford Township",
+    "displayName": "Stafford",
+    "slug": "stafford-nj",
+    "population": 26535,
+    "osmId": 962552,
+    "type": "relation"
+  },
+  {
+    "name": "Stanhope",
+    "displayName": "Stanhope",
+    "slug": "stanhope-nj",
+    "population": 3666,
+    "osmId": 170479,
+    "type": "relation"
+  },
+  {
+    "name": "Stillwater Township",
+    "displayName": "Stillwater",
+    "slug": "stillwater-nj",
+    "population": null,
+    "osmId": 11610473,
+    "type": "relation"
+  },
+  {
+    "name": "Stockton",
+    "displayName": "Stockton",
+    "slug": "stockton-nj",
+    "population": 555,
+    "osmId": 170898,
+    "type": "relation"
+  },
+  {
+    "name": "Stone Harbor",
+    "displayName": "Stone Harbor",
+    "slug": "stone-harbor-nj",
+    "population": 1039,
+    "osmId": 170426,
+    "type": "relation"
+  },
+  {
+    "name": "Stow Creek Township",
+    "displayName": "Stow Creek",
+    "slug": "stow-creek-nj",
+    "population": null,
+    "osmId": 11995639,
+    "type": "relation"
+  },
+  {
+    "name": "Stratford",
+    "displayName": "Stratford",
+    "slug": "stratford-nj",
+    "population": 7122,
+    "osmId": 170695,
+    "type": "relation"
+  },
+  {
+    "name": "Summit",
+    "displayName": "Summit",
+    "slug": "summit-nj",
+    "population": 21103,
+    "osmId": 170521,
+    "type": "relation"
+  },
+  {
+    "name": "Surf City",
+    "displayName": "Surf",
+    "slug": "surf-nj",
+    "population": 1542,
+    "osmId": 170303,
+    "type": "relation"
+  },
+  {
+    "name": "Sussex",
+    "displayName": "Sussex",
+    "slug": "sussex-nj",
+    "population": 2170,
+    "osmId": 170932,
+    "type": "relation"
+  },
+  {
+    "name": "Swedesboro",
+    "displayName": "Swedesboro",
+    "slug": "swedesboro-nj",
+    "population": 2043,
+    "osmId": 170933,
+    "type": "relation"
+  },
+  {
+    "name": "Tabernacle Township",
+    "displayName": "Tabernacle",
+    "slug": "tabernacle-nj",
+    "population": 7337,
+    "osmId": 963146,
+    "type": "relation"
+  },
+  {
+    "name": "Tavistock",
+    "displayName": "Tavistock",
+    "slug": "tavistock-nj",
+    "population": 26,
+    "osmId": 170678,
+    "type": "relation"
+  },
+  {
+    "name": "Teaneck Township",
+    "displayName": "Teaneck",
+    "slug": "teaneck-nj",
+    "population": null,
+    "osmId": 170625,
+    "type": "relation"
+  },
+  {
+    "name": "Tenafly",
+    "displayName": "Tenafly",
+    "slug": "tenafly-nj",
+    "population": 14390,
+    "osmId": 170612,
+    "type": "relation"
+  },
+  {
+    "name": "Teterboro",
+    "displayName": "Teterboro",
+    "slug": "teterboro-nj",
+    "population": 18,
+    "osmId": 170639,
+    "type": "relation"
+  },
+  {
+    "name": "Tewksbury Township",
+    "displayName": "Tewksbury",
+    "slug": "tewksbury-nj",
+    "population": null,
+    "osmId": 964659,
+    "type": "relation"
+  },
+  {
+    "name": "Tinton Falls",
+    "displayName": "Tinton Falls",
+    "slug": "tinton-falls-nj",
+    "population": 17082,
+    "osmId": 170840,
+    "type": "relation"
+  },
+  {
+    "name": "Toms River",
+    "displayName": "Toms River",
+    "slug": "toms-river-nj",
+    "population": 95438,
+    "osmId": 962551,
+    "type": "relation"
+  },
+  {
+    "name": "Totowa",
+    "displayName": "Totowa",
+    "slug": "totowa-nj",
+    "population": 10634,
+    "osmId": 170718,
+    "type": "relation"
+  },
+  {
+    "name": "Township of Washington",
+    "displayName": "Township of Washington",
+    "slug": "township-of-washington-nj",
+    "population": 10304,
+    "osmId": 170632,
+    "type": "relation"
+  },
+  {
+    "name": "Trenton",
+    "displayName": "Trenton",
+    "slug": "trenton-nj",
+    "population": 90871,
+    "osmId": 170584,
+    "type": "relation"
+  },
+  {
+    "name": "Tuckerton",
+    "displayName": "Tuckerton",
+    "slug": "tuckerton-nj",
+    "population": 3577,
+    "osmId": 170881,
+    "type": "relation"
+  },
+  {
+    "name": "Union City",
+    "displayName": "Union",
+    "slug": "union-nj",
+    "population": 63930,
+    "osmId": 170709,
+    "type": "relation"
+  },
+  {
+    "name": "Union Beach",
+    "displayName": "Union Beach",
+    "slug": "union-beach-nj",
+    "population": 6631,
+    "osmId": 170357,
+    "type": "relation"
+  },
+  {
+    "name": "Upper Township",
+    "displayName": "Upper",
+    "slug": "upper-nj",
+    "population": 12373,
+    "osmId": 4661478,
+    "type": "relation"
+  },
+  {
+    "name": "Upper Deerfield Township",
+    "displayName": "Upper Deerfield",
+    "slug": "upper-deerfield-nj",
+    "population": null,
+    "osmId": 11995918,
+    "type": "relation"
+  },
+  {
+    "name": "Upper Freehold Township",
+    "displayName": "Upper Freehold",
+    "slug": "upper-freehold-nj",
+    "population": 6902,
+    "osmId": 961388,
+    "type": "relation"
+  },
+  {
+    "name": "Upper Pittsgrove Township",
+    "displayName": "Upper Pittsgrove",
+    "slug": "upper-pittsgrove-nj",
+    "population": null,
+    "osmId": 11998670,
+    "type": "relation"
+  },
+  {
+    "name": "Upper Saddle River",
+    "displayName": "Upper Saddle River",
+    "slug": "upper-saddle-river-nj",
+    "population": 8531,
+    "osmId": 170667,
+    "type": "relation"
+  },
+  {
+    "name": "Ventnor City",
+    "displayName": "Ventnor",
+    "slug": "ventnor-nj",
+    "population": 12564,
+    "osmId": 170342,
+    "type": "relation"
+  },
+  {
+    "name": "Vernon Township",
+    "displayName": "Vernon",
+    "slug": "vernon-nj",
+    "population": 25453,
+    "osmId": 11273377,
+    "type": "relation"
+  },
+  {
+    "name": "Verona",
+    "displayName": "Verona",
+    "slug": "verona-nj",
+    "population": 12937,
+    "osmId": 170775,
+    "type": "relation"
+  },
+  {
+    "name": "Victory Gardens",
+    "displayName": "Victory Gardens",
+    "slug": "victory-gardens-nj",
+    "population": 1523,
+    "osmId": 170552,
+    "type": "relation"
+  },
+  {
+    "name": "Vineland",
+    "displayName": "Vineland",
+    "slug": "vineland-nj",
+    "population": 60724,
+    "osmId": 170410,
+    "type": "relation"
+  },
+  {
+    "name": "Voorhees Township",
+    "displayName": "Voorhees",
+    "slug": "voorhees-nj",
+    "population": 29131,
+    "osmId": 962881,
+    "type": "relation"
+  },
+  {
+    "name": "Waldwick",
+    "displayName": "Waldwick",
+    "slug": "waldwick-nj",
+    "population": 10207,
+    "osmId": 170648,
+    "type": "relation"
+  },
+  {
+    "name": "Wall Township",
+    "displayName": "Wall",
+    "slug": "wall-nj",
+    "population": 26164,
+    "osmId": 961382,
+    "type": "relation"
+  },
+  {
+    "name": "Wallington",
+    "displayName": "Wallington",
+    "slug": "wallington-nj",
+    "population": 11430,
+    "osmId": 170620,
+    "type": "relation"
+  },
+  {
+    "name": "Walpack Township",
+    "displayName": "Walpack",
+    "slug": "walpack-nj",
+    "population": null,
+    "osmId": 11383919,
+    "type": "relation"
+  },
+  {
+    "name": "Wanaque",
+    "displayName": "Wanaque",
+    "slug": "wanaque-nj",
+    "population": 11171,
+    "osmId": 170715,
+    "type": "relation"
+  },
+  {
+    "name": "Wantage",
+    "displayName": "Wantage",
+    "slug": "wantage-nj",
+    "population": null,
+    "osmId": 12026253,
+    "type": "relation"
+  },
+  {
+    "name": "Warren Township",
+    "displayName": "Warren",
+    "slug": "warren-nj",
+    "population": null,
+    "osmId": 963376,
+    "type": "relation"
+  },
+  {
+    "name": "Washington",
+    "displayName": "Washington",
+    "slug": "washington-nj",
+    "population": 6841,
+    "osmId": 170438,
+    "type": "relation"
+  },
+  {
+    "name": "Watchung",
+    "displayName": "Watchung",
+    "slug": "watchung-nj",
+    "population": 6284,
+    "osmId": 170469,
+    "type": "relation"
+  },
+  {
+    "name": "Waterford Township",
+    "displayName": "Waterford",
+    "slug": "waterford-nj",
+    "population": null,
+    "osmId": 962877,
+    "type": "relation"
+  },
+  {
+    "name": "Wayne",
+    "displayName": "Wayne",
+    "slug": "wayne-nj",
+    "population": 54849,
+    "osmId": 170717,
+    "type": "relation"
+  },
+  {
+    "name": "Weehawken",
+    "displayName": "Weehawken",
+    "slug": "weehawken-nj",
+    "population": 12649,
+    "osmId": 957238,
+    "type": "relation"
+  },
+  {
+    "name": "Wenonah",
+    "displayName": "Wenonah",
+    "slug": "wenonah-nj",
+    "population": 2333,
+    "osmId": 170494,
+    "type": "relation"
+  },
+  {
+    "name": "West Amwell Township",
+    "displayName": "West Amwell",
+    "slug": "west-amwell-nj",
+    "population": 3840,
+    "osmId": 964656,
+    "type": "relation"
+  },
+  {
+    "name": "West Caldwell",
+    "displayName": "West Caldwell",
+    "slug": "west-caldwell-nj",
+    "population": 10797,
+    "osmId": 170484,
+    "type": "relation"
+  },
+  {
+    "name": "West Cape May",
+    "displayName": "West Cape May",
+    "slug": "west-cape-may-nj",
+    "population": 1007,
+    "osmId": 170421,
+    "type": "relation"
+  },
+  {
+    "name": "West Deptford Township",
+    "displayName": "West Deptford",
+    "slug": "west-deptford-nj",
+    "population": 22197,
+    "osmId": 12008554,
+    "type": "relation"
+  },
+  {
+    "name": "West Long Branch",
+    "displayName": "West Long Branch",
+    "slug": "west-long-branch-nj",
+    "population": 8312,
+    "osmId": 170354,
+    "type": "relation"
+  },
+  {
+    "name": "West Milford",
+    "displayName": "West Milford",
+    "slug": "west-milford-nj",
+    "population": 28144,
+    "osmId": 170721,
+    "type": "relation"
+  },
+  {
+    "name": "West New York",
+    "displayName": "West New York",
+    "slug": "west-new-york-nj",
+    "population": 49708,
+    "osmId": 170706,
+    "type": "relation"
+  },
+  {
+    "name": "West Orange",
+    "displayName": "West Orange",
+    "slug": "west-orange-nj",
+    "population": 43536,
+    "osmId": 170784,
+    "type": "relation"
+  },
+  {
+    "name": "West Wildwood",
+    "displayName": "West Wildwood",
+    "slug": "west-wildwood-nj",
+    "population": 408,
+    "osmId": 170418,
+    "type": "relation"
+  },
+  {
+    "name": "West Windsor",
+    "displayName": "West Windsor",
+    "slug": "west-windsor-nj",
+    "population": 27165,
+    "osmId": 961742,
+    "type": "relation"
+  },
+  {
+    "name": "Westampton Township",
+    "displayName": "Westampton",
+    "slug": "westampton-nj",
+    "population": null,
+    "osmId": 11998607,
+    "type": "relation"
+  },
+  {
+    "name": "Westfield",
+    "displayName": "Westfield",
+    "slug": "westfield-nj",
+    "population": 29944,
+    "osmId": 170522,
+    "type": "relation"
+  },
+  {
+    "name": "Westville",
+    "displayName": "Westville",
+    "slug": "westville-nj",
+    "population": 4458,
+    "osmId": 170492,
+    "type": "relation"
+  },
+  {
+    "name": "Westwood",
+    "displayName": "Westwood",
+    "slug": "westwood-nj",
+    "population": 10934,
+    "osmId": 170629,
+    "type": "relation"
+  },
+  {
+    "name": "Weymouth Township",
+    "displayName": "Weymouth",
+    "slug": "weymouth-nj",
+    "population": 2715,
+    "osmId": 7183180,
+    "type": "relation"
+  },
+  {
+    "name": "Wharton",
+    "displayName": "Wharton",
+    "slug": "wharton-nj",
+    "population": 6211,
+    "osmId": 170554,
+    "type": "relation"
+  },
+  {
+    "name": "White Township",
+    "displayName": "White",
+    "slug": "white-nj",
+    "population": null,
+    "osmId": 12022249,
+    "type": "relation"
+  },
+  {
+    "name": "Wildwood",
+    "displayName": "Wildwood",
+    "slug": "wildwood-nj",
+    "population": 5309,
+    "osmId": 170419,
+    "type": "relation"
+  },
+  {
+    "name": "Wildwood Crest",
+    "displayName": "Wildwood Crest",
+    "slug": "wildwood-crest-nj",
+    "population": 3979,
+    "osmId": 170417,
+    "type": "relation"
+  },
+  {
+    "name": "Willingboro Township",
+    "displayName": "Willingboro",
+    "slug": "willingboro-nj",
+    "population": 33045,
+    "osmId": 963137,
+    "type": "relation"
+  },
+  {
+    "name": "Winfield",
+    "displayName": "Winfield",
+    "slug": "winfield-nj",
+    "population": 1486,
+    "osmId": 961001,
+    "type": "relation"
+  },
+  {
+    "name": "Winslow Township",
+    "displayName": "Winslow",
+    "slug": "winslow-nj",
+    "population": 38612,
+    "osmId": 962878,
+    "type": "relation"
+  },
+  {
+    "name": "Wood-Ridge",
+    "displayName": "Wood-Ridge",
+    "slug": "wood-ridge-nj",
+    "population": 7594,
+    "osmId": 170645,
+    "type": "relation"
+  },
+  {
+    "name": "Woodbine",
+    "displayName": "Woodbine",
+    "slug": "woodbine-nj",
+    "population": 2508,
+    "osmId": 170910,
+    "type": "relation"
+  },
+  {
+    "name": "Woodbridge Township",
+    "displayName": "Woodbridge",
+    "slug": "woodbridge-nj",
+    "population": 99208,
+    "osmId": 961159,
+    "type": "relation"
+  },
+  {
+    "name": "Woodbury",
+    "displayName": "Woodbury",
+    "slug": "woodbury-nj",
+    "population": 10410,
+    "osmId": 170489,
+    "type": "relation"
+  },
+  {
+    "name": "Woodbury Heights",
+    "displayName": "Woodbury Heights",
+    "slug": "woodbury-heights-nj",
+    "population": 3030,
+    "osmId": 170490,
+    "type": "relation"
+  },
+  {
+    "name": "Woodcliff Lake",
+    "displayName": "Woodcliff Lake",
+    "slug": "woodcliff-lake-nj",
+    "population": 5953,
+    "osmId": 170652,
+    "type": "relation"
+  },
+  {
+    "name": "Woodland Township",
+    "displayName": "Woodland",
+    "slug": "woodland-nj",
+    "population": null,
+    "osmId": 963126,
+    "type": "relation"
+  },
+  {
+    "name": "Woodland Park",
+    "displayName": "Woodland Park",
+    "slug": "woodland-park-nj",
+    "population": 11234,
+    "osmId": 170714,
+    "type": "relation"
+  },
+  {
+    "name": "Woodlynne",
+    "displayName": "Woodlynne",
+    "slug": "woodlynne-nj",
+    "population": null,
+    "osmId": 170682,
+    "type": "relation"
+  },
+  {
+    "name": "Woodstown",
+    "displayName": "Woodstown",
+    "slug": "woodstown-nj",
+    "population": 3333,
+    "osmId": 170947,
+    "type": "relation"
+  },
+  {
+    "name": "Woolwich Township",
+    "displayName": "Woolwich",
+    "slug": "woolwich-nj",
+    "population": null,
+    "osmId": 12006440,
+    "type": "relation"
+  },
+  {
+    "name": "Wrightstown",
+    "displayName": "Wrightstown",
+    "slug": "wrightstown-nj",
+    "population": 741,
+    "osmId": 170841,
+    "type": "relation"
+  },
+  {
+    "name": "Wyckoff",
+    "displayName": "Wyckoff",
+    "slug": "wyckoff-nj",
+    "population": 17221,
+    "osmId": 170669,
+    "type": "relation"
+  }
+]

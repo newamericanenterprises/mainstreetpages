@@ -1,0 +1,49 @@
+{
+  "name": "Bass River",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1570,
+  "slug": "bass-river-nj",
+  "businesses": [
+    {
+      "name": "Cramer's Auto Recycling",
+      "category": "Auto Parts",
+      "address": "2013 County Road 542 North, Bass River, NJ 08087",
+      "phone": "",
+      "email": "cramersauto4363@comcast.net",
+      "website": "https://www.cramersautorecycling.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Interpretive Center",
+      "category": "Museum",
+      "address": "Bass River, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Patio Restaurant",
+      "category": "Restaurant",
+      "address": "Bass River, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

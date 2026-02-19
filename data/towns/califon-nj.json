@@ -1,0 +1,88 @@
+{
+  "name": "Califon",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1052,
+  "slug": "califon-nj",
+  "businesses": [
+    {
+      "name": "Gio's Bakery",
+      "category": "Bakery",
+      "address": "72 Main Street, Califon, NJ 07830",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Su 09:00-17:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rambo's Country Store",
+      "category": "Convenience Store",
+      "address": "68 Main Street, Califon, NJ 07830",
+      "phone": "+1-908-832-2012",
+      "email": "Rambosstore@gmail.com",
+      "website": "https://www.ramboscountrystore.com/",
+      "hours": "Mo 10:00-15:00; Tu-Fr 10:00-17:00; Sa 09:00-16:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Flowers by the River",
+      "category": "Florist",
+      "address": "74 Main Street, Califon, NJ 07830",
+      "phone": "+1-908-832-9551",
+      "email": "emmccollum00@gmail.com",
+      "website": "",
+      "hours": "Tu-Fr 10:30-17:00; Sa 11:00-14:30",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Acropolis",
+      "category": "Massage",
+      "address": "66 Main Street, Califon, NJ 07830",
+      "phone": "+1-908-296-5663",
+      "email": "theacropoliscalifon@gmail.com",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Califon Station",
+      "category": "Museum",
+      "address": "Califon, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://califonhistory.org/califon-train-station/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bex Eatery",
+      "category": "Restaurant",
+      "address": "52 Main Street, Califon, NJ 07830",
+      "phone": "+1-908-975-3334",
+      "email": "inquiries@bexkitchen.com",
+      "website": "https://bexkitchen.com/",
+      "hours": "Sa-Su 09:00-14:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

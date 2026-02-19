@@ -1,0 +1,23 @@
+{
+  "name": "Commercial",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5178,
+  "slug": "commercial-nj",
+  "businesses": [
+    {
+      "name": "Bayshore Center at Bivalve",
+      "category": "Museum",
+      "address": "2800 High Street, Commercial, NJ 08349",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
