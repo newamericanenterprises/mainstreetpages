@@ -1,0 +1,36 @@
+{
+  "name": "Corbin",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 530,
+  "slug": "corbin-nj",
+  "businesses": [
+    {
+      "name": "Corbin Cafe",
+      "category": "Bar",
+      "address": "Corbin, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Corbin City Gas Mart",
+      "category": "Convenience Store",
+      "address": "Corbin, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

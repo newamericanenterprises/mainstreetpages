@@ -1,0 +1,23 @@
+{
+  "name": "Deal",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1044,
+  "slug": "deal-nj",
+  "businesses": [
+    {
+      "name": "Citizen's Bank",
+      "category": "Bank",
+      "address": "88 Norwood Avenue, Deal, NJ 07723",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

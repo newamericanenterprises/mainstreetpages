@@ -1,0 +1,23 @@
+{
+  "name": "Holland",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "holland-nj",
+  "businesses": [
+    {
+      "name": "Bobolink Dairy & Bakehouse",
+      "category": "Bakery",
+      "address": "Holland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

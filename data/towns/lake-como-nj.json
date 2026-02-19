@@ -1,0 +1,75 @@
+{
+  "name": "Lake Como",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "lake-como-nj",
+  "businesses": [
+    {
+      "name": "Bar Anticipation",
+      "category": "Bar",
+      "address": "703 16th Avenue, Lake Como, NJ 07719",
+      "phone": "",
+      "email": "",
+      "website": "https://bar-a.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Salty's Beach Bar",
+      "category": "Bar",
+      "address": "1705 Main Street, Lake Como, NJ 07719",
+      "phone": "+1-732-556-6690",
+      "email": "",
+      "website": "https://www.saltysbeachbar.com/",
+      "hours": "Mo-Fr 12:00-02:00; Sa, Su 11:00-02:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "7-Eleven",
+      "category": "Convenience Store",
+      "address": "1732 Main Street, Lake Como, NJ 07719",
+      "phone": "+1 732-280-8050",
+      "email": "",
+      "website": "https://www.7-eleven.com/locations/nj/belmar/1732-main-st-39053",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Joe's Surf Shack",
+      "category": "Restaurant",
+      "address": "Lake Como, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "La Sierra",
+      "category": "Restaurant",
+      "address": "Lake Como, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

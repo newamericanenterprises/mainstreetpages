@@ -1,0 +1,36 @@
+{
+  "name": "Monmouth Beach",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 3574,
+  "slug": "monmouth-beach-nj",
+  "businesses": [
+    {
+      "name": "Beach Tavern",
+      "category": "Restaurant",
+      "address": "33 West Street, Monmouth Beach, NJ 07750",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Monmouth Beach Snack Bar",
+      "category": "Restaurant",
+      "address": "Monmouth Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

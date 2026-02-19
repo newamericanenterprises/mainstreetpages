@@ -1,0 +1,101 @@
+{
+  "name": "Englishtown",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1841,
+  "slug": "englishtown-nj",
+  "businesses": [
+    {
+      "name": "Marketing Markers",
+      "category": "Advertising agency",
+      "address": "74 Oxford court, Englishtown, NJ 07726",
+      "phone": "+1-732-863-2546",
+      "email": "hello@marketingmarkers.com",
+      "website": "https://marketingmarkers.com/",
+      "hours": "Mo-Fr 10:00-17:00; Sa,Su off",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "St. Ann's Lookoff",
+      "category": "Attraction",
+      "address": "Englishtown, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "RUUTED",
+      "category": "Cannabis",
+      "address": "Englishtown, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Walgreens",
+      "category": "Chemist",
+      "address": "Englishtown, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "QuickChek",
+      "category": "Convenience Store",
+      "address": "Englishtown, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "McDonald's",
+      "category": "Fast Food",
+      "address": "16 Wilson Avenue, Englishtown, NJ 07726",
+      "phone": "+1 732-446-9312",
+      "email": "",
+      "website": "https://www.mcdonalds.com/us/en-us/location/nj/englishtown/16-wilson-ave/35139.html",
+      "hours": "Mo-Su 06:00-23:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pro-Line Kitchens",
+      "category": "Kitchen",
+      "address": "26 Water St., Englishtown, NJ 07726",
+      "phone": "+1 732-520-0073",
+      "email": "info@prolinekitchens.com",
+      "website": "https://www.prolinekitchens.com/",
+      "hours": "Mo-Fr 10:00-18:00; Sa,Su off",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

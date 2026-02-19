@@ -1,0 +1,36 @@
+{
+  "name": "Saddle River",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 3786,
+  "slug": "saddle-river-nj",
+  "businesses": [
+    {
+      "name": "Residence Inn Saddle River",
+      "category": "Hotel",
+      "address": "7 Boroline Road, Saddle River, NJ 07458",
+      "phone": "+1 201-934-4144",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Commons at Saddle River",
+      "category": "Shopping Mall",
+      "address": "82 East Allendale Road, Saddle River, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

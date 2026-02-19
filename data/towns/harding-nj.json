@@ -1,0 +1,62 @@
+{
+  "name": "Harding",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "harding-nj",
+  "businesses": [
+    {
+      "name": "Dental Associates of Basking Ridge",
+      "category": "Dentist",
+      "address": "1201 Mount Kemble Avenue, Harding, NJ 07960",
+      "phone": "+1 908-332-0877",
+      "email": "",
+      "website": "https://www.baskingridgedentist.com/",
+      "hours": "Mo 08:00-20:00; Tu 08:00-17:00; We 08:00-20:00; Th 08:00-20:00; Fr 08:00-17:00; Sa 08:00-13:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Gulf",
+      "category": "Gas Station",
+      "address": "Harding, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tunis-Ellicks House",
+      "category": "Museum",
+      "address": "Harding, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Village Bistro",
+      "category": "Restaurant",
+      "address": "Harding, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

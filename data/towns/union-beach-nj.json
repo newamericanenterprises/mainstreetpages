@@ -1,0 +1,88 @@
+{
+  "name": "Union Beach",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 6631,
+  "slug": "union-beach-nj",
+  "businesses": [
+    {
+      "name": "Union Auto Body",
+      "category": "Auto Repair",
+      "address": "Union Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Ader's Tavern",
+      "category": "Bar",
+      "address": "Union Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "UB Social",
+      "category": "Bar",
+      "address": "Union Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Lucky 7 Deli",
+      "category": "Deli",
+      "address": "Union Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "McDonald's",
+      "category": "Fast Food",
+      "address": "825 Route 36, Union Beach, NJ 07735",
+      "phone": "+1 732-264-3535",
+      "email": "",
+      "website": "https://www.mcdonalds.com/us/en-us/location/7664.html",
+      "hours": "Mo-Th 06:00-23:00; Fr-Sa 06:00-24:00; Su 06:00-23:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pierro's Restaurant",
+      "category": "Restaurant",
+      "address": "Union Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

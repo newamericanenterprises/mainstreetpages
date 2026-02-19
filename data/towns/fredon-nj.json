@@ -1,0 +1,62 @@
+{
+  "name": "Fredon",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 3361,
+  "slug": "fredon-nj",
+  "businesses": [
+    {
+      "name": "S & R Mechanical Inc",
+      "category": "Company",
+      "address": "24 Fredon Marksboro Road, Fredon, NJ 07860",
+      "phone": "+1 973-300-0893",
+      "email": "",
+      "website": "https://www.sandrmechanicalnj.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Windy Brow Farms",
+      "category": "Farm",
+      "address": "359 Ridge Road, Fredon, NJ 07860",
+      "phone": "",
+      "email": "",
+      "website": "https://www.windybrowfarms.com",
+      "hours": "Mo 09:00-18:00; Tu-We closed; Th-Su 09:00-18:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cesco's",
+      "category": "Restaurant",
+      "address": "538 State Route 94 South, Fredon, NJ 07860",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "Tu-Su 11:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Kathy's Restaurant",
+      "category": "Restaurant",
+      "address": "Fredon, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

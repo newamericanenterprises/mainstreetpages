@@ -1,0 +1,49 @@
+{
+  "name": "Shamong",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "shamong-nj",
+  "businesses": [
+    {
+      "name": "Pinelands Adventures",
+      "category": "Rental",
+      "address": "Shamong, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "La Campagnola",
+      "category": "Restaurant",
+      "address": "Shamong, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Valenzano Family Winery",
+      "category": "Winery",
+      "address": "Shamong, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Woodbine",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2508,
+  "slug": "woodbine-nj",
+  "businesses": [
+    {
+      "name": "Merry Brook Schoolhouse & Harrison County Historical Society",
+      "category": "Attraction",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Woodbine Grain Elevator",
+      "category": "Attraction",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Woodbine Cafe",
+      "category": "Cafe",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Gentilini Ford",
+      "category": "Car Dealership",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Sam Azeez Museum of Woodbine Heritage",
+      "category": "Museum",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "We-Fr,Su 10:00-16:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Our Store",
+      "category": "Supermarket",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Woodbine, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://www.dollargeneral.com/store-directory/ia/woodbine/9835",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

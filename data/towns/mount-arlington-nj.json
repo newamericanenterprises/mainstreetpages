@@ -1,0 +1,88 @@
+{
+  "name": "Mount Arlington",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5708,
+  "slug": "mount-arlington-nj",
+  "businesses": [
+    {
+      "name": "Pat's Bar",
+      "category": "Bar",
+      "address": "390 Howard Boulevard, Mount Arlington, NJ 07856",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Metro Mart",
+      "category": "Convenience Store",
+      "address": "379-381 Howard Boulevard, Mount Arlington, NJ 07856",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "QuickChek",
+      "category": "Gas Station",
+      "address": "9 Howard Boulevard, Mount Arlington, NJ 07856",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Courtyard Rockaway-Mt. Arlington",
+      "category": "Hotel",
+      "address": "15 Howard Boulevard, Mount Arlington, NJ 07856",
+      "phone": "+1 973-770-2000",
+      "email": "",
+      "website": "https://www.marriott.com/ewrma",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Express Hotel & Suites (Mount Arlington-Rockaway Area)",
+      "category": "Hotel",
+      "address": "176 Howard Boulevard, Mount Arlington, NJ 07856",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frank's Pizza",
+      "category": "Restaurant",
+      "address": "Mount Arlington, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

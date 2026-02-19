@@ -1,0 +1,75 @@
+{
+  "name": "Woodland",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "woodland-nj",
+  "businesses": [
+    {
+      "name": "Wawa",
+      "category": "Convenience Store",
+      "address": "NJ 72, Woodland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Gulf",
+      "category": "Gas Station",
+      "address": "Woodland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Buzby’s Chatsworth General Store",
+      "category": "Gift Shop",
+      "address": "Woodland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Village of Woodland Office",
+      "category": "Government",
+      "address": "Woodland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "ATK Motorcycles-Griffin Vhcl",
+      "category": "Motorcycle",
+      "address": "Woodland, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

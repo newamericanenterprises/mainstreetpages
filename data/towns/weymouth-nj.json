@@ -1,0 +1,62 @@
+{
+  "name": "Weymouth",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2715,
+  "slug": "weymouth-nj",
+  "businesses": [
+    {
+      "name": "Textures Full Services Salon",
+      "category": "Hair Salon",
+      "address": "Weymouth, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Belco Liquors",
+      "category": "Liquor Store",
+      "address": "902 Rte 50, Weymouth, NJ 08330",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bruno's Steakhouse",
+      "category": "Pub",
+      "address": "Weymouth, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Crabby's",
+      "category": "Restaurant",
+      "address": "1413 NJ-50, Weymouth, NJ 08330",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

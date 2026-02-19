@@ -1,0 +1,75 @@
+{
+  "name": "Mannington",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "mannington-nj",
+  "businesses": [
+    {
+      "name": "Java Dog Coffee & Tea",
+      "category": "Cafe",
+      "address": "198 Route 45, Mannington, NJ 08079",
+      "phone": "+1 856-759-4369",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Fr 08:00-17:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Salem County Cooperative Extension",
+      "category": "Educational institution",
+      "address": "51 Cheney Road, Mannington, NJ 08098",
+      "phone": "+1 856-769-0090",
+      "email": "",
+      "website": "https://salem.njaes.rutgers.edu/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Salem County Communications Center",
+      "category": "Government",
+      "address": "135 Cemetery Road, Mannington, NJ 08098",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "USDA - NRCS - FSA - Rural Development",
+      "category": "Government",
+      "address": "51 Cheney Road, Mannington, NJ 08098",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Memorial Hospital Of Salem County",
+      "category": "Hospital",
+      "address": "310 Woodstown Road, Mannington, NJ 08079",
+      "phone": "+1 856 935 1000",
+      "email": "",
+      "website": "https://www.mhschealth.com/",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Tewksbury",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "tewksbury-nj",
+  "businesses": [
+    {
+      "name": "Oldwick Village Garage",
+      "category": "Auto Repair",
+      "address": "30 Old Turnpike Road, Tewksbury, NJ 08858",
+      "phone": "+1-908-439-2236",
+      "email": "",
+      "website": "https://www.oldwickvillagegarage.com/",
+      "hours": "Mo-Fr 05:30-19:30; Sa 07:30-19:00; Su 08:30-19:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Oldwick General Store",
+      "category": "Convenience Store",
+      "address": "Tewksbury, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Melick's Town Farm",
+      "category": "Farm",
+      "address": "170 Oldwick Road, Tewksbury, NJ 08858",
+      "phone": "+1-908-439-2955",
+      "email": "",
+      "website": "https://melickstownfarm.com/",
+      "hours": "Mo-Su 09:00-18:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Shell",
+      "category": "Gas Station",
+      "address": "30 Old Turnpike Road, Tewksbury, NJ 08858",
+      "phone": "+1-908-439-2236",
+      "email": "",
+      "website": "https://find.shell.com/us/fuel/12367422-30-old-turnpike-rd/en_US",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Oldwick General Store",
+      "category": "Restaurant",
+      "address": "57 Old Turnpike Road, Tewksbury, NJ 08804",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Running 'S' Equine Veterinary Services",
+      "category": "Veterinary",
+      "address": "118 Fairmount Road West, Tewksbury, NJ 07830",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

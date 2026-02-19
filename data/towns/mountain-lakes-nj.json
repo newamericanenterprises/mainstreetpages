@@ -1,0 +1,88 @@
+{
+  "name": "Mountain Lakes",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 4343,
+  "slug": "mountain-lakes-nj",
+  "businesses": [
+    {
+      "name": "AdvancED Urgent Care",
+      "category": "Clinic",
+      "address": "333 US 46, Mountain Lakes, NJ 07046",
+      "phone": "+1-973-939-6220",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wawa",
+      "category": "Convenience Store",
+      "address": "370 Route 46 East, Mountain Lakes, NJ 07046",
+      "phone": "+1 862 902-1151",
+      "email": "",
+      "website": "https://www.wawa.com/locations/8488",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Princeton Radiology",
+      "category": "Doctor",
+      "address": "333 US 46, Mountain Lakes, NJ 07046",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Barka",
+      "category": "Restaurant",
+      "address": "60 US 46, Mountain Lakes, NJ 07046",
+      "phone": "+1-973-917-3386",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Paul's Family Diner",
+      "category": "Restaurant",
+      "address": "Mountain Lakes, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Station at Mountain Lakes",
+      "category": "Restaurant",
+      "address": "99 Midvale Road, Mountain Lakes, NJ 07046",
+      "phone": "+1 973 335 5330",
+      "email": "",
+      "website": "http://thestationatmtlakes.co/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Pine Hill",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 11275,
+  "slug": "pine-hill-nj",
+  "businesses": [
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "111 Cross Keys Road, Pine Hill, NJ 08009",
+      "phone": "+1 856-809-2541",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/berlin/111-cross-keys-rd/342319",
+      "hours": "Mo-Sa 04:00-20:00; Su 05:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "KFC",
+      "category": "Fast Food",
+      "address": "1140 Blackwood Clementon Road, Pine Hill, NJ 08021",
+      "phone": "+1 856-784-1533",
+      "email": "",
+      "website": "https://locations.kfc.com/nj/pine-hill/1140-blackwood-clementon-rd",
+      "hours": "10:30-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Eagle Diner",
+      "category": "Restaurant",
+      "address": "Pine Hill, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Pine Hill, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

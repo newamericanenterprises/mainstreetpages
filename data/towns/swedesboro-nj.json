@@ -1,0 +1,62 @@
+{
+  "name": "Swedesboro",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2043,
+  "slug": "swedesboro-nj",
+  "businesses": [
+    {
+      "name": "Auto Spa",
+      "category": "Car Wash",
+      "address": "Swedesboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Borough Hall",
+      "category": "Government",
+      "address": "1500 Kings Highway, Swedesboro, NJ 08085",
+      "phone": "",
+      "email": "",
+      "website": "https://www.historicswedesboro.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Botto's Italian Line Restaurant",
+      "category": "Restaurant",
+      "address": "Swedesboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Swedesboro Diner",
+      "category": "Restaurant",
+      "address": "Swedesboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Kingwood",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "kingwood-nj",
+  "businesses": [
+    {
+      "name": "Napoleon Auto Body",
+      "category": "Auto Repair",
+      "address": "1055 Frenchtown-Flemington Road, Kingwood, NJ 08825",
+      "phone": "+1-908-996-0553",
+      "email": "napoleonautobody@gmail.com",
+      "website": "https://napoleonautobody.com",
+      "hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arties Bar and Grill",
+      "category": "Bar",
+      "address": "1121 State Route 12, Kingwood, NJ 08825",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Trading Post",
+      "category": "Camp",
+      "address": "Kingwood, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tavern 519",
+      "category": "Restaurant",
+      "address": "650 County Road 519, Kingwood, NJ 08825",
+      "phone": "+1-908-660-4519",
+      "email": "",
+      "website": "https://tavern519.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

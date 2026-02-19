@@ -1,0 +1,36 @@
+{
+  "name": "Medford Lakes",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "medford-lakes-nj",
+  "businesses": [
+    {
+      "name": "PJ Whelihan's Pub & Restaurant",
+      "category": "Restaurant",
+      "address": "61 Stokes Road, Medford Lakes, NJ 08055",
+      "phone": "+1-609-714-7900",
+      "email": "",
+      "website": "https://www.pjspub.com/about.php?loc=Medford_Lakes#",
+      "hours": "Mo-Su 11:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Two Fish BYOB",
+      "category": "Seafood",
+      "address": "Medford Lakes, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Independence",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "independence-nj",
+  "businesses": [
+    {
+      "name": "Pequest Engineering",
+      "category": "Engineer",
+      "address": "Independence, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "QuickChek",
+      "category": "Gas Station",
+      "address": "Independence, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Shell",
+      "category": "Gas Station",
+      "address": "Independence, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

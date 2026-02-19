@@ -1,0 +1,62 @@
+{
+  "name": "Hardwick",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1631,
+  "slug": "hardwick-nj",
+  "businesses": [
+    {
+      "name": "Main Office",
+      "category": "Business",
+      "address": "Hardwick, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Office",
+      "category": "Business",
+      "address": "Hardwick, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "WHA Landscaping",
+      "category": "Gardener",
+      "address": "Hardwick, NJ",
+      "phone": "+1-908-362-9111",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Little Hills Alina Lodge",
+      "category": "Rehabilitation",
+      "address": "Hardwick, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

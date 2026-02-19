@@ -1,0 +1,62 @@
+{
+  "name": "Oldmans",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1827,
+  "slug": "oldmans-nj",
+  "businesses": [
+    {
+      "name": "Starbucks",
+      "category": "Cafe",
+      "address": "Oldmans, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Auntie Anne's",
+      "category": "Fast Food",
+      "address": "Oldmans, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "PH,Mo-Su 09:00-21:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Burger King",
+      "category": "Fast Food",
+      "address": "Oldmans, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Sunoco",
+      "category": "Gas Station",
+      "address": "Oldmans, NJ",
+      "phone": "+1 856-299-4005",
+      "email": "",
+      "website": "https://www.sunoco.com/locations/store/nj-tpk-milepost-5-4s-carneys-point-nj-0368293701",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

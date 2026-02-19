@@ -1,0 +1,36 @@
+{
+  "name": "Ocean Gate",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1932,
+  "slug": "ocean-gate-nj",
+  "businesses": [
+    {
+      "name": "Anchor Inn",
+      "category": "Restaurant",
+      "address": "400 Ocean Gate Avenue, Ocean Gate, NJ 08740",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "Su, Tu-We 11:30-21:00; Th-Sa 11:30-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Linda's Pizza",
+      "category": "Restaurant",
+      "address": "318 Ocean Gate Avenue, Ocean Gate, NJ 08740",
+      "phone": "+1 732 269 8282",
+      "email": "",
+      "website": "https://www.orderlindaspizza.com/",
+      "hours": "Su-Th 11:15-21:30 open \"pickup and delivery\"; Fr-Sa 11:15-22:30 open \"pickup and delivery\" || Su-Th 11:15-22:30 open \"pickup\"; Fr-Sa 11:15-23:00 open \"pickup\"",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

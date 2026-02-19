@@ -1,0 +1,36 @@
+{
+  "name": "Tabernacle",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7337,
+  "slug": "tabernacle-nj",
+  "businesses": [
+    {
+      "name": "Water Resources of NJ",
+      "category": "Plumber",
+      "address": "1609 US 206, Tabernacle, NJ 08055",
+      "phone": "+1 609 268 7965",
+      "email": "",
+      "website": "https://waterresourcesnj.com/",
+      "hours": "Mo-Fr 08:30-17:30",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Murphy's Fresh Markets",
+      "category": "Supermarket",
+      "address": "381 Medford Lakes Rd, Tabernacle, NJ 08088",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Su 07:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
