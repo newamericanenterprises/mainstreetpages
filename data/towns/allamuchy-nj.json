@@ -1,0 +1,49 @@
+{
+  "name": "Allamuchy",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "allamuchy-nj",
+  "businesses": [
+    {
+      "name": "Shell",
+      "category": "Gas Station",
+      "address": "Allamuchy, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Panther Pub",
+      "category": "Pub",
+      "address": "1591 Allamuchy Road, Allamuchy, NJ 07840",
+      "phone": "",
+      "email": "",
+      "website": "https://www.panther-pub.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mattar's Bistro",
+      "category": "Restaurant",
+      "address": "1115 Route 517, Allamuchy, NJ 07820",
+      "phone": "+19088522300",
+      "email": "",
+      "website": "https://mattarsbistro.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

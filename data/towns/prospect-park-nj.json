@@ -1,0 +1,101 @@
+{
+  "name": "Prospect Park",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5720,
+  "slug": "prospect-park-nj",
+  "businesses": [
+    {
+      "name": "8th St Auto Body & Collision",
+      "category": "Auto Repair",
+      "address": "246 North 8th Street, Prospect Park, NJ 07508",
+      "phone": "+1-973-956-0870",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Fr 08:00-17:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Future Pediatric Group Inc",
+      "category": "Doctor",
+      "address": "240 North 8th Street, Prospect Park, NJ 07508",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "PrimoHoagies",
+      "category": "Fast Food",
+      "address": "Prospect Park, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "BP",
+      "category": "Gas Station",
+      "address": "Prospect Park, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rite Aid",
+      "category": "Pharmacy",
+      "address": "Prospect Park, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://www.riteaid.com/locations/pa/prospect-park/762-chester-pike.html",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Los Machetes",
+      "category": "Restaurant",
+      "address": "Prospect Park, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "RZ Discount Store",
+      "category": "Variety Store",
+      "address": "Prospect Park, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

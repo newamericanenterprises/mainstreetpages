@@ -1,0 +1,88 @@
+{
+  "name": "Sea Girt",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1725,
+  "slug": "sea-girt-nj",
+  "businesses": [
+    {
+      "name": "National Guard Militia Museum of New Jersey",
+      "category": "Museum",
+      "address": "Camp Drive, Sea Girt, NJ 08750",
+      "phone": "+1-732-974-5966",
+      "email": "",
+      "website": "https://www.nj.gov/military/museum/index.html",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Little Free Library",
+      "category": "Public bookcase",
+      "address": "Sea Girt, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fratello's Italian Restaurant",
+      "category": "Restaurant",
+      "address": "810 The Plaza, Sea Girt, NJ 08750",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Joe Leone's Gastronomia",
+      "category": "Restaurant",
+      "address": "527 Washington Boulevard, Sea Girt, NJ 08750",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rod's Olde Irish Tavern",
+      "category": "Restaurant",
+      "address": "507 Washington Boulevard, Sea Girt, NJ 08750",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Ray's Cafe",
+      "category": "Seafood",
+      "address": "523 Washington Boulevard, Sea Girt, NJ 08750",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Rumson",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7194,
+  "slug": "rumson-nj",
+  "businesses": [
+    {
+      "name": "Brennan's Delicatessen of Rumson",
+      "category": "Deli",
+      "address": "44 W River Road, Rumson, NJ 07760",
+      "phone": "+1-732-530-0302",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rumson Therapeutic & Sports Massage Center",
+      "category": "Massage",
+      "address": "16 West River Road, Rumson, NJ 07760",
+      "phone": "+1-732-842-2555",
+      "email": "",
+      "website": "https://www.rumsontherapeutic.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Barnacle Bill's",
+      "category": "Restaurant",
+      "address": "1 1st Street, Rumson, NJ 07760",
+      "phone": "+1 732-747-8396",
+      "email": "",
+      "website": "https://www.barnaclebillsrumson.com/",
+      "hours": "Tu,Th 16:00-22:00; Fr,Sa 12:00-23:00; Su 12:00-21:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Surf",
+      "category": "Restaurant",
+      "address": "132 East River Road, Rumson, NJ 07760",
+      "phone": "+1-732-530-6590",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Val's Tavern",
+      "category": "Restaurant",
+      "address": "123 E River Road, Rumson, NJ 07760",
+      "phone": "",
+      "email": "",
+      "website": "https://valstavern.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

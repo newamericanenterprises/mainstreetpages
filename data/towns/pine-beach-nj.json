@@ -1,0 +1,101 @@
+{
+  "name": "Pine Beach",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2361,
+  "slug": "pine-beach-nj",
+  "businesses": [
+    {
+      "name": "Santander",
+      "category": "Bank",
+      "address": "301 Atlantic City Boulevard, Pine Beach, NJ 08741",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "7-Eleven",
+      "category": "Convenience Store",
+      "address": "226 Route 9, Pine Beach, NJ 08741-1510",
+      "phone": "+1 732-244-8070",
+      "email": "",
+      "website": "https://www.7-eleven.com/locations/nj/pine-beach/226-rt-9-11024",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Roy Rogers",
+      "category": "Fast Food",
+      "address": "Pine Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Roy Rogers/Baskin Robbins;Dunkin Donuts/Baskin Robbins",
+      "category": "Fast Food",
+      "address": "118 Route 9 North, Pine Beach, NJ 08741",
+      "phone": "+1 732-505-0050",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/pine-beach/118-rt-9-north/337017",
+      "hours": "Mo-Sa 04:30-20:00; Su 06:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "World Wine and Liquor",
+      "category": "Liquor Store",
+      "address": "Pine Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Lamp Post Inn",
+      "category": "Restaurant",
+      "address": "Pine Beach, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "United Pool",
+      "category": "Swimming pool",
+      "address": "Pine Beach, NJ",
+      "phone": "+1-732-240-0085",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
