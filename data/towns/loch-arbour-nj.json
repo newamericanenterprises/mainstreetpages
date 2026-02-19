@@ -1,0 +1,23 @@
+{
+  "name": "Loch Arbour",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 274,
+  "slug": "loch-arbour-nj",
+  "businesses": [
+    {
+      "name": "McGuillicuddy's Lakeside Tap House",
+      "category": "Restaurant",
+      "address": "Loch Arbour, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

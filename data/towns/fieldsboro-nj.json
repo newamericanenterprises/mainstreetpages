@@ -1,0 +1,36 @@
+{
+  "name": "Fieldsboro",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 577,
+  "slug": "fieldsboro-nj",
+  "businesses": [
+    {
+      "name": "Liquor Mart",
+      "category": "Liquor Store",
+      "address": "224 Union Street, Fieldsboro, NJ 08505",
+      "phone": "+1-609-298-6677",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "White Hill Mansion",
+      "category": "Museum",
+      "address": "Fieldsboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

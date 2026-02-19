@@ -1,0 +1,36 @@
+{
+  "name": "Longport",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 876,
+  "slug": "longport-nj",
+  "businesses": [
+    {
+      "name": "Longport Welcome Sign",
+      "category": "Attraction",
+      "address": "Longport, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Longport Historical Society",
+      "category": "Museum",
+      "address": "2305 Atlantic Avenue, Longport, NJ 08403",
+      "phone": "",
+      "email": "",
+      "website": "http://www.longporthistoricalsociety.org/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

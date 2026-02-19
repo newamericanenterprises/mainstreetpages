@@ -1,0 +1,36 @@
+{
+  "name": "Walpack",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "walpack-nj",
+  "businesses": [
+    {
+      "name": "Rosenkrans House and Museum",
+      "category": "Museum",
+      "address": "Walpack, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://walpackhistory.org/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Walpack Inn",
+      "category": "Restaurant",
+      "address": "Walpack, NJ",
+      "phone": "+1-973-948-3890",
+      "email": "",
+      "website": "https://www.walpackinn.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

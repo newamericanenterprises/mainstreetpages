@@ -1,0 +1,75 @@
+{
+  "name": "Glen Gardner",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1992,
+  "slug": "glen-gardner-nj",
+  "businesses": [
+    {
+      "name": "Glen Gardner Liquors and Deli",
+      "category": "Liquor Store",
+      "address": "2127 Rt-31, Glen Gardner, NJ 08826",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glen Gardner General Store",
+      "category": "Restaurant",
+      "address": "58 Main Street, Glen Gardner, NJ 08826",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Grochowicz Farms",
+      "category": "Restaurant",
+      "address": "2401 Rt-31, Glen Gardner, NJ 08826",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hot Rods Hot Dogs",
+      "category": "Restaurant",
+      "address": "2113 Rt-31, Glen Gardner, NJ 08826",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Inn at Glen Gardner",
+      "category": "Restaurant",
+      "address": "161 Main Street, Glen Gardner, NJ 08826",
+      "phone": "+19085745341",
+      "email": "",
+      "website": "https://theinnrestaurant.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

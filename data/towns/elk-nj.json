@@ -1,0 +1,49 @@
+{
+  "name": "Elk",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "elk-nj",
+  "businesses": [
+    {
+      "name": "Rudolph and Arthur Covered Bridge",
+      "category": "Attraction",
+      "address": "Elk, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mood's Farm Market",
+      "category": "Farm",
+      "address": "Elk, NJ",
+      "phone": "",
+      "email": "",
+      "website": "http://www.moodsfarmmarket.com",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Elk Township Municipal Clerk",
+      "category": "Government",
+      "address": "Elk, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
