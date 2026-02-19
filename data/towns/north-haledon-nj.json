@@ -1,0 +1,101 @@
+{
+  "name": "North Haledon",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 9039,
+  "slug": "north-haledon-nj",
+  "businesses": [
+    {
+      "name": "American Flag Rock",
+      "category": "Attraction",
+      "address": "North Haledon, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Nails For You",
+      "category": "Beauty Salon",
+      "address": "475 High Mountain Road, North Haledon, NJ 07508",
+      "phone": "+1-973-423-1112",
+      "email": "",
+      "website": "https://www.nailsforyounj.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Belmont Grill",
+      "category": "Fast Food",
+      "address": "856 Belmont Avenue, North Haledon, NJ 07508",
+      "phone": "",
+      "email": "",
+      "website": "http://www.belmont-grill.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Domino's",
+      "category": "Fast Food",
+      "address": "527 High Mountain Road, North Haledon, NJ 07508",
+      "phone": "+1 973-427-0039",
+      "email": "",
+      "website": "https://pizza.dominos.com/new-jersey/north-haledon/527-high-mountain-road",
+      "hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 10:30-24:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "475 High Mountain Road, North Haledon, NJ 07508",
+      "phone": "+1 201-855-5432",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/north-haledon/475-high-mountain-rd/359076",
+      "hours": "Mo-Fr 04:00-21:00; Sa-Su 05:00-21:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Paesano's Restaurant & Pizzeria",
+      "category": "Restaurant",
+      "address": "885 Belmont Avenue, North Haledon, NJ 07508",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Super Foodtown",
+      "category": "Supermarket",
+      "address": "North Haledon, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
