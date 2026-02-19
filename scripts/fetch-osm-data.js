@@ -262,7 +262,9 @@ async function main() {
           category: getCategory(tags),
           address: formatAddress(tags),
           phone: formatPhone(tags.phone) || null,
-          website: tags.website || tags['contact:website'] || null
+          email: tags.email || tags['contact:email'] || null,
+          website: tags.website || tags['contact:website'] || null,
+          hours: tags.opening_hours || null
         };
       })
       // Remove duplicates based on name + address
@@ -276,13 +278,20 @@ async function main() {
         return a.name.localeCompare(b.name);
       });
 
-    // Clean up null values for cleaner JSON
-    const cleanedBusinesses = businesses.map(b => {
-      const cleaned = { name: b.name, category: b.category, address: b.address };
-      if (b.phone) cleaned.phone = b.phone;
-      if (b.website) cleaned.website = b.website;
-      return cleaned;
-    });
+    // Format businesses with all fields (empty strings for missing)
+    const cleanedBusinesses = businesses.map(b => ({
+      name: b.name,
+      category: b.category,
+      address: b.address,
+      phone: b.phone || "",
+      email: b.email || "",
+      website: b.website || "",
+      hours: b.hours || "",
+      rating: null,
+      review_count: null,
+      claimed: false,
+      featured: false
+    }));
 
     // Build the town data object
     const townData = {

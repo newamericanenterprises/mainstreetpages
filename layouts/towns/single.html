@@ -15,11 +15,55 @@
     {{ if $townData.businesses }}
     <div class="business-list">
       {{ range $townData.businesses }}
-      <div class="business-card">
+      <div class="business-card{{ if .featured }} featured{{ end }}">
+        {{ if .featured }}<span class="featured-badge">Featured</span>{{ end }}
         <h3>{{ .name }}</h3>
         <p class="business-category">{{ .category }}</p>
         <p class="business-address">{{ .address }}</p>
-        <p class="business-phone">{{ .phone }}</p>
+
+        {{ if .phone }}
+        <p class="business-phone">
+          <a href="tel:{{ .phone }}">{{ .phone }}</a>
+        </p>
+        {{ end }}
+
+        {{ if .email }}
+        <p class="business-email">
+          <a href="mailto:{{ .email }}">{{ .email }}</a>
+        </p>
+        {{ end }}
+
+        {{ if .website }}
+        <p class="business-website">
+          <a href="{{ .website }}" target="_blank" rel="noopener">{{ .website | replaceRE "^https?://(www\\.)?" "" | replaceRE "/$" "" }}</a>
+        </p>
+        {{ end }}
+
+        {{ if .hours }}
+        <p class="business-hours"><strong>Hours:</strong> {{ .hours }}</p>
+        {{ end }}
+
+        {{ if .rating }}
+        <p class="business-rating">
+          {{ $rating := .rating }}
+          {{ range seq 5 }}
+            {{ if le . (int $rating) }}
+              <span class="star filled">★</span>
+            {{ else if and (gt $rating (sub . 1)) (lt $rating .) }}
+              <span class="star half">★</span>
+            {{ else }}
+              <span class="star empty">☆</span>
+            {{ end }}
+          {{ end }}
+          <span class="rating-text">{{ .rating }}{{ if .review_count }} ({{ .review_count }} reviews){{ end }}</span>
+        </p>
+        {{ end }}
+
+        {{ if not .claimed }}
+        <p class="claim-listing">
+          <a href="/claim/?business={{ .name | urlquery }}&town={{ $townData.slug }}">Claim this listing</a>
+        </p>
+        {{ end }}
       </div>
       {{ end }}
     </div>
@@ -28,4 +72,38 @@
     {{ end }}
   </section>
 </div>
+
+<!-- JSON-LD Schema Markup for LocalBusiness -->
+{{ if $townData.businesses }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {{ range $index, $business := $townData.businesses }}
+    {{ if $index }},{{ end }}
+    {
+      "@type": "LocalBusiness",
+      "name": {{ $business.name | jsonify }},
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": {{ $business.address | jsonify }},
+        "addressLocality": {{ $townData.name | jsonify }},
+        "addressRegion": {{ $townData.state_abbr | jsonify }},
+        "addressCountry": "US"
+      }
+      {{ if $business.phone }},"telephone": {{ $business.phone | jsonify }}{{ end }}
+      {{ if $business.email }},"email": {{ $business.email | jsonify }}{{ end }}
+      {{ if $business.website }},"url": {{ $business.website | jsonify }}{{ end }}
+      {{ if $business.hours }},"openingHours": {{ $business.hours | jsonify }}{{ end }}
+      {{ if $business.rating }},"aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": {{ $business.rating }},
+        "reviewCount": {{ $business.review_count | default 1 }}
+      }{{ end }}
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
 {{ end }}

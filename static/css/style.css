@@ -165,9 +165,90 @@ body {
 }
 
 .business-address,
-.business-phone {
+.business-phone,
+.business-email,
+.business-website,
+.business-hours {
   color: #666;
   margin-bottom: 0.25rem;
+}
+
+.business-phone a,
+.business-email a,
+.business-website a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+.business-phone a:hover,
+.business-email a:hover,
+.business-website a:hover {
+  text-decoration: underline;
+}
+
+/* Featured Business Card */
+.business-card.featured {
+  background: linear-gradient(135deg, #fef9e7 0%, #fff8e1 100%);
+  border: 2px solid #f59e0b;
+  position: relative;
+}
+
+.featured-badge {
+  position: absolute;
+  top: -10px;
+  right: 15px;
+  background: #f59e0b;
+  color: #fff;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+/* Star Ratings */
+.business-rating {
+  margin: 0.5rem 0;
+}
+
+.star {
+  font-size: 1.1rem;
+  margin-right: 1px;
+}
+
+.star.filled {
+  color: #f59e0b;
+}
+
+.star.half {
+  color: #f59e0b;
+}
+
+.star.empty {
+  color: #d1d5db;
+}
+
+.rating-text {
+  font-size: 0.875rem;
+  color: #666;
+  margin-left: 0.5rem;
+}
+
+/* Claim Listing */
+.claim-listing {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed #e0e0e0;
+}
+
+.claim-listing a {
+  color: #059669;
+  font-size: 0.875rem;
+  text-decoration: none;
+}
+
+.claim-listing a:hover {
+  text-decoration: underline;
 }
 
 /* List Page */
