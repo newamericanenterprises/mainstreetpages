@@ -1,0 +1,101 @@
+{
+  "name": "Penns Grove",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 4797,
+  "slug": "penns-grove-nj",
+  "businesses": [
+    {
+      "name": "AutoZone",
+      "category": "Auto Parts",
+      "address": "35 South Virginia Avenue, Penns Grove, NJ",
+      "phone": "+1 856-276-9025",
+      "email": "",
+      "website": "https://www.autozone.com/locations/nj/penns-grove/35-s-virginia-dr.html",
+      "hours": "Mo-Fr 07:30-21:00; Sa,Su 07:30-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pointe GMC",
+      "category": "Car Dealership",
+      "address": "91 North Virginia Avenue, Penns Grove, NJ 08069",
+      "phone": "+1 856-517-4562",
+      "email": "",
+      "website": "https://www.pointegmc.com/",
+      "hours": "Mo-Sa 09:00-19:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Historical Society-Penns Grove",
+      "category": "Museum",
+      "address": "Penns Grove, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rite Aid",
+      "category": "Pharmacy",
+      "address": "Penns Grove, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://www.riteaid.com/locations/nj/penns-grove/130-east-main-street.html",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Di Paolo's Italian Ristorante",
+      "category": "Restaurant",
+      "address": "Penns Grove, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "191 South Virginia Avenue, Penns Grove, NJ 08069-1766",
+      "phone": "+1 856-895-1687",
+      "email": "",
+      "website": "https://www.dollargeneral.com/store-directory/nj/penns-grove/13182",
+      "hours": "08:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Family Dollar",
+      "category": "Variety Store",
+      "address": "10 South Virginia Avenue, Penns Grove, NJ 08069-1717",
+      "phone": "+1 856-276-9010",
+      "email": "",
+      "website": "https://www.familydollar.com/locations/nj/penns-grove/21385/",
+      "hours": "08:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

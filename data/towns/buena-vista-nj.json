@@ -1,0 +1,88 @@
+{
+  "name": "Buena Vista",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7570,
+  "slug": "buena-vista-nj",
+  "businesses": [
+    {
+      "name": "Pickwickian Grill",
+      "category": "Bar",
+      "address": "Buena Vista, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Burger King",
+      "category": "Fast Food",
+      "address": "107 107 Route 54, Buena Vista, NJ 08310",
+      "phone": "+1 856-697-6750",
+      "email": "",
+      "website": "https://www.bk.com/store-locator/store/restaurant_7111",
+      "hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Red Roof Inn & Suites",
+      "category": "Hotel",
+      "address": "102 Tuckahoe Road, Buena Vista, NJ 08310",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "African American Heritage Museum of Southern New Jersey",
+      "category": "Museum",
+      "address": "Buena Vista, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://www.aahmsnj.org/",
+      "hours": "Mo-Fr 10:00-17:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Missing Piece Puzzle Company",
+      "category": "Toy Store",
+      "address": "404 Cedar Avenue, Buena Vista, NJ 08350",
+      "phone": "",
+      "email": "",
+      "website": "https://www.themissingpiecepuzzlecompany.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Buena Vista, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

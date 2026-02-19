@@ -1,0 +1,75 @@
+{
+  "name": "Alloway",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "alloway-nj",
+  "businesses": [
+    {
+      "name": "Ranch Hope",
+      "category": "Association",
+      "address": "45 Sawmill Road, Alloway, NJ 08001",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fulton Bank",
+      "category": "Bank",
+      "address": "Alloway, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alloway Village Inn",
+      "category": "Bar",
+      "address": "Alloway, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bud's Market",
+      "category": "Convenience Store",
+      "address": "6 East Main Street, Alloway, NJ 08001",
+      "phone": "+1-856-935-1839",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Su 05:00-22:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alloway Pizza & Grill",
+      "category": "Restaurant",
+      "address": "Alloway, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

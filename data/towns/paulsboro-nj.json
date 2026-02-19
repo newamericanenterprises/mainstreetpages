@@ -1,0 +1,101 @@
+{
+  "name": "Paulsboro",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 6062,
+  "slug": "paulsboro-nj",
+  "businesses": [
+    {
+      "name": "CVS Pharmacy",
+      "category": "Chemist",
+      "address": "231 West Broad Street, Paulsboro, NJ 08066",
+      "phone": "",
+      "email": "",
+      "website": "https://www.cvs.com/store-locator/paulsboro-nj-pharmacies/231-west-broad-street-paulsboro-nj-08066/storeid=2300",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Rite Aid",
+      "category": "Chemist",
+      "address": "1 East Broad Street, Paulsboro, NJ 08066",
+      "phone": "",
+      "email": "",
+      "website": "https://www.riteaid.com/locations/nj/paulsboro.html",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fresh for All: Paulsboro",
+      "category": "Farm",
+      "address": "402 Cook Avenue, Paulsboro, NJ 08066",
+      "phone": "+1 215-339-0900",
+      "email": "",
+      "website": "https://www.philabundance.org/",
+      "hours": "Th 14:30-15:30",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "McDonald's",
+      "category": "Fast Food",
+      "address": "43 Borrelli Boulevard, Paulsboro, NJ 08066",
+      "phone": "+1 856-423-4783",
+      "email": "",
+      "website": "https://www.mcdonalds.com/us/en-us/location/6041.html",
+      "hours": "05:00-23:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wawa",
+      "category": "Gas Station",
+      "address": "Paulsboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Paulsboro Administration Building",
+      "category": "Government",
+      "address": "Paulsboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://paulsboronj.org/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Paulsboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

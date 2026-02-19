@@ -1,0 +1,62 @@
+{
+  "name": "Demarest",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5106,
+  "slug": "demarest-nj",
+  "businesses": [
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "132 Hardenburgh Avenue, Demarest, NJ 07627",
+      "phone": "+1 201-203-3065",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/demarest/132-hardenburgh-ave/338691",
+      "hours": "05:30-19:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "All Seasons Chamber Players",
+      "category": "Music Store",
+      "address": "Demarest, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Yasou Mykonos",
+      "category": "Restaurant",
+      "address": "134 Hardenburgh Avenue, Demarest, NJ 07627",
+      "phone": "+1-201-768-8500",
+      "email": "",
+      "website": "https://www.yasougreekfood.com/",
+      "hours": "Mo-Su 11:00-21:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Xplor Wine of Demarest",
+      "category": "Wine",
+      "address": "Demarest, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "North Hanover",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7963,
+  "slug": "north-hanover-nj",
+  "businesses": [
+    {
+      "name": "AutoZone",
+      "category": "Auto Parts",
+      "address": "North Hanover, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "RAM BLACEY'S - U-Pick Auto Parts",
+      "category": "Auto Repair",
+      "address": "242 Monmouth Road, North Hanover, NJ 08562",
+      "phone": "+1-609-758-1919",
+      "email": "",
+      "website": "https://upickautopart.com/",
+      "hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pottys Plus",
+      "category": "Company",
+      "address": "467 Sykesville Road, North Hanover, NJ 08562",
+      "phone": "+1-732-592-1800",
+      "email": "",
+      "website": "https://pottysplus.com",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Smile Center of Wrightstown",
+      "category": "Dentist",
+      "address": "561 Monmouth Road, North Hanover, NJ 08562",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Scottish Inns",
+      "category": "Motel",
+      "address": "North Hanover, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Restroom Resources LLC",
+      "category": "Office",
+      "address": "467 wrightstown sykesville road, North Hanover, NJ 08562",
+      "phone": "+1 732-592-1717",
+      "email": "",
+      "website": "https://restroomresources.com",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "North Hanover, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

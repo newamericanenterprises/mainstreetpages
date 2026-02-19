@@ -1,0 +1,101 @@
+{
+  "name": "Delanco",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "delanco-nj",
+  "businesses": [
+    {
+      "name": "Pied Out Bakeshop/Cafe",
+      "category": "Cafe",
+      "address": "538 Burlington Avenue, Delanco, NJ 08075",
+      "phone": "+1-609-500-4909",
+      "email": "",
+      "website": "https://www.facebook.com/people/Pied-Out-BakeshopCafe/100054217311498/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "7-eleven",
+      "category": "Convenience Store",
+      "address": "801A Burlington Avenue, Delanco, NJ 08075",
+      "phone": "",
+      "email": "",
+      "website": "https://www.7-eleven.com/locations/nj/delanco/801a-burlington-ave.-17221",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Joy Mart",
+      "category": "Deli",
+      "address": "2930 Burlington Avenue, Delanco, NJ 08075",
+      "phone": "",
+      "email": "",
+      "website": "https://www.facebook.com/DelancoJoyMart/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fresh for All: Abundant Life Fellowship",
+      "category": "Farm",
+      "address": "4151 Route 130 South, Delanco, NJ 08010",
+      "phone": "+1 215-339-0900",
+      "email": "",
+      "website": "https://www.philabundance.org/",
+      "hours": "Tu 13:30-14:30",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "CITGO",
+      "category": "Gas Station",
+      "address": "700 Burlington Avenue, Delanco, NJ 08075",
+      "phone": "+18565758169",
+      "email": "",
+      "website": "https://www.citgo.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "JIM LORINGER BP GAS STATION",
+      "category": "Gas Station",
+      "address": "901 Burlington Avenue, Delanco, NJ 08075",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Delanco Department of Motor Vehicles",
+      "category": "Government",
+      "address": "Delanco, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

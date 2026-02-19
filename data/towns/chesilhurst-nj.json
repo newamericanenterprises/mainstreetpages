@@ -1,0 +1,23 @@
+{
+  "name": "Chesilhurst",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1879,
+  "slug": "chesilhurst-nj",
+  "businesses": [
+    {
+      "name": "Tire Corral",
+      "category": "Auto Repair",
+      "address": "White Horse Pike @ Center Avenue, Chesilhurst, NJ 08089",
+      "phone": "+1-856-768-1888",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

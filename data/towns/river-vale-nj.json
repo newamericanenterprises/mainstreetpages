@@ -1,0 +1,36 @@
+{
+  "name": "River Vale",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 9751,
+  "slug": "river-vale-nj",
+  "businesses": [
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "636 Westwood Avenue, River Vale, NJ 07675",
+      "phone": "+1 201-358-6900",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/river-vale/636-westwood-ave/330344",
+      "hours": "Mo-Tu 05:30-19:00; We 06:00-19:00; Th-Fr 05:30-19:00; Sa-Su 07:00-19:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Green Point Restaurant and Bar",
+      "category": "Restaurant",
+      "address": "River Vale, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

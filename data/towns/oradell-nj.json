@@ -1,0 +1,62 @@
+{
+  "name": "Oradell",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7957,
+  "slug": "oradell-nj",
+  "businesses": [
+    {
+      "name": "Sunrise Bagel Cafe",
+      "category": "Fast Food",
+      "address": "297 Kinderkamack Road, Oradell, NJ 07649",
+      "phone": "+1 201-599-1900",
+      "email": "",
+      "website": "https://www.sunrisebagelsoradell.com",
+      "hours": "Mo-Sa 05:00-16:00; Su 06:00-15:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Law Office of Boyd & Squitieri",
+      "category": "Law Office",
+      "address": "550 Kinderkamack Road, Oradell, NJ 07649",
+      "phone": "+1-201-277-0177",
+      "email": "",
+      "website": "https://www.boydsquitieri.com/",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hiram Bauvelt Wildlife Art Museum",
+      "category": "Museum",
+      "address": "Oradell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Garden State Home Buyers",
+      "category": "Real Estate",
+      "address": "316 Kinderkamack Road, Oradell, NJ 07649",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

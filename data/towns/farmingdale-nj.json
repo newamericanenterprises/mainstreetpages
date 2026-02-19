@@ -1,0 +1,23 @@
+{
+  "name": "Farmingdale",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1563,
+  "slug": "farmingdale-nj",
+  "businesses": [
+    {
+      "name": "Tony's Pizza",
+      "category": "Restaurant",
+      "address": "Farmingdale, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

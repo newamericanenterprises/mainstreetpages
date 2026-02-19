@@ -1,0 +1,23 @@
+{
+  "name": "Downe",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1585,
+  "slug": "downe-nj",
+  "businesses": [
+    {
+      "name": "Citgo",
+      "category": "Gas Station",
+      "address": "Downe, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

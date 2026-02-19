@@ -1,0 +1,23 @@
+{
+  "name": "Haworth",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 3433,
+  "slug": "haworth-nj",
+  "businesses": [
+    {
+      "name": "Mini Mart",
+      "category": "Convenience Store",
+      "address": "151 Terrace Street, Haworth, NJ",
+      "phone": "+12013870766",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

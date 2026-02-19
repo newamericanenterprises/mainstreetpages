@@ -1,0 +1,101 @@
+{
+  "name": "Glen Ridge",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 6908,
+  "slug": "glen-ridge-nj",
+  "businesses": [
+    {
+      "name": "Bank of America",
+      "category": "Bank",
+      "address": "227 Ridgewood Avenue, Glen Ridge, NJ 07028",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bank of America",
+      "category": "Bank",
+      "address": "726 Bloomfield Avenue, Glen Ridge, NJ 07028",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Blue Foundry",
+      "category": "Bank",
+      "address": "222 Ridgewood Avenue, Glen Ridge, NJ 07028",
+      "phone": "",
+      "email": "",
+      "website": "https://locations.bluefoundrybank.com/blue-foundry-bank-5a7f4f1e3f81?utm_source=google&utm_medium=Yext",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "PNC Bank",
+      "category": "Bank",
+      "address": "975 Bloomfield Avenue, Glen Ridge, NJ 07028",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Starbucks",
+      "category": "Cafe",
+      "address": "710 Bloomfield Avenue, Glen Ridge, NJ 07028",
+      "phone": "+1 973-743-1752",
+      "email": "",
+      "website": "https://www.starbucks.com/store-locator/store/6409/glen-ridge-710-bloomfield-ave-glen-ridge-nj-070282332-us",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mountainside Hospital",
+      "category": "Hospital",
+      "address": "1 Bay Avenue, Glen Ridge, NJ 07042",
+      "phone": "+1 973 429 6000",
+      "email": "",
+      "website": "https://mountainsidehosp.com/",
+      "hours": "24/7",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bottle King",
+      "category": "Liquor Store",
+      "address": "710 Bloomfield Avenue, Glen Ridge, NJ 07028",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

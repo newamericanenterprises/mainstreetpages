@@ -1,0 +1,36 @@
+{
+  "name": "Bogota",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 8108,
+  "slug": "bogota-nj",
+  "businesses": [
+    {
+      "name": "Express Wash N Fold",
+      "category": "Laundromat",
+      "address": "Bogota, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Luka's Italian Cuisine",
+      "category": "Restaurant",
+      "address": "10 River Road, Bogota, NJ 07603",
+      "phone": "+1-201-440-2996",
+      "email": "",
+      "website": "https://lukasitaliancuisine.co",
+      "hours": "Mo-Th 11:30-22:00; Fr 11:30-23:00; Sa 15:00-23:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

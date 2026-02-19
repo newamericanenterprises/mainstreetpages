@@ -1,0 +1,36 @@
+{
+  "name": "North Caldwell",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 7207,
+  "slug": "north-caldwell-nj",
+  "businesses": [
+    {
+      "name": "Spencer Savings Bank",
+      "category": "Bank",
+      "address": "9 Bloomfield Avenue, North Caldwell, NJ 07006",
+      "phone": "+1-973-228-1992",
+      "email": "",
+      "website": "https://www.spencersavings.com/locations/north-caldwell/",
+      "hours": "Mo-We 08:00-18:00; Th-Fr 08:00-18:30; Sa 08:30-13:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mavis Discount Tire",
+      "category": "Tyres",
+      "address": "North Caldwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Millstone",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 431,
+  "slug": "millstone-nj",
+  "businesses": [
+    {
+      "name": "Delta",
+      "category": "Gas Station",
+      "address": "Millstone, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Millstone Wine & Liquor",
+      "category": "Liquor Store",
+      "address": "1377 Main Street, Millstone, NJ 08844",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

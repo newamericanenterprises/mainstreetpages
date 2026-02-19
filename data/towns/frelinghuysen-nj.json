@@ -1,0 +1,36 @@
+{
+  "name": "Frelinghuysen",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "frelinghuysen-nj",
+  "businesses": [
+    {
+      "name": "Blairstown Smile Studio",
+      "category": "Dentist",
+      "address": "807 NJ-94, Frelinghuysen, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://blairstownsmilestudio.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cannon Country Real Estate LLC",
+      "category": "Real Estate",
+      "address": "1048 1048 NJ-94, Frelinghuysen, NJ 07825",
+      "phone": "+19083629295",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

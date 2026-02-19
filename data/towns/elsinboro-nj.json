@@ -1,0 +1,23 @@
+{
+  "name": "Elsinboro",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "elsinboro-nj",
+  "businesses": [
+    {
+      "name": "The Inn at Salem Country Club",
+      "category": "Hotel",
+      "address": "Elsinboro, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

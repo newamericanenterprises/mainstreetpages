@@ -1,0 +1,101 @@
+{
+  "name": "Eastampton",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 6191,
+  "slug": "eastampton-nj",
+  "businesses": [
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "1191 Woodlane Road, Eastampton, NJ 08060",
+      "phone": "+1 609-914-4866",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/eastampton/1191-woodlane-rd/350328",
+      "hours": "05:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Lukoil",
+      "category": "Gas Station",
+      "address": "Eastampton, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mart's Liquor Store",
+      "category": "Liquor Store",
+      "address": "Eastampton, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Smithville Mansion",
+      "category": "Museum",
+      "address": "801 Smithville Road, Eastampton, NJ 08060",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "CVS Pharmacy",
+      "category": "Pharmacy",
+      "address": "Eastampton, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://www.cvs.com/store-locator/eastampton-nj-pharmacies/1300-woodlane-road-eastampton-nj-08060/storeid=2231",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "John & Molly's",
+      "category": "Pub",
+      "address": "Eastampton, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "O'Connor's",
+      "category": "Restaurant",
+      "address": "Eastampton, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

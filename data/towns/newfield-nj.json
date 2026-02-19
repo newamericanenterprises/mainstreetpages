@@ -1,0 +1,49 @@
+{
+  "name": "Newfield",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1664,
+  "slug": "newfield-nj",
+  "businesses": [
+    {
+      "name": "Thurston and Peters Sugar House",
+      "category": "Confectionery",
+      "address": "Newfield, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Matchbox Road Museum",
+      "category": "Museum",
+      "address": "15 Pearl Street, Newfield, NJ 08344",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Newfield, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

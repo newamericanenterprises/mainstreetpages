@@ -1,0 +1,88 @@
+{
+  "name": "Bay Head",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1050,
+  "slug": "bay-head-nj",
+  "businesses": [
+    {
+      "name": "Mueller's Bakery",
+      "category": "Bakery",
+      "address": "80 Bridge Avenue, Bay Head, NJ 08742",
+      "phone": "",
+      "email": "",
+      "website": "https://www.muellersbakery.com/",
+      "hours": "Tu-Th 06:30-17:00; Fr,Sa 06:30-18:00; Su 06:30-16:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Board House",
+      "category": "Business",
+      "address": "Bay Head, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Bentley Inn",
+      "category": "Guest House",
+      "address": "Bay Head, NJ",
+      "phone": "+1-732-892-9589",
+      "email": "",
+      "website": "https://www.thebentleyinn.com",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Grenville Hotel & Restaurant",
+      "category": "Hotel",
+      "address": "Bay Head, NJ",
+      "phone": "+1-732-892-3100",
+      "email": "",
+      "website": "https://www.thegrenville.c",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Van Sciver",
+      "category": "Real Estate",
+      "address": "Bay Head, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dune Grass Café",
+      "category": "Restaurant",
+      "address": "58 Bridge Avenue, Bay Head, NJ 08742",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

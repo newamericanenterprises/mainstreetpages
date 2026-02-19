@@ -1,0 +1,101 @@
+{
+  "name": "Colts Neck",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "colts-neck-nj",
+  "businesses": [
+    {
+      "name": "Colts Neck Smiles",
+      "category": "Dentist",
+      "address": "265 NJ 34, Colts Neck, NJ 07722",
+      "phone": "+1-732-431-0800",
+      "email": "office@coltsnecksmiles.com",
+      "website": "",
+      "hours": "Mo 09:00-18:00; Tu 09:00-17:00; Th 08:00-18:00; Fr 08:00-15:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Colts Neck Smiles - Dr. Dilini Peiris D.D.S.",
+      "category": "Dentist",
+      "address": "265 NJ-34, Colts Neck, NJ 07722",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Source Farmhouse Brewery",
+      "category": "Distillery",
+      "address": "300 Route 34 Northbound, Colts Neck, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Brock Farm & Garden Center",
+      "category": "Garden centre",
+      "address": "Colts Neck, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Colts Neck Inn Steak & Chop House",
+      "category": "Restaurant",
+      "address": "191 Route 537, Colts Neck, NJ 07722",
+      "phone": "+1-732-462-0383",
+      "email": "",
+      "website": "https://coltsneckinn.com",
+      "hours": "Tu,Th 15:00-22:00, We 15:00-24:00, Fr,Sa 25:00-23:00, Su 15:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Perkins",
+      "category": "Restaurant",
+      "address": "340 Route 34 South, Colts Neck, NJ 07722",
+      "phone": "+1-732-577-1011",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Delicious Orchards",
+      "category": "Supermarket",
+      "address": "320 Route 34, Colts Neck, NJ 07722",
+      "phone": "+1-732-462-1989",
+      "email": "",
+      "website": "https://www.deliciousorchardsnj.com/",
+      "hours": "Tu-Su 09:30-18:00; Mo off; PH off",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

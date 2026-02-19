@@ -1,0 +1,49 @@
+{
+  "name": "Cape May Point",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 291,
+  "slug": "cape-may-point-nj",
+  "businesses": [
+    {
+      "name": "Cape May Point General Store",
+      "category": "Convenience Store",
+      "address": "Cape May Point, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "2 Parson Folly",
+      "category": "Hotel",
+      "address": "Cape May Point, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cape May Point Science Center",
+      "category": "Museum",
+      "address": "101 Lehigh Avenue, Cape May Point, NJ 08212",
+      "phone": "",
+      "email": "",
+      "website": "https://www.capemaypointsciencecenter.org/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

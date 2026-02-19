@@ -1,0 +1,75 @@
+{
+  "name": "Green",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "green-nj",
+  "businesses": [
+    {
+      "name": "Amenities Store",
+      "category": "Convenience Store",
+      "address": "Green, NJ",
+      "phone": "+1-989-742-4166",
+      "email": "mail@fletcherslanding.com",
+      "website": "https://www.fletcherslanding.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Bait & Tackle Shop",
+      "category": "Fishing",
+      "address": "Green, NJ",
+      "phone": "+1-989-742-4370",
+      "email": "jackslanding@gmail.com",
+      "website": "https://www.jackslanding.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fisher Furniture Outlet",
+      "category": "Furniture Store",
+      "address": "Green, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pub 517",
+      "category": "Restaurant",
+      "address": "50 Stuyvesant Road, Green, NJ 07821",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tranquility Veterinary Clinic",
+      "category": "Veterinary",
+      "address": "Green, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
