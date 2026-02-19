@@ -1,0 +1,49 @@
+{
+  "name": "Hi-Nella",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1007,
+  "slug": "hi-nella-nj",
+  "businesses": [
+    {
+      "name": "Webb's Barber Shop",
+      "category": "Hair Salon",
+      "address": "Hi-Nella, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Warwick Wine & Spirits",
+      "category": "Liquor Store",
+      "address": "Hi-Nella, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mama Nuccio's Pizza",
+      "category": "Restaurant",
+      "address": "Hi-Nella, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

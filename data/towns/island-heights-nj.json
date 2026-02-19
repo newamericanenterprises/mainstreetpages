@@ -1,0 +1,62 @@
+{
+  "name": "Island Heights",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 1650,
+  "slug": "island-heights-nj",
+  "businesses": [
+    {
+      "name": "Due Back",
+      "category": "Cafe",
+      "address": "14 Central Avenue, Island Heights, NJ 08732",
+      "phone": "",
+      "email": "joe@due-back.com",
+      "website": "https://www.due-back.com/",
+      "hours": "Th-Mo 07:00-14:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Shell",
+      "category": "Convenience Store",
+      "address": "Island Heights, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "John F. Peto Studio Museum",
+      "category": "Museum",
+      "address": "102 Cedar Avenue, Island Heights, NJ 08732",
+      "phone": "+1 732-929-4949",
+      "email": "",
+      "website": "https://petomuseum.org",
+      "hours": "Apr-Dec Sa-Su 13:00-15:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Island Heights Bagelry",
+      "category": "Restaurant",
+      "address": "214 West End Avenue, Island Heights, NJ 08732",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

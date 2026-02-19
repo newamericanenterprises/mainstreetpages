@@ -1,0 +1,88 @@
+{
+  "name": "Oaklyn",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 4080,
+  "slug": "oaklyn-nj",
+  "businesses": [
+    {
+      "name": "TD Bank",
+      "category": "Bank",
+      "address": "Oaklyn, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://locations.td.com/us/1130-white-horse-pike-oaklyn",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Merryfields",
+      "category": "Bar",
+      "address": "Oaklyn, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Oaklyn Manor Bar",
+      "category": "Bar",
+      "address": "198 West Clinton Avenue, Oaklyn, NJ 08107",
+      "phone": "",
+      "email": "",
+      "website": "http://www.oaklynmanor.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tonewood Brewing",
+      "category": "Brewery",
+      "address": "215 West Clinton Avenue, Oaklyn, NJ 08107",
+      "phone": "+1-856-833-1500",
+      "email": "",
+      "website": "https://www.tonewoodbrewing.com/",
+      "hours": "Tu-Fr 04:00-10:00, Sa 12:00-10:00, Su 12:00-07:00, Mo closed",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dunkin'",
+      "category": "Fast Food",
+      "address": "702 White Horse Pike, Oaklyn, NJ 08107",
+      "phone": "+1 856-854-7812",
+      "email": "",
+      "website": "https://locations.dunkindonuts.com/en/nj/oaklyn/702-white-horse-pike/300557",
+      "hours": "05:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hocus Pocus Tattoo",
+      "category": "Tattoo Parlor",
+      "address": "920 White Horse Pike, Oaklyn, NJ 08107",
+      "phone": "+1-856-240-7053",
+      "email": "",
+      "website": "https://www.hocuspocustattoos.com",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

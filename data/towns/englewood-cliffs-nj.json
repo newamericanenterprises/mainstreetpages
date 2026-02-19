@@ -1,0 +1,101 @@
+{
+  "name": "Englewood Cliffs",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5793,
+  "slug": "englewood-cliffs-nj",
+  "businesses": [
+    {
+      "name": "John J. Choi DDS",
+      "category": "Dentist",
+      "address": "210 Sylvan Avenue, Englewood Cliffs, NJ 07632",
+      "phone": "+1-201-660-7871",
+      "email": "",
+      "website": "https://www.renuperio.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "LG",
+      "category": "Electronics Store",
+      "address": "Englewood Cliffs, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Delta Gas Station.",
+      "category": "Gas Station",
+      "address": "Englewood Cliffs, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mobil",
+      "category": "Gas Station",
+      "address": "Englewood Cliffs, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Brownstone Pancake Factory",
+      "category": "Restaurant",
+      "address": "717 East Palisade Avenue, Englewood Cliffs, NJ 07632",
+      "phone": "+1 201 503 0104",
+      "email": "",
+      "website": "",
+      "hours": "Mo-Fr 11:30-22:00; Sa 10:00-23:00; Su 10:00-21:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Lefkes Estiatorio",
+      "category": "Restaurant",
+      "address": "495 Sylvan Avenue, Englewood Cliffs, NJ 07632",
+      "phone": "",
+      "email": "",
+      "website": "https://lefkesnj.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "The Snack Shack",
+      "category": "Restaurant",
+      "address": "Englewood Cliffs, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

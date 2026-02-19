@@ -1,0 +1,88 @@
+{
+  "name": "Spring Lake Heights",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 5106,
+  "slug": "spring-lake-heights-nj",
+  "businesses": [
+    {
+      "name": "Citizens Bank",
+      "category": "Bank",
+      "address": "Spring Lake Heights, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "TD Bank",
+      "category": "Bank",
+      "address": "Spring Lake Heights, NJ",
+      "phone": "",
+      "email": "",
+      "website": "https://locations.td.com/us/555-warren-avenue-spring-lake-heights",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Sunoco",
+      "category": "Gas Station",
+      "address": "Spring Lake Heights, NJ",
+      "phone": "+1 732-449-8899",
+      "email": "",
+      "website": "https://www.sunoco.com/locations/store/1002-rte-71-spring-lake-nj-0007754511",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Capsized Cafe",
+      "category": "Restaurant",
+      "address": "Spring Lake Heights, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Doolan's Shore Club",
+      "category": "Restaurant",
+      "address": "700 Route 71, Spring Lake Heights, NJ 07762",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "St. Stephen's Green Publick House",
+      "category": "Restaurant",
+      "address": "2031 Route 71, Spring Lake Heights, NJ",
+      "phone": "+1-732-449-2626",
+      "email": "",
+      "website": "https://www.ssgpub.com/",
+      "hours": "Mo-Fr 11:00-02:00, Sa-Su 10:00-02:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

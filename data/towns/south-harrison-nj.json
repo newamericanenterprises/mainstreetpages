@@ -1,0 +1,23 @@
+{
+  "name": "South Harrison",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "south-harrison-nj",
+  "businesses": [
+    {
+      "name": "Creamy Acres Garden Center",
+      "category": "Garden centre",
+      "address": "448 Lincoln Mill Rd, South Harrison, NJ 08062",
+      "phone": "+1 856-223-1669",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

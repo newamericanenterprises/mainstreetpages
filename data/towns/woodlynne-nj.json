@@ -1,0 +1,101 @@
+{
+  "name": "Woodlynne",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "woodlynne-nj",
+  "businesses": [
+    {
+      "name": "Advance Auto Parts",
+      "category": "Auto Parts",
+      "address": "2290 Mount Ephraim Avenue, Woodlynne, NJ 08107",
+      "phone": "+1 856-962-6800",
+      "email": "",
+      "website": "https://stores.advanceautoparts.com/nj/woodlynne/2290-mount-ephraim-ave",
+      "hours": "Mo-Sa 07:30-21:00; Su 09:00-20:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pantry Food Mart",
+      "category": "Convenience Store",
+      "address": "Woodlynne, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "ACCU Staffing",
+      "category": "Employment Agency",
+      "address": "2400 Mount Ephraim Avenue, Woodlynne, NJ 08104",
+      "phone": "+1 856-379-3830",
+      "email": "",
+      "website": "https://accustaffing.com/locations/listing/woodlynne-job-center/",
+      "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "PPP",
+      "category": "Fast Food",
+      "address": "Woodlynne, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Riggins",
+      "category": "Gas Station",
+      "address": "Woodlynne, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Crabs Plus",
+      "category": "Seafood",
+      "address": "2300 Mount Ephraim Avenue, Woodlynne, NJ 08104",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "ABC Supply Co",
+      "category": "Trade",
+      "address": "2201 Mount Ephraim Avenue, Woodlynne, NJ 08104-3232",
+      "phone": "+1 856-963-9099",
+      "email": "",
+      "website": "https://www.abcsupply.com/locations/location/?id=413",
+      "hours": "Mo-Fr 06:30-16:00; Sa 07:00-23:00; Su off; Jan-Apr,Nov-Dec Mo-Fr 07:00-16:00, Sa-Su off",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

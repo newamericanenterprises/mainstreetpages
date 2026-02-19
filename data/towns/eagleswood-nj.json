@@ -1,0 +1,75 @@
+{
+  "name": "Eagleswood",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": null,
+  "slug": "eagleswood-nj",
+  "businesses": [
+    {
+      "name": "Adventure Mini Golf",
+      "category": "Attraction",
+      "address": "Eagleswood, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Brennan Fuels",
+      "category": "Gas Station",
+      "address": "Eagleswood, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "West Creek Liquor",
+      "category": "Liquor Store",
+      "address": "Eagleswood, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Antoinetta's Restaurant",
+      "category": "Restaurant",
+      "address": "523 Cedar Run Dock Road, Eagleswood, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Calloway's Restaurant & Bar",
+      "category": "Restaurant",
+      "address": "597 Main Street, Eagleswood, NJ 08092",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

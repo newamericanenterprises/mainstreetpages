@@ -1,0 +1,101 @@
+{
+  "name": "West Amwell",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 3840,
+  "slug": "west-amwell-nj",
+  "businesses": [
+    {
+      "name": "Wheelfine Imports",
+      "category": "Bicycle Shop",
+      "address": "West Amwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "QuickChek",
+      "category": "Gas Station",
+      "address": "West Amwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pine Creek Liquors",
+      "category": "Liquor Store",
+      "address": "West Amwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Big Bear Gear",
+      "category": "Outdoor Store",
+      "address": "1847 River Road, West Amwell, NJ 08530",
+      "phone": "+1-609-460-4784",
+      "email": "",
+      "website": "https://bigbeargearnj.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Amwell Valley Diner Restaurant",
+      "category": "Restaurant",
+      "address": "400 NJ 31, West Amwell, NJ 08551",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "U-Haul",
+      "category": "Storage rental",
+      "address": "West Amwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "West Amwell, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
