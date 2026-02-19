@@ -1,0 +1,23 @@
+{
+  "name": "East Newark",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2217,
+  "slug": "east-newark-nj",
+  "businesses": [
+    {
+      "name": "Tops Diner",
+      "category": "Restaurant",
+      "address": "500 Passaic Avenue, East Newark, NJ 07029",
+      "phone": "+1-973-481-0490",
+      "email": "",
+      "website": "https://www.thetopsdiner.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

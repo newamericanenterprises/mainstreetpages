@@ -1,0 +1,62 @@
+{
+  "name": "Mullica",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 6147,
+  "slug": "mullica-nj",
+  "businesses": [
+    {
+      "name": "Evolution Motorsports",
+      "category": "Car Dealership",
+      "address": "4930 White Horse Pike, Mullica, NJ 08215",
+      "phone": "+1-609-593-3899",
+      "email": "Artarantino2@gmail.com",
+      "website": "https://www.evolutionmotorsportsnj.com/",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Elwood Deli",
+      "category": "Deli",
+      "address": "4531 South White Horse Pike, Mullica, NJ 08217",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Valero",
+      "category": "Gas Station",
+      "address": "Mullica, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Dollar General",
+      "category": "Variety Store",
+      "address": "Mullica, NJ 08217",
+      "phone": "",
+      "email": "",
+      "website": "https://www.dollargeneral.com/store-directory/nj/elwood/20665",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

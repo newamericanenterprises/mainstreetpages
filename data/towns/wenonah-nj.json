@@ -1,0 +1,36 @@
+{
+  "name": "Wenonah",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2333,
+  "slug": "wenonah-nj",
+  "businesses": [
+    {
+      "name": "Wells Fargo",
+      "category": "Bank",
+      "address": "Wenonah, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hawk's Corner Deli",
+      "category": "Deli",
+      "address": "Wenonah, NJ",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

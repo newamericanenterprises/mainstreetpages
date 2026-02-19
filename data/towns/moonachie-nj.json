@@ -1,0 +1,49 @@
+{
+  "name": "Moonachie",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": null,
+  "population": 2797,
+  "slug": "moonachie-nj",
+  "businesses": [
+    {
+      "name": "Baron II Drug & Surgical",
+      "category": "Pharmacy",
+      "address": "91 Moonachie Road, Moonachie, NJ 07074",
+      "phone": "+1 201-641-1110",
+      "email": "",
+      "website": "https://baroniidrugandsurgical.com",
+      "hours": "Mo-Fr 08:00-19:00, Sa 09:00-15:00",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "La Havana",
+      "category": "Restaurant",
+      "address": "100 Moonachie Avenue, Moonachie, NJ 07074",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Paradiso Deli & Cafe",
+      "category": "Restaurant",
+      "address": "250 Moonachie Road, Moonachie, NJ 07074",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
