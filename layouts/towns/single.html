@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ $townData := index .Site.Data.towns .Params.town_data }}
+<div class="town-page">
+  <header class="town-header">
+    <h1>{{ $townData.name }}, {{ $townData.state_abbr }}</h1>
+    <div class="town-meta">
+      <span class="meta-item"><strong>County:</strong> {{ $townData.county }}</span>
+      <span class="meta-item"><strong>State:</strong> {{ $townData.state }}</span>
+      <span class="meta-item"><strong>Population:</strong> {{ $townData.population | lang.FormatNumber 0 }}</span>
+    </div>
+  </header>
+
+  <section class="businesses">
+    <h2>Local Businesses</h2>
+    {{ if $townData.businesses }}
+    <div class="business-list">
+      {{ range $townData.businesses }}
+      <div class="business-card">
+        <h3>{{ .name }}</h3>
+        <p class="business-category">{{ .category }}</p>
+        <p class="business-address">{{ .address }}</p>
+        <p class="business-phone">{{ .phone }}</p>
+      </div>
+      {{ end }}
+    </div>
+    {{ else }}
+    <p>No businesses listed yet for this town.</p>
+    {{ end }}
+  </section>
+</div>
+{{ end }}

@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="homepage">
+  <section class="hero">
+    <h1>Find Local Businesses in Every Town in America</h1>
+    <p class="hero-description">MainStreetPages is your trusted directory for discovering local businesses in communities across the nation. From restaurants to retail, services to specialists — find what you need, right in your neighborhood.</p>
+  </section>
+
+  <section class="featured-towns">
+    <h2>Browse Towns</h2>
+    <ul class="town-list">
+      {{ range .Site.RegularPages }}
+        {{ if eq .Type "towns" }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+</div>
+{{ end }}

@@ -1,0 +1,16 @@
+{
+  "name": "Trenton",
+  "state": "New Jersey",
+  "state_abbr": "NJ",
+  "county": "Mercer",
+  "population": 90871,
+  "slug": "trenton-nj",
+  "businesses": [
+    {
+      "name": "Sample Business",
+      "category": "Restaurant",
+      "address": "123 Main St, Trenton, NJ",
+      "phone": "(609) 555-0100"
+    }
+  ]
+}
