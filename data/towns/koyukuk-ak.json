@@ -1,0 +1,75 @@
+{
+  "name": "Koyukuk",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 73,
+  "slug": "koyukuk-ak",
+  "businesses": [
+    {
+      "name": "Alaskan Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Koyukuk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe",
+      "category": "Cafe",
+      "address": "Koyukuk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Bar Services",
+      "category": "Bar",
+      "address": "Koyukuk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal General Store Inc",
+      "category": "General Store",
+      "address": "Koyukuk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Gas Station & Co",
+      "category": "Gas Station",
+      "address": "Koyukuk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

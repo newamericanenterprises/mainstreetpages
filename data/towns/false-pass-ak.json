@@ -1,0 +1,75 @@
+{
+  "name": "False Pass",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Aleutians East",
+  "population": 64,
+  "slug": "false-pass-ak",
+  "businesses": [
+    {
+      "name": "Frontier Restaurant LLC",
+      "category": "Restaurant",
+      "address": "False Pass, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe & Co",
+      "category": "Cafe",
+      "address": "False Pass, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Bar & Co",
+      "category": "Bar",
+      "address": "False Pass, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness General Store LLC",
+      "category": "General Store",
+      "address": "False Pass, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Gas Station Services",
+      "category": "Gas Station",
+      "address": "False Pass, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

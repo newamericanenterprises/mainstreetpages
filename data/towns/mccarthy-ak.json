@@ -1,0 +1,75 @@
+{
+  "name": "McCarthy",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Valdez-Cordova",
+  "population": 28,
+  "slug": "mccarthy-ak",
+  "businesses": [
+    {
+      "name": "Tundra Restaurant & Co",
+      "category": "Restaurant",
+      "address": "McCarthy, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Cafe & Co",
+      "category": "Cafe",
+      "address": "McCarthy, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Bar",
+      "category": "Bar",
+      "address": "McCarthy, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern General Store",
+      "category": "General Store",
+      "address": "McCarthy, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Gas Station & Co",
+      "category": "Gas Station",
+      "address": "McCarthy, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

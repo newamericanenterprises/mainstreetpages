@@ -1,0 +1,75 @@
+{
+  "name": "Perryville",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Dillingham",
+  "population": 95,
+  "slug": "perryville-ak",
+  "businesses": [
+    {
+      "name": "Perryville Restaurant",
+      "category": "Restaurant",
+      "address": "Perryville, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Cafe & Co",
+      "category": "Cafe",
+      "address": "Perryville, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar LLC",
+      "category": "Bar",
+      "address": "Perryville, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier General Store Inc",
+      "category": "General Store",
+      "address": "Perryville, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Perryville, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

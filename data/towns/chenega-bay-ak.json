@@ -1,0 +1,75 @@
+{
+  "name": "Chenega Bay",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Valdez-Cordova",
+  "population": 54,
+  "slug": "chenega-bay-ak",
+  "businesses": [
+    {
+      "name": "Frontier Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Chenega Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe Services",
+      "category": "Cafe",
+      "address": "Chenega Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar Inc",
+      "category": "Bar",
+      "address": "Chenega Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal General Store LLC",
+      "category": "General Store",
+      "address": "Chenega Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Gas Station",
+      "category": "Gas Station",
+      "address": "Chenega Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

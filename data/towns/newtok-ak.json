@@ -1,0 +1,75 @@
+{
+  "name": "Newtok",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Bethel",
+  "population": 64,
+  "slug": "newtok-ak",
+  "businesses": [
+    {
+      "name": "Northern Restaurant Services",
+      "category": "Restaurant",
+      "address": "Newtok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Cafe Services",
+      "category": "Cafe",
+      "address": "Newtok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Bar Inc",
+      "category": "Bar",
+      "address": "Newtok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Newtok General Store & Co",
+      "category": "General Store",
+      "address": "Newtok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Gas Station LLC",
+      "category": "Gas Station",
+      "address": "Newtok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

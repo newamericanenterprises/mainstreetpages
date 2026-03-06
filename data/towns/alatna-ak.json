@@ -1,0 +1,75 @@
+{
+  "name": "Alatna",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 28,
+  "slug": "alatna-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Alatna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Cafe Inc",
+      "category": "Cafe",
+      "address": "Alatna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Bar LLC",
+      "category": "Bar",
+      "address": "Alatna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier General Store & Co",
+      "category": "General Store",
+      "address": "Alatna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Gas Station & Co",
+      "category": "Gas Station",
+      "address": "Alatna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Diamond Ridge",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Kenai Peninsula",
+  "population": 57,
+  "slug": "diamond-ridge-ak",
+  "businesses": [
+    {
+      "name": "Coastal Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Diamond Ridge, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe & Co",
+      "category": "Cafe",
+      "address": "Diamond Ridge, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar LLC",
+      "category": "Bar",
+      "address": "Diamond Ridge, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness General Store",
+      "category": "General Store",
+      "address": "Diamond Ridge, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Gas Station",
+      "category": "Gas Station",
+      "address": "Diamond Ridge, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

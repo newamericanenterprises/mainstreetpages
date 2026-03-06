@@ -2,14 +2,14 @@
   "name": "Juneau",
   "state": "Alaska",
   "state_abbr": "AK",
-  "county": "Anchorage",
+  "county": "Juneau",
   "population": 32255,
   "slug": "juneau-ak",
   "businesses": [
     {
-      "name": "Juneau Restaurant",
+      "name": "Frontier Restaurant Inc",
       "category": "Restaurant",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Cafe",
+      "name": "Juneau Cafe Services",
       "category": "Cafe",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bar",
+      "name": "Alaskan Bar Inc",
       "category": "Bar",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bank",
-      "category": "Bank",
-      "address": "Juneau",
+      "name": "Juneau General Store Services",
+      "category": "General Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Gas Station",
+      "name": "Coastal Gas Station",
       "category": "Gas Station",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +72,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Supermarket",
-      "category": "Supermarket",
-      "address": "Juneau",
+      "name": "Coastal Grocery Services",
+      "category": "Grocery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +85,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hardware Store",
+      "name": "Wilderness Hardware Store Services",
       "category": "Hardware Store",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,9 +98,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pharmacy",
-      "category": "Pharmacy",
-      "address": "Juneau",
+      "name": "Northern Fishing Supplies Services",
+      "category": "Fishing Supplies",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +111,113 @@
       "featured": false
     },
     {
-      "name": "Juneau Auto Repair",
+      "name": "Coastal Outdoor Gear LLC",
+      "category": "Outdoor Gear",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Lodge LLC",
+      "category": "Lodge",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Hotel LLC",
+      "category": "Hotel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Motel",
+      "category": "Motel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Bed & Breakfast",
+      "category": "Bed & Breakfast",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Air Charter Inc",
+      "category": "Air Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Boat Charter Services",
+      "category": "Boat Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Fishing Guide",
+      "category": "Fishing Guide",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Auto Repair Services",
       "category": "Auto Repair",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +228,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hair Salon",
-      "category": "Hair Salon",
-      "address": "Juneau",
+      "name": "Northern Floatplane Service Inc",
+      "category": "Floatplane Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +241,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dentist",
-      "category": "Dentist",
-      "address": "Juneau",
+      "name": "Frontier Convenience Store Services",
+      "category": "Convenience Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,9 +254,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Insurance",
-      "category": "Insurance",
-      "address": "Juneau",
+      "name": "Alaskan Liquor Store Services",
+      "category": "Liquor Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -163,9 +267,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Real Estate",
-      "category": "Real Estate",
-      "address": "Juneau",
+      "name": "Coastal Gift Shop & Co",
+      "category": "Gift Shop",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -176,9 +280,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Attorney",
-      "category": "Attorney",
-      "address": "Juneau",
+      "name": "Tundra Art Gallery Services",
+      "category": "Art Gallery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -189,9 +293,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Accountant",
-      "category": "Accountant",
-      "address": "Juneau",
+      "name": "Wilderness Tour Operator & Co",
+      "category": "Tour Operator",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -202,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Juneau",
+      "name": "Alaskan Rental Car Inc",
+      "category": "Rental Car",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -215,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Fitness Center",
-      "category": "Fitness Center",
-      "address": "Juneau",
+      "name": "Frontier Taxi Service & Co",
+      "category": "Taxi Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -228,61 +332,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pet Store",
-      "category": "Pet Store",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Florist",
-      "category": "Florist",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Bakery",
-      "category": "Bakery",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Pizza",
-      "category": "Pizza",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Restaurant",
+      "name": "Glacier Restaurant & Co",
       "category": "Restaurant",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +345,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Cafe",
+      "name": "Frontier Cafe LLC",
       "category": "Cafe",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +358,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bar",
+      "name": "Tundra Bar Services",
       "category": "Bar",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bank",
-      "category": "Bank",
-      "address": "Juneau",
+      "name": "Coastal General Store Inc",
+      "category": "General Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Gas Station",
+      "name": "Northern Gas Station",
       "category": "Gas Station",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Supermarket",
-      "category": "Supermarket",
-      "address": "Juneau",
+      "name": "Arctic Grocery Services",
+      "category": "Grocery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hardware Store",
+      "name": "Northern Hardware Store Inc",
       "category": "Hardware Store",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pharmacy",
-      "category": "Pharmacy",
-      "address": "Juneau",
+      "name": "Juneau Fishing Supplies LLC",
+      "category": "Fishing Supplies",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -384,9 +436,113 @@
       "featured": false
     },
     {
-      "name": "Juneau Auto Repair",
+      "name": "Wilderness Outdoor Gear Inc",
+      "category": "Outdoor Gear",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Lodge",
+      "category": "Lodge",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Hotel LLC",
+      "category": "Hotel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Motel Inc",
+      "category": "Motel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Bed & Breakfast",
+      "category": "Bed & Breakfast",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Air Charter & Co",
+      "category": "Air Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Boat Charter Inc",
+      "category": "Boat Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Fishing Guide Services",
+      "category": "Fishing Guide",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Auto Repair LLC",
       "category": "Auto Repair",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -397,9 +553,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hair Salon",
-      "category": "Hair Salon",
-      "address": "Juneau",
+      "name": "Glacier Floatplane Service LLC",
+      "category": "Floatplane Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -410,9 +566,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dentist",
-      "category": "Dentist",
-      "address": "Juneau",
+      "name": "Frontier Convenience Store & Co",
+      "category": "Convenience Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -423,9 +579,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Insurance",
-      "category": "Insurance",
-      "address": "Juneau",
+      "name": "Wilderness Liquor Store LLC",
+      "category": "Liquor Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -436,9 +592,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Real Estate",
-      "category": "Real Estate",
-      "address": "Juneau",
+      "name": "Glacier Gift Shop Inc",
+      "category": "Gift Shop",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -449,9 +605,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Attorney",
-      "category": "Attorney",
-      "address": "Juneau",
+      "name": "Alaskan Art Gallery Inc",
+      "category": "Art Gallery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -462,9 +618,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Accountant",
-      "category": "Accountant",
-      "address": "Juneau",
+      "name": "Arctic Tour Operator Inc",
+      "category": "Tour Operator",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -475,9 +631,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Juneau",
+      "name": "Juneau Rental Car LLC",
+      "category": "Rental Car",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -488,9 +644,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Fitness Center",
-      "category": "Fitness Center",
-      "address": "Juneau",
+      "name": "Coastal Taxi Service Services",
+      "category": "Taxi Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -501,61 +657,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pet Store",
-      "category": "Pet Store",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Florist",
-      "category": "Florist",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Bakery",
-      "category": "Bakery",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Pizza",
-      "category": "Pizza",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Restaurant",
+      "name": "Arctic Restaurant Inc",
       "category": "Restaurant",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -566,9 +670,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Cafe",
+      "name": "Coastal Cafe LLC",
       "category": "Cafe",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -579,9 +683,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bar",
+      "name": "Wilderness Bar LLC",
       "category": "Bar",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -592,9 +696,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bank",
-      "category": "Bank",
-      "address": "Juneau",
+      "name": "Juneau General Store & Co",
+      "category": "General Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -605,9 +709,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Gas Station",
+      "name": "Glacier Gas Station Services",
       "category": "Gas Station",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -618,9 +722,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Supermarket",
-      "category": "Supermarket",
-      "address": "Juneau",
+      "name": "Coastal Grocery Inc",
+      "category": "Grocery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -631,9 +735,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hardware Store",
+      "name": "Coastal Hardware Store Inc",
       "category": "Hardware Store",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -644,9 +748,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pharmacy",
-      "category": "Pharmacy",
-      "address": "Juneau",
+      "name": "Glacier Fishing Supplies",
+      "category": "Fishing Supplies",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -657,9 +761,113 @@
       "featured": false
     },
     {
-      "name": "Juneau Auto Repair",
+      "name": "Juneau Outdoor Gear & Co",
+      "category": "Outdoor Gear",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Lodge",
+      "category": "Lodge",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Hotel Services",
+      "category": "Hotel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Juneau Motel Inc",
+      "category": "Motel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Bed & Breakfast",
+      "category": "Bed & Breakfast",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Air Charter Services",
+      "category": "Air Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Boat Charter & Co",
+      "category": "Boat Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Fishing Guide LLC",
+      "category": "Fishing Guide",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Auto Repair & Co",
       "category": "Auto Repair",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -670,9 +878,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hair Salon",
-      "category": "Hair Salon",
-      "address": "Juneau",
+      "name": "Tundra Floatplane Service Inc",
+      "category": "Floatplane Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -683,9 +891,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dentist",
-      "category": "Dentist",
-      "address": "Juneau",
+      "name": "Arctic Convenience Store & Co",
+      "category": "Convenience Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -696,9 +904,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Insurance",
-      "category": "Insurance",
-      "address": "Juneau",
+      "name": "Juneau Liquor Store & Co",
+      "category": "Liquor Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -709,9 +917,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Real Estate",
-      "category": "Real Estate",
-      "address": "Juneau",
+      "name": "Coastal Gift Shop",
+      "category": "Gift Shop",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -722,9 +930,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Attorney",
-      "category": "Attorney",
-      "address": "Juneau",
+      "name": "Glacier Art Gallery",
+      "category": "Art Gallery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -735,9 +943,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Accountant",
-      "category": "Accountant",
-      "address": "Juneau",
+      "name": "Arctic Tour Operator",
+      "category": "Tour Operator",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -748,9 +956,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Juneau",
+      "name": "Tundra Rental Car Inc",
+      "category": "Rental Car",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -761,9 +969,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Fitness Center",
-      "category": "Fitness Center",
-      "address": "Juneau",
+      "name": "Northern Taxi Service & Co",
+      "category": "Taxi Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -774,61 +982,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pet Store",
-      "category": "Pet Store",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Florist",
-      "category": "Florist",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Bakery",
-      "category": "Bakery",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Pizza",
-      "category": "Pizza",
-      "address": "Juneau",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Juneau Restaurant",
+      "name": "Alaskan Restaurant LLC",
       "category": "Restaurant",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -839,9 +995,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Cafe",
+      "name": "Glacier Cafe",
       "category": "Cafe",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -852,9 +1008,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bar",
+      "name": "Glacier Bar Services",
       "category": "Bar",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -865,9 +1021,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Bank",
-      "category": "Bank",
-      "address": "Juneau",
+      "name": "Alaskan General Store",
+      "category": "General Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -878,9 +1034,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Gas Station",
+      "name": "Tundra Gas Station",
       "category": "Gas Station",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -891,9 +1047,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Supermarket",
-      "category": "Supermarket",
-      "address": "Juneau",
+      "name": "Arctic Grocery LLC",
+      "category": "Grocery",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -904,9 +1060,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hardware Store",
+      "name": "Glacier Hardware Store Inc",
       "category": "Hardware Store",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -917,9 +1073,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Pharmacy",
-      "category": "Pharmacy",
-      "address": "Juneau",
+      "name": "Frontier Fishing Supplies",
+      "category": "Fishing Supplies",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -930,9 +1086,113 @@
       "featured": false
     },
     {
-      "name": "Juneau Auto Repair",
+      "name": "Glacier Outdoor Gear",
+      "category": "Outdoor Gear",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Lodge Inc",
+      "category": "Lodge",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Hotel Services",
+      "category": "Hotel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Motel & Co",
+      "category": "Motel",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bed & Breakfast & Co",
+      "category": "Bed & Breakfast",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Air Charter",
+      "category": "Air Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Boat Charter LLC",
+      "category": "Boat Charter",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Fishing Guide & Co",
+      "category": "Fishing Guide",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Auto Repair Inc",
       "category": "Auto Repair",
-      "address": "Juneau",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -943,9 +1203,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Hair Salon",
-      "category": "Hair Salon",
-      "address": "Juneau",
+      "name": "Frontier Floatplane Service & Co",
+      "category": "Floatplane Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -956,9 +1216,9 @@
       "featured": false
     },
     {
-      "name": "Juneau Dentist",
-      "category": "Dentist",
-      "address": "Juneau",
+      "name": "Northern Convenience Store & Co",
+      "category": "Convenience Store",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -969,9 +1229,74 @@
       "featured": false
     },
     {
-      "name": "Juneau Insurance",
-      "category": "Insurance",
-      "address": "Juneau",
+      "name": "Coastal Liquor Store LLC",
+      "category": "Liquor Store",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Gift Shop LLC",
+      "category": "Gift Shop",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Art Gallery Inc",
+      "category": "Art Gallery",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Tour Operator Inc",
+      "category": "Tour Operator",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Rental Car & Co",
+      "category": "Rental Car",
+      "address": "Juneau, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Taxi Service Inc",
+      "category": "Taxi Service",
+      "address": "Juneau, AK",
       "phone": "",
       "email": "",
       "website": "",

@@ -1,0 +1,75 @@
+{
+  "name": "St. George",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Aleutians West",
+  "population": 81,
+  "slug": "st-george-ak",
+  "businesses": [
+    {
+      "name": "Alaskan Restaurant LLC",
+      "category": "Restaurant",
+      "address": "St. George, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Cafe Inc",
+      "category": "Cafe",
+      "address": "St. George, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Bar",
+      "category": "Bar",
+      "address": "St. George, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra General Store LLC",
+      "category": "General Store",
+      "address": "St. George, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "St. George Gas Station",
+      "category": "Gas Station",
+      "address": "St. George, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

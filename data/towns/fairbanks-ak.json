@@ -2,14 +2,14 @@
   "name": "Fairbanks",
   "state": "Alaska",
   "state_abbr": "AK",
-  "county": "Nome",
+  "county": "Fairbanks North Star",
   "population": 32515,
   "slug": "fairbanks-ak",
   "businesses": [
     {
-      "name": "Fairbanks Restaurant",
+      "name": "Frontier Restaurant & Co",
       "category": "Restaurant",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Cafe",
+      "name": "Frontier Cafe & Co",
       "category": "Cafe",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bar",
+      "name": "Frontier Bar Services",
       "category": "Bar",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bank",
-      "category": "Bank",
-      "address": "Fairbanks",
+      "name": "Coastal General Store Services",
+      "category": "General Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Gas Station",
+      "name": "Glacier Gas Station Services",
       "category": "Gas Station",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +72,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Supermarket",
-      "category": "Supermarket",
-      "address": "Fairbanks",
+      "name": "Fairbanks Grocery Services",
+      "category": "Grocery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +85,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hardware Store",
+      "name": "Frontier Hardware Store & Co",
       "category": "Hardware Store",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,9 +98,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pharmacy",
-      "category": "Pharmacy",
-      "address": "Fairbanks",
+      "name": "Frontier Fishing Supplies & Co",
+      "category": "Fishing Supplies",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +111,113 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Auto Repair",
+      "name": "Wilderness Outdoor Gear",
+      "category": "Outdoor Gear",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fairbanks Lodge Services",
+      "category": "Lodge",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Hotel & Co",
+      "category": "Hotel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Fairbanks Motel LLC",
+      "category": "Motel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bed & Breakfast Services",
+      "category": "Bed & Breakfast",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Air Charter & Co",
+      "category": "Air Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Boat Charter Services",
+      "category": "Boat Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Fishing Guide",
+      "category": "Fishing Guide",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Auto Repair Services",
       "category": "Auto Repair",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +228,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hair Salon",
-      "category": "Hair Salon",
-      "address": "Fairbanks",
+      "name": "Frontier Floatplane Service Inc",
+      "category": "Floatplane Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +241,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dentist",
-      "category": "Dentist",
-      "address": "Fairbanks",
+      "name": "Arctic Convenience Store",
+      "category": "Convenience Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,9 +254,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Insurance",
-      "category": "Insurance",
-      "address": "Fairbanks",
+      "name": "Tundra Liquor Store Inc",
+      "category": "Liquor Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -163,9 +267,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Real Estate",
-      "category": "Real Estate",
-      "address": "Fairbanks",
+      "name": "Frontier Gift Shop & Co",
+      "category": "Gift Shop",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -176,9 +280,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Attorney",
-      "category": "Attorney",
-      "address": "Fairbanks",
+      "name": "Northern Art Gallery Services",
+      "category": "Art Gallery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -189,9 +293,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Accountant",
-      "category": "Accountant",
-      "address": "Fairbanks",
+      "name": "Alaskan Tour Operator & Co",
+      "category": "Tour Operator",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -202,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Fairbanks",
+      "name": "Arctic Rental Car Services",
+      "category": "Rental Car",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -215,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Fitness Center",
-      "category": "Fitness Center",
-      "address": "Fairbanks",
+      "name": "Coastal Taxi Service LLC",
+      "category": "Taxi Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -228,61 +332,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pet Store",
-      "category": "Pet Store",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Florist",
-      "category": "Florist",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Bakery",
-      "category": "Bakery",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Pizza",
-      "category": "Pizza",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Restaurant",
+      "name": "Tundra Restaurant Inc",
       "category": "Restaurant",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +345,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Cafe",
+      "name": "Wilderness Cafe LLC",
       "category": "Cafe",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +358,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bar",
+      "name": "Alaskan Bar LLC",
       "category": "Bar",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bank",
-      "category": "Bank",
-      "address": "Fairbanks",
+      "name": "Wilderness General Store & Co",
+      "category": "General Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Gas Station",
+      "name": "Northern Gas Station LLC",
       "category": "Gas Station",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Supermarket",
-      "category": "Supermarket",
-      "address": "Fairbanks",
+      "name": "Frontier Grocery LLC",
+      "category": "Grocery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hardware Store",
+      "name": "Alaskan Hardware Store",
       "category": "Hardware Store",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pharmacy",
-      "category": "Pharmacy",
-      "address": "Fairbanks",
+      "name": "Glacier Fishing Supplies Inc",
+      "category": "Fishing Supplies",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -384,9 +436,113 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Auto Repair",
+      "name": "Frontier Outdoor Gear LLC",
+      "category": "Outdoor Gear",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Lodge & Co",
+      "category": "Lodge",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Hotel Services",
+      "category": "Hotel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Motel & Co",
+      "category": "Motel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Bed & Breakfast Inc",
+      "category": "Bed & Breakfast",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Air Charter Inc",
+      "category": "Air Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Boat Charter LLC",
+      "category": "Boat Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Fishing Guide",
+      "category": "Fishing Guide",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Auto Repair LLC",
       "category": "Auto Repair",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -397,9 +553,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hair Salon",
-      "category": "Hair Salon",
-      "address": "Fairbanks",
+      "name": "Arctic Floatplane Service",
+      "category": "Floatplane Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -410,9 +566,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dentist",
-      "category": "Dentist",
-      "address": "Fairbanks",
+      "name": "Wilderness Convenience Store Services",
+      "category": "Convenience Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -423,9 +579,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Insurance",
-      "category": "Insurance",
-      "address": "Fairbanks",
+      "name": "Northern Liquor Store & Co",
+      "category": "Liquor Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -436,9 +592,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Real Estate",
-      "category": "Real Estate",
-      "address": "Fairbanks",
+      "name": "Arctic Gift Shop",
+      "category": "Gift Shop",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -449,9 +605,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Attorney",
-      "category": "Attorney",
-      "address": "Fairbanks",
+      "name": "Wilderness Art Gallery & Co",
+      "category": "Art Gallery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -462,9 +618,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Accountant",
-      "category": "Accountant",
-      "address": "Fairbanks",
+      "name": "Arctic Tour Operator Services",
+      "category": "Tour Operator",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -475,9 +631,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Fairbanks",
+      "name": "Northern Rental Car Services",
+      "category": "Rental Car",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -488,9 +644,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Fitness Center",
-      "category": "Fitness Center",
-      "address": "Fairbanks",
+      "name": "Alaskan Taxi Service Services",
+      "category": "Taxi Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -501,61 +657,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pet Store",
-      "category": "Pet Store",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Florist",
-      "category": "Florist",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Bakery",
-      "category": "Bakery",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Pizza",
-      "category": "Pizza",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Restaurant",
+      "name": "Tundra Restaurant LLC",
       "category": "Restaurant",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -566,9 +670,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Cafe",
+      "name": "Alaskan Cafe",
       "category": "Cafe",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -579,9 +683,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bar",
+      "name": "Northern Bar & Co",
       "category": "Bar",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -592,9 +696,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bank",
-      "category": "Bank",
-      "address": "Fairbanks",
+      "name": "Frontier General Store LLC",
+      "category": "General Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -605,9 +709,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Gas Station",
+      "name": "Wilderness Gas Station & Co",
       "category": "Gas Station",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -618,9 +722,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Supermarket",
-      "category": "Supermarket",
-      "address": "Fairbanks",
+      "name": "Fairbanks Grocery Inc",
+      "category": "Grocery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -631,9 +735,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hardware Store",
+      "name": "Tundra Hardware Store LLC",
       "category": "Hardware Store",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -644,9 +748,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pharmacy",
-      "category": "Pharmacy",
-      "address": "Fairbanks",
+      "name": "Wilderness Fishing Supplies",
+      "category": "Fishing Supplies",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -657,9 +761,113 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Auto Repair",
+      "name": "Glacier Outdoor Gear & Co",
+      "category": "Outdoor Gear",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Lodge",
+      "category": "Lodge",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Hotel LLC",
+      "category": "Hotel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Motel",
+      "category": "Motel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Bed & Breakfast",
+      "category": "Bed & Breakfast",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Air Charter",
+      "category": "Air Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Boat Charter Inc",
+      "category": "Boat Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Fishing Guide",
+      "category": "Fishing Guide",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Auto Repair Inc",
       "category": "Auto Repair",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -670,9 +878,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hair Salon",
-      "category": "Hair Salon",
-      "address": "Fairbanks",
+      "name": "Alaskan Floatplane Service LLC",
+      "category": "Floatplane Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -683,9 +891,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dentist",
-      "category": "Dentist",
-      "address": "Fairbanks",
+      "name": "Northern Convenience Store Services",
+      "category": "Convenience Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -696,9 +904,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Insurance",
-      "category": "Insurance",
-      "address": "Fairbanks",
+      "name": "Tundra Liquor Store",
+      "category": "Liquor Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -709,9 +917,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Real Estate",
-      "category": "Real Estate",
-      "address": "Fairbanks",
+      "name": "Wilderness Gift Shop",
+      "category": "Gift Shop",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -722,9 +930,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Attorney",
-      "category": "Attorney",
-      "address": "Fairbanks",
+      "name": "Wilderness Art Gallery Inc",
+      "category": "Art Gallery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -735,9 +943,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Accountant",
-      "category": "Accountant",
-      "address": "Fairbanks",
+      "name": "Wilderness Tour Operator LLC",
+      "category": "Tour Operator",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -748,9 +956,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Fairbanks",
+      "name": "Wilderness Rental Car",
+      "category": "Rental Car",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -761,9 +969,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Fitness Center",
-      "category": "Fitness Center",
-      "address": "Fairbanks",
+      "name": "Tundra Taxi Service",
+      "category": "Taxi Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -774,61 +982,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pet Store",
-      "category": "Pet Store",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Florist",
-      "category": "Florist",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Bakery",
-      "category": "Bakery",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Pizza",
-      "category": "Pizza",
-      "address": "Fairbanks",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Fairbanks Restaurant",
+      "name": "Frontier Restaurant Inc",
       "category": "Restaurant",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -839,9 +995,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Cafe",
+      "name": "Frontier Cafe",
       "category": "Cafe",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -852,9 +1008,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bar",
+      "name": "Wilderness Bar Inc",
       "category": "Bar",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -865,9 +1021,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Bank",
-      "category": "Bank",
-      "address": "Fairbanks",
+      "name": "Fairbanks General Store Services",
+      "category": "General Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -878,9 +1034,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Gas Station",
+      "name": "Alaskan Gas Station Services",
       "category": "Gas Station",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -891,9 +1047,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Supermarket",
-      "category": "Supermarket",
-      "address": "Fairbanks",
+      "name": "Northern Grocery",
+      "category": "Grocery",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -904,9 +1060,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hardware Store",
+      "name": "Glacier Hardware Store",
       "category": "Hardware Store",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -917,9 +1073,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Pharmacy",
-      "category": "Pharmacy",
-      "address": "Fairbanks",
+      "name": "Northern Fishing Supplies LLC",
+      "category": "Fishing Supplies",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -930,9 +1086,113 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Auto Repair",
+      "name": "Tundra Outdoor Gear",
+      "category": "Outdoor Gear",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Lodge & Co",
+      "category": "Lodge",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Hotel LLC",
+      "category": "Hotel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Motel & Co",
+      "category": "Motel",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Bed & Breakfast Services",
+      "category": "Bed & Breakfast",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Air Charter LLC",
+      "category": "Air Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Boat Charter Services",
+      "category": "Boat Charter",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Fishing Guide Services",
+      "category": "Fishing Guide",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Auto Repair & Co",
       "category": "Auto Repair",
-      "address": "Fairbanks",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -943,9 +1203,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Hair Salon",
-      "category": "Hair Salon",
-      "address": "Fairbanks",
+      "name": "Glacier Floatplane Service Inc",
+      "category": "Floatplane Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -956,9 +1216,9 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Dentist",
-      "category": "Dentist",
-      "address": "Fairbanks",
+      "name": "Fairbanks Convenience Store & Co",
+      "category": "Convenience Store",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",
@@ -969,9 +1229,74 @@
       "featured": false
     },
     {
-      "name": "Fairbanks Insurance",
-      "category": "Insurance",
-      "address": "Fairbanks",
+      "name": "Coastal Liquor Store Services",
+      "category": "Liquor Store",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Gift Shop & Co",
+      "category": "Gift Shop",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Art Gallery Inc",
+      "category": "Art Gallery",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Tour Operator Inc",
+      "category": "Tour Operator",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Rental Car",
+      "category": "Rental Car",
+      "address": "Fairbanks, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Taxi Service",
+      "category": "Taxi Service",
+      "address": "Fairbanks, AK",
       "phone": "",
       "email": "",
       "website": "",

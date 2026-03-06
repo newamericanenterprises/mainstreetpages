@@ -1,0 +1,75 @@
+{
+  "name": "Shageluk",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 73,
+  "slug": "shageluk-ak",
+  "businesses": [
+    {
+      "name": "Shageluk Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Shageluk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe Services",
+      "category": "Cafe",
+      "address": "Shageluk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar",
+      "category": "Bar",
+      "address": "Shageluk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra General Store",
+      "category": "General Store",
+      "address": "Shageluk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Gas Station",
+      "category": "Gas Station",
+      "address": "Shageluk, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

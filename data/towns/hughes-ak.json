@@ -1,0 +1,75 @@
+{
+  "name": "Hughes",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 77,
+  "slug": "hughes-ak",
+  "businesses": [
+    {
+      "name": "Coastal Restaurant LLC",
+      "category": "Restaurant",
+      "address": "Hughes, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe Services",
+      "category": "Cafe",
+      "address": "Hughes, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar Services",
+      "category": "Bar",
+      "address": "Hughes, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hughes General Store Services",
+      "category": "General Store",
+      "address": "Hughes, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hughes Gas Station & Co",
+      "category": "Gas Station",
+      "address": "Hughes, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Larsen Bay",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Kodiak Island",
+  "population": 73,
+  "slug": "larsen-bay-ak",
+  "businesses": [
+    {
+      "name": "Tundra Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Larsen Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe Inc",
+      "category": "Cafe",
+      "address": "Larsen Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Bar & Co",
+      "category": "Bar",
+      "address": "Larsen Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier General Store & Co",
+      "category": "General Store",
+      "address": "Larsen Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Larsen Bay, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

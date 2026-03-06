@@ -1,0 +1,75 @@
+{
+  "name": "Happy Valley",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Kenai Peninsula",
+  "population": 83,
+  "slug": "happy-valley-ak",
+  "businesses": [
+    {
+      "name": "Wilderness Restaurant Services",
+      "category": "Restaurant",
+      "address": "Happy Valley, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Cafe LLC",
+      "category": "Cafe",
+      "address": "Happy Valley, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Bar LLC",
+      "category": "Bar",
+      "address": "Happy Valley, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan General Store & Co",
+      "category": "General Store",
+      "address": "Happy Valley, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Gas Station",
+      "category": "Gas Station",
+      "address": "Happy Valley, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

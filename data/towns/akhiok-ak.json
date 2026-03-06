@@ -1,0 +1,75 @@
+{
+  "name": "Akhiok",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Kodiak Island",
+  "population": 54,
+  "slug": "akhiok-ak",
+  "businesses": [
+    {
+      "name": "Glacier Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Akhiok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Cafe LLC",
+      "category": "Cafe",
+      "address": "Akhiok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Akhiok Bar LLC",
+      "category": "Bar",
+      "address": "Akhiok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier General Store & Co",
+      "category": "General Store",
+      "address": "Akhiok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Gas Station",
+      "category": "Gas Station",
+      "address": "Akhiok, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Elfin Cove",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Hoonah-Angoon",
+  "population": 20,
+  "slug": "elfin-cove-ak",
+  "businesses": [
+    {
+      "name": "Northern Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Elfin Cove, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe",
+      "category": "Cafe",
+      "address": "Elfin Cove, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Bar LLC",
+      "category": "Bar",
+      "address": "Elfin Cove, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra General Store Inc",
+      "category": "General Store",
+      "address": "Elfin Cove, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Gas Station LLC",
+      "category": "Gas Station",
+      "address": "Elfin Cove, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

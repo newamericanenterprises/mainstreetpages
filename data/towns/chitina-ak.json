@@ -1,0 +1,75 @@
+{
+  "name": "Chitina",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Valdez-Cordova",
+  "population": 91,
+  "slug": "chitina-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Chitina, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Chitina Cafe",
+      "category": "Cafe",
+      "address": "Chitina, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Bar Services",
+      "category": "Bar",
+      "address": "Chitina, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern General Store LLC",
+      "category": "General Store",
+      "address": "Chitina, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Gas Station",
+      "category": "Gas Station",
+      "address": "Chitina, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

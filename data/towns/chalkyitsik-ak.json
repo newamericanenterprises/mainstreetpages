@@ -1,0 +1,75 @@
+{
+  "name": "Chalkyitsik",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 56,
+  "slug": "chalkyitsik-ak",
+  "businesses": [
+    {
+      "name": "Coastal Restaurant",
+      "category": "Restaurant",
+      "address": "Chalkyitsik, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe",
+      "category": "Cafe",
+      "address": "Chalkyitsik, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Bar LLC",
+      "category": "Bar",
+      "address": "Chalkyitsik, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness General Store",
+      "category": "General Store",
+      "address": "Chalkyitsik, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Gas Station LLC",
+      "category": "Gas Station",
+      "address": "Chalkyitsik, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

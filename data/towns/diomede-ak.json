@@ -1,0 +1,75 @@
+{
+  "name": "Diomede",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Nome",
+  "population": 83,
+  "slug": "diomede-ak",
+  "businesses": [
+    {
+      "name": "Glacier Restaurant",
+      "category": "Restaurant",
+      "address": "Diomede, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Cafe & Co",
+      "category": "Cafe",
+      "address": "Diomede, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Bar & Co",
+      "category": "Bar",
+      "address": "Diomede, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness General Store LLC",
+      "category": "General Store",
+      "address": "Diomede, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Diomede Gas Station Services",
+      "category": "Gas Station",
+      "address": "Diomede, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Pelican",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Hoonah-Angoon",
+  "population": 75,
+  "slug": "pelican-ak",
+  "businesses": [
+    {
+      "name": "Alaskan Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Pelican, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Cafe",
+      "category": "Cafe",
+      "address": "Pelican, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Bar Services",
+      "category": "Bar",
+      "address": "Pelican, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern General Store LLC",
+      "category": "General Store",
+      "address": "Pelican, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Pelican, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

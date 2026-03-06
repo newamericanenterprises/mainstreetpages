@@ -1,0 +1,75 @@
+{
+  "name": "Manley Hot Springs",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 67,
+  "slug": "manley-hot-springs-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Manley Hot Springs, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe LLC",
+      "category": "Cafe",
+      "address": "Manley Hot Springs, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Bar LLC",
+      "category": "Bar",
+      "address": "Manley Hot Springs, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier General Store LLC",
+      "category": "General Store",
+      "address": "Manley Hot Springs, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Gas Station LLC",
+      "category": "Gas Station",
+      "address": "Manley Hot Springs, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

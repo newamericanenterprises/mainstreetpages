@@ -1,0 +1,75 @@
+{
+  "name": "Nikolai",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 94,
+  "slug": "nikolai-ak",
+  "businesses": [
+    {
+      "name": "Northern Restaurant LLC",
+      "category": "Restaurant",
+      "address": "Nikolai, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe LLC",
+      "category": "Cafe",
+      "address": "Nikolai, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra Bar Services",
+      "category": "Bar",
+      "address": "Nikolai, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier General Store Inc",
+      "category": "General Store",
+      "address": "Nikolai, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Gas Station Services",
+      "category": "Gas Station",
+      "address": "Nikolai, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

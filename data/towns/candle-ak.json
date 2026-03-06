@@ -1,0 +1,75 @@
+{
+  "name": "Candle",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Northwest Arctic",
+  "population": 81,
+  "slug": "candle-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Candle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Cafe Services",
+      "category": "Cafe",
+      "address": "Candle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar Inc",
+      "category": "Bar",
+      "address": "Candle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic General Store",
+      "category": "General Store",
+      "address": "Candle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Gas Station & Co",
+      "category": "Gas Station",
+      "address": "Candle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

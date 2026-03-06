@@ -1,0 +1,75 @@
+{
+  "name": "Takotna",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 42,
+  "slug": "takotna-ak",
+  "businesses": [
+    {
+      "name": "Takotna Restaurant Services",
+      "category": "Restaurant",
+      "address": "Takotna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Cafe LLC",
+      "category": "Cafe",
+      "address": "Takotna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern Bar",
+      "category": "Bar",
+      "address": "Takotna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier General Store Services",
+      "category": "General Store",
+      "address": "Takotna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Takotna Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Takotna, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

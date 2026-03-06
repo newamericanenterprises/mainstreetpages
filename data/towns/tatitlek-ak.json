@@ -1,0 +1,75 @@
+{
+  "name": "Tatitlek",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Valdez-Cordova",
+  "population": 77,
+  "slug": "tatitlek-ak",
+  "businesses": [
+    {
+      "name": "Tundra Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Tatitlek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Cafe & Co",
+      "category": "Cafe",
+      "address": "Tatitlek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Bar Inc",
+      "category": "Bar",
+      "address": "Tatitlek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra General Store",
+      "category": "General Store",
+      "address": "Tatitlek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Tatitlek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

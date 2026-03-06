@@ -1,0 +1,75 @@
+{
+  "name": "Hyder",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Prince of Wales-Hyder",
+  "population": 66,
+  "slug": "hyder-ak",
+  "businesses": [
+    {
+      "name": "Frontier Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Hyder, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Cafe Inc",
+      "category": "Cafe",
+      "address": "Hyder, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar",
+      "category": "Bar",
+      "address": "Hyder, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal General Store",
+      "category": "General Store",
+      "address": "Hyder, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Gas Station Services",
+      "category": "Gas Station",
+      "address": "Hyder, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

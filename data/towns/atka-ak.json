@@ -1,0 +1,75 @@
+{
+  "name": "Atka",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Aleutians West",
+  "population": 48,
+  "slug": "atka-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant Inc",
+      "category": "Restaurant",
+      "address": "Atka, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe",
+      "category": "Cafe",
+      "address": "Atka, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Bar",
+      "category": "Bar",
+      "address": "Atka, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier General Store",
+      "category": "General Store",
+      "address": "Atka, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Gas Station",
+      "category": "Gas Station",
+      "address": "Atka, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Lime Village",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Bethel",
+  "population": 64,
+  "slug": "lime-village-ak",
+  "businesses": [
+    {
+      "name": "Frontier Restaurant & Co",
+      "category": "Restaurant",
+      "address": "Lime Village, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Cafe LLC",
+      "category": "Cafe",
+      "address": "Lime Village, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Glacier Bar",
+      "category": "Bar",
+      "address": "Lime Village, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Tundra General Store",
+      "category": "General Store",
+      "address": "Lime Village, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Gas Station & Co",
+      "category": "Gas Station",
+      "address": "Lime Village, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Birch Creek",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Yukon-Koyukuk",
+  "population": 33,
+  "slug": "birch-creek-ak",
+  "businesses": [
+    {
+      "name": "Glacier Restaurant LLC",
+      "category": "Restaurant",
+      "address": "Birch Creek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Arctic Cafe",
+      "category": "Cafe",
+      "address": "Birch Creek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Bar & Co",
+      "category": "Bar",
+      "address": "Birch Creek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Birch Creek General Store",
+      "category": "General Store",
+      "address": "Birch Creek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Frontier Gas Station Services",
+      "category": "Gas Station",
+      "address": "Birch Creek, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

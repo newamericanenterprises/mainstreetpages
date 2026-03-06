@@ -1,0 +1,75 @@
+{
+  "name": "Chiniak",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Kodiak Island",
+  "population": 75,
+  "slug": "chiniak-ak",
+  "businesses": [
+    {
+      "name": "Arctic Restaurant LLC",
+      "category": "Restaurant",
+      "address": "Chiniak, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Chiniak Cafe LLC",
+      "category": "Cafe",
+      "address": "Chiniak, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Chiniak Bar Inc",
+      "category": "Bar",
+      "address": "Chiniak, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness General Store LLC",
+      "category": "General Store",
+      "address": "Chiniak, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Coastal Gas Station Inc",
+      "category": "Gas Station",
+      "address": "Chiniak, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}

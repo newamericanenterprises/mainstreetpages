@@ -1,0 +1,75 @@
+{
+  "name": "Eagle",
+  "state": "Alaska",
+  "state_abbr": "AK",
+  "county": "Southeast Fairbanks",
+  "population": 86,
+  "slug": "eagle-ak",
+  "businesses": [
+    {
+      "name": "Northern Restaurant Services",
+      "category": "Restaurant",
+      "address": "Eagle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Alaskan Cafe LLC",
+      "category": "Cafe",
+      "address": "Eagle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wilderness Bar & Co",
+      "category": "Bar",
+      "address": "Eagle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Northern General Store Services",
+      "category": "General Store",
+      "address": "Eagle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Eagle Gas Station LLC",
+      "category": "Gas Station",
+      "address": "Eagle, AK",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    }
+  ]
+}
