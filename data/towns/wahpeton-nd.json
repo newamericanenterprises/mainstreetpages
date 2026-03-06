@@ -3,13 +3,13 @@
   "state": "North Dakota",
   "state_abbr": "ND",
   "county": "Richland",
-  "population": 7843,
+  "population": 7766,
   "slug": "wahpeton-nd",
   "businesses": [
     {
-      "name": "Wahpeton Restaurant",
-      "category": "Restaurant",
-      "address": "Wahpeton",
+      "name": "Wahpeton Coffee Shop Center",
+      "category": "Coffee Shop",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Cafe",
-      "category": "Cafe",
-      "address": "Wahpeton",
+      "name": "Heritage Pawn Shop of Wahpeton",
+      "category": "Pawn Shop",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Bar",
-      "category": "Bar",
-      "address": "Wahpeton",
+      "name": "Richland Pest Control Group",
+      "category": "Pest Control",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Bank",
-      "category": "Bank",
-      "address": "Wahpeton",
+      "name": "Wahpeton Convenience Store Inc",
+      "category": "Convenience Store",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,74 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Gas Station",
+      "name": "Richland Library Services",
+      "category": "Library",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Richland Employment Agency Co",
+      "category": "Employment Agency",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Richland Concrete Solutions",
+      "category": "Concrete",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Wahpeton Title Loan Plus",
+      "category": "Title Loan",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Richland Grocery Store Plus",
+      "category": "Grocery Store",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Red River Gas Station LLC",
       "category": "Gas Station",
-      "address": "Wahpeton",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +137,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Supermarket",
-      "category": "Supermarket",
-      "address": "Wahpeton",
+      "name": "North Dakota Nail Salon Pro",
+      "category": "Nail Salon",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +150,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Hardware Store",
-      "category": "Hardware Store",
-      "address": "Wahpeton",
+      "name": "Heritage Tractor Dealer of Wahpeton",
+      "category": "Tractor Dealer",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,9 +163,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Pharmacy",
-      "category": "Pharmacy",
-      "address": "Wahpeton",
+      "name": "Richland Wedding Venue Center",
+      "category": "Wedding Venue",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +176,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Auto Repair",
-      "category": "Auto Repair",
-      "address": "Wahpeton",
+      "name": "Badlands Oil Field Services Group",
+      "category": "Oil Field Services",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +189,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Hair Salon",
-      "category": "Hair Salon",
-      "address": "Wahpeton",
+      "name": "Red River Arcade of Wahpeton",
+      "category": "Arcade",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +202,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Dentist",
-      "category": "Dentist",
-      "address": "Wahpeton",
+      "name": "Missouri River Brewery Inc",
+      "category": "Brewery",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,9 +215,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Insurance",
-      "category": "Insurance",
-      "address": "Wahpeton",
+      "name": "Richland Accounting Center",
+      "category": "Accounting",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -163,9 +228,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Real Estate",
-      "category": "Real Estate",
-      "address": "Wahpeton",
+      "name": "Wahpeton Shoe Store Inc",
+      "category": "Shoe Store",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -176,9 +241,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Attorney",
-      "category": "Attorney",
-      "address": "Wahpeton",
+      "name": "Richland Jewelry Store Services",
+      "category": "Jewelry Store",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -189,9 +254,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Accountant",
-      "category": "Accountant",
-      "address": "Wahpeton",
+      "name": "Richland Hotel LLC",
+      "category": "Hotel",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -202,9 +267,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Wahpeton",
+      "name": "Red River Towing Service Pro",
+      "category": "Towing Service",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -215,9 +280,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Fitness Center",
-      "category": "Fitness Center",
-      "address": "Wahpeton",
+      "name": "Richland Security Company Services",
+      "category": "Security Company",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -228,9 +293,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Pet Store",
-      "category": "Pet Store",
-      "address": "Wahpeton",
+      "name": "Badlands Temp Agency of Wahpeton",
+      "category": "Temp Agency",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -241,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Florist",
-      "category": "Florist",
-      "address": "Wahpeton",
+      "name": "Wahpeton Landscaping Group",
+      "category": "Landscaping",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -254,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Bakery",
-      "category": "Bakery",
-      "address": "Wahpeton",
+      "name": "Richland Boat Dealer Pro",
+      "category": "Boat Dealer",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -267,9 +332,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Pizza",
-      "category": "Pizza",
-      "address": "Wahpeton",
+      "name": "Northern Plains Thrift Store of Wahpeton",
+      "category": "Thrift Store",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -280,9 +345,22 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Restaurant",
+      "name": "Missouri River Liquor Store LLC",
+      "category": "Liquor Store",
+      "address": "Wahpeton, ND",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Red River Restaurant of Wahpeton",
       "category": "Restaurant",
-      "address": "Wahpeton",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Cafe",
-      "category": "Cafe",
-      "address": "Wahpeton",
+      "name": "Richland Dance Studio Inc",
+      "category": "Dance Studio",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Bar",
-      "category": "Bar",
-      "address": "Wahpeton",
+      "name": "North Dakota Optometrist of Wahpeton",
+      "category": "Optometrist",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Bank",
-      "category": "Bank",
-      "address": "Wahpeton",
+      "name": "Dakota Printing Shop of Wahpeton",
+      "category": "Printing Shop",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Gas Station",
-      "category": "Gas Station",
-      "address": "Wahpeton",
+      "name": "Richland Campground Co",
+      "category": "Campground",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Supermarket",
-      "category": "Supermarket",
-      "address": "Wahpeton",
+      "name": "Dakota Siding Center",
+      "category": "Siding",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +436,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Hardware Store",
-      "category": "Hardware Store",
-      "address": "Wahpeton",
+      "name": "Richland Tire Shop LLC",
+      "category": "Tire Shop",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,22 +449,9 @@
       "featured": false
     },
     {
-      "name": "Wahpeton Pharmacy",
-      "category": "Pharmacy",
-      "address": "Wahpeton",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Wahpeton Auto Repair",
-      "category": "Auto Repair",
-      "address": "Wahpeton",
+      "name": "Roughrider Painting Plus",
+      "category": "Painting",
+      "address": "Wahpeton, ND",
       "phone": "",
       "email": "",
       "website": "",
