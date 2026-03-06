@@ -5,15 +5,30 @@
     <p class="hero-description">MainStreetPages is your trusted directory for discovering local businesses in communities across the nation. From restaurants to retail, services to specialists — find what you need, right in your neighborhood.</p>
   </section>
 
-  <section class="featured-towns">
-    <h2>Browse Towns</h2>
-    <ul class="town-list">
+  <section class="browse-states">
+    <h2>Browse by State</h2>
+    <div class="states-grid">
       {{ range .Site.RegularPages }}
-        {{ if eq .Type "towns" }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ if eq .Type "states" }}
+        {{ $stateCode := .Params.state }}
+        {{ $totalTowns := 0 }}
+        {{ $totalBusinesses := 0 }}
+        {{ range $key, $town := $.Site.Data.towns }}
+          {{ if eq (lower $town.state_abbr) $stateCode }}
+            {{ $totalTowns = add $totalTowns 1 }}
+            {{ $totalBusinesses = add $totalBusinesses (len $town.businesses) }}
+          {{ end }}
+        {{ end }}
+        <a href="{{ .Permalink }}" class="state-card">
+          <h3>{{ .Params.state_name }}</h3>
+          <div class="state-stats">
+            <span class="stat">{{ $totalTowns }} Towns</span>
+            <span class="stat">{{ $totalBusinesses | lang.FormatNumber 0 }} Businesses</span>
+          </div>
+        </a>
         {{ end }}
       {{ end }}
-    </ul>
+    </div>
   </section>
 </div>
 {{ end }}
