@@ -1,9 +1,7 @@
 ---
-title: "Steuben, Maine Business Directory"
+title: "Steuben, ME Business Directory"
+type: "towns"
 slug: "steuben-me"
-town: "Steuben"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 552
+state: "me"
+town_data: "steuben-me"
 ---

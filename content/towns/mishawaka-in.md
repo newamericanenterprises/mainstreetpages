@@ -1,9 +1,7 @@
 ---
-title: "Mishawaka, Indiana Business Directory"
+title: "Mishawaka, IN Business Directory"
+type: "towns"
 slug: "mishawaka-in"
-town: "Mishawaka"
-state: "Indiana"
-state_abbr: "IN"
-county: "St. Joseph"
-population: 51063
+state: "in"
+town_data: "mishawaka-in"
 ---

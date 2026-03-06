@@ -1,9 +1,7 @@
 ---
-title: "Clarkfield, Minnesota Business Directory"
+title: "Clarkfield, MN Business Directory"
+type: "towns"
 slug: "clarkfield-mn"
-town: "Clarkfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 2107
+state: "mn"
+town_data: "clarkfield-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gladstone, Michigan Business Directory"
+title: "Gladstone, MI Business Directory"
+type: "towns"
 slug: "gladstone-mi"
-town: "Gladstone"
-state: "Michigan"
-state_abbr: "MI"
-county: "Delta"
-population: 3676
+state: "mi"
+town_data: "gladstone-mi"
 ---

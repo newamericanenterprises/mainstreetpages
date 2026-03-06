@@ -1,9 +1,7 @@
 ---
-title: "Bradford, Maine Business Directory"
+title: "Bradford, ME Business Directory"
+type: "towns"
 slug: "bradford-me"
-town: "Bradford"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2560
+state: "me"
+town_data: "bradford-me"
 ---

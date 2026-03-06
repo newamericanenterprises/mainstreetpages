@@ -1,7 +1,7 @@
 ---
-title: "Collins, Mississippi Business Directory"
+title: "Collins, MS Business Directory"
+type: "towns"
 slug: "collins-ms"
-state: "MS"
-county: "Covington"
-population: 2688
+state: "ms"
+town_data: "collins-ms"
 ---

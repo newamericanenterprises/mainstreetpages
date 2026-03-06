@@ -1,9 +1,7 @@
 ---
-title: "Allison, Iowa Business Directory"
+title: "Allison, IA Business Directory"
+type: "towns"
 slug: "allison-ia"
-town: "Allison"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2592
+state: "ia"
+town_data: "allison-ia"
 ---

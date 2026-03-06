@@ -1,7 +1,7 @@
 ---
-title: "Ohiowa, Nebraska Business Directory"
+title: "Ohiowa, NE Business Directory"
+type: "towns"
 slug: "ohiowa-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "ohiowa-ne"
 ---

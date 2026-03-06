@@ -1,9 +1,7 @@
 ---
-title: "Westwood, Kentucky Business Directory"
+title: "Westwood, KY Business Directory"
+type: "towns"
 slug: "westwood-ky"
-town: "Westwood"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyd"
-population: 583
+state: "ky"
+town_data: "westwood-ky"
 ---

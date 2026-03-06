@@ -1,9 +1,7 @@
 ---
-title: "Davis City, Iowa Business Directory"
+title: "Davis City, IA Business Directory"
+type: "towns"
 slug: "davis-city-ia"
-town: "Davis City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 1560
+state: "ia"
+town_data: "davis-city-ia"
 ---

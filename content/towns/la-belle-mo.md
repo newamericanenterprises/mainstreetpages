@@ -1,7 +1,7 @@
 ---
-title: "La Belle, Missouri Business Directory"
+title: "La Belle, MO Business Directory"
+type: "towns"
 slug: "la-belle-mo"
-state: "MO"
-county: "Lewis"
-population: 1500
+state: "mo"
+town_data: "la-belle-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Maloy, Iowa Business Directory"
+title: "Maloy, IA Business Directory"
+type: "towns"
 slug: "maloy-ia"
-town: "Maloy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 3400
+state: "ia"
+town_data: "maloy-ia"
 ---

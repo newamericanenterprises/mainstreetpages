@@ -1,9 +1,7 @@
 ---
-title: "Marne, Iowa Business Directory"
+title: "Marne, IA Business Directory"
+type: "towns"
 slug: "marne-ia"
-town: "Marne"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 1332
+state: "ia"
+town_data: "marne-ia"
 ---

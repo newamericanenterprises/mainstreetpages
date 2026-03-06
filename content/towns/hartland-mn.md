@@ -1,9 +1,7 @@
 ---
-title: "Hartland, Minnesota Business Directory"
+title: "Hartland, MN Business Directory"
+type: "towns"
 slug: "hartland-mn"
-town: "Hartland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 2533
+state: "mn"
+town_data: "hartland-mn"
 ---

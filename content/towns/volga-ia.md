@@ -1,9 +1,7 @@
 ---
-title: "Volga, Iowa Business Directory"
+title: "Volga, IA Business Directory"
+type: "towns"
 slug: "volga-ia"
-town: "Volga"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 2231
+state: "ia"
+town_data: "volga-ia"
 ---

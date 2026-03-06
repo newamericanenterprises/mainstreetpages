@@ -1,7 +1,7 @@
 ---
-title: "Arthur, Nebraska Business Directory"
+title: "Arthur, NE Business Directory"
+type: "towns"
 slug: "arthur-ne"
-state: "NE"
-county: "Arthur"
-population: 500
+state: "ne"
+town_data: "arthur-ne"
 ---

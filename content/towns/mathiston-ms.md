@@ -1,7 +1,7 @@
 ---
-title: "Mathiston, Mississippi Business Directory"
+title: "Mathiston, MS Business Directory"
+type: "towns"
 slug: "mathiston-ms"
-state: "MS"
-county: "Webster"
-population: 584
+state: "ms"
+town_data: "mathiston-ms"
 ---

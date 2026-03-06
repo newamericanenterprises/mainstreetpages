@@ -1,9 +1,7 @@
 ---
-title: "Dows, Iowa Business Directory"
+title: "Dows, IA Business Directory"
+type: "towns"
 slug: "dows-ia"
-town: "Dows"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 2389
+state: "ia"
+town_data: "dows-ia"
 ---

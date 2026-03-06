@@ -1,9 +1,7 @@
 ---
-title: "Lowry, Minnesota Business Directory"
+title: "Lowry, MN Business Directory"
+type: "towns"
 slug: "lowry-mn"
-town: "Lowry"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 1820
+state: "mn"
+town_data: "lowry-mn"
 ---

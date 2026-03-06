@@ -1,7 +1,7 @@
 ---
-title: "South Gorin, Missouri Business Directory"
+title: "South Gorin, MO Business Directory"
+type: "towns"
 slug: "south-gorin-mo"
-state: "MO"
-county: "Scotland"
-population: 1500
+state: "mo"
+town_data: "south-gorin-mo"
 ---

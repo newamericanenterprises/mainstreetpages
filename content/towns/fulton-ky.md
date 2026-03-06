@@ -1,9 +1,7 @@
 ---
-title: "Fulton, Kentucky Business Directory"
+title: "Fulton, KY Business Directory"
+type: "towns"
 slug: "fulton-ky"
-town: "Fulton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Fulton"
-population: 2445
+state: "ky"
+town_data: "fulton-ky"
 ---

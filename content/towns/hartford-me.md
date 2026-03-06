@@ -1,9 +1,7 @@
 ---
-title: "Hartford, Maine Business Directory"
+title: "Hartford, ME Business Directory"
+type: "towns"
 slug: "hartford-me"
-town: "Hartford"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2143
+state: "me"
+town_data: "hartford-me"
 ---

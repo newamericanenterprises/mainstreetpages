@@ -1,9 +1,7 @@
 ---
-title: "Miesville, Minnesota Business Directory"
+title: "Miesville, MN Business Directory"
+type: "towns"
 slug: "miesville-mn"
-town: "Miesville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 2672
+state: "mn"
+town_data: "miesville-mn"
 ---

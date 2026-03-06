@@ -1,9 +1,7 @@
 ---
-title: "Jefferson, Maryland Business Directory"
+title: "Jefferson, MD Business Directory"
+type: "towns"
 slug: "jefferson-md"
-town: "Jefferson"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 1785
+state: "md"
+town_data: "jefferson-md"
 ---

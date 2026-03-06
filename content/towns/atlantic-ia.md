@@ -1,9 +1,7 @@
 ---
-title: "Atlantic, Iowa Business Directory"
+title: "Atlantic, IA Business Directory"
+type: "towns"
 slug: "atlantic-ia"
-town: "Atlantic"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 6954
+state: "ia"
+town_data: "atlantic-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mortons Gap, Kentucky Business Directory"
+title: "Mortons Gap, KY Business Directory"
+type: "towns"
 slug: "mortons-gap-ky"
-town: "Mortons Gap"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 1363
+state: "ky"
+town_data: "mortons-gap-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Wahoo, Nebraska Business Directory"
+title: "Wahoo, NE Business Directory"
+type: "towns"
 slug: "wahoo-ne"
-state: "NE"
-county: "Saunders"
-population: 4508
+state: "ne"
+town_data: "wahoo-ne"
 ---

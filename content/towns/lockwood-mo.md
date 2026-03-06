@@ -1,7 +1,7 @@
 ---
-title: "Lockwood, Missouri Business Directory"
+title: "Lockwood, MO Business Directory"
+type: "towns"
 slug: "lockwood-mo"
-state: "MO"
-county: "Dade"
-population: 961
+state: "mo"
+town_data: "lockwood-mo"
 ---

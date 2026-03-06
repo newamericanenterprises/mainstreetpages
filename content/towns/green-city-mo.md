@@ -1,7 +1,7 @@
 ---
-title: "Green City, Missouri Business Directory"
+title: "Green City, MO Business Directory"
+type: "towns"
 slug: "green-city-mo"
-state: "MO"
-county: "Sullivan"
-population: 636
+state: "mo"
+town_data: "green-city-mo"
 ---

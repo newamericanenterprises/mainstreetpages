@@ -1,9 +1,7 @@
 ---
-title: "Balltown, Iowa Business Directory"
+title: "Balltown, IA Business Directory"
+type: "towns"
 slug: "balltown-ia"
-town: "Balltown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 991
+state: "ia"
+town_data: "balltown-ia"
 ---

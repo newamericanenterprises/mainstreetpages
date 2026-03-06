@@ -1,9 +1,7 @@
 ---
-title: "Lincoln, Massachusetts Business Directory"
+title: "Lincoln, MA Business Directory"
+type: "towns"
 slug: "lincoln-ma"
-town: "Lincoln"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 4910
+state: "ma"
+town_data: "lincoln-ma"
 ---

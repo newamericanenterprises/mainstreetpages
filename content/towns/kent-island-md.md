@@ -1,9 +1,7 @@
 ---
-title: "Kent Island, Maryland Business Directory"
+title: "Kent Island, MD Business Directory"
+type: "towns"
 slug: "kent-island-md"
-town: "Kent Island"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 4354
+state: "md"
+town_data: "kent-island-md"
 ---

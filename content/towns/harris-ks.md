@@ -1,9 +1,7 @@
 ---
-title: "Harris, Kansas Business Directory"
+title: "Harris, KS Business Directory"
+type: "towns"
 slug: "harris-ks"
-town: "Harris"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 325
+state: "ks"
+town_data: "harris-ks"
 ---

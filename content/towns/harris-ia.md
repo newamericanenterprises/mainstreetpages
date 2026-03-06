@@ -1,9 +1,7 @@
 ---
-title: "Harris, Iowa Business Directory"
+title: "Harris, IA Business Directory"
+type: "towns"
 slug: "harris-ia"
-town: "Harris"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 1059
+state: "ia"
+town_data: "harris-ia"
 ---

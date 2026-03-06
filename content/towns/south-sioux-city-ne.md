@@ -1,7 +1,7 @@
 ---
-title: "South Sioux City, Nebraska Business Directory"
+title: "South Sioux City, NE Business Directory"
+type: "towns"
 slug: "south-sioux-city-ne"
-state: "NE"
-county: "Dakota"
-population: 13475
+state: "ne"
+town_data: "south-sioux-city-ne"
 ---

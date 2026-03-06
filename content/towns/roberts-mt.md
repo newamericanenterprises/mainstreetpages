@@ -1,7 +1,7 @@
 ---
-title: "Roberts, Montana Business Directory"
+title: "Roberts, MT Business Directory"
+type: "towns"
 slug: "roberts-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "roberts-mt"
 ---

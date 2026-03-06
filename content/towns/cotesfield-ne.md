@@ -1,7 +1,7 @@
 ---
-title: "Cotesfield, Nebraska Business Directory"
+title: "Cotesfield, NE Business Directory"
+type: "towns"
 slug: "cotesfield-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "cotesfield-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Maple City, Michigan Business Directory"
+title: "Maple City, MI Business Directory"
+type: "towns"
 slug: "maple-city-mi"
-town: "Maple City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 4054
+state: "mi"
+town_data: "maple-city-mi"
 ---

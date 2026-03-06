@@ -1,9 +1,7 @@
 ---
-title: "Portage, Indiana Business Directory"
+title: "Portage, IN Business Directory"
+type: "towns"
 slug: "portage-in"
-town: "Portage"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 37476
+state: "in"
+town_data: "portage-in"
 ---

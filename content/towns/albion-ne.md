@@ -1,7 +1,7 @@
 ---
-title: "Albion, Nebraska Business Directory"
+title: "Albion, NE Business Directory"
+type: "towns"
 slug: "albion-ne"
-state: "NE"
-county: "Boone"
-population: 1630
+state: "ne"
+town_data: "albion-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grand Marais, Minnesota Business Directory"
+title: "Grand Marais, MN Business Directory"
+type: "towns"
 slug: "grand-marais-mn"
-town: "Grand Marais"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cook"
-population: 1351
+state: "mn"
+town_data: "grand-marais-mn"
 ---

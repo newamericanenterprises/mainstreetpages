@@ -1,9 +1,7 @@
 ---
-title: "Ridgeway, Iowa Business Directory"
+title: "Ridgeway, IA Business Directory"
+type: "towns"
 slug: "ridgeway-ia"
-town: "Ridgeway"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 3176
+state: "ia"
+town_data: "ridgeway-ia"
 ---

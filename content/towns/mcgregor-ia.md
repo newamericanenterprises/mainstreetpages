@@ -1,9 +1,7 @@
 ---
-title: "McGregor, Iowa Business Directory"
+title: "McGregor, IA Business Directory"
+type: "towns"
 slug: "mcgregor-ia"
-town: "McGregor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 2562
+state: "ia"
+town_data: "mcgregor-ia"
 ---

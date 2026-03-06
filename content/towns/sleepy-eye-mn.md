@@ -1,9 +1,7 @@
 ---
-title: "Sleepy Eye, Minnesota Business Directory"
+title: "Sleepy Eye, MN Business Directory"
+type: "towns"
 slug: "sleepy-eye-mn"
-town: "Sleepy Eye"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 2348
+state: "mn"
+town_data: "sleepy-eye-mn"
 ---

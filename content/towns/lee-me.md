@@ -1,9 +1,7 @@
 ---
-title: "Lee, Maine Business Directory"
+title: "Lee, ME Business Directory"
+type: "towns"
 slug: "lee-me"
-town: "Lee"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 1686
+state: "me"
+town_data: "lee-me"
 ---

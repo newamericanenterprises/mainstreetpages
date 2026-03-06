@@ -1,9 +1,7 @@
 ---
-title: "Spalding, Michigan Business Directory"
+title: "Spalding, MI Business Directory"
+type: "towns"
 slug: "spalding-mi"
-town: "Spalding"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 2241
+state: "mi"
+town_data: "spalding-mi"
 ---

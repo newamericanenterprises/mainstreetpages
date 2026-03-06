@@ -1,9 +1,7 @@
 ---
-title: "Hawesville, Kentucky Business Directory"
+title: "Hawesville, KY Business Directory"
+type: "towns"
 slug: "hawesville-ky"
-town: "Hawesville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hancock"
-population: 943
+state: "ky"
+town_data: "hawesville-ky"
 ---

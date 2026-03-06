@@ -1,7 +1,7 @@
 ---
-title: "Syracuse, Nebraska Business Directory"
+title: "Syracuse, NE Business Directory"
+type: "towns"
 slug: "syracuse-ne"
-state: "NE"
-county: "Otoe"
-population: 1963
+state: "ne"
+town_data: "syracuse-ne"
 ---

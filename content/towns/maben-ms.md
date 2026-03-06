@@ -1,7 +1,7 @@
 ---
-title: "Maben, Mississippi Business Directory"
+title: "Maben, MS Business Directory"
+type: "towns"
 slug: "maben-ms"
-state: "MS"
-county: "Oktibbeha"
-population: 940
+state: "ms"
+town_data: "maben-ms"
 ---

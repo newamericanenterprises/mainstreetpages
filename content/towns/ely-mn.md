@@ -1,9 +1,7 @@
 ---
-title: "Ely, Minnesota Business Directory"
+title: "Ely, MN Business Directory"
+type: "towns"
 slug: "ely-mn"
-town: "Ely"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 3460
+state: "mn"
+town_data: "ely-mn"
 ---

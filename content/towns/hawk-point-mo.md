@@ -1,7 +1,7 @@
 ---
-title: "Hawk Point, Missouri Business Directory"
+title: "Hawk Point, MO Business Directory"
+type: "towns"
 slug: "hawk-point-mo"
-state: "MO"
-county: "Lincoln"
-population: 1500
+state: "mo"
+town_data: "hawk-point-mo"
 ---

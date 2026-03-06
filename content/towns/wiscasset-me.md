@@ -1,9 +1,7 @@
 ---
-title: "Wiscasset, Maine Business Directory"
+title: "Wiscasset, ME Business Directory"
+type: "towns"
 slug: "wiscasset-me"
-town: "Wiscasset"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 3742
+state: "me"
+town_data: "wiscasset-me"
 ---

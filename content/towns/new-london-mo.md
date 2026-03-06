@@ -1,7 +1,7 @@
 ---
-title: "New London, Missouri Business Directory"
+title: "New London, MO Business Directory"
+type: "towns"
 slug: "new-london-mo"
-state: "MO"
-county: "Ralls"
-population: 983
+state: "mo"
+town_data: "new-london-mo"
 ---

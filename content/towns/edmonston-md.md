@@ -1,9 +1,7 @@
 ---
-title: "Edmonston, Maryland Business Directory"
+title: "Edmonston, MD Business Directory"
+type: "towns"
 slug: "edmonston-md"
-town: "Edmonston"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 627
+state: "md"
+town_data: "edmonston-md"
 ---

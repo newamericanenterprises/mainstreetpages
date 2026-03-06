@@ -1,9 +1,7 @@
 ---
-title: "Kendall, Kansas Business Directory"
+title: "Kendall, KS Business Directory"
+type: "towns"
 slug: "kendall-ks"
-town: "Kendall"
-state: "Kansas"
-state_abbr: "KS"
-county: "Hamilton"
-population: 2927
+state: "ks"
+town_data: "kendall-ks"
 ---

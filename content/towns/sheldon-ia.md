@@ -1,9 +1,7 @@
 ---
-title: "Sheldon, Iowa Business Directory"
+title: "Sheldon, IA Business Directory"
+type: "towns"
 slug: "sheldon-ia"
-town: "Sheldon"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 5193
+state: "ia"
+town_data: "sheldon-ia"
 ---

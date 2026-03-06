@@ -1,9 +1,7 @@
 ---
-title: "Lynch, Kentucky Business Directory"
+title: "Lynch, KY Business Directory"
+type: "towns"
 slug: "lynch-ky"
-town: "Lynch"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harlan"
-population: 1091
+state: "ky"
+town_data: "lynch-ky"
 ---

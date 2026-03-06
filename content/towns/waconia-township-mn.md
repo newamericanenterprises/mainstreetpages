@@ -1,9 +1,7 @@
 ---
-title: "Waconia Township, Minnesota Business Directory"
+title: "Waconia Township, MN Business Directory"
+type: "towns"
 slug: "waconia-township-mn"
-town: "Waconia Township"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1237
+state: "mn"
+town_data: "waconia-township-mn"
 ---

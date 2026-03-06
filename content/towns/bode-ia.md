@@ -1,9 +1,7 @@
 ---
-title: "Bode, Iowa Business Directory"
+title: "Bode, IA Business Directory"
+type: "towns"
 slug: "bode-ia"
-town: "Bode"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 3109
+state: "ia"
+town_data: "bode-ia"
 ---

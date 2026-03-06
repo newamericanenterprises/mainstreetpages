@@ -1,9 +1,7 @@
 ---
-title: "Cotuit, Massachusetts Business Directory"
+title: "Cotuit, MA Business Directory"
+type: "towns"
 slug: "cotuit-ma"
-town: "Cotuit"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 6208
+state: "ma"
+town_data: "cotuit-ma"
 ---

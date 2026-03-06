@@ -1,7 +1,7 @@
 ---
-title: "Plymouth, Nebraska Business Directory"
+title: "Plymouth, NE Business Directory"
+type: "towns"
 slug: "plymouth-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "plymouth-ne"
 ---

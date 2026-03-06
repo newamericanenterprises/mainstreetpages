@@ -1,9 +1,7 @@
 ---
-title: "Marion Station, Maryland Business Directory"
+title: "Marion Station, MD Business Directory"
+type: "towns"
 slug: "marion-station-md"
-town: "Marion Station"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 707
+state: "md"
+town_data: "marion-station-md"
 ---

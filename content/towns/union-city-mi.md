@@ -1,9 +1,7 @@
 ---
-title: "Union City, Michigan Business Directory"
+title: "Union City, MI Business Directory"
+type: "towns"
 slug: "union-city-mi"
-town: "Union City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Branch"
-population: 3417
+state: "mi"
+town_data: "union-city-mi"
 ---

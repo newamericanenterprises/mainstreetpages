@@ -1,9 +1,7 @@
 ---
-title: "Coats, Kansas Business Directory"
+title: "Coats, KS Business Directory"
+type: "towns"
 slug: "coats-ks"
-town: "Coats"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 864
+state: "ks"
+town_data: "coats-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wingate, Indiana Business Directory"
+title: "Wingate, IN Business Directory"
+type: "towns"
 slug: "wingate-in"
-town: "Wingate"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 3216
+state: "in"
+town_data: "wingate-in"
 ---

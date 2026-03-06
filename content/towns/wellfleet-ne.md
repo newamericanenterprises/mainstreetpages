@@ -1,7 +1,7 @@
 ---
-title: "Wellfleet, Nebraska Business Directory"
+title: "Wellfleet, NE Business Directory"
+type: "towns"
 slug: "wellfleet-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "wellfleet-ne"
 ---

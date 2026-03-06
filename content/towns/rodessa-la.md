@@ -1,9 +1,7 @@
 ---
-title: "Rodessa, Louisiana Business Directory"
+title: "Rodessa, LA Business Directory"
+type: "towns"
 slug: "rodessa-la"
-town: "Rodessa"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 494
+state: "la"
+town_data: "rodessa-la"
 ---

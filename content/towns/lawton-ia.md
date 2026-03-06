@@ -1,9 +1,7 @@
 ---
-title: "Lawton, Iowa Business Directory"
+title: "Lawton, IA Business Directory"
+type: "towns"
 slug: "lawton-ia"
-town: "Lawton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 1627
+state: "ia"
+town_data: "lawton-ia"
 ---

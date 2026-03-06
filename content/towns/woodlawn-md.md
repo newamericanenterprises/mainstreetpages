@@ -1,9 +1,7 @@
 ---
-title: "Woodlawn, Maryland Business Directory"
+title: "Woodlawn, MD Business Directory"
+type: "towns"
 slug: "woodlawn-md"
-town: "Woodlawn"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 37879
+state: "md"
+town_data: "woodlawn-md"
 ---

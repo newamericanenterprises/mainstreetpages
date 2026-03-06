@@ -1,9 +1,7 @@
 ---
-title: "Cottage City, Maryland Business Directory"
+title: "Cottage City, MD Business Directory"
+type: "towns"
 slug: "cottage-city-md"
-town: "Cottage City"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2890
+state: "md"
+town_data: "cottage-city-md"
 ---

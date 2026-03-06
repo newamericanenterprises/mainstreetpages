@@ -1,7 +1,7 @@
 ---
-title: "Lake, Mississippi Business Directory"
+title: "Lake, MS Business Directory"
+type: "towns"
 slug: "lake-ms"
-state: "MS"
-county: "Scott"
-population: 448
+state: "ms"
+town_data: "lake-ms"
 ---

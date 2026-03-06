@@ -1,9 +1,7 @@
 ---
-title: "Waverly, Minnesota Business Directory"
+title: "Waverly, MN Business Directory"
+type: "towns"
 slug: "waverly-mn"
-town: "Waverly"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 557
+state: "mn"
+town_data: "waverly-mn"
 ---

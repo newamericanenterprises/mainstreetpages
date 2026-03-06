@@ -1,9 +1,7 @@
 ---
-title: "Milton, Kentucky Business Directory"
+title: "Milton, KY Business Directory"
+type: "towns"
 slug: "milton-ky"
-town: "Milton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Trimble"
-population: 610
+state: "ky"
+town_data: "milton-ky"
 ---

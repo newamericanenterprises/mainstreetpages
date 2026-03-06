@@ -1,9 +1,7 @@
 ---
-title: "Hindman, Kentucky Business Directory"
+title: "Hindman, KY Business Directory"
+type: "towns"
 slug: "hindman-ky"
-town: "Hindman"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Knott"
-population: 777
+state: "ky"
+town_data: "hindman-ky"
 ---

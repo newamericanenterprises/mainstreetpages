@@ -1,9 +1,7 @@
 ---
-title: "Baldwin, Michigan Business Directory"
+title: "Baldwin, MI Business Directory"
+type: "towns"
 slug: "baldwin-mi"
-town: "Baldwin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lake"
-population: 5369
+state: "mi"
+town_data: "baldwin-mi"
 ---

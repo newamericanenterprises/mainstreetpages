@@ -1,7 +1,7 @@
 ---
-title: "Qulin, Missouri Business Directory"
+title: "Qulin, MO Business Directory"
+type: "towns"
 slug: "qulin-mo"
-state: "MO"
-county: "Butler"
-population: 437
+state: "mo"
+town_data: "qulin-mo"
 ---

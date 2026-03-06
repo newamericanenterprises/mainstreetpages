@@ -1,9 +1,7 @@
 ---
-title: "Beaver Bay, Minnesota Business Directory"
+title: "Beaver Bay, MN Business Directory"
+type: "towns"
 slug: "beaver-bay-mn"
-town: "Beaver Bay"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lake"
-population: 2429
+state: "mn"
+town_data: "beaver-bay-mn"
 ---

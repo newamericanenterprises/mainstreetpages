@@ -1,9 +1,7 @@
 ---
-title: "Flatwoods, Kentucky Business Directory"
+title: "Flatwoods, KY Business Directory"
+type: "towns"
 slug: "flatwoods-ky"
-town: "Flatwoods"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 1842
+state: "ky"
+town_data: "flatwoods-ky"
 ---

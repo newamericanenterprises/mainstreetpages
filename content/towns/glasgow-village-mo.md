@@ -1,7 +1,7 @@
 ---
-title: "Glasgow Village, Missouri Business Directory"
+title: "Glasgow Village, MO Business Directory"
+type: "towns"
 slug: "glasgow-village-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "glasgow-village-mo"
 ---

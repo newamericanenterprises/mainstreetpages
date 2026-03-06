@@ -1,7 +1,7 @@
 ---
-title: "Elk Creek, Nebraska Business Directory"
+title: "Elk Creek, NE Business Directory"
+type: "towns"
 slug: "elk-creek-ne"
-state: "NE"
-county: "Johnson"
-population: 500
+state: "ne"
+town_data: "elk-creek-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Easthampton, Massachusetts Business Directory"
+title: "Easthampton, MA Business Directory"
+type: "towns"
 slug: "easthampton-ma"
-town: "Easthampton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 15929
+state: "ma"
+town_data: "easthampton-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fairfield, Nebraska Business Directory"
+title: "Fairfield, NE Business Directory"
+type: "towns"
 slug: "fairfield-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "fairfield-ne"
 ---

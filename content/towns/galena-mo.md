@@ -1,7 +1,7 @@
 ---
-title: "Galena, Missouri Business Directory"
+title: "Galena, MO Business Directory"
+type: "towns"
 slug: "galena-mo"
-state: "MO"
-county: "Stone"
-population: 461
+state: "mo"
+town_data: "galena-mo"
 ---

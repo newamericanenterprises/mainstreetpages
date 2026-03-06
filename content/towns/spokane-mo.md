@@ -1,7 +1,7 @@
 ---
-title: "Spokane, Missouri Business Directory"
+title: "Spokane, MO Business Directory"
+type: "towns"
 slug: "spokane-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "spokane-mo"
 ---

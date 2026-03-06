@@ -1,9 +1,7 @@
 ---
-title: "Lamoine, Maine Business Directory"
+title: "Lamoine, ME Business Directory"
+type: "towns"
 slug: "lamoine-me"
-town: "Lamoine"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 706
+state: "me"
+town_data: "lamoine-me"
 ---

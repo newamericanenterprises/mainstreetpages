@@ -1,9 +1,7 @@
 ---
-title: "Nanjemoy, Maryland Business Directory"
+title: "Nanjemoy, MD Business Directory"
+type: "towns"
 slug: "nanjemoy-md"
-town: "Nanjemoy"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 3987
+state: "md"
+town_data: "nanjemoy-md"
 ---

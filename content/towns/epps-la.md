@@ -1,9 +1,7 @@
 ---
-title: "Epps, Louisiana Business Directory"
+title: "Epps, LA Business Directory"
+type: "towns"
 slug: "epps-la"
-town: "Epps"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Carroll"
-population: 3056
+state: "la"
+town_data: "epps-la"
 ---

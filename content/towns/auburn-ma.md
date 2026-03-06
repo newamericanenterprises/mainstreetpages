@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Massachusetts Business Directory"
+title: "Auburn, MA Business Directory"
+type: "towns"
 slug: "auburn-ma"
-town: "Auburn"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 16767
+state: "ma"
+town_data: "auburn-ma"
 ---

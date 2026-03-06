@@ -1,9 +1,7 @@
 ---
-title: "Waldo, Kansas Business Directory"
+title: "Waldo, KS Business Directory"
+type: "towns"
 slug: "waldo-ks"
-town: "Waldo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 987
+state: "ks"
+town_data: "waldo-ks"
 ---

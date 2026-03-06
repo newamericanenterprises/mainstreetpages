@@ -1,9 +1,7 @@
 ---
-title: "Clarksburg, Massachusetts Business Directory"
+title: "Clarksburg, MA Business Directory"
+type: "towns"
 slug: "clarksburg-ma"
-town: "Clarksburg"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 6540
+state: "ma"
+town_data: "clarksburg-ma"
 ---

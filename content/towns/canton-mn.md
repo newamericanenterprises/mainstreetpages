@@ -1,9 +1,7 @@
 ---
-title: "Canton, Minnesota Business Directory"
+title: "Canton, MN Business Directory"
+type: "towns"
 slug: "canton-mn"
-town: "Canton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 763
+state: "mn"
+town_data: "canton-mn"
 ---

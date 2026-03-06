@@ -1,9 +1,7 @@
 ---
-title: "Spring Hill, Minnesota Business Directory"
+title: "Spring Hill, MN Business Directory"
+type: "towns"
 slug: "spring-hill-mn"
-town: "Spring Hill"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 3207
+state: "mn"
+town_data: "spring-hill-mn"
 ---

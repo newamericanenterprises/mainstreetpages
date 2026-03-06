@@ -1,9 +1,7 @@
 ---
-title: "Shelburne, Massachusetts Business Directory"
+title: "Shelburne, MA Business Directory"
+type: "towns"
 slug: "shelburne-ma"
-town: "Shelburne"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 6797
+state: "ma"
+town_data: "shelburne-ma"
 ---

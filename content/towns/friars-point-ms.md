@@ -1,7 +1,7 @@
 ---
-title: "Friars Point, Mississippi Business Directory"
+title: "Friars Point, MS Business Directory"
+type: "towns"
 slug: "friars-point-ms"
-state: "MS"
-county: "Coahoma"
-population: 1055
+state: "ms"
+town_data: "friars-point-ms"
 ---

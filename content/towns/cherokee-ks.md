@@ -1,9 +1,7 @@
 ---
-title: "Cherokee, Kansas Business Directory"
+title: "Cherokee, KS Business Directory"
+type: "towns"
 slug: "cherokee-ks"
-town: "Cherokee"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 932
+state: "ks"
+town_data: "cherokee-ks"
 ---

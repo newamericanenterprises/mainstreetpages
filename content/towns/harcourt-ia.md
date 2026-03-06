@@ -1,9 +1,7 @@
 ---
-title: "Harcourt, Iowa Business Directory"
+title: "Harcourt, IA Business Directory"
+type: "towns"
 slug: "harcourt-ia"
-town: "Harcourt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1884
+state: "ia"
+town_data: "harcourt-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Unadilla, Michigan Business Directory"
+title: "Unadilla, MI Business Directory"
+type: "towns"
 slug: "unadilla-mi"
-town: "Unadilla"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 5121
+state: "mi"
+town_data: "unadilla-mi"
 ---

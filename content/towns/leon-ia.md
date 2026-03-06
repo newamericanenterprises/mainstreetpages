@@ -1,9 +1,7 @@
 ---
-title: "Leon, Iowa Business Directory"
+title: "Leon, IA Business Directory"
+type: "towns"
 slug: "leon-ia"
-town: "Leon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 1984
+state: "ia"
+town_data: "leon-ia"
 ---

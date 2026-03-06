@@ -1,9 +1,7 @@
 ---
-title: "Ocheyedan, Iowa Business Directory"
+title: "Ocheyedan, IA Business Directory"
+type: "towns"
 slug: "ocheyedan-ia"
-town: "Ocheyedan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 1696
+state: "ia"
+town_data: "ocheyedan-ia"
 ---

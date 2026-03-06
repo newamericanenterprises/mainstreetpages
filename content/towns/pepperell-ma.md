@@ -1,9 +1,7 @@
 ---
-title: "Pepperell, Massachusetts Business Directory"
+title: "Pepperell, MA Business Directory"
+type: "towns"
 slug: "pepperell-ma"
-town: "Pepperell"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 8320
+state: "ma"
+town_data: "pepperell-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Goodland, Kansas Business Directory"
+title: "Goodland, KS Business Directory"
+type: "towns"
 slug: "goodland-ks"
-town: "Goodland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sherman"
-population: 4489
+state: "ks"
+town_data: "goodland-ks"
 ---

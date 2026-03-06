@@ -1,9 +1,7 @@
 ---
-title: "Royal Center, Indiana Business Directory"
+title: "Royal Center, IN Business Directory"
+type: "towns"
 slug: "royal-center-in"
-town: "Royal Center"
-state: "Indiana"
-state_abbr: "IN"
-county: "Cass"
-population: 4412
+state: "in"
+town_data: "royal-center-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Adams, Minnesota Business Directory"
+title: "Adams, MN Business Directory"
+type: "towns"
 slug: "adams-mn"
-town: "Adams"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 1271
+state: "mn"
+town_data: "adams-mn"
 ---

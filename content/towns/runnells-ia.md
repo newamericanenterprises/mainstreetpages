@@ -1,9 +1,7 @@
 ---
-title: "Runnells, Iowa Business Directory"
+title: "Runnells, IA Business Directory"
+type: "towns"
 slug: "runnells-ia"
-town: "Runnells"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 3408
+state: "ia"
+town_data: "runnells-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Monticello, Maine Business Directory"
+title: "Monticello, ME Business Directory"
+type: "towns"
 slug: "monticello-me"
-town: "Monticello"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 694
+state: "me"
+town_data: "monticello-me"
 ---

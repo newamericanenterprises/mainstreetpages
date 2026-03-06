@@ -1,7 +1,7 @@
 ---
-title: "Orchard Homes, Montana Business Directory"
+title: "Orchard Homes, MT Business Directory"
+type: "towns"
 slug: "orchard-homes-mt"
-state: "MT"
-county: "Missoula"
-population: 5621
+state: "mt"
+town_data: "orchard-homes-mt"
 ---

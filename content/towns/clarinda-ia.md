@@ -1,9 +1,7 @@
 ---
-title: "Clarinda, Iowa Business Directory"
+title: "Clarinda, IA Business Directory"
+type: "towns"
 slug: "clarinda-ia"
-town: "Clarinda"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 5572
+state: "ia"
+town_data: "clarinda-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Washington Grove, Maryland Business Directory"
+title: "Washington Grove, MD Business Directory"
+type: "towns"
 slug: "washington-grove-md"
-town: "Washington Grove"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 2218
+state: "md"
+town_data: "washington-grove-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Amant, Louisiana Business Directory"
+title: "St. Amant, LA Business Directory"
+type: "towns"
 slug: "st-amant-la"
-town: "St. Amant"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 2714
+state: "la"
+town_data: "st-amant-la"
 ---

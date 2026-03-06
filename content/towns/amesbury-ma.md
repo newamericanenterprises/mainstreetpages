@@ -1,9 +1,7 @@
 ---
-title: "Amesbury, Massachusetts Business Directory"
+title: "Amesbury, MA Business Directory"
+type: "towns"
 slug: "amesbury-ma"
-town: "Amesbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 3474
+state: "ma"
+town_data: "amesbury-ma"
 ---

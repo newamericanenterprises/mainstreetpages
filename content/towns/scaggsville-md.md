@@ -1,9 +1,7 @@
 ---
-title: "Scaggsville, Maryland Business Directory"
+title: "Scaggsville, MD Business Directory"
+type: "towns"
 slug: "scaggsville-md"
-town: "Scaggsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 3210
+state: "md"
+town_data: "scaggsville-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Walthill, Nebraska Business Directory"
+title: "Walthill, NE Business Directory"
+type: "towns"
 slug: "walthill-ne"
-state: "NE"
-county: "Thurston"
-population: 819
+state: "ne"
+town_data: "walthill-ne"
 ---

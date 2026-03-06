@@ -1,9 +1,7 @@
 ---
-title: "Clawson, Michigan Business Directory"
+title: "Clawson, MI Business Directory"
+type: "towns"
 slug: "clawson-mi"
-town: "Clawson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 11825
+state: "mi"
+town_data: "clawson-mi"
 ---

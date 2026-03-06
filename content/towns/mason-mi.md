@@ -1,9 +1,7 @@
 ---
-title: "Mason, Michigan Business Directory"
+title: "Mason, MI Business Directory"
+type: "towns"
 slug: "mason-mi"
-town: "Mason"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 909
+state: "mi"
+town_data: "mason-mi"
 ---

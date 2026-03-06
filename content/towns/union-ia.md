@@ -1,9 +1,7 @@
 ---
-title: "Union, Iowa Business Directory"
+title: "Union, IA Business Directory"
+type: "towns"
 slug: "union-ia"
-town: "Union"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 1791
+state: "ia"
+town_data: "union-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dodge City, Kansas Business Directory"
+title: "Dodge City, KS Business Directory"
+type: "towns"
 slug: "dodge-city-ks"
-town: "Dodge City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ford"
-population: 27720
+state: "ks"
+town_data: "dodge-city-ks"
 ---

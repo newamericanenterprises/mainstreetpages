@@ -1,7 +1,7 @@
 ---
-title: "Ionia, Missouri Business Directory"
+title: "Ionia, MO Business Directory"
+type: "towns"
 slug: "ionia-mo"
-state: "MO"
-county: "Benton"
-population: 1500
+state: "mo"
+town_data: "ionia-mo"
 ---

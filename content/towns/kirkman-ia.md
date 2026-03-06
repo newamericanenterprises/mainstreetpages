@@ -1,9 +1,7 @@
 ---
-title: "Kirkman, Iowa Business Directory"
+title: "Kirkman, IA Business Directory"
+type: "towns"
 slug: "kirkman-ia"
-town: "Kirkman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 3167
+state: "ia"
+town_data: "kirkman-ia"
 ---

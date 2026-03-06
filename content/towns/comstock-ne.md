@@ -1,7 +1,7 @@
 ---
-title: "Comstock, Nebraska Business Directory"
+title: "Comstock, NE Business Directory"
+type: "towns"
 slug: "comstock-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "comstock-ne"
 ---

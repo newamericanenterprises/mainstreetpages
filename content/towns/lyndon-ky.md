@@ -1,9 +1,7 @@
 ---
-title: "Lyndon, Kentucky Business Directory"
+title: "Lyndon, KY Business Directory"
+type: "towns"
 slug: "lyndon-ky"
-town: "Lyndon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1220
+state: "ky"
+town_data: "lyndon-ky"
 ---

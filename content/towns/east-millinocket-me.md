@@ -1,9 +1,7 @@
 ---
-title: "East Millinocket, Maine Business Directory"
+title: "East Millinocket, ME Business Directory"
+type: "towns"
 slug: "east-millinocket-me"
-town: "East Millinocket"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 1038
+state: "me"
+town_data: "east-millinocket-me"
 ---

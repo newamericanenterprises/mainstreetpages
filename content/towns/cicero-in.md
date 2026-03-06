@@ -1,9 +1,7 @@
 ---
-title: "Cicero, Indiana Business Directory"
+title: "Cicero, IN Business Directory"
+type: "towns"
 slug: "cicero-in"
-town: "Cicero"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hamilton"
-population: 4800
+state: "in"
+town_data: "cicero-in"
 ---

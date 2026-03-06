@@ -1,9 +1,7 @@
 ---
-title: "Stockton, Minnesota Business Directory"
+title: "Stockton, MN Business Directory"
+type: "towns"
 slug: "stockton-mn"
-town: "Stockton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 2043
+state: "mn"
+town_data: "stockton-mn"
 ---

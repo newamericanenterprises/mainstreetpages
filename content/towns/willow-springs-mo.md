@@ -1,7 +1,7 @@
 ---
-title: "Willow Springs, Missouri Business Directory"
+title: "Willow Springs, MO Business Directory"
+type: "towns"
 slug: "willow-springs-mo"
-state: "MO"
-county: "Howell"
-population: 2153
+state: "mo"
+town_data: "willow-springs-mo"
 ---

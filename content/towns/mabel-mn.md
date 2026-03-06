@@ -1,9 +1,7 @@
 ---
-title: "Mabel, Minnesota Business Directory"
+title: "Mabel, MN Business Directory"
+type: "towns"
 slug: "mabel-mn"
-town: "Mabel"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 937
+state: "mn"
+town_data: "mabel-mn"
 ---

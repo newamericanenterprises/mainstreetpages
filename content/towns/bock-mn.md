@@ -1,9 +1,7 @@
 ---
-title: "Bock, Minnesota Business Directory"
+title: "Bock, MN Business Directory"
+type: "towns"
 slug: "bock-mn"
-town: "Bock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 1948
+state: "mn"
+town_data: "bock-mn"
 ---

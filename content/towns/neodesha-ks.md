@@ -1,9 +1,7 @@
 ---
-title: "Neodesha, Kansas Business Directory"
+title: "Neodesha, KS Business Directory"
+type: "towns"
 slug: "neodesha-ks"
-town: "Neodesha"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 1109
+state: "ks"
+town_data: "neodesha-ks"
 ---

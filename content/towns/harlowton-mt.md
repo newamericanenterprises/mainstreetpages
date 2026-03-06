@@ -1,7 +1,7 @@
 ---
-title: "Harlowton, Montana Business Directory"
+title: "Harlowton, MT Business Directory"
+type: "towns"
 slug: "harlowton-mt"
-state: "MT"
-county: "Wheatland"
-population: 997
+state: "mt"
+town_data: "harlowton-mt"
 ---

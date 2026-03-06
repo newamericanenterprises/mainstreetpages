@@ -1,9 +1,7 @@
 ---
-title: "Boyden, Iowa Business Directory"
+title: "Boyden, IA Business Directory"
+type: "towns"
 slug: "boyden-ia"
-town: "Boyden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 2274
+state: "ia"
+town_data: "boyden-ia"
 ---

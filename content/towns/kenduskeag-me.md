@@ -1,9 +1,7 @@
 ---
-title: "Kenduskeag, Maine Business Directory"
+title: "Kenduskeag, ME Business Directory"
+type: "towns"
 slug: "kenduskeag-me"
-town: "Kenduskeag"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 1569
+state: "me"
+town_data: "kenduskeag-me"
 ---

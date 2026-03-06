@@ -1,9 +1,7 @@
 ---
-title: "Eros, Louisiana Business Directory"
+title: "Eros, LA Business Directory"
+type: "towns"
 slug: "eros-la"
-town: "Eros"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 1739
+state: "la"
+town_data: "eros-la"
 ---

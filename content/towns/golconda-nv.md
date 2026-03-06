@@ -1,7 +1,7 @@
 ---
-title: "Golconda, Nevada Business Directory"
+title: "Golconda, NV Business Directory"
+type: "towns"
 slug: "golconda-nv"
-state: "NV"
-county: "Humboldt"
-population: 200
+state: "nv"
+town_data: "golconda-nv"
 ---

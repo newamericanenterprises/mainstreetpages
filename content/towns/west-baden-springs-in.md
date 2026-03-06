@@ -1,9 +1,7 @@
 ---
-title: "West Baden Springs, Indiana Business Directory"
+title: "West Baden Springs, IN Business Directory"
+type: "towns"
 slug: "west-baden-springs-in"
-town: "West Baden Springs"
-state: "Indiana"
-state_abbr: "IN"
-county: "Orange"
-population: 574
+state: "in"
+town_data: "west-baden-springs-in"
 ---

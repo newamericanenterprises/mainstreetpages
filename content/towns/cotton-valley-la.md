@@ -1,9 +1,7 @@
 ---
-title: "Cotton Valley, Louisiana Business Directory"
+title: "Cotton Valley, LA Business Directory"
+type: "towns"
 slug: "cotton-valley-la"
-town: "Cotton Valley"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 1969
+state: "la"
+town_data: "cotton-valley-la"
 ---

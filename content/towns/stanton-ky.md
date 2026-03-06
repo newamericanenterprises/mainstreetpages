@@ -1,9 +1,7 @@
 ---
-title: "Stanton, Kentucky Business Directory"
+title: "Stanton, KY Business Directory"
+type: "towns"
 slug: "stanton-ky"
-town: "Stanton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Powell"
-population: 2696
+state: "ky"
+town_data: "stanton-ky"
 ---

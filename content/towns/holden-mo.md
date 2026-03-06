@@ -1,7 +1,7 @@
 ---
-title: "Holden, Missouri Business Directory"
+title: "Holden, MO Business Directory"
+type: "towns"
 slug: "holden-mo"
-state: "MO"
-county: "Johnson"
-population: 1500
+state: "mo"
+town_data: "holden-mo"
 ---

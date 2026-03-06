@@ -1,9 +1,7 @@
 ---
-title: "Indianola, Iowa Business Directory"
+title: "Indianola, IA Business Directory"
+type: "towns"
 slug: "indianola-ia"
-town: "Indianola"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 16107
+state: "ia"
+town_data: "indianola-ia"
 ---

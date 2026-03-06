@@ -1,9 +1,7 @@
 ---
-title: "Woodlawn, Kentucky Business Directory"
+title: "Woodlawn, KY Business Directory"
+type: "towns"
 slug: "woodlawn-ky"
-town: "Woodlawn"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 2220
+state: "ky"
+town_data: "woodlawn-ky"
 ---

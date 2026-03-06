@@ -1,7 +1,7 @@
 ---
-title: "Elwood, Nebraska Business Directory"
+title: "Elwood, NE Business Directory"
+type: "towns"
 slug: "elwood-ne"
-state: "NE"
-county: "Gosper"
-population: 500
+state: "ne"
+town_data: "elwood-ne"
 ---

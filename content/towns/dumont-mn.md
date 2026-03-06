@@ -1,9 +1,7 @@
 ---
-title: "Dumont, Minnesota Business Directory"
+title: "Dumont, MN Business Directory"
+type: "towns"
 slug: "dumont-mn"
-town: "Dumont"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Traverse"
-population: 1078
+state: "mn"
+town_data: "dumont-mn"
 ---

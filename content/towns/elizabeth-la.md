@@ -1,9 +1,7 @@
 ---
-title: "Elizabeth, Louisiana Business Directory"
+title: "Elizabeth, LA Business Directory"
+type: "towns"
 slug: "elizabeth-la"
-town: "Elizabeth"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Allen"
-population: 1508
+state: "la"
+town_data: "elizabeth-la"
 ---

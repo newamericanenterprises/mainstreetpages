@@ -1,9 +1,7 @@
 ---
-title: "Williamsburg, Michigan Business Directory"
+title: "Williamsburg, MI Business Directory"
+type: "towns"
 slug: "williamsburg-mi"
-town: "Williamsburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 3509
+state: "mi"
+town_data: "williamsburg-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brighton Township, Michigan Business Directory"
+title: "Brighton Township, MI Business Directory"
+type: "towns"
 slug: "brighton-township-mi"
-town: "Brighton Township"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 2879
+state: "mi"
+town_data: "brighton-township-mi"
 ---

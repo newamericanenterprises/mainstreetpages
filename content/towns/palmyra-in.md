@@ -1,9 +1,7 @@
 ---
-title: "Palmyra, Indiana Business Directory"
+title: "Palmyra, IN Business Directory"
+type: "towns"
 slug: "palmyra-in"
-town: "Palmyra"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 4175
+state: "in"
+town_data: "palmyra-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Coffeyville, Kansas Business Directory"
+title: "Coffeyville, KS Business Directory"
+type: "towns"
 slug: "coffeyville-ks"
-town: "Coffeyville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 9034
+state: "ks"
+town_data: "coffeyville-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hazlehurst, Mississippi Business Directory"
+title: "Hazlehurst, MS Business Directory"
+type: "towns"
 slug: "hazlehurst-ms"
-state: "MS"
-county: "Copiah"
-population: 3630
+state: "ms"
+town_data: "hazlehurst-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Foristell, Missouri Business Directory"
+title: "Foristell, MO Business Directory"
+type: "towns"
 slug: "foristell-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "foristell-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Converse, Louisiana Business Directory"
+title: "Converse, LA Business Directory"
+type: "towns"
 slug: "converse-la"
-town: "Converse"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 2252
+state: "la"
+town_data: "converse-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lansing, Iowa Business Directory"
+title: "Lansing, IA Business Directory"
+type: "towns"
 slug: "lansing-ia"
-town: "Lansing"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 570
+state: "ia"
+town_data: "lansing-ia"
 ---

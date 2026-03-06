@@ -1,9 +1,7 @@
 ---
-title: "Traer, Iowa Business Directory"
+title: "Traer, IA Business Directory"
+type: "towns"
 slug: "traer-ia"
-town: "Traer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2534
+state: "ia"
+town_data: "traer-ia"
 ---

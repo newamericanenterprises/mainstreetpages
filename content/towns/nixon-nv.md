@@ -1,7 +1,7 @@
 ---
-title: "Nixon, Nevada Business Directory"
+title: "Nixon, NV Business Directory"
+type: "towns"
 slug: "nixon-nv"
-state: "NV"
-county: "Washoe"
-population: 362
+state: "nv"
+town_data: "nixon-nv"
 ---

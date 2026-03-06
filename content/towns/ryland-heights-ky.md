@@ -1,9 +1,7 @@
 ---
-title: "Ryland Heights, Kentucky Business Directory"
+title: "Ryland Heights, KY Business Directory"
+type: "towns"
 slug: "ryland-heights-ky"
-town: "Ryland Heights"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 3173
+state: "ky"
+town_data: "ryland-heights-ky"
 ---

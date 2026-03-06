@@ -1,9 +1,7 @@
 ---
-title: "Tipton, Iowa Business Directory"
+title: "Tipton, IA Business Directory"
+type: "towns"
 slug: "tipton-ia"
-town: "Tipton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 3234
+state: "ia"
+town_data: "tipton-ia"
 ---

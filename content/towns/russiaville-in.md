@@ -1,9 +1,7 @@
 ---
-title: "Russiaville, Indiana Business Directory"
+title: "Russiaville, IN Business Directory"
+type: "towns"
 slug: "russiaville-in"
-town: "Russiaville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Howard"
-population: 2659
+state: "in"
+town_data: "russiaville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Frostburg, Maryland Business Directory"
+title: "Frostburg, MD Business Directory"
+type: "towns"
 slug: "frostburg-md"
-town: "Frostburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 8557
+state: "md"
+town_data: "frostburg-md"
 ---

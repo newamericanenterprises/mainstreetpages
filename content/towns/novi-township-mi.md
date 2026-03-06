@@ -1,9 +1,7 @@
 ---
-title: "Novi Township, Michigan Business Directory"
+title: "Novi Township, MI Business Directory"
+type: "towns"
 slug: "novi-township-mi"
-town: "Novi Township"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 5394
+state: "mi"
+town_data: "novi-township-mi"
 ---

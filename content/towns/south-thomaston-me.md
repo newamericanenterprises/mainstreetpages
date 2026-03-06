@@ -1,9 +1,7 @@
 ---
-title: "South Thomaston, Maine Business Directory"
+title: "South Thomaston, ME Business Directory"
+type: "towns"
 slug: "south-thomaston-me"
-town: "South Thomaston"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 1726
+state: "me"
+town_data: "south-thomaston-me"
 ---

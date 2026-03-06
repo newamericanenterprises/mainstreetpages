@@ -1,9 +1,7 @@
 ---
-title: "Burns Harbor, Indiana Business Directory"
+title: "Burns Harbor, IN Business Directory"
+type: "towns"
 slug: "burns-harbor-in"
-town: "Burns Harbor"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 2107
+state: "in"
+town_data: "burns-harbor-in"
 ---

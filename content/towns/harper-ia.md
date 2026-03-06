@@ -1,9 +1,7 @@
 ---
-title: "Harper, Iowa Business Directory"
+title: "Harper, IA Business Directory"
+type: "towns"
 slug: "harper-ia"
-town: "Harper"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2607
+state: "ia"
+town_data: "harper-ia"
 ---

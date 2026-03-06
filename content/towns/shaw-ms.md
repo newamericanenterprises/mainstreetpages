@@ -1,7 +1,7 @@
 ---
-title: "Shaw, Mississippi Business Directory"
+title: "Shaw, MS Business Directory"
+type: "towns"
 slug: "shaw-ms"
-state: "MS"
-county: "Bolivar"
-population: 1500
+state: "ms"
+town_data: "shaw-ms"
 ---

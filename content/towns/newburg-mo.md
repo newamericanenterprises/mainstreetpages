@@ -1,7 +1,7 @@
 ---
-title: "Newburg, Missouri Business Directory"
+title: "Newburg, MO Business Directory"
+type: "towns"
 slug: "newburg-mo"
-state: "MO"
-county: "Phelps"
-population: 1500
+state: "mo"
+town_data: "newburg-mo"
 ---

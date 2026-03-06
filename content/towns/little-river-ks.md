@@ -1,9 +1,7 @@
 ---
-title: "Little River, Kansas Business Directory"
+title: "Little River, KS Business Directory"
+type: "towns"
 slug: "little-river-ks"
-town: "Little River"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 446
+state: "ks"
+town_data: "little-river-ks"
 ---

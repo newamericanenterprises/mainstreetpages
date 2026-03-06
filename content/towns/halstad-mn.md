@@ -1,9 +1,7 @@
 ---
-title: "Halstad, Minnesota Business Directory"
+title: "Halstad, MN Business Directory"
+type: "towns"
 slug: "halstad-mn"
-town: "Halstad"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 2187
+state: "mn"
+town_data: "halstad-mn"
 ---

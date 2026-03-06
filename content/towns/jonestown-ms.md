@@ -1,7 +1,7 @@
 ---
-title: "Jonestown, Mississippi Business Directory"
+title: "Jonestown, MS Business Directory"
+type: "towns"
 slug: "jonestown-ms"
-state: "MS"
-county: "Coahoma"
-population: 987
+state: "ms"
+town_data: "jonestown-ms"
 ---

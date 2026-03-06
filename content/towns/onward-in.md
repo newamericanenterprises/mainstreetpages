@@ -1,9 +1,7 @@
 ---
-title: "Onward, Indiana Business Directory"
+title: "Onward, IN Business Directory"
+type: "towns"
 slug: "onward-in"
-town: "Onward"
-state: "Indiana"
-state_abbr: "IN"
-county: "Cass"
-population: 2212
+state: "in"
+town_data: "onward-in"
 ---

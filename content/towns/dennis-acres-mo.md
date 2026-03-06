@@ -1,7 +1,7 @@
 ---
-title: "Dennis Acres, Missouri Business Directory"
+title: "Dennis Acres, MO Business Directory"
+type: "towns"
 slug: "dennis-acres-mo"
-state: "MO"
-county: "Jefferson"
-population: 1500
+state: "mo"
+town_data: "dennis-acres-mo"
 ---

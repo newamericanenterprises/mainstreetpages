@@ -1,9 +1,7 @@
 ---
-title: "Irwin, Iowa Business Directory"
+title: "Irwin, IA Business Directory"
+type: "towns"
 slug: "irwin-ia"
-town: "Irwin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 944
+state: "ia"
+town_data: "irwin-ia"
 ---

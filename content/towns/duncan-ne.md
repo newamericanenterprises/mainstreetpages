@@ -1,7 +1,7 @@
 ---
-title: "Duncan, Nebraska Business Directory"
+title: "Duncan, NE Business Directory"
+type: "towns"
 slug: "duncan-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "duncan-ne"
 ---

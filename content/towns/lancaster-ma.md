@@ -1,9 +1,7 @@
 ---
-title: "Lancaster, Massachusetts Business Directory"
+title: "Lancaster, MA Business Directory"
+type: "towns"
 slug: "lancaster-ma"
-town: "Lancaster"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8264
+state: "ma"
+town_data: "lancaster-ma"
 ---

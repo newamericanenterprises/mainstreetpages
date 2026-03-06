@@ -1,9 +1,7 @@
 ---
-title: "Lake Park, Iowa Business Directory"
+title: "Lake Park, IA Business Directory"
+type: "towns"
 slug: "lake-park-ia"
-town: "Lake Park"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 2677
+state: "ia"
+town_data: "lake-park-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pipestone, Minnesota Business Directory"
+title: "Pipestone, MN Business Directory"
+type: "towns"
 slug: "pipestone-mn"
-town: "Pipestone"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 4133
+state: "mn"
+town_data: "pipestone-mn"
 ---

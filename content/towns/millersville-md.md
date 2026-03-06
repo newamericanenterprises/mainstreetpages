@@ -1,9 +1,7 @@
 ---
-title: "Millersville, Maryland Business Directory"
+title: "Millersville, MD Business Directory"
+type: "towns"
 slug: "millersville-md"
-town: "Millersville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 2736
+state: "md"
+town_data: "millersville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Poland, Maine Business Directory"
+title: "Poland, ME Business Directory"
+type: "towns"
 slug: "poland-me"
-town: "Poland"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 2569
+state: "me"
+town_data: "poland-me"
 ---

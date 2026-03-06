@@ -1,9 +1,7 @@
 ---
-title: "Central City, Iowa Business Directory"
+title: "Central City, IA Business Directory"
+type: "towns"
 slug: "central-city-ia"
-town: "Central City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 2802
+state: "ia"
+town_data: "central-city-ia"
 ---

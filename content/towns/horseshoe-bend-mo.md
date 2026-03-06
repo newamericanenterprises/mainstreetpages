@@ -1,7 +1,7 @@
 ---
-title: "Horseshoe Bend, Missouri Business Directory"
+title: "Horseshoe Bend, MO Business Directory"
+type: "towns"
 slug: "horseshoe-bend-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "horseshoe-bend-mo"
 ---

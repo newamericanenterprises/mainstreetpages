@@ -1,9 +1,7 @@
 ---
-title: "Zeeland, Michigan Business Directory"
+title: "Zeeland, MI Business Directory"
+type: "towns"
 slug: "zeeland-mi"
-town: "Zeeland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 5805
+state: "mi"
+town_data: "zeeland-mi"
 ---

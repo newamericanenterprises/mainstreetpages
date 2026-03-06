@@ -1,9 +1,7 @@
 ---
-title: "Colfax, Indiana Business Directory"
+title: "Colfax, IN Business Directory"
+type: "towns"
 slug: "colfax-in"
-town: "Colfax"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 3567
+state: "in"
+town_data: "colfax-in"
 ---

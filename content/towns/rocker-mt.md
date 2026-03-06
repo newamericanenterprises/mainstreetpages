@@ -1,7 +1,7 @@
 ---
-title: "Rocker, Montana Business Directory"
+title: "Rocker, MT Business Directory"
+type: "towns"
 slug: "rocker-mt"
-state: "MT"
-county: "Silver Bow"
-population: 500
+state: "mt"
+town_data: "rocker-mt"
 ---

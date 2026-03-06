@@ -1,9 +1,7 @@
 ---
-title: "Templeville, Maryland Business Directory"
+title: "Templeville, MD Business Directory"
+type: "towns"
 slug: "templeville-md"
-town: "Templeville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 3252
+state: "md"
+town_data: "templeville-md"
 ---

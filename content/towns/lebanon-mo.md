@@ -1,7 +1,7 @@
 ---
-title: "Lebanon, Missouri Business Directory"
+title: "Lebanon, MO Business Directory"
+type: "towns"
 slug: "lebanon-mo"
-state: "MO"
-county: "Laclede"
-population: 14474
+state: "mo"
+town_data: "lebanon-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Simpson, Kansas Business Directory"
+title: "Simpson, KS Business Directory"
+type: "towns"
 slug: "simpson-ks"
-town: "Simpson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 3097
+state: "ks"
+town_data: "simpson-ks"
 ---

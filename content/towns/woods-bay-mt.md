@@ -1,7 +1,7 @@
 ---
-title: "Woods Bay, Montana Business Directory"
+title: "Woods Bay, MT Business Directory"
+type: "towns"
 slug: "woods-bay-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "woods-bay-mt"
 ---

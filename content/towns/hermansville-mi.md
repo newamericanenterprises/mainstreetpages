@@ -1,9 +1,7 @@
 ---
-title: "Hermansville, Michigan Business Directory"
+title: "Hermansville, MI Business Directory"
+type: "towns"
 slug: "hermansville-mi"
-town: "Hermansville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 1987
+state: "mi"
+town_data: "hermansville-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Martin's Additions, Maryland Business Directory"
+title: "Martin's Additions, MD Business Directory"
+type: "towns"
 slug: "martins-additions-md"
-town: "Martin's Additions"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 639
+state: "md"
+town_data: "martins-additions-md"
 ---

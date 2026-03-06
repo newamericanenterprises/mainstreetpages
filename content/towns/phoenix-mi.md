@@ -1,9 +1,7 @@
 ---
-title: "Phoenix, Michigan Business Directory"
+title: "Phoenix, MI Business Directory"
+type: "towns"
 slug: "phoenix-mi"
-town: "Phoenix"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 4206
+state: "mi"
+town_data: "phoenix-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Silver City, Iowa Business Directory"
+title: "Silver City, IA Business Directory"
+type: "towns"
 slug: "silver-city-ia"
-town: "Silver City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 2546
+state: "ia"
+town_data: "silver-city-ia"
 ---

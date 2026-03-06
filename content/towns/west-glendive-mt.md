@@ -1,7 +1,7 @@
 ---
-title: "West Glendive, Montana Business Directory"
+title: "West Glendive, MT Business Directory"
+type: "towns"
 slug: "west-glendive-mt"
-state: "MT"
-county: "Dawson"
-population: 500
+state: "mt"
+town_data: "west-glendive-mt"
 ---

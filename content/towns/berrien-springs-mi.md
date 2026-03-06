@@ -1,9 +1,7 @@
 ---
-title: "Berrien Springs, Michigan Business Directory"
+title: "Berrien Springs, MI Business Directory"
+type: "towns"
 slug: "berrien-springs-mi"
-town: "Berrien Springs"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 4275
+state: "mi"
+town_data: "berrien-springs-mi"
 ---

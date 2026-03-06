@@ -1,7 +1,7 @@
 ---
-title: "Ewing, Missouri Business Directory"
+title: "Ewing, MO Business Directory"
+type: "towns"
 slug: "ewing-mo"
-state: "MO"
-county: "Lewis"
-population: 1500
+state: "mo"
+town_data: "ewing-mo"
 ---

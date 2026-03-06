@@ -1,9 +1,7 @@
 ---
-title: "Gaines, Michigan Business Directory"
+title: "Gaines, MI Business Directory"
+type: "towns"
 slug: "gaines-mi"
-town: "Gaines"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 2093
+state: "mi"
+town_data: "gaines-mi"
 ---

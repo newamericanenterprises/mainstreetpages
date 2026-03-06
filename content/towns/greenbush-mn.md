@@ -1,9 +1,7 @@
 ---
-title: "Greenbush, Minnesota Business Directory"
+title: "Greenbush, MN Business Directory"
+type: "towns"
 slug: "greenbush-mn"
-town: "Greenbush"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Roseau"
-population: 1867
+state: "mn"
+town_data: "greenbush-mn"
 ---

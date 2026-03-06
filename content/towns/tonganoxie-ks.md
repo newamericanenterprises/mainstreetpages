@@ -1,9 +1,7 @@
 ---
-title: "Tonganoxie, Kansas Business Directory"
+title: "Tonganoxie, KS Business Directory"
+type: "towns"
 slug: "tonganoxie-ks"
-town: "Tonganoxie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 5637
+state: "ks"
+town_data: "tonganoxie-ks"
 ---

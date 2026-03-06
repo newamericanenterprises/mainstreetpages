@@ -1,7 +1,7 @@
 ---
-title: "Holcomb, Missouri Business Directory"
+title: "Holcomb, MO Business Directory"
+type: "towns"
 slug: "holcomb-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "holcomb-mo"
 ---

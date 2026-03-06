@@ -1,9 +1,7 @@
 ---
-title: "Crane, Indiana Business Directory"
+title: "Crane, IN Business Directory"
+type: "towns"
 slug: "crane-in"
-town: "Crane"
-state: "Indiana"
-state_abbr: "IN"
-county: "Martin"
-population: 1190
+state: "in"
+town_data: "crane-in"
 ---

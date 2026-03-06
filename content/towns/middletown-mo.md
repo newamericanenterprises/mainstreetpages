@@ -1,7 +1,7 @@
 ---
-title: "Middletown, Missouri Business Directory"
+title: "Middletown, MO Business Directory"
+type: "towns"
 slug: "middletown-mo"
-state: "MO"
-county: "Montgomery"
-population: 1500
+state: "mo"
+town_data: "middletown-mo"
 ---

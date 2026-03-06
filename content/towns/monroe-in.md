@@ -1,9 +1,7 @@
 ---
-title: "Monroe, Indiana Business Directory"
+title: "Monroe, IN Business Directory"
+type: "towns"
 slug: "monroe-in"
-town: "Monroe"
-state: "Indiana"
-state_abbr: "IN"
-county: "Adams"
-population: 2625
+state: "in"
+town_data: "monroe-in"
 ---

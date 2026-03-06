@@ -1,9 +1,7 @@
 ---
-title: "Unity, Maine Business Directory"
+title: "Unity, ME Business Directory"
+type: "towns"
 slug: "unity-me"
-town: "Unity"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1585
+state: "me"
+town_data: "unity-me"
 ---

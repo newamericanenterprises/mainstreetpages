@@ -1,9 +1,7 @@
 ---
-title: "Corinth, Maine Business Directory"
+title: "Corinth, ME Business Directory"
+type: "towns"
 slug: "corinth-me"
-town: "Corinth"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2736
+state: "me"
+town_data: "corinth-me"
 ---

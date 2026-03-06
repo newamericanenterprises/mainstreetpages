@@ -1,9 +1,7 @@
 ---
-title: "Roanoke, Indiana Business Directory"
+title: "Roanoke, IN Business Directory"
+type: "towns"
 slug: "roanoke-in"
-town: "Roanoke"
-state: "Indiana"
-state_abbr: "IN"
-county: "Huntington"
-population: 5453
+state: "in"
+town_data: "roanoke-in"
 ---

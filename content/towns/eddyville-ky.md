@@ -1,9 +1,7 @@
 ---
-title: "Eddyville, Kentucky Business Directory"
+title: "Eddyville, KY Business Directory"
+type: "towns"
 slug: "eddyville-ky"
-town: "Eddyville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lyon"
-population: 2570
+state: "ky"
+town_data: "eddyville-ky"
 ---

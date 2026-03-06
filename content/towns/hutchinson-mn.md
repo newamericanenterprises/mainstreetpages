@@ -1,9 +1,7 @@
 ---
-title: "Hutchinson, Minnesota Business Directory"
+title: "Hutchinson, MN Business Directory"
+type: "towns"
 slug: "hutchinson-mn"
-town: "Hutchinson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 14178
+state: "mn"
+town_data: "hutchinson-mn"
 ---

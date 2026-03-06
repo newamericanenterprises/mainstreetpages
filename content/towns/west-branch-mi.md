@@ -1,9 +1,7 @@
 ---
-title: "West Branch, Michigan Business Directory"
+title: "West Branch, MI Business Directory"
+type: "towns"
 slug: "west-branch-mi"
-town: "West Branch"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ogemaw"
-population: 3368
+state: "mi"
+town_data: "west-branch-mi"
 ---

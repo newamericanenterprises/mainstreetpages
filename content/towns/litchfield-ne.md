@@ -1,7 +1,7 @@
 ---
-title: "Litchfield, Nebraska Business Directory"
+title: "Litchfield, NE Business Directory"
+type: "towns"
 slug: "litchfield-ne"
-state: "NE"
-county: "Sherman"
-population: 500
+state: "ne"
+town_data: "litchfield-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tennant, Iowa Business Directory"
+title: "Tennant, IA Business Directory"
+type: "towns"
 slug: "tennant-ia"
-town: "Tennant"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 1705
+state: "ia"
+town_data: "tennant-ia"
 ---

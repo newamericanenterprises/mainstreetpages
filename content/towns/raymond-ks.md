@@ -1,9 +1,7 @@
 ---
-title: "Raymond, Kansas Business Directory"
+title: "Raymond, KS Business Directory"
+type: "towns"
 slug: "raymond-ks"
-town: "Raymond"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 830
+state: "ks"
+town_data: "raymond-ks"
 ---

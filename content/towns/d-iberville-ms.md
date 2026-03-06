@@ -1,7 +1,7 @@
 ---
-title: "D'Iberville, Mississippi Business Directory"
+title: "D Iberville, MS Business Directory"
+type: "towns"
 slug: "d-iberville-ms"
-state: "MS"
-county: "Harrison"
-population: 13766
+state: "ms"
+town_data: "d-iberville-ms"
 ---

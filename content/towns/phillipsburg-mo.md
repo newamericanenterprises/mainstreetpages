@@ -1,7 +1,7 @@
 ---
-title: "Phillipsburg, Missouri Business Directory"
+title: "Phillipsburg, MO Business Directory"
+type: "towns"
 slug: "phillipsburg-mo"
-state: "MO"
-county: "Laclede"
-population: 1500
+state: "mo"
+town_data: "phillipsburg-mo"
 ---

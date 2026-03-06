@@ -1,9 +1,7 @@
 ---
-title: "Dublin, Indiana Business Directory"
+title: "Dublin, IN Business Directory"
+type: "towns"
 slug: "dublin-in"
-town: "Dublin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 1682
+state: "in"
+town_data: "dublin-in"
 ---

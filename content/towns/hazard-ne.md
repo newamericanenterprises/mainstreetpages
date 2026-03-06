@@ -1,7 +1,7 @@
 ---
-title: "Hazard, Nebraska Business Directory"
+title: "Hazard, NE Business Directory"
+type: "towns"
 slug: "hazard-ne"
-state: "NE"
-county: "Sherman"
-population: 500
+state: "ne"
+town_data: "hazard-ne"
 ---

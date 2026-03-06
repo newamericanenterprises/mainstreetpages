@@ -1,9 +1,7 @@
 ---
-title: "Clio, Michigan Business Directory"
+title: "Clio, MI Business Directory"
+type: "towns"
 slug: "clio-mi"
-town: "Clio"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 4312
+state: "mi"
+town_data: "clio-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Whitman, Massachusetts Business Directory"
+title: "Whitman, MA Business Directory"
+type: "towns"
 slug: "whitman-ma"
-town: "Whitman"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 4487
+state: "ma"
+town_data: "whitman-ma"
 ---

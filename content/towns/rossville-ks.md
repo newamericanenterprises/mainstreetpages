@@ -1,9 +1,7 @@
 ---
-title: "Rossville, Kansas Business Directory"
+title: "Rossville, KS Business Directory"
+type: "towns"
 slug: "rossville-ks"
-town: "Rossville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Shawnee"
-population: 811
+state: "ks"
+town_data: "rossville-ks"
 ---

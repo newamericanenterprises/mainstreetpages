@@ -1,7 +1,7 @@
 ---
-title: "Fair Grove, Missouri Business Directory"
+title: "Fair Grove, MO Business Directory"
+type: "towns"
 slug: "fair-grove-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "fair-grove-mo"
 ---

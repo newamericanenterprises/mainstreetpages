@@ -1,9 +1,7 @@
 ---
-title: "Mantorville, Minnesota Business Directory"
+title: "Mantorville, MN Business Directory"
+type: "towns"
 slug: "mantorville-mn"
-town: "Mantorville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 1368
+state: "mn"
+town_data: "mantorville-mn"
 ---

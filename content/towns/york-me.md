@@ -1,9 +1,7 @@
 ---
-title: "York, Maine Business Directory"
+title: "York, ME Business Directory"
+type: "towns"
 slug: "york-me"
-town: "York"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 13723
+state: "me"
+town_data: "york-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rutland, Iowa Business Directory"
+title: "Rutland, IA Business Directory"
+type: "towns"
 slug: "rutland-ia"
-town: "Rutland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 951
+state: "ia"
+town_data: "rutland-ia"
 ---

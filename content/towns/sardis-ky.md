@@ -1,9 +1,7 @@
 ---
-title: "Sardis, Kentucky Business Directory"
+title: "Sardis, KY Business Directory"
+type: "towns"
 slug: "sardis-ky"
-town: "Sardis"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mason"
-population: 2565
+state: "ky"
+town_data: "sardis-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Maine Business Directory"
+title: "Franklin, ME Business Directory"
+type: "towns"
 slug: "franklin-me"
-town: "Franklin"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2215
+state: "me"
+town_data: "franklin-me"
 ---

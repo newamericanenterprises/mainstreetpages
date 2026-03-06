@@ -1,9 +1,7 @@
 ---
-title: "Virgie, Kentucky Business Directory"
+title: "Virgie, KY Business Directory"
+type: "towns"
 slug: "virgie-ky"
-town: "Virgie"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pike"
-population: 2746
+state: "ky"
+town_data: "virgie-ky"
 ---

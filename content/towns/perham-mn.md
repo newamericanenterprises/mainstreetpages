@@ -1,9 +1,7 @@
 ---
-title: "Perham, Minnesota Business Directory"
+title: "Perham, MN Business Directory"
+type: "towns"
 slug: "perham-mn"
-town: "Perham"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 2610
+state: "mn"
+town_data: "perham-mn"
 ---

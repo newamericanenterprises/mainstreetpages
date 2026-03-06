@@ -1,9 +1,7 @@
 ---
-title: "Glencoe, Kentucky Business Directory"
+title: "Glencoe, KY Business Directory"
+type: "towns"
 slug: "glencoe-ky"
-town: "Glencoe"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Gallatin"
-population: 2745
+state: "ky"
+town_data: "glencoe-ky"
 ---

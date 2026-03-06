@@ -1,9 +1,7 @@
 ---
-title: "Petersburg, Kentucky Business Directory"
+title: "Petersburg, KY Business Directory"
+type: "towns"
 slug: "petersburg-ky"
-town: "Petersburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 2157
+state: "ky"
+town_data: "petersburg-ky"
 ---

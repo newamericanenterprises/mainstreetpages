@@ -1,9 +1,7 @@
 ---
-title: "Lismore, Minnesota Business Directory"
+title: "Lismore, MN Business Directory"
+type: "towns"
 slug: "lismore-mn"
-town: "Lismore"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 1021
+state: "mn"
+town_data: "lismore-mn"
 ---

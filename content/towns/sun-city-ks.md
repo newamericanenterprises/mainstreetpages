@@ -1,9 +1,7 @@
 ---
-title: "Sun City, Kansas Business Directory"
+title: "Sun City, KS Business Directory"
+type: "towns"
 slug: "sun-city-ks"
-town: "Sun City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 1990
+state: "ks"
+town_data: "sun-city-ks"
 ---

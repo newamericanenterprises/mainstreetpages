@@ -1,9 +1,7 @@
 ---
-title: "West Union, Iowa Business Directory"
+title: "West Union, IA Business Directory"
+type: "towns"
 slug: "west-union-ia"
-town: "West Union"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 2486
+state: "ia"
+town_data: "west-union-ia"
 ---

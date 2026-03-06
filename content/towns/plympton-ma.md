@@ -1,9 +1,7 @@
 ---
-title: "Plympton, Massachusetts Business Directory"
+title: "Plympton, MA Business Directory"
+type: "towns"
 slug: "plympton-ma"
-town: "Plympton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 8900
+state: "ma"
+town_data: "plympton-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Charlotte Hall, Maryland Business Directory"
+title: "Charlotte Hall, MD Business Directory"
+type: "towns"
 slug: "charlotte-hall-md"
-town: "Charlotte Hall"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 3279
+state: "md"
+town_data: "charlotte-hall-md"
 ---

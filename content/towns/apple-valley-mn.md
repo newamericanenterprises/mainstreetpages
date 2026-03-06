@@ -1,9 +1,7 @@
 ---
-title: "Apple Valley, Minnesota Business Directory"
+title: "Apple Valley, MN Business Directory"
+type: "towns"
 slug: "apple-valley-mn"
-town: "Apple Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 55135
+state: "mn"
+town_data: "apple-valley-mn"
 ---

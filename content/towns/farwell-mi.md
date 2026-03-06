@@ -1,9 +1,7 @@
 ---
-title: "Farwell, Michigan Business Directory"
+title: "Farwell, MI Business Directory"
+type: "towns"
 slug: "farwell-mi"
-town: "Farwell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clare"
-population: 3204
+state: "mi"
+town_data: "farwell-mi"
 ---

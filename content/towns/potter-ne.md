@@ -1,7 +1,7 @@
 ---
-title: "Potter, Nebraska Business Directory"
+title: "Potter, NE Business Directory"
+type: "towns"
 slug: "potter-ne"
-state: "NE"
-county: "Cheyenne"
-population: 330
+state: "ne"
+town_data: "potter-ne"
 ---

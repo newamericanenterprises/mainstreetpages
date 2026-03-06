@@ -1,7 +1,7 @@
 ---
-title: "Sandersville, Mississippi Business Directory"
+title: "Sandersville, MS Business Directory"
+type: "towns"
 slug: "sandersville-ms"
-state: "MS"
-county: "Jones"
-population: 1500
+state: "ms"
+town_data: "sandersville-ms"
 ---

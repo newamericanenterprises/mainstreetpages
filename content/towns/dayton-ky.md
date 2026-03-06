@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Kentucky Business Directory"
+title: "Dayton, KY Business Directory"
+type: "towns"
 slug: "dayton-ky"
-town: "Dayton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 1727
+state: "ky"
+town_data: "dayton-ky"
 ---

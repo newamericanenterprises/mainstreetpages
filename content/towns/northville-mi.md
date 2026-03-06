@@ -1,9 +1,7 @@
 ---
-title: "Northville, Michigan Business Directory"
+title: "Northville, MI Business Directory"
+type: "towns"
 slug: "northville-mi"
-town: "Northville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 6119
+state: "mi"
+town_data: "northville-mi"
 ---

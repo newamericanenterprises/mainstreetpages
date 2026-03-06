@@ -1,9 +1,7 @@
 ---
-title: "Preston, Maryland Business Directory"
+title: "Preston, MD Business Directory"
+type: "towns"
 slug: "preston-md"
-town: "Preston"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 782
+state: "md"
+town_data: "preston-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beverly, Massachusetts Business Directory"
+title: "Beverly, MA Business Directory"
+type: "towns"
 slug: "beverly-ma"
-town: "Beverly"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 42670
+state: "ma"
+town_data: "beverly-ma"
 ---

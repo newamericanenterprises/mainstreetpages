@@ -1,7 +1,7 @@
 ---
-title: "Stella, Missouri Business Directory"
+title: "Stella, MO Business Directory"
+type: "towns"
 slug: "stella-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "stella-mo"
 ---

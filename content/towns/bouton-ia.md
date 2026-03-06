@@ -1,9 +1,7 @@
 ---
-title: "Bouton, Iowa Business Directory"
+title: "Bouton, IA Business Directory"
+type: "towns"
 slug: "bouton-ia"
-town: "Bouton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 3330
+state: "ia"
+town_data: "bouton-ia"
 ---

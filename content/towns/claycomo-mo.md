@@ -1,7 +1,7 @@
 ---
-title: "Claycomo, Missouri Business Directory"
+title: "Claycomo, MO Business Directory"
+type: "towns"
 slug: "claycomo-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "claycomo-mo"
 ---

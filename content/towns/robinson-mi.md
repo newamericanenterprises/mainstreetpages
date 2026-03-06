@@ -1,9 +1,7 @@
 ---
-title: "Robinson, Michigan Business Directory"
+title: "Robinson, MI Business Directory"
+type: "towns"
 slug: "robinson-mi"
-town: "Robinson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 784
+state: "mi"
+town_data: "robinson-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ringgold, Louisiana Business Directory"
+title: "Ringgold, LA Business Directory"
+type: "towns"
 slug: "ringgold-la"
-town: "Ringgold"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 1015
+state: "la"
+town_data: "ringgold-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Carleton, Michigan Business Directory"
+title: "Carleton, MI Business Directory"
+type: "towns"
 slug: "carleton-mi"
-town: "Carleton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 1788
+state: "mi"
+town_data: "carleton-mi"
 ---

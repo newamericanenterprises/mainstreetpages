@@ -1,9 +1,7 @@
 ---
-title: "St. Albans, Maine Business Directory"
+title: "St. Albans, ME Business Directory"
+type: "towns"
 slug: "st-albans-me"
-town: "St. Albans"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1662
+state: "me"
+town_data: "st-albans-me"
 ---

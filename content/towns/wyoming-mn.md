@@ -1,9 +1,7 @@
 ---
-title: "Wyoming, Minnesota Business Directory"
+title: "Wyoming, MN Business Directory"
+type: "towns"
 slug: "wyoming-mn"
-town: "Wyoming"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 2012
+state: "mn"
+town_data: "wyoming-mn"
 ---

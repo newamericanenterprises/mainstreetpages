@@ -1,9 +1,7 @@
 ---
-title: "Liberty, Maine Business Directory"
+title: "Liberty, ME Business Directory"
+type: "towns"
 slug: "liberty-me"
-town: "Liberty"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2191
+state: "me"
+town_data: "liberty-me"
 ---

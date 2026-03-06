@@ -1,9 +1,7 @@
 ---
-title: "Stark, Kansas Business Directory"
+title: "Stark, KS Business Directory"
+type: "towns"
 slug: "stark-ks"
-town: "Stark"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 1176
+state: "ks"
+town_data: "stark-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Goldfield, Nevada Business Directory"
+title: "Goldfield, NV Business Directory"
+type: "towns"
 slug: "goldfield-nv"
-state: "NV"
-county: "Esmeralda"
-population: 268
+state: "nv"
+town_data: "goldfield-nv"
 ---

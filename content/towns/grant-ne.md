@@ -1,7 +1,7 @@
 ---
-title: "Grant, Nebraska Business Directory"
+title: "Grant, NE Business Directory"
+type: "towns"
 slug: "grant-ne"
-state: "NE"
-county: "Perkins"
-population: 1139
+state: "ne"
+town_data: "grant-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Abbot, Maine Business Directory"
+title: "Abbot, ME Business Directory"
+type: "towns"
 slug: "abbot-me"
-town: "Abbot"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 895
+state: "me"
+town_data: "abbot-me"
 ---

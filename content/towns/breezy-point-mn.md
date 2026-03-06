@@ -1,9 +1,7 @@
 ---
-title: "Breezy Point, Minnesota Business Directory"
+title: "Breezy Point, MN Business Directory"
+type: "towns"
 slug: "breezy-point-mn"
-town: "Breezy Point"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 2339
+state: "mn"
+town_data: "breezy-point-mn"
 ---

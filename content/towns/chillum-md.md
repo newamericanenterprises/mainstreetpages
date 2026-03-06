@@ -1,9 +1,7 @@
 ---
-title: "Chillum, Maryland Business Directory"
+title: "Chillum, MD Business Directory"
+type: "towns"
 slug: "chillum-md"
-town: "Chillum"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2678
+state: "md"
+town_data: "chillum-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Graymoor-Devondale, Kentucky Business Directory"
+title: "Graymoor-Devondale, KY Business Directory"
+type: "towns"
 slug: "graymoor-devondale-ky"
-town: "Graymoor-Devondale"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1109
+state: "ky"
+town_data: "graymoor-devondale-ky"
 ---

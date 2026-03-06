@@ -1,9 +1,7 @@
 ---
-title: "McBride, Michigan Business Directory"
+title: "McBride, MI Business Directory"
+type: "towns"
 slug: "mcbride-mi"
-town: "McBride"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 1891
+state: "mi"
+town_data: "mcbride-mi"
 ---

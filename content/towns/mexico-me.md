@@ -1,9 +1,7 @@
 ---
-title: "Mexico, Maine Business Directory"
+title: "Mexico, ME Business Directory"
+type: "towns"
 slug: "mexico-me"
-town: "Mexico"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2279
+state: "me"
+town_data: "mexico-me"
 ---

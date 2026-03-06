@@ -1,9 +1,7 @@
 ---
-title: "Deer Isle, Maine Business Directory"
+title: "Deer Isle, ME Business Directory"
+type: "towns"
 slug: "deer-isle-me"
-town: "Deer Isle"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1251
+state: "me"
+town_data: "deer-isle-me"
 ---

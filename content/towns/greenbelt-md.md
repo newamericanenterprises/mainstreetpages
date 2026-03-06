@@ -1,9 +1,7 @@
 ---
-title: "Greenbelt, Maryland Business Directory"
+title: "Greenbelt, MD Business Directory"
+type: "towns"
 slug: "greenbelt-md"
-town: "Greenbelt"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 23068
+state: "md"
+town_data: "greenbelt-md"
 ---

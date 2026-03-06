@@ -1,9 +1,7 @@
 ---
-title: "Grinnell, Iowa Business Directory"
+title: "Grinnell, IA Business Directory"
+type: "towns"
 slug: "grinnell-ia"
-town: "Grinnell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 9218
+state: "ia"
+town_data: "grinnell-ia"
 ---

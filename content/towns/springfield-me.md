@@ -1,9 +1,7 @@
 ---
-title: "Springfield, Maine Business Directory"
+title: "Springfield, ME Business Directory"
+type: "towns"
 slug: "springfield-me"
-town: "Springfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 1002
+state: "me"
+town_data: "springfield-me"
 ---

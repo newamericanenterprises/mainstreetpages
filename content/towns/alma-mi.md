@@ -1,9 +1,7 @@
 ---
-title: "Alma, Michigan Business Directory"
+title: "Alma, MI Business Directory"
+type: "towns"
 slug: "alma-mi"
-town: "Alma"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 4665
+state: "mi"
+town_data: "alma-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Watersmeet, Michigan Business Directory"
+title: "Watersmeet, MI Business Directory"
+type: "towns"
 slug: "watersmeet-mi"
-town: "Watersmeet"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gogebic"
-population: 2108
+state: "mi"
+town_data: "watersmeet-mi"
 ---

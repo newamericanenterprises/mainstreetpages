@@ -1,9 +1,7 @@
 ---
-title: "Port Sulphur, Louisiana Business Directory"
+title: "Port Sulphur, LA Business Directory"
+type: "towns"
 slug: "port-sulphur-la"
-town: "Port Sulphur"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 1597
+state: "la"
+town_data: "port-sulphur-la"
 ---

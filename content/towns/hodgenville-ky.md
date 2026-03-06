@@ -1,9 +1,7 @@
 ---
-title: "Hodgenville, Kentucky Business Directory"
+title: "Hodgenville, KY Business Directory"
+type: "towns"
 slug: "hodgenville-ky"
-town: "Hodgenville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "LaRue"
-population: 3206
+state: "ky"
+town_data: "hodgenville-ky"
 ---

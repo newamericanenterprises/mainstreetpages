@@ -1,9 +1,7 @@
 ---
-title: "Smithland, Iowa Business Directory"
+title: "Smithland, IA Business Directory"
+type: "towns"
 slug: "smithland-ia"
-town: "Smithland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 666
+state: "ia"
+town_data: "smithland-ia"
 ---

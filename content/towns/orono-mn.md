@@ -1,9 +1,7 @@
 ---
-title: "Orono, Minnesota Business Directory"
+title: "Orono, MN Business Directory"
+type: "towns"
 slug: "orono-mn"
-town: "Orono"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1624
+state: "mn"
+town_data: "orono-mn"
 ---

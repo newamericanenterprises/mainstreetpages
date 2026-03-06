@@ -1,7 +1,7 @@
 ---
-title: "Desloge, Missouri Business Directory"
+title: "Desloge, MO Business Directory"
+type: "towns"
 slug: "desloge-mo"
-state: "MO"
-county: "St. Francois"
-population: 5178
+state: "mo"
+town_data: "desloge-mo"
 ---

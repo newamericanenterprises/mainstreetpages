@@ -1,7 +1,7 @@
 ---
-title: "Three Forks, Montana Business Directory"
+title: "Three Forks, MT Business Directory"
+type: "towns"
 slug: "three-forks-mt"
-state: "MT"
-county: "Gallatin"
-population: 2035
+state: "mt"
+town_data: "three-forks-mt"
 ---

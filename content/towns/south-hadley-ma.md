@@ -1,9 +1,7 @@
 ---
-title: "South Hadley, Massachusetts Business Directory"
+title: "South Hadley, MA Business Directory"
+type: "towns"
 slug: "south-hadley-ma"
-town: "South Hadley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 17657
+state: "ma"
+town_data: "south-hadley-ma"
 ---

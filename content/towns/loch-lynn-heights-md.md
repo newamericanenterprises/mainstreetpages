@@ -1,9 +1,7 @@
 ---
-title: "Loch Lynn Heights, Maryland Business Directory"
+title: "Loch Lynn Heights, MD Business Directory"
+type: "towns"
 slug: "loch-lynn-heights-md"
-town: "Loch Lynn Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 641
+state: "md"
+town_data: "loch-lynn-heights-md"
 ---

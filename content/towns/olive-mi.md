@@ -1,9 +1,7 @@
 ---
-title: "Olive, Michigan Business Directory"
+title: "Olive, MI Business Directory"
+type: "towns"
 slug: "olive-mi"
-town: "Olive"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 3460
+state: "mi"
+town_data: "olive-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shoal Creek Drive, Missouri Business Directory"
+title: "Shoal Creek Drive, MO Business Directory"
+type: "towns"
 slug: "shoal-creek-drive-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "shoal-creek-drive-mo"
 ---

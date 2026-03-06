@@ -1,7 +1,7 @@
 ---
-title: "Weldon Spring Heights, Missouri Business Directory"
+title: "Weldon Spring Heights, MO Business Directory"
+type: "towns"
 slug: "weldon-spring-heights-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "weldon-spring-heights-mo"
 ---

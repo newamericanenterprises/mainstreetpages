@@ -1,9 +1,7 @@
 ---
-title: "Sparta, Kentucky Business Directory"
+title: "Sparta, KY Business Directory"
+type: "towns"
 slug: "sparta-ky"
-town: "Sparta"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Gallatin"
-population: 1236
+state: "ky"
+town_data: "sparta-ky"
 ---

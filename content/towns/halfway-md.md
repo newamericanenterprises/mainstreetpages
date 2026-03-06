@@ -1,9 +1,7 @@
 ---
-title: "Halfway, Maryland Business Directory"
+title: "Halfway, MD Business Directory"
+type: "towns"
 slug: "halfway-md"
-town: "Halfway"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 2066
+state: "md"
+town_data: "halfway-md"
 ---

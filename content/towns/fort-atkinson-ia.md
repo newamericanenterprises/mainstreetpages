@@ -1,9 +1,7 @@
 ---
-title: "Fort Atkinson, Iowa Business Directory"
+title: "Fort Atkinson, IA Business Directory"
+type: "towns"
 slug: "fort-atkinson-ia"
-town: "Fort Atkinson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 980
+state: "ia"
+town_data: "fort-atkinson-ia"
 ---

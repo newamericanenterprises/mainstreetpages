@@ -1,9 +1,7 @@
 ---
-title: "Cuba, Kansas Business Directory"
+title: "Cuba, KS Business Directory"
+type: "towns"
 slug: "cuba-ks"
-town: "Cuba"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 629
+state: "ks"
+town_data: "cuba-ks"
 ---

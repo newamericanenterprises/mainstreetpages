@@ -1,7 +1,7 @@
 ---
-title: "Magnet, Nebraska Business Directory"
+title: "Magnet, NE Business Directory"
+type: "towns"
 slug: "magnet-ne"
-state: "NE"
-county: "Cedar"
-population: 59
+state: "ne"
+town_data: "magnet-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Aspen Hill, Maryland Business Directory"
+title: "Aspen Hill, MD Business Directory"
+type: "towns"
 slug: "aspen-hill-md"
-town: "Aspen Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 53347
+state: "md"
+town_data: "aspen-hill-md"
 ---

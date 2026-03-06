@@ -1,9 +1,7 @@
 ---
-title: "Carroll, Iowa Business Directory"
+title: "Carroll, IA Business Directory"
+type: "towns"
 slug: "carroll-ia"
-town: "Carroll"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 9878
+state: "ia"
+town_data: "carroll-ia"
 ---

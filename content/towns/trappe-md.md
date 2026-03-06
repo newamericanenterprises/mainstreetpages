@@ -1,9 +1,7 @@
 ---
-title: "Trappe, Maryland Business Directory"
+title: "Trappe, MD Business Directory"
+type: "towns"
 slug: "trappe-md"
-town: "Trappe"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 1226
+state: "md"
+town_data: "trappe-md"
 ---

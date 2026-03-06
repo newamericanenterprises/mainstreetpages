@@ -1,7 +1,7 @@
 ---
-title: "Beverly Hills, Missouri Business Directory"
+title: "Beverly Hills, MO Business Directory"
+type: "towns"
 slug: "beverly-hills-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "beverly-hills-mo"
 ---

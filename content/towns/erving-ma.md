@@ -1,9 +1,7 @@
 ---
-title: "Erving, Massachusetts Business Directory"
+title: "Erving, MA Business Directory"
+type: "towns"
 slug: "erving-ma"
-town: "Erving"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 4242
+state: "ma"
+town_data: "erving-ma"
 ---

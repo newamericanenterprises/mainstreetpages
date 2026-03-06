@@ -1,9 +1,7 @@
 ---
-title: "Patterson, Iowa Business Directory"
+title: "Patterson, IA Business Directory"
+type: "towns"
 slug: "patterson-ia"
-town: "Patterson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Madison"
-population: 1940
+state: "ia"
+town_data: "patterson-ia"
 ---

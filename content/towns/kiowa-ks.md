@@ -1,9 +1,7 @@
 ---
-title: "Kiowa, Kansas Business Directory"
+title: "Kiowa, KS Business Directory"
+type: "towns"
 slug: "kiowa-ks"
-town: "Kiowa"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 657
+state: "ks"
+town_data: "kiowa-ks"
 ---

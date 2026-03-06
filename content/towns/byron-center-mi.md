@@ -1,9 +1,7 @@
 ---
-title: "Byron Center, Michigan Business Directory"
+title: "Byron Center, MI Business Directory"
+type: "towns"
 slug: "byron-center-mi"
-town: "Byron Center"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 3999
+state: "mi"
+town_data: "byron-center-mi"
 ---

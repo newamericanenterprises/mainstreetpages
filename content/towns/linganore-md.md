@@ -1,9 +1,7 @@
 ---
-title: "Linganore, Maryland Business Directory"
+title: "Linganore, MD Business Directory"
+type: "towns"
 slug: "linganore-md"
-town: "Linganore"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 1844
+state: "md"
+town_data: "linganore-md"
 ---

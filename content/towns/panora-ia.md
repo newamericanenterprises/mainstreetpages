@@ -1,9 +1,7 @@
 ---
-title: "Panora, Iowa Business Directory"
+title: "Panora, IA Business Directory"
+type: "towns"
 slug: "panora-ia"
-town: "Panora"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 3213
+state: "ia"
+town_data: "panora-ia"
 ---

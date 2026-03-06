@@ -1,9 +1,7 @@
 ---
-title: "Belfast, Maine Business Directory"
+title: "Belfast, ME Business Directory"
+type: "towns"
 slug: "belfast-me"
-town: "Belfast"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 6938
+state: "me"
+town_data: "belfast-me"
 ---

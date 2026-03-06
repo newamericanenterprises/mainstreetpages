@@ -1,9 +1,7 @@
 ---
-title: "St. Martinville, Louisiana Business Directory"
+title: "St. Martinville, LA Business Directory"
+type: "towns"
 slug: "st-martinville-la"
-town: "St. Martinville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 5932
+state: "la"
+town_data: "st-martinville-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Breckenridge, Missouri Business Directory"
+title: "Breckenridge, MO Business Directory"
+type: "towns"
 slug: "breckenridge-mo"
-state: "MO"
-county: "Caldwell"
-population: 1500
+state: "mo"
+town_data: "breckenridge-mo"
 ---

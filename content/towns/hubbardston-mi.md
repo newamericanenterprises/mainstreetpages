@@ -1,9 +1,7 @@
 ---
-title: "Hubbardston, Michigan Business Directory"
+title: "Hubbardston, MI Business Directory"
+type: "towns"
 slug: "hubbardston-mi"
-town: "Hubbardston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 3567
+state: "mi"
+town_data: "hubbardston-mi"
 ---

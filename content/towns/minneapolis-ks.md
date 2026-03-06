@@ -1,9 +1,7 @@
 ---
-title: "Minneapolis, Kansas Business Directory"
+title: "Minneapolis, KS Business Directory"
+type: "towns"
 slug: "minneapolis-ks"
-town: "Minneapolis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 1224
+state: "ks"
+town_data: "minneapolis-ks"
 ---

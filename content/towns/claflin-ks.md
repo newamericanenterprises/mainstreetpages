@@ -1,9 +1,7 @@
 ---
-title: "Claflin, Kansas Business Directory"
+title: "Claflin, KS Business Directory"
+type: "towns"
 slug: "claflin-ks"
-town: "Claflin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 2181
+state: "ks"
+town_data: "claflin-ks"
 ---

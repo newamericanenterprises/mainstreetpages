@@ -1,9 +1,7 @@
 ---
-title: "Severna Park, Maryland Business Directory"
+title: "Severna Park, MD Business Directory"
+type: "towns"
 slug: "severna-park-md"
-town: "Severna Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 38420
+state: "md"
+town_data: "severna-park-md"
 ---

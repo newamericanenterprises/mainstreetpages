@@ -1,7 +1,7 @@
 ---
-title: "Roca, Nebraska Business Directory"
+title: "Roca, NE Business Directory"
+type: "towns"
 slug: "roca-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "roca-ne"
 ---

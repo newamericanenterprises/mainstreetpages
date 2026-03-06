@@ -1,9 +1,7 @@
 ---
-title: "Ridgecrest, Louisiana Business Directory"
+title: "Ridgecrest, LA Business Directory"
+type: "towns"
 slug: "ridgecrest-la"
-town: "Ridgecrest"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Concordia"
-population: 1265
+state: "la"
+town_data: "ridgecrest-la"
 ---

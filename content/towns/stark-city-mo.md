@@ -1,7 +1,7 @@
 ---
-title: "Stark City, Missouri Business Directory"
+title: "Stark City, MO Business Directory"
+type: "towns"
 slug: "stark-city-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "stark-city-mo"
 ---

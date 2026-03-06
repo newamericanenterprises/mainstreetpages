@@ -1,9 +1,7 @@
 ---
-title: "Federalsburg, Maryland Business Directory"
+title: "Federalsburg, MD Business Directory"
+type: "towns"
 slug: "federalsburg-md"
-town: "Federalsburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 2696
+state: "md"
+town_data: "federalsburg-md"
 ---

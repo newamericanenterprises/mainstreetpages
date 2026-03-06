@@ -1,7 +1,7 @@
 ---
-title: "Barnhart, Missouri Business Directory"
+title: "Barnhart, MO Business Directory"
+type: "towns"
 slug: "barnhart-mo"
-state: "MO"
-county: "Jefferson"
-population: 1500
+state: "mo"
+town_data: "barnhart-mo"
 ---

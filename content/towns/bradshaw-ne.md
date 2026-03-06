@@ -1,7 +1,7 @@
 ---
-title: "Bradshaw, Nebraska Business Directory"
+title: "Bradshaw, NE Business Directory"
+type: "towns"
 slug: "bradshaw-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "bradshaw-ne"
 ---

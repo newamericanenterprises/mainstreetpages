@@ -1,9 +1,7 @@
 ---
-title: "Reisterstown, Maryland Business Directory"
+title: "Reisterstown, MD Business Directory"
+type: "towns"
 slug: "reisterstown-md"
-town: "Reisterstown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2171
+state: "md"
+town_data: "reisterstown-md"
 ---

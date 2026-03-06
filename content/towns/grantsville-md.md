@@ -1,9 +1,7 @@
 ---
-title: "Grantsville, Maryland Business Directory"
+title: "Grantsville, MD Business Directory"
+type: "towns"
 slug: "grantsville-md"
-town: "Grantsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 1011
+state: "md"
+town_data: "grantsville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bellevue, Kentucky Business Directory"
+title: "Bellevue, KY Business Directory"
+type: "towns"
 slug: "bellevue-ky"
-town: "Bellevue"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 3230
+state: "ky"
+town_data: "bellevue-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mooresville, Missouri Business Directory"
+title: "Mooresville, MO Business Directory"
+type: "towns"
 slug: "mooresville-mo"
-state: "MO"
-county: "Livingston"
-population: 1500
+state: "mo"
+town_data: "mooresville-mo"
 ---

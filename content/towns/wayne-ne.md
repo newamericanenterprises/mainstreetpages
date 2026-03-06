@@ -1,7 +1,7 @@
 ---
-title: "Wayne, Nebraska Business Directory"
+title: "Wayne, NE Business Directory"
+type: "towns"
 slug: "wayne-ne"
-state: "NE"
-county: "Wayne"
-population: 5660
+state: "ne"
+town_data: "wayne-ne"
 ---

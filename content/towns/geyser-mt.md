@@ -1,7 +1,7 @@
 ---
-title: "Geyser, Montana Business Directory"
+title: "Geyser, MT Business Directory"
+type: "towns"
 slug: "geyser-mt"
-state: "MT"
-county: "Judith Basin"
-population: 500
+state: "mt"
+town_data: "geyser-mt"
 ---

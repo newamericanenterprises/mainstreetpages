@@ -1,9 +1,7 @@
 ---
-title: "Ramsey, Minnesota Business Directory"
+title: "Ramsey, MN Business Directory"
+type: "towns"
 slug: "ramsey-mn"
-town: "Ramsey"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 28201
+state: "mn"
+town_data: "ramsey-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bar Harbor, Maine Business Directory"
+title: "Bar Harbor, ME Business Directory"
+type: "towns"
 slug: "bar-harbor-me"
-town: "Bar Harbor"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 5535
+state: "me"
+town_data: "bar-harbor-me"
 ---

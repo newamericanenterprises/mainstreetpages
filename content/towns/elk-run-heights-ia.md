@@ -1,9 +1,7 @@
 ---
-title: "Elk Run Heights, Iowa Business Directory"
+title: "Elk Run Heights, IA Business Directory"
+type: "towns"
 slug: "elk-run-heights-ia"
-town: "Elk Run Heights"
-state: "Iowa"
-state_abbr: "IA"
-county: "Black Hawk"
-population: 3212
+state: "ia"
+town_data: "elk-run-heights-ia"
 ---

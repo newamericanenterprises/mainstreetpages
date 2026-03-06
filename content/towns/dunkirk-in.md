@@ -1,9 +1,7 @@
 ---
-title: "Dunkirk, Indiana Business Directory"
+title: "Dunkirk, IN Business Directory"
+type: "towns"
 slug: "dunkirk-in"
-town: "Dunkirk"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 4246
+state: "in"
+town_data: "dunkirk-in"
 ---

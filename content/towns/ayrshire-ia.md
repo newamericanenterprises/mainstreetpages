@@ -1,9 +1,7 @@
 ---
-title: "Ayrshire, Iowa Business Directory"
+title: "Ayrshire, IA Business Directory"
+type: "towns"
 slug: "ayrshire-ia"
-town: "Ayrshire"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 2631
+state: "ia"
+town_data: "ayrshire-ia"
 ---

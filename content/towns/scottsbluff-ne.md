@@ -1,7 +1,7 @@
 ---
-title: "Scottsbluff, Nebraska Business Directory"
+title: "Scottsbluff, NE Business Directory"
+type: "towns"
 slug: "scottsbluff-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 14777
+state: "ne"
+town_data: "scottsbluff-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mingo, Iowa Business Directory"
+title: "Mingo, IA Business Directory"
+type: "towns"
 slug: "mingo-ia"
-town: "Mingo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1799
+state: "ia"
+town_data: "mingo-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bassett, Iowa Business Directory"
+title: "Bassett, IA Business Directory"
+type: "towns"
 slug: "bassett-ia"
-town: "Bassett"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 2501
+state: "ia"
+town_data: "bassett-ia"
 ---

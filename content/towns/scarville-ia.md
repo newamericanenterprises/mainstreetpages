@@ -1,9 +1,7 @@
 ---
-title: "Scarville, Iowa Business Directory"
+title: "Scarville, IA Business Directory"
+type: "towns"
 slug: "scarville-ia"
-town: "Scarville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 1161
+state: "ia"
+town_data: "scarville-ia"
 ---

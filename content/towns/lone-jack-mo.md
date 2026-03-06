@@ -1,7 +1,7 @@
 ---
-title: "Lone Jack, Missouri Business Directory"
+title: "Lone Jack, MO Business Directory"
+type: "towns"
 slug: "lone-jack-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "lone-jack-mo"
 ---

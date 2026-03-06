@@ -1,9 +1,7 @@
 ---
-title: "Upsala, Minnesota Business Directory"
+title: "Upsala, MN Business Directory"
+type: "towns"
 slug: "upsala-mn"
-town: "Upsala"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 1622
+state: "mn"
+town_data: "upsala-mn"
 ---

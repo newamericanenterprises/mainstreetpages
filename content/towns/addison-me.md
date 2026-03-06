@@ -1,9 +1,7 @@
 ---
-title: "Addison, Maine Business Directory"
+title: "Addison, ME Business Directory"
+type: "towns"
 slug: "addison-me"
-town: "Addison"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 883
+state: "me"
+town_data: "addison-me"
 ---

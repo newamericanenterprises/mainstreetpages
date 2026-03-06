@@ -1,9 +1,7 @@
 ---
-title: "Bejou, Minnesota Business Directory"
+title: "Bejou, MN Business Directory"
+type: "towns"
 slug: "bejou-mn"
-town: "Bejou"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mahnomen"
-population: 1479
+state: "mn"
+town_data: "bejou-mn"
 ---

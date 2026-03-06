@@ -1,9 +1,7 @@
 ---
-title: "Grosse Tete, Louisiana Business Directory"
+title: "Grosse Tete, LA Business Directory"
+type: "towns"
 slug: "grosse-tete-la"
-town: "Grosse Tete"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 1383
+state: "la"
+town_data: "grosse-tete-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Belview, Minnesota Business Directory"
+title: "Belview, MN Business Directory"
+type: "towns"
 slug: "belview-mn"
-town: "Belview"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2920
+state: "mn"
+town_data: "belview-mn"
 ---

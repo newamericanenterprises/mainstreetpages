@@ -1,9 +1,7 @@
 ---
-title: "Sharon, Kansas Business Directory"
+title: "Sharon, KS Business Directory"
+type: "towns"
 slug: "sharon-ks"
-town: "Sharon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 3002
+state: "ks"
+town_data: "sharon-ks"
 ---

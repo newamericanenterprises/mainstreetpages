@@ -1,9 +1,7 @@
 ---
-title: "Charlotte, Michigan Business Directory"
+title: "Charlotte, MI Business Directory"
+type: "towns"
 slug: "charlotte-mi"
-town: "Charlotte"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 9098
+state: "mi"
+town_data: "charlotte-mi"
 ---

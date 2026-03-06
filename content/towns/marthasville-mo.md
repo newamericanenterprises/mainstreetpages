@@ -1,7 +1,7 @@
 ---
-title: "Marthasville, Missouri Business Directory"
+title: "Marthasville, MO Business Directory"
+type: "towns"
 slug: "marthasville-mo"
-state: "MO"
-county: "Warren"
-population: 1500
+state: "mo"
+town_data: "marthasville-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Logansport, Louisiana Business Directory"
+title: "Logansport, LA Business Directory"
+type: "towns"
 slug: "logansport-la"
-town: "Logansport"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 1844
+state: "la"
+town_data: "logansport-la"
 ---

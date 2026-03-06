@@ -1,7 +1,7 @@
 ---
-title: "Lucedale, Mississippi Business Directory"
+title: "Lucedale, MS Business Directory"
+type: "towns"
 slug: "lucedale-ms"
-state: "MS"
-county: "George"
-population: 2924
+state: "ms"
+town_data: "lucedale-ms"
 ---

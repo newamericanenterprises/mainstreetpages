@@ -1,7 +1,7 @@
 ---
-title: "Jackson, Missouri Business Directory"
+title: "Jackson, MO Business Directory"
+type: "towns"
 slug: "jackson-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 15052
+state: "mo"
+town_data: "jackson-mo"
 ---

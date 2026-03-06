@@ -1,9 +1,7 @@
 ---
-title: "Swanville, Maine Business Directory"
+title: "Swanville, ME Business Directory"
+type: "towns"
 slug: "swanville-me"
-town: "Swanville"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2329
+state: "me"
+town_data: "swanville-me"
 ---

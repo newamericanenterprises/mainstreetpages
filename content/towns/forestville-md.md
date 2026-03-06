@@ -1,9 +1,7 @@
 ---
-title: "Forestville, Maryland Business Directory"
+title: "Forestville, MD Business Directory"
+type: "towns"
 slug: "forestville-md"
-town: "Forestville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2327
+state: "md"
+town_data: "forestville-md"
 ---

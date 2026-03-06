@@ -1,7 +1,7 @@
 ---
-title: "Hillsboro, Missouri Business Directory"
+title: "Hillsboro, MO Business Directory"
+type: "towns"
 slug: "hillsboro-mo"
-state: "MO"
-county: "Jefferson"
-population: 3186
+state: "mo"
+town_data: "hillsboro-mo"
 ---

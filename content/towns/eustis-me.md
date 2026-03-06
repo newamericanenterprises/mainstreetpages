@@ -1,9 +1,7 @@
 ---
-title: "Eustis, Maine Business Directory"
+title: "Eustis, ME Business Directory"
+type: "towns"
 slug: "eustis-me"
-town: "Eustis"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1353
+state: "me"
+town_data: "eustis-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Memphis, Nebraska Business Directory"
+title: "Memphis, NE Business Directory"
+type: "towns"
 slug: "memphis-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "memphis-ne"
 ---

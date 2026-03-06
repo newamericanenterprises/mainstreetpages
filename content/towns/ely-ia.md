@@ -1,9 +1,7 @@
 ---
-title: "Ely, Iowa Business Directory"
+title: "Ely, IA Business Directory"
+type: "towns"
 slug: "ely-ia"
-town: "Ely"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 3056
+state: "ia"
+town_data: "ely-ia"
 ---

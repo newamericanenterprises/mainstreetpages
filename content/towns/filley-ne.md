@@ -1,7 +1,7 @@
 ---
-title: "Filley, Nebraska Business Directory"
+title: "Filley, NE Business Directory"
+type: "towns"
 slug: "filley-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "filley-ne"
 ---

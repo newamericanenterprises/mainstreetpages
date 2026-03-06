@@ -1,7 +1,7 @@
 ---
-title: "Otterville, Missouri Business Directory"
+title: "Otterville, MO Business Directory"
+type: "towns"
 slug: "otterville-mo"
-state: "MO"
-county: "Cooper"
-population: 1500
+state: "mo"
+town_data: "otterville-mo"
 ---

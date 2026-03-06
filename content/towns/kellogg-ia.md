@@ -1,9 +1,7 @@
 ---
-title: "Kellogg, Iowa Business Directory"
+title: "Kellogg, IA Business Directory"
+type: "towns"
 slug: "kellogg-ia"
-town: "Kellogg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1260
+state: "ia"
+town_data: "kellogg-ia"
 ---

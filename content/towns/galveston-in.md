@@ -1,9 +1,7 @@
 ---
-title: "Galveston, Indiana Business Directory"
+title: "Galveston, IN Business Directory"
+type: "towns"
 slug: "galveston-in"
-town: "Galveston"
-state: "Indiana"
-state_abbr: "IN"
-county: "Cass"
-population: 1034
+state: "in"
+town_data: "galveston-in"
 ---

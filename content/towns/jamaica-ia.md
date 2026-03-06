@@ -1,9 +1,7 @@
 ---
-title: "Jamaica, Iowa Business Directory"
+title: "Jamaica, IA Business Directory"
+type: "towns"
 slug: "jamaica-ia"
-town: "Jamaica"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 1120
+state: "ia"
+town_data: "jamaica-ia"
 ---

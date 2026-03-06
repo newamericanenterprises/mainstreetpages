@@ -1,9 +1,7 @@
 ---
-title: "Glenmora, Louisiana Business Directory"
+title: "Glenmora, LA Business Directory"
+type: "towns"
 slug: "glenmora-la"
-town: "Glenmora"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 1957
+state: "la"
+town_data: "glenmora-la"
 ---

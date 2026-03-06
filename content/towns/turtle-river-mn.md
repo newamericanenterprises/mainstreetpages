@@ -1,9 +1,7 @@
 ---
-title: "Turtle River, Minnesota Business Directory"
+title: "Turtle River, MN Business Directory"
+type: "towns"
 slug: "turtle-river-mn"
-town: "Turtle River"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Beltrami"
-population: 2840
+state: "mn"
+town_data: "turtle-river-mn"
 ---

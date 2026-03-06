@@ -1,9 +1,7 @@
 ---
-title: "Saratoga, Indiana Business Directory"
+title: "Saratoga, IN Business Directory"
+type: "towns"
 slug: "saratoga-in"
-town: "Saratoga"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 5124
+state: "in"
+town_data: "saratoga-in"
 ---

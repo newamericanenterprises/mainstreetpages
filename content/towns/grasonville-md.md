@@ -1,9 +1,7 @@
 ---
-title: "Grasonville, Maryland Business Directory"
+title: "Grasonville, MD Business Directory"
+type: "towns"
 slug: "grasonville-md"
-town: "Grasonville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 5341
+state: "md"
+town_data: "grasonville-md"
 ---

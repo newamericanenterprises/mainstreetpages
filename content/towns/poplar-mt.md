@@ -1,7 +1,7 @@
 ---
-title: "Poplar, Montana Business Directory"
+title: "Poplar, MT Business Directory"
+type: "towns"
 slug: "poplar-mt"
-state: "MT"
-county: "Roosevelt"
-population: 806
+state: "mt"
+town_data: "poplar-mt"
 ---

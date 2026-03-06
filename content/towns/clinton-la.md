@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Louisiana Business Directory"
+title: "Clinton, LA Business Directory"
+type: "towns"
 slug: "clinton-la"
-town: "Clinton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Feliciana"
-population: 443
+state: "la"
+town_data: "clinton-la"
 ---

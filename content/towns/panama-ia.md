@@ -1,9 +1,7 @@
 ---
-title: "Panama, Iowa Business Directory"
+title: "Panama, IA Business Directory"
+type: "towns"
 slug: "panama-ia"
-town: "Panama"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 1379
+state: "ia"
+town_data: "panama-ia"
 ---

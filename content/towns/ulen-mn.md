@@ -1,9 +1,7 @@
 ---
-title: "Ulen, Minnesota Business Directory"
+title: "Ulen, MN Business Directory"
+type: "towns"
 slug: "ulen-mn"
-town: "Ulen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 2750
+state: "mn"
+town_data: "ulen-mn"
 ---

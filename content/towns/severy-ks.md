@@ -1,9 +1,7 @@
 ---
-title: "Severy, Kansas Business Directory"
+title: "Severy, KS Business Directory"
+type: "towns"
 slug: "severy-ks"
-town: "Severy"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 1723
+state: "ks"
+town_data: "severy-ks"
 ---

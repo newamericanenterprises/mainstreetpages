@@ -1,9 +1,7 @@
 ---
-title: "Huxley, Iowa Business Directory"
+title: "Huxley, IA Business Directory"
+type: "towns"
 slug: "huxley-ia"
-town: "Huxley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 2102
+state: "ia"
+town_data: "huxley-ia"
 ---

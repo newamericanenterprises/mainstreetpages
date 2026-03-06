@@ -1,9 +1,7 @@
 ---
-title: "Spiceland, Indiana Business Directory"
+title: "Spiceland, IN Business Directory"
+type: "towns"
 slug: "spiceland-in"
-town: "Spiceland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 2916
+state: "in"
+town_data: "spiceland-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Elkridge, Maryland Business Directory"
+title: "Elkridge, MD Business Directory"
+type: "towns"
 slug: "elkridge-md"
-town: "Elkridge"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 2141
+state: "md"
+town_data: "elkridge-md"
 ---

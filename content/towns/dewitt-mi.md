@@ -1,9 +1,7 @@
 ---
-title: "DeWitt, Michigan Business Directory"
+title: "DeWitt, MI Business Directory"
+type: "towns"
 slug: "dewitt-mi"
-town: "DeWitt"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 3240
+state: "mi"
+town_data: "dewitt-mi"
 ---

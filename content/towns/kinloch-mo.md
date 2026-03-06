@@ -1,7 +1,7 @@
 ---
-title: "Kinloch, Missouri Business Directory"
+title: "Kinloch, MO Business Directory"
+type: "towns"
 slug: "kinloch-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "kinloch-mo"
 ---

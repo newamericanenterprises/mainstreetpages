@@ -1,9 +1,7 @@
 ---
-title: "Plainfield, Indiana Business Directory"
+title: "Plainfield, IN Business Directory"
+type: "towns"
 slug: "plainfield-in"
-town: "Plainfield"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 34165
+state: "in"
+town_data: "plainfield-in"
 ---

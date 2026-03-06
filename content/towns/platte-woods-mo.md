@@ -1,7 +1,7 @@
 ---
-title: "Platte Woods, Missouri Business Directory"
+title: "Platte Woods, MO Business Directory"
+type: "towns"
 slug: "platte-woods-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "platte-woods-mo"
 ---

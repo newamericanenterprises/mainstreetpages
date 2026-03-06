@@ -1,9 +1,7 @@
 ---
-title: "Pittston, Maine Business Directory"
+title: "Pittston, ME Business Directory"
+type: "towns"
 slug: "pittston-me"
-town: "Pittston"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1699
+state: "me"
+town_data: "pittston-me"
 ---

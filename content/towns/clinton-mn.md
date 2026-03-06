@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Minnesota Business Directory"
+title: "Clinton, MN Business Directory"
+type: "towns"
 slug: "clinton-mn"
-town: "Clinton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 1233
+state: "mn"
+town_data: "clinton-mn"
 ---

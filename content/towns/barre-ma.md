@@ -1,9 +1,7 @@
 ---
-title: "Barre, Massachusetts Business Directory"
+title: "Barre, MA Business Directory"
+type: "towns"
 slug: "barre-ma"
-town: "Barre"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 7142
+state: "ma"
+town_data: "barre-ma"
 ---

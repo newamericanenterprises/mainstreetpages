@@ -1,7 +1,7 @@
 ---
-title: "Linwood, Nebraska Business Directory"
+title: "Linwood, NE Business Directory"
+type: "towns"
 slug: "linwood-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "linwood-ne"
 ---

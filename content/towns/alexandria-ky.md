@@ -1,9 +1,7 @@
 ---
-title: "Alexandria, Kentucky Business Directory"
+title: "Alexandria, KY Business Directory"
+type: "towns"
 slug: "alexandria-ky"
-town: "Alexandria"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 2259
+state: "ky"
+town_data: "alexandria-ky"
 ---

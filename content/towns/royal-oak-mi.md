@@ -1,9 +1,7 @@
 ---
-title: "Royal Oak, Michigan Business Directory"
+title: "Royal Oak, MI Business Directory"
+type: "towns"
 slug: "royal-oak-mi"
-town: "Royal Oak"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 59256
+state: "mi"
+town_data: "royal-oak-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pine Village, Indiana Business Directory"
+title: "Pine Village, IN Business Directory"
+type: "towns"
 slug: "pine-village-in"
-town: "Pine Village"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warren"
-population: 1518
+state: "in"
+town_data: "pine-village-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Seneca, Nebraska Business Directory"
+title: "Seneca, NE Business Directory"
+type: "towns"
 slug: "seneca-ne"
-state: "NE"
-county: "Thomas"
-population: 500
+state: "ne"
+town_data: "seneca-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Charlevoix, Michigan Business Directory"
+title: "Charlevoix, MI Business Directory"
+type: "towns"
 slug: "charlevoix-mi"
-town: "Charlevoix"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 3712
+state: "mi"
+town_data: "charlevoix-mi"
 ---

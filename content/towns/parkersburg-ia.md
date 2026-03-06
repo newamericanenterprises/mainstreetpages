@@ -1,9 +1,7 @@
 ---
-title: "Parkersburg, Iowa Business Directory"
+title: "Parkersburg, IA Business Directory"
+type: "towns"
 slug: "parkersburg-ia"
-town: "Parkersburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 1333
+state: "ia"
+town_data: "parkersburg-ia"
 ---

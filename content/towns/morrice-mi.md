@@ -1,9 +1,7 @@
 ---
-title: "Morrice, Michigan Business Directory"
+title: "Morrice, MI Business Directory"
+type: "towns"
 slug: "morrice-mi"
-town: "Morrice"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 2384
+state: "mi"
+town_data: "morrice-mi"
 ---

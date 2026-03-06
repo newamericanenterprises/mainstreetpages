@@ -1,9 +1,7 @@
 ---
-title: "Webster City, Iowa Business Directory"
+title: "Webster City, IA Business Directory"
+type: "towns"
 slug: "webster-city-ia"
-town: "Webster City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 7884
+state: "ia"
+town_data: "webster-city-ia"
 ---

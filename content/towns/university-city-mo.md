@@ -1,7 +1,7 @@
 ---
-title: "University City, Missouri Business Directory"
+title: "University City, MO Business Directory"
+type: "towns"
 slug: "university-city-mo"
-state: "MO"
-county: "St. Louis"
-population: 35371
+state: "mo"
+town_data: "university-city-mo"
 ---

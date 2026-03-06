@@ -1,7 +1,7 @@
 ---
-title: "Edina, Missouri Business Directory"
+title: "Edina, MO Business Directory"
+type: "towns"
 slug: "edina-mo"
-state: "MO"
-county: "Knox"
-population: 1176
+state: "mo"
+town_data: "edina-mo"
 ---

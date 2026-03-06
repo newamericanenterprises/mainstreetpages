@@ -1,9 +1,7 @@
 ---
-title: "Centralia, Kansas Business Directory"
+title: "Centralia, KS Business Directory"
+type: "towns"
 slug: "centralia-ks"
-town: "Centralia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 2471
+state: "ks"
+town_data: "centralia-ks"
 ---

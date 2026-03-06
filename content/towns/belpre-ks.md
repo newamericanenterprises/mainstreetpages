@@ -1,9 +1,7 @@
 ---
-title: "Belpre, Kansas Business Directory"
+title: "Belpre, KS Business Directory"
+type: "towns"
 slug: "belpre-ks"
-town: "Belpre"
-state: "Kansas"
-state_abbr: "KS"
-county: "Edwards"
-population: 2128
+state: "ks"
+town_data: "belpre-ks"
 ---

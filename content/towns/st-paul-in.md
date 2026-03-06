@@ -1,9 +1,7 @@
 ---
-title: "St. Paul, Indiana Business Directory"
+title: "St. Paul, IN Business Directory"
+type: "towns"
 slug: "st-paul-in"
-town: "St. Paul"
-state: "Indiana"
-state_abbr: "IN"
-county: "Shelby"
-population: 527
+state: "in"
+town_data: "st-paul-in"
 ---

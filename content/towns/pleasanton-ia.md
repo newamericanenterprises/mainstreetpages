@@ -1,9 +1,7 @@
 ---
-title: "Pleasanton, Iowa Business Directory"
+title: "Pleasanton, IA Business Directory"
+type: "towns"
 slug: "pleasanton-ia"
-town: "Pleasanton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 3484
+state: "ia"
+town_data: "pleasanton-ia"
 ---

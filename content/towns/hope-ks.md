@@ -1,9 +1,7 @@
 ---
-title: "Hope, Kansas Business Directory"
+title: "Hope, KS Business Directory"
+type: "towns"
 slug: "hope-ks"
-town: "Hope"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 996
+state: "ks"
+town_data: "hope-ks"
 ---

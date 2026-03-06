@@ -1,7 +1,7 @@
 ---
-title: "Joplin, Montana Business Directory"
+title: "Joplin, MT Business Directory"
+type: "towns"
 slug: "joplin-mt"
-state: "MT"
-county: "Liberty"
-population: 500
+state: "mt"
+town_data: "joplin-mt"
 ---

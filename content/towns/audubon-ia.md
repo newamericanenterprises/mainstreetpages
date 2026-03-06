@@ -1,9 +1,7 @@
 ---
-title: "Audubon, Iowa Business Directory"
+title: "Audubon, IA Business Directory"
+type: "towns"
 slug: "audubon-ia"
-town: "Audubon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Audubon"
-population: 1840
+state: "ia"
+town_data: "audubon-ia"
 ---

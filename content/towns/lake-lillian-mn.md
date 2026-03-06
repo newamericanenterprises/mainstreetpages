@@ -1,9 +1,7 @@
 ---
-title: "Lake Lillian, Minnesota Business Directory"
+title: "Lake Lillian, MN Business Directory"
+type: "towns"
 slug: "lake-lillian-mn"
-town: "Lake Lillian"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 344
+state: "mn"
+town_data: "lake-lillian-mn"
 ---

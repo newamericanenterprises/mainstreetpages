@@ -1,7 +1,7 @@
 ---
-title: "Novinger, Missouri Business Directory"
+title: "Novinger, MO Business Directory"
+type: "towns"
 slug: "novinger-mo"
-state: "MO"
-county: "Adair"
-population: 1500
+state: "mo"
+town_data: "novinger-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Springport, Indiana Business Directory"
+title: "Springport, IN Business Directory"
+type: "towns"
 slug: "springport-in"
-town: "Springport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 5187
+state: "in"
+town_data: "springport-in"
 ---

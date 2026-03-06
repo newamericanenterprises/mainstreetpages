@@ -1,7 +1,7 @@
 ---
-title: "Sunrise Manor, Nevada Business Directory"
+title: "Sunrise Manor, NV Business Directory"
+type: "towns"
 slug: "sunrise-manor-nv"
-state: "NV"
-county: "Clark"
-population: 205618
+state: "nv"
+town_data: "sunrise-manor-nv"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bois D'Arc, Missouri Business Directory"
+title: "Bois D Arc, MO Business Directory"
+type: "towns"
 slug: "bois-d-arc-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "bois-d-arc-mo"
 ---

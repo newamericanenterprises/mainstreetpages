@@ -1,9 +1,7 @@
 ---
-title: "Oak Grove, Louisiana Business Directory"
+title: "Oak Grove, LA Business Directory"
+type: "towns"
 slug: "oak-grove-la"
-town: "Oak Grove"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Carroll"
-population: 2497
+state: "la"
+town_data: "oak-grove-la"
 ---

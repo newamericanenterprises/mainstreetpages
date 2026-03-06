@@ -1,9 +1,7 @@
 ---
-title: "Winnsboro, Louisiana Business Directory"
+title: "Winnsboro, LA Business Directory"
+type: "towns"
 slug: "winnsboro-la"
-town: "Winnsboro"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Franklin"
-population: 4397
+state: "la"
+town_data: "winnsboro-la"
 ---

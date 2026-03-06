@@ -1,7 +1,7 @@
 ---
-title: "Glendive, Montana Business Directory"
+title: "Glendive, MT Business Directory"
+type: "towns"
 slug: "glendive-mt"
-state: "MT"
-county: "Dawson"
-population: 4935
+state: "mt"
+town_data: "glendive-mt"
 ---

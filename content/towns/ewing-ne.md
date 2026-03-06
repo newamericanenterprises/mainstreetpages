@@ -1,7 +1,7 @@
 ---
-title: "Ewing, Nebraska Business Directory"
+title: "Ewing, NE Business Directory"
+type: "towns"
 slug: "ewing-ne"
-state: "NE"
-county: "Holt"
-population: 383
+state: "ne"
+town_data: "ewing-ne"
 ---

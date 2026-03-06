@@ -1,9 +1,7 @@
 ---
-title: "Winthrop, Maine Business Directory"
+title: "Winthrop, ME Business Directory"
+type: "towns"
 slug: "winthrop-me"
-town: "Winthrop"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 5935
+state: "me"
+town_data: "winthrop-me"
 ---

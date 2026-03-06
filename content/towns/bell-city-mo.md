@@ -1,7 +1,7 @@
 ---
-title: "Bell City, Missouri Business Directory"
+title: "Bell City, MO Business Directory"
+type: "towns"
 slug: "bell-city-mo"
-state: "MO"
-county: "Stoddard"
-population: 1500
+state: "mo"
+town_data: "bell-city-mo"
 ---

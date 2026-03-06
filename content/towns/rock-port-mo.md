@@ -1,7 +1,7 @@
 ---
-title: "Rock Port, Missouri Business Directory"
+title: "Rock Port, MO Business Directory"
+type: "towns"
 slug: "rock-port-mo"
-state: "MO"
-county: "Atchison"
-population: 1296
+state: "mo"
+town_data: "rock-port-mo"
 ---

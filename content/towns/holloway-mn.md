@@ -1,9 +1,7 @@
 ---
-title: "Holloway, Minnesota Business Directory"
+title: "Holloway, MN Business Directory"
+type: "towns"
 slug: "holloway-mn"
-town: "Holloway"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 961
+state: "mn"
+town_data: "holloway-mn"
 ---

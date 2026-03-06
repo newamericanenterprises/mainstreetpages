@@ -1,9 +1,7 @@
 ---
-title: "Everly, Iowa Business Directory"
+title: "Everly, IA Business Directory"
+type: "towns"
 slug: "everly-ia"
-town: "Everly"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 1875
+state: "ia"
+town_data: "everly-ia"
 ---

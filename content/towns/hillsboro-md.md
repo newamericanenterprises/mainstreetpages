@@ -1,9 +1,7 @@
 ---
-title: "Hillsboro, Maryland Business Directory"
+title: "Hillsboro, MD Business Directory"
+type: "towns"
 slug: "hillsboro-md"
-town: "Hillsboro"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 4217
+state: "md"
+town_data: "hillsboro-md"
 ---

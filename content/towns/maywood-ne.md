@@ -1,7 +1,7 @@
 ---
-title: "Maywood, Nebraska Business Directory"
+title: "Maywood, NE Business Directory"
+type: "towns"
 slug: "maywood-ne"
-state: "NE"
-county: "Frontier"
-population: 500
+state: "ne"
+town_data: "maywood-ne"
 ---

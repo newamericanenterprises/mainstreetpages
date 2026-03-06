@@ -1,9 +1,7 @@
 ---
-title: "Gamaliel, Kentucky Business Directory"
+title: "Gamaliel, KY Business Directory"
+type: "towns"
 slug: "gamaliel-ky"
-town: "Gamaliel"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Monroe"
-population: 1774
+state: "ky"
+town_data: "gamaliel-ky"
 ---

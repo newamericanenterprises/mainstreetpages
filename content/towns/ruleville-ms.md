@@ -1,7 +1,7 @@
 ---
-title: "Ruleville, Mississippi Business Directory"
+title: "Ruleville, MS Business Directory"
+type: "towns"
 slug: "ruleville-ms"
-state: "MS"
-county: "Sunflower"
-population: 2938
+state: "ms"
+town_data: "ruleville-ms"
 ---

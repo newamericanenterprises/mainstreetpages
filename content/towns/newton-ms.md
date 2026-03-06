@@ -1,7 +1,7 @@
 ---
-title: "Newton, Mississippi Business Directory"
+title: "Newton, MS Business Directory"
+type: "towns"
 slug: "newton-ms"
-state: "MS"
-county: "Newton"
-population: 3492
+state: "ms"
+town_data: "newton-ms"
 ---

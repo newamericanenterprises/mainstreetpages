@@ -1,7 +1,7 @@
 ---
-title: "Pachuta, Mississippi Business Directory"
+title: "Pachuta, MS Business Directory"
+type: "towns"
 slug: "pachuta-ms"
-state: "MS"
-county: "Clarke"
-population: 247
+state: "ms"
+town_data: "pachuta-ms"
 ---

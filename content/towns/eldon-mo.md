@@ -1,7 +1,7 @@
 ---
-title: "Eldon, Missouri Business Directory"
+title: "Eldon, MO Business Directory"
+type: "towns"
 slug: "eldon-mo"
-state: "MO"
-county: "Miller"
-population: 4567
+state: "mo"
+town_data: "eldon-mo"
 ---

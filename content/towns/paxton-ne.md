@@ -1,7 +1,7 @@
 ---
-title: "Paxton, Nebraska Business Directory"
+title: "Paxton, NE Business Directory"
+type: "towns"
 slug: "paxton-ne"
-state: "NE"
-county: "Keith"
-population: 536
+state: "ne"
+town_data: "paxton-ne"
 ---

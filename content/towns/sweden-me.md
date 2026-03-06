@@ -1,9 +1,7 @@
 ---
-title: "Sweden, Maine Business Directory"
+title: "Sweden, ME Business Directory"
+type: "towns"
 slug: "sweden-me"
-town: "Sweden"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2261
+state: "me"
+town_data: "sweden-me"
 ---

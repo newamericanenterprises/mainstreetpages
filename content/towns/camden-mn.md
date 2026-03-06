@@ -1,9 +1,7 @@
 ---
-title: "Camden, Minnesota Business Directory"
+title: "Camden, MN Business Directory"
+type: "towns"
 slug: "camden-mn"
-town: "Camden"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1500
+state: "mn"
+town_data: "camden-mn"
 ---

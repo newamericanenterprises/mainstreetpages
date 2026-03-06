@@ -1,9 +1,7 @@
 ---
-title: "Plymouth, Michigan Business Directory"
+title: "Plymouth, MI Business Directory"
+type: "towns"
 slug: "plymouth-mi"
-town: "Plymouth"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 9132
+state: "mi"
+town_data: "plymouth-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Anguilla, Mississippi Business Directory"
+title: "Anguilla, MS Business Directory"
+type: "towns"
 slug: "anguilla-ms"
-state: "MS"
-county: "Sharkey"
-population: 562
+state: "ms"
+town_data: "anguilla-ms"
 ---

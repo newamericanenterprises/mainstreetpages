@@ -1,9 +1,7 @@
 ---
-title: "New Ulm, Minnesota Business Directory"
+title: "New Ulm, MN Business Directory"
+type: "towns"
 slug: "new-ulm-mn"
-town: "New Ulm"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 13522
+state: "mn"
+town_data: "new-ulm-mn"
 ---

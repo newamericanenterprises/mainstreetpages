@@ -1,9 +1,7 @@
 ---
-title: "Grand Junction, Iowa Business Directory"
+title: "Grand Junction, IA Business Directory"
+type: "towns"
 slug: "grand-junction-ia"
-town: "Grand Junction"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 2000
+state: "ia"
+town_data: "grand-junction-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lewiston, Nebraska Business Directory"
+title: "Lewiston, NE Business Directory"
+type: "towns"
 slug: "lewiston-ne"
-state: "NE"
-county: "Pawnee"
-population: 500
+state: "ne"
+town_data: "lewiston-ne"
 ---

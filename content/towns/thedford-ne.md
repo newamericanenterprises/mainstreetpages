@@ -1,7 +1,7 @@
 ---
-title: "Thedford, Nebraska Business Directory"
+title: "Thedford, NE Business Directory"
+type: "towns"
 slug: "thedford-ne"
-state: "NE"
-county: "Thomas"
-population: 500
+state: "ne"
+town_data: "thedford-ne"
 ---

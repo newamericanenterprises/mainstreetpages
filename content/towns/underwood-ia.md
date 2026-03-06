@@ -1,9 +1,7 @@
 ---
-title: "Underwood, Iowa Business Directory"
+title: "Underwood, IA Business Directory"
+type: "towns"
 slug: "underwood-ia"
-town: "Underwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 636
+state: "ia"
+town_data: "underwood-ia"
 ---

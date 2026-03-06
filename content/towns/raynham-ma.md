@@ -1,9 +1,7 @@
 ---
-title: "Raynham, Massachusetts Business Directory"
+title: "Raynham, MA Business Directory"
+type: "towns"
 slug: "raynham-ma"
-town: "Raynham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 5792
+state: "ma"
+town_data: "raynham-ma"
 ---

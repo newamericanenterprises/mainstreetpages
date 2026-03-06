@@ -1,9 +1,7 @@
 ---
-title: "Darmstadt, Indiana Business Directory"
+title: "Darmstadt, IN Business Directory"
+type: "towns"
 slug: "darmstadt-in"
-town: "Darmstadt"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vanderburgh"
-population: 4783
+state: "in"
+town_data: "darmstadt-in"
 ---

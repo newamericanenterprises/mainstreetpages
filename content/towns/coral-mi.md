@@ -1,9 +1,7 @@
 ---
-title: "Coral, Michigan Business Directory"
+title: "Coral, MI Business Directory"
+type: "towns"
 slug: "coral-mi"
-town: "Coral"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 4156
+state: "mi"
+town_data: "coral-mi"
 ---

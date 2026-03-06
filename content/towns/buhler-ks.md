@@ -1,9 +1,7 @@
 ---
-title: "Buhler, Kansas Business Directory"
+title: "Buhler, KS Business Directory"
+type: "towns"
 slug: "buhler-ks"
-town: "Buhler"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 2960
+state: "ks"
+town_data: "buhler-ks"
 ---

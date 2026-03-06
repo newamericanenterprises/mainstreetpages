@@ -1,9 +1,7 @@
 ---
-title: "Meriden, Iowa Business Directory"
+title: "Meriden, IA Business Directory"
+type: "towns"
 slug: "meriden-ia"
-town: "Meriden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 614
+state: "ia"
+town_data: "meriden-ia"
 ---

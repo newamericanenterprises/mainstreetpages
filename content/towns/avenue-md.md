@@ -1,9 +1,7 @@
 ---
-title: "Avenue, Maryland Business Directory"
+title: "Avenue, MD Business Directory"
+type: "towns"
 slug: "avenue-md"
-town: "Avenue"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 4436
+state: "md"
+town_data: "avenue-md"
 ---

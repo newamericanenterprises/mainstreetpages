@@ -1,9 +1,7 @@
 ---
-title: "Humboldt, Kansas Business Directory"
+title: "Humboldt, KS Business Directory"
+type: "towns"
 slug: "humboldt-ks"
-town: "Humboldt"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 728
+state: "ks"
+town_data: "humboldt-ks"
 ---

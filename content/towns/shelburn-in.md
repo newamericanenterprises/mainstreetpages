@@ -1,9 +1,7 @@
 ---
-title: "Shelburn, Indiana Business Directory"
+title: "Shelburn, IN Business Directory"
+type: "towns"
 slug: "shelburn-in"
-town: "Shelburn"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 3283
+state: "in"
+town_data: "shelburn-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Oshkosh, Nebraska Business Directory"
+title: "Oshkosh, NE Business Directory"
+type: "towns"
 slug: "oshkosh-ne"
-state: "NE"
-county: "Garden"
-population: 884
+state: "ne"
+town_data: "oshkosh-ne"
 ---

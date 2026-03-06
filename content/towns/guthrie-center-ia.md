@@ -1,9 +1,7 @@
 ---
-title: "Guthrie Center, Iowa Business Directory"
+title: "Guthrie Center, IA Business Directory"
+type: "towns"
 slug: "guthrie-center-ia"
-town: "Guthrie Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 1569
+state: "ia"
+town_data: "guthrie-center-ia"
 ---

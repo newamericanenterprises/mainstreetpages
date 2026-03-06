@@ -1,9 +1,7 @@
 ---
-title: "Comstock, Michigan Business Directory"
+title: "Comstock, MI Business Directory"
+type: "towns"
 slug: "comstock-mi"
-town: "Comstock"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 4061
+state: "mi"
+town_data: "comstock-mi"
 ---

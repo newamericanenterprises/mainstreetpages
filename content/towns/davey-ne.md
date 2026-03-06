@@ -1,7 +1,7 @@
 ---
-title: "Davey, Nebraska Business Directory"
+title: "Davey, NE Business Directory"
+type: "towns"
 slug: "davey-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "davey-ne"
 ---

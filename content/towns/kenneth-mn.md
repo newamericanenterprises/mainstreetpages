@@ -1,9 +1,7 @@
 ---
-title: "Kenneth, Minnesota Business Directory"
+title: "Kenneth, MN Business Directory"
+type: "towns"
 slug: "kenneth-mn"
-town: "Kenneth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 315
+state: "mn"
+town_data: "kenneth-mn"
 ---

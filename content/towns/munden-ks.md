@@ -1,9 +1,7 @@
 ---
-title: "Munden, Kansas Business Directory"
+title: "Munden, KS Business Directory"
+type: "towns"
 slug: "munden-ks"
-town: "Munden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 1693
+state: "ks"
+town_data: "munden-ks"
 ---

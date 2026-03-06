@@ -1,9 +1,7 @@
 ---
-title: "Nantucket, Massachusetts Business Directory"
+title: "Nantucket, MA Business Directory"
+type: "towns"
 slug: "nantucket-ma"
-town: "Nantucket"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Nantucket"
-population: 14255
+state: "ma"
+town_data: "nantucket-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Harmony, Indiana Business Directory"
+title: "Harmony, IN Business Directory"
+type: "towns"
 slug: "harmony-in"
-town: "Harmony"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 963
+state: "in"
+town_data: "harmony-in"
 ---

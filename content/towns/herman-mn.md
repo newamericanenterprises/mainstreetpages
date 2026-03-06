@@ -1,9 +1,7 @@
 ---
-title: "Herman, Minnesota Business Directory"
+title: "Herman, MN Business Directory"
+type: "towns"
 slug: "herman-mn"
-town: "Herman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 947
+state: "mn"
+town_data: "herman-mn"
 ---

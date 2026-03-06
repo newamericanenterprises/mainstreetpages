@@ -1,9 +1,7 @@
 ---
-title: "Grimes, Iowa Business Directory"
+title: "Grimes, IA Business Directory"
+type: "towns"
 slug: "grimes-ia"
-town: "Grimes"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 14246
+state: "ia"
+town_data: "grimes-ia"
 ---

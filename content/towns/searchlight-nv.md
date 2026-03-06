@@ -1,7 +1,7 @@
 ---
-title: "Searchlight, Nevada Business Directory"
+title: "Searchlight, NV Business Directory"
+type: "towns"
 slug: "searchlight-nv"
-state: "NV"
-county: "Clark"
-population: 539
+state: "nv"
+town_data: "searchlight-nv"
 ---

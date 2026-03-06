@@ -1,9 +1,7 @@
 ---
-title: "Ingalls, Kansas Business Directory"
+title: "Ingalls, KS Business Directory"
+type: "towns"
 slug: "ingalls-ks"
-town: "Ingalls"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gray"
-population: 2238
+state: "ks"
+town_data: "ingalls-ks"
 ---

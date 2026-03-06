@@ -1,9 +1,7 @@
 ---
-title: "New Middletown, Indiana Business Directory"
+title: "New Middletown, IN Business Directory"
+type: "towns"
 slug: "new-middletown-in"
-town: "New Middletown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 4824
+state: "in"
+town_data: "new-middletown-in"
 ---

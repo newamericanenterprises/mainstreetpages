@@ -1,9 +1,7 @@
 ---
-title: "Meade, Kansas Business Directory"
+title: "Meade, KS Business Directory"
+type: "towns"
 slug: "meade-ks"
-town: "Meade"
-state: "Kansas"
-state_abbr: "KS"
-county: "Meade"
-population: 1502
+state: "ks"
+town_data: "meade-ks"
 ---

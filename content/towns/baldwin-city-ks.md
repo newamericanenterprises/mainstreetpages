@@ -1,9 +1,7 @@
 ---
-title: "Baldwin City, Kansas Business Directory"
+title: "Baldwin City, KS Business Directory"
+type: "towns"
 slug: "baldwin-city-ks"
-town: "Baldwin City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Douglas"
-population: 4684
+state: "ks"
+town_data: "baldwin-city-ks"
 ---

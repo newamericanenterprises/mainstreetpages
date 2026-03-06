@@ -1,9 +1,7 @@
 ---
-title: "Limerick, Maine Business Directory"
+title: "Limerick, ME Business Directory"
+type: "towns"
 slug: "limerick-me"
-town: "Limerick"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2111
+state: "me"
+town_data: "limerick-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Cut Bank, Montana Business Directory"
+title: "Cut Bank, MT Business Directory"
+type: "towns"
 slug: "cut-bank-mt"
-state: "MT"
-county: "Glacier"
-population: 2869
+state: "mt"
+town_data: "cut-bank-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Walled Lake, Michigan Business Directory"
+title: "Walled Lake, MI Business Directory"
+type: "towns"
 slug: "walled-lake-mi"
-town: "Walled Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3861
+state: "mi"
+town_data: "walled-lake-mi"
 ---

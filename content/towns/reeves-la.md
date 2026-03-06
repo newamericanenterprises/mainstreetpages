@@ -1,9 +1,7 @@
 ---
-title: "Reeves, Louisiana Business Directory"
+title: "Reeves, LA Business Directory"
+type: "towns"
 slug: "reeves-la"
-town: "Reeves"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Allen"
-population: 1991
+state: "la"
+town_data: "reeves-la"
 ---

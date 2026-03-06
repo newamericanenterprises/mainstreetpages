@@ -1,7 +1,7 @@
 ---
-title: "Wright City, Missouri Business Directory"
+title: "Wright City, MO Business Directory"
+type: "towns"
 slug: "wright-city-mo"
-state: "MO"
-county: "Warren"
-population: 1500
+state: "mo"
+town_data: "wright-city-mo"
 ---

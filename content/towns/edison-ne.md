@@ -1,7 +1,7 @@
 ---
-title: "Edison, Nebraska Business Directory"
+title: "Edison, NE Business Directory"
+type: "towns"
 slug: "edison-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "edison-ne"
 ---

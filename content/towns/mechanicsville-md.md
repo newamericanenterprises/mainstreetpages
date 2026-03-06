@@ -1,9 +1,7 @@
 ---
-title: "Mechanicsville, Maryland Business Directory"
+title: "Mechanicsville, MD Business Directory"
+type: "towns"
 slug: "mechanicsville-md"
-town: "Mechanicsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 4242
+state: "md"
+town_data: "mechanicsville-md"
 ---

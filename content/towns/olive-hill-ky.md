@@ -1,9 +1,7 @@
 ---
-title: "Olive Hill, Kentucky Business Directory"
+title: "Olive Hill, KY Business Directory"
+type: "towns"
 slug: "olive-hill-ky"
-town: "Olive Hill"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carter"
-population: 2026
+state: "ky"
+town_data: "olive-hill-ky"
 ---

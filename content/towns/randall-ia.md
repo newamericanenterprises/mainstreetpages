@@ -1,9 +1,7 @@
 ---
-title: "Randall, Iowa Business Directory"
+title: "Randall, IA Business Directory"
+type: "towns"
 slug: "randall-ia"
-town: "Randall"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 2470
+state: "ia"
+town_data: "randall-ia"
 ---

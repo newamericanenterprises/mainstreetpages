@@ -1,9 +1,7 @@
 ---
-title: "Walkersville, Maryland Business Directory"
+title: "Walkersville, MD Business Directory"
+type: "towns"
 slug: "walkersville-md"
-town: "Walkersville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 4448
+state: "md"
+town_data: "walkersville-md"
 ---

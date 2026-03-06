@@ -1,9 +1,7 @@
 ---
-title: "Swanton, Maryland Business Directory"
+title: "Swanton, MD Business Directory"
+type: "towns"
 slug: "swanton-md"
-town: "Swanton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 4536
+state: "md"
+town_data: "swanton-md"
 ---

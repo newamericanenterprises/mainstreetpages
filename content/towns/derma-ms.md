@@ -1,7 +1,7 @@
 ---
-title: "Derma, Mississippi Business Directory"
+title: "Derma, MS Business Directory"
+type: "towns"
 slug: "derma-ms"
-state: "MS"
-county: "Calhoun"
-population: 680
+state: "ms"
+town_data: "derma-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ackley, Iowa Business Directory"
+title: "Ackley, IA Business Directory"
+type: "towns"
 slug: "ackley-ia"
-town: "Ackley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 2355
+state: "ia"
+town_data: "ackley-ia"
 ---

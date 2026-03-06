@@ -1,9 +1,7 @@
 ---
-title: "Zenda, Kansas Business Directory"
+title: "Zenda, KS Business Directory"
+type: "towns"
 slug: "zenda-ks"
-town: "Zenda"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 2818
+state: "ks"
+town_data: "zenda-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sherborn, Massachusetts Business Directory"
+title: "Sherborn, MA Business Directory"
+type: "towns"
 slug: "sherborn-ma"
-town: "Sherborn"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 4912
+state: "ma"
+town_data: "sherborn-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hartsville, Indiana Business Directory"
+title: "Hartsville, IN Business Directory"
+type: "towns"
 slug: "hartsville-in"
-town: "Hartsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Bartholomew"
-population: 4380
+state: "in"
+town_data: "hartsville-in"
 ---

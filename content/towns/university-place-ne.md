@@ -1,7 +1,7 @@
 ---
-title: "University Place, Nebraska Business Directory"
+title: "University Place, NE Business Directory"
+type: "towns"
 slug: "university-place-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "university-place-ne"
 ---

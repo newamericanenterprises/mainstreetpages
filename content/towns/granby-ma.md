@@ -1,9 +1,7 @@
 ---
-title: "Granby, Massachusetts Business Directory"
+title: "Granby, MA Business Directory"
+type: "towns"
 slug: "granby-ma"
-town: "Granby"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 8277
+state: "ma"
+town_data: "granby-ma"
 ---

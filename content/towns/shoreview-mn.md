@@ -1,9 +1,7 @@
 ---
-title: "Shoreview, Minnesota Business Directory"
+title: "Shoreview, MN Business Directory"
+type: "towns"
 slug: "shoreview-mn"
-town: "Shoreview"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 27156
+state: "mn"
+town_data: "shoreview-mn"
 ---

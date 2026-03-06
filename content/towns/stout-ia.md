@@ -1,9 +1,7 @@
 ---
-title: "Stout, Iowa Business Directory"
+title: "Stout, IA Business Directory"
+type: "towns"
 slug: "stout-ia"
-town: "Stout"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 1211
+state: "ia"
+town_data: "stout-ia"
 ---

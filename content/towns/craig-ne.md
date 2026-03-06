@@ -1,7 +1,7 @@
 ---
-title: "Craig, Nebraska Business Directory"
+title: "Craig, NE Business Directory"
+type: "towns"
 slug: "craig-ne"
-state: "NE"
-county: "Burt"
-population: 500
+state: "ne"
+town_data: "craig-ne"
 ---

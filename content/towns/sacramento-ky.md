@@ -1,9 +1,7 @@
 ---
-title: "Sacramento, Kentucky Business Directory"
+title: "Sacramento, KY Business Directory"
+type: "towns"
 slug: "sacramento-ky"
-town: "Sacramento"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McLean"
-population: 1865
+state: "ky"
+town_data: "sacramento-ky"
 ---

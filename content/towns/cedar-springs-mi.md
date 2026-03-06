@@ -1,9 +1,7 @@
 ---
-title: "Cedar Springs, Michigan Business Directory"
+title: "Cedar Springs, MI Business Directory"
+type: "towns"
 slug: "cedar-springs-mi"
-town: "Cedar Springs"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 4169
+state: "mi"
+town_data: "cedar-springs-mi"
 ---

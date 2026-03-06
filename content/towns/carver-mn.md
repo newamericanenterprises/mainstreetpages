@@ -1,9 +1,7 @@
 ---
-title: "Carver, Minnesota Business Directory"
+title: "Carver, MN Business Directory"
+type: "towns"
 slug: "carver-mn"
-town: "Carver"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 2483
+state: "mn"
+town_data: "carver-mn"
 ---

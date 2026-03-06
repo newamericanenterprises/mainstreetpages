@@ -1,7 +1,7 @@
 ---
-title: "Wolf Point, Montana Business Directory"
+title: "Wolf Point, MT Business Directory"
+type: "towns"
 slug: "wolf-point-mt"
-state: "MT"
-county: "Roosevelt"
-population: 2621
+state: "mt"
+town_data: "wolf-point-mt"
 ---

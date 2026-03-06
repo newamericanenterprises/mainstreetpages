@@ -1,7 +1,7 @@
 ---
-title: "Bunker, Missouri Business Directory"
+title: "Bunker, MO Business Directory"
+type: "towns"
 slug: "bunker-mo"
-state: "MO"
-county: "Reynolds"
-population: 1500
+state: "mo"
+town_data: "bunker-mo"
 ---

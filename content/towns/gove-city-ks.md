@@ -1,9 +1,7 @@
 ---
-title: "Gove City, Kansas Business Directory"
+title: "Gove City, KS Business Directory"
+type: "towns"
 slug: "gove-city-ks"
-town: "Gove City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gove"
-population: 2021
+state: "ks"
+town_data: "gove-city-ks"
 ---

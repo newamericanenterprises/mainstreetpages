@@ -1,7 +1,7 @@
 ---
-title: "Shuqualak, Mississippi Business Directory"
+title: "Shuqualak, MS Business Directory"
+type: "towns"
 slug: "shuqualak-ms"
-state: "MS"
-county: "Noxubee"
-population: 479
+state: "ms"
+town_data: "shuqualak-ms"
 ---

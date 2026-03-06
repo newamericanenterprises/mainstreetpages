@@ -1,9 +1,7 @@
 ---
-title: "Republic, Michigan Business Directory"
+title: "Republic, MI Business Directory"
+type: "towns"
 slug: "republic-mi"
-town: "Republic"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 3802
+state: "mi"
+town_data: "republic-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Colon, Michigan Business Directory"
+title: "Colon, MI Business Directory"
+type: "towns"
 slug: "colon-mi"
-town: "Colon"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 5150
+state: "mi"
+town_data: "colon-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Omer, Michigan Business Directory"
+title: "Omer, MI Business Directory"
+type: "towns"
 slug: "omer-mi"
-town: "Omer"
-state: "Michigan"
-state_abbr: "MI"
-county: "Arenac"
-population: 4816
+state: "mi"
+town_data: "omer-mi"
 ---

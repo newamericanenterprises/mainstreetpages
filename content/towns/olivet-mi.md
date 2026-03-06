@@ -1,9 +1,7 @@
 ---
-title: "Olivet, Michigan Business Directory"
+title: "Olivet, MI Business Directory"
+type: "towns"
 slug: "olivet-mi"
-town: "Olivet"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 2489
+state: "mi"
+town_data: "olivet-mi"
 ---

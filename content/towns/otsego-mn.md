@@ -1,9 +1,7 @@
 ---
-title: "Otsego, Minnesota Business Directory"
+title: "Otsego, MN Business Directory"
+type: "towns"
 slug: "otsego-mn"
-town: "Otsego"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 329
+state: "mn"
+town_data: "otsego-mn"
 ---

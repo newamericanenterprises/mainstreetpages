@@ -1,9 +1,7 @@
 ---
-title: "Owasa, Iowa Business Directory"
+title: "Owasa, IA Business Directory"
+type: "towns"
 slug: "owasa-ia"
-town: "Owasa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 3174
+state: "ia"
+town_data: "owasa-ia"
 ---

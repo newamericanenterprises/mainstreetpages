@@ -1,9 +1,7 @@
 ---
-title: "Long Beach, Minnesota Business Directory"
+title: "Long Beach, MN Business Directory"
+type: "towns"
 slug: "long-beach-mn"
-town: "Long Beach"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 2642
+state: "mn"
+town_data: "long-beach-mn"
 ---

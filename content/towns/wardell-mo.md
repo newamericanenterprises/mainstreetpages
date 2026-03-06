@@ -1,7 +1,7 @@
 ---
-title: "Wardell, Missouri Business Directory"
+title: "Wardell, MO Business Directory"
+type: "towns"
 slug: "wardell-mo"
-state: "MO"
-county: "Pemiscot"
-population: 1500
+state: "mo"
+town_data: "wardell-mo"
 ---

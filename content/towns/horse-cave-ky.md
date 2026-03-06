@@ -1,9 +1,7 @@
 ---
-title: "Horse Cave, Kentucky Business Directory"
+title: "Horse Cave, KY Business Directory"
+type: "towns"
 slug: "horse-cave-ky"
-town: "Horse Cave"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hart"
-population: 2939
+state: "ky"
+town_data: "horse-cave-ky"
 ---

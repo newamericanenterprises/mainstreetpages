@@ -1,7 +1,7 @@
 ---
-title: "Weston, Nebraska Business Directory"
+title: "Weston, NE Business Directory"
+type: "towns"
 slug: "weston-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "weston-ne"
 ---

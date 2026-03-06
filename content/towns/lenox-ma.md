@@ -1,9 +1,7 @@
 ---
-title: "Lenox, Massachusetts Business Directory"
+title: "Lenox, MA Business Directory"
+type: "towns"
 slug: "lenox-ma"
-town: "Lenox"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 5023
+state: "ma"
+town_data: "lenox-ma"
 ---

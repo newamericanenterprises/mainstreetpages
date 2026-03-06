@@ -1,9 +1,7 @@
 ---
-title: "D'Arbonne, Louisiana Business Directory"
+title: "D'Arbonne, LA Business Directory"
+type: "towns"
 slug: "darbonne-la"
-town: "D'Arbonne"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 1579
+state: "la"
+town_data: "darbonne-la"
 ---

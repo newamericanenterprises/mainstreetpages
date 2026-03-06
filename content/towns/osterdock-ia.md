@@ -1,9 +1,7 @@
 ---
-title: "Osterdock, Iowa Business Directory"
+title: "Osterdock, IA Business Directory"
+type: "towns"
 slug: "osterdock-ia"
-town: "Osterdock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 1893
+state: "ia"
+town_data: "osterdock-ia"
 ---

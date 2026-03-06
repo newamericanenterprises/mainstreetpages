@@ -1,9 +1,7 @@
 ---
-title: "Linwood, Minnesota Business Directory"
+title: "Linwood, MN Business Directory"
+type: "towns"
 slug: "linwood-mn"
-town: "Linwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2654
+state: "mn"
+town_data: "linwood-mn"
 ---

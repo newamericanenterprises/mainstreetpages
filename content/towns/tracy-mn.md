@@ -1,9 +1,7 @@
 ---
-title: "Tracy, Minnesota Business Directory"
+title: "Tracy, MN Business Directory"
+type: "towns"
 slug: "tracy-mn"
-town: "Tracy"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 2963
+state: "mn"
+town_data: "tracy-mn"
 ---

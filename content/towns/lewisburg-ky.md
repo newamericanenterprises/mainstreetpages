@@ -1,9 +1,7 @@
 ---
-title: "Lewisburg, Kentucky Business Directory"
+title: "Lewisburg, KY Business Directory"
+type: "towns"
 slug: "lewisburg-ky"
-town: "Lewisburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Logan"
-population: 2197
+state: "ky"
+town_data: "lewisburg-ky"
 ---

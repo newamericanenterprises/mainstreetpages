@@ -1,7 +1,7 @@
 ---
-title: "Beaver City, Nebraska Business Directory"
+title: "Beaver City, NE Business Directory"
+type: "towns"
 slug: "beaver-city-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "beaver-city-ne"
 ---

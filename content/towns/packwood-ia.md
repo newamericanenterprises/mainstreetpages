@@ -1,9 +1,7 @@
 ---
-title: "Packwood, Iowa Business Directory"
+title: "Packwood, IA Business Directory"
+type: "towns"
 slug: "packwood-ia"
-town: "Packwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jefferson"
-population: 2372
+state: "ia"
+town_data: "packwood-ia"
 ---

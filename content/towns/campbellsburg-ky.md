@@ -1,9 +1,7 @@
 ---
-title: "Campbellsburg, Kentucky Business Directory"
+title: "Campbellsburg, KY Business Directory"
+type: "towns"
 slug: "campbellsburg-ky"
-town: "Campbellsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henry"
-population: 2276
+state: "ky"
+town_data: "campbellsburg-ky"
 ---

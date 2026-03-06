@@ -1,9 +1,7 @@
 ---
-title: "Belcher, Louisiana Business Directory"
+title: "Belcher, LA Business Directory"
+type: "towns"
 slug: "belcher-la"
-town: "Belcher"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 3228
+state: "la"
+town_data: "belcher-la"
 ---

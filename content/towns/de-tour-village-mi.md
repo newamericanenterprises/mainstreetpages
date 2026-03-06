@@ -1,9 +1,7 @@
 ---
-title: "De Tour Village, Michigan Business Directory"
+title: "De Tour Village, MI Business Directory"
+type: "towns"
 slug: "de-tour-village-mi"
-town: "De Tour Village"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 5124
+state: "mi"
+town_data: "de-tour-village-mi"
 ---

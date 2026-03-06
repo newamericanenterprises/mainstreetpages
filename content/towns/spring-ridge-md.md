@@ -1,9 +1,7 @@
 ---
-title: "Spring Ridge, Maryland Business Directory"
+title: "Spring Ridge, MD Business Directory"
+type: "towns"
 slug: "spring-ridge-md"
-town: "Spring Ridge"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 2055
+state: "md"
+town_data: "spring-ridge-md"
 ---

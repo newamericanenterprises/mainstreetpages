@@ -1,7 +1,7 @@
 ---
-title: "Brandon, Mississippi Business Directory"
+title: "Brandon, MS Business Directory"
+type: "towns"
 slug: "brandon-ms"
-state: "MS"
-county: "Rankin"
-population: 28897
+state: "ms"
+town_data: "brandon-ms"
 ---

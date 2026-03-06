@@ -1,9 +1,7 @@
 ---
-title: "Oak Park Heights, Minnesota Business Directory"
+title: "Oak Park Heights, MN Business Directory"
+type: "towns"
 slug: "oak-park-heights-mn"
-town: "Oak Park Heights"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1529
+state: "mn"
+town_data: "oak-park-heights-mn"
 ---

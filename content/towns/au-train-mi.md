@@ -1,9 +1,7 @@
 ---
-title: "Au Train, Michigan Business Directory"
+title: "Au Train, MI Business Directory"
+type: "towns"
 slug: "au-train-mi"
-town: "Au Train"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 4612
+state: "mi"
+town_data: "au-train-mi"
 ---

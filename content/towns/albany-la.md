@@ -1,9 +1,7 @@
 ---
-title: "Albany, Louisiana Business Directory"
+title: "Albany, LA Business Directory"
+type: "towns"
 slug: "albany-la"
-town: "Albany"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 1873
+state: "la"
+town_data: "albany-la"
 ---

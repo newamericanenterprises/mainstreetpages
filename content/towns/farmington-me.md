@@ -1,9 +1,7 @@
 ---
-title: "Farmington, Maine Business Directory"
+title: "Farmington, ME Business Directory"
+type: "towns"
 slug: "farmington-me"
-town: "Farmington"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 7760
+state: "me"
+town_data: "farmington-me"
 ---

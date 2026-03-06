@@ -1,9 +1,7 @@
 ---
-title: "Darwin, Minnesota Business Directory"
+title: "Darwin, MN Business Directory"
+type: "towns"
 slug: "darwin-mn"
-town: "Darwin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 3089
+state: "mn"
+town_data: "darwin-mn"
 ---

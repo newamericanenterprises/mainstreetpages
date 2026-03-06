@@ -1,9 +1,7 @@
 ---
-title: "Ransom, Kansas Business Directory"
+title: "Ransom, KS Business Directory"
+type: "towns"
 slug: "ransom-ks"
-town: "Ransom"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ness"
-population: 2822
+state: "ks"
+town_data: "ransom-ks"
 ---

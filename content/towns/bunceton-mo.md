@@ -1,7 +1,7 @@
 ---
-title: "Bunceton, Missouri Business Directory"
+title: "Bunceton, MO Business Directory"
+type: "towns"
 slug: "bunceton-mo"
-state: "MO"
-county: "Cooper"
-population: 1500
+state: "mo"
+town_data: "bunceton-mo"
 ---

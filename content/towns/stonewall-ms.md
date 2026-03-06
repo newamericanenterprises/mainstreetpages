@@ -1,7 +1,7 @@
 ---
-title: "Stonewall, Mississippi Business Directory"
+title: "Stonewall, MS Business Directory"
+type: "towns"
 slug: "stonewall-ms"
-state: "MS"
-county: "Clarke"
-population: 1185
+state: "ms"
+town_data: "stonewall-ms"
 ---

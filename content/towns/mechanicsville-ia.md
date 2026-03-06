@@ -1,9 +1,7 @@
 ---
-title: "Mechanicsville, Iowa Business Directory"
+title: "Mechanicsville, IA Business Directory"
+type: "towns"
 slug: "mechanicsville-ia"
-town: "Mechanicsville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 2137
+state: "ia"
+town_data: "mechanicsville-ia"
 ---

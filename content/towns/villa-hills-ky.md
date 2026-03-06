@@ -1,9 +1,7 @@
 ---
-title: "Villa Hills, Kentucky Business Directory"
+title: "Villa Hills, KY Business Directory"
+type: "towns"
 slug: "villa-hills-ky"
-town: "Villa Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2171
+state: "ky"
+town_data: "villa-hills-ky"
 ---

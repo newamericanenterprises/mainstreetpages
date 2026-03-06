@@ -1,9 +1,7 @@
 ---
-title: "Dighton, Kansas Business Directory"
+title: "Dighton, KS Business Directory"
+type: "towns"
 slug: "dighton-ks"
-town: "Dighton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lane"
-population: 1038
+state: "ks"
+town_data: "dighton-ks"
 ---

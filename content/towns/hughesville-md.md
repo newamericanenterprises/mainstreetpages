@@ -1,9 +1,7 @@
 ---
-title: "Hughesville, Maryland Business Directory"
+title: "Hughesville, MD Business Directory"
+type: "towns"
 slug: "hughesville-md"
-town: "Hughesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 3767
+state: "md"
+town_data: "hughesville-md"
 ---

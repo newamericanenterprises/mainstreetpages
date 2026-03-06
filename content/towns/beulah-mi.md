@@ -1,9 +1,7 @@
 ---
-title: "Beulah, Michigan Business Directory"
+title: "Beulah, MI Business Directory"
+type: "towns"
 slug: "beulah-mi"
-town: "Beulah"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 5162
+state: "mi"
+town_data: "beulah-mi"
 ---

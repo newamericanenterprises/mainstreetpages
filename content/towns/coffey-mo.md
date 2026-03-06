@@ -1,7 +1,7 @@
 ---
-title: "Coffey, Missouri Business Directory"
+title: "Coffey, MO Business Directory"
+type: "towns"
 slug: "coffey-mo"
-state: "MO"
-county: "Daviess"
-population: 1500
+state: "mo"
+town_data: "coffey-mo"
 ---

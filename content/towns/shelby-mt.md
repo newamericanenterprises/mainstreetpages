@@ -1,7 +1,7 @@
 ---
-title: "Shelby, Montana Business Directory"
+title: "Shelby, MT Business Directory"
+type: "towns"
 slug: "shelby-mt"
-state: "MT"
-county: "Toole"
-population: 3216
+state: "mt"
+town_data: "shelby-mt"
 ---

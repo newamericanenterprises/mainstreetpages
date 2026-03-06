@@ -1,9 +1,7 @@
 ---
-title: "Landfall, Minnesota Business Directory"
+title: "Landfall, MN Business Directory"
+type: "towns"
 slug: "landfall-mn"
-town: "Landfall"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1179
+state: "mn"
+town_data: "landfall-mn"
 ---

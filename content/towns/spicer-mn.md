@@ -1,9 +1,7 @@
 ---
-title: "Spicer, Minnesota Business Directory"
+title: "Spicer, MN Business Directory"
+type: "towns"
 slug: "spicer-mn"
-town: "Spicer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 2772
+state: "mn"
+town_data: "spicer-mn"
 ---

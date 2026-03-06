@@ -1,9 +1,7 @@
 ---
-title: "Gloucester, Massachusetts Business Directory"
+title: "Gloucester, MA Business Directory"
+type: "towns"
 slug: "gloucester-ma"
-town: "Gloucester"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 30273
+state: "ma"
+town_data: "gloucester-ma"
 ---

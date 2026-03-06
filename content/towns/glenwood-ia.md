@@ -1,9 +1,7 @@
 ---
-title: "Glenwood, Iowa Business Directory"
+title: "Glenwood, IA Business Directory"
+type: "towns"
 slug: "glenwood-ia"
-town: "Glenwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 585
+state: "ia"
+town_data: "glenwood-ia"
 ---

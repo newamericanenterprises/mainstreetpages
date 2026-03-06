@@ -1,7 +1,7 @@
 ---
-title: "Gretna, Nebraska Business Directory"
+title: "Gretna, NE Business Directory"
+type: "towns"
 slug: "gretna-ne"
-state: "NE"
-county: "Sarpy"
-population: 5039
+state: "ne"
+town_data: "gretna-ne"
 ---

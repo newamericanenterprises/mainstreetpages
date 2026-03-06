@@ -1,7 +1,7 @@
 ---
-title: "Kennard, Nebraska Business Directory"
+title: "Kennard, NE Business Directory"
+type: "towns"
 slug: "kennard-ne"
-state: "NE"
-county: "Washington"
-population: 500
+state: "ne"
+town_data: "kennard-ne"
 ---

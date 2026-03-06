@@ -1,7 +1,7 @@
 ---
-title: "Brule, Nebraska Business Directory"
+title: "Brule, NE Business Directory"
+type: "towns"
 slug: "brule-ne"
-state: "NE"
-county: "Keith"
-population: 500
+state: "ne"
+town_data: "brule-ne"
 ---

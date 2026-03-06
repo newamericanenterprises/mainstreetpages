@@ -1,9 +1,7 @@
 ---
-title: "Chester, Massachusetts Business Directory"
+title: "Chester, MA Business Directory"
+type: "towns"
 slug: "chester-ma"
-town: "Chester"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 4213
+state: "ma"
+town_data: "chester-ma"
 ---

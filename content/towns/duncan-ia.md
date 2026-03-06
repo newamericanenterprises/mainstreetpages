@@ -1,9 +1,7 @@
 ---
-title: "Duncan, Iowa Business Directory"
+title: "Duncan, IA Business Directory"
+type: "towns"
 slug: "duncan-ia"
-town: "Duncan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 907
+state: "ia"
+town_data: "duncan-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Klemme, Iowa Business Directory"
+title: "Klemme, IA Business Directory"
+type: "towns"
 slug: "klemme-ia"
-town: "Klemme"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 1188
+state: "ia"
+town_data: "klemme-ia"
 ---

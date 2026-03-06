@@ -1,9 +1,7 @@
 ---
-title: "Saugatuck, Michigan Business Directory"
+title: "Saugatuck, MI Business Directory"
+type: "towns"
 slug: "saugatuck-mi"
-town: "Saugatuck"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 2027
+state: "mi"
+town_data: "saugatuck-mi"
 ---

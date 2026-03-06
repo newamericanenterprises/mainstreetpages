@@ -1,9 +1,7 @@
 ---
-title: "Mayetta, Kansas Business Directory"
+title: "Mayetta, KS Business Directory"
+type: "towns"
 slug: "mayetta-ks"
-town: "Mayetta"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 2796
+state: "ks"
+town_data: "mayetta-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sebago, Maine Business Directory"
+title: "Sebago, ME Business Directory"
+type: "towns"
 slug: "sebago-me"
-town: "Sebago"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2322
+state: "me"
+town_data: "sebago-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Barbourmeade, Kentucky Business Directory"
+title: "Barbourmeade, KY Business Directory"
+type: "towns"
 slug: "barbourmeade-ky"
-town: "Barbourmeade"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1891
+state: "ky"
+town_data: "barbourmeade-ky"
 ---

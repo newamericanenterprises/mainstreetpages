@@ -1,9 +1,7 @@
 ---
-title: "Plattenville, Louisiana Business Directory"
+title: "Plattenville, LA Business Directory"
+type: "towns"
 slug: "plattenville-la"
-town: "Plattenville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Assumption"
-population: 2772
+state: "la"
+town_data: "plattenville-la"
 ---

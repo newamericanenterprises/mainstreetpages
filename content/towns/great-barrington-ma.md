@@ -1,9 +1,7 @@
 ---
-title: "Great Barrington, Massachusetts Business Directory"
+title: "Great Barrington, MA Business Directory"
+type: "towns"
 slug: "great-barrington-ma"
-town: "Great Barrington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 6988
+state: "ma"
+town_data: "great-barrington-ma"
 ---

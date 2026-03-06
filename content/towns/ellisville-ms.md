@@ -1,7 +1,7 @@
 ---
-title: "Ellisville, Mississippi Business Directory"
+title: "Ellisville, MS Business Directory"
+type: "towns"
 slug: "ellisville-ms"
-state: "MS"
-county: "Jones"
-population: 4448
+state: "ms"
+town_data: "ellisville-ms"
 ---

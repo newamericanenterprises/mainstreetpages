@@ -1,9 +1,7 @@
 ---
-title: "Oakland, Maine Business Directory"
+title: "Oakland, ME Business Directory"
+type: "towns"
 slug: "oakland-me"
-town: "Oakland"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 6124
+state: "me"
+town_data: "oakland-me"
 ---

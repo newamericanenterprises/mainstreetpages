@@ -1,7 +1,7 @@
 ---
-title: "Meadow Grove, Nebraska Business Directory"
+title: "Meadow Grove, NE Business Directory"
+type: "towns"
 slug: "meadow-grove-ne"
-state: "NE"
-county: "Madison"
-population: 301
+state: "ne"
+town_data: "meadow-grove-ne"
 ---

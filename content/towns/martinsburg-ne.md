@@ -1,7 +1,7 @@
 ---
-title: "Martinsburg, Nebraska Business Directory"
+title: "Martinsburg, NE Business Directory"
+type: "towns"
 slug: "martinsburg-ne"
-state: "NE"
-county: "Dixon"
-population: 78
+state: "ne"
+town_data: "martinsburg-ne"
 ---

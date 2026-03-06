@@ -1,7 +1,7 @@
 ---
-title: "Chadron, Nebraska Business Directory"
+title: "Chadron, NE Business Directory"
+type: "towns"
 slug: "chadron-ne"
-state: "NE"
-county: "Dawes"
-population: 5851
+state: "ne"
+town_data: "chadron-ne"
 ---

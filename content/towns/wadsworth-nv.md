@@ -1,7 +1,7 @@
 ---
-title: "Wadsworth, Nevada Business Directory"
+title: "Wadsworth, NV Business Directory"
+type: "towns"
 slug: "wadsworth-nv"
-state: "NV"
-county: "Washoe"
-population: 790
+state: "nv"
+town_data: "wadsworth-nv"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Henry, Nebraska Business Directory"
+title: "Henry, NE Business Directory"
+type: "towns"
 slug: "henry-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "henry-ne"
 ---

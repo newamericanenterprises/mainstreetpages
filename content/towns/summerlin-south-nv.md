@@ -1,7 +1,7 @@
 ---
-title: "Summerlin South, Nevada Business Directory"
+title: "Summerlin South, NV Business Directory"
+type: "towns"
 slug: "summerlin-south-nv"
-state: "NV"
-county: "Clark"
-population: 67111
+state: "nv"
+town_data: "summerlin-south-nv"
 ---

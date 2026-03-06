@@ -1,7 +1,7 @@
 ---
-title: "Kelso, Missouri Business Directory"
+title: "Kelso, MO Business Directory"
+type: "towns"
 slug: "kelso-mo"
-state: "MO"
-county: "Scott"
-population: 1500
+state: "mo"
+town_data: "kelso-mo"
 ---

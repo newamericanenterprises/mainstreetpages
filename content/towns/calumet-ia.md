@@ -1,9 +1,7 @@
 ---
-title: "Calumet, Iowa Business Directory"
+title: "Calumet, IA Business Directory"
+type: "towns"
 slug: "calumet-ia"
-town: "Calumet"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 1365
+state: "ia"
+town_data: "calumet-ia"
 ---

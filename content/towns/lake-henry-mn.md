@@ -1,9 +1,7 @@
 ---
-title: "Lake Henry, Minnesota Business Directory"
+title: "Lake Henry, MN Business Directory"
+type: "towns"
 slug: "lake-henry-mn"
-town: "Lake Henry"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 450
+state: "mn"
+town_data: "lake-henry-mn"
 ---

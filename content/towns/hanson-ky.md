@@ -1,9 +1,7 @@
 ---
-title: "Hanson, Kentucky Business Directory"
+title: "Hanson, KY Business Directory"
+type: "towns"
 slug: "hanson-ky"
-town: "Hanson"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 1994
+state: "ky"
+town_data: "hanson-ky"
 ---

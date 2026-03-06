@@ -1,9 +1,7 @@
 ---
-title: "Bay City, Michigan Business Directory"
+title: "Bay City, MI Business Directory"
+type: "towns"
 slug: "bay-city-mi"
-town: "Bay City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 32144
+state: "mi"
+town_data: "bay-city-mi"
 ---

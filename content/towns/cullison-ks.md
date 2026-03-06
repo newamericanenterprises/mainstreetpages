@@ -1,9 +1,7 @@
 ---
-title: "Cullison, Kansas Business Directory"
+title: "Cullison, KS Business Directory"
+type: "towns"
 slug: "cullison-ks"
-town: "Cullison"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 1757
+state: "ks"
+town_data: "cullison-ks"
 ---

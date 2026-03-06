@@ -1,9 +1,7 @@
 ---
-title: "Empire, Minnesota Business Directory"
+title: "Empire, MN Business Directory"
+type: "towns"
 slug: "empire-mn"
-town: "Empire"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 2723
+state: "mn"
+town_data: "empire-mn"
 ---

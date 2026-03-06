@@ -1,9 +1,7 @@
 ---
-title: "Ionia, Michigan Business Directory"
+title: "Ionia, MI Business Directory"
+type: "towns"
 slug: "ionia-mi"
-town: "Ionia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 11332
+state: "mi"
+town_data: "ionia-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Austinville, Iowa Business Directory"
+title: "Austinville, IA Business Directory"
+type: "towns"
 slug: "austinville-ia"
-town: "Austinville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2276
+state: "ia"
+town_data: "austinville-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Greenwood, Minnesota Business Directory"
+title: "Greenwood, MN Business Directory"
+type: "towns"
 slug: "greenwood-mn"
-town: "Greenwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 3176
+state: "mn"
+town_data: "greenwood-mn"
 ---

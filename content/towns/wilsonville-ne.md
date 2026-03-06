@@ -1,7 +1,7 @@
 ---
-title: "Wilsonville, Nebraska Business Directory"
+title: "Wilsonville, NE Business Directory"
+type: "towns"
 slug: "wilsonville-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "wilsonville-ne"
 ---

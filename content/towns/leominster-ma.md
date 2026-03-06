@@ -1,9 +1,7 @@
 ---
-title: "Leominster, Massachusetts Business Directory"
+title: "Leominster, MA Business Directory"
+type: "towns"
 slug: "leominster-ma"
-town: "Leominster"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 43782
+state: "ma"
+town_data: "leominster-ma"
 ---

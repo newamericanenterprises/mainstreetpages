@@ -1,9 +1,7 @@
 ---
-title: "Thorntown, Indiana Business Directory"
+title: "Thorntown, IN Business Directory"
+type: "towns"
 slug: "thorntown-in"
-town: "Thorntown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Boone"
-population: 4558
+state: "in"
+town_data: "thorntown-in"
 ---

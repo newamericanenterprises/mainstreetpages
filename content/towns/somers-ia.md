@@ -1,9 +1,7 @@
 ---
-title: "Somers, Iowa Business Directory"
+title: "Somers, IA Business Directory"
+type: "towns"
 slug: "somers-ia"
-town: "Somers"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 2137
+state: "ia"
+town_data: "somers-ia"
 ---

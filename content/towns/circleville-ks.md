@@ -1,9 +1,7 @@
 ---
-title: "Circleville, Kansas Business Directory"
+title: "Circleville, KS Business Directory"
+type: "towns"
 slug: "circleville-ks"
-town: "Circleville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 1345
+state: "ks"
+town_data: "circleville-ks"
 ---

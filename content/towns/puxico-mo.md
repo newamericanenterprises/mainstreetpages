@@ -1,7 +1,7 @@
 ---
-title: "Puxico, Missouri Business Directory"
+title: "Puxico, MO Business Directory"
+type: "towns"
 slug: "puxico-mo"
-state: "MO"
-county: "Stoddard"
-population: 881
+state: "mo"
+town_data: "puxico-mo"
 ---

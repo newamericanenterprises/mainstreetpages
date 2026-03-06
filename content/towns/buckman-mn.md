@@ -1,9 +1,7 @@
 ---
-title: "Buckman, Minnesota Business Directory"
+title: "Buckman, MN Business Directory"
+type: "towns"
 slug: "buckman-mn"
-town: "Buckman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 3163
+state: "mn"
+town_data: "buckman-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ida, Michigan Business Directory"
+title: "Ida, MI Business Directory"
+type: "towns"
 slug: "ida-mi"
-town: "Ida"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 3530
+state: "mi"
+town_data: "ida-mi"
 ---

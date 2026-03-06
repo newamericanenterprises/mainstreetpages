@@ -1,7 +1,7 @@
 ---
-title: "Coahoma, Mississippi Business Directory"
+title: "Coahoma, MS Business Directory"
+type: "towns"
 slug: "coahoma-ms"
-state: "MS"
-county: "Coahoma"
-population: 272
+state: "ms"
+town_data: "coahoma-ms"
 ---

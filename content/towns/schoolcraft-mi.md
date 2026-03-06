@@ -1,9 +1,7 @@
 ---
-title: "Schoolcraft, Michigan Business Directory"
+title: "Schoolcraft, MI Business Directory"
+type: "towns"
 slug: "schoolcraft-mi"
-town: "Schoolcraft"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 2761
+state: "mi"
+town_data: "schoolcraft-mi"
 ---

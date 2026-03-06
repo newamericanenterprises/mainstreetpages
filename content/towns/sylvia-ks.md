@@ -1,9 +1,7 @@
 ---
-title: "Sylvia, Kansas Business Directory"
+title: "Sylvia, KS Business Directory"
+type: "towns"
 slug: "sylvia-ks"
-town: "Sylvia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 2107
+state: "ks"
+town_data: "sylvia-ks"
 ---

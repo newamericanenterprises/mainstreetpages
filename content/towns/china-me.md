@@ -1,9 +1,7 @@
 ---
-title: "China, Maine Business Directory"
+title: "China, ME Business Directory"
+type: "towns"
 slug: "china-me"
-town: "China"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 4464
+state: "me"
+town_data: "china-me"
 ---

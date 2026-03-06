@@ -1,9 +1,7 @@
 ---
-title: "Deerfield, Michigan Business Directory"
+title: "Deerfield, MI Business Directory"
+type: "towns"
 slug: "deerfield-mi"
-town: "Deerfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 625
+state: "mi"
+town_data: "deerfield-mi"
 ---

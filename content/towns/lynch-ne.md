@@ -1,7 +1,7 @@
 ---
-title: "Lynch, Nebraska Business Directory"
+title: "Lynch, NE Business Directory"
+type: "towns"
 slug: "lynch-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "lynch-ne"
 ---

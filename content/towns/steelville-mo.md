@@ -1,7 +1,7 @@
 ---
-title: "Steelville, Missouri Business Directory"
+title: "Steelville, MO Business Directory"
+type: "towns"
 slug: "steelville-mo"
-state: "MO"
-county: "Crawford"
-population: 1580
+state: "mo"
+town_data: "steelville-mo"
 ---

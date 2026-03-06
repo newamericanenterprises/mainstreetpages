@@ -1,7 +1,7 @@
 ---
-title: "Sula, Montana Business Directory"
+title: "Sula, MT Business Directory"
+type: "towns"
 slug: "sula-mt"
-state: "MT"
-county: "Ravalli"
-population: 500
+state: "mt"
+town_data: "sula-mt"
 ---

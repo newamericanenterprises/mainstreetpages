@@ -1,9 +1,7 @@
 ---
-title: "Engadine, Michigan Business Directory"
+title: "Engadine, MI Business Directory"
+type: "towns"
 slug: "engadine-mi"
-town: "Engadine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 1542
+state: "mi"
+town_data: "engadine-mi"
 ---

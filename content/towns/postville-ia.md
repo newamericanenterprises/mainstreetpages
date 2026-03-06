@@ -1,9 +1,7 @@
 ---
-title: "Postville, Iowa Business Directory"
+title: "Postville, IA Business Directory"
+type: "towns"
 slug: "postville-ia"
-town: "Postville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 2110
+state: "ia"
+town_data: "postville-ia"
 ---

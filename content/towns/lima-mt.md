@@ -1,7 +1,7 @@
 ---
-title: "Lima, Montana Business Directory"
+title: "Lima, MT Business Directory"
+type: "towns"
 slug: "lima-mt"
-state: "MT"
-county: "Beaverhead"
-population: 500
+state: "mt"
+town_data: "lima-mt"
 ---

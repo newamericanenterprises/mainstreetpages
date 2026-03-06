@@ -1,9 +1,7 @@
 ---
-title: "Columbus Junction, Iowa Business Directory"
+title: "Columbus Junction, IA Business Directory"
+type: "towns"
 slug: "columbus-junction-ia"
-town: "Columbus Junction"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 1673
+state: "ia"
+town_data: "columbus-junction-ia"
 ---

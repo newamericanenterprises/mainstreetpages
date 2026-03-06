@@ -1,7 +1,7 @@
 ---
-title: "Reno, Nevada Business Directory"
+title: "Reno, NV Business Directory"
+type: "towns"
 slug: "reno-nv"
-state: "NV"
-county: "Washoe"
-population: 264165
+state: "nv"
+town_data: "reno-nv"
 ---

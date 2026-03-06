@@ -1,9 +1,7 @@
 ---
-title: "Zwolle, Louisiana Business Directory"
+title: "Zwolle, LA Business Directory"
+type: "towns"
 slug: "zwolle-la"
-town: "Zwolle"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 1404
+state: "la"
+town_data: "zwolle-la"
 ---

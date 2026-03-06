@@ -1,9 +1,7 @@
 ---
-title: "Babbitt, Minnesota Business Directory"
+title: "Babbitt, MN Business Directory"
+type: "towns"
 slug: "babbitt-mn"
-town: "Babbitt"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 3214
+state: "mn"
+town_data: "babbitt-mn"
 ---

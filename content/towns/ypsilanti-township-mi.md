@@ -1,9 +1,7 @@
 ---
-title: "Ypsilanti Township, Michigan Business Directory"
+title: "Ypsilanti Township, MI Business Directory"
+type: "towns"
 slug: "ypsilanti-township-mi"
-town: "Ypsilanti Township"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4318
+state: "mi"
+town_data: "ypsilanti-township-mi"
 ---

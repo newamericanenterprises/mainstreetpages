@@ -1,9 +1,7 @@
 ---
-title: "Troy, Maine Business Directory"
+title: "Troy, ME Business Directory"
+type: "towns"
 slug: "troy-me"
-town: "Troy"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1113
+state: "me"
+town_data: "troy-me"
 ---

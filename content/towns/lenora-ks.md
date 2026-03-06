@@ -1,9 +1,7 @@
 ---
-title: "Lenora, Kansas Business Directory"
+title: "Lenora, KS Business Directory"
+type: "towns"
 slug: "lenora-ks"
-town: "Lenora"
-state: "Kansas"
-state_abbr: "KS"
-county: "Norton"
-population: 3074
+state: "ks"
+town_data: "lenora-ks"
 ---

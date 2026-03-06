@@ -1,9 +1,7 @@
 ---
-title: "Curlew, Iowa Business Directory"
+title: "Curlew, IA Business Directory"
+type: "towns"
 slug: "curlew-ia"
-town: "Curlew"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 3114
+state: "ia"
+town_data: "curlew-ia"
 ---

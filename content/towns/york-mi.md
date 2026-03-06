@@ -1,9 +1,7 @@
 ---
-title: "York, Michigan Business Directory"
+title: "York, MI Business Directory"
+type: "towns"
 slug: "york-mi"
-town: "York"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 677
+state: "mi"
+town_data: "york-mi"
 ---

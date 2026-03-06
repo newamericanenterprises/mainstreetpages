@@ -1,9 +1,7 @@
 ---
-title: "Lynd, Minnesota Business Directory"
+title: "Lynd, MN Business Directory"
+type: "towns"
 slug: "lynd-mn"
-town: "Lynd"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 585
+state: "mn"
+town_data: "lynd-mn"
 ---

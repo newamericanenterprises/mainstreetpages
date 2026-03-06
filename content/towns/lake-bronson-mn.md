@@ -1,9 +1,7 @@
 ---
-title: "Lake Bronson, Minnesota Business Directory"
+title: "Lake Bronson, MN Business Directory"
+type: "towns"
 slug: "lake-bronson-mn"
-town: "Lake Bronson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 2589
+state: "mn"
+town_data: "lake-bronson-mn"
 ---

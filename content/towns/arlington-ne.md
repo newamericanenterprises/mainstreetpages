@@ -1,7 +1,7 @@
 ---
-title: "Arlington, Nebraska Business Directory"
+title: "Arlington, NE Business Directory"
+type: "towns"
 slug: "arlington-ne"
-state: "NE"
-county: "Washington"
-population: 1435
+state: "ne"
+town_data: "arlington-ne"
 ---

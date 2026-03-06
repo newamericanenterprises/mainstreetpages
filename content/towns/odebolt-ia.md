@@ -1,9 +1,7 @@
 ---
-title: "Odebolt, Iowa Business Directory"
+title: "Odebolt, IA Business Directory"
+type: "towns"
 slug: "odebolt-ia"
-town: "Odebolt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 723
+state: "ia"
+town_data: "odebolt-ia"
 ---

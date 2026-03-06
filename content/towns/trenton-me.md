@@ -1,9 +1,7 @@
 ---
-title: "Trenton, Maine Business Directory"
+title: "Trenton, ME Business Directory"
+type: "towns"
 slug: "trenton-me"
-town: "Trenton"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2009
+state: "me"
+town_data: "trenton-me"
 ---

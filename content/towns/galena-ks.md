@@ -1,9 +1,7 @@
 ---
-title: "Galena, Kansas Business Directory"
+title: "Galena, KS Business Directory"
+type: "towns"
 slug: "galena-ks"
-town: "Galena"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 1617
+state: "ks"
+town_data: "galena-ks"
 ---

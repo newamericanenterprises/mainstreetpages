@@ -1,9 +1,7 @@
 ---
-title: "Vidalia, Louisiana Business Directory"
+title: "Vidalia, LA Business Directory"
+type: "towns"
 slug: "vidalia-la"
-town: "Vidalia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Concordia"
-population: 3939
+state: "la"
+town_data: "vidalia-la"
 ---

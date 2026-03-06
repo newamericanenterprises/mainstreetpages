@@ -1,9 +1,7 @@
 ---
-title: "Marbury, Maryland Business Directory"
+title: "Marbury, MD Business Directory"
+type: "towns"
 slug: "marbury-md"
-town: "Marbury"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 2695
+state: "md"
+town_data: "marbury-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Niobrara, Nebraska Business Directory"
+title: "Niobrara, NE Business Directory"
+type: "towns"
 slug: "niobrara-ne"
-state: "NE"
-county: "Knox"
-population: 341
+state: "ne"
+town_data: "niobrara-ne"
 ---

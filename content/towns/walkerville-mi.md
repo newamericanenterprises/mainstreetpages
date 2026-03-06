@@ -1,9 +1,7 @@
 ---
-title: "Walkerville, Michigan Business Directory"
+title: "Walkerville, MI Business Directory"
+type: "towns"
 slug: "walkerville-mi"
-town: "Walkerville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 2843
+state: "mi"
+town_data: "walkerville-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Walker, Michigan Business Directory"
+title: "Walker, MI Business Directory"
+type: "towns"
 slug: "walker-mi"
-town: "Walker"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 24781
+state: "mi"
+town_data: "walker-mi"
 ---

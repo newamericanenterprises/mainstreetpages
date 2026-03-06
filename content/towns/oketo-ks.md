@@ -1,9 +1,7 @@
 ---
-title: "Oketo, Kansas Business Directory"
+title: "Oketo, KS Business Directory"
+type: "towns"
 slug: "oketo-ks"
-town: "Oketo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 3017
+state: "ks"
+town_data: "oketo-ks"
 ---

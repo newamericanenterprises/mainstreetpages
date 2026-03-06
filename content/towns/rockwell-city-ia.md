@@ -1,9 +1,7 @@
 ---
-title: "Rockwell City, Iowa Business Directory"
+title: "Rockwell City, IA Business Directory"
+type: "towns"
 slug: "rockwell-city-ia"
-town: "Rockwell City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 2152
+state: "ia"
+town_data: "rockwell-city-ia"
 ---

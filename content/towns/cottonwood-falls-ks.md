@@ -1,9 +1,7 @@
 ---
-title: "Cottonwood Falls, Kansas Business Directory"
+title: "Cottonwood Falls, KS Business Directory"
+type: "towns"
 slug: "cottonwood-falls-ks"
-town: "Cottonwood Falls"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chase"
-population: 3085
+state: "ks"
+town_data: "cottonwood-falls-ks"
 ---

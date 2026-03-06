@@ -1,9 +1,7 @@
 ---
-title: "Vermontville, Michigan Business Directory"
+title: "Vermontville, MI Business Directory"
+type: "towns"
 slug: "vermontville-mi"
-town: "Vermontville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 4455
+state: "mi"
+town_data: "vermontville-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fairview, Missouri Business Directory"
+title: "Fairview, MO Business Directory"
+type: "towns"
 slug: "fairview-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "fairview-mo"
 ---

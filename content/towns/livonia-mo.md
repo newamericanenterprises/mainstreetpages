@@ -1,7 +1,7 @@
 ---
-title: "Livonia, Missouri Business Directory"
+title: "Livonia, MO Business Directory"
+type: "towns"
 slug: "livonia-mo"
-state: "MO"
-county: "Putnam"
-population: 1500
+state: "mo"
+town_data: "livonia-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Linthicum, Maryland Business Directory"
+title: "Linthicum, MD Business Directory"
+type: "towns"
 slug: "linthicum-md"
-town: "Linthicum"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 4963
+state: "md"
+town_data: "linthicum-md"
 ---

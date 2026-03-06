@@ -1,9 +1,7 @@
 ---
-title: "Winslow, Indiana Business Directory"
+title: "Winslow, IN Business Directory"
+type: "towns"
 slug: "winslow-in"
-town: "Winslow"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pike"
-population: 3729
+state: "in"
+town_data: "winslow-in"
 ---

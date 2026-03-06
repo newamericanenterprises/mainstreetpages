@@ -1,7 +1,7 @@
 ---
-title: "Deshler, Nebraska Business Directory"
+title: "Deshler, NE Business Directory"
+type: "towns"
 slug: "deshler-ne"
-state: "NE"
-county: "Thayer"
-population: 747
+state: "ne"
+town_data: "deshler-ne"
 ---

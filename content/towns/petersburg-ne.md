@@ -1,7 +1,7 @@
 ---
-title: "Petersburg, Nebraska Business Directory"
+title: "Petersburg, NE Business Directory"
+type: "towns"
 slug: "petersburg-ne"
-state: "NE"
-county: "Boone"
-population: 500
+state: "ne"
+town_data: "petersburg-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ellsworth, Maine Business Directory"
+title: "Ellsworth, ME Business Directory"
+type: "towns"
 slug: "ellsworth-me"
-town: "Ellsworth"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 8399
+state: "me"
+town_data: "ellsworth-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Aquinnah, Massachusetts Business Directory"
+title: "Aquinnah, MA Business Directory"
+type: "towns"
 slug: "aquinnah-ma"
-town: "Aquinnah"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 7329
+state: "ma"
+town_data: "aquinnah-ma"
 ---

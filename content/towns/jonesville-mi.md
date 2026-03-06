@@ -1,9 +1,7 @@
 ---
-title: "Jonesville, Michigan Business Directory"
+title: "Jonesville, MI Business Directory"
+type: "towns"
 slug: "jonesville-mi"
-town: "Jonesville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Hillsdale"
-population: 4445
+state: "mi"
+town_data: "jonesville-mi"
 ---

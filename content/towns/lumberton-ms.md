@@ -1,7 +1,7 @@
 ---
-title: "Lumberton, Mississippi Business Directory"
+title: "Lumberton, MS Business Directory"
+type: "towns"
 slug: "lumberton-ms"
-state: "MS"
-county: "Lamar"
-population: 2117
+state: "ms"
+town_data: "lumberton-ms"
 ---

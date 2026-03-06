@@ -1,9 +1,7 @@
 ---
-title: "Martelle, Iowa Business Directory"
+title: "Martelle, IA Business Directory"
+type: "towns"
 slug: "martelle-ia"
-town: "Martelle"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 3329
+state: "ia"
+town_data: "martelle-ia"
 ---

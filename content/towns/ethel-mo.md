@@ -1,7 +1,7 @@
 ---
-title: "Ethel, Missouri Business Directory"
+title: "Ethel, MO Business Directory"
+type: "towns"
 slug: "ethel-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "ethel-mo"
 ---

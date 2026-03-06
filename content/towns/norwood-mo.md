@@ -1,7 +1,7 @@
 ---
-title: "Norwood, Missouri Business Directory"
+title: "Norwood, MO Business Directory"
+type: "towns"
 slug: "norwood-mo"
-state: "MO"
-county: "Wright"
-population: 1500
+state: "mo"
+town_data: "norwood-mo"
 ---

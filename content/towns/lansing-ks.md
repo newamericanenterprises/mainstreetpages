@@ -1,9 +1,7 @@
 ---
-title: "Lansing, Kansas Business Directory"
+title: "Lansing, KS Business Directory"
+type: "towns"
 slug: "lansing-ks"
-town: "Lansing"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 11947
+state: "ks"
+town_data: "lansing-ks"
 ---

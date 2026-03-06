@@ -1,9 +1,7 @@
 ---
-title: "Rapid City, Michigan Business Directory"
+title: "Rapid City, MI Business Directory"
+type: "towns"
 slug: "rapid-city-mi"
-town: "Rapid City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalkaska"
-population: 4803
+state: "mi"
+town_data: "rapid-city-mi"
 ---

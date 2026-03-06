@@ -1,9 +1,7 @@
 ---
-title: "Kennedyville, Maryland Business Directory"
+title: "Kennedyville, MD Business Directory"
+type: "towns"
 slug: "kennedyville-md"
-town: "Kennedyville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 922
+state: "md"
+town_data: "kennedyville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Murdock, Minnesota Business Directory"
+title: "Murdock, MN Business Directory"
+type: "towns"
 slug: "murdock-mn"
-town: "Murdock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 366
+state: "mn"
+town_data: "murdock-mn"
 ---

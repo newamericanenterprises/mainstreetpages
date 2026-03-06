@@ -1,7 +1,7 @@
 ---
-title: "Sutcliffe, Nevada Business Directory"
+title: "Sutcliffe, NV Business Directory"
+type: "towns"
 slug: "sutcliffe-nv"
-state: "NV"
-county: "Washoe"
-population: 135
+state: "nv"
+town_data: "sutcliffe-nv"
 ---

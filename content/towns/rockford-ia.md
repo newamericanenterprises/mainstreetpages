@@ -1,9 +1,7 @@
 ---
-title: "Rockford, Iowa Business Directory"
+title: "Rockford, IA Business Directory"
+type: "towns"
 slug: "rockford-ia"
-town: "Rockford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 3488
+state: "ia"
+town_data: "rockford-ia"
 ---

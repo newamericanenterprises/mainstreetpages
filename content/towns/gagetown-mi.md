@@ -1,9 +1,7 @@
 ---
-title: "Gagetown, Michigan Business Directory"
+title: "Gagetown, MI Business Directory"
+type: "towns"
 slug: "gagetown-mi"
-town: "Gagetown"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 945
+state: "mi"
+town_data: "gagetown-mi"
 ---

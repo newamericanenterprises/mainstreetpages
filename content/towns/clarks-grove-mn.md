@@ -1,9 +1,7 @@
 ---
-title: "Clarks Grove, Minnesota Business Directory"
+title: "Clarks Grove, MN Business Directory"
+type: "towns"
 slug: "clarks-grove-mn"
-town: "Clarks Grove"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 1353
+state: "mn"
+town_data: "clarks-grove-mn"
 ---

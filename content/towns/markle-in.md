@@ -1,9 +1,7 @@
 ---
-title: "Markle, Indiana Business Directory"
+title: "Markle, IN Business Directory"
+type: "towns"
 slug: "markle-in"
-town: "Markle"
-state: "Indiana"
-state_abbr: "IN"
-county: "Huntington"
-population: 4411
+state: "in"
+town_data: "markle-in"
 ---

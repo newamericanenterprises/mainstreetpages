@@ -1,7 +1,7 @@
 ---
-title: "Brighton, Missouri Business Directory"
+title: "Brighton, MO Business Directory"
+type: "towns"
 slug: "brighton-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "brighton-mo"
 ---

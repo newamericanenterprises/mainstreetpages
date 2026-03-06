@@ -1,9 +1,7 @@
 ---
-title: "Holland, Indiana Business Directory"
+title: "Holland, IN Business Directory"
+type: "towns"
 slug: "holland-in"
-town: "Holland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dubois"
-population: 1364
+state: "in"
+town_data: "holland-in"
 ---

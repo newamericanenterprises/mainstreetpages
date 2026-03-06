@@ -1,7 +1,7 @@
 ---
-title: "Glasgow, Montana Business Directory"
+title: "Glasgow, MT Business Directory"
+type: "towns"
 slug: "glasgow-mt"
-state: "MT"
-county: "Valley"
-population: 3364
+state: "mt"
+town_data: "glasgow-mt"
 ---

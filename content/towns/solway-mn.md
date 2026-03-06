@@ -1,9 +1,7 @@
 ---
-title: "Solway, Minnesota Business Directory"
+title: "Solway, MN Business Directory"
+type: "towns"
 slug: "solway-mn"
-town: "Solway"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Beltrami"
-population: 1509
+state: "mn"
+town_data: "solway-mn"
 ---

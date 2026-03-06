@@ -1,9 +1,7 @@
 ---
-title: "Syracuse, Indiana Business Directory"
+title: "Syracuse, IN Business Directory"
+type: "towns"
 slug: "syracuse-in"
-town: "Syracuse"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 1480
+state: "in"
+town_data: "syracuse-in"
 ---

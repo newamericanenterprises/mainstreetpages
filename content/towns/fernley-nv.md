@@ -1,7 +1,7 @@
 ---
-title: "Fernley, Nevada Business Directory"
+title: "Fernley, NV Business Directory"
+type: "towns"
 slug: "fernley-nv"
-state: "NV"
-county: "Lyon"
-population: 20852
+state: "nv"
+town_data: "fernley-nv"
 ---

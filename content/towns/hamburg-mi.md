@@ -1,9 +1,7 @@
 ---
-title: "Hamburg, Michigan Business Directory"
+title: "Hamburg, MI Business Directory"
+type: "towns"
 slug: "hamburg-mi"
-town: "Hamburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 4934
+state: "mi"
+town_data: "hamburg-mi"
 ---

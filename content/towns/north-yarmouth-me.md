@@ -1,9 +1,7 @@
 ---
-title: "North Yarmouth, Maine Business Directory"
+title: "North Yarmouth, ME Business Directory"
+type: "towns"
 slug: "north-yarmouth-me"
-town: "North Yarmouth"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1438
+state: "me"
+town_data: "north-yarmouth-me"
 ---

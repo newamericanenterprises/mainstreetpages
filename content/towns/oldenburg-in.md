@@ -1,9 +1,7 @@
 ---
-title: "Oldenburg, Indiana Business Directory"
+title: "Oldenburg, IN Business Directory"
+type: "towns"
 slug: "oldenburg-in"
-town: "Oldenburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Franklin"
-population: 1913
+state: "in"
+town_data: "oldenburg-in"
 ---

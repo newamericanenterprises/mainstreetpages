@@ -1,9 +1,7 @@
 ---
-title: "Titonka, Iowa Business Directory"
+title: "Titonka, IA Business Directory"
+type: "towns"
 slug: "titonka-ia"
-town: "Titonka"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 1609
+state: "ia"
+town_data: "titonka-ia"
 ---

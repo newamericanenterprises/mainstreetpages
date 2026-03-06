@@ -1,9 +1,7 @@
 ---
-title: "Pittsfield, Michigan Business Directory"
+title: "Pittsfield, MI Business Directory"
+type: "towns"
 slug: "pittsfield-mi"
-town: "Pittsfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 731
+state: "mi"
+town_data: "pittsfield-mi"
 ---

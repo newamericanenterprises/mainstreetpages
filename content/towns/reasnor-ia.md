@@ -1,9 +1,7 @@
 ---
-title: "Reasnor, Iowa Business Directory"
+title: "Reasnor, IA Business Directory"
+type: "towns"
 slug: "reasnor-ia"
-town: "Reasnor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1086
+state: "ia"
+town_data: "reasnor-ia"
 ---

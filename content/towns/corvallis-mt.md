@@ -1,7 +1,7 @@
 ---
-title: "Corvallis, Montana Business Directory"
+title: "Corvallis, MT Business Directory"
+type: "towns"
 slug: "corvallis-mt"
-state: "MT"
-county: "Ravalli"
-population: 972
+state: "mt"
+town_data: "corvallis-mt"
 ---

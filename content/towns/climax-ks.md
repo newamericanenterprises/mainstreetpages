@@ -1,9 +1,7 @@
 ---
-title: "Climax, Kansas Business Directory"
+title: "Climax, KS Business Directory"
+type: "towns"
 slug: "climax-ks"
-town: "Climax"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 2098
+state: "ks"
+town_data: "climax-ks"
 ---

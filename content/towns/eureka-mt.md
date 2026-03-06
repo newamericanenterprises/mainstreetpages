@@ -1,7 +1,7 @@
 ---
-title: "Eureka, Montana Business Directory"
+title: "Eureka, MT Business Directory"
+type: "towns"
 slug: "eureka-mt"
-state: "MT"
-county: "Lincoln"
-population: 1517
+state: "mt"
+town_data: "eureka-mt"
 ---

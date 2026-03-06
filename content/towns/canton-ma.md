@@ -1,9 +1,7 @@
 ---
-title: "Canton, Massachusetts Business Directory"
+title: "Canton, MA Business Directory"
+type: "towns"
 slug: "canton-ma"
-town: "Canton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 25084
+state: "ma"
+town_data: "canton-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sauk Rapids, Minnesota Business Directory"
+title: "Sauk Rapids, MN Business Directory"
+type: "towns"
 slug: "sauk-rapids-mn"
-town: "Sauk Rapids"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Benton"
-population: 3085
+state: "mn"
+town_data: "sauk-rapids-mn"
 ---

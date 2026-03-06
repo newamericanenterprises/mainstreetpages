@@ -1,9 +1,7 @@
 ---
-title: "Trimont, Minnesota Business Directory"
+title: "Trimont, MN Business Directory"
+type: "towns"
 slug: "trimont-mn"
-town: "Trimont"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 2238
+state: "mn"
+town_data: "trimont-mn"
 ---

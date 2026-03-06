@@ -1,9 +1,7 @@
 ---
-title: "Wales, Massachusetts Business Directory"
+title: "Wales, MA Business Directory"
+type: "towns"
 slug: "wales-ma"
-town: "Wales"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 5732
+state: "ma"
+town_data: "wales-ma"
 ---

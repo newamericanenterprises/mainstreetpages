@@ -1,9 +1,7 @@
 ---
-title: "Hastings, Iowa Business Directory"
+title: "Hastings, IA Business Directory"
+type: "towns"
 slug: "hastings-ia"
-town: "Hastings"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 1142
+state: "ia"
+town_data: "hastings-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "University Park, Maryland Business Directory"
+title: "University Park, MD Business Directory"
+type: "towns"
 slug: "university-park-md"
-town: "University Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1120
+state: "md"
+town_data: "university-park-md"
 ---

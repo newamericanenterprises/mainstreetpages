@@ -1,7 +1,7 @@
 ---
-title: "Sherman, Mississippi Business Directory"
+title: "Sherman, MS Business Directory"
+type: "towns"
 slug: "sherman-ms"
-state: "MS"
-county: "Pontotoc"
-population: 582
+state: "ms"
+town_data: "sherman-ms"
 ---

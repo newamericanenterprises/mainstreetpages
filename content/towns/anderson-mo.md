@@ -1,7 +1,7 @@
 ---
-title: "Anderson, Missouri Business Directory"
+title: "Anderson, MO Business Directory"
+type: "towns"
 slug: "anderson-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "anderson-mo"
 ---

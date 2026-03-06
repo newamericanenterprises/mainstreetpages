@@ -1,9 +1,7 @@
 ---
-title: "Hillman, Michigan Business Directory"
+title: "Hillman, MI Business Directory"
+type: "towns"
 slug: "hillman-mi"
-town: "Hillman"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montmorency"
-population: 3158
+state: "mi"
+town_data: "hillman-mi"
 ---

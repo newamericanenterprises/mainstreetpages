@@ -1,9 +1,7 @@
 ---
-title: "Waterloo, Indiana Business Directory"
+title: "Waterloo, IN Business Directory"
+type: "towns"
 slug: "waterloo-in"
-town: "Waterloo"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 2034
+state: "in"
+town_data: "waterloo-in"
 ---

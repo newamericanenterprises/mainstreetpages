@@ -1,9 +1,7 @@
 ---
-title: "Toledo, Iowa Business Directory"
+title: "Toledo, IA Business Directory"
+type: "towns"
 slug: "toledo-ia"
-town: "Toledo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2341
+state: "ia"
+town_data: "toledo-ia"
 ---

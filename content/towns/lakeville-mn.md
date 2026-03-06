@@ -1,9 +1,7 @@
 ---
-title: "Lakeville, Minnesota Business Directory"
+title: "Lakeville, MN Business Directory"
+type: "towns"
 slug: "lakeville-mn"
-town: "Lakeville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 69490
+state: "mn"
+town_data: "lakeville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Montville, Maine Business Directory"
+title: "Montville, ME Business Directory"
+type: "towns"
 slug: "montville-me"
-town: "Montville"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 827
+state: "me"
+town_data: "montville-me"
 ---

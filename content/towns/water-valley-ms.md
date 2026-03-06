@@ -1,7 +1,7 @@
 ---
-title: "Water Valley, Mississippi Business Directory"
+title: "Water Valley, MS Business Directory"
+type: "towns"
 slug: "water-valley-ms"
-state: "MS"
-county: "Yalobusha"
-population: 3387
+state: "ms"
+town_data: "water-valley-ms"
 ---

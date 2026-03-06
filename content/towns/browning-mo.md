@@ -1,7 +1,7 @@
 ---
-title: "Browning, Missouri Business Directory"
+title: "Browning, MO Business Directory"
+type: "towns"
 slug: "browning-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "browning-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Frankfort, Michigan Business Directory"
+title: "Frankfort, MI Business Directory"
+type: "towns"
 slug: "frankfort-mi"
-town: "Frankfort"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 2361
+state: "mi"
+town_data: "frankfort-mi"
 ---

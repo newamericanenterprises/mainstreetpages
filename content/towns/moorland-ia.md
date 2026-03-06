@@ -1,9 +1,7 @@
 ---
-title: "Moorland, Iowa Business Directory"
+title: "Moorland, IA Business Directory"
+type: "towns"
 slug: "moorland-ia"
-town: "Moorland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 776
+state: "ia"
+town_data: "moorland-ia"
 ---

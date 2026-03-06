@@ -1,9 +1,7 @@
 ---
-title: "Holbrook, Massachusetts Business Directory"
+title: "Holbrook, MA Business Directory"
+type: "towns"
 slug: "holbrook-ma"
-town: "Holbrook"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 7420
+state: "ma"
+town_data: "holbrook-ma"
 ---

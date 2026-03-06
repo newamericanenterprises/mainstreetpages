@@ -1,9 +1,7 @@
 ---
-title: "Gill, Massachusetts Business Directory"
+title: "Gill, MA Business Directory"
+type: "towns"
 slug: "gill-ma"
-town: "Gill"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 2695
+state: "ma"
+town_data: "gill-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Canton, Michigan Business Directory"
+title: "Canton, MI Business Directory"
+type: "towns"
 slug: "canton-mi"
-town: "Canton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 90173
+state: "mi"
+town_data: "canton-mi"
 ---

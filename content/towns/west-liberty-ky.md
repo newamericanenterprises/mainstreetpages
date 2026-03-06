@@ -1,9 +1,7 @@
 ---
-title: "West Liberty, Kentucky Business Directory"
+title: "West Liberty, KY Business Directory"
+type: "towns"
 slug: "west-liberty-ky"
-town: "West Liberty"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Morgan"
-population: 3348
+state: "ky"
+town_data: "west-liberty-ky"
 ---

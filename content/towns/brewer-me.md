@@ -1,9 +1,7 @@
 ---
-title: "Brewer, Maine Business Directory"
+title: "Brewer, ME Business Directory"
+type: "towns"
 slug: "brewer-me"
-town: "Brewer"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 9482
+state: "me"
+town_data: "brewer-me"
 ---

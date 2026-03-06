@@ -1,7 +1,7 @@
 ---
-title: "Northwoods, Missouri Business Directory"
+title: "Northwoods, MO Business Directory"
+type: "towns"
 slug: "northwoods-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "northwoods-mo"
 ---

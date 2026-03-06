@@ -1,9 +1,7 @@
 ---
-title: "Paradis, Louisiana Business Directory"
+title: "Paradis, LA Business Directory"
+type: "towns"
 slug: "paradis-la"
-town: "Paradis"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 3171
+state: "la"
+town_data: "paradis-la"
 ---

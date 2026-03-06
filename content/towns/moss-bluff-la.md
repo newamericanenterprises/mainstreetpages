@@ -1,9 +1,7 @@
 ---
-title: "Moss Bluff, Louisiana Business Directory"
+title: "Moss Bluff, LA Business Directory"
+type: "towns"
 slug: "moss-bluff-la"
-town: "Moss Bluff"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 13119
+state: "la"
+town_data: "moss-bluff-la"
 ---

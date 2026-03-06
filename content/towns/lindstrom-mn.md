@@ -1,9 +1,7 @@
 ---
-title: "Lindstrom, Minnesota Business Directory"
+title: "Lindstrom, MN Business Directory"
+type: "towns"
 slug: "lindstrom-mn"
-town: "Lindstrom"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 2168
+state: "mn"
+town_data: "lindstrom-mn"
 ---

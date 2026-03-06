@@ -1,9 +1,7 @@
 ---
-title: "Nevada, Iowa Business Directory"
+title: "Nevada, IA Business Directory"
+type: "towns"
 slug: "nevada-ia"
-town: "Nevada"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 711
+state: "ia"
+town_data: "nevada-ia"
 ---

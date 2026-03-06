@@ -1,9 +1,7 @@
 ---
-title: "Rowan, Iowa Business Directory"
+title: "Rowan, IA Business Directory"
+type: "towns"
 slug: "rowan-ia"
-town: "Rowan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 3225
+state: "ia"
+town_data: "rowan-ia"
 ---

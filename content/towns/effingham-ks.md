@@ -1,9 +1,7 @@
 ---
-title: "Effingham, Kansas Business Directory"
+title: "Effingham, KS Business Directory"
+type: "towns"
 slug: "effingham-ks"
-town: "Effingham"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 2873
+state: "ks"
+town_data: "effingham-ks"
 ---

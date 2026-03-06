@@ -1,9 +1,7 @@
 ---
-title: "Houma, Louisiana Business Directory"
+title: "Houma, LA Business Directory"
+type: "towns"
 slug: "houma-la"
-town: "Houma"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 33727
+state: "la"
+town_data: "houma-la"
 ---

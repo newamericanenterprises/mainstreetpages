@@ -1,9 +1,7 @@
 ---
-title: "Pleasant Hill, Iowa Business Directory"
+title: "Pleasant Hill, IA Business Directory"
+type: "towns"
 slug: "pleasant-hill-ia"
-town: "Pleasant Hill"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 10282
+state: "ia"
+town_data: "pleasant-hill-ia"
 ---

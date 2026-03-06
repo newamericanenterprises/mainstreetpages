@@ -1,9 +1,7 @@
 ---
-title: "Vulcan, Michigan Business Directory"
+title: "Vulcan, MI Business Directory"
+type: "towns"
 slug: "vulcan-mi"
-town: "Vulcan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 4467
+state: "mi"
+town_data: "vulcan-mi"
 ---

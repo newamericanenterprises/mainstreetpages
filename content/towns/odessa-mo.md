@@ -1,7 +1,7 @@
 ---
-title: "Odessa, Missouri Business Directory"
+title: "Odessa, MO Business Directory"
+type: "towns"
 slug: "odessa-mo"
-state: "MO"
-county: "Lafayette"
-population: 5326
+state: "mo"
+town_data: "odessa-mo"
 ---

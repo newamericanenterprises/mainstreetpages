@@ -1,9 +1,7 @@
 ---
-title: "Beaver Island, Michigan Business Directory"
+title: "Beaver Island, MI Business Directory"
+type: "towns"
 slug: "beaver-island-mi"
-town: "Beaver Island"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 4067
+state: "mi"
+town_data: "beaver-island-mi"
 ---

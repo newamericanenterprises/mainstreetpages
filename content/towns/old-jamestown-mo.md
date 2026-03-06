@@ -1,7 +1,7 @@
 ---
-title: "Old Jamestown, Missouri Business Directory"
+title: "Old Jamestown, MO Business Directory"
+type: "towns"
 slug: "old-jamestown-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "old-jamestown-mo"
 ---

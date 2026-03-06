@@ -1,7 +1,7 @@
 ---
-title: "Sunburst, Montana Business Directory"
+title: "Sunburst, MT Business Directory"
+type: "towns"
 slug: "sunburst-mt"
-state: "MT"
-county: "Toole"
-population: 500
+state: "mt"
+town_data: "sunburst-mt"
 ---

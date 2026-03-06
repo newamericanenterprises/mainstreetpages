@@ -1,9 +1,7 @@
 ---
-title: "Finlayson, Minnesota Business Directory"
+title: "Finlayson, MN Business Directory"
+type: "towns"
 slug: "finlayson-mn"
-town: "Finlayson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 999
+state: "mn"
+town_data: "finlayson-mn"
 ---

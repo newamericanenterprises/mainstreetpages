@@ -1,9 +1,7 @@
 ---
-title: "Sparta, Michigan Business Directory"
+title: "Sparta, MI Business Directory"
+type: "towns"
 slug: "sparta-mi"
-town: "Sparta"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 4116
+state: "mi"
+town_data: "sparta-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Concordia, Missouri Business Directory"
+title: "Concordia, MO Business Directory"
+type: "towns"
 slug: "concordia-mo"
-state: "MO"
-county: "Lafayette"
-population: 2445
+state: "mo"
+town_data: "concordia-mo"
 ---

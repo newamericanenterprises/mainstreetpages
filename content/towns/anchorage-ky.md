@@ -1,9 +1,7 @@
 ---
-title: "Anchorage, Kentucky Business Directory"
+title: "Anchorage, KY Business Directory"
+type: "towns"
 slug: "anchorage-ky"
-town: "Anchorage"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 882
+state: "ky"
+town_data: "anchorage-ky"
 ---

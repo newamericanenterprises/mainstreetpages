@@ -1,9 +1,7 @@
 ---
-title: "Morrison, Iowa Business Directory"
+title: "Morrison, IA Business Directory"
+type: "towns"
 slug: "morrison-ia"
-town: "Morrison"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 3485
+state: "ia"
+town_data: "morrison-ia"
 ---

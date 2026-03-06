@@ -1,9 +1,7 @@
 ---
-title: "Wixom, Michigan Business Directory"
+title: "Wixom, MI Business Directory"
+type: "towns"
 slug: "wixom-mi"
-town: "Wixom"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4115
+state: "mi"
+town_data: "wixom-mi"
 ---

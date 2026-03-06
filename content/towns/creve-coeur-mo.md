@@ -1,7 +1,7 @@
 ---
-title: "Creve Coeur, Missouri Business Directory"
+title: "Creve Coeur, MO Business Directory"
+type: "towns"
 slug: "creve-coeur-mo"
-state: "MO"
-county: "St. Louis"
-population: 18627
+state: "mo"
+town_data: "creve-coeur-mo"
 ---

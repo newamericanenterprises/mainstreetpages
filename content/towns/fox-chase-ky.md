@@ -1,9 +1,7 @@
 ---
-title: "Fox Chase, Kentucky Business Directory"
+title: "Fox Chase, KY Business Directory"
+type: "towns"
 slug: "fox-chase-ky"
-town: "Fox Chase"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bullitt"
-population: 2259
+state: "ky"
+town_data: "fox-chase-ky"
 ---

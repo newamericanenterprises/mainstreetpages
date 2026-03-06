@@ -1,9 +1,7 @@
 ---
-title: "Sudlersville, Maryland Business Directory"
+title: "Sudlersville, MD Business Directory"
+type: "towns"
 slug: "sudlersville-md"
-town: "Sudlersville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 657
+state: "md"
+town_data: "sudlersville-md"
 ---

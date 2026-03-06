@@ -1,9 +1,7 @@
 ---
-title: "Kingsville, Maryland Business Directory"
+title: "Kingsville, MD Business Directory"
+type: "towns"
 slug: "kingsville-md"
-town: "Kingsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 1933
+state: "md"
+town_data: "kingsville-md"
 ---

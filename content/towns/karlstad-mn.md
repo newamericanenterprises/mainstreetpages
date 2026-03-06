@@ -1,9 +1,7 @@
 ---
-title: "Karlstad, Minnesota Business Directory"
+title: "Karlstad, MN Business Directory"
+type: "towns"
 slug: "karlstad-mn"
-town: "Karlstad"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 893
+state: "mn"
+town_data: "karlstad-mn"
 ---

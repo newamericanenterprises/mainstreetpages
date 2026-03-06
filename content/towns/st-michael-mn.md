@@ -1,9 +1,7 @@
 ---
-title: "St. Michael, Minnesota Business Directory"
+title: "St. Michael, MN Business Directory"
+type: "towns"
 slug: "st-michael-mn"
-town: "St. Michael"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 3162
+state: "mn"
+town_data: "st-michael-mn"
 ---

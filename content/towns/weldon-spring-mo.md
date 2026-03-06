@@ -1,7 +1,7 @@
 ---
-title: "Weldon Spring, Missouri Business Directory"
+title: "Weldon Spring, MO Business Directory"
+type: "towns"
 slug: "weldon-spring-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "weldon-spring-mo"
 ---

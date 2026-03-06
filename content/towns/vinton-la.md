@@ -1,9 +1,7 @@
 ---
-title: "Vinton, Louisiana Business Directory"
+title: "Vinton, LA Business Directory"
+type: "towns"
 slug: "vinton-la"
-town: "Vinton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 3049
+state: "la"
+town_data: "vinton-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hurlock, Maryland Business Directory"
+title: "Hurlock, MD Business Directory"
+type: "towns"
 slug: "hurlock-md"
-town: "Hurlock"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 3754
+state: "md"
+town_data: "hurlock-md"
 ---

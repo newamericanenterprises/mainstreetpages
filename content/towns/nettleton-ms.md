@@ -1,7 +1,7 @@
 ---
-title: "Nettleton, Mississippi Business Directory"
+title: "Nettleton, MS Business Directory"
+type: "towns"
 slug: "nettleton-ms"
-state: "MS"
-county: "Lee"
-population: 1973
+state: "ms"
+town_data: "nettleton-ms"
 ---

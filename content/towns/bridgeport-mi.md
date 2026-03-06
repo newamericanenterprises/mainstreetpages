@@ -1,9 +1,7 @@
 ---
-title: "Bridgeport, Michigan Business Directory"
+title: "Bridgeport, MI Business Directory"
+type: "towns"
 slug: "bridgeport-mi"
-town: "Bridgeport"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 3395
+state: "mi"
+town_data: "bridgeport-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lakeview, Nebraska Business Directory"
+title: "Lakeview, NE Business Directory"
+type: "towns"
 slug: "lakeview-ne"
-state: "NE"
-county: "Sheridan"
-population: 500
+state: "ne"
+town_data: "lakeview-ne"
 ---

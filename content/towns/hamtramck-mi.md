@@ -1,9 +1,7 @@
 ---
-title: "Hamtramck, Michigan Business Directory"
+title: "Hamtramck, MI Business Directory"
+type: "towns"
 slug: "hamtramck-mi"
-town: "Hamtramck"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 907
+state: "mi"
+town_data: "hamtramck-mi"
 ---

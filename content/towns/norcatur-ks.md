@@ -1,9 +1,7 @@
 ---
-title: "Norcatur, Kansas Business Directory"
+title: "Norcatur, KS Business Directory"
+type: "towns"
 slug: "norcatur-ks"
-town: "Norcatur"
-state: "Kansas"
-state_abbr: "KS"
-county: "Decatur"
-population: 1988
+state: "ks"
+town_data: "norcatur-ks"
 ---

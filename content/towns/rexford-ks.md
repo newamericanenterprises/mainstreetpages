@@ -1,9 +1,7 @@
 ---
-title: "Rexford, Kansas Business Directory"
+title: "Rexford, KS Business Directory"
+type: "towns"
 slug: "rexford-ks"
-town: "Rexford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 927
+state: "ks"
+town_data: "rexford-ks"
 ---

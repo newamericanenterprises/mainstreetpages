@@ -1,9 +1,7 @@
 ---
-title: "Pearl River, Louisiana Business Directory"
+title: "Pearl River, LA Business Directory"
+type: "towns"
 slug: "pearl-river-la"
-town: "Pearl River"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 1779
+state: "la"
+town_data: "pearl-river-la"
 ---

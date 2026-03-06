@@ -1,9 +1,7 @@
 ---
-title: "McKinley, Michigan Business Directory"
+title: "McKinley, MI Business Directory"
+type: "towns"
 slug: "mckinley-mi"
-town: "McKinley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oscoda"
-population: 3022
+state: "mi"
+town_data: "mckinley-mi"
 ---

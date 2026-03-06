@@ -1,9 +1,7 @@
 ---
-title: "White Plains, Kentucky Business Directory"
+title: "White Plains, KY Business Directory"
+type: "towns"
 slug: "white-plains-ky"
-town: "White Plains"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 2482
+state: "ky"
+town_data: "white-plains-ky"
 ---

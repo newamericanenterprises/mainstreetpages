@@ -1,9 +1,7 @@
 ---
-title: "Lenox, Michigan Business Directory"
+title: "Lenox, MI Business Directory"
+type: "towns"
 slug: "lenox-mi"
-town: "Lenox"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 5298
+state: "mi"
+town_data: "lenox-mi"
 ---

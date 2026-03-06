@@ -1,9 +1,7 @@
 ---
-title: "Grabill, Indiana Business Directory"
+title: "Grabill, IN Business Directory"
+type: "towns"
 slug: "grabill-in"
-town: "Grabill"
-state: "Indiana"
-state_abbr: "IN"
-county: "Allen"
-population: 2027
+state: "in"
+town_data: "grabill-in"
 ---

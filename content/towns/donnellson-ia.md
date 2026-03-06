@@ -1,9 +1,7 @@
 ---
-title: "Donnellson, Iowa Business Directory"
+title: "Donnellson, IA Business Directory"
+type: "towns"
 slug: "donnellson-ia"
-town: "Donnellson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 1946
+state: "ia"
+town_data: "donnellson-ia"
 ---

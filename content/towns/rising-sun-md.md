@@ -1,9 +1,7 @@
 ---
-title: "Rising Sun, Maryland Business Directory"
+title: "Rising Sun, MD Business Directory"
+type: "towns"
 slug: "rising-sun-md"
-town: "Rising Sun"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 2961
+state: "md"
+town_data: "rising-sun-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Windham, Montana Business Directory"
+title: "Windham, MT Business Directory"
+type: "towns"
 slug: "windham-mt"
-state: "MT"
-county: "Judith Basin"
-population: 500
+state: "mt"
+town_data: "windham-mt"
 ---

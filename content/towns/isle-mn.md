@@ -1,9 +1,7 @@
 ---
-title: "Isle, Minnesota Business Directory"
+title: "Isle, MN Business Directory"
+type: "towns"
 slug: "isle-mn"
-town: "Isle"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 405
+state: "mn"
+town_data: "isle-mn"
 ---

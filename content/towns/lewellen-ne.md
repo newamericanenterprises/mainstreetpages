@@ -1,7 +1,7 @@
 ---
-title: "Lewellen, Nebraska Business Directory"
+title: "Lewellen, NE Business Directory"
+type: "towns"
 slug: "lewellen-ne"
-state: "NE"
-county: "Garden"
-population: 500
+state: "ne"
+town_data: "lewellen-ne"
 ---

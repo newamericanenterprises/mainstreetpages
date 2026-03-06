@@ -1,9 +1,7 @@
 ---
-title: "Camden, Indiana Business Directory"
+title: "Camden, IN Business Directory"
+type: "towns"
 slug: "camden-in"
-town: "Camden"
-state: "Indiana"
-state_abbr: "IN"
-county: "Carroll"
-population: 752
+state: "in"
+town_data: "camden-in"
 ---

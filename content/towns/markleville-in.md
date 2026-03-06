@@ -1,9 +1,7 @@
 ---
-title: "Markleville, Indiana Business Directory"
+title: "Markleville, IN Business Directory"
+type: "towns"
 slug: "markleville-in"
-town: "Markleville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 2462
+state: "in"
+town_data: "markleville-in"
 ---

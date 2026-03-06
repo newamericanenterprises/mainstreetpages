@@ -1,9 +1,7 @@
 ---
-title: "Zearing, Iowa Business Directory"
+title: "Zearing, IA Business Directory"
+type: "towns"
 slug: "zearing-ia"
-town: "Zearing"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 3050
+state: "ia"
+town_data: "zearing-ia"
 ---

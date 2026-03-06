@@ -1,9 +1,7 @@
 ---
-title: "Fryeburg, Maine Business Directory"
+title: "Fryeburg, ME Business Directory"
+type: "towns"
 slug: "fryeburg-me"
-town: "Fryeburg"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2105
+state: "me"
+town_data: "fryeburg-me"
 ---

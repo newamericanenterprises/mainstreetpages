@@ -1,7 +1,7 @@
 ---
-title: "Verdel, Nebraska Business Directory"
+title: "Verdel, NE Business Directory"
+type: "towns"
 slug: "verdel-ne"
-state: "NE"
-county: "Knox"
-population: 500
+state: "ne"
+town_data: "verdel-ne"
 ---

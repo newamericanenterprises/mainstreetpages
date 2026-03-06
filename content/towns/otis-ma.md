@@ -1,9 +1,7 @@
 ---
-title: "Otis, Massachusetts Business Directory"
+title: "Otis, MA Business Directory"
+type: "towns"
 slug: "otis-ma"
-town: "Otis"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 7216
+state: "ma"
+town_data: "otis-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "North Reading, Massachusetts Business Directory"
+title: "North Reading, MA Business Directory"
+type: "towns"
 slug: "north-reading-ma"
-town: "North Reading"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 7149
+state: "ma"
+town_data: "north-reading-ma"
 ---

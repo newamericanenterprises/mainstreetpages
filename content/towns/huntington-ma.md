@@ -1,9 +1,7 @@
 ---
-title: "Huntington, Massachusetts Business Directory"
+title: "Huntington, MA Business Directory"
+type: "towns"
 slug: "huntington-ma"
-town: "Huntington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 2729
+state: "ma"
+town_data: "huntington-ma"
 ---

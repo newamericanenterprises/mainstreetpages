@@ -1,7 +1,7 @@
 ---
-title: "Ridgeland, Mississippi Business Directory"
+title: "Ridgeland, MS Business Directory"
+type: "towns"
 slug: "ridgeland-ms"
-state: "MS"
-county: "Madison"
-population: 24534
+state: "ms"
+town_data: "ridgeland-ms"
 ---

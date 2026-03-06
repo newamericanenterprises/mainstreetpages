@@ -1,9 +1,7 @@
 ---
-title: "Luray, Kansas Business Directory"
+title: "Luray, KS Business Directory"
+type: "towns"
 slug: "luray-ks"
-town: "Luray"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 512
+state: "ks"
+town_data: "luray-ks"
 ---

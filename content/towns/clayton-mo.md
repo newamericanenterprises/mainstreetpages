@@ -1,7 +1,7 @@
 ---
-title: "Clayton, Missouri Business Directory"
+title: "Clayton, MO Business Directory"
+type: "towns"
 slug: "clayton-mo"
-state: "MO"
-county: "St. Louis"
-population: 16780
+state: "mo"
+town_data: "clayton-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rogers, Minnesota Business Directory"
+title: "Rogers, MN Business Directory"
+type: "towns"
 slug: "rogers-mn"
-town: "Rogers"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1666
+state: "mn"
+town_data: "rogers-mn"
 ---

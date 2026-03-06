@@ -1,9 +1,7 @@
 ---
-title: "Rayne, Louisiana Business Directory"
+title: "Rayne, LA Business Directory"
+type: "towns"
 slug: "rayne-la"
-town: "Rayne"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 8062
+state: "la"
+town_data: "rayne-la"
 ---

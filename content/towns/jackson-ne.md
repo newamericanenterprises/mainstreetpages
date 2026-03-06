@@ -1,7 +1,7 @@
 ---
-title: "Jackson, Nebraska Business Directory"
+title: "Jackson, NE Business Directory"
+type: "towns"
 slug: "jackson-ne"
-state: "NE"
-county: "Dakota"
-population: 207
+state: "ne"
+town_data: "jackson-ne"
 ---

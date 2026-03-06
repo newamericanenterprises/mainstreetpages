@@ -1,9 +1,7 @@
 ---
-title: "Windsor, Massachusetts Business Directory"
+title: "Windsor, MA Business Directory"
+type: "towns"
 slug: "windsor-ma"
-town: "Windsor"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 2099
+state: "ma"
+town_data: "windsor-ma"
 ---

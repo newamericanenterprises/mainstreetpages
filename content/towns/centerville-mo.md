@@ -1,7 +1,7 @@
 ---
-title: "Centerville, Missouri Business Directory"
+title: "Centerville, MO Business Directory"
+type: "towns"
 slug: "centerville-mo"
-state: "MO"
-county: "Reynolds"
-population: 1500
+state: "mo"
+town_data: "centerville-mo"
 ---

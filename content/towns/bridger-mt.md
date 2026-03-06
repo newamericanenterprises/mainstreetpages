@@ -1,7 +1,7 @@
 ---
-title: "Bridger, Montana Business Directory"
+title: "Bridger, MT Business Directory"
+type: "towns"
 slug: "bridger-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "bridger-mt"
 ---

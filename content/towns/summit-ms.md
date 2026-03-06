@@ -1,7 +1,7 @@
 ---
-title: "Summit, Mississippi Business Directory"
+title: "Summit, MS Business Directory"
+type: "towns"
 slug: "summit-ms"
-state: "MS"
-county: "Pike"
-population: 1634
+state: "ms"
+town_data: "summit-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Smiths Creek, Michigan Business Directory"
+title: "Smiths Creek, MI Business Directory"
+type: "towns"
 slug: "smiths-creek-mi"
-town: "Smiths Creek"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 5247
+state: "mi"
+town_data: "smiths-creek-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Munising, Michigan Business Directory"
+title: "Munising, MI Business Directory"
+type: "towns"
 slug: "munising-mi"
-town: "Munising"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 3103
+state: "mi"
+town_data: "munising-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Varina, Iowa Business Directory"
+title: "Varina, IA Business Directory"
+type: "towns"
 slug: "varina-ia"
-town: "Varina"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1993
+state: "ia"
+town_data: "varina-ia"
 ---

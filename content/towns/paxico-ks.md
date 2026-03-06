@@ -1,9 +1,7 @@
 ---
-title: "Paxico, Kansas Business Directory"
+title: "Paxico, KS Business Directory"
+type: "towns"
 slug: "paxico-ks"
-town: "Paxico"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 2511
+state: "ks"
+town_data: "paxico-ks"
 ---

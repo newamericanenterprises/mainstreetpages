@@ -1,9 +1,7 @@
 ---
-title: "Westernport, Maryland Business Directory"
+title: "Westernport, MD Business Directory"
+type: "towns"
 slug: "westernport-md"
-town: "Westernport"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 2859
+state: "md"
+town_data: "westernport-md"
 ---

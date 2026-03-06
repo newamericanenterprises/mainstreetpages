@@ -1,7 +1,7 @@
 ---
-title: "Cody, Nebraska Business Directory"
+title: "Cody, NE Business Directory"
+type: "towns"
 slug: "cody-ne"
-state: "NE"
-county: "Cherry"
-population: 500
+state: "ne"
+town_data: "cody-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Salix, Iowa Business Directory"
+title: "Salix, IA Business Directory"
+type: "towns"
 slug: "salix-ia"
-town: "Salix"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 2110
+state: "ia"
+town_data: "salix-ia"
 ---

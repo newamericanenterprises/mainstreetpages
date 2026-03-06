@@ -1,9 +1,7 @@
 ---
-title: "Washington, Kansas Business Directory"
+title: "Washington, KS Business Directory"
+type: "towns"
 slug: "washington-ks"
-town: "Washington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 1295
+state: "ks"
+town_data: "washington-ks"
 ---

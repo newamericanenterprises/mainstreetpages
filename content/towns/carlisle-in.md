@@ -1,9 +1,7 @@
 ---
-title: "Carlisle, Indiana Business Directory"
+title: "Carlisle, IN Business Directory"
+type: "towns"
 slug: "carlisle-in"
-town: "Carlisle"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 1604
+state: "in"
+town_data: "carlisle-in"
 ---

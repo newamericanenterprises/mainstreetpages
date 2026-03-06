@@ -1,7 +1,7 @@
 ---
-title: "Indianola, Nebraska Business Directory"
+title: "Indianola, NE Business Directory"
+type: "towns"
 slug: "indianola-ne"
-state: "NE"
-county: "Red Willow"
-population: 500
+state: "ne"
+town_data: "indianola-ne"
 ---

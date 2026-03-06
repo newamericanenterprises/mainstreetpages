@@ -1,9 +1,7 @@
 ---
-title: "Worthington, Massachusetts Business Directory"
+title: "Worthington, MA Business Directory"
+type: "towns"
 slug: "worthington-ma"
-town: "Worthington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 6902
+state: "ma"
+town_data: "worthington-ma"
 ---

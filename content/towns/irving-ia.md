@@ -1,9 +1,7 @@
 ---
-title: "Irving, Iowa Business Directory"
+title: "Irving, IA Business Directory"
+type: "towns"
 slug: "irving-ia"
-town: "Irving"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 3333
+state: "ia"
+town_data: "irving-ia"
 ---

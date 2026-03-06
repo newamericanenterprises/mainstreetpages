@@ -1,9 +1,7 @@
 ---
-title: "Terre Haute, Indiana Business Directory"
+title: "Terre Haute, IN Business Directory"
+type: "towns"
 slug: "terre-haute-in"
-town: "Terre Haute"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vigo"
-population: 58389
+state: "in"
+town_data: "terre-haute-in"
 ---

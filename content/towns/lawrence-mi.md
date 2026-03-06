@@ -1,9 +1,7 @@
 ---
-title: "Lawrence, Michigan Business Directory"
+title: "Lawrence, MI Business Directory"
+type: "towns"
 slug: "lawrence-mi"
-town: "Lawrence"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 3901
+state: "mi"
+town_data: "lawrence-mi"
 ---

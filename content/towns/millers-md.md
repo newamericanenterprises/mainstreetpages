@@ -1,9 +1,7 @@
 ---
-title: "Millers, Maryland Business Directory"
+title: "Millers, MD Business Directory"
+type: "towns"
 slug: "millers-md"
-town: "Millers"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 2969
+state: "md"
+town_data: "millers-md"
 ---

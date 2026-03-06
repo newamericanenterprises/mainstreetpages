@@ -1,9 +1,7 @@
 ---
-title: "Boyne City, Michigan Business Directory"
+title: "Boyne City, MI Business Directory"
+type: "towns"
 slug: "boyne-city-mi"
-town: "Boyne City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 5106
+state: "mi"
+town_data: "boyne-city-mi"
 ---

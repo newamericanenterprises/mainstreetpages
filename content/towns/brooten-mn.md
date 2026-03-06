@@ -1,9 +1,7 @@
 ---
-title: "Brooten, Minnesota Business Directory"
+title: "Brooten, MN Business Directory"
+type: "towns"
 slug: "brooten-mn"
-town: "Brooten"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1711
+state: "mn"
+town_data: "brooten-mn"
 ---

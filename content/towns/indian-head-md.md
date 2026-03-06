@@ -1,9 +1,7 @@
 ---
-title: "Indian Head, Maryland Business Directory"
+title: "Indian Head, MD Business Directory"
+type: "towns"
 slug: "indian-head-md"
-town: "Indian Head"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 2521
+state: "md"
+town_data: "indian-head-md"
 ---

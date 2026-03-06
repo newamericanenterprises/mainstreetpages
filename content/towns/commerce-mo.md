@@ -1,7 +1,7 @@
 ---
-title: "Commerce, Missouri Business Directory"
+title: "Commerce, MO Business Directory"
+type: "towns"
 slug: "commerce-mo"
-state: "MO"
-county: "Scott"
-population: 1500
+state: "mo"
+town_data: "commerce-mo"
 ---

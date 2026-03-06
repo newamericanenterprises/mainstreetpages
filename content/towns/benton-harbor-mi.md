@@ -1,9 +1,7 @@
 ---
-title: "Benton Harbor, Michigan Business Directory"
+title: "Benton Harbor, MI Business Directory"
+type: "towns"
 slug: "benton-harbor-mi"
-town: "Benton Harbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 9723
+state: "mi"
+town_data: "benton-harbor-mi"
 ---

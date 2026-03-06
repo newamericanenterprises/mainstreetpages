@@ -1,9 +1,7 @@
 ---
-title: "Bloomfield, Michigan Business Directory"
+title: "Bloomfield, MI Business Directory"
+type: "towns"
 slug: "bloomfield-mi"
-town: "Bloomfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 5102
+state: "mi"
+town_data: "bloomfield-mi"
 ---

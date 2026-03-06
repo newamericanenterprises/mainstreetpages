@@ -1,7 +1,7 @@
 ---
-title: "Moberly, Missouri Business Directory"
+title: "Moberly, MO Business Directory"
+type: "towns"
 slug: "moberly-mo"
-state: "MO"
-county: "Randolph"
-population: 13974
+state: "mo"
+town_data: "moberly-mo"
 ---

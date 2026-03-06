@@ -1,7 +1,7 @@
 ---
-title: "Leonard, Missouri Business Directory"
+title: "Leonard, MO Business Directory"
+type: "towns"
 slug: "leonard-mo"
-state: "MO"
-county: "Shelby"
-population: 1500
+state: "mo"
+town_data: "leonard-mo"
 ---

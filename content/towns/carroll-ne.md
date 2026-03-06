@@ -1,7 +1,7 @@
 ---
-title: "Carroll, Nebraska Business Directory"
+title: "Carroll, NE Business Directory"
+type: "towns"
 slug: "carroll-ne"
-state: "NE"
-county: "Wayne"
-population: 500
+state: "ne"
+town_data: "carroll-ne"
 ---

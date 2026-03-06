@@ -1,9 +1,7 @@
 ---
-title: "Kentland, Indiana Business Directory"
+title: "Kentland, IN Business Directory"
+type: "towns"
 slug: "kentland-in"
-town: "Kentland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Newton"
-population: 1793
+state: "in"
+town_data: "kentland-in"
 ---

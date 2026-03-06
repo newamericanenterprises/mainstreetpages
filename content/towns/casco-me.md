@@ -1,9 +1,7 @@
 ---
-title: "Casco, Maine Business Directory"
+title: "Casco, ME Business Directory"
+type: "towns"
 slug: "casco-me"
-town: "Casco"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2366
+state: "me"
+town_data: "casco-me"
 ---

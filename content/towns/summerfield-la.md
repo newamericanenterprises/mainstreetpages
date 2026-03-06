@@ -1,9 +1,7 @@
 ---
-title: "Summerfield, Louisiana Business Directory"
+title: "Summerfield, LA Business Directory"
+type: "towns"
 slug: "summerfield-la"
-town: "Summerfield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Claiborne"
-population: 2797
+state: "la"
+town_data: "summerfield-la"
 ---

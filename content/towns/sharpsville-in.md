@@ -1,9 +1,7 @@
 ---
-title: "Sharpsville, Indiana Business Directory"
+title: "Sharpsville, IN Business Directory"
+type: "towns"
 slug: "sharpsville-in"
-town: "Sharpsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tipton"
-population: 3044
+state: "in"
+town_data: "sharpsville-in"
 ---

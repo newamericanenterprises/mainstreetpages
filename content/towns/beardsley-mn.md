@@ -1,9 +1,7 @@
 ---
-title: "Beardsley, Minnesota Business Directory"
+title: "Beardsley, MN Business Directory"
+type: "towns"
 slug: "beardsley-mn"
-town: "Beardsley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 1004
+state: "mn"
+town_data: "beardsley-mn"
 ---

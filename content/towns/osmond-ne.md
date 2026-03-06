@@ -1,7 +1,7 @@
 ---
-title: "Osmond, Nebraska Business Directory"
+title: "Osmond, NE Business Directory"
+type: "towns"
 slug: "osmond-ne"
-state: "NE"
-county: "Pierce"
-population: 759
+state: "ne"
+town_data: "osmond-ne"
 ---

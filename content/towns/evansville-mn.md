@@ -1,9 +1,7 @@
 ---
-title: "Evansville, Minnesota Business Directory"
+title: "Evansville, MN Business Directory"
+type: "towns"
 slug: "evansville-mn"
-town: "Evansville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 2772
+state: "mn"
+town_data: "evansville-mn"
 ---

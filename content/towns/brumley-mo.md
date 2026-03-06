@@ -1,7 +1,7 @@
 ---
-title: "Brumley, Missouri Business Directory"
+title: "Brumley, MO Business Directory"
+type: "towns"
 slug: "brumley-mo"
-state: "MO"
-county: "Miller"
-population: 1500
+state: "mo"
+town_data: "brumley-mo"
 ---

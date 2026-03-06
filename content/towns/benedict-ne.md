@@ -1,7 +1,7 @@
 ---
-title: "Benedict, Nebraska Business Directory"
+title: "Benedict, NE Business Directory"
+type: "towns"
 slug: "benedict-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "benedict-ne"
 ---

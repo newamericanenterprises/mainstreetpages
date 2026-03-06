@@ -1,7 +1,7 @@
 ---
-title: "Cassville, Missouri Business Directory"
+title: "Cassville, MO Business Directory"
+type: "towns"
 slug: "cassville-mo"
-state: "MO"
-county: "Barry"
-population: 3120
+state: "mo"
+town_data: "cassville-mo"
 ---

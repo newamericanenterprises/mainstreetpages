@@ -1,9 +1,7 @@
 ---
-title: "Irvington, Kentucky Business Directory"
+title: "Irvington, KY Business Directory"
+type: "towns"
 slug: "irvington-ky"
-town: "Irvington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Breckinridge"
-population: 1050
+state: "ky"
+town_data: "irvington-ky"
 ---

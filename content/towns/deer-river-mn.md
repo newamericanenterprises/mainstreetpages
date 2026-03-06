@@ -1,9 +1,7 @@
 ---
-title: "Deer River, Minnesota Business Directory"
+title: "Deer River, MN Business Directory"
+type: "towns"
 slug: "deer-river-mn"
-town: "Deer River"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 3183
+state: "mn"
+town_data: "deer-river-mn"
 ---

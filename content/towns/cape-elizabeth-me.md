@@ -1,9 +1,7 @@
 ---
-title: "Cape Elizabeth, Maine Business Directory"
+title: "Cape Elizabeth, ME Business Directory"
+type: "towns"
 slug: "cape-elizabeth-me"
-town: "Cape Elizabeth"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 9536
+state: "me"
+town_data: "cape-elizabeth-me"
 ---

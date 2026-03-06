@@ -1,9 +1,7 @@
 ---
-title: "Martin, Michigan Business Directory"
+title: "Martin, MI Business Directory"
+type: "towns"
 slug: "martin-mi"
-town: "Martin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 2000
+state: "mi"
+town_data: "martin-mi"
 ---

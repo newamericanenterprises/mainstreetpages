@@ -1,9 +1,7 @@
 ---
-title: "Lakota, Iowa Business Directory"
+title: "Lakota, IA Business Directory"
+type: "towns"
 slug: "lakota-ia"
-town: "Lakota"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 2536
+state: "ia"
+town_data: "lakota-ia"
 ---

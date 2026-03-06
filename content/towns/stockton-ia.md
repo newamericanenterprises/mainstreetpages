@@ -1,9 +1,7 @@
 ---
-title: "Stockton, Iowa Business Directory"
+title: "Stockton, IA Business Directory"
+type: "towns"
 slug: "stockton-ia"
-town: "Stockton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 1043
+state: "ia"
+town_data: "stockton-ia"
 ---

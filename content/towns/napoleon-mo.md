@@ -1,7 +1,7 @@
 ---
-title: "Napoleon, Missouri Business Directory"
+title: "Napoleon, MO Business Directory"
+type: "towns"
 slug: "napoleon-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "napoleon-mo"
 ---

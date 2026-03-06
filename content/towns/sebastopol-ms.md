@@ -1,7 +1,7 @@
 ---
-title: "Sebastopol, Mississippi Business Directory"
+title: "Sebastopol, MS Business Directory"
+type: "towns"
 slug: "sebastopol-ms"
-state: "MS"
-county: "Scott"
-population: 220
+state: "ms"
+town_data: "sebastopol-ms"
 ---

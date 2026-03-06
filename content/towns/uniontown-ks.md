@@ -1,9 +1,7 @@
 ---
-title: "Uniontown, Kansas Business Directory"
+title: "Uniontown, KS Business Directory"
+type: "towns"
 slug: "uniontown-ks"
-town: "Uniontown"
-state: "Kansas"
-state_abbr: "KS"
-county: "Bourbon"
-population: 3126
+state: "ks"
+town_data: "uniontown-ks"
 ---

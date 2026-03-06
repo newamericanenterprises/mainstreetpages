@@ -1,9 +1,7 @@
 ---
-title: "Reading, Kansas Business Directory"
+title: "Reading, KS Business Directory"
+type: "towns"
 slug: "reading-ks"
-town: "Reading"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 1993
+state: "ks"
+town_data: "reading-ks"
 ---

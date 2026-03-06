@@ -1,9 +1,7 @@
 ---
-title: "Osceola, Indiana Business Directory"
+title: "Osceola, IN Business Directory"
+type: "towns"
 slug: "osceola-in"
-town: "Osceola"
-state: "Indiana"
-state_abbr: "IN"
-county: "St. Joseph"
-population: 1698
+state: "in"
+town_data: "osceola-in"
 ---

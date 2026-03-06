@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Michigan Business Directory"
+title: "Auburn, MI Business Directory"
+type: "towns"
 slug: "auburn-mi"
-town: "Auburn"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 5439
+state: "mi"
+town_data: "auburn-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Knightsville, Indiana Business Directory"
+title: "Knightsville, IN Business Directory"
+type: "towns"
 slug: "knightsville-in"
-town: "Knightsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 4327
+state: "in"
+town_data: "knightsville-in"
 ---

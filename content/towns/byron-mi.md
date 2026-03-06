@@ -1,9 +1,7 @@
 ---
-title: "Byron, Michigan Business Directory"
+title: "Byron, MI Business Directory"
+type: "towns"
 slug: "byron-mi"
-town: "Byron"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 3162
+state: "mi"
+town_data: "byron-mi"
 ---

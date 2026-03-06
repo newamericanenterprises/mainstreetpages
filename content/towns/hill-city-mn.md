@@ -1,9 +1,7 @@
 ---
-title: "Hill City, Minnesota Business Directory"
+title: "Hill City, MN Business Directory"
+type: "towns"
 slug: "hill-city-mn"
-town: "Hill City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Aitkin"
-population: 2824
+state: "mn"
+town_data: "hill-city-mn"
 ---

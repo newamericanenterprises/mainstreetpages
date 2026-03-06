@@ -1,7 +1,7 @@
 ---
-title: "Meadville, Missouri Business Directory"
+title: "Meadville, MO Business Directory"
+type: "towns"
 slug: "meadville-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "meadville-mo"
 ---

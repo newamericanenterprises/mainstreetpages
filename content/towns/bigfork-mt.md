@@ -1,7 +1,7 @@
 ---
-title: "Bigfork, Montana Business Directory"
+title: "Bigfork, MT Business Directory"
+type: "towns"
 slug: "bigfork-mt"
-state: "MT"
-county: "Flathead"
-population: 4875
+state: "mt"
+town_data: "bigfork-mt"
 ---

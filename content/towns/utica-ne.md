@@ -1,7 +1,7 @@
 ---
-title: "Utica, Nebraska Business Directory"
+title: "Utica, NE Business Directory"
+type: "towns"
 slug: "utica-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "utica-ne"
 ---

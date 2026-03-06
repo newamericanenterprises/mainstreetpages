@@ -1,9 +1,7 @@
 ---
-title: "Harrington, Maine Business Directory"
+title: "Harrington, ME Business Directory"
+type: "towns"
 slug: "harrington-me"
-town: "Harrington"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 851
+state: "me"
+town_data: "harrington-me"
 ---

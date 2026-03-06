@@ -1,9 +1,7 @@
 ---
-title: "Russell Springs, Kansas Business Directory"
+title: "Russell Springs, KS Business Directory"
+type: "towns"
 slug: "russell-springs-ks"
-town: "Russell Springs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Logan"
-population: 2884
+state: "ks"
+town_data: "russell-springs-ks"
 ---

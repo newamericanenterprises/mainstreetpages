@@ -1,9 +1,7 @@
 ---
-title: "Delhi, Iowa Business Directory"
+title: "Delhi, IA Business Directory"
+type: "towns"
 slug: "delhi-ia"
-town: "Delhi"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 1559
+state: "ia"
+town_data: "delhi-ia"
 ---

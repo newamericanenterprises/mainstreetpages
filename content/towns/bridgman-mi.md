@@ -1,9 +1,7 @@
 ---
-title: "Bridgman, Michigan Business Directory"
+title: "Bridgman, MI Business Directory"
+type: "towns"
 slug: "bridgman-mi"
-town: "Bridgman"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 2270
+state: "mi"
+town_data: "bridgman-mi"
 ---

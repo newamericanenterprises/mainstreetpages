@@ -1,9 +1,7 @@
 ---
-title: "Cleveland, Minnesota Business Directory"
+title: "Cleveland, MN Business Directory"
+type: "towns"
 slug: "cleveland-mn"
-town: "Cleveland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 855
+state: "mn"
+town_data: "cleveland-mn"
 ---

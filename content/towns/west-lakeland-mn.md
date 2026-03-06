@@ -1,9 +1,7 @@
 ---
-title: "West Lakeland, Minnesota Business Directory"
+title: "West Lakeland, MN Business Directory"
+type: "towns"
 slug: "west-lakeland-mn"
-town: "West Lakeland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 716
+state: "mn"
+town_data: "west-lakeland-mn"
 ---

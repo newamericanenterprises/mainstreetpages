@@ -1,7 +1,7 @@
 ---
-title: "Greenfield, Missouri Business Directory"
+title: "Greenfield, MO Business Directory"
+type: "towns"
 slug: "greenfield-mo"
-state: "MO"
-county: "Dade"
-population: 1370
+state: "mo"
+town_data: "greenfield-mo"
 ---

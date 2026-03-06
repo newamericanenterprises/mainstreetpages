@@ -1,9 +1,7 @@
 ---
-title: "Ottumwa, Iowa Business Directory"
+title: "Ottumwa, IA Business Directory"
+type: "towns"
 slug: "ottumwa-ia"
-town: "Ottumwa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 24998
+state: "ia"
+town_data: "ottumwa-ia"
 ---

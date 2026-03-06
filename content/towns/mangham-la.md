@@ -1,9 +1,7 @@
 ---
-title: "Mangham, Louisiana Business Directory"
+title: "Mangham, LA Business Directory"
+type: "towns"
 slug: "mangham-la"
-town: "Mangham"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Richland"
-population: 3193
+state: "la"
+town_data: "mangham-la"
 ---

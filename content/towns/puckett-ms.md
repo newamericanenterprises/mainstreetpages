@@ -1,7 +1,7 @@
 ---
-title: "Puckett, Mississippi Business Directory"
+title: "Puckett, MS Business Directory"
+type: "towns"
 slug: "puckett-ms"
-state: "MS"
-county: "Rankin"
-population: 357
+state: "ms"
+town_data: "puckett-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Danville, Kentucky Business Directory"
+title: "Danville, KY Business Directory"
+type: "towns"
 slug: "danville-ky"
-town: "Danville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyle"
-population: 16949
+state: "ky"
+town_data: "danville-ky"
 ---

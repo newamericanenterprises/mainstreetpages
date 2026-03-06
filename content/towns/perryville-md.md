@@ -1,9 +1,7 @@
 ---
-title: "Perryville, Maryland Business Directory"
+title: "Perryville, MD Business Directory"
+type: "towns"
 slug: "perryville-md"
-town: "Perryville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 3842
+state: "md"
+town_data: "perryville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Alton, Kansas Business Directory"
+title: "Alton, KS Business Directory"
+type: "towns"
 slug: "alton-ks"
-town: "Alton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osborne"
-population: 563
+state: "ks"
+town_data: "alton-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rowley, Iowa Business Directory"
+title: "Rowley, IA Business Directory"
+type: "towns"
 slug: "rowley-ia"
-town: "Rowley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2593
+state: "ia"
+town_data: "rowley-ia"
 ---

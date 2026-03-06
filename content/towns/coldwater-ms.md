@@ -1,7 +1,7 @@
 ---
-title: "Coldwater, Mississippi Business Directory"
+title: "Coldwater, MS Business Directory"
+type: "towns"
 slug: "coldwater-ms"
-state: "MS"
-county: "Tate"
-population: 1678
+state: "ms"
+town_data: "coldwater-ms"
 ---

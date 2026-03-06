@@ -1,9 +1,7 @@
 ---
-title: "Glasgow, Kentucky Business Directory"
+title: "Glasgow, KY Business Directory"
+type: "towns"
 slug: "glasgow-ky"
-town: "Glasgow"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Barren"
-population: 14658
+state: "ky"
+town_data: "glasgow-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Luther, Iowa Business Directory"
+title: "Luther, IA Business Directory"
+type: "towns"
 slug: "luther-ia"
-town: "Luther"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 2894
+state: "ia"
+town_data: "luther-ia"
 ---

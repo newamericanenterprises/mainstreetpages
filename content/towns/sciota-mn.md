@@ -1,9 +1,7 @@
 ---
-title: "Sciota, Minnesota Business Directory"
+title: "Sciota, MN Business Directory"
+type: "towns"
 slug: "sciota-mn"
-town: "Sciota"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 1422
+state: "mn"
+town_data: "sciota-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Chanhassen, Minnesota Business Directory"
+title: "Chanhassen, MN Business Directory"
+type: "towns"
 slug: "chanhassen-mn"
-town: "Chanhassen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 27021
+state: "mn"
+town_data: "chanhassen-mn"
 ---

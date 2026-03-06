@@ -1,9 +1,7 @@
 ---
-title: "Germfask, Michigan Business Directory"
+title: "Germfask, MI Business Directory"
+type: "towns"
 slug: "germfask-mi"
-town: "Germfask"
-state: "Michigan"
-state_abbr: "MI"
-county: "Schoolcraft"
-population: 2815
+state: "mi"
+town_data: "germfask-mi"
 ---

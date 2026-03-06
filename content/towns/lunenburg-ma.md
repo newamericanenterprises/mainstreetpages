@@ -1,9 +1,7 @@
 ---
-title: "Lunenburg, Massachusetts Business Directory"
+title: "Lunenburg, MA Business Directory"
+type: "towns"
 slug: "lunenburg-ma"
-town: "Lunenburg"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2237
+state: "ma"
+town_data: "lunenburg-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Harpers Ferry, Iowa Business Directory"
+title: "Harpers Ferry, IA Business Directory"
+type: "towns"
 slug: "harpers-ferry-ia"
-town: "Harpers Ferry"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 1935
+state: "ia"
+town_data: "harpers-ferry-ia"
 ---

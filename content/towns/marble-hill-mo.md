@@ -1,7 +1,7 @@
 ---
-title: "Marble Hill, Missouri Business Directory"
+title: "Marble Hill, MO Business Directory"
+type: "towns"
 slug: "marble-hill-mo"
-state: "MO"
-county: "Bollinger"
-population: 1472
+state: "mo"
+town_data: "marble-hill-mo"
 ---

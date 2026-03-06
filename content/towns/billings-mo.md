@@ -1,7 +1,7 @@
 ---
-title: "Billings, Missouri Business Directory"
+title: "Billings, MO Business Directory"
+type: "towns"
 slug: "billings-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "billings-mo"
 ---

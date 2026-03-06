@@ -1,7 +1,7 @@
 ---
-title: "Clyde Park, Montana Business Directory"
+title: "Clyde Park, MT Business Directory"
+type: "towns"
 slug: "clyde-park-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "clyde-park-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beaver Dam, Kentucky Business Directory"
+title: "Beaver Dam, KY Business Directory"
+type: "towns"
 slug: "beaver-dam-ky"
-town: "Beaver Dam"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ohio"
-population: 3517
+state: "ky"
+town_data: "beaver-dam-ky"
 ---

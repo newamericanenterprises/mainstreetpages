@@ -1,9 +1,7 @@
 ---
-title: "Jackson, Michigan Business Directory"
+title: "Jackson, MI Business Directory"
+type: "towns"
 slug: "jackson-mi"
-town: "Jackson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 31309
+state: "mi"
+town_data: "jackson-mi"
 ---

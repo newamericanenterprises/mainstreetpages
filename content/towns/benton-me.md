@@ -1,9 +1,7 @@
 ---
-title: "Benton, Maine Business Directory"
+title: "Benton, ME Business Directory"
+type: "towns"
 slug: "benton-me"
-town: "Benton"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2384
+state: "me"
+town_data: "benton-me"
 ---

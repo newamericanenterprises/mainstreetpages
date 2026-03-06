@@ -1,9 +1,7 @@
 ---
-title: "Hazel, Kentucky Business Directory"
+title: "Hazel, KY Business Directory"
+type: "towns"
 slug: "hazel-ky"
-town: "Hazel"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Calloway"
-population: 1763
+state: "ky"
+town_data: "hazel-ky"
 ---

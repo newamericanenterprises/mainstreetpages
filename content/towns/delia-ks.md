@@ -1,9 +1,7 @@
 ---
-title: "Delia, Kansas Business Directory"
+title: "Delia, KS Business Directory"
+type: "towns"
 slug: "delia-ks"
-town: "Delia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 1326
+state: "ks"
+town_data: "delia-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fairland, Maryland Business Directory"
+title: "Fairland, MD Business Directory"
+type: "towns"
 slug: "fairland-md"
-town: "Fairland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 1493
+state: "md"
+town_data: "fairland-md"
 ---

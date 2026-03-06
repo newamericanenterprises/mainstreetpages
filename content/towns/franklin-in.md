@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Indiana Business Directory"
+title: "Franklin, IN Business Directory"
+type: "towns"
 slug: "franklin-in"
-town: "Franklin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 26523
+state: "in"
+town_data: "franklin-in"
 ---

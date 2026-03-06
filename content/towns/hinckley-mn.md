@@ -1,9 +1,7 @@
 ---
-title: "Hinckley, Minnesota Business Directory"
+title: "Hinckley, MN Business Directory"
+type: "towns"
 slug: "hinckley-mn"
-town: "Hinckley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 1650
+state: "mn"
+town_data: "hinckley-mn"
 ---

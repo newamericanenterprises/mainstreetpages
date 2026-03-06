@@ -1,9 +1,7 @@
 ---
-title: "Ruthton, Minnesota Business Directory"
+title: "Ruthton, MN Business Directory"
+type: "towns"
 slug: "ruthton-mn"
-town: "Ruthton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 2637
+state: "mn"
+town_data: "ruthton-mn"
 ---

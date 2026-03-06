@@ -1,9 +1,7 @@
 ---
-title: "Hubbardston, Massachusetts Business Directory"
+title: "Hubbardston, MA Business Directory"
+type: "towns"
 slug: "hubbardston-ma"
-town: "Hubbardston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2721
+state: "ma"
+town_data: "hubbardston-ma"
 ---

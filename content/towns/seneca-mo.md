@@ -1,7 +1,7 @@
 ---
-title: "Seneca, Missouri Business Directory"
+title: "Seneca, MO Business Directory"
+type: "towns"
 slug: "seneca-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "seneca-mo"
 ---

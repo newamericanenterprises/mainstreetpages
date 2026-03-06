@@ -1,7 +1,7 @@
 ---
-title: "Broseley, Missouri Business Directory"
+title: "Broseley, MO Business Directory"
+type: "towns"
 slug: "broseley-mo"
-state: "MO"
-county: "Butler"
-population: 1500
+state: "mo"
+town_data: "broseley-mo"
 ---

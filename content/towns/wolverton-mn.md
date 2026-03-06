@@ -1,9 +1,7 @@
 ---
-title: "Wolverton, Minnesota Business Directory"
+title: "Wolverton, MN Business Directory"
+type: "towns"
 slug: "wolverton-mn"
-town: "Wolverton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 2262
+state: "mn"
+town_data: "wolverton-mn"
 ---

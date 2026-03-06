@@ -1,7 +1,7 @@
 ---
-title: "Des Arc, Missouri Business Directory"
+title: "Des Arc, MO Business Directory"
+type: "towns"
 slug: "des-arc-mo"
-state: "MO"
-county: "Iron"
-population: 1500
+state: "mo"
+town_data: "des-arc-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Shelby, Michigan Business Directory"
+title: "Shelby, MI Business Directory"
+type: "towns"
 slug: "shelby-mi"
-town: "Shelby"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 3234
+state: "mi"
+town_data: "shelby-mi"
 ---

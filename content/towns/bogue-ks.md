@@ -1,9 +1,7 @@
 ---
-title: "Bogue, Kansas Business Directory"
+title: "Bogue, KS Business Directory"
+type: "towns"
 slug: "bogue-ks"
-town: "Bogue"
-state: "Kansas"
-state_abbr: "KS"
-county: "Graham"
-population: 2652
+state: "ks"
+town_data: "bogue-ks"
 ---

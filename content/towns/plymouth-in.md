@@ -1,9 +1,7 @@
 ---
-title: "Plymouth, Indiana Business Directory"
+title: "Plymouth, IN Business Directory"
+type: "towns"
 slug: "plymouth-in"
-town: "Plymouth"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 10201
+state: "in"
+town_data: "plymouth-in"
 ---

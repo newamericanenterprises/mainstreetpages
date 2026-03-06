@@ -1,9 +1,7 @@
 ---
-title: "Bancroft, Michigan Business Directory"
+title: "Bancroft, MI Business Directory"
+type: "towns"
 slug: "bancroft-mi"
-town: "Bancroft"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 3120
+state: "mi"
+town_data: "bancroft-mi"
 ---

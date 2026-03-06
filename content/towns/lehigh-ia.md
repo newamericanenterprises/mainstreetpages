@@ -1,9 +1,7 @@
 ---
-title: "Lehigh, Iowa Business Directory"
+title: "Lehigh, IA Business Directory"
+type: "towns"
 slug: "lehigh-ia"
-town: "Lehigh"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1946
+state: "ia"
+town_data: "lehigh-ia"
 ---

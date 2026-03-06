@@ -1,7 +1,7 @@
 ---
-title: "New Bloomfield, Missouri Business Directory"
+title: "New Bloomfield, MO Business Directory"
+type: "towns"
 slug: "new-bloomfield-mo"
-state: "MO"
-county: "Callaway"
-population: 1500
+state: "mo"
+town_data: "new-bloomfield-mo"
 ---

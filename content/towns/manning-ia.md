@@ -1,9 +1,7 @@
 ---
-title: "Manning, Iowa Business Directory"
+title: "Manning, IA Business Directory"
+type: "towns"
 slug: "manning-ia"
-town: "Manning"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 2517
+state: "ia"
+town_data: "manning-ia"
 ---

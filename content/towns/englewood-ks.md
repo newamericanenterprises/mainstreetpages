@@ -1,9 +1,7 @@
 ---
-title: "Englewood, Kansas Business Directory"
+title: "Englewood, KS Business Directory"
+type: "towns"
 slug: "englewood-ks"
-town: "Englewood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clark"
-population: 2249
+state: "ks"
+town_data: "englewood-ks"
 ---

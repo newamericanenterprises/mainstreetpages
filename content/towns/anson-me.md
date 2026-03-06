@@ -1,9 +1,7 @@
 ---
-title: "Anson, Maine Business Directory"
+title: "Anson, ME Business Directory"
+type: "towns"
 slug: "anson-me"
-town: "Anson"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 961
+state: "me"
+town_data: "anson-me"
 ---

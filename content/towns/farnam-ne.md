@@ -1,7 +1,7 @@
 ---
-title: "Farnam, Nebraska Business Directory"
+title: "Farnam, NE Business Directory"
+type: "towns"
 slug: "farnam-ne"
-state: "NE"
-county: "Dawson"
-population: 500
+state: "ne"
+town_data: "farnam-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Winnetoon, Nebraska Business Directory"
+title: "Winnetoon, NE Business Directory"
+type: "towns"
 slug: "winnetoon-ne"
-state: "NE"
-county: "Knox"
-population: 60
+state: "ne"
+town_data: "winnetoon-ne"
 ---

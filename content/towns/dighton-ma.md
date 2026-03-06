@@ -1,9 +1,7 @@
 ---
-title: "Dighton, Massachusetts Business Directory"
+title: "Dighton, MA Business Directory"
+type: "towns"
 slug: "dighton-ma"
-town: "Dighton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 8896
+state: "ma"
+town_data: "dighton-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Magnolia, Mississippi Business Directory"
+title: "Magnolia, MS Business Directory"
+type: "towns"
 slug: "magnolia-ms"
-state: "MS"
-county: "Pike"
-population: 2430
+state: "ms"
+town_data: "magnolia-ms"
 ---

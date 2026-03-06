@@ -1,9 +1,7 @@
 ---
-title: "Bradfordsville, Kentucky Business Directory"
+title: "Bradfordsville, KY Business Directory"
+type: "towns"
 slug: "bradfordsville-ky"
-town: "Bradfordsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marion"
-population: 1522
+state: "ky"
+town_data: "bradfordsville-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Culver, Indiana Business Directory"
+title: "Culver, IN Business Directory"
+type: "towns"
 slug: "culver-in"
-town: "Culver"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 2750
+state: "in"
+town_data: "culver-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Champlin, Minnesota Business Directory"
+title: "Champlin, MN Business Directory"
+type: "towns"
 slug: "champlin-mn"
-town: "Champlin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1096
+state: "mn"
+town_data: "champlin-mn"
 ---

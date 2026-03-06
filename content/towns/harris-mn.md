@@ -1,9 +1,7 @@
 ---
-title: "Harris, Minnesota Business Directory"
+title: "Harris, MN Business Directory"
+type: "towns"
 slug: "harris-mn"
-town: "Harris"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 540
+state: "mn"
+town_data: "harris-mn"
 ---

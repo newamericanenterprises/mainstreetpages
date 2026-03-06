@@ -1,9 +1,7 @@
 ---
-title: "Merryville, Louisiana Business Directory"
+title: "Merryville, LA Business Directory"
+type: "towns"
 slug: "merryville-la"
-town: "Merryville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Beauregard"
-population: 3059
+state: "la"
+town_data: "merryville-la"
 ---

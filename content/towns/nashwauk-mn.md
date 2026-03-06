@@ -1,9 +1,7 @@
 ---
-title: "Nashwauk, Minnesota Business Directory"
+title: "Nashwauk, MN Business Directory"
+type: "towns"
 slug: "nashwauk-mn"
-town: "Nashwauk"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 1338
+state: "mn"
+town_data: "nashwauk-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Laingsburg, Michigan Business Directory"
+title: "Laingsburg, MI Business Directory"
+type: "towns"
 slug: "laingsburg-mi"
-town: "Laingsburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 3628
+state: "mi"
+town_data: "laingsburg-mi"
 ---

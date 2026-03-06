@@ -1,9 +1,7 @@
 ---
-title: "Clemons, Iowa Business Directory"
+title: "Clemons, IA Business Directory"
+type: "towns"
 slug: "clemons-ia"
-town: "Clemons"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1891
+state: "ia"
+town_data: "clemons-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Joseph, Louisiana Business Directory"
+title: "St. Joseph, LA Business Directory"
+type: "towns"
 slug: "st-joseph-la"
-town: "St. Joseph"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tensas"
-population: 330
+state: "la"
+town_data: "st-joseph-la"
 ---

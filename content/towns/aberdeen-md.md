@@ -1,9 +1,7 @@
 ---
-title: "Aberdeen, Maryland Business Directory"
+title: "Aberdeen, MD Business Directory"
+type: "towns"
 slug: "aberdeen-md"
-town: "Aberdeen"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 16232
+state: "md"
+town_data: "aberdeen-md"
 ---

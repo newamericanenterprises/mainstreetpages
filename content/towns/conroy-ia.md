@@ -1,9 +1,7 @@
 ---
-title: "Conroy, Iowa Business Directory"
+title: "Conroy, IA Business Directory"
+type: "towns"
 slug: "conroy-ia"
-town: "Conroy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 3210
+state: "ia"
+town_data: "conroy-ia"
 ---

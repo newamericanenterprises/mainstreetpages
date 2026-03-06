@@ -1,7 +1,7 @@
 ---
-title: "Hartington, Nebraska Business Directory"
+title: "Hartington, NE Business Directory"
+type: "towns"
 slug: "hartington-ne"
-state: "NE"
-county: "Cedar"
-population: 1538
+state: "ne"
+town_data: "hartington-ne"
 ---

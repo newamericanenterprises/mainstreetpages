@@ -1,9 +1,7 @@
 ---
-title: "Waveland, Indiana Business Directory"
+title: "Waveland, IN Business Directory"
+type: "towns"
 slug: "waveland-in"
-town: "Waveland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 4422
+state: "in"
+town_data: "waveland-in"
 ---

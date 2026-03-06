@@ -1,7 +1,7 @@
 ---
-title: "Trenton, Missouri Business Directory"
+title: "Trenton, MO Business Directory"
+type: "towns"
 slug: "trenton-mo"
-state: "MO"
-county: "Grundy"
-population: 5928
+state: "mo"
+town_data: "trenton-mo"
 ---

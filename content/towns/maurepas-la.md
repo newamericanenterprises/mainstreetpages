@@ -1,9 +1,7 @@
 ---
-title: "Maurepas, Louisiana Business Directory"
+title: "Maurepas, LA Business Directory"
+type: "towns"
 slug: "maurepas-la"
-town: "Maurepas"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 2543
+state: "la"
+town_data: "maurepas-la"
 ---

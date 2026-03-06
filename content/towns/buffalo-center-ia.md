@@ -1,9 +1,7 @@
 ---
-title: "Buffalo Center, Iowa Business Directory"
+title: "Buffalo Center, IA Business Directory"
+type: "towns"
 slug: "buffalo-center-ia"
-town: "Buffalo Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 593
+state: "ia"
+town_data: "buffalo-center-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Batesville, Mississippi Business Directory"
+title: "Batesville, MS Business Directory"
+type: "towns"
 slug: "batesville-ms"
-state: "MS"
-county: "Panola"
-population: 7780
+state: "ms"
+town_data: "batesville-ms"
 ---

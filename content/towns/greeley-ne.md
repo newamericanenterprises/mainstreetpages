@@ -1,7 +1,7 @@
 ---
-title: "Greeley, Nebraska Business Directory"
+title: "Greeley, NE Business Directory"
+type: "towns"
 slug: "greeley-ne"
-state: "NE"
-county: "Greeley"
-population: 500
+state: "ne"
+town_data: "greeley-ne"
 ---

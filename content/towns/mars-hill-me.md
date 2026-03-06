@@ -1,9 +1,7 @@
 ---
-title: "Mars Hill, Maine Business Directory"
+title: "Mars Hill, ME Business Directory"
+type: "towns"
 slug: "mars-hill-me"
-town: "Mars Hill"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1441
+state: "me"
+town_data: "mars-hill-me"
 ---

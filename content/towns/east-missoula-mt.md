@@ -1,7 +1,7 @@
 ---
-title: "East Missoula, Montana Business Directory"
+title: "East Missoula, MT Business Directory"
+type: "towns"
 slug: "east-missoula-mt"
-state: "MT"
-county: "Missoula"
-population: 2485
+state: "mt"
+town_data: "east-missoula-mt"
 ---

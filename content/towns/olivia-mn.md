@@ -1,9 +1,7 @@
 ---
-title: "Olivia, Minnesota Business Directory"
+title: "Olivia, MN Business Directory"
+type: "towns"
 slug: "olivia-mn"
-town: "Olivia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 2184
+state: "mn"
+town_data: "olivia-mn"
 ---

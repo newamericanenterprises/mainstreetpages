@@ -1,9 +1,7 @@
 ---
-title: "Princess Anne, Maryland Business Directory"
+title: "Princess Anne, MD Business Directory"
+type: "towns"
 slug: "princess-anne-md"
-town: "Princess Anne"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 3290
+state: "md"
+town_data: "princess-anne-md"
 ---

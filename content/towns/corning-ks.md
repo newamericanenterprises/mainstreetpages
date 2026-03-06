@@ -1,9 +1,7 @@
 ---
-title: "Corning, Kansas Business Directory"
+title: "Corning, KS Business Directory"
+type: "towns"
 slug: "corning-ks"
-town: "Corning"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 2674
+state: "ks"
+town_data: "corning-ks"
 ---

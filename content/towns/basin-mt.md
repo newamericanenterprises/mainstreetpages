@@ -1,7 +1,7 @@
 ---
-title: "Basin, Montana Business Directory"
+title: "Basin, MT Business Directory"
+type: "towns"
 slug: "basin-mt"
-state: "MT"
-county: "Jefferson"
-population: 500
+state: "mt"
+town_data: "basin-mt"
 ---

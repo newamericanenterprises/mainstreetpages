@@ -1,9 +1,7 @@
 ---
-title: "Ottertail, Minnesota Business Directory"
+title: "Ottertail, MN Business Directory"
+type: "towns"
 slug: "ottertail-mn"
-town: "Ottertail"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 2984
+state: "mn"
+town_data: "ottertail-mn"
 ---

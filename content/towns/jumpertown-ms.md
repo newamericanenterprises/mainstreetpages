@@ -1,7 +1,7 @@
 ---
-title: "Jumpertown, Mississippi Business Directory"
+title: "Jumpertown, MS Business Directory"
+type: "towns"
 slug: "jumpertown-ms"
-state: "MS"
-county: "Prentiss"
-population: 442
+state: "ms"
+town_data: "jumpertown-ms"
 ---

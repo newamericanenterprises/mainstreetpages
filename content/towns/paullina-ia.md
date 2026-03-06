@@ -1,9 +1,7 @@
 ---
-title: "Paullina, Iowa Business Directory"
+title: "Paullina, IA Business Directory"
+type: "towns"
 slug: "paullina-ia"
-town: "Paullina"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 1284
+state: "ia"
+town_data: "paullina-ia"
 ---

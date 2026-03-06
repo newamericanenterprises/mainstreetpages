@@ -1,9 +1,7 @@
 ---
-title: "Ashley, Indiana Business Directory"
+title: "Ashley, IN Business Directory"
+type: "towns"
 slug: "ashley-in"
-town: "Ashley"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 530
+state: "in"
+town_data: "ashley-in"
 ---

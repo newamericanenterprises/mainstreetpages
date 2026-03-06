@@ -1,9 +1,7 @@
 ---
-title: "Hollywood, Maryland Business Directory"
+title: "Hollywood, MD Business Directory"
+type: "towns"
 slug: "hollywood-md"
-town: "Hollywood"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 4130
+state: "md"
+town_data: "hollywood-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Warsaw, Indiana Business Directory"
+title: "Warsaw, IN Business Directory"
+type: "towns"
 slug: "warsaw-in"
-town: "Warsaw"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 15804
+state: "in"
+town_data: "warsaw-in"
 ---

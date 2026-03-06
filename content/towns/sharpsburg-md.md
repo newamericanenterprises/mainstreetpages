@@ -1,9 +1,7 @@
 ---
-title: "Sharpsburg, Maryland Business Directory"
+title: "Sharpsburg, MD Business Directory"
+type: "towns"
 slug: "sharpsburg-md"
-town: "Sharpsburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 2550
+state: "md"
+town_data: "sharpsburg-md"
 ---

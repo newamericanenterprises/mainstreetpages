@@ -1,9 +1,7 @@
 ---
-title: "Monroe City, Indiana Business Directory"
+title: "Monroe City, IN Business Directory"
+type: "towns"
 slug: "monroe-city-in"
-town: "Monroe City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 774
+state: "in"
+town_data: "monroe-city-in"
 ---

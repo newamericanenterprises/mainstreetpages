@@ -1,9 +1,7 @@
 ---
-title: "Howard City, Michigan Business Directory"
+title: "Howard City, MI Business Directory"
+type: "towns"
 slug: "howard-city-mi"
-town: "Howard City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 1525
+state: "mi"
+town_data: "howard-city-mi"
 ---

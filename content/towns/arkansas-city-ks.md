@@ -1,9 +1,7 @@
 ---
-title: "Arkansas City, Kansas Business Directory"
+title: "Arkansas City, KS Business Directory"
+type: "towns"
 slug: "arkansas-city-ks"
-town: "Arkansas City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 11974
+state: "ks"
+town_data: "arkansas-city-ks"
 ---

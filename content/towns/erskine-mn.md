@@ -1,9 +1,7 @@
 ---
-title: "Erskine, Minnesota Business Directory"
+title: "Erskine, MN Business Directory"
+type: "towns"
 slug: "erskine-mn"
-town: "Erskine"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 905
+state: "mn"
+town_data: "erskine-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Whittemore, Iowa Business Directory"
+title: "Whittemore, IA Business Directory"
+type: "towns"
 slug: "whittemore-ia"
-town: "Whittemore"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 1310
+state: "ia"
+town_data: "whittemore-ia"
 ---

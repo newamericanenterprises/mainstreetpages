@@ -1,7 +1,7 @@
 ---
-title: "Scott City, Missouri Business Directory"
+title: "Scott City, MO Business Directory"
+type: "towns"
 slug: "scott-city-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 4620
+state: "mo"
+town_data: "scott-city-mo"
 ---

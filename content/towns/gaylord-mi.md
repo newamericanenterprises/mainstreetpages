@@ -1,9 +1,7 @@
 ---
-title: "Gaylord, Michigan Business Directory"
+title: "Gaylord, MI Business Directory"
+type: "towns"
 slug: "gaylord-mi"
-town: "Gaylord"
-state: "Michigan"
-state_abbr: "MI"
-county: "Otsego"
-population: 4166
+state: "mi"
+town_data: "gaylord-mi"
 ---

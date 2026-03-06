@@ -1,9 +1,7 @@
 ---
-title: "West Ocean City, Maryland Business Directory"
+title: "West Ocean City, MD Business Directory"
+type: "towns"
 slug: "west-ocean-city-md"
-town: "West Ocean City"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 2257
+state: "md"
+town_data: "west-ocean-city-md"
 ---

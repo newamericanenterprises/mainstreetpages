@@ -1,9 +1,7 @@
 ---
-title: "Cokato, Minnesota Business Directory"
+title: "Cokato, MN Business Directory"
+type: "towns"
 slug: "cokato-mn"
-town: "Cokato"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 985
+state: "mn"
+town_data: "cokato-mn"
 ---

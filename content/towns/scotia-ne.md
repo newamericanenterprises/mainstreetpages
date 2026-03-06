@@ -1,7 +1,7 @@
 ---
-title: "Scotia, Nebraska Business Directory"
+title: "Scotia, NE Business Directory"
+type: "towns"
 slug: "scotia-ne"
-state: "NE"
-county: "Greeley"
-population: 500
+state: "ne"
+town_data: "scotia-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Potomac Heights, Maryland Business Directory"
+title: "Potomac Heights, MD Business Directory"
+type: "towns"
 slug: "potomac-heights-md"
-town: "Potomac Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 509
+state: "md"
+town_data: "potomac-heights-md"
 ---

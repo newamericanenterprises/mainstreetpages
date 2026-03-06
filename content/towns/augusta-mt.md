@@ -1,7 +1,7 @@
 ---
-title: "Augusta, Montana Business Directory"
+title: "Augusta, MT Business Directory"
+type: "towns"
 slug: "augusta-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 310
+state: "mt"
+town_data: "augusta-mt"
 ---

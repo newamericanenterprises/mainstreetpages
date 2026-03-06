@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Michigan Business Directory"
+title: "Richmond, MI Business Directory"
+type: "towns"
 slug: "richmond-mi"
-town: "Richmond"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 3873
+state: "mi"
+town_data: "richmond-mi"
 ---

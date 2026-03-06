@@ -1,7 +1,7 @@
 ---
-title: "Bunkerville, Nevada Business Directory"
+title: "Bunkerville, NV Business Directory"
+type: "towns"
 slug: "bunkerville-nv"
-state: "NV"
-county: "Clark"
-population: 1288
+state: "nv"
+town_data: "bunkerville-nv"
 ---

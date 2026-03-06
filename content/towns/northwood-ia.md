@@ -1,9 +1,7 @@
 ---
-title: "Northwood, Iowa Business Directory"
+title: "Northwood, IA Business Directory"
+type: "towns"
 slug: "northwood-ia"
-town: "Northwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 1989
+state: "ia"
+town_data: "northwood-ia"
 ---

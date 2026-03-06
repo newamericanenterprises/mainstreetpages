@@ -1,9 +1,7 @@
 ---
-title: "Friendship, Maine Business Directory"
+title: "Friendship, ME Business Directory"
+type: "towns"
 slug: "friendship-me"
-town: "Friendship"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 1430
+state: "me"
+town_data: "friendship-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Reese, Michigan Business Directory"
+title: "Reese, MI Business Directory"
+type: "towns"
 slug: "reese-mi"
-town: "Reese"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 2400
+state: "mi"
+town_data: "reese-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Syracuse, Kansas Business Directory"
+title: "Syracuse, KS Business Directory"
+type: "towns"
 slug: "syracuse-ks"
-town: "Syracuse"
-state: "Kansas"
-state_abbr: "KS"
-county: "Hamilton"
-population: 1812
+state: "ks"
+town_data: "syracuse-ks"
 ---

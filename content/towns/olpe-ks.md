@@ -1,9 +1,7 @@
 ---
-title: "Olpe, Kansas Business Directory"
+title: "Olpe, KS Business Directory"
+type: "towns"
 slug: "olpe-ks"
-town: "Olpe"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 2000
+state: "ks"
+town_data: "olpe-ks"
 ---

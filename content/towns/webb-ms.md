@@ -1,7 +1,7 @@
 ---
-title: "Webb, Mississippi Business Directory"
+title: "Webb, MS Business Directory"
+type: "towns"
 slug: "webb-ms"
-state: "MS"
-county: "Tallahatchie"
-population: 425
+state: "ms"
+town_data: "webb-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Waverly, Iowa Business Directory"
+title: "Waverly, IA Business Directory"
+type: "towns"
 slug: "waverly-ia"
-town: "Waverly"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 10254
+state: "ia"
+town_data: "waverly-ia"
 ---

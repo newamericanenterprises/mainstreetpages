@@ -1,7 +1,7 @@
 ---
-title: "Petal, Mississippi Business Directory"
+title: "Petal, MS Business Directory"
+type: "towns"
 slug: "petal-ms"
-state: "MS"
-county: "Forrest"
-population: 10796
+state: "ms"
+town_data: "petal-ms"
 ---

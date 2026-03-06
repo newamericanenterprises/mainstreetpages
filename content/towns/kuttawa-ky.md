@@ -1,9 +1,7 @@
 ---
-title: "Kuttawa, Kentucky Business Directory"
+title: "Kuttawa, KY Business Directory"
+type: "towns"
 slug: "kuttawa-ky"
-town: "Kuttawa"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lyon"
-population: 2914
+state: "ky"
+town_data: "kuttawa-ky"
 ---

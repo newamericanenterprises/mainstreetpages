@@ -1,9 +1,7 @@
 ---
-title: "LaCenter, Kentucky Business Directory"
+title: "LaCenter, KY Business Directory"
+type: "towns"
 slug: "lacenter-ky"
-town: "LaCenter"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ballard"
-population: 1013
+state: "ky"
+town_data: "lacenter-ky"
 ---

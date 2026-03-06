@@ -1,9 +1,7 @@
 ---
-title: "Guilford, Maine Business Directory"
+title: "Guilford, ME Business Directory"
+type: "towns"
 slug: "guilford-me"
-town: "Guilford"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1436
+state: "me"
+town_data: "guilford-me"
 ---

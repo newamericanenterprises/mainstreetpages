@@ -1,7 +1,7 @@
 ---
-title: "Stoutland, Missouri Business Directory"
+title: "Stoutland, MO Business Directory"
+type: "towns"
 slug: "stoutland-mo"
-state: "MO"
-county: "Camden"
-population: 1500
+state: "mo"
+town_data: "stoutland-mo"
 ---

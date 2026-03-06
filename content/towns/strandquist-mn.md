@@ -1,9 +1,7 @@
 ---
-title: "Strandquist, Minnesota Business Directory"
+title: "Strandquist, MN Business Directory"
+type: "towns"
 slug: "strandquist-mn"
-town: "Strandquist"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Marshall"
-population: 1691
+state: "mn"
+town_data: "strandquist-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grundy Center, Iowa Business Directory"
+title: "Grundy Center, IA Business Directory"
+type: "towns"
 slug: "grundy-center-ia"
-town: "Grundy Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 1027
+state: "ia"
+town_data: "grundy-center-ia"
 ---

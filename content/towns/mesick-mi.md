@@ -1,9 +1,7 @@
 ---
-title: "Mesick, Michigan Business Directory"
+title: "Mesick, MI Business Directory"
+type: "towns"
 slug: "mesick-mi"
-town: "Mesick"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wexford"
-population: 3481
+state: "mi"
+town_data: "mesick-mi"
 ---

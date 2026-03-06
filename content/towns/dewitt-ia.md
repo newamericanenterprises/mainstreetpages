@@ -1,9 +1,7 @@
 ---
-title: "DeWitt, Iowa Business Directory"
+title: "DeWitt, IA Business Directory"
+type: "towns"
 slug: "dewitt-ia"
-town: "DeWitt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 1641
+state: "ia"
+town_data: "dewitt-ia"
 ---

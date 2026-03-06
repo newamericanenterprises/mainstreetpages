@@ -1,9 +1,7 @@
 ---
-title: "Coopersville, Michigan Business Directory"
+title: "Coopersville, MI Business Directory"
+type: "towns"
 slug: "coopersville-mi"
-town: "Coopersville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 4576
+state: "mi"
+town_data: "coopersville-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Liberal, Missouri Business Directory"
+title: "Liberal, MO Business Directory"
+type: "towns"
 slug: "liberal-mo"
-state: "MO"
-county: "Barton"
-population: 1500
+state: "mo"
+town_data: "liberal-mo"
 ---

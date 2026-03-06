@@ -1,9 +1,7 @@
 ---
-title: "Round Lake, Minnesota Business Directory"
+title: "Round Lake, MN Business Directory"
+type: "towns"
 slug: "round-lake-mn"
-town: "Round Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 2528
+state: "mn"
+town_data: "round-lake-mn"
 ---

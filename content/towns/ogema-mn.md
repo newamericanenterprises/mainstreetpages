@@ -1,9 +1,7 @@
 ---
-title: "Ogema, Minnesota Business Directory"
+title: "Ogema, MN Business Directory"
+type: "towns"
 slug: "ogema-mn"
-town: "Ogema"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 923
+state: "mn"
+town_data: "ogema-mn"
 ---

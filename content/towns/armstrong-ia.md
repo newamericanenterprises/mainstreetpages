@@ -1,9 +1,7 @@
 ---
-title: "Armstrong, Iowa Business Directory"
+title: "Armstrong, IA Business Directory"
+type: "towns"
 slug: "armstrong-ia"
-town: "Armstrong"
-state: "Iowa"
-state_abbr: "IA"
-county: "Emmet"
-population: 875
+state: "ia"
+town_data: "armstrong-ia"
 ---

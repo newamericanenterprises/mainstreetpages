@@ -1,9 +1,7 @@
 ---
-title: "Elwood, Indiana Business Directory"
+title: "Elwood, IN Business Directory"
+type: "towns"
 slug: "elwood-in"
-town: "Elwood"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 8449
+state: "in"
+town_data: "elwood-in"
 ---

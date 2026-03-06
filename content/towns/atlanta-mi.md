@@ -1,9 +1,7 @@
 ---
-title: "Atlanta, Michigan Business Directory"
+title: "Atlanta, MI Business Directory"
+type: "towns"
 slug: "atlanta-mi"
-town: "Atlanta"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montmorency"
-population: 1124
+state: "mi"
+town_data: "atlanta-mi"
 ---

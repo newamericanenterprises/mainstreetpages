@@ -1,7 +1,7 @@
 ---
-title: "Gloster, Mississippi Business Directory"
+title: "Gloster, MS Business Directory"
+type: "towns"
 slug: "gloster-ms"
-state: "MS"
-county: "Amite"
-population: 869
+state: "ms"
+town_data: "gloster-ms"
 ---

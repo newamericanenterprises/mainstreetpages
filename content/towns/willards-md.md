@@ -1,9 +1,7 @@
 ---
-title: "Willards, Maryland Business Directory"
+title: "Willards, MD Business Directory"
+type: "towns"
 slug: "willards-md"
-town: "Willards"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 1428
+state: "md"
+town_data: "willards-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Savage, Minnesota Business Directory"
+title: "Savage, MN Business Directory"
+type: "towns"
 slug: "savage-mn"
-town: "Savage"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 33421
+state: "mn"
+town_data: "savage-mn"
 ---

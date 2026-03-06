@@ -1,9 +1,7 @@
 ---
-title: "Gilbertsville, Kentucky Business Directory"
+title: "Gilbertsville, KY Business Directory"
+type: "towns"
 slug: "gilbertsville-ky"
-town: "Gilbertsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marshall"
-population: 384
+state: "ky"
+town_data: "gilbertsville-ky"
 ---

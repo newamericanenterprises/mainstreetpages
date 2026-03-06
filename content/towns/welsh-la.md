@@ -1,9 +1,7 @@
 ---
-title: "Welsh, Louisiana Business Directory"
+title: "Welsh, LA Business Directory"
+type: "towns"
 slug: "welsh-la"
-town: "Welsh"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson Davis"
-population: 3226
+state: "la"
+town_data: "welsh-la"
 ---

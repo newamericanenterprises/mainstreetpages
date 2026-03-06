@@ -1,9 +1,7 @@
 ---
-title: "Rangeley, Maine Business Directory"
+title: "Rangeley, ME Business Directory"
+type: "towns"
 slug: "rangeley-me"
-town: "Rangeley"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1168
+state: "me"
+town_data: "rangeley-me"
 ---

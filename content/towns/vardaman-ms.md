@@ -1,7 +1,7 @@
 ---
-title: "Vardaman, Mississippi Business Directory"
+title: "Vardaman, MS Business Directory"
+type: "towns"
 slug: "vardaman-ms"
-state: "MS"
-county: "Calhoun"
-population: 1285
+state: "ms"
+town_data: "vardaman-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Toccopola, Mississippi Business Directory"
+title: "Toccopola, MS Business Directory"
+type: "towns"
 slug: "toccopola-ms"
-state: "MS"
-county: "Pontotoc"
-population: 185
+state: "ms"
+town_data: "toccopola-ms"
 ---

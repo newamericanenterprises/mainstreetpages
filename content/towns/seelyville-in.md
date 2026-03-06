@@ -1,9 +1,7 @@
 ---
-title: "Seelyville, Indiana Business Directory"
+title: "Seelyville, IN Business Directory"
+type: "towns"
 slug: "seelyville-in"
-town: "Seelyville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vigo"
-population: 1260
+state: "in"
+town_data: "seelyville-in"
 ---

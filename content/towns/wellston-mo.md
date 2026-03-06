@@ -1,7 +1,7 @@
 ---
-title: "Wellston, Missouri Business Directory"
+title: "Wellston, MO Business Directory"
+type: "towns"
 slug: "wellston-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "wellston-mo"
 ---

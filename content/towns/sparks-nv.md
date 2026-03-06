@@ -1,7 +1,7 @@
 ---
-title: "Sparks, Nevada Business Directory"
+title: "Sparks, NV Business Directory"
+type: "towns"
 slug: "sparks-nv"
-state: "NV"
-county: "Washoe"
-population: 108445
+state: "nv"
+town_data: "sparks-nv"
 ---

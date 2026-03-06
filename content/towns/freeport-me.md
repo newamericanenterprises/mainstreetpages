@@ -1,9 +1,7 @@
 ---
-title: "Freeport, Maine Business Directory"
+title: "Freeport, ME Business Directory"
+type: "towns"
 slug: "freeport-me"
-town: "Freeport"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 8574
+state: "me"
+town_data: "freeport-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grawn, Michigan Business Directory"
+title: "Grawn, MI Business Directory"
+type: "towns"
 slug: "grawn-mi"
-town: "Grawn"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 5344
+state: "mi"
+town_data: "grawn-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mahtomedi, Minnesota Business Directory"
+title: "Mahtomedi, MN Business Directory"
+type: "towns"
 slug: "mahtomedi-mn"
-town: "Mahtomedi"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2473
+state: "mn"
+town_data: "mahtomedi-mn"
 ---

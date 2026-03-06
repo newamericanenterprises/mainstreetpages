@@ -1,9 +1,7 @@
 ---
-title: "McHenry, Maryland Business Directory"
+title: "McHenry, MD Business Directory"
+type: "towns"
 slug: "mchenry-md"
-town: "McHenry"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 5028
+state: "md"
+town_data: "mchenry-md"
 ---

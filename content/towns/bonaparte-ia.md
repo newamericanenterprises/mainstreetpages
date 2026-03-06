@@ -1,9 +1,7 @@
 ---
-title: "Bonaparte, Iowa Business Directory"
+title: "Bonaparte, IA Business Directory"
+type: "towns"
 slug: "bonaparte-ia"
-town: "Bonaparte"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 765
+state: "ia"
+town_data: "bonaparte-ia"
 ---

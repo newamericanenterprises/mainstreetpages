@@ -1,9 +1,7 @@
 ---
-title: "Goshen, Massachusetts Business Directory"
+title: "Goshen, MA Business Directory"
+type: "towns"
 slug: "goshen-ma"
-town: "Goshen"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 7033
+state: "ma"
+town_data: "goshen-ma"
 ---

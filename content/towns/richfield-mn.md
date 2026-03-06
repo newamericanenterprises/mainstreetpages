@@ -1,9 +1,7 @@
 ---
-title: "Richfield, Minnesota Business Directory"
+title: "Richfield, MN Business Directory"
+type: "towns"
 slug: "richfield-mn"
-town: "Richfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 36994
+state: "mn"
+town_data: "richfield-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fairview, Kansas Business Directory"
+title: "Fairview, KS Business Directory"
+type: "towns"
 slug: "fairview-ks"
-town: "Fairview"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 1477
+state: "ks"
+town_data: "fairview-ks"
 ---

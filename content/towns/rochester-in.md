@@ -1,9 +1,7 @@
 ---
-title: "Rochester, Indiana Business Directory"
+title: "Rochester, IN Business Directory"
+type: "towns"
 slug: "rochester-in"
-town: "Rochester"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fulton"
-population: 6171
+state: "in"
+town_data: "rochester-in"
 ---

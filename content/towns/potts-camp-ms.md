@@ -1,7 +1,7 @@
 ---
-title: "Potts Camp, Mississippi Business Directory"
+title: "Potts Camp, MS Business Directory"
+type: "towns"
 slug: "potts-camp-ms"
-state: "MS"
-county: "Marshall"
-population: 530
+state: "ms"
+town_data: "potts-camp-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Walters, Minnesota Business Directory"
+title: "Walters, MN Business Directory"
+type: "towns"
 slug: "walters-mn"
-town: "Walters"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 712
+state: "mn"
+town_data: "walters-mn"
 ---

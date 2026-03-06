@@ -1,9 +1,7 @@
 ---
-title: "Norway, Iowa Business Directory"
+title: "Norway, IA Business Directory"
+type: "towns"
 slug: "norway-ia"
-town: "Norway"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 834
+state: "ia"
+town_data: "norway-ia"
 ---

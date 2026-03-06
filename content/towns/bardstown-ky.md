@@ -1,9 +1,7 @@
 ---
-title: "Bardstown, Kentucky Business Directory"
+title: "Bardstown, KY Business Directory"
+type: "towns"
 slug: "bardstown-ky"
-town: "Bardstown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Nelson"
-population: 13530
+state: "ky"
+town_data: "bardstown-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bennington, Kansas Business Directory"
+title: "Bennington, KS Business Directory"
+type: "towns"
 slug: "bennington-ks"
-town: "Bennington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 2051
+state: "ks"
+town_data: "bennington-ks"
 ---

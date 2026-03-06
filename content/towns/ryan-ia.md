@@ -1,9 +1,7 @@
 ---
-title: "Ryan, Iowa Business Directory"
+title: "Ryan, IA Business Directory"
+type: "towns"
 slug: "ryan-ia"
-town: "Ryan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 2931
+state: "ia"
+town_data: "ryan-ia"
 ---

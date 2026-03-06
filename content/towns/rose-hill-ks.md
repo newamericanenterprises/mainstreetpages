@@ -1,9 +1,7 @@
 ---
-title: "Rose Hill, Kansas Business Directory"
+title: "Rose Hill, KS Business Directory"
+type: "towns"
 slug: "rose-hill-ks"
-town: "Rose Hill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 2898
+state: "ks"
+town_data: "rose-hill-ks"
 ---

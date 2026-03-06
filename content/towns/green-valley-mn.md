@@ -1,9 +1,7 @@
 ---
-title: "Green Valley, Minnesota Business Directory"
+title: "Green Valley, MN Business Directory"
+type: "towns"
 slug: "green-valley-mn"
-town: "Green Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 1505
+state: "mn"
+town_data: "green-valley-mn"
 ---

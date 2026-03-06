@@ -1,9 +1,7 @@
 ---
-title: "Brooklin, Maine Business Directory"
+title: "Brooklin, ME Business Directory"
+type: "towns"
 slug: "brooklin-me"
-town: "Brooklin"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2525
+state: "me"
+town_data: "brooklin-me"
 ---

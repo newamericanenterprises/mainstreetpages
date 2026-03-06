@@ -1,9 +1,7 @@
 ---
-title: "Hickman, Kentucky Business Directory"
+title: "Hickman, KY Business Directory"
+type: "towns"
 slug: "hickman-ky"
-town: "Hickman"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Fulton"
-population: 2117
+state: "ky"
+town_data: "hickman-ky"
 ---

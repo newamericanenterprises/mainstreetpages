@@ -1,9 +1,7 @@
 ---
-title: "Nappanee, Indiana Business Directory"
+title: "Nappanee, IN Business Directory"
+type: "towns"
 slug: "nappanee-in"
-town: "Nappanee"
-state: "Indiana"
-state_abbr: "IN"
-county: "Elkhart"
-population: 6648
+state: "in"
+town_data: "nappanee-in"
 ---

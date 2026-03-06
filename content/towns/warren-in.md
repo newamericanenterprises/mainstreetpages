@@ -1,9 +1,7 @@
 ---
-title: "Warren, Indiana Business Directory"
+title: "Warren, IN Business Directory"
+type: "towns"
 slug: "warren-in"
-town: "Warren"
-state: "Indiana"
-state_abbr: "IN"
-county: "Huntington"
-population: 1540
+state: "in"
+town_data: "warren-in"
 ---

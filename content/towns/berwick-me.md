@@ -1,9 +1,7 @@
 ---
-title: "Berwick, Maine Business Directory"
+title: "Berwick, ME Business Directory"
+type: "towns"
 slug: "berwick-me"
-town: "Berwick"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 7860
+state: "me"
+town_data: "berwick-me"
 ---

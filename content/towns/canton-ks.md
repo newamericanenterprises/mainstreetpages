@@ -1,9 +1,7 @@
 ---
-title: "Canton, Kansas Business Directory"
+title: "Canton, KS Business Directory"
+type: "towns"
 slug: "canton-ks"
-town: "Canton"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 2295
+state: "ks"
+town_data: "canton-ks"
 ---

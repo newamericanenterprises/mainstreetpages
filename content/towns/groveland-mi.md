@@ -1,9 +1,7 @@
 ---
-title: "Groveland, Michigan Business Directory"
+title: "Groveland, MI Business Directory"
+type: "towns"
 slug: "groveland-mi"
-town: "Groveland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 5445
+state: "mi"
+town_data: "groveland-mi"
 ---

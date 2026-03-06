@@ -1,7 +1,7 @@
 ---
-title: "Clarksburg, Missouri Business Directory"
+title: "Clarksburg, MO Business Directory"
+type: "towns"
 slug: "clarksburg-mo"
-state: "MO"
-county: "Moniteau"
-population: 1500
+state: "mo"
+town_data: "clarksburg-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Westbrook, Minnesota Business Directory"
+title: "Westbrook, MN Business Directory"
+type: "towns"
 slug: "westbrook-mn"
-town: "Westbrook"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 2983
+state: "mn"
+town_data: "westbrook-mn"
 ---

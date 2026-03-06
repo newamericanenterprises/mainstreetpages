@@ -1,7 +1,7 @@
 ---
-title: "Edmundson, Missouri Business Directory"
+title: "Edmundson, MO Business Directory"
+type: "towns"
 slug: "edmundson-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "edmundson-mo"
 ---

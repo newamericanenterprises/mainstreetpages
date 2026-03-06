@@ -1,9 +1,7 @@
 ---
-title: "Reading, Minnesota Business Directory"
+title: "Reading, MN Business Directory"
+type: "towns"
 slug: "reading-mn"
-town: "Reading"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 401
+state: "mn"
+town_data: "reading-mn"
 ---

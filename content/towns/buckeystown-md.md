@@ -1,9 +1,7 @@
 ---
-title: "Buckeystown, Maryland Business Directory"
+title: "Buckeystown, MD Business Directory"
+type: "towns"
 slug: "buckeystown-md"
-town: "Buckeystown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 950
+state: "md"
+town_data: "buckeystown-md"
 ---

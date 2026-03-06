@@ -1,9 +1,7 @@
 ---
-title: "Garden City, Kansas Business Directory"
+title: "Garden City, KS Business Directory"
+type: "towns"
 slug: "garden-city-ks"
-town: "Garden City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Finney"
-population: 28451
+state: "ks"
+town_data: "garden-city-ks"
 ---

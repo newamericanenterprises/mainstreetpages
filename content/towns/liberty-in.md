@@ -1,9 +1,7 @@
 ---
-title: "Liberty, Indiana Business Directory"
+title: "Liberty, IN Business Directory"
+type: "towns"
 slug: "liberty-in"
-town: "Liberty"
-state: "Indiana"
-state_abbr: "IN"
-county: "Union"
-population: 1962
+state: "in"
+town_data: "liberty-in"
 ---

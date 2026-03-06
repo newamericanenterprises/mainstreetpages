@@ -1,9 +1,7 @@
 ---
-title: "Ida, Louisiana Business Directory"
+title: "Ida, LA Business Directory"
+type: "towns"
 slug: "ida-la"
-town: "Ida"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 1191
+state: "la"
+town_data: "ida-la"
 ---

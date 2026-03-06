@@ -1,9 +1,7 @@
 ---
-title: "McMillan, Michigan Business Directory"
+title: "McMillan, MI Business Directory"
+type: "towns"
 slug: "mcmillan-mi"
-town: "McMillan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Luce"
-population: 3674
+state: "mi"
+town_data: "mcmillan-mi"
 ---

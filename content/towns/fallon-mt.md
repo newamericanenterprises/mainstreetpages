@@ -1,7 +1,7 @@
 ---
-title: "Fallon, Montana Business Directory"
+title: "Fallon, MT Business Directory"
+type: "towns"
 slug: "fallon-mt"
-state: "MT"
-county: "Prairie"
-population: 500
+state: "mt"
+town_data: "fallon-mt"
 ---

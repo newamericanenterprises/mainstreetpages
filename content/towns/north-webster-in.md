@@ -1,9 +1,7 @@
 ---
-title: "North Webster, Indiana Business Directory"
+title: "North Webster, IN Business Directory"
+type: "towns"
 slug: "north-webster-in"
-town: "North Webster"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 812
+state: "in"
+town_data: "north-webster-in"
 ---

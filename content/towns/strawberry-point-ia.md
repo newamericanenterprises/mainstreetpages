@@ -1,9 +1,7 @@
 ---
-title: "Strawberry Point, Iowa Business Directory"
+title: "Strawberry Point, IA Business Directory"
+type: "towns"
 slug: "strawberry-point-ia"
-town: "Strawberry Point"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 2191
+state: "ia"
+town_data: "strawberry-point-ia"
 ---

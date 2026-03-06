@@ -1,9 +1,7 @@
 ---
-title: "Wathena, Kansas Business Directory"
+title: "Wathena, KS Business Directory"
+type: "towns"
 slug: "wathena-ks"
-town: "Wathena"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 1605
+state: "ks"
+town_data: "wathena-ks"
 ---

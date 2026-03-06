@@ -1,9 +1,7 @@
 ---
-title: "College Springs, Iowa Business Directory"
+title: "College Springs, IA Business Directory"
+type: "towns"
 slug: "college-springs-ia"
-town: "College Springs"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 2824
+state: "ia"
+town_data: "college-springs-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Eden, Mississippi Business Directory"
+title: "Eden, MS Business Directory"
+type: "towns"
 slug: "eden-ms"
-state: "MS"
-county: "Yazoo"
-population: 1500
+state: "ms"
+town_data: "eden-ms"
 ---

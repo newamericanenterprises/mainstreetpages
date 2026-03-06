@@ -1,7 +1,7 @@
 ---
-title: "Pawnee City, Nebraska Business Directory"
+title: "Pawnee City, NE Business Directory"
+type: "towns"
 slug: "pawnee-city-ne"
-state: "NE"
-county: "Pawnee"
-population: 823
+state: "ne"
+town_data: "pawnee-city-ne"
 ---

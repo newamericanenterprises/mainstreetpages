@@ -1,9 +1,7 @@
 ---
-title: "Kingston, Michigan Business Directory"
+title: "Kingston, MI Business Directory"
+type: "towns"
 slug: "kingston-mi"
-town: "Kingston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 5482
+state: "mi"
+town_data: "kingston-mi"
 ---

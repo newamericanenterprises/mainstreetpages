@@ -1,7 +1,7 @@
 ---
-title: "Fair Play, Missouri Business Directory"
+title: "Fair Play, MO Business Directory"
+type: "towns"
 slug: "fair-play-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "fair-play-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Shively, Kentucky Business Directory"
+title: "Shively, KY Business Directory"
+type: "towns"
 slug: "shively-ky"
-town: "Shively"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 15369
+state: "ky"
+town_data: "shively-ky"
 ---

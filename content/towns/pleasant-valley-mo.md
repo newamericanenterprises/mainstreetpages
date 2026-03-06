@@ -1,7 +1,7 @@
 ---
-title: "Pleasant Valley, Missouri Business Directory"
+title: "Pleasant Valley, MO Business Directory"
+type: "towns"
 slug: "pleasant-valley-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "pleasant-valley-mo"
 ---

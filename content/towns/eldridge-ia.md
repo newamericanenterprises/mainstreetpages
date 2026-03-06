@@ -1,9 +1,7 @@
 ---
-title: "Eldridge, Iowa Business Directory"
+title: "Eldridge, IA Business Directory"
+type: "towns"
 slug: "eldridge-ia"
-town: "Eldridge"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 3275
+state: "ia"
+town_data: "eldridge-ia"
 ---

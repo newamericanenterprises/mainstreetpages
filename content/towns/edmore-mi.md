@@ -1,9 +1,7 @@
 ---
-title: "Edmore, Michigan Business Directory"
+title: "Edmore, MI Business Directory"
+type: "towns"
 slug: "edmore-mi"
-town: "Edmore"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 5056
+state: "mi"
+town_data: "edmore-mi"
 ---

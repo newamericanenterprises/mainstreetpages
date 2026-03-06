@@ -1,9 +1,7 @@
 ---
-title: "Dafter, Michigan Business Directory"
+title: "Dafter, MI Business Directory"
+type: "towns"
 slug: "dafter-mi"
-town: "Dafter"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 3653
+state: "mi"
+town_data: "dafter-mi"
 ---

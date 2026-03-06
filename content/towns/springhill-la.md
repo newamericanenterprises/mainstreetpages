@@ -1,9 +1,7 @@
 ---
-title: "Springhill, Louisiana Business Directory"
+title: "Springhill, LA Business Directory"
+type: "towns"
 slug: "springhill-la"
-town: "Springhill"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 5031
+state: "la"
+town_data: "springhill-la"
 ---

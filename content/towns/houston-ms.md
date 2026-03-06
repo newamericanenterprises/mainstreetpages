@@ -1,7 +1,7 @@
 ---
-title: "Houston, Mississippi Business Directory"
+title: "Houston, MS Business Directory"
+type: "towns"
 slug: "houston-ms"
-state: "MS"
-county: "Chickasaw"
-population: 3823
+state: "ms"
+town_data: "houston-ms"
 ---

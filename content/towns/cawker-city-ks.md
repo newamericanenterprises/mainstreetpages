@@ -1,9 +1,7 @@
 ---
-title: "Cawker City, Kansas Business Directory"
+title: "Cawker City, KS Business Directory"
+type: "towns"
 slug: "cawker-city-ks"
-town: "Cawker City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 2448
+state: "ks"
+town_data: "cawker-city-ks"
 ---

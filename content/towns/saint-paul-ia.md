@@ -1,9 +1,7 @@
 ---
-title: "Saint Paul, Iowa Business Directory"
+title: "Saint Paul, IA Business Directory"
+type: "towns"
 slug: "saint-paul-ia"
-town: "Saint Paul"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 2991
+state: "ia"
+town_data: "saint-paul-ia"
 ---

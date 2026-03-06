@@ -1,9 +1,7 @@
 ---
-title: "Kensett, Iowa Business Directory"
+title: "Kensett, IA Business Directory"
+type: "towns"
 slug: "kensett-ia"
-town: "Kensett"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 3023
+state: "ia"
+town_data: "kensett-ia"
 ---

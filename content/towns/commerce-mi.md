@@ -1,9 +1,7 @@
 ---
-title: "Commerce, Michigan Business Directory"
+title: "Commerce, MI Business Directory"
+type: "towns"
 slug: "commerce-mi"
-town: "Commerce"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3905
+state: "mi"
+town_data: "commerce-mi"
 ---

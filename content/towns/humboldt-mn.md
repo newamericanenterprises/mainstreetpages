@@ -1,9 +1,7 @@
 ---
-title: "Humboldt, Minnesota Business Directory"
+title: "Humboldt, MN Business Directory"
+type: "towns"
 slug: "humboldt-mn"
-town: "Humboldt"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 731
+state: "mn"
+town_data: "humboldt-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Carthage, Missouri Business Directory"
+title: "Carthage, MO Business Directory"
+type: "towns"
 slug: "carthage-mo"
-state: "MO"
-county: "Jasper"
-population: 14491
+state: "mo"
+town_data: "carthage-mo"
 ---

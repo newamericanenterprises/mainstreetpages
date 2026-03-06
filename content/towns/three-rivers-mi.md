@@ -1,9 +1,7 @@
 ---
-title: "Three Rivers, Michigan Business Directory"
+title: "Three Rivers, MI Business Directory"
+type: "towns"
 slug: "three-rivers-mi"
-town: "Three Rivers"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 7817
+state: "mi"
+town_data: "three-rivers-mi"
 ---

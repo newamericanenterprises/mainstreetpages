@@ -1,9 +1,7 @@
 ---
-title: "Shafer, Minnesota Business Directory"
+title: "Shafer, MN Business Directory"
+type: "towns"
 slug: "shafer-mn"
-town: "Shafer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 2922
+state: "mn"
+town_data: "shafer-mn"
 ---

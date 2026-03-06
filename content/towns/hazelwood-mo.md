@@ -1,7 +1,7 @@
 ---
-title: "Hazelwood, Missouri Business Directory"
+title: "Hazelwood, MO Business Directory"
+type: "towns"
 slug: "hazelwood-mo"
-state: "MO"
-county: "St. Louis"
-population: 25703
+state: "mo"
+town_data: "hazelwood-mo"
 ---

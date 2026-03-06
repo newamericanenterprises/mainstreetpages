@@ -1,9 +1,7 @@
 ---
-title: "Mora, Minnesota Business Directory"
+title: "Mora, MN Business Directory"
+type: "towns"
 slug: "mora-mn"
-town: "Mora"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kanabec"
-population: 3571
+state: "mn"
+town_data: "mora-mn"
 ---

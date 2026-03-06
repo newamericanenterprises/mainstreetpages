@@ -1,7 +1,7 @@
 ---
-title: "Osyka, Mississippi Business Directory"
+title: "Osyka, MS Business Directory"
+type: "towns"
 slug: "osyka-ms"
-state: "MS"
-county: "Pike"
-population: 414
+state: "ms"
+town_data: "osyka-ms"
 ---

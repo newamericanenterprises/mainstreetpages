@@ -1,9 +1,7 @@
 ---
-title: "Transylvania, Louisiana Business Directory"
+title: "Transylvania, LA Business Directory"
+type: "towns"
 slug: "transylvania-la"
-town: "Transylvania"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Carroll"
-population: 1445
+state: "la"
+town_data: "transylvania-la"
 ---

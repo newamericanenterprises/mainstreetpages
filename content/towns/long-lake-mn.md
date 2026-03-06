@@ -1,9 +1,7 @@
 ---
-title: "Long Lake, Minnesota Business Directory"
+title: "Long Lake, MN Business Directory"
+type: "towns"
 slug: "long-lake-mn"
-town: "Long Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2302
+state: "mn"
+town_data: "long-lake-mn"
 ---

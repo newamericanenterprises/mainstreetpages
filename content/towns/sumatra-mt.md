@@ -1,7 +1,7 @@
 ---
-title: "Sumatra, Montana Business Directory"
+title: "Sumatra, MT Business Directory"
+type: "towns"
 slug: "sumatra-mt"
-state: "MT"
-county: "Rosebud"
-population: 500
+state: "mt"
+town_data: "sumatra-mt"
 ---

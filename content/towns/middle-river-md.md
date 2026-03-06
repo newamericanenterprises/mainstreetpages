@@ -1,9 +1,7 @@
 ---
-title: "Middle River, Maryland Business Directory"
+title: "Middle River, MD Business Directory"
+type: "towns"
 slug: "middle-river-md"
-town: "Middle River"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 4222
+state: "md"
+town_data: "middle-river-md"
 ---

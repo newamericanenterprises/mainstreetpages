@@ -1,9 +1,7 @@
 ---
-title: "Greensburg, Indiana Business Directory"
+title: "Greensburg, IN Business Directory"
+type: "towns"
 slug: "greensburg-in"
-town: "Greensburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 2589
+state: "in"
+town_data: "greensburg-in"
 ---

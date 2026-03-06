@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Indiana Business Directory"
+title: "Georgetown, IN Business Directory"
+type: "towns"
 slug: "georgetown-in"
-town: "Georgetown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Floyd"
-population: 4053
+state: "in"
+town_data: "georgetown-in"
 ---

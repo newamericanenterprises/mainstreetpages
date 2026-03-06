@@ -1,7 +1,7 @@
 ---
-title: "Chillicothe, Missouri Business Directory"
+title: "Chillicothe, MO Business Directory"
+type: "towns"
 slug: "chillicothe-mo"
-state: "MO"
-county: "Livingston"
-population: 9515
+state: "mo"
+town_data: "chillicothe-mo"
 ---

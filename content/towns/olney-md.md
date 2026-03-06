@@ -1,9 +1,7 @@
 ---
-title: "Olney, Maryland Business Directory"
+title: "Olney, MD Business Directory"
+type: "towns"
 slug: "olney-md"
-town: "Olney"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 35350
+state: "md"
+town_data: "olney-md"
 ---

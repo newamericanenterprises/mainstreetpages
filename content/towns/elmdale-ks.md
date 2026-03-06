@@ -1,9 +1,7 @@
 ---
-title: "Elmdale, Kansas Business Directory"
+title: "Elmdale, KS Business Directory"
+type: "towns"
 slug: "elmdale-ks"
-town: "Elmdale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chase"
-population: 1116
+state: "ks"
+town_data: "elmdale-ks"
 ---

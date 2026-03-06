@@ -1,9 +1,7 @@
 ---
-title: "Dresden, Kansas Business Directory"
+title: "Dresden, KS Business Directory"
+type: "towns"
 slug: "dresden-ks"
-town: "Dresden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Decatur"
-population: 529
+state: "ks"
+town_data: "dresden-ks"
 ---

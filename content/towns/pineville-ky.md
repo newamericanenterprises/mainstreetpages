@@ -1,9 +1,7 @@
 ---
-title: "Pineville, Kentucky Business Directory"
+title: "Pineville, KY Business Directory"
+type: "towns"
 slug: "pineville-ky"
-town: "Pineville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bell"
-population: 3138
+state: "ky"
+town_data: "pineville-ky"
 ---

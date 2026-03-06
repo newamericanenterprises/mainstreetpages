@@ -1,9 +1,7 @@
 ---
-title: "Hersey, Michigan Business Directory"
+title: "Hersey, MI Business Directory"
+type: "towns"
 slug: "hersey-mi"
-town: "Hersey"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 4684
+state: "mi"
+town_data: "hersey-mi"
 ---

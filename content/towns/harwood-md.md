@@ -1,9 +1,7 @@
 ---
-title: "Harwood, Maryland Business Directory"
+title: "Harwood, MD Business Directory"
+type: "towns"
 slug: "harwood-md"
-town: "Harwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 4185
+state: "md"
+town_data: "harwood-md"
 ---

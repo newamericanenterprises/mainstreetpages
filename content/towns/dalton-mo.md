@@ -1,7 +1,7 @@
 ---
-title: "Dalton, Missouri Business Directory"
+title: "Dalton, MO Business Directory"
+type: "towns"
 slug: "dalton-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "dalton-mo"
 ---

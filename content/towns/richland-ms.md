@@ -1,7 +1,7 @@
 ---
-title: "Richland, Mississippi Business Directory"
+title: "Richland, MS Business Directory"
+type: "towns"
 slug: "richland-ms"
-state: "MS"
-county: "Rankin"
-population: 7361
+state: "ms"
+town_data: "richland-ms"
 ---

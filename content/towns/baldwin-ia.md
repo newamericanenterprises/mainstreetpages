@@ -1,9 +1,7 @@
 ---
-title: "Baldwin, Iowa Business Directory"
+title: "Baldwin, IA Business Directory"
+type: "towns"
 slug: "baldwin-ia"
-town: "Baldwin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 522
+state: "ia"
+town_data: "baldwin-ia"
 ---

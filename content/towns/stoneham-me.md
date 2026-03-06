@@ -1,9 +1,7 @@
 ---
-title: "Stoneham, Maine Business Directory"
+title: "Stoneham, ME Business Directory"
+type: "towns"
 slug: "stoneham-me"
-town: "Stoneham"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 522
+state: "me"
+town_data: "stoneham-me"
 ---

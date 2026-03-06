@@ -1,9 +1,7 @@
 ---
-title: "Middleton, Michigan Business Directory"
+title: "Middleton, MI Business Directory"
+type: "towns"
 slug: "middleton-mi"
-town: "Middleton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 4921
+state: "mi"
+town_data: "middleton-mi"
 ---

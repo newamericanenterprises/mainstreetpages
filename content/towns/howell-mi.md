@@ -1,9 +1,7 @@
 ---
-title: "Howell, Michigan Business Directory"
+title: "Howell, MI Business Directory"
+type: "towns"
 slug: "howell-mi"
-town: "Howell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 9489
+state: "mi"
+town_data: "howell-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Alvord, Iowa Business Directory"
+title: "Alvord, IA Business Directory"
+type: "towns"
 slug: "alvord-ia"
-town: "Alvord"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 2524
+state: "ia"
+town_data: "alvord-ia"
 ---

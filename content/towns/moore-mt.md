@@ -1,7 +1,7 @@
 ---
-title: "Moore, Montana Business Directory"
+title: "Moore, MT Business Directory"
+type: "towns"
 slug: "moore-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "moore-mt"
 ---

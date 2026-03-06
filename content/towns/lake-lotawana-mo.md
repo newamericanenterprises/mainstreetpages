@@ -1,7 +1,7 @@
 ---
-title: "Lake Lotawana, Missouri Business Directory"
+title: "Lake Lotawana, MO Business Directory"
+type: "towns"
 slug: "lake-lotawana-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "lake-lotawana-mo"
 ---

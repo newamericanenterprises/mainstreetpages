@@ -1,7 +1,7 @@
 ---
-title: "Shickley, Nebraska Business Directory"
+title: "Shickley, NE Business Directory"
+type: "towns"
 slug: "shickley-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "shickley-ne"
 ---

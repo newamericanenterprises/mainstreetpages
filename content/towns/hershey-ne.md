@@ -1,7 +1,7 @@
 ---
-title: "Hershey, Nebraska Business Directory"
+title: "Hershey, NE Business Directory"
+type: "towns"
 slug: "hershey-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "hershey-ne"
 ---

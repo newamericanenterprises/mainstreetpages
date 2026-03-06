@@ -1,7 +1,7 @@
 ---
-title: "Holly Springs, Mississippi Business Directory"
+title: "Holly Springs, MS Business Directory"
+type: "towns"
 slug: "holly-springs-ms"
-state: "MS"
-county: "Marshall"
-population: 7699
+state: "ms"
+town_data: "holly-springs-ms"
 ---

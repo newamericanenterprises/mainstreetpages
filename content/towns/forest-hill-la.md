@@ -1,9 +1,7 @@
 ---
-title: "Forest Hill, Louisiana Business Directory"
+title: "Forest Hill, LA Business Directory"
+type: "towns"
 slug: "forest-hill-la"
-town: "Forest Hill"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 2355
+state: "la"
+town_data: "forest-hill-la"
 ---

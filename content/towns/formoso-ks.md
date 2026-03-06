@@ -1,9 +1,7 @@
 ---
-title: "Formoso, Kansas Business Directory"
+title: "Formoso, KS Business Directory"
+type: "towns"
 slug: "formoso-ks"
-town: "Formoso"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 2094
+state: "ks"
+town_data: "formoso-ks"
 ---

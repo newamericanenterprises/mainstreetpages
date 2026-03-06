@@ -1,7 +1,7 @@
 ---
-title: "Sunflower, Mississippi Business Directory"
+title: "Sunflower, MS Business Directory"
+type: "towns"
 slug: "sunflower-ms"
-state: "MS"
-county: "Sunflower"
-population: 452
+state: "ms"
+town_data: "sunflower-ms"
 ---

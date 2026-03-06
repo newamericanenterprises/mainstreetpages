@@ -1,9 +1,7 @@
 ---
-title: "Provencal, Louisiana Business Directory"
+title: "Provencal, LA Business Directory"
+type: "towns"
 slug: "provencal-la"
-town: "Provencal"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 905
+state: "la"
+town_data: "provencal-la"
 ---

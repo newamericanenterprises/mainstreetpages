@@ -1,9 +1,7 @@
 ---
-title: "Readfield, Maine Business Directory"
+title: "Readfield, ME Business Directory"
+type: "towns"
 slug: "readfield-me"
-town: "Readfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1435
+state: "me"
+town_data: "readfield-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Whitetail, Montana Business Directory"
+title: "Whitetail, MT Business Directory"
+type: "towns"
 slug: "whitetail-mt"
-state: "MT"
-county: "Daniels"
-population: 500
+state: "mt"
+town_data: "whitetail-mt"
 ---

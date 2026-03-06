@@ -1,9 +1,7 @@
 ---
-title: "Mauckport, Indiana Business Directory"
+title: "Mauckport, IN Business Directory"
+type: "towns"
 slug: "mauckport-in"
-town: "Mauckport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 4989
+state: "in"
+town_data: "mauckport-in"
 ---

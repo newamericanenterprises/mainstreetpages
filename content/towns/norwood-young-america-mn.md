@@ -1,9 +1,7 @@
 ---
-title: "Norwood Young America, Minnesota Business Directory"
+title: "Norwood Young America, MN Business Directory"
+type: "towns"
 slug: "norwood-young-america-mn"
-town: "Norwood Young America"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 2211
+state: "mn"
+town_data: "norwood-young-america-mn"
 ---

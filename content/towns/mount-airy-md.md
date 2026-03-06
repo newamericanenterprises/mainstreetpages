@@ -1,9 +1,7 @@
 ---
-title: "Mount Airy, Maryland Business Directory"
+title: "Mount Airy, MD Business Directory"
+type: "towns"
 slug: "mount-airy-md"
-town: "Mount Airy"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 3764
+state: "md"
+town_data: "mount-airy-md"
 ---

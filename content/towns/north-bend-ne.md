@@ -1,7 +1,7 @@
 ---
-title: "North Bend, Nebraska Business Directory"
+title: "North Bend, NE Business Directory"
+type: "towns"
 slug: "north-bend-ne"
-state: "NE"
-county: "Dodge"
-population: 1227
+state: "ne"
+town_data: "north-bend-ne"
 ---

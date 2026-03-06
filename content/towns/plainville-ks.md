@@ -1,9 +1,7 @@
 ---
-title: "Plainville, Kansas Business Directory"
+title: "Plainville, KS Business Directory"
+type: "towns"
 slug: "plainville-ks"
-town: "Plainville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 382
+state: "ks"
+town_data: "plainville-ks"
 ---

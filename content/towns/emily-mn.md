@@ -1,9 +1,7 @@
 ---
-title: "Emily, Minnesota Business Directory"
+title: "Emily, MN Business Directory"
+type: "towns"
 slug: "emily-mn"
-town: "Emily"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1465
+state: "mn"
+town_data: "emily-mn"
 ---

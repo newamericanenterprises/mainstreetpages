@@ -1,9 +1,7 @@
 ---
-title: "Edgerton, Minnesota Business Directory"
+title: "Edgerton, MN Business Directory"
+type: "towns"
 slug: "edgerton-mn"
-town: "Edgerton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 1237
+state: "mn"
+town_data: "edgerton-mn"
 ---

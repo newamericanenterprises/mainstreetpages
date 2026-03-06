@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Minnesota Business Directory"
+title: "Franklin, MN Business Directory"
+type: "towns"
 slug: "franklin-mn"
-town: "Franklin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 544
+state: "mn"
+town_data: "franklin-mn"
 ---

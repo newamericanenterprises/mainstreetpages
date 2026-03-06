@@ -1,7 +1,7 @@
 ---
-title: "Winfield, Missouri Business Directory"
+title: "Winfield, MO Business Directory"
+type: "towns"
 slug: "winfield-mo"
-state: "MO"
-county: "Lincoln"
-population: 1500
+state: "mo"
+town_data: "winfield-mo"
 ---

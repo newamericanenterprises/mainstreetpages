@@ -1,9 +1,7 @@
 ---
-title: "Vesta, Minnesota Business Directory"
+title: "Vesta, MN Business Directory"
+type: "towns"
 slug: "vesta-mn"
-town: "Vesta"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 1888
+state: "mn"
+town_data: "vesta-mn"
 ---

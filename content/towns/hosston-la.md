@@ -1,9 +1,7 @@
 ---
-title: "Hosston, Louisiana Business Directory"
+title: "Hosston, LA Business Directory"
+type: "towns"
 slug: "hosston-la"
-town: "Hosston"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 3079
+state: "la"
+town_data: "hosston-la"
 ---

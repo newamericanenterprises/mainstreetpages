@@ -1,7 +1,7 @@
 ---
-title: "Russellville, Missouri Business Directory"
+title: "Russellville, MO Business Directory"
+type: "towns"
 slug: "russellville-mo"
-state: "MO"
-county: "Cole"
-population: 1500
+state: "mo"
+town_data: "russellville-mo"
 ---

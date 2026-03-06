@@ -1,9 +1,7 @@
 ---
-title: "Deep River, Iowa Business Directory"
+title: "Deep River, IA Business Directory"
+type: "towns"
 slug: "deep-river-ia"
-town: "Deep River"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 2433
+state: "ia"
+town_data: "deep-river-ia"
 ---

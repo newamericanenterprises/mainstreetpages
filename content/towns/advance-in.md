@@ -1,9 +1,7 @@
 ---
-title: "Advance, Indiana Business Directory"
+title: "Advance, IN Business Directory"
+type: "towns"
 slug: "advance-in"
-town: "Advance"
-state: "Indiana"
-state_abbr: "IN"
-county: "Boone"
-population: 3859
+state: "in"
+town_data: "advance-in"
 ---

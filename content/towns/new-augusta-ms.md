@@ -1,7 +1,7 @@
 ---
-title: "New Augusta, Mississippi Business Directory"
+title: "New Augusta, MS Business Directory"
+type: "towns"
 slug: "new-augusta-ms"
-state: "MS"
-county: "Perry"
-population: 636
+state: "ms"
+town_data: "new-augusta-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Watertown Township, Minnesota Business Directory"
+title: "Watertown Township, MN Business Directory"
+type: "towns"
 slug: "watertown-township-mn"
-town: "Watertown Township"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1758
+state: "mn"
+town_data: "watertown-township-mn"
 ---

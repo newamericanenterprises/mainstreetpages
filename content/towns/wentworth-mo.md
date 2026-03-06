@@ -1,7 +1,7 @@
 ---
-title: "Wentworth, Missouri Business Directory"
+title: "Wentworth, MO Business Directory"
+type: "towns"
 slug: "wentworth-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "wentworth-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Kilgore, Nebraska Business Directory"
+title: "Kilgore, NE Business Directory"
+type: "towns"
 slug: "kilgore-ne"
-state: "NE"
-county: "Cherry"
-population: 500
+state: "ne"
+town_data: "kilgore-ne"
 ---

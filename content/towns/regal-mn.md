@@ -1,9 +1,7 @@
 ---
-title: "Regal, Minnesota Business Directory"
+title: "Regal, MN Business Directory"
+type: "towns"
 slug: "regal-mn"
-town: "Regal"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1050
+state: "mn"
+town_data: "regal-mn"
 ---

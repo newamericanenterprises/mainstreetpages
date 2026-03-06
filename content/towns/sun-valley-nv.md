@@ -1,7 +1,7 @@
 ---
-title: "Sun Valley, Nevada Business Directory"
+title: "Sun Valley, NV Business Directory"
+type: "towns"
 slug: "sun-valley-nv"
-state: "NV"
-county: "Washoe"
-population: 22622
+state: "nv"
+town_data: "sun-valley-nv"
 ---

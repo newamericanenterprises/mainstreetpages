@@ -1,9 +1,7 @@
 ---
-title: "Brooks, Minnesota Business Directory"
+title: "Brooks, MN Business Directory"
+type: "towns"
 slug: "brooks-mn"
-town: "Brooks"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Red Lake"
-population: 3170
+state: "mn"
+town_data: "brooks-mn"
 ---

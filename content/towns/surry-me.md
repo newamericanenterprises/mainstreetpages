@@ -1,9 +1,7 @@
 ---
-title: "Surry, Maine Business Directory"
+title: "Surry, ME Business Directory"
+type: "towns"
 slug: "surry-me"
-town: "Surry"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1160
+state: "me"
+town_data: "surry-me"
 ---

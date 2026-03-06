@@ -1,9 +1,7 @@
 ---
-title: "Inwood, Iowa Business Directory"
+title: "Inwood, IA Business Directory"
+type: "towns"
 slug: "inwood-ia"
-town: "Inwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 606
+state: "ia"
+town_data: "inwood-ia"
 ---

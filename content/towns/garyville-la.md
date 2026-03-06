@@ -1,9 +1,7 @@
 ---
-title: "Garyville, Louisiana Business Directory"
+title: "Garyville, LA Business Directory"
+type: "towns"
 slug: "garyville-la"
-town: "Garyville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. John the Baptist"
-population: 440
+state: "la"
+town_data: "garyville-la"
 ---

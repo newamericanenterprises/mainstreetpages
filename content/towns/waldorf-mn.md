@@ -1,9 +1,7 @@
 ---
-title: "Waldorf, Minnesota Business Directory"
+title: "Waldorf, MN Business Directory"
+type: "towns"
 slug: "waldorf-mn"
-town: "Waldorf"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Waseca"
-population: 2679
+state: "mn"
+town_data: "waldorf-mn"
 ---

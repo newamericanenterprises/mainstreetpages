@@ -1,7 +1,7 @@
 ---
-title: "Genoa, Nevada Business Directory"
+title: "Genoa, NV Business Directory"
+type: "towns"
 slug: "genoa-nv"
-state: "NV"
-county: "Douglas"
-population: 935
+state: "nv"
+town_data: "genoa-nv"
 ---

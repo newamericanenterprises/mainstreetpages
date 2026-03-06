@@ -1,7 +1,7 @@
 ---
-title: "David City, Nebraska Business Directory"
+title: "David City, NE Business Directory"
+type: "towns"
 slug: "david-city-ne"
-state: "NE"
-county: "Butler"
-population: 2906
+state: "ne"
+town_data: "david-city-ne"
 ---

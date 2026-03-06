@@ -1,7 +1,7 @@
 ---
-title: "Waverly, Missouri Business Directory"
+title: "Waverly, MO Business Directory"
+type: "towns"
 slug: "waverly-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "waverly-mo"
 ---

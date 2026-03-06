@@ -1,7 +1,7 @@
 ---
-title: "Waterbury, Nebraska Business Directory"
+title: "Waterbury, NE Business Directory"
+type: "towns"
 slug: "waterbury-ne"
-state: "NE"
-county: "Dixon"
-population: 61
+state: "ne"
+town_data: "waterbury-ne"
 ---

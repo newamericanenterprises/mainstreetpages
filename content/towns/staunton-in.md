@@ -1,9 +1,7 @@
 ---
-title: "Staunton, Indiana Business Directory"
+title: "Staunton, IN Business Directory"
+type: "towns"
 slug: "staunton-in"
-town: "Staunton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 805
+state: "in"
+town_data: "staunton-in"
 ---

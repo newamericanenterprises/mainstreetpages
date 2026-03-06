@@ -1,9 +1,7 @@
 ---
-title: "St. Joseph, Minnesota Business Directory"
+title: "St. Joseph, MN Business Directory"
+type: "towns"
 slug: "st-joseph-mn"
-town: "St. Joseph"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 3114
+state: "mn"
+town_data: "st-joseph-mn"
 ---

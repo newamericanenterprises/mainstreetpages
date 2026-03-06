@@ -1,9 +1,7 @@
 ---
-title: "Harvard, Massachusetts Business Directory"
+title: "Harvard, MA Business Directory"
+type: "towns"
 slug: "harvard-ma"
-town: "Harvard"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5986
+state: "ma"
+town_data: "harvard-ma"
 ---

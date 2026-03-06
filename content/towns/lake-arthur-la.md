@@ -1,9 +1,7 @@
 ---
-title: "Lake Arthur, Louisiana Business Directory"
+title: "Lake Arthur, LA Business Directory"
+type: "towns"
 slug: "lake-arthur-la"
-town: "Lake Arthur"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson Davis"
-population: 1969
+state: "la"
+town_data: "lake-arthur-la"
 ---

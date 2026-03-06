@@ -1,9 +1,7 @@
 ---
-title: "Otwell, Indiana Business Directory"
+title: "Otwell, IN Business Directory"
+type: "towns"
 slug: "otwell-in"
-town: "Otwell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pike"
-population: 3096
+state: "in"
+town_data: "otwell-in"
 ---

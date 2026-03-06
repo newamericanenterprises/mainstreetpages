@@ -1,9 +1,7 @@
 ---
-title: "Sloan, Iowa Business Directory"
+title: "Sloan, IA Business Directory"
+type: "towns"
 slug: "sloan-ia"
-town: "Sloan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 2071
+state: "ia"
+town_data: "sloan-ia"
 ---

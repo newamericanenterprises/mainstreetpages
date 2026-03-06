@@ -1,7 +1,7 @@
 ---
-title: "Ryegate, Montana Business Directory"
+title: "Ryegate, MT Business Directory"
+type: "towns"
 slug: "ryegate-mt"
-state: "MT"
-county: "Golden Valley"
-population: 500
+state: "mt"
+town_data: "ryegate-mt"
 ---

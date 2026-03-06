@@ -1,9 +1,7 @@
 ---
-title: "Brookston, Indiana Business Directory"
+title: "Brookston, IN Business Directory"
+type: "towns"
 slug: "brookston-in"
-town: "Brookston"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 1078
+state: "in"
+town_data: "brookston-in"
 ---

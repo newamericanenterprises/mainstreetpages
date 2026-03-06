@@ -1,9 +1,7 @@
 ---
-title: "Straughn, Indiana Business Directory"
+title: "Straughn, IN Business Directory"
+type: "towns"
 slug: "straughn-in"
-town: "Straughn"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 4528
+state: "in"
+town_data: "straughn-in"
 ---

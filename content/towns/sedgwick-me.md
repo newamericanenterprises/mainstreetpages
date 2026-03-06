@@ -1,9 +1,7 @@
 ---
-title: "Sedgwick, Maine Business Directory"
+title: "Sedgwick, ME Business Directory"
+type: "towns"
 slug: "sedgwick-me"
-town: "Sedgwick"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1499
+state: "me"
+town_data: "sedgwick-me"
 ---

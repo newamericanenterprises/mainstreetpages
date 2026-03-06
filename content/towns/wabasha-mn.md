@@ -1,9 +1,7 @@
 ---
-title: "Wabasha, Minnesota Business Directory"
+title: "Wabasha, MN Business Directory"
+type: "towns"
 slug: "wabasha-mn"
-town: "Wabasha"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 2521
+state: "mn"
+town_data: "wabasha-mn"
 ---

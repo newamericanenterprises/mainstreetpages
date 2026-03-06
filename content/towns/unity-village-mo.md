@@ -1,7 +1,7 @@
 ---
-title: "Unity Village, Missouri Business Directory"
+title: "Unity Village, MO Business Directory"
+type: "towns"
 slug: "unity-village-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "unity-village-mo"
 ---

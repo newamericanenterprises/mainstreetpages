@@ -1,9 +1,7 @@
 ---
-title: "Manter, Kansas Business Directory"
+title: "Manter, KS Business Directory"
+type: "towns"
 slug: "manter-ks"
-town: "Manter"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stanton"
-population: 2506
+state: "ks"
+town_data: "manter-ks"
 ---

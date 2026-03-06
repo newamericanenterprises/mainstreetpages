@@ -1,9 +1,7 @@
 ---
-title: "Sylvan Lake, Michigan Business Directory"
+title: "Sylvan Lake, MI Business Directory"
+type: "towns"
 slug: "sylvan-lake-mi"
-town: "Sylvan Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2162
+state: "mi"
+town_data: "sylvan-lake-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lebanon, Kansas Business Directory"
+title: "Lebanon, KS Business Directory"
+type: "towns"
 slug: "lebanon-ks"
-town: "Lebanon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Smith"
-population: 411
+state: "ks"
+town_data: "lebanon-ks"
 ---

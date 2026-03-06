@@ -1,9 +1,7 @@
 ---
-title: "Elkhorn, Kentucky Business Directory"
+title: "Elkhorn, KY Business Directory"
+type: "towns"
 slug: "elkhorn-ky"
-town: "Elkhorn"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Taylor"
-population: 1340
+state: "ky"
+town_data: "elkhorn-ky"
 ---

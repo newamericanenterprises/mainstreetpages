@@ -1,9 +1,7 @@
 ---
-title: "Ada, Kansas Business Directory"
+title: "Ada, KS Business Directory"
+type: "towns"
 slug: "ada-ks"
-town: "Ada"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 565
+state: "ks"
+town_data: "ada-ks"
 ---

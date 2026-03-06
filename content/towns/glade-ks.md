@@ -1,9 +1,7 @@
 ---
-title: "Glade, Kansas Business Directory"
+title: "Glade, KS Business Directory"
+type: "towns"
 slug: "glade-ks"
-town: "Glade"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 2113
+state: "ks"
+town_data: "glade-ks"
 ---

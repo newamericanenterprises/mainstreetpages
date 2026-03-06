@@ -1,9 +1,7 @@
 ---
-title: "Bethesda, Maryland Business Directory"
+title: "Bethesda, MD Business Directory"
+type: "towns"
 slug: "bethesda-md"
-town: "Bethesda"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 65313
+state: "md"
+town_data: "bethesda-md"
 ---

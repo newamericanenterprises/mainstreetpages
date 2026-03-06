@@ -1,7 +1,7 @@
 ---
-title: "Glenaire, Missouri Business Directory"
+title: "Glenaire, MO Business Directory"
+type: "towns"
 slug: "glenaire-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "glenaire-mo"
 ---

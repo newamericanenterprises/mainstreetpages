@@ -1,7 +1,7 @@
 ---
-title: "O'Neill, Nebraska Business Directory"
+title: "Oneill, NE Business Directory"
+type: "towns"
 slug: "oneill-ne"
-state: "NE"
-county: "Holt"
-population: 3705
+state: "ne"
+town_data: "oneill-ne"
 ---

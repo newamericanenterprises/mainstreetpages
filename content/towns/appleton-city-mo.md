@@ -1,7 +1,7 @@
 ---
-title: "Appleton City, Missouri Business Directory"
+title: "Appleton City, MO Business Directory"
+type: "towns"
 slug: "appleton-city-mo"
-state: "MO"
-county: "St. Clair"
-population: 1500
+state: "mo"
+town_data: "appleton-city-mo"
 ---

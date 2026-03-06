@@ -1,9 +1,7 @@
 ---
-title: "New Gloucester, Maine Business Directory"
+title: "New Gloucester, ME Business Directory"
+type: "towns"
 slug: "new-gloucester-me"
-town: "New Gloucester"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 429
+state: "me"
+town_data: "new-gloucester-me"
 ---

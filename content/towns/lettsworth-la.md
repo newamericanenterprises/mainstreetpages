@@ -1,9 +1,7 @@
 ---
-title: "Lettsworth, Louisiana Business Directory"
+title: "Lettsworth, LA Business Directory"
+type: "towns"
 slug: "lettsworth-la"
-town: "Lettsworth"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 1965
+state: "la"
+town_data: "lettsworth-la"
 ---

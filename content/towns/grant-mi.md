@@ -1,9 +1,7 @@
 ---
-title: "Grant, Michigan Business Directory"
+title: "Grant, MI Business Directory"
+type: "towns"
 slug: "grant-mi"
-town: "Grant"
-state: "Michigan"
-state_abbr: "MI"
-county: "Newaygo"
-population: 1062
+state: "mi"
+town_data: "grant-mi"
 ---

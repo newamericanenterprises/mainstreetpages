@@ -1,9 +1,7 @@
 ---
-title: "Bentley, Kansas Business Directory"
+title: "Bentley, KS Business Directory"
+type: "towns"
 slug: "bentley-ks"
-town: "Bentley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 2322
+state: "ks"
+town_data: "bentley-ks"
 ---

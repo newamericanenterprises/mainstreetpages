@@ -1,9 +1,7 @@
 ---
-title: "Dunstable, Massachusetts Business Directory"
+title: "Dunstable, MA Business Directory"
+type: "towns"
 slug: "dunstable-ma"
-town: "Dunstable"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 6380
+state: "ma"
+town_data: "dunstable-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Basile, Louisiana Business Directory"
+title: "Basile, LA Business Directory"
+type: "towns"
 slug: "basile-la"
-town: "Basile"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Evangeline"
-population: 3221
+state: "la"
+town_data: "basile-la"
 ---

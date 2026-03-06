@@ -1,9 +1,7 @@
 ---
-title: "Wenham, Massachusetts Business Directory"
+title: "Wenham, MA Business Directory"
+type: "towns"
 slug: "wenham-ma"
-town: "Wenham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 6205
+state: "ma"
+town_data: "wenham-ma"
 ---

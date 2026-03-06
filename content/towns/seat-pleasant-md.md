@@ -1,9 +1,7 @@
 ---
-title: "Seat Pleasant, Maryland Business Directory"
+title: "Seat Pleasant, MD Business Directory"
+type: "towns"
 slug: "seat-pleasant-md"
-town: "Seat Pleasant"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2170
+state: "md"
+town_data: "seat-pleasant-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Heron, Montana Business Directory"
+title: "Heron, MT Business Directory"
+type: "towns"
 slug: "heron-mt"
-state: "MT"
-county: "Sanders"
-population: 500
+state: "mt"
+town_data: "heron-mt"
 ---

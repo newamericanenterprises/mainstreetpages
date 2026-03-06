@@ -1,9 +1,7 @@
 ---
-title: "Clarksville, Maryland Business Directory"
+title: "Clarksville, MD Business Directory"
+type: "towns"
 slug: "clarksville-md"
-town: "Clarksville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 2436
+state: "md"
+town_data: "clarksville-md"
 ---

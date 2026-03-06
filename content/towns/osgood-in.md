@@ -1,9 +1,7 @@
 ---
-title: "Osgood, Indiana Business Directory"
+title: "Osgood, IN Business Directory"
+type: "towns"
 slug: "osgood-in"
-town: "Osgood"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 1685
+state: "in"
+town_data: "osgood-in"
 ---

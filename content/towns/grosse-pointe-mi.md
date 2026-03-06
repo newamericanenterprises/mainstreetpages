@@ -1,9 +1,7 @@
 ---
-title: "Grosse Pointe, Michigan Business Directory"
+title: "Grosse Pointe, MI Business Directory"
+type: "towns"
 slug: "grosse-pointe-mi"
-town: "Grosse Pointe"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3337
+state: "mi"
+town_data: "grosse-pointe-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sellersburg, Indiana Business Directory"
+title: "Sellersburg, IN Business Directory"
+type: "towns"
 slug: "sellersburg-in"
-town: "Sellersburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clark"
-population: 3964
+state: "in"
+town_data: "sellersburg-in"
 ---

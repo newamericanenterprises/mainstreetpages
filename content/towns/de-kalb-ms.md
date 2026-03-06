@@ -1,7 +1,7 @@
 ---
-title: "De Kalb, Mississippi Business Directory"
+title: "De Kalb, MS Business Directory"
+type: "towns"
 slug: "de-kalb-ms"
-state: "MS"
-county: "Kemper"
-population: 1026
+state: "ms"
+town_data: "de-kalb-ms"
 ---

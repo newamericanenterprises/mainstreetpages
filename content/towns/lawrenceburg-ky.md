@@ -1,9 +1,7 @@
 ---
-title: "Lawrenceburg, Kentucky Business Directory"
+title: "Lawrenceburg, KY Business Directory"
+type: "towns"
 slug: "lawrenceburg-ky"
-town: "Lawrenceburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Anderson"
-population: 11292
+state: "ky"
+town_data: "lawrenceburg-ky"
 ---

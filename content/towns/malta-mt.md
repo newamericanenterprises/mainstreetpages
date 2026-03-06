@@ -1,7 +1,7 @@
 ---
-title: "Malta, Montana Business Directory"
+title: "Malta, MT Business Directory"
+type: "towns"
 slug: "malta-mt"
-state: "MT"
-county: "Phillips"
-population: 1896
+state: "mt"
+town_data: "malta-mt"
 ---

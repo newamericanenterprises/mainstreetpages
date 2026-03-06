@@ -1,9 +1,7 @@
 ---
-title: "Corinth, Kentucky Business Directory"
+title: "Corinth, KY Business Directory"
+type: "towns"
 slug: "corinth-ky"
-town: "Corinth"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grant"
-population: 1286
+state: "ky"
+town_data: "corinth-ky"
 ---

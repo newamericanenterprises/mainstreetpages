@@ -1,9 +1,7 @@
 ---
-title: "Louisburg, Minnesota Business Directory"
+title: "Louisburg, MN Business Directory"
+type: "towns"
 slug: "louisburg-mn"
-town: "Louisburg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 2330
+state: "mn"
+town_data: "louisburg-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Patton, Missouri Business Directory"
+title: "Patton, MO Business Directory"
+type: "towns"
 slug: "patton-mo"
-state: "MO"
-county: "Bollinger"
-population: 291
+state: "mo"
+town_data: "patton-mo"
 ---

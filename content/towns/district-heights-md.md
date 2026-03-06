@@ -1,9 +1,7 @@
 ---
-title: "District Heights, Maryland Business Directory"
+title: "District Heights, MD Business Directory"
+type: "towns"
 slug: "district-heights-md"
-town: "District Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 796
+state: "md"
+town_data: "district-heights-md"
 ---

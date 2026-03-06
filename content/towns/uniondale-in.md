@@ -1,9 +1,7 @@
 ---
-title: "Uniondale, Indiana Business Directory"
+title: "Uniondale, IN Business Directory"
+type: "towns"
 slug: "uniondale-in"
-town: "Uniondale"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 1369
+state: "in"
+town_data: "uniondale-in"
 ---

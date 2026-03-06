@@ -1,9 +1,7 @@
 ---
-title: "Freeland, Michigan Business Directory"
+title: "Freeland, MI Business Directory"
+type: "towns"
 slug: "freeland-mi"
-town: "Freeland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 4171
+state: "mi"
+town_data: "freeland-mi"
 ---

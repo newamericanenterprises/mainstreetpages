@@ -1,9 +1,7 @@
 ---
-title: "Hart, Michigan Business Directory"
+title: "Hart, MI Business Directory"
+type: "towns"
 slug: "hart-mi"
-town: "Hart"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 2150
+state: "mi"
+town_data: "hart-mi"
 ---

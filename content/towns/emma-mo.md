@@ -1,7 +1,7 @@
 ---
-title: "Emma, Missouri Business Directory"
+title: "Emma, MO Business Directory"
+type: "towns"
 slug: "emma-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "emma-mo"
 ---

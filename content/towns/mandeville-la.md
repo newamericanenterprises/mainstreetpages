@@ -1,9 +1,7 @@
 ---
-title: "Mandeville, Louisiana Business Directory"
+title: "Mandeville, LA Business Directory"
+type: "towns"
 slug: "mandeville-la"
-town: "Mandeville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 13166
+state: "la"
+town_data: "mandeville-la"
 ---

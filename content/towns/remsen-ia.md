@@ -1,9 +1,7 @@
 ---
-title: "Remsen, Iowa Business Directory"
+title: "Remsen, IA Business Directory"
+type: "towns"
 slug: "remsen-ia"
-town: "Remsen"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 2758
+state: "ia"
+town_data: "remsen-ia"
 ---

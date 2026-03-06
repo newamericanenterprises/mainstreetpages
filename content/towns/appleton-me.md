@@ -1,9 +1,7 @@
 ---
-title: "Appleton, Maine Business Directory"
+title: "Appleton, ME Business Directory"
+type: "towns"
 slug: "appleton-me"
-town: "Appleton"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 407
+state: "me"
+town_data: "appleton-me"
 ---

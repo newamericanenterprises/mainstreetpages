@@ -1,9 +1,7 @@
 ---
-title: "Amboy, Minnesota Business Directory"
+title: "Amboy, MN Business Directory"
+type: "towns"
 slug: "amboy-mn"
-town: "Amboy"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 629
+state: "mn"
+town_data: "amboy-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Leon, Kansas Business Directory"
+title: "Leon, KS Business Directory"
+type: "towns"
 slug: "leon-ks"
-town: "Leon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 1426
+state: "ks"
+town_data: "leon-ks"
 ---

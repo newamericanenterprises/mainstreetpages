@@ -1,9 +1,7 @@
 ---
-title: "Vine Grove, Kentucky Business Directory"
+title: "Vine Grove, KY Business Directory"
+type: "towns"
 slug: "vine-grove-ky"
-town: "Vine Grove"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 3287
+state: "ky"
+town_data: "vine-grove-ky"
 ---

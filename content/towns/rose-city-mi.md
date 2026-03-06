@@ -1,9 +1,7 @@
 ---
-title: "Rose City, Michigan Business Directory"
+title: "Rose City, MI Business Directory"
+type: "towns"
 slug: "rose-city-mi"
-town: "Rose City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ogemaw"
-population: 4226
+state: "mi"
+town_data: "rose-city-mi"
 ---

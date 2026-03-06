@@ -1,9 +1,7 @@
 ---
-title: "Watson, Minnesota Business Directory"
+title: "Watson, MN Business Directory"
+type: "towns"
 slug: "watson-mn"
-town: "Watson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chippewa"
-population: 3235
+state: "mn"
+town_data: "watson-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mina, Nevada Business Directory"
+title: "Mina, NV Business Directory"
+type: "towns"
 slug: "mina-nv"
-state: "NV"
-county: "Mineral"
-population: 155
+state: "nv"
+town_data: "mina-nv"
 ---

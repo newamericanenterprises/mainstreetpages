@@ -1,9 +1,7 @@
 ---
-title: "Houghton, Michigan Business Directory"
+title: "Houghton, MI Business Directory"
+type: "towns"
 slug: "houghton-mi"
-town: "Houghton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 8386
+state: "mi"
+town_data: "houghton-mi"
 ---

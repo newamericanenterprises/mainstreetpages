@@ -1,9 +1,7 @@
 ---
-title: "Kanawha, Iowa Business Directory"
+title: "Kanawha, IA Business Directory"
+type: "towns"
 slug: "kanawha-ia"
-town: "Kanawha"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 2513
+state: "ia"
+town_data: "kanawha-ia"
 ---

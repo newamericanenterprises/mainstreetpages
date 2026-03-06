@@ -1,9 +1,7 @@
 ---
-title: "Woolwich, Maine Business Directory"
+title: "Woolwich, ME Business Directory"
+type: "towns"
 slug: "woolwich-me"
-town: "Woolwich"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 1913
+state: "me"
+town_data: "woolwich-me"
 ---

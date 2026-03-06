@@ -1,9 +1,7 @@
 ---
-title: "Treece, Kansas Business Directory"
+title: "Treece, KS Business Directory"
+type: "towns"
 slug: "treece-ks"
-town: "Treece"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 385
+state: "ks"
+town_data: "treece-ks"
 ---

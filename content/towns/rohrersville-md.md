@@ -1,9 +1,7 @@
 ---
-title: "Rohrersville, Maryland Business Directory"
+title: "Rohrersville, MD Business Directory"
+type: "towns"
 slug: "rohrersville-md"
-town: "Rohrersville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 5462
+state: "md"
+town_data: "rohrersville-md"
 ---

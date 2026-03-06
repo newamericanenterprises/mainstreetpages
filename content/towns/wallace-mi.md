@@ -1,9 +1,7 @@
 ---
-title: "Wallace, Michigan Business Directory"
+title: "Wallace, MI Business Directory"
+type: "towns"
 slug: "wallace-mi"
-town: "Wallace"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 3125
+state: "mi"
+town_data: "wallace-mi"
 ---

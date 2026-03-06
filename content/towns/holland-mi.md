@@ -1,9 +1,7 @@
 ---
-title: "Holland, Michigan Business Directory"
+title: "Holland, MI Business Directory"
+type: "towns"
 slug: "holland-mi"
-town: "Holland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 33583
+state: "mi"
+town_data: "holland-mi"
 ---

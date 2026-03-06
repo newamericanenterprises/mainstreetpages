@@ -1,9 +1,7 @@
 ---
-title: "Fridley, Minnesota Business Directory"
+title: "Fridley, MN Business Directory"
+type: "towns"
 slug: "fridley-mn"
-town: "Fridley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 29233
+state: "mn"
+town_data: "fridley-mn"
 ---

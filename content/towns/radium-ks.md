@@ -1,9 +1,7 @@
 ---
-title: "Radium, Kansas Business Directory"
+title: "Radium, KS Business Directory"
+type: "towns"
 slug: "radium-ks"
-town: "Radium"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 2689
+state: "ks"
+town_data: "radium-ks"
 ---

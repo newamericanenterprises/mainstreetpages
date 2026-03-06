@@ -1,9 +1,7 @@
 ---
-title: "Plymouth, Iowa Business Directory"
+title: "Plymouth, IA Business Directory"
+type: "towns"
 slug: "plymouth-ia"
-town: "Plymouth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 563
+state: "ia"
+town_data: "plymouth-ia"
 ---

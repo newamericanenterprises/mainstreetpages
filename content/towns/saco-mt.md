@@ -1,7 +1,7 @@
 ---
-title: "Saco, Montana Business Directory"
+title: "Saco, MT Business Directory"
+type: "towns"
 slug: "saco-mt"
-state: "MT"
-county: "Phillips"
-population: 500
+state: "mt"
+town_data: "saco-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Thorndike, Maine Business Directory"
+title: "Thorndike, ME Business Directory"
+type: "towns"
 slug: "thorndike-me"
-town: "Thorndike"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1416
+state: "me"
+town_data: "thorndike-me"
 ---

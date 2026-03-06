@@ -1,9 +1,7 @@
 ---
-title: "Bondurant, Iowa Business Directory"
+title: "Bondurant, IA Business Directory"
+type: "towns"
 slug: "bondurant-ia"
-town: "Bondurant"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 2278
+state: "ia"
+town_data: "bondurant-ia"
 ---

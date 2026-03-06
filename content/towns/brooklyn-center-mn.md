@@ -1,9 +1,7 @@
 ---
-title: "Brooklyn Center, Minnesota Business Directory"
+title: "Brooklyn Center, MN Business Directory"
+type: "towns"
 slug: "brooklyn-center-mn"
-town: "Brooklyn Center"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 31326
+state: "mn"
+town_data: "brooklyn-center-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ripley, Maine Business Directory"
+title: "Ripley, ME Business Directory"
+type: "towns"
 slug: "ripley-me"
-town: "Ripley"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1915
+state: "me"
+town_data: "ripley-me"
 ---

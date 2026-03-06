@@ -1,9 +1,7 @@
 ---
-title: "Monrovia, Indiana Business Directory"
+title: "Monrovia, IN Business Directory"
+type: "towns"
 slug: "monrovia-in"
-town: "Monrovia"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 4350
+state: "in"
+town_data: "monrovia-in"
 ---

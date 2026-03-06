@@ -1,9 +1,7 @@
 ---
-title: "Amite City, Louisiana Business Directory"
+title: "Amite City, LA Business Directory"
+type: "towns"
 slug: "amite-city-la"
-town: "Amite City"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 4141
+state: "la"
+town_data: "amite-city-la"
 ---

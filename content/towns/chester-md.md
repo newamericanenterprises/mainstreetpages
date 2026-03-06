@@ -1,9 +1,7 @@
 ---
-title: "Chester, Maryland Business Directory"
+title: "Chester, MD Business Directory"
+type: "towns"
 slug: "chester-md"
-town: "Chester"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 3202
+state: "md"
+town_data: "chester-md"
 ---

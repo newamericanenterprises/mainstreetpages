@@ -1,9 +1,7 @@
 ---
-title: "Bingham Lake, Minnesota Business Directory"
+title: "Bingham Lake, MN Business Directory"
+type: "towns"
 slug: "bingham-lake-mn"
-town: "Bingham Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 2603
+state: "mn"
+town_data: "bingham-lake-mn"
 ---

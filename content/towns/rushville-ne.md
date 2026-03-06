@@ -1,7 +1,7 @@
 ---
-title: "Rushville, Nebraska Business Directory"
+title: "Rushville, NE Business Directory"
+type: "towns"
 slug: "rushville-ne"
-state: "NE"
-county: "Sheridan"
-population: 883
+state: "ne"
+town_data: "rushville-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Westphalia, Missouri Business Directory"
+title: "Westphalia, MO Business Directory"
+type: "towns"
 slug: "westphalia-mo"
-state: "MO"
-county: "Osage"
-population: 1500
+state: "mo"
+town_data: "westphalia-mo"
 ---

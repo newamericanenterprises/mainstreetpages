@@ -1,9 +1,7 @@
 ---
-title: "Groton, Massachusetts Business Directory"
+title: "Groton, MA Business Directory"
+type: "towns"
 slug: "groton-ma"
-town: "Groton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 6822
+state: "ma"
+town_data: "groton-ma"
 ---

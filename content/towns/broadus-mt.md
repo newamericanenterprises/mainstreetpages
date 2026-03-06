@@ -1,7 +1,7 @@
 ---
-title: "Broadus, Montana Business Directory"
+title: "Broadus, MT Business Directory"
+type: "towns"
 slug: "broadus-mt"
-state: "MT"
-county: "Powder River"
-population: 462
+state: "mt"
+town_data: "broadus-mt"
 ---

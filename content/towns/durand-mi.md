@@ -1,9 +1,7 @@
 ---
-title: "Durand, Michigan Business Directory"
+title: "Durand, MI Business Directory"
+type: "towns"
 slug: "durand-mi"
-town: "Durand"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 5374
+state: "mi"
+town_data: "durand-mi"
 ---

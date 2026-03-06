@@ -1,9 +1,7 @@
 ---
-title: "Chesterton, Indiana Business Directory"
+title: "Chesterton, IN Business Directory"
+type: "towns"
 slug: "chesterton-in"
-town: "Chesterton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 13912
+state: "in"
+town_data: "chesterton-in"
 ---

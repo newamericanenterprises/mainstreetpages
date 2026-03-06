@@ -1,9 +1,7 @@
 ---
-title: "Vernon Center, Minnesota Business Directory"
+title: "Vernon Center, MN Business Directory"
+type: "towns"
 slug: "vernon-center-mn"
-town: "Vernon Center"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 2542
+state: "mn"
+town_data: "vernon-center-mn"
 ---

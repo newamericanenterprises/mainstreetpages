@@ -1,9 +1,7 @@
 ---
-title: "Wilder, Minnesota Business Directory"
+title: "Wilder, MN Business Directory"
+type: "towns"
 slug: "wilder-mn"
-town: "Wilder"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 612
+state: "mn"
+town_data: "wilder-mn"
 ---

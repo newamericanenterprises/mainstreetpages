@@ -1,7 +1,7 @@
 ---
-title: "Eustis, Nebraska Business Directory"
+title: "Eustis, NE Business Directory"
+type: "towns"
 slug: "eustis-ne"
-state: "NE"
-county: "Frontier"
-population: 500
+state: "ne"
+town_data: "eustis-ne"
 ---

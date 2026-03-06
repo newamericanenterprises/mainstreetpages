@@ -1,9 +1,7 @@
 ---
-title: "Crawfordsville, Indiana Business Directory"
+title: "Crawfordsville, IN Business Directory"
+type: "towns"
 slug: "crawfordsville-in"
-town: "Crawfordsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 16336
+state: "in"
+town_data: "crawfordsville-in"
 ---

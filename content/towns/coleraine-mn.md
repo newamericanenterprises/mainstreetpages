@@ -1,9 +1,7 @@
 ---
-title: "Coleraine, Minnesota Business Directory"
+title: "Coleraine, MN Business Directory"
+type: "towns"
 slug: "coleraine-mn"
-town: "Coleraine"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 1104
+state: "mn"
+town_data: "coleraine-mn"
 ---

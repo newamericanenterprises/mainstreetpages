@@ -1,9 +1,7 @@
 ---
-title: "Clay City, Kentucky Business Directory"
+title: "Clay City, KY Business Directory"
+type: "towns"
 slug: "clay-city-ky"
-town: "Clay City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Powell"
-population: 1336
+state: "ky"
+town_data: "clay-city-ky"
 ---

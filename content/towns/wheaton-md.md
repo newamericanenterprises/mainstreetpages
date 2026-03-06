@@ -1,9 +1,7 @@
 ---
-title: "Wheaton, Maryland Business Directory"
+title: "Wheaton, MD Business Directory"
+type: "towns"
 slug: "wheaton-md"
-town: "Wheaton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 51520
+state: "md"
+town_data: "wheaton-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bronson, Iowa Business Directory"
+title: "Bronson, IA Business Directory"
+type: "towns"
 slug: "bronson-ia"
-town: "Bronson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 617
+state: "ia"
+town_data: "bronson-ia"
 ---

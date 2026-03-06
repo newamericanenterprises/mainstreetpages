@@ -1,7 +1,7 @@
 ---
-title: "Emmet, Nebraska Business Directory"
+title: "Emmet, NE Business Directory"
+type: "towns"
 slug: "emmet-ne"
-state: "NE"
-county: "Holt"
-population: 500
+state: "ne"
+town_data: "emmet-ne"
 ---

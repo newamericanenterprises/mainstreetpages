@@ -1,9 +1,7 @@
 ---
-title: "Oberlin, Kansas Business Directory"
+title: "Oberlin, KS Business Directory"
+type: "towns"
 slug: "oberlin-ks"
-town: "Oberlin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Decatur"
-population: 1768
+state: "ks"
+town_data: "oberlin-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Michigan Business Directory"
+title: "Georgetown, MI Business Directory"
+type: "towns"
 slug: "georgetown-mi"
-town: "Georgetown"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 1173
+state: "mi"
+town_data: "georgetown-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Slayton, Minnesota Business Directory"
+title: "Slayton, MN Business Directory"
+type: "towns"
 slug: "slayton-mn"
-town: "Slayton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 2617
+state: "mn"
+town_data: "slayton-mn"
 ---

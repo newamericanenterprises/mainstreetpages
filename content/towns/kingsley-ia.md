@@ -1,9 +1,7 @@
 ---
-title: "Kingsley, Iowa Business Directory"
+title: "Kingsley, IA Business Directory"
+type: "towns"
 slug: "kingsley-ia"
-town: "Kingsley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 3007
+state: "ia"
+town_data: "kingsley-ia"
 ---

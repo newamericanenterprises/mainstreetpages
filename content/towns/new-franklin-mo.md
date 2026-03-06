@@ -1,7 +1,7 @@
 ---
-title: "New Franklin, Missouri Business Directory"
+title: "New Franklin, MO Business Directory"
+type: "towns"
 slug: "new-franklin-mo"
-state: "MO"
-county: "Howard"
-population: 1500
+state: "mo"
+town_data: "new-franklin-mo"
 ---

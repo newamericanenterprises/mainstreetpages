@@ -1,9 +1,7 @@
 ---
-title: "Topsfield, Massachusetts Business Directory"
+title: "Topsfield, MA Business Directory"
+type: "towns"
 slug: "topsfield-ma"
-town: "Topsfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 7529
+state: "ma"
+town_data: "topsfield-ma"
 ---

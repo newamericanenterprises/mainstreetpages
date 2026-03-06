@@ -1,7 +1,7 @@
 ---
-title: "West Point, Nebraska Business Directory"
+title: "West Point, NE Business Directory"
+type: "towns"
 slug: "west-point-ne"
-state: "NE"
-county: "Cuming"
-population: 3364
+state: "ne"
+town_data: "west-point-ne"
 ---

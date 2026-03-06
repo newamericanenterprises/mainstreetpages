@@ -1,7 +1,7 @@
 ---
-title: "Hinsdale, Montana Business Directory"
+title: "Hinsdale, MT Business Directory"
+type: "towns"
 slug: "hinsdale-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "hinsdale-mt"
 ---

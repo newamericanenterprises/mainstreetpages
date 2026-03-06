@@ -1,7 +1,7 @@
 ---
-title: "Rockville, Nebraska Business Directory"
+title: "Rockville, NE Business Directory"
+type: "towns"
 slug: "rockville-ne"
-state: "NE"
-county: "Sherman"
-population: 500
+state: "ne"
+town_data: "rockville-ne"
 ---

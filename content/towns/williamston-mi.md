@@ -1,9 +1,7 @@
 ---
-title: "Williamston, Michigan Business Directory"
+title: "Williamston, MI Business Directory"
+type: "towns"
 slug: "williamston-mi"
-town: "Williamston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 1670
+state: "mi"
+town_data: "williamston-mi"
 ---

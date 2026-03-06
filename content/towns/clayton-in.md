@@ -1,9 +1,7 @@
 ---
-title: "Clayton, Indiana Business Directory"
+title: "Clayton, IN Business Directory"
+type: "towns"
 slug: "clayton-in"
-town: "Clayton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 1131
+state: "in"
+town_data: "clayton-in"
 ---

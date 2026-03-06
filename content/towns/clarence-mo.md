@@ -1,7 +1,7 @@
 ---
-title: "Clarence, Missouri Business Directory"
+title: "Clarence, MO Business Directory"
+type: "towns"
 slug: "clarence-mo"
-state: "MO"
-county: "Shelby"
-population: 871
+state: "mo"
+town_data: "clarence-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clearwater, Nebraska Business Directory"
+title: "Clearwater, NE Business Directory"
+type: "towns"
 slug: "clearwater-ne"
-state: "NE"
-county: "Antelope"
-population: 405
+state: "ne"
+town_data: "clearwater-ne"
 ---

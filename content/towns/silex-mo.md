@@ -1,7 +1,7 @@
 ---
-title: "Silex, Missouri Business Directory"
+title: "Silex, MO Business Directory"
+type: "towns"
 slug: "silex-mo"
-state: "MO"
-county: "Lincoln"
-population: 1500
+state: "mo"
+town_data: "silex-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Blackburn, Missouri Business Directory"
+title: "Blackburn, MO Business Directory"
+type: "towns"
 slug: "blackburn-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "blackburn-mo"
 ---

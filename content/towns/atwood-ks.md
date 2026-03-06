@@ -1,9 +1,7 @@
 ---
-title: "Atwood, Kansas Business Directory"
+title: "Atwood, KS Business Directory"
+type: "towns"
 slug: "atwood-ks"
-town: "Atwood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rawlins"
-population: 1187
+state: "ks"
+town_data: "atwood-ks"
 ---

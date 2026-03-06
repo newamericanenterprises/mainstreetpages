@@ -1,7 +1,7 @@
 ---
-title: "Preston, Nebraska Business Directory"
+title: "Preston, NE Business Directory"
+type: "towns"
 slug: "preston-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "preston-ne"
 ---

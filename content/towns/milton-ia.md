@@ -1,9 +1,7 @@
 ---
-title: "Milton, Iowa Business Directory"
+title: "Milton, IA Business Directory"
+type: "towns"
 slug: "milton-ia"
-town: "Milton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 832
+state: "ia"
+town_data: "milton-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fairmount Heights, Maryland Business Directory"
+title: "Fairmount Heights, MD Business Directory"
+type: "towns"
 slug: "fairmount-heights-md"
-town: "Fairmount Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5129
+state: "md"
+town_data: "fairmount-heights-md"
 ---

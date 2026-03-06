@@ -1,9 +1,7 @@
 ---
-title: "McPherson, Kansas Business Directory"
+title: "McPherson, KS Business Directory"
+type: "towns"
 slug: "mcpherson-ks"
-town: "McPherson"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 13155
+state: "ks"
+town_data: "mcpherson-ks"
 ---

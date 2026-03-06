@@ -1,9 +1,7 @@
 ---
-title: "Falmouth, Massachusetts Business Directory"
+title: "Falmouth, MA Business Directory"
+type: "towns"
 slug: "falmouth-ma"
-town: "Falmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 32660
+state: "ma"
+town_data: "falmouth-ma"
 ---

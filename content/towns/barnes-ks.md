@@ -1,9 +1,7 @@
 ---
-title: "Barnes, Kansas Business Directory"
+title: "Barnes, KS Business Directory"
+type: "towns"
 slug: "barnes-ks"
-town: "Barnes"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 2344
+state: "ks"
+town_data: "barnes-ks"
 ---

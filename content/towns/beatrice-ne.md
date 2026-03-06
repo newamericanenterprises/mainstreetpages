@@ -1,7 +1,7 @@
 ---
-title: "Beatrice, Nebraska Business Directory"
+title: "Beatrice, NE Business Directory"
+type: "towns"
 slug: "beatrice-ne"
-state: "NE"
-county: "Gage"
-population: 12282
+state: "ne"
+town_data: "beatrice-ne"
 ---

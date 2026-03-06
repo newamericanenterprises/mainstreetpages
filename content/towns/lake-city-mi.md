@@ -1,9 +1,7 @@
 ---
-title: "Lake City, Michigan Business Directory"
+title: "Lake City, MI Business Directory"
+type: "towns"
 slug: "lake-city-mi"
-town: "Lake City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Missaukee"
-population: 4616
+state: "mi"
+town_data: "lake-city-mi"
 ---

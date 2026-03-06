@@ -1,9 +1,7 @@
 ---
-title: "Park Hills, Kentucky Business Directory"
+title: "Park Hills, KY Business Directory"
+type: "towns"
 slug: "park-hills-ky"
-town: "Park Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 1325
+state: "ky"
+town_data: "park-hills-ky"
 ---

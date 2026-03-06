@@ -1,7 +1,7 @@
 ---
-title: "Linn, Missouri Business Directory"
+title: "Linn, MO Business Directory"
+type: "towns"
 slug: "linn-mo"
-state: "MO"
-county: "Osage"
-population: 1500
+state: "mo"
+town_data: "linn-mo"
 ---

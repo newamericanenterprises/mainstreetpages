@@ -1,9 +1,7 @@
 ---
-title: "Waterford, Maine Business Directory"
+title: "Waterford, ME Business Directory"
+type: "towns"
 slug: "waterford-me"
-town: "Waterford"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2542
+state: "me"
+town_data: "waterford-me"
 ---

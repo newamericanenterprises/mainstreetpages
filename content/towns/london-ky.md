@@ -1,9 +1,7 @@
 ---
-title: "London, Kentucky Business Directory"
+title: "London, KY Business Directory"
+type: "towns"
 slug: "london-ky"
-town: "London"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Laurel"
-population: 8126
+state: "ky"
+town_data: "london-ky"
 ---

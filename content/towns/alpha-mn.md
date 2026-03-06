@@ -1,9 +1,7 @@
 ---
-title: "Alpha, Minnesota Business Directory"
+title: "Alpha, MN Business Directory"
+type: "towns"
 slug: "alpha-mn"
-town: "Alpha"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 2697
+state: "mn"
+town_data: "alpha-mn"
 ---

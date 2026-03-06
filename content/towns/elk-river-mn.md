@@ -1,9 +1,7 @@
 ---
-title: "Elk River, Minnesota Business Directory"
+title: "Elk River, MN Business Directory"
+type: "towns"
 slug: "elk-river-mn"
-town: "Elk River"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 26115
+state: "mn"
+town_data: "elk-river-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "North Loup, Nebraska Business Directory"
+title: "North Loup, NE Business Directory"
+type: "towns"
 slug: "north-loup-ne"
-state: "NE"
-county: "Valley"
-population: 500
+state: "ne"
+town_data: "north-loup-ne"
 ---

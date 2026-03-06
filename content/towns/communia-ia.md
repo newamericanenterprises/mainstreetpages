@@ -1,9 +1,7 @@
 ---
-title: "Communia, Iowa Business Directory"
+title: "Communia, IA Business Directory"
+type: "towns"
 slug: "communia-ia"
-town: "Communia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 2220
+state: "ia"
+town_data: "communia-ia"
 ---

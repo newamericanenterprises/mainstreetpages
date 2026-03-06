@@ -1,7 +1,7 @@
 ---
-title: "Diehlstadt, Missouri Business Directory"
+title: "Diehlstadt, MO Business Directory"
+type: "towns"
 slug: "diehlstadt-mo"
-state: "MO"
-county: "Scott"
-population: 1500
+state: "mo"
+town_data: "diehlstadt-mo"
 ---

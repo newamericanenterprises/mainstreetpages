@@ -1,9 +1,7 @@
 ---
-title: "Boyce, Louisiana Business Directory"
+title: "Boyce, LA Business Directory"
+type: "towns"
 slug: "boyce-la"
-town: "Boyce"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 2534
+state: "la"
+town_data: "boyce-la"
 ---

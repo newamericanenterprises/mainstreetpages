@@ -1,9 +1,7 @@
 ---
-title: "Blanchard, Louisiana Business Directory"
+title: "Blanchard, LA Business Directory"
+type: "towns"
 slug: "blanchard-la"
-town: "Blanchard"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 936
+state: "la"
+town_data: "blanchard-la"
 ---

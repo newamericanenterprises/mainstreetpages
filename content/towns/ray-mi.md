@@ -1,9 +1,7 @@
 ---
-title: "Ray, Michigan Business Directory"
+title: "Ray, MI Business Directory"
+type: "towns"
 slug: "ray-mi"
-town: "Ray"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 3511
+state: "mi"
+town_data: "ray-mi"
 ---

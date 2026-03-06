@@ -1,7 +1,7 @@
 ---
-title: "Helena Valley West Central, Montana Business Directory"
+title: "Helena Valley West Central, MT Business Directory"
+type: "towns"
 slug: "helena-valley-west-central-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 7883
+state: "mt"
+town_data: "helena-valley-west-central-mt"
 ---

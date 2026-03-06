@@ -1,9 +1,7 @@
 ---
-title: "Rose Hill, Iowa Business Directory"
+title: "Rose Hill, IA Business Directory"
+type: "towns"
 slug: "rose-hill-ia"
-town: "Rose Hill"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 2192
+state: "ia"
+town_data: "rose-hill-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mesquite, Nevada Business Directory"
+title: "Mesquite, NV Business Directory"
+type: "towns"
 slug: "mesquite-nv"
-state: "NV"
-county: "Clark"
-population: 18244
+state: "nv"
+town_data: "mesquite-nv"
 ---

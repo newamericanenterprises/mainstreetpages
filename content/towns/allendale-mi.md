@@ -1,9 +1,7 @@
 ---
-title: "Allendale, Michigan Business Directory"
+title: "Allendale, MI Business Directory"
+type: "towns"
 slug: "allendale-mi"
-town: "Allendale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 3535
+state: "mi"
+town_data: "allendale-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Canton, Missouri Business Directory"
+title: "Canton, MO Business Directory"
+type: "towns"
 slug: "canton-mo"
-state: "MO"
-county: "Lewis"
-population: 2431
+state: "mo"
+town_data: "canton-mo"
 ---

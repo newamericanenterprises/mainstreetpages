@@ -1,9 +1,7 @@
 ---
-title: "Maynard, Iowa Business Directory"
+title: "Maynard, IA Business Directory"
+type: "towns"
 slug: "maynard-ia"
-town: "Maynard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 3268
+state: "ia"
+town_data: "maynard-ia"
 ---

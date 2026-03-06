@@ -1,9 +1,7 @@
 ---
-title: "Lake Ann, Michigan Business Directory"
+title: "Lake Ann, MI Business Directory"
+type: "towns"
 slug: "lake-ann-mi"
-town: "Lake Ann"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 4210
+state: "mi"
+town_data: "lake-ann-mi"
 ---

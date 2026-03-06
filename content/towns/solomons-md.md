@@ -1,9 +1,7 @@
 ---
-title: "Solomons, Maryland Business Directory"
+title: "Solomons, MD Business Directory"
+type: "towns"
 slug: "solomons-md"
-town: "Solomons"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 4958
+state: "md"
+town_data: "solomons-md"
 ---

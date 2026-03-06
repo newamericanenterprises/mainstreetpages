@@ -1,9 +1,7 @@
 ---
-title: "Plainview, Minnesota Business Directory"
+title: "Plainview, MN Business Directory"
+type: "towns"
 slug: "plainview-mn"
-town: "Plainview"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 1946
+state: "mn"
+town_data: "plainview-mn"
 ---

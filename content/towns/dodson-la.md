@@ -1,9 +1,7 @@
 ---
-title: "Dodson, Louisiana Business Directory"
+title: "Dodson, LA Business Directory"
+type: "towns"
 slug: "dodson-la"
-town: "Dodson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Winn"
-population: 1102
+state: "la"
+town_data: "dodson-la"
 ---

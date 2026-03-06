@@ -1,9 +1,7 @@
 ---
-title: "Barnum, Iowa Business Directory"
+title: "Barnum, IA Business Directory"
+type: "towns"
 slug: "barnum-ia"
-town: "Barnum"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 2064
+state: "ia"
+town_data: "barnum-ia"
 ---

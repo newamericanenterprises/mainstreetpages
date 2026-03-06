@@ -1,7 +1,7 @@
 ---
-title: "Steele, Missouri Business Directory"
+title: "Steele, MO Business Directory"
+type: "towns"
 slug: "steele-mo"
-state: "MO"
-county: "Pemiscot"
-population: 2113
+state: "mo"
+town_data: "steele-mo"
 ---

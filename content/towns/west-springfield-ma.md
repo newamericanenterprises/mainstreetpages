@@ -1,9 +1,7 @@
 ---
-title: "West Springfield, Massachusetts Business Directory"
+title: "West Springfield, MA Business Directory"
+type: "towns"
 slug: "west-springfield-ma"
-town: "West Springfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 28680
+state: "ma"
+town_data: "west-springfield-ma"
 ---

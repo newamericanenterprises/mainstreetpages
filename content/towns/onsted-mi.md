@@ -1,9 +1,7 @@
 ---
-title: "Onsted, Michigan Business Directory"
+title: "Onsted, MI Business Directory"
+type: "towns"
 slug: "onsted-mi"
-town: "Onsted"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 691
+state: "mi"
+town_data: "onsted-mi"
 ---

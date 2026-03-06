@@ -1,9 +1,7 @@
 ---
-title: "Dover, Kentucky Business Directory"
+title: "Dover, KY Business Directory"
+type: "towns"
 slug: "dover-ky"
-town: "Dover"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mason"
-population: 2972
+state: "ky"
+town_data: "dover-ky"
 ---

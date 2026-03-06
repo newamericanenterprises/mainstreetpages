@@ -1,7 +1,7 @@
 ---
-title: "Powell, Missouri Business Directory"
+title: "Powell, MO Business Directory"
+type: "towns"
 slug: "powell-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "powell-mo"
 ---

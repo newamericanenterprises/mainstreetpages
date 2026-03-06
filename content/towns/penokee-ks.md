@@ -1,9 +1,7 @@
 ---
-title: "Penokee, Kansas Business Directory"
+title: "Penokee, KS Business Directory"
+type: "towns"
 slug: "penokee-ks"
-town: "Penokee"
-state: "Kansas"
-state_abbr: "KS"
-county: "Graham"
-population: 1600
+state: "ks"
+town_data: "penokee-ks"
 ---

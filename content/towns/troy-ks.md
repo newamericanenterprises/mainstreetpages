@@ -1,9 +1,7 @@
 ---
-title: "Troy, Kansas Business Directory"
+title: "Troy, KS Business Directory"
+type: "towns"
 slug: "troy-ks"
-town: "Troy"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 1399
+state: "ks"
+town_data: "troy-ks"
 ---

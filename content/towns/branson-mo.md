@@ -1,7 +1,7 @@
 ---
-title: "Branson, Missouri Business Directory"
+title: "Branson, MO Business Directory"
+type: "towns"
 slug: "branson-mo"
-state: "MO"
-county: "Taney"
-population: 12638
+state: "mo"
+town_data: "branson-mo"
 ---

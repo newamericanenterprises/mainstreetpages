@@ -1,9 +1,7 @@
 ---
-title: "Meridian, Michigan Business Directory"
+title: "Meridian, MI Business Directory"
+type: "towns"
 slug: "meridian-mi"
-town: "Meridian"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 5370
+state: "mi"
+town_data: "meridian-mi"
 ---

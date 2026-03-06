@@ -1,7 +1,7 @@
 ---
-title: "Bloomington, Nebraska Business Directory"
+title: "Bloomington, NE Business Directory"
+type: "towns"
 slug: "bloomington-ne"
-state: "NE"
-county: "Franklin"
-population: 500
+state: "ne"
+town_data: "bloomington-ne"
 ---

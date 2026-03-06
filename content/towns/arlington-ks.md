@@ -1,9 +1,7 @@
 ---
-title: "Arlington, Kansas Business Directory"
+title: "Arlington, KS Business Directory"
+type: "towns"
 slug: "arlington-ks"
-town: "Arlington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 2706
+state: "ks"
+town_data: "arlington-ks"
 ---

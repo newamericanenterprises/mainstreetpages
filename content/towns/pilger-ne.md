@@ -1,7 +1,7 @@
 ---
-title: "Pilger, Nebraska Business Directory"
+title: "Pilger, NE Business Directory"
+type: "towns"
 slug: "pilger-ne"
-state: "NE"
-county: "Stanton"
-population: 500
+state: "ne"
+town_data: "pilger-ne"
 ---

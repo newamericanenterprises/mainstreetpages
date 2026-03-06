@@ -1,9 +1,7 @@
 ---
-title: "Trimountain, Michigan Business Directory"
+title: "Trimountain, MI Business Directory"
+type: "towns"
 slug: "trimountain-mi"
-town: "Trimountain"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 4562
+state: "mi"
+town_data: "trimountain-mi"
 ---

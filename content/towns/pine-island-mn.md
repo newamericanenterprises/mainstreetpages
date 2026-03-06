@@ -1,9 +1,7 @@
 ---
-title: "Pine Island, Minnesota Business Directory"
+title: "Pine Island, MN Business Directory"
+type: "towns"
 slug: "pine-island-mn"
-town: "Pine Island"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 752
+state: "mn"
+town_data: "pine-island-mn"
 ---

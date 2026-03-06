@@ -1,7 +1,7 @@
 ---
-title: "Warm Springs, Montana Business Directory"
+title: "Warm Springs, MT Business Directory"
+type: "towns"
 slug: "warm-springs-mt"
-state: "MT"
-county: "Deer Lodge"
-population: 500
+state: "mt"
+town_data: "warm-springs-mt"
 ---

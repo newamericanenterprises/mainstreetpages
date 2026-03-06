@@ -1,7 +1,7 @@
 ---
-title: "Easton, Missouri Business Directory"
+title: "Easton, MO Business Directory"
+type: "towns"
 slug: "easton-mo"
-state: "MO"
-county: "Buchanan"
-population: 1500
+state: "mo"
+town_data: "easton-mo"
 ---

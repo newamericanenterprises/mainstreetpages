@@ -1,9 +1,7 @@
 ---
-title: "Hunter, Kansas Business Directory"
+title: "Hunter, KS Business Directory"
+type: "towns"
 slug: "hunter-ks"
-town: "Hunter"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 2536
+state: "ks"
+town_data: "hunter-ks"
 ---

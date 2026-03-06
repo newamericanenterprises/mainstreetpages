@@ -1,7 +1,7 @@
 ---
-title: "Grand Falls Plaza, Missouri Business Directory"
+title: "Grand Falls Plaza, MO Business Directory"
+type: "towns"
 slug: "grand-falls-plaza-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "grand-falls-plaza-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Marine City, Michigan Business Directory"
+title: "Marine City, MI Business Directory"
+type: "towns"
 slug: "marine-city-mi"
-town: "Marine City"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 1393
+state: "mi"
+town_data: "marine-city-mi"
 ---

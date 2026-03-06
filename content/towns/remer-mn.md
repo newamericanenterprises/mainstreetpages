@@ -1,9 +1,7 @@
 ---
-title: "Remer, Minnesota Business Directory"
+title: "Remer, MN Business Directory"
+type: "towns"
 slug: "remer-mn"
-town: "Remer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 3270
+state: "mn"
+town_data: "remer-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Monson, Maine Business Directory"
+title: "Monson, ME Business Directory"
+type: "towns"
 slug: "monson-me"
-town: "Monson"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1440
+state: "me"
+town_data: "monson-me"
 ---

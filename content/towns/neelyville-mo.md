@@ -1,7 +1,7 @@
 ---
-title: "Neelyville, Missouri Business Directory"
+title: "Neelyville, MO Business Directory"
+type: "towns"
 slug: "neelyville-mo"
-state: "MO"
-county: "Butler"
-population: 494
+state: "mo"
+town_data: "neelyville-mo"
 ---

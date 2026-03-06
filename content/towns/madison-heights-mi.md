@@ -1,9 +1,7 @@
 ---
-title: "Madison Heights, Michigan Business Directory"
+title: "Madison Heights, MI Business Directory"
+type: "towns"
 slug: "madison-heights-mi"
-town: "Madison Heights"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 30318
+state: "mi"
+town_data: "madison-heights-mi"
 ---

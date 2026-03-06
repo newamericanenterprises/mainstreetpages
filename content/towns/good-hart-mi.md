@@ -1,9 +1,7 @@
 ---
-title: "Good Hart, Michigan Business Directory"
+title: "Good Hart, MI Business Directory"
+type: "towns"
 slug: "good-hart-mi"
-town: "Good Hart"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 3044
+state: "mi"
+town_data: "good-hart-mi"
 ---

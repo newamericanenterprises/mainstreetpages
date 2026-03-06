@@ -1,9 +1,7 @@
 ---
-title: "Bainbridge, Indiana Business Directory"
+title: "Bainbridge, IN Business Directory"
+type: "towns"
 slug: "bainbridge-in"
-town: "Bainbridge"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 3223
+state: "in"
+town_data: "bainbridge-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bruning, Nebraska Business Directory"
+title: "Bruning, NE Business Directory"
+type: "towns"
 slug: "bruning-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "bruning-ne"
 ---

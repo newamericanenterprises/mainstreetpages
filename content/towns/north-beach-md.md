@@ -1,9 +1,7 @@
 ---
-title: "North Beach, Maryland Business Directory"
+title: "North Beach, MD Business Directory"
+type: "towns"
 slug: "north-beach-md"
-town: "North Beach"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 5405
+state: "md"
+town_data: "north-beach-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Farmington Hills, Michigan Business Directory"
+title: "Farmington Hills, MI Business Directory"
+type: "towns"
 slug: "farmington-hills-mi"
-town: "Farmington Hills"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 82958
+state: "mi"
+town_data: "farmington-hills-mi"
 ---

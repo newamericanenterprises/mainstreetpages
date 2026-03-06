@@ -1,7 +1,7 @@
 ---
-title: "Whitefish, Montana Business Directory"
+title: "Whitefish, MT Business Directory"
+type: "towns"
 slug: "whitefish-mt"
-state: "MT"
-county: "Flathead"
-population: 8032
+state: "mt"
+town_data: "whitefish-mt"
 ---

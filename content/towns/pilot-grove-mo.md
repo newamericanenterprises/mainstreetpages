@@ -1,7 +1,7 @@
 ---
-title: "Pilot Grove, Missouri Business Directory"
+title: "Pilot Grove, MO Business Directory"
+type: "towns"
 slug: "pilot-grove-mo"
-state: "MO"
-county: "Cooper"
-population: 1500
+state: "mo"
+town_data: "pilot-grove-mo"
 ---

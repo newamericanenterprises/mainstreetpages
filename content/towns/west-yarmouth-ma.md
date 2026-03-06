@@ -1,9 +1,7 @@
 ---
-title: "West Yarmouth, Massachusetts Business Directory"
+title: "West Yarmouth, MA Business Directory"
+type: "towns"
 slug: "west-yarmouth-ma"
-town: "West Yarmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 1573
+state: "ma"
+town_data: "west-yarmouth-ma"
 ---

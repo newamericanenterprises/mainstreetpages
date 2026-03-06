@@ -1,9 +1,7 @@
 ---
-title: "Hopkins, Michigan Business Directory"
+title: "Hopkins, MI Business Directory"
+type: "towns"
 slug: "hopkins-mi"
-town: "Hopkins"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 2923
+state: "mi"
+town_data: "hopkins-mi"
 ---

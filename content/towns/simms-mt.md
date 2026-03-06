@@ -1,7 +1,7 @@
 ---
-title: "Simms, Montana Business Directory"
+title: "Simms, MT Business Directory"
+type: "towns"
 slug: "simms-mt"
-state: "MT"
-county: "Cascade"
-population: 337
+state: "mt"
+town_data: "simms-mt"
 ---

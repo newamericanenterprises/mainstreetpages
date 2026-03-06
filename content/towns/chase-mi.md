@@ -1,9 +1,7 @@
 ---
-title: "Chase, Michigan Business Directory"
+title: "Chase, MI Business Directory"
+type: "towns"
 slug: "chase-mi"
-town: "Chase"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lake"
-population: 2531
+state: "mi"
+town_data: "chase-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Egremont, Massachusetts Business Directory"
+title: "Egremont, MA Business Directory"
+type: "towns"
 slug: "egremont-ma"
-town: "Egremont"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 7712
+state: "ma"
+town_data: "egremont-ma"
 ---

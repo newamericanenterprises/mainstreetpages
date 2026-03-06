@@ -1,7 +1,7 @@
 ---
-title: "Vandalia, Montana Business Directory"
+title: "Vandalia, MT Business Directory"
+type: "towns"
 slug: "vandalia-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "vandalia-mt"
 ---

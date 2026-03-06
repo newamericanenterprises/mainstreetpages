@@ -1,9 +1,7 @@
 ---
-title: "Fredericksburg, Iowa Business Directory"
+title: "Fredericksburg, IA Business Directory"
+type: "towns"
 slug: "fredericksburg-ia"
-town: "Fredericksburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 1386
+state: "ia"
+town_data: "fredericksburg-ia"
 ---

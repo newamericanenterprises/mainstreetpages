@@ -1,9 +1,7 @@
 ---
-title: "Lyons, Indiana Business Directory"
+title: "Lyons, IN Business Directory"
+type: "towns"
 slug: "lyons-in"
-town: "Lyons"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 3660
+state: "in"
+town_data: "lyons-in"
 ---

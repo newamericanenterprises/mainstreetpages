@@ -1,9 +1,7 @@
 ---
-title: "Bridgewater, Massachusetts Business Directory"
+title: "Bridgewater, MA Business Directory"
+type: "towns"
 slug: "bridgewater-ma"
-town: "Bridgewater"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 4173
+state: "ma"
+town_data: "bridgewater-ma"
 ---

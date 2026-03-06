@@ -1,9 +1,7 @@
 ---
-title: "Atlantic Mine, Michigan Business Directory"
+title: "Atlantic Mine, MI Business Directory"
+type: "towns"
 slug: "atlantic-mine-mi"
-town: "Atlantic Mine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 3069
+state: "mi"
+town_data: "atlantic-mine-mi"
 ---

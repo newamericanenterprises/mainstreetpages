@@ -1,9 +1,7 @@
 ---
-title: "Wakefield, Kansas Business Directory"
+title: "Wakefield, KS Business Directory"
+type: "towns"
 slug: "wakefield-ks"
-town: "Wakefield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 3239
+state: "ks"
+town_data: "wakefield-ks"
 ---

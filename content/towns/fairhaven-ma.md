@@ -1,9 +1,7 @@
 ---
-title: "Fairhaven, Massachusetts Business Directory"
+title: "Fairhaven, MA Business Directory"
+type: "towns"
 slug: "fairhaven-ma"
-town: "Fairhaven"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 8870
+state: "ma"
+town_data: "fairhaven-ma"
 ---

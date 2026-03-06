@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Indiana Business Directory"
+title: "Hanover, IN Business Directory"
+type: "towns"
 slug: "hanover-in"
-town: "Hanover"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jefferson"
-population: 4571
+state: "in"
+town_data: "hanover-in"
 ---

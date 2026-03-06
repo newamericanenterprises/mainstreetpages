@@ -1,7 +1,7 @@
 ---
-title: "Cowles, Nebraska Business Directory"
+title: "Cowles, NE Business Directory"
+type: "towns"
 slug: "cowles-ne"
-state: "NE"
-county: "Webster"
-population: 500
+state: "ne"
+town_data: "cowles-ne"
 ---

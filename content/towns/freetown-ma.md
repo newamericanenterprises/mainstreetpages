@@ -1,9 +1,7 @@
 ---
-title: "Freetown, Massachusetts Business Directory"
+title: "Freetown, MA Business Directory"
+type: "towns"
 slug: "freetown-ma"
-town: "Freetown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 8363
+state: "ma"
+town_data: "freetown-ma"
 ---

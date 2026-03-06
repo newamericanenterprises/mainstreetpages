@@ -1,9 +1,7 @@
 ---
-title: "Dublin, Maryland Business Directory"
+title: "Dublin, MD Business Directory"
+type: "towns"
 slug: "dublin-md"
-town: "Dublin"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 2674
+state: "md"
+town_data: "dublin-md"
 ---

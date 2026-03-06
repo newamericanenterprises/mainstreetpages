@@ -1,9 +1,7 @@
 ---
-title: "River Ridge, Louisiana Business Directory"
+title: "River Ridge, LA Business Directory"
+type: "towns"
 slug: "river-ridge-la"
-town: "River Ridge"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 13494
+state: "la"
+town_data: "river-ridge-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Early, Iowa Business Directory"
+title: "Early, IA Business Directory"
+type: "towns"
 slug: "early-ia"
-town: "Early"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 1091
+state: "ia"
+town_data: "early-ia"
 ---

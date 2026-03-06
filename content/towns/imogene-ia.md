@@ -1,9 +1,7 @@
 ---
-title: "Imogene, Iowa Business Directory"
+title: "Imogene, IA Business Directory"
+type: "towns"
 slug: "imogene-ia"
-town: "Imogene"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 1421
+state: "ia"
+town_data: "imogene-ia"
 ---

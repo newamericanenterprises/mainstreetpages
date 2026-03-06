@@ -1,9 +1,7 @@
 ---
-title: "Saranac, Michigan Business Directory"
+title: "Saranac, MI Business Directory"
+type: "towns"
 slug: "saranac-mi"
-town: "Saranac"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 3745
+state: "mi"
+town_data: "saranac-mi"
 ---

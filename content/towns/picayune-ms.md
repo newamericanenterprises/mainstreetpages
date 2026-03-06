@@ -1,7 +1,7 @@
 ---
-title: "Picayune, Mississippi Business Directory"
+title: "Picayune, MS Business Directory"
+type: "towns"
 slug: "picayune-ms"
-state: "MS"
-county: "Pearl River"
-population: 11947
+state: "ms"
+town_data: "picayune-ms"
 ---

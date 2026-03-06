@@ -1,9 +1,7 @@
 ---
-title: "Fowler, Michigan Business Directory"
+title: "Fowler, MI Business Directory"
+type: "towns"
 slug: "fowler-mi"
-town: "Fowler"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 4479
+state: "mi"
+town_data: "fowler-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Waseca, Minnesota Business Directory"
+title: "Waseca, MN Business Directory"
+type: "towns"
 slug: "waseca-mn"
-town: "Waseca"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Waseca"
-population: 2133
+state: "mn"
+town_data: "waseca-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bloomfield, Missouri Business Directory"
+title: "Bloomfield, MO Business Directory"
+type: "towns"
 slug: "bloomfield-mo"
-state: "MO"
-county: "Stoddard"
-population: 1944
+state: "mo"
+town_data: "bloomfield-mo"
 ---

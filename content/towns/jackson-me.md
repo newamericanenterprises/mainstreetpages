@@ -1,9 +1,7 @@
 ---
-title: "Jackson, Maine Business Directory"
+title: "Jackson, ME Business Directory"
+type: "towns"
 slug: "jackson-me"
-town: "Jackson"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 941
+state: "me"
+town_data: "jackson-me"
 ---

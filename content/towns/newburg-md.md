@@ -1,9 +1,7 @@
 ---
-title: "Newburg, Maryland Business Directory"
+title: "Newburg, MD Business Directory"
+type: "towns"
 slug: "newburg-md"
-town: "Newburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 4742
+state: "md"
+town_data: "newburg-md"
 ---

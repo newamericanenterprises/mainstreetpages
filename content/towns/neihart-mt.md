@@ -1,7 +1,7 @@
 ---
-title: "Neihart, Montana Business Directory"
+title: "Neihart, MT Business Directory"
+type: "towns"
 slug: "neihart-mt"
-state: "MT"
-county: "Cascade"
-population: 51
+state: "mt"
+town_data: "neihart-mt"
 ---

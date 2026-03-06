@@ -1,7 +1,7 @@
 ---
-title: "Holts Summit, Missouri Business Directory"
+title: "Holts Summit, MO Business Directory"
+type: "towns"
 slug: "holts-summit-mo"
-state: "MO"
-county: "Callaway"
-population: 1500
+state: "mo"
+town_data: "holts-summit-mo"
 ---

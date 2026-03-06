@@ -1,9 +1,7 @@
 ---
-title: "Robards, Kentucky Business Directory"
+title: "Robards, KY Business Directory"
+type: "towns"
 slug: "robards-ky"
-town: "Robards"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henderson"
-population: 852
+state: "ky"
+town_data: "robards-ky"
 ---

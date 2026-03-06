@@ -1,7 +1,7 @@
 ---
-title: "Sweet Grass, Montana Business Directory"
+title: "Sweet Grass, MT Business Directory"
+type: "towns"
 slug: "sweet-grass-mt"
-state: "MT"
-county: "Toole"
-population: 500
+state: "mt"
+town_data: "sweet-grass-mt"
 ---

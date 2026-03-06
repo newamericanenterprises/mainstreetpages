@@ -1,7 +1,7 @@
 ---
-title: "Endicott, Nebraska Business Directory"
+title: "Endicott, NE Business Directory"
+type: "towns"
 slug: "endicott-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "endicott-ne"
 ---

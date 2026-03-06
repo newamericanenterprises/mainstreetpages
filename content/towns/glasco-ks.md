@@ -1,9 +1,7 @@
 ---
-title: "Glasco, Kansas Business Directory"
+title: "Glasco, KS Business Directory"
+type: "towns"
 slug: "glasco-ks"
-town: "Glasco"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 849
+state: "ks"
+town_data: "glasco-ks"
 ---

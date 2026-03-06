@@ -1,9 +1,7 @@
 ---
-title: "Montegut, Louisiana Business Directory"
+title: "Montegut, LA Business Directory"
+type: "towns"
 slug: "montegut-la"
-town: "Montegut"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 2643
+state: "la"
+town_data: "montegut-la"
 ---

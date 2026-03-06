@@ -1,9 +1,7 @@
 ---
-title: "Sabetha, Kansas Business Directory"
+title: "Sabetha, KS Business Directory"
+type: "towns"
 slug: "sabetha-ks"
-town: "Sabetha"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 1800
+state: "ks"
+town_data: "sabetha-ks"
 ---

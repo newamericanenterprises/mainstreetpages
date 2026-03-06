@@ -1,7 +1,7 @@
 ---
-title: "State Line, Mississippi Business Directory"
+title: "State Line, MS Business Directory"
+type: "towns"
 slug: "state-line-ms"
-state: "MS"
-county: "Wayne"
-population: 1134
+state: "ms"
+town_data: "state-line-ms"
 ---

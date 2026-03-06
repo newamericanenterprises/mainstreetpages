@@ -1,9 +1,7 @@
 ---
-title: "Rock River, Michigan Business Directory"
+title: "Rock River, MI Business Directory"
+type: "towns"
 slug: "rock-river-mi"
-town: "Rock River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 4900
+state: "mi"
+town_data: "rock-river-mi"
 ---

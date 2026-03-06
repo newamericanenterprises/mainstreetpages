@@ -1,7 +1,7 @@
 ---
-title: "Joplin, Missouri Business Directory"
+title: "Joplin, MO Business Directory"
+type: "towns"
 slug: "joplin-mo"
-state: "MO"
-county: "Jasper"
-population: 51762
+state: "mo"
+town_data: "joplin-mo"
 ---

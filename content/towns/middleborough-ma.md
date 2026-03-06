@@ -1,9 +1,7 @@
 ---
-title: "Middleborough, Massachusetts Business Directory"
+title: "Middleborough, MA Business Directory"
+type: "towns"
 slug: "middleborough-ma"
-town: "Middleborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 8671
+state: "ma"
+town_data: "middleborough-ma"
 ---

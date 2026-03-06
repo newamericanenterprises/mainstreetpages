@@ -1,9 +1,7 @@
 ---
-title: "Joice, Iowa Business Directory"
+title: "Joice, IA Business Directory"
+type: "towns"
 slug: "joice-ia"
-town: "Joice"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 1878
+state: "ia"
+town_data: "joice-ia"
 ---

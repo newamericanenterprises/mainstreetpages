@@ -1,9 +1,7 @@
 ---
-title: "Columbus, Kentucky Business Directory"
+title: "Columbus, KY Business Directory"
+type: "towns"
 slug: "columbus-ky"
-town: "Columbus"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hickman"
-population: 2050
+state: "ky"
+town_data: "columbus-ky"
 ---

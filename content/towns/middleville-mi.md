@@ -1,9 +1,7 @@
 ---
-title: "Middleville, Michigan Business Directory"
+title: "Middleville, MI Business Directory"
+type: "towns"
 slug: "middleville-mi"
-town: "Middleville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 1306
+state: "mi"
+town_data: "middleville-mi"
 ---

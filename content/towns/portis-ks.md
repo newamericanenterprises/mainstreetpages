@@ -1,9 +1,7 @@
 ---
-title: "Portis, Kansas Business Directory"
+title: "Portis, KS Business Directory"
+type: "towns"
 slug: "portis-ks"
-town: "Portis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osborne"
-population: 1650
+state: "ks"
+town_data: "portis-ks"
 ---

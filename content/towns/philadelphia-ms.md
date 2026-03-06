@@ -1,7 +1,7 @@
 ---
-title: "Philadelphia, Mississippi Business Directory"
+title: "Philadelphia, MS Business Directory"
+type: "towns"
 slug: "philadelphia-ms"
-state: "MS"
-county: "Neshoba"
-population: 7477
+state: "ms"
+town_data: "philadelphia-ms"
 ---

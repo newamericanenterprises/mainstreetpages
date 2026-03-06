@@ -1,9 +1,7 @@
 ---
-title: "Waite Park, Minnesota Business Directory"
+title: "Waite Park, MN Business Directory"
+type: "towns"
 slug: "waite-park-mn"
-town: "Waite Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 324
+state: "mn"
+town_data: "waite-park-mn"
 ---

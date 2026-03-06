@@ -1,9 +1,7 @@
 ---
-title: "Charlestown, Indiana Business Directory"
+title: "Charlestown, IN Business Directory"
+type: "towns"
 slug: "charlestown-in"
-town: "Charlestown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clark"
-population: 2902
+state: "in"
+town_data: "charlestown-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Onslow, Iowa Business Directory"
+title: "Onslow, IA Business Directory"
+type: "towns"
 slug: "onslow-ia"
-town: "Onslow"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 3440
+state: "ia"
+town_data: "onslow-ia"
 ---

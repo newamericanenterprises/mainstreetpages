@@ -1,7 +1,7 @@
 ---
-title: "Ericson, Nebraska Business Directory"
+title: "Ericson, NE Business Directory"
+type: "towns"
 slug: "ericson-ne"
-state: "NE"
-county: "Wheeler"
-population: 500
+state: "ne"
+town_data: "ericson-ne"
 ---

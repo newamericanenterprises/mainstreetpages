@@ -1,9 +1,7 @@
 ---
-title: "Fertile, Minnesota Business Directory"
+title: "Fertile, MN Business Directory"
+type: "towns"
 slug: "fertile-mn"
-town: "Fertile"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 2576
+state: "mn"
+town_data: "fertile-mn"
 ---

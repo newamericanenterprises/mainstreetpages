@@ -1,7 +1,7 @@
 ---
-title: "Bartlett, Nebraska Business Directory"
+title: "Bartlett, NE Business Directory"
+type: "towns"
 slug: "bartlett-ne"
-state: "NE"
-county: "Wheeler"
-population: 500
+state: "ne"
+town_data: "bartlett-ne"
 ---

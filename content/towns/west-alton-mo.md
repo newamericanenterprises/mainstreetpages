@@ -1,7 +1,7 @@
 ---
-title: "West Alton, Missouri Business Directory"
+title: "West Alton, MO Business Directory"
+type: "towns"
 slug: "west-alton-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "west-alton-mo"
 ---

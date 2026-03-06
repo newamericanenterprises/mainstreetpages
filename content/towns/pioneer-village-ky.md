@@ -1,9 +1,7 @@
 ---
-title: "Pioneer Village, Kentucky Business Directory"
+title: "Pioneer Village, KY Business Directory"
+type: "towns"
 slug: "pioneer-village-ky"
-town: "Pioneer Village"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bullitt"
-population: 2243
+state: "ky"
+town_data: "pioneer-village-ky"
 ---

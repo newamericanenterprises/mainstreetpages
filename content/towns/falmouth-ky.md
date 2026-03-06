@@ -1,9 +1,7 @@
 ---
-title: "Falmouth, Kentucky Business Directory"
+title: "Falmouth, KY Business Directory"
+type: "towns"
 slug: "falmouth-ky"
-town: "Falmouth"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pendleton"
-population: 2126
+state: "ky"
+town_data: "falmouth-ky"
 ---

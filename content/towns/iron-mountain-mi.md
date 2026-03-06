@@ -1,9 +1,7 @@
 ---
-title: "Iron Mountain, Michigan Business Directory"
+title: "Iron Mountain, MI Business Directory"
+type: "towns"
 slug: "iron-mountain-mi"
-town: "Iron Mountain"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 7461
+state: "mi"
+town_data: "iron-mountain-mi"
 ---

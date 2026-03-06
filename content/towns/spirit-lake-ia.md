@@ -1,9 +1,7 @@
 ---
-title: "Spirit Lake, Iowa Business Directory"
+title: "Spirit Lake, IA Business Directory"
+type: "towns"
 slug: "spirit-lake-ia"
-town: "Spirit Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 5018
+state: "ia"
+town_data: "spirit-lake-ia"
 ---

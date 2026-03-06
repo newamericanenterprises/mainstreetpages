@@ -1,7 +1,7 @@
 ---
-title: "Crowder, Mississippi Business Directory"
+title: "Crowder, MS Business Directory"
+type: "towns"
 slug: "crowder-ms"
-state: "MS"
-county: "Quitman"
-population: 578
+state: "ms"
+town_data: "crowder-ms"
 ---

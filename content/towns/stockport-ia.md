@@ -1,9 +1,7 @@
 ---
-title: "Stockport, Iowa Business Directory"
+title: "Stockport, IA Business Directory"
+type: "towns"
 slug: "stockport-ia"
-town: "Stockport"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 1634
+state: "ia"
+town_data: "stockport-ia"
 ---

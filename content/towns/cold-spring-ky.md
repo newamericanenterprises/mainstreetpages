@@ -1,9 +1,7 @@
 ---
-title: "Cold Spring, Kentucky Business Directory"
+title: "Cold Spring, KY Business Directory"
+type: "towns"
 slug: "cold-spring-ky"
-town: "Cold Spring"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 1137
+state: "ky"
+town_data: "cold-spring-ky"
 ---

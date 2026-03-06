@@ -1,7 +1,7 @@
 ---
-title: "Saint Ignatius, Montana Business Directory"
+title: "Saint Ignatius, MT Business Directory"
+type: "towns"
 slug: "saint-ignatius-mt"
-state: "MT"
-county: "Lake"
-population: 843
+state: "mt"
+town_data: "saint-ignatius-mt"
 ---

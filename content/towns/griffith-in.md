@@ -1,9 +1,7 @@
 ---
-title: "Griffith, Indiana Business Directory"
+title: "Griffith, IN Business Directory"
+type: "towns"
 slug: "griffith-in"
-town: "Griffith"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 16127
+state: "in"
+town_data: "griffith-in"
 ---

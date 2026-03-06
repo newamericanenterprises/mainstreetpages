@@ -1,9 +1,7 @@
 ---
-title: "Mount Desert, Maine Business Directory"
+title: "Mount Desert, ME Business Directory"
+type: "towns"
 slug: "mount-desert-me"
-town: "Mount Desert"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2646
+state: "me"
+town_data: "mount-desert-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Pray, Montana Business Directory"
+title: "Pray, MT Business Directory"
+type: "towns"
 slug: "pray-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "pray-mt"
 ---

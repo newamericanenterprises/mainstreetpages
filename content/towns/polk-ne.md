@@ -1,7 +1,7 @@
 ---
-title: "Polk, Nebraska Business Directory"
+title: "Polk, NE Business Directory"
+type: "towns"
 slug: "polk-ne"
-state: "NE"
-county: "Polk"
-population: 500
+state: "ne"
+town_data: "polk-ne"
 ---

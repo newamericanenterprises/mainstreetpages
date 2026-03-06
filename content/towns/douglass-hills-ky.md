@@ -1,9 +1,7 @@
 ---
-title: "Douglass Hills, Kentucky Business Directory"
+title: "Douglass Hills, KY Business Directory"
+type: "towns"
 slug: "douglass-hills-ky"
-town: "Douglass Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1580
+state: "ky"
+town_data: "douglass-hills-ky"
 ---

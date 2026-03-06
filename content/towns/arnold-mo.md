@@ -1,7 +1,7 @@
 ---
-title: "Arnold, Missouri Business Directory"
+title: "Arnold, MO Business Directory"
+type: "towns"
 slug: "arnold-mo"
-state: "MO"
-county: "Jefferson"
-population: 21213
+state: "mo"
+town_data: "arnold-mo"
 ---

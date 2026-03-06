@@ -1,7 +1,7 @@
 ---
-title: "Windsor Place, Missouri Business Directory"
+title: "Windsor Place, MO Business Directory"
+type: "towns"
 slug: "windsor-place-mo"
-state: "MO"
-county: "Pettis"
-population: 1500
+state: "mo"
+town_data: "windsor-place-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Natchitoches, Louisiana Business Directory"
+title: "Natchitoches, LA Business Directory"
+type: "towns"
 slug: "natchitoches-la"
-town: "Natchitoches"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 18323
+state: "la"
+town_data: "natchitoches-la"
 ---

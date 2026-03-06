@@ -1,7 +1,7 @@
 ---
-title: "Meta, Missouri Business Directory"
+title: "Meta, MO Business Directory"
+type: "towns"
 slug: "meta-mo"
-state: "MO"
-county: "Osage"
-population: 1500
+state: "mo"
+town_data: "meta-mo"
 ---

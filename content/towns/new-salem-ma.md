@@ -1,9 +1,7 @@
 ---
-title: "New Salem, Massachusetts Business Directory"
+title: "New Salem, MA Business Directory"
+type: "towns"
 slug: "new-salem-ma"
-town: "New Salem"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 1587
+state: "ma"
+town_data: "new-salem-ma"
 ---

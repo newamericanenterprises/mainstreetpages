@@ -1,9 +1,7 @@
 ---
-title: "Inman, Kansas Business Directory"
+title: "Inman, KS Business Directory"
+type: "towns"
 slug: "inman-ks"
-town: "Inman"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 2549
+state: "ks"
+town_data: "inman-ks"
 ---

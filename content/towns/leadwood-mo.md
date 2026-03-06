@@ -1,7 +1,7 @@
 ---
-title: "Leadwood, Missouri Business Directory"
+title: "Leadwood, MO Business Directory"
+type: "towns"
 slug: "leadwood-mo"
-state: "MO"
-county: "St. Francois"
-population: 1238
+state: "mo"
+town_data: "leadwood-mo"
 ---

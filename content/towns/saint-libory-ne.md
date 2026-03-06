@@ -1,7 +1,7 @@
 ---
-title: "Saint Libory, Nebraska Business Directory"
+title: "Saint Libory, NE Business Directory"
+type: "towns"
 slug: "saint-libory-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "saint-libory-ne"
 ---

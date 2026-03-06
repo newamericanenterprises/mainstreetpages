@@ -1,7 +1,7 @@
 ---
-title: "Sumner, Missouri Business Directory"
+title: "Sumner, MO Business Directory"
+type: "towns"
 slug: "sumner-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "sumner-mo"
 ---

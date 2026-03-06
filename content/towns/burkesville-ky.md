@@ -1,9 +1,7 @@
 ---
-title: "Burkesville, Kentucky Business Directory"
+title: "Burkesville, KY Business Directory"
+type: "towns"
 slug: "burkesville-ky"
-town: "Burkesville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Cumberland"
-population: 1475
+state: "ky"
+town_data: "burkesville-ky"
 ---

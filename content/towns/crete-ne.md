@@ -1,7 +1,7 @@
 ---
-title: "Crete, Nebraska Business Directory"
+title: "Crete, NE Business Directory"
+type: "towns"
 slug: "crete-ne"
-state: "NE"
-county: "Saline"
-population: 7160
+state: "ne"
+town_data: "crete-ne"
 ---

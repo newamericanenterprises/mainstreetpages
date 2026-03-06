@@ -1,7 +1,7 @@
 ---
-title: "Houston, Missouri Business Directory"
+title: "Houston, MO Business Directory"
+type: "towns"
 slug: "houston-mo"
-state: "MO"
-county: "Texas"
-population: 2081
+state: "mo"
+town_data: "houston-mo"
 ---

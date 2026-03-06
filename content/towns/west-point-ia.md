@@ -1,9 +1,7 @@
 ---
-title: "West Point, Iowa Business Directory"
+title: "West Point, IA Business Directory"
+type: "towns"
 slug: "west-point-ia"
-town: "West Point"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 543
+state: "ia"
+town_data: "west-point-ia"
 ---

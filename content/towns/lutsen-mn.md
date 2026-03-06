@@ -1,9 +1,7 @@
 ---
-title: "Lutsen, Minnesota Business Directory"
+title: "Lutsen, MN Business Directory"
+type: "towns"
 slug: "lutsen-mn"
-town: "Lutsen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cook"
-population: 493
+state: "mn"
+town_data: "lutsen-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Detroit Lakes, Minnesota Business Directory"
+title: "Detroit Lakes, MN Business Directory"
+type: "towns"
 slug: "detroit-lakes-mn"
-town: "Detroit Lakes"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 9159
+state: "mn"
+town_data: "detroit-lakes-mn"
 ---

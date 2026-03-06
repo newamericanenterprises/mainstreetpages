@@ -1,9 +1,7 @@
 ---
-title: "Cannon Falls, Minnesota Business Directory"
+title: "Cannon Falls, MN Business Directory"
+type: "towns"
 slug: "cannon-falls-mn"
-town: "Cannon Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 380
+state: "mn"
+town_data: "cannon-falls-mn"
 ---

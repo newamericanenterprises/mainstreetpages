@@ -1,9 +1,7 @@
 ---
-title: "Clements, Minnesota Business Directory"
+title: "Clements, MN Business Directory"
+type: "towns"
 slug: "clements-mn"
-town: "Clements"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 3296
+state: "mn"
+town_data: "clements-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bancroft, Iowa Business Directory"
+title: "Bancroft, IA Business Directory"
+type: "towns"
 slug: "bancroft-ia"
-town: "Bancroft"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 2328
+state: "ia"
+town_data: "bancroft-ia"
 ---

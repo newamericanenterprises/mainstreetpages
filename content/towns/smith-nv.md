@@ -1,7 +1,7 @@
 ---
-title: "Smith, Nevada Business Directory"
+title: "Smith, NV Business Directory"
+type: "towns"
 slug: "smith-nv"
-state: "NV"
-county: "Lyon"
-population: 500
+state: "nv"
+town_data: "smith-nv"
 ---

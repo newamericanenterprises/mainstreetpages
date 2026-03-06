@@ -1,9 +1,7 @@
 ---
-title: "Columbia, Kentucky Business Directory"
+title: "Columbia, KY Business Directory"
+type: "towns"
 slug: "columbia-ky"
-town: "Columbia"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Adair"
-population: 4572
+state: "ky"
+town_data: "columbia-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "La Paz, Indiana Business Directory"
+title: "La Paz, IN Business Directory"
+type: "towns"
 slug: "la-paz-in"
-town: "La Paz"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 1195
+state: "in"
+town_data: "la-paz-in"
 ---

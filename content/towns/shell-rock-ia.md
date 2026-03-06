@@ -1,9 +1,7 @@
 ---
-title: "Shell Rock, Iowa Business Directory"
+title: "Shell Rock, IA Business Directory"
+type: "towns"
 slug: "shell-rock-ia"
-town: "Shell Rock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2697
+state: "ia"
+town_data: "shell-rock-ia"
 ---

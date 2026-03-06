@@ -1,9 +1,7 @@
 ---
-title: "Menlo, Iowa Business Directory"
+title: "Menlo, IA Business Directory"
+type: "towns"
 slug: "menlo-ia"
-town: "Menlo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 1804
+state: "ia"
+town_data: "menlo-ia"
 ---

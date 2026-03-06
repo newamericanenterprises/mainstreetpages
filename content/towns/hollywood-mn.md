@@ -1,9 +1,7 @@
 ---
-title: "Hollywood, Minnesota Business Directory"
+title: "Hollywood, MN Business Directory"
+type: "towns"
 slug: "hollywood-mn"
-town: "Hollywood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1999
+state: "mn"
+town_data: "hollywood-mn"
 ---

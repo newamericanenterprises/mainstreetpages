@@ -1,9 +1,7 @@
 ---
-title: "New Haven, Michigan Business Directory"
+title: "New Haven, MI Business Directory"
+type: "towns"
 slug: "new-haven-mi"
-town: "New Haven"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 4474
+state: "mi"
+town_data: "new-haven-mi"
 ---

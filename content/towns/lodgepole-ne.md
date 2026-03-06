@@ -1,7 +1,7 @@
 ---
-title: "Lodgepole, Nebraska Business Directory"
+title: "Lodgepole, NE Business Directory"
+type: "towns"
 slug: "lodgepole-ne"
-state: "NE"
-county: "Cheyenne"
-population: 298
+state: "ne"
+town_data: "lodgepole-ne"
 ---

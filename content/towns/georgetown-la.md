@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Louisiana Business Directory"
+title: "Georgetown, LA Business Directory"
+type: "towns"
 slug: "georgetown-la"
-town: "Georgetown"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Grant"
-population: 2871
+state: "la"
+town_data: "georgetown-la"
 ---

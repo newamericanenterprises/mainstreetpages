@@ -1,9 +1,7 @@
 ---
-title: "Earleville, Maryland Business Directory"
+title: "Earleville, MD Business Directory"
+type: "towns"
 slug: "earleville-md"
-town: "Earleville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 1036
+state: "md"
+town_data: "earleville-md"
 ---

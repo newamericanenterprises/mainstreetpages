@@ -1,9 +1,7 @@
 ---
-title: "Richland, Iowa Business Directory"
+title: "Richland, IA Business Directory"
+type: "towns"
 slug: "richland-ia"
-town: "Richland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2260
+state: "ia"
+town_data: "richland-ia"
 ---

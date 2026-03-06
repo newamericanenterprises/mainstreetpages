@@ -1,9 +1,7 @@
 ---
-title: "Southbridge, Massachusetts Business Directory"
+title: "Southbridge, MA Business Directory"
+type: "towns"
 slug: "southbridge-ma"
-town: "Southbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4975
+state: "ma"
+town_data: "southbridge-ma"
 ---

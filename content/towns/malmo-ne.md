@@ -1,7 +1,7 @@
 ---
-title: "Malmo, Nebraska Business Directory"
+title: "Malmo, NE Business Directory"
+type: "towns"
 slug: "malmo-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "malmo-ne"
 ---

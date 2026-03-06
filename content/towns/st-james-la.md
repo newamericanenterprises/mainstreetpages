@@ -1,9 +1,7 @@
 ---
-title: "St. James, Louisiana Business Directory"
+title: "St. James, LA Business Directory"
+type: "towns"
 slug: "st-james-la"
-town: "St. James"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 1695
+state: "la"
+town_data: "st-james-la"
 ---

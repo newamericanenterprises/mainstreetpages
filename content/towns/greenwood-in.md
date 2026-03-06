@@ -1,9 +1,7 @@
 ---
-title: "Greenwood, Indiana Business Directory"
+title: "Greenwood, IN Business Directory"
+type: "towns"
 slug: "greenwood-in"
-town: "Greenwood"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 57394
+state: "in"
+town_data: "greenwood-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sumpter, Michigan Business Directory"
+title: "Sumpter, MI Business Directory"
+type: "towns"
 slug: "sumpter-mi"
-town: "Sumpter"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3190
+state: "mi"
+town_data: "sumpter-mi"
 ---

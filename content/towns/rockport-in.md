@@ -1,9 +1,7 @@
 ---
-title: "Rockport, Indiana Business Directory"
+title: "Rockport, IN Business Directory"
+type: "towns"
 slug: "rockport-in"
-town: "Rockport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 4592
+state: "in"
+town_data: "rockport-in"
 ---

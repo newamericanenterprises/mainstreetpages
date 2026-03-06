@@ -1,7 +1,7 @@
 ---
-title: "Gashland, Missouri Business Directory"
+title: "Gashland, MO Business Directory"
+type: "towns"
 slug: "gashland-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "gashland-mo"
 ---

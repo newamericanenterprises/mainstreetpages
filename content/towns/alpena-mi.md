@@ -1,9 +1,7 @@
 ---
-title: "Alpena, Michigan Business Directory"
+title: "Alpena, MI Business Directory"
+type: "towns"
 slug: "alpena-mi"
-town: "Alpena"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alpena"
-population: 10002
+state: "mi"
+town_data: "alpena-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Oak Hill, Kansas Business Directory"
+title: "Oak Hill, KS Business Directory"
+type: "towns"
 slug: "oak-hill-ks"
-town: "Oak Hill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 1840
+state: "ks"
+town_data: "oak-hill-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fowlerton, Indiana Business Directory"
+title: "Fowlerton, IN Business Directory"
+type: "towns"
 slug: "fowlerton-in"
-town: "Fowlerton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 1605
+state: "in"
+town_data: "fowlerton-in"
 ---

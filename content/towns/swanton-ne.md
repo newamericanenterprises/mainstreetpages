@@ -1,7 +1,7 @@
 ---
-title: "Swanton, Nebraska Business Directory"
+title: "Swanton, NE Business Directory"
+type: "towns"
 slug: "swanton-ne"
-state: "NE"
-county: "Saline"
-population: 500
+state: "ne"
+town_data: "swanton-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Salyersville, Kentucky Business Directory"
+title: "Salyersville, KY Business Directory"
+type: "towns"
 slug: "salyersville-ky"
-town: "Salyersville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Magoffin"
-population: 1723
+state: "ky"
+town_data: "salyersville-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Highland Heights, Kentucky Business Directory"
+title: "Highland Heights, KY Business Directory"
+type: "towns"
 slug: "highland-heights-ky"
-town: "Highland Heights"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 711
+state: "ky"
+town_data: "highland-heights-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gaastra, Michigan Business Directory"
+title: "Gaastra, MI Business Directory"
+type: "towns"
 slug: "gaastra-mi"
-town: "Gaastra"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iron"
-population: 1139
+state: "mi"
+town_data: "gaastra-mi"
 ---

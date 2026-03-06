@@ -1,7 +1,7 @@
 ---
-title: "Willow Creek, Montana Business Directory"
+title: "Willow Creek, MT Business Directory"
+type: "towns"
 slug: "willow-creek-mt"
-state: "MT"
-county: "Gallatin"
-population: 500
+state: "mt"
+town_data: "willow-creek-mt"
 ---

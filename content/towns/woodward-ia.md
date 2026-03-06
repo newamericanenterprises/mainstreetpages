@@ -1,9 +1,7 @@
 ---
-title: "Woodward, Iowa Business Directory"
+title: "Woodward, IA Business Directory"
+type: "towns"
 slug: "woodward-ia"
-town: "Woodward"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 1689
+state: "ia"
+town_data: "woodward-ia"
 ---

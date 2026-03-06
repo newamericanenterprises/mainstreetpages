@@ -1,9 +1,7 @@
 ---
-title: "Westport, Minnesota Business Directory"
+title: "Westport, MN Business Directory"
+type: "towns"
 slug: "westport-mn"
-town: "Westport"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 2067
+state: "mn"
+town_data: "westport-mn"
 ---

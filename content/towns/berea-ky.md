@@ -1,9 +1,7 @@
 ---
-title: "Berea, Kentucky Business Directory"
+title: "Berea, KY Business Directory"
+type: "towns"
 slug: "berea-ky"
-town: "Berea"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Madison"
-population: 16089
+state: "ky"
+town_data: "berea-ky"
 ---

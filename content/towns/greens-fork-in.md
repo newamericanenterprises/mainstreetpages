@@ -1,9 +1,7 @@
 ---
-title: "Greens Fork, Indiana Business Directory"
+title: "Greens Fork, IN Business Directory"
+type: "towns"
 slug: "greens-fork-in"
-town: "Greens Fork"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 4660
+state: "in"
+town_data: "greens-fork-in"
 ---

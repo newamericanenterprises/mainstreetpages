@@ -1,9 +1,7 @@
 ---
-title: "Bena, Minnesota Business Directory"
+title: "Bena, MN Business Directory"
+type: "towns"
 slug: "bena-mn"
-town: "Bena"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 1784
+state: "mn"
+town_data: "bena-mn"
 ---

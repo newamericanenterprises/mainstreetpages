@@ -1,7 +1,7 @@
 ---
-title: "Lewis and Clark Village, Missouri Business Directory"
+title: "Lewis And Clark Village, MO Business Directory"
+type: "towns"
 slug: "lewis-and-clark-village-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "lewis-and-clark-village-mo"
 ---

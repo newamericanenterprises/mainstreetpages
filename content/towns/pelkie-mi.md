@@ -1,9 +1,7 @@
 ---
-title: "Pelkie, Michigan Business Directory"
+title: "Pelkie, MI Business Directory"
+type: "towns"
 slug: "pelkie-mi"
-town: "Pelkie"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 1174
+state: "mi"
+town_data: "pelkie-mi"
 ---

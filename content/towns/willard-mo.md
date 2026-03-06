@@ -1,7 +1,7 @@
 ---
-title: "Willard, Missouri Business Directory"
+title: "Willard, MO Business Directory"
+type: "towns"
 slug: "willard-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "willard-mo"
 ---

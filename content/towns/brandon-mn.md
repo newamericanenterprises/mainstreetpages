@@ -1,9 +1,7 @@
 ---
-title: "Brandon, Minnesota Business Directory"
+title: "Brandon, MN Business Directory"
+type: "towns"
 slug: "brandon-mn"
-town: "Brandon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 2954
+state: "mn"
+town_data: "brandon-mn"
 ---

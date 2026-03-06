@@ -1,9 +1,7 @@
 ---
-title: "Coulter, Iowa Business Directory"
+title: "Coulter, IA Business Directory"
+type: "towns"
 slug: "coulter-ia"
-town: "Coulter"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 2842
+state: "ia"
+town_data: "coulter-ia"
 ---

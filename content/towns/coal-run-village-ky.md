@@ -1,9 +1,7 @@
 ---
-title: "Coal Run Village, Kentucky Business Directory"
+title: "Coal Run Village, KY Business Directory"
+type: "towns"
 slug: "coal-run-village-ky"
-town: "Coal Run Village"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pike"
-population: 1604
+state: "ky"
+town_data: "coal-run-village-ky"
 ---

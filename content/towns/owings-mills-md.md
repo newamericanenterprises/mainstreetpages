@@ -1,9 +1,7 @@
 ---
-title: "Owings Mills, Maryland Business Directory"
+title: "Owings Mills, MD Business Directory"
+type: "towns"
 slug: "owings-mills-md"
-town: "Owings Mills"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 34924
+state: "md"
+town_data: "owings-mills-md"
 ---

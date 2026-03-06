@@ -1,9 +1,7 @@
 ---
-title: "Palisade, Minnesota Business Directory"
+title: "Palisade, MN Business Directory"
+type: "towns"
 slug: "palisade-mn"
-town: "Palisade"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Aitkin"
-population: 1646
+state: "mn"
+town_data: "palisade-mn"
 ---

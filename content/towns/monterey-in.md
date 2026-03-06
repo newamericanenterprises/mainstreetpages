@@ -1,9 +1,7 @@
 ---
-title: "Monterey, Indiana Business Directory"
+title: "Monterey, IN Business Directory"
+type: "towns"
 slug: "monterey-in"
-town: "Monterey"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pulaski"
-population: 2787
+state: "in"
+town_data: "monterey-in"
 ---

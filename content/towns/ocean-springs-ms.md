@@ -1,7 +1,7 @@
 ---
-title: "Ocean Springs, Mississippi Business Directory"
+title: "Ocean Springs, MS Business Directory"
+type: "towns"
 slug: "ocean-springs-ms"
-state: "MS"
-county: "Jackson"
-population: 18175
+state: "ms"
+town_data: "ocean-springs-ms"
 ---

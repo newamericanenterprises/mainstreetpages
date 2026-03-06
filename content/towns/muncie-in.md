@@ -1,9 +1,7 @@
 ---
-title: "Muncie, Indiana Business Directory"
+title: "Muncie, IN Business Directory"
+type: "towns"
 slug: "muncie-in"
-town: "Muncie"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 65194
+state: "in"
+town_data: "muncie-in"
 ---

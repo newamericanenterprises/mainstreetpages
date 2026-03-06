@@ -1,7 +1,7 @@
 ---
-title: "Nixa, Missouri Business Directory"
+title: "Nixa, MO Business Directory"
+type: "towns"
 slug: "nixa-mo"
-state: "MO"
-county: "Christian"
-population: 22086
+state: "mo"
+town_data: "nixa-mo"
 ---

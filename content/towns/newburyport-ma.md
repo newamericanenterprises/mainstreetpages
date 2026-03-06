@@ -1,9 +1,7 @@
 ---
-title: "Newburyport, Massachusetts Business Directory"
+title: "Newburyport, MA Business Directory"
+type: "towns"
 slug: "newburyport-ma"
-town: "Newburyport"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 4910
+state: "ma"
+town_data: "newburyport-ma"
 ---

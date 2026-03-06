@@ -1,9 +1,7 @@
 ---
-title: "Westland, Michigan Business Directory"
+title: "Westland, MI Business Directory"
+type: "towns"
 slug: "westland-mi"
-town: "Westland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 81747
+state: "mi"
+town_data: "westland-mi"
 ---

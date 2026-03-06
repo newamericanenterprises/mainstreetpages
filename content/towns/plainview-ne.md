@@ -1,7 +1,7 @@
 ---
-title: "Plainview, Nebraska Business Directory"
+title: "Plainview, NE Business Directory"
+type: "towns"
 slug: "plainview-ne"
-state: "NE"
-county: "Pierce"
-population: 1246
+state: "ne"
+town_data: "plainview-ne"
 ---

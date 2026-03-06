@@ -1,9 +1,7 @@
 ---
-title: "Charles City, Iowa Business Directory"
+title: "Charles City, IA Business Directory"
+type: "towns"
 slug: "charles-city-ia"
-town: "Charles City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 7441
+state: "ia"
+town_data: "charles-city-ia"
 ---

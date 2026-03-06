@@ -1,9 +1,7 @@
 ---
-title: "Dubach, Louisiana Business Directory"
+title: "Dubach, LA Business Directory"
+type: "towns"
 slug: "dubach-la"
-town: "Dubach"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 1627
+state: "la"
+town_data: "dubach-la"
 ---

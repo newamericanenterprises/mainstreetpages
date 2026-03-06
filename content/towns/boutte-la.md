@@ -1,9 +1,7 @@
 ---
-title: "Boutte, Louisiana Business Directory"
+title: "Boutte, LA Business Directory"
+type: "towns"
 slug: "boutte-la"
-town: "Boutte"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 521
+state: "la"
+town_data: "boutte-la"
 ---

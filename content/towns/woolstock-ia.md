@@ -1,9 +1,7 @@
 ---
-title: "Woolstock, Iowa Business Directory"
+title: "Woolstock, IA Business Directory"
+type: "towns"
 slug: "woolstock-ia"
-town: "Woolstock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 3404
+state: "ia"
+town_data: "woolstock-ia"
 ---

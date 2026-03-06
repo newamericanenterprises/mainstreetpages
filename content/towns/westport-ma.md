@@ -1,9 +1,7 @@
 ---
-title: "Westport, Massachusetts Business Directory"
+title: "Westport, MA Business Directory"
+type: "towns"
 slug: "westport-ma"
-town: "Westport"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 4624
+state: "ma"
+town_data: "westport-ma"
 ---

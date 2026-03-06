@@ -1,7 +1,7 @@
 ---
-title: "Weeping Water, Nebraska Business Directory"
+title: "Weeping Water, NE Business Directory"
+type: "towns"
 slug: "weeping-water-ne"
-state: "NE"
-county: "Cass"
-population: 1038
+state: "ne"
+town_data: "weeping-water-ne"
 ---

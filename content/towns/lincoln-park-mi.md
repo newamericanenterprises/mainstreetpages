@@ -1,9 +1,7 @@
 ---
-title: "Lincoln Park, Michigan Business Directory"
+title: "Lincoln Park, MI Business Directory"
+type: "towns"
 slug: "lincoln-park-mi"
-town: "Lincoln Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 36523
+state: "mi"
+town_data: "lincoln-park-mi"
 ---

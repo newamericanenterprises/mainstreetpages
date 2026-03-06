@@ -1,7 +1,7 @@
 ---
-title: "Hyannis, Nebraska Business Directory"
+title: "Hyannis, NE Business Directory"
+type: "towns"
 slug: "hyannis-ne"
-state: "NE"
-county: "Grant"
-population: 500
+state: "ne"
+town_data: "hyannis-ne"
 ---

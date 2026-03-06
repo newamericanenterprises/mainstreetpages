@@ -1,7 +1,7 @@
 ---
-title: "Holland, Missouri Business Directory"
+title: "Holland, MO Business Directory"
+type: "towns"
 slug: "holland-mo"
-state: "MO"
-county: "Pemiscot"
-population: 1500
+state: "mo"
+town_data: "holland-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Algonac, Michigan Business Directory"
+title: "Algonac, MI Business Directory"
+type: "towns"
 slug: "algonac-mi"
-town: "Algonac"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 4656
+state: "mi"
+town_data: "algonac-mi"
 ---

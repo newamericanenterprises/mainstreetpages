@@ -1,9 +1,7 @@
 ---
-title: "Mohawk, Michigan Business Directory"
+title: "Mohawk, MI Business Directory"
+type: "towns"
 slug: "mohawk-mi"
-town: "Mohawk"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 4722
+state: "mi"
+town_data: "mohawk-mi"
 ---

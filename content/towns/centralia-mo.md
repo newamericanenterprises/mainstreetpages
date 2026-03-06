@@ -1,7 +1,7 @@
 ---
-title: "Centralia, Missouri Business Directory"
+title: "Centralia, MO Business Directory"
+type: "towns"
 slug: "centralia-mo"
-state: "MO"
-county: "Boone"
-population: 4030
+state: "mo"
+town_data: "centralia-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pontiac, Michigan Business Directory"
+title: "Pontiac, MI Business Directory"
+type: "towns"
 slug: "pontiac-mi"
-town: "Pontiac"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 61606
+state: "mi"
+town_data: "pontiac-mi"
 ---

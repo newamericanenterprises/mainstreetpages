@@ -1,9 +1,7 @@
 ---
-title: "Accident, Maryland Business Directory"
+title: "Accident, MD Business Directory"
+type: "towns"
 slug: "accident-md"
-town: "Accident"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 2245
+state: "md"
+town_data: "accident-md"
 ---

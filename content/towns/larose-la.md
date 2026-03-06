@@ -1,9 +1,7 @@
 ---
-title: "Larose, Louisiana Business Directory"
+title: "Larose, LA Business Directory"
+type: "towns"
 slug: "larose-la"
-town: "Larose"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 2973
+state: "la"
+town_data: "larose-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Culver, Kansas Business Directory"
+title: "Culver, KS Business Directory"
+type: "towns"
 slug: "culver-ks"
-town: "Culver"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 2868
+state: "ks"
+town_data: "culver-ks"
 ---

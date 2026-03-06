@@ -1,9 +1,7 @@
 ---
-title: "Lincoln, Michigan Business Directory"
+title: "Lincoln, MI Business Directory"
+type: "towns"
 slug: "lincoln-mi"
-town: "Lincoln"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alcona"
-population: 5429
+state: "mi"
+town_data: "lincoln-mi"
 ---

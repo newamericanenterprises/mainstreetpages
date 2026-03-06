@@ -1,9 +1,7 @@
 ---
-title: "McCune, Kansas Business Directory"
+title: "McCune, KS Business Directory"
+type: "towns"
 slug: "mccune-ks"
-town: "McCune"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 591
+state: "ks"
+town_data: "mccune-ks"
 ---

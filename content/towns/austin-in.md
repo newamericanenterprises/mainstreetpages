@@ -1,9 +1,7 @@
 ---
-title: "Austin, Indiana Business Directory"
+title: "Austin, IN Business Directory"
+type: "towns"
 slug: "austin-in"
-town: "Austin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Scott"
-population: 527
+state: "in"
+town_data: "austin-in"
 ---

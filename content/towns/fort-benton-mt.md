@@ -1,7 +1,7 @@
 ---
-title: "Fort Benton, Montana Business Directory"
+title: "Fort Benton, MT Business Directory"
+type: "towns"
 slug: "fort-benton-mt"
-state: "MT"
-county: "Chouteau"
-population: 1449
+state: "mt"
+town_data: "fort-benton-mt"
 ---

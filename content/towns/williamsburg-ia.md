@@ -1,9 +1,7 @@
 ---
-title: "Williamsburg, Iowa Business Directory"
+title: "Williamsburg, IA Business Directory"
+type: "towns"
 slug: "williamsburg-ia"
-town: "Williamsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 3269
+state: "ia"
+town_data: "williamsburg-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hahnville, Louisiana Business Directory"
+title: "Hahnville, LA Business Directory"
+type: "towns"
 slug: "hahnville-la"
-town: "Hahnville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 1303
+state: "la"
+town_data: "hahnville-la"
 ---

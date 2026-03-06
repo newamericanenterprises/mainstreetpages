@@ -1,9 +1,7 @@
 ---
-title: "Thompson, Iowa Business Directory"
+title: "Thompson, IA Business Directory"
+type: "towns"
 slug: "thompson-ia"
-town: "Thompson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 916
+state: "ia"
+town_data: "thompson-ia"
 ---

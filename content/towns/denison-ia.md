@@ -1,9 +1,7 @@
 ---
-title: "Denison, Iowa Business Directory"
+title: "Denison, IA Business Directory"
+type: "towns"
 slug: "denison-ia"
-town: "Denison"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 8298
+state: "ia"
+town_data: "denison-ia"
 ---

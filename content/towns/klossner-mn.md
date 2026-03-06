@@ -1,9 +1,7 @@
 ---
-title: "Klossner, Minnesota Business Directory"
+title: "Klossner, MN Business Directory"
+type: "towns"
 slug: "klossner-mn"
-town: "Klossner"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 1774
+state: "mn"
+town_data: "klossner-mn"
 ---

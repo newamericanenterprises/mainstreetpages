@@ -1,9 +1,7 @@
 ---
-title: "Arion, Iowa Business Directory"
+title: "Arion, IA Business Directory"
+type: "towns"
 slug: "arion-ia"
-town: "Arion"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 2635
+state: "ia"
+town_data: "arion-ia"
 ---

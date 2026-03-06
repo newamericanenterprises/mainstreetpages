@@ -1,9 +1,7 @@
 ---
-title: "Harrison, Maine Business Directory"
+title: "Harrison, ME Business Directory"
+type: "towns"
 slug: "harrison-me"
-town: "Harrison"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1968
+state: "me"
+town_data: "harrison-me"
 ---

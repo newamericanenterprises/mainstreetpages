@@ -1,9 +1,7 @@
 ---
-title: "Frankfort, Maine Business Directory"
+title: "Frankfort, ME Business Directory"
+type: "towns"
 slug: "frankfort-me"
-town: "Frankfort"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 360
+state: "me"
+town_data: "frankfort-me"
 ---

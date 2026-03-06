@@ -1,9 +1,7 @@
 ---
-title: "Middletown, Iowa Business Directory"
+title: "Middletown, IA Business Directory"
+type: "towns"
 slug: "middletown-ia"
-town: "Middletown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 2757
+state: "ia"
+town_data: "middletown-ia"
 ---

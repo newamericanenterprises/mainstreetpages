@@ -1,9 +1,7 @@
 ---
-title: "Maynard, Minnesota Business Directory"
+title: "Maynard, MN Business Directory"
+type: "towns"
 slug: "maynard-mn"
-town: "Maynard"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chippewa"
-population: 705
+state: "mn"
+town_data: "maynard-mn"
 ---

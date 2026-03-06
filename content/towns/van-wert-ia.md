@@ -1,9 +1,7 @@
 ---
-title: "Van Wert, Iowa Business Directory"
+title: "Van Wert, IA Business Directory"
+type: "towns"
 slug: "van-wert-ia"
-town: "Van Wert"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 1033
+state: "ia"
+town_data: "van-wert-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Poplar Bluff, Missouri Business Directory"
+title: "Poplar Bluff, MO Business Directory"
+type: "towns"
 slug: "poplar-bluff-mo"
-state: "MO"
-county: "Butler"
-population: 17023
+state: "mo"
+town_data: "poplar-bluff-mo"
 ---

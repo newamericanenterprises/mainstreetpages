@@ -1,7 +1,7 @@
 ---
-title: "Tekamah, Nebraska Business Directory"
+title: "Tekamah, NE Business Directory"
+type: "towns"
 slug: "tekamah-ne"
-state: "NE"
-county: "Burt"
-population: 1735
+state: "ne"
+town_data: "tekamah-ne"
 ---

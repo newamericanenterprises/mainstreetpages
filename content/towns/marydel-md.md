@@ -1,9 +1,7 @@
 ---
-title: "Marydel, Maryland Business Directory"
+title: "Marydel, MD Business Directory"
+type: "towns"
 slug: "marydel-md"
-town: "Marydel"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 4189
+state: "md"
+town_data: "marydel-md"
 ---

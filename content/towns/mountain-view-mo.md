@@ -1,7 +1,7 @@
 ---
-title: "Mountain View, Missouri Business Directory"
+title: "Mountain View, MO Business Directory"
+type: "towns"
 slug: "mountain-view-mo"
-state: "MO"
-county: "Howell"
-population: 2719
+state: "mo"
+town_data: "mountain-view-mo"
 ---

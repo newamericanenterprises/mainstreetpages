@@ -1,7 +1,7 @@
 ---
-title: "Arcola, Mississippi Business Directory"
+title: "Arcola, MS Business Directory"
+type: "towns"
 slug: "arcola-ms"
-state: "MS"
-county: "Washington"
-population: 426
+state: "ms"
+town_data: "arcola-ms"
 ---

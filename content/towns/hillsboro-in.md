@@ -1,9 +1,7 @@
 ---
-title: "Hillsboro, Indiana Business Directory"
+title: "Hillsboro, IN Business Directory"
+type: "towns"
 slug: "hillsboro-in"
-town: "Hillsboro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 1246
+state: "in"
+town_data: "hillsboro-in"
 ---

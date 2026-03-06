@@ -1,9 +1,7 @@
 ---
-title: "Scituate, Massachusetts Business Directory"
+title: "Scituate, MA Business Directory"
+type: "towns"
 slug: "scituate-ma"
-town: "Scituate"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 18954
+state: "ma"
+town_data: "scituate-ma"
 ---

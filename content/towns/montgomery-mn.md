@@ -1,9 +1,7 @@
 ---
-title: "Montgomery, Minnesota Business Directory"
+title: "Montgomery, MN Business Directory"
+type: "towns"
 slug: "montgomery-mn"
-town: "Montgomery"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 1537
+state: "mn"
+town_data: "montgomery-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clancy, Montana Business Directory"
+title: "Clancy, MT Business Directory"
+type: "towns"
 slug: "clancy-mt"
-state: "MT"
-county: "Jefferson"
-population: 500
+state: "mt"
+town_data: "clancy-mt"
 ---

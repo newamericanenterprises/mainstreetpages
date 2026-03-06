@@ -1,9 +1,7 @@
 ---
-title: "Clarence, Louisiana Business Directory"
+title: "Clarence, LA Business Directory"
+type: "towns"
 slug: "clarence-la"
-town: "Clarence"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 2509
+state: "la"
+town_data: "clarence-la"
 ---

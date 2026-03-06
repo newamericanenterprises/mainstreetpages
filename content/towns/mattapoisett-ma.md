@@ -1,9 +1,7 @@
 ---
-title: "Mattapoisett, Massachusetts Business Directory"
+title: "Mattapoisett, MA Business Directory"
+type: "towns"
 slug: "mattapoisett-ma"
-town: "Mattapoisett"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 1642
+state: "ma"
+town_data: "mattapoisett-ma"
 ---

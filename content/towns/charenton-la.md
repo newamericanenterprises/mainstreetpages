@@ -1,9 +1,7 @@
 ---
-title: "Charenton, Louisiana Business Directory"
+title: "Charenton, LA Business Directory"
+type: "towns"
 slug: "charenton-la"
-town: "Charenton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 3102
+state: "la"
+town_data: "charenton-la"
 ---

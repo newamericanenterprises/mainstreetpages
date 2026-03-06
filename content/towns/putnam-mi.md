@@ -1,9 +1,7 @@
 ---
-title: "Putnam, Michigan Business Directory"
+title: "Putnam, MI Business Directory"
+type: "towns"
 slug: "putnam-mi"
-town: "Putnam"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 3305
+state: "mi"
+town_data: "putnam-mi"
 ---

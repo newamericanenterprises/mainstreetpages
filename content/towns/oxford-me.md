@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Maine Business Directory"
+title: "Oxford, ME Business Directory"
+type: "towns"
 slug: "oxford-me"
-town: "Oxford"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 770
+state: "me"
+town_data: "oxford-me"
 ---

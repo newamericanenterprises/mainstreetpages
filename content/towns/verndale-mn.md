@@ -1,9 +1,7 @@
 ---
-title: "Verndale, Minnesota Business Directory"
+title: "Verndale, MN Business Directory"
+type: "towns"
 slug: "verndale-mn"
-town: "Verndale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wadena"
-population: 680
+state: "mn"
+town_data: "verndale-mn"
 ---

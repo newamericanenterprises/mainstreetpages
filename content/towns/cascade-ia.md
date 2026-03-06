@@ -1,9 +1,7 @@
 ---
-title: "Cascade, Iowa Business Directory"
+title: "Cascade, IA Business Directory"
+type: "towns"
 slug: "cascade-ia"
-town: "Cascade"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 2462
+state: "ia"
+town_data: "cascade-ia"
 ---

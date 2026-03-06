@@ -1,9 +1,7 @@
 ---
-title: "Highland Park, Michigan Business Directory"
+title: "Highland Park, MI Business Directory"
+type: "towns"
 slug: "highland-park-mi"
-town: "Highland Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1979
+state: "mi"
+town_data: "highland-park-mi"
 ---

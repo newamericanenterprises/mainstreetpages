@@ -1,9 +1,7 @@
 ---
-title: "Dawson, Iowa Business Directory"
+title: "Dawson, IA Business Directory"
+type: "towns"
 slug: "dawson-ia"
-town: "Dawson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 836
+state: "ia"
+town_data: "dawson-ia"
 ---

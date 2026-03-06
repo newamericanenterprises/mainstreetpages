@@ -1,9 +1,7 @@
 ---
-title: "Hillman, Minnesota Business Directory"
+title: "Hillman, MN Business Directory"
+type: "towns"
 slug: "hillman-mn"
-town: "Hillman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 633
+state: "mn"
+town_data: "hillman-mn"
 ---

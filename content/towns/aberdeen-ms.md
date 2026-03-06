@@ -1,7 +1,7 @@
 ---
-title: "Aberdeen, Mississippi Business Directory"
+title: "Aberdeen, MS Business Directory"
+type: "towns"
 slug: "aberdeen-ms"
-state: "MS"
-county: "Monroe"
-population: 5612
+state: "ms"
+town_data: "aberdeen-ms"
 ---

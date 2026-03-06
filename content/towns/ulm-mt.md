@@ -1,7 +1,7 @@
 ---
-title: "Ulm, Montana Business Directory"
+title: "Ulm, MT Business Directory"
+type: "towns"
 slug: "ulm-mt"
-state: "MT"
-county: "Cascade"
-population: 738
+state: "mt"
+town_data: "ulm-mt"
 ---

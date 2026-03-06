@@ -1,9 +1,7 @@
 ---
-title: "Speedway, Indiana Business Directory"
+title: "Speedway, IN Business Directory"
+type: "towns"
 slug: "speedway-in"
-town: "Speedway"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marion"
-population: 12598
+state: "in"
+town_data: "speedway-in"
 ---

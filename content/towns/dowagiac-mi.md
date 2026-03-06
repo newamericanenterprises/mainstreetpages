@@ -1,9 +1,7 @@
 ---
-title: "Dowagiac, Michigan Business Directory"
+title: "Dowagiac, MI Business Directory"
+type: "towns"
 slug: "dowagiac-mi"
-town: "Dowagiac"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cass"
-population: 5644
+state: "mi"
+town_data: "dowagiac-mi"
 ---

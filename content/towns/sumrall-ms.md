@@ -1,7 +1,7 @@
 ---
-title: "Sumrall, Mississippi Business Directory"
+title: "Sumrall, MS Business Directory"
+type: "towns"
 slug: "sumrall-ms"
-state: "MS"
-county: "Lamar"
-population: 1644
+state: "ms"
+town_data: "sumrall-ms"
 ---

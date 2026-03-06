@@ -1,9 +1,7 @@
 ---
-title: "Edgewood, Iowa Business Directory"
+title: "Edgewood, IA Business Directory"
+type: "towns"
 slug: "edgewood-ia"
-town: "Edgewood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 630
+state: "ia"
+town_data: "edgewood-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Cascade, Montana Business Directory"
+title: "Cascade, MT Business Directory"
+type: "towns"
 slug: "cascade-mt"
-state: "MT"
-county: "Cascade"
-population: 694
+state: "mt"
+town_data: "cascade-mt"
 ---

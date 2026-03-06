@@ -1,9 +1,7 @@
 ---
-title: "Limestone, Maine Business Directory"
+title: "Limestone, ME Business Directory"
+type: "towns"
 slug: "limestone-me"
-town: "Limestone"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 762
+state: "me"
+town_data: "limestone-me"
 ---

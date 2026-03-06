@@ -1,9 +1,7 @@
 ---
-title: "Shambaugh, Iowa Business Directory"
+title: "Shambaugh, IA Business Directory"
+type: "towns"
 slug: "shambaugh-ia"
-town: "Shambaugh"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 3319
+state: "ia"
+town_data: "shambaugh-ia"
 ---

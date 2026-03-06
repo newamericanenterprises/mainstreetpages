@@ -1,9 +1,7 @@
 ---
-title: "Linn, Kansas Business Directory"
+title: "Linn, KS Business Directory"
+type: "towns"
 slug: "linn-ks"
-town: "Linn"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 616
+state: "ks"
+town_data: "linn-ks"
 ---

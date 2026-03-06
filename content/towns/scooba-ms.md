@@ -1,7 +1,7 @@
 ---
-title: "Scooba, Mississippi Business Directory"
+title: "Scooba, MS Business Directory"
+type: "towns"
 slug: "scooba-ms"
-state: "MS"
-county: "Kemper"
-population: 720
+state: "ms"
+town_data: "scooba-ms"
 ---

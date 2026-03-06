@@ -1,9 +1,7 @@
 ---
-title: "Carver, Massachusetts Business Directory"
+title: "Carver, MA Business Directory"
+type: "towns"
 slug: "carver-ma"
-town: "Carver"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 1322
+state: "ma"
+town_data: "carver-ma"
 ---

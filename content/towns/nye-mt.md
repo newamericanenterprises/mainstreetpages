@@ -1,7 +1,7 @@
 ---
-title: "Nye, Montana Business Directory"
+title: "Nye, MT Business Directory"
+type: "towns"
 slug: "nye-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "nye-mt"
 ---

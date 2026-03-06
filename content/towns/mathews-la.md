@@ -1,9 +1,7 @@
 ---
-title: "Mathews, Louisiana Business Directory"
+title: "Mathews, LA Business Directory"
+type: "towns"
 slug: "mathews-la"
-town: "Mathews"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 2692
+state: "la"
+town_data: "mathews-la"
 ---

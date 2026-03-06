@@ -1,9 +1,7 @@
 ---
-title: "Parma, Michigan Business Directory"
+title: "Parma, MI Business Directory"
+type: "towns"
 slug: "parma-mi"
-town: "Parma"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 4001
+state: "mi"
+town_data: "parma-mi"
 ---

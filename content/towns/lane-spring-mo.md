@@ -1,7 +1,7 @@
 ---
-title: "Lane Spring, Missouri Business Directory"
+title: "Lane Spring, MO Business Directory"
+type: "towns"
 slug: "lane-spring-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "lane-spring-mo"
 ---

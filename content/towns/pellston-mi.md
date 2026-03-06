@@ -1,9 +1,7 @@
 ---
-title: "Pellston, Michigan Business Directory"
+title: "Pellston, MI Business Directory"
+type: "towns"
 slug: "pellston-mi"
-town: "Pellston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 2077
+state: "mi"
+town_data: "pellston-mi"
 ---

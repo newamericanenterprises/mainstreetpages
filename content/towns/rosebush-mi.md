@@ -1,9 +1,7 @@
 ---
-title: "Rosebush, Michigan Business Directory"
+title: "Rosebush, MI Business Directory"
+type: "towns"
 slug: "rosebush-mi"
-town: "Rosebush"
-state: "Michigan"
-state_abbr: "MI"
-county: "Isabella"
-population: 556
+state: "mi"
+town_data: "rosebush-mi"
 ---

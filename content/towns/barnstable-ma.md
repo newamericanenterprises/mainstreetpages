@@ -1,9 +1,7 @@
 ---
-title: "Barnstable, Massachusetts Business Directory"
+title: "Barnstable, MA Business Directory"
+type: "towns"
 slug: "barnstable-ma"
-town: "Barnstable"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 44641
+state: "ma"
+town_data: "barnstable-ma"
 ---

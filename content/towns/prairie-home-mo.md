@@ -1,7 +1,7 @@
 ---
-title: "Prairie Home, Missouri Business Directory"
+title: "Prairie Home, MO Business Directory"
+type: "towns"
 slug: "prairie-home-mo"
-state: "MO"
-county: "Cooper"
-population: 1500
+state: "mo"
+town_data: "prairie-home-mo"
 ---

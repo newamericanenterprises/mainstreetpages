@@ -1,9 +1,7 @@
 ---
-title: "Perry, Michigan Business Directory"
+title: "Perry, MI Business Directory"
+type: "towns"
 slug: "perry-mi"
-town: "Perry"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 4910
+state: "mi"
+town_data: "perry-mi"
 ---

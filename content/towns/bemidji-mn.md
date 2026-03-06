@@ -1,9 +1,7 @@
 ---
-title: "Bemidji, Minnesota Business Directory"
+title: "Bemidji, MN Business Directory"
+type: "towns"
 slug: "bemidji-mn"
-town: "Bemidji"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Beltrami"
-population: 15859
+state: "mn"
+town_data: "bemidji-mn"
 ---

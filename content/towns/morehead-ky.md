@@ -1,9 +1,7 @@
 ---
-title: "Morehead, Kentucky Business Directory"
+title: "Morehead, KY Business Directory"
+type: "towns"
 slug: "morehead-ky"
-town: "Morehead"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Rowan"
-population: 7604
+state: "ky"
+town_data: "morehead-ky"
 ---

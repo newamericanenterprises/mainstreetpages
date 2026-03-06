@@ -1,9 +1,7 @@
 ---
-title: "Athol, Massachusetts Business Directory"
+title: "Athol, MA Business Directory"
+type: "towns"
 slug: "athol-ma"
-town: "Athol"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5507
+state: "ma"
+town_data: "athol-ma"
 ---

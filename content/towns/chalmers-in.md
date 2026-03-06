@@ -1,9 +1,7 @@
 ---
-title: "Chalmers, Indiana Business Directory"
+title: "Chalmers, IN Business Directory"
+type: "towns"
 slug: "chalmers-in"
-town: "Chalmers"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 866
+state: "in"
+town_data: "chalmers-in"
 ---

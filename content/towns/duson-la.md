@@ -1,9 +1,7 @@
 ---
-title: "Duson, Louisiana Business Directory"
+title: "Duson, LA Business Directory"
+type: "towns"
 slug: "duson-la"
-town: "Duson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 1644
+state: "la"
+town_data: "duson-la"
 ---

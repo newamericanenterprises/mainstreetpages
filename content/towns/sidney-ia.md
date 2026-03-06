@@ -1,9 +1,7 @@
 ---
-title: "Sidney, Iowa Business Directory"
+title: "Sidney, IA Business Directory"
+type: "towns"
 slug: "sidney-ia"
-town: "Sidney"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 785
+state: "ia"
+town_data: "sidney-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Jameson, Missouri Business Directory"
+title: "Jameson, MO Business Directory"
+type: "towns"
 slug: "jameson-mo"
-state: "MO"
-county: "Daviess"
-population: 1500
+state: "mo"
+town_data: "jameson-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tenstrike, Minnesota Business Directory"
+title: "Tenstrike, MN Business Directory"
+type: "towns"
 slug: "tenstrike-mn"
-town: "Tenstrike"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Beltrami"
-population: 1533
+state: "mn"
+town_data: "tenstrike-mn"
 ---

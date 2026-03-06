@@ -1,9 +1,7 @@
 ---
-title: "Rockport, Maine Business Directory"
+title: "Rockport, ME Business Directory"
+type: "towns"
 slug: "rockport-me"
-town: "Rockport"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 1207
+state: "me"
+town_data: "rockport-me"
 ---

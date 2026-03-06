@@ -1,7 +1,7 @@
 ---
-title: "Lake Lafayette, Missouri Business Directory"
+title: "Lake Lafayette, MO Business Directory"
+type: "towns"
 slug: "lake-lafayette-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "lake-lafayette-mo"
 ---

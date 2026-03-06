@@ -1,9 +1,7 @@
 ---
-title: "Milaca, Minnesota Business Directory"
+title: "Milaca, MN Business Directory"
+type: "towns"
 slug: "milaca-mn"
-town: "Milaca"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 2464
+state: "mn"
+town_data: "milaca-mn"
 ---

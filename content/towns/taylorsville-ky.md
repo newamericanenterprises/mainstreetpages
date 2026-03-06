@@ -1,9 +1,7 @@
 ---
-title: "Taylorsville, Kentucky Business Directory"
+title: "Taylorsville, KY Business Directory"
+type: "towns"
 slug: "taylorsville-ky"
-town: "Taylorsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Spencer"
-population: 1287
+state: "ky"
+town_data: "taylorsville-ky"
 ---

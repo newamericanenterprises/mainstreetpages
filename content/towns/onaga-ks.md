@@ -1,9 +1,7 @@
 ---
-title: "Onaga, Kansas Business Directory"
+title: "Onaga, KS Business Directory"
+type: "towns"
 slug: "onaga-ks"
-town: "Onaga"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 2778
+state: "ks"
+town_data: "onaga-ks"
 ---

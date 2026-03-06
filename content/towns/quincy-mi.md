@@ -1,9 +1,7 @@
 ---
-title: "Quincy, Michigan Business Directory"
+title: "Quincy, MI Business Directory"
+type: "towns"
 slug: "quincy-mi"
-town: "Quincy"
-state: "Michigan"
-state_abbr: "MI"
-county: "Branch"
-population: 1858
+state: "mi"
+town_data: "quincy-mi"
 ---

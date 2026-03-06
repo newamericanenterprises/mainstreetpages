@@ -1,9 +1,7 @@
 ---
-title: "Oakland, Kentucky Business Directory"
+title: "Oakland, KY Business Directory"
+type: "towns"
 slug: "oakland-ky"
-town: "Oakland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Warren"
-population: 809
+state: "ky"
+town_data: "oakland-ky"
 ---

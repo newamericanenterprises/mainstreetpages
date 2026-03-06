@@ -1,7 +1,7 @@
 ---
-title: "Firth, Nebraska Business Directory"
+title: "Firth, NE Business Directory"
+type: "towns"
 slug: "firth-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "firth-ne"
 ---

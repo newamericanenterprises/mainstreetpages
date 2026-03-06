@@ -1,7 +1,7 @@
 ---
-title: "Natchez, Mississippi Business Directory"
+title: "Natchez, MS Business Directory"
+type: "towns"
 slug: "natchez-ms"
-state: "MS"
-county: "Adams"
-population: 14520
+state: "ms"
+town_data: "natchez-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Baldwyn, Mississippi Business Directory"
+title: "Baldwyn, MS Business Directory"
+type: "towns"
 slug: "baldwyn-ms"
-state: "MS"
-county: "Lee"
-population: 3373
+state: "ms"
+town_data: "baldwyn-ms"
 ---

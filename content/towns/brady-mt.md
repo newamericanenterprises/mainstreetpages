@@ -1,7 +1,7 @@
 ---
-title: "Brady, Montana Business Directory"
+title: "Brady, MT Business Directory"
+type: "towns"
 slug: "brady-mt"
-state: "MT"
-county: "Pondera"
-population: 144
+state: "mt"
+town_data: "brady-mt"
 ---

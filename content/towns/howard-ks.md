@@ -1,9 +1,7 @@
 ---
-title: "Howard, Kansas Business Directory"
+title: "Howard, KS Business Directory"
+type: "towns"
 slug: "howard-ks"
-town: "Howard"
-state: "Kansas"
-state_abbr: "KS"
-county: "Elk"
-population: 619
+state: "ks"
+town_data: "howard-ks"
 ---

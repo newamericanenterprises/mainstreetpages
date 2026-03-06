@@ -1,9 +1,7 @@
 ---
-title: "Freesoil, Michigan Business Directory"
+title: "Freesoil, MI Business Directory"
+type: "towns"
 slug: "freesoil-mi"
-town: "Freesoil"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mason"
-population: 3815
+state: "mi"
+town_data: "freesoil-mi"
 ---

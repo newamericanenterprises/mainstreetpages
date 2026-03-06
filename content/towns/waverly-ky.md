@@ -1,9 +1,7 @@
 ---
-title: "Waverly, Kentucky Business Directory"
+title: "Waverly, KY Business Directory"
+type: "towns"
 slug: "waverly-ky"
-town: "Waverly"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Union"
-population: 1400
+state: "ky"
+town_data: "waverly-ky"
 ---

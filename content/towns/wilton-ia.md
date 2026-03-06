@@ -1,9 +1,7 @@
 ---
-title: "Wilton, Iowa Business Directory"
+title: "Wilton, IA Business Directory"
+type: "towns"
 slug: "wilton-ia"
-town: "Wilton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 707
+state: "ia"
+town_data: "wilton-ia"
 ---

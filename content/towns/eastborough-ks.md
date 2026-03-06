@@ -1,9 +1,7 @@
 ---
-title: "Eastborough, Kansas Business Directory"
+title: "Eastborough, KS Business Directory"
+type: "towns"
 slug: "eastborough-ks"
-town: "Eastborough"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 335
+state: "ks"
+town_data: "eastborough-ks"
 ---

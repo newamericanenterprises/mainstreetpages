@@ -1,9 +1,7 @@
 ---
-title: "Montgomery, Louisiana Business Directory"
+title: "Montgomery, LA Business Directory"
+type: "towns"
 slug: "montgomery-la"
-town: "Montgomery"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Grant"
-population: 839
+state: "la"
+town_data: "montgomery-la"
 ---

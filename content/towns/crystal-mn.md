@@ -1,9 +1,7 @@
 ---
-title: "Crystal, Minnesota Business Directory"
+title: "Crystal, MN Business Directory"
+type: "towns"
 slug: "crystal-mn"
-town: "Crystal"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 894
+state: "mn"
+town_data: "crystal-mn"
 ---

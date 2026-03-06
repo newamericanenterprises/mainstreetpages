@@ -1,9 +1,7 @@
 ---
-title: "Lathrup Village, Michigan Business Directory"
+title: "Lathrup Village, MI Business Directory"
+type: "towns"
 slug: "lathrup-village-mi"
-town: "Lathrup Village"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2449
+state: "mi"
+town_data: "lathrup-village-mi"
 ---

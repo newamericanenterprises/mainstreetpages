@@ -1,9 +1,7 @@
 ---
-title: "Southport, Maine Business Directory"
+title: "Southport, ME Business Directory"
+type: "towns"
 slug: "southport-me"
-town: "Southport"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 396
+state: "me"
+town_data: "southport-me"
 ---

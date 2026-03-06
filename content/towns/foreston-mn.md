@@ -1,9 +1,7 @@
 ---
-title: "Foreston, Minnesota Business Directory"
+title: "Foreston, MN Business Directory"
+type: "towns"
 slug: "foreston-mn"
-town: "Foreston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 1567
+state: "mn"
+town_data: "foreston-mn"
 ---

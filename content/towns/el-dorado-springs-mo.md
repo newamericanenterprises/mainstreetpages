@@ -1,7 +1,7 @@
 ---
-title: "El Dorado Springs, Missouri Business Directory"
+title: "El Dorado Springs, MO Business Directory"
+type: "towns"
 slug: "el-dorado-springs-mo"
-state: "MO"
-county: "Cedar"
-population: 3584
+state: "mo"
+town_data: "el-dorado-springs-mo"
 ---

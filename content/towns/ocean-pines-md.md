@@ -1,9 +1,7 @@
 ---
-title: "Ocean Pines, Maryland Business Directory"
+title: "Ocean Pines, MD Business Directory"
+type: "towns"
 slug: "ocean-pines-md"
-town: "Ocean Pines"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 3455
+state: "md"
+town_data: "ocean-pines-md"
 ---

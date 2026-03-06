@@ -1,9 +1,7 @@
 ---
-title: "Emerson, Iowa Business Directory"
+title: "Emerson, IA Business Directory"
+type: "towns"
 slug: "emerson-ia"
-town: "Emerson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 3137
+state: "ia"
+town_data: "emerson-ia"
 ---

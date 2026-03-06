@@ -1,7 +1,7 @@
 ---
-title: "Glendora, Mississippi Business Directory"
+title: "Glendora, MS Business Directory"
+type: "towns"
 slug: "glendora-ms"
-state: "MS"
-county: "Tallahatchie"
-population: 150
+state: "ms"
+town_data: "glendora-ms"
 ---

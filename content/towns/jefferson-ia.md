@@ -1,9 +1,7 @@
 ---
-title: "Jefferson, Iowa Business Directory"
+title: "Jefferson, IA Business Directory"
+type: "towns"
 slug: "jefferson-ia"
-town: "Jefferson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 4345
+state: "ia"
+town_data: "jefferson-ia"
 ---

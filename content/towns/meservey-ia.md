@@ -1,9 +1,7 @@
 ---
-title: "Meservey, Iowa Business Directory"
+title: "Meservey, IA Business Directory"
+type: "towns"
 slug: "meservey-ia"
-town: "Meservey"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 1637
+state: "ia"
+town_data: "meservey-ia"
 ---

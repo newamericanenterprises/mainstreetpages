@@ -1,9 +1,7 @@
 ---
-title: "Lake Benton, Minnesota Business Directory"
+title: "Lake Benton, MN Business Directory"
+type: "towns"
 slug: "lake-benton-mn"
-town: "Lake Benton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lincoln"
-population: 1380
+state: "mn"
+town_data: "lake-benton-mn"
 ---

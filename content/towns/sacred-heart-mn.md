@@ -1,9 +1,7 @@
 ---
-title: "Sacred Heart, Minnesota Business Directory"
+title: "Sacred Heart, MN Business Directory"
+type: "towns"
 slug: "sacred-heart-mn"
-town: "Sacred Heart"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 1892
+state: "mn"
+town_data: "sacred-heart-mn"
 ---

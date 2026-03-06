@@ -1,7 +1,7 @@
 ---
-title: "Alder, Montana Business Directory"
+title: "Alder, MT Business Directory"
+type: "towns"
 slug: "alder-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "alder-mt"
 ---

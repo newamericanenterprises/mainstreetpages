@@ -1,9 +1,7 @@
 ---
-title: "Hamilton, Kansas Business Directory"
+title: "Hamilton, KS Business Directory"
+type: "towns"
 slug: "hamilton-ks"
-town: "Hamilton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 941
+state: "ks"
+town_data: "hamilton-ks"
 ---

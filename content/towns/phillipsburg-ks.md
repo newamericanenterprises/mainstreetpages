@@ -1,9 +1,7 @@
 ---
-title: "Phillipsburg, Kansas Business Directory"
+title: "Phillipsburg, KS Business Directory"
+type: "towns"
 slug: "phillipsburg-ks"
-town: "Phillipsburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 2433
+state: "ks"
+town_data: "phillipsburg-ks"
 ---

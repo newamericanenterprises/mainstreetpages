@@ -1,9 +1,7 @@
 ---
-title: "Beattyville, Kentucky Business Directory"
+title: "Beattyville, KY Business Directory"
+type: "towns"
 slug: "beattyville-ky"
-town: "Beattyville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lee"
-population: 1253
+state: "ky"
+town_data: "beattyville-ky"
 ---

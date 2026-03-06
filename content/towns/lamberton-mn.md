@@ -1,9 +1,7 @@
 ---
-title: "Lamberton, Minnesota Business Directory"
+title: "Lamberton, MN Business Directory"
+type: "towns"
 slug: "lamberton-mn"
-town: "Lamberton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 1374
+state: "mn"
+town_data: "lamberton-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ithaca, Michigan Business Directory"
+title: "Ithaca, MI Business Directory"
+type: "towns"
 slug: "ithaca-mi"
-town: "Ithaca"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 1534
+state: "mi"
+town_data: "ithaca-mi"
 ---

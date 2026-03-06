@@ -1,7 +1,7 @@
 ---
-title: "Cleveland, Missouri Business Directory"
+title: "Cleveland, MO Business Directory"
+type: "towns"
 slug: "cleveland-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "cleveland-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Maringouin, Louisiana Business Directory"
+title: "Maringouin, LA Business Directory"
+type: "towns"
 slug: "maringouin-la"
-town: "Maringouin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 1826
+state: "la"
+town_data: "maringouin-la"
 ---

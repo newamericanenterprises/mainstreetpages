@@ -1,9 +1,7 @@
 ---
-title: "Holt, Michigan Business Directory"
+title: "Holt, MI Business Directory"
+type: "towns"
 slug: "holt-mi"
-town: "Holt"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 973
+state: "mi"
+town_data: "holt-mi"
 ---

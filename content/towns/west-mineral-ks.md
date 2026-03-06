@@ -1,9 +1,7 @@
 ---
-title: "West Mineral, Kansas Business Directory"
+title: "West Mineral, KS Business Directory"
+type: "towns"
 slug: "west-mineral-ks"
-town: "West Mineral"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 959
+state: "ks"
+town_data: "west-mineral-ks"
 ---

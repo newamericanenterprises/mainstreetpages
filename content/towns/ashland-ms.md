@@ -1,7 +1,7 @@
 ---
-title: "Ashland, Mississippi Business Directory"
+title: "Ashland, MS Business Directory"
+type: "towns"
 slug: "ashland-ms"
-state: "MS"
-county: "Benton"
-population: 451
+state: "ms"
+town_data: "ashland-ms"
 ---

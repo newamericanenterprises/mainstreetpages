@@ -1,7 +1,7 @@
 ---
-title: "Hickman, Nebraska Business Directory"
+title: "Hickman, NE Business Directory"
+type: "towns"
 slug: "hickman-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "hickman-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Amherst, Nebraska Business Directory"
+title: "Amherst, NE Business Directory"
+type: "towns"
 slug: "amherst-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "amherst-ne"
 ---

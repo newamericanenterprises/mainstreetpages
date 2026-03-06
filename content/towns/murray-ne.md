@@ -1,7 +1,7 @@
 ---
-title: "Murray, Nebraska Business Directory"
+title: "Murray, NE Business Directory"
+type: "towns"
 slug: "murray-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "murray-ne"
 ---

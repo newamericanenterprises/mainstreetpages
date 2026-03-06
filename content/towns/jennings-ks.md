@@ -1,9 +1,7 @@
 ---
-title: "Jennings, Kansas Business Directory"
+title: "Jennings, KS Business Directory"
+type: "towns"
 slug: "jennings-ks"
-town: "Jennings"
-state: "Kansas"
-state_abbr: "KS"
-county: "Decatur"
-population: 1831
+state: "ks"
+town_data: "jennings-ks"
 ---

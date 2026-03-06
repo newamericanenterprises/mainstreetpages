@@ -1,9 +1,7 @@
 ---
-title: "Ford, Kansas Business Directory"
+title: "Ford, KS Business Directory"
+type: "towns"
 slug: "ford-ks"
-town: "Ford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ford"
-population: 970
+state: "ks"
+town_data: "ford-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Schlater, Mississippi Business Directory"
+title: "Schlater, MS Business Directory"
+type: "towns"
 slug: "schlater-ms"
-state: "MS"
-county: "Leflore"
-population: 309
+state: "ms"
+town_data: "schlater-ms"
 ---

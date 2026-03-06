@@ -1,9 +1,7 @@
 ---
-title: "Pierre Part, Louisiana Business Directory"
+title: "Pierre Part, LA Business Directory"
+type: "towns"
 slug: "pierre-part-la"
-town: "Pierre Part"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Assumption"
-population: 1092
+state: "la"
+town_data: "pierre-part-la"
 ---

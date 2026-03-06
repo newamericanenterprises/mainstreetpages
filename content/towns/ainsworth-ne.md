@@ -1,7 +1,7 @@
 ---
-title: "Ainsworth, Nebraska Business Directory"
+title: "Ainsworth, NE Business Directory"
+type: "towns"
 slug: "ainsworth-ne"
-state: "NE"
-county: "Brown"
-population: 1728
+state: "ne"
+town_data: "ainsworth-ne"
 ---

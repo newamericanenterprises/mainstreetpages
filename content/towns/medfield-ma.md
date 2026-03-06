@@ -1,9 +1,7 @@
 ---
-title: "Medfield, Massachusetts Business Directory"
+title: "Medfield, MA Business Directory"
+type: "towns"
 slug: "medfield-ma"
-town: "Medfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 1828
+state: "ma"
+town_data: "medfield-ma"
 ---

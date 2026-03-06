@@ -1,7 +1,7 @@
 ---
-title: "Marquand, Missouri Business Directory"
+title: "Marquand, MO Business Directory"
+type: "towns"
 slug: "marquand-mo"
-state: "MO"
-county: "Madison"
-population: 1500
+state: "mo"
+town_data: "marquand-mo"
 ---

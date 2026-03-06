@@ -1,9 +1,7 @@
 ---
-title: "Dilworth, Minnesota Business Directory"
+title: "Dilworth, MN Business Directory"
+type: "towns"
 slug: "dilworth-mn"
-town: "Dilworth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 1431
+state: "mn"
+town_data: "dilworth-mn"
 ---

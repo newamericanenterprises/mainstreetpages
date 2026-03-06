@@ -1,9 +1,7 @@
 ---
-title: "Springfield, Michigan Business Directory"
+title: "Springfield, MI Business Directory"
+type: "towns"
 slug: "springfield-mi"
-town: "Springfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 714
+state: "mi"
+town_data: "springfield-mi"
 ---

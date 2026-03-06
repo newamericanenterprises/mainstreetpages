@@ -1,9 +1,7 @@
 ---
-title: "Clarks, Louisiana Business Directory"
+title: "Clarks, LA Business Directory"
+type: "towns"
 slug: "clarks-la"
-town: "Clarks"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caldwell"
-population: 2060
+state: "la"
+town_data: "clarks-la"
 ---

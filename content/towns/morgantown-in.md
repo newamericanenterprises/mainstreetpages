@@ -1,9 +1,7 @@
 ---
-title: "Morgantown, Indiana Business Directory"
+title: "Morgantown, IN Business Directory"
+type: "towns"
 slug: "morgantown-in"
-town: "Morgantown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 5337
+state: "in"
+town_data: "morgantown-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kamrar, Iowa Business Directory"
+title: "Kamrar, IA Business Directory"
+type: "towns"
 slug: "kamrar-ia"
-town: "Kamrar"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 1160
+state: "ia"
+town_data: "kamrar-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Moapa Valley, Nevada Business Directory"
+title: "Moapa Valley, NV Business Directory"
+type: "towns"
 slug: "moapa-valley-nv"
-state: "NV"
-county: "Clark"
-population: 7091
+state: "nv"
+town_data: "moapa-valley-nv"
 ---

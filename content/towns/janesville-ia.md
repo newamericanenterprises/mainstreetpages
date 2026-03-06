@@ -1,9 +1,7 @@
 ---
-title: "Janesville, Iowa Business Directory"
+title: "Janesville, IA Business Directory"
+type: "towns"
 slug: "janesville-ia"
-town: "Janesville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 1192
+state: "ia"
+town_data: "janesville-ia"
 ---

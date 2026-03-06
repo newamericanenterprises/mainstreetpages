@@ -1,9 +1,7 @@
 ---
-title: "Dansville, Michigan Business Directory"
+title: "Dansville, MI Business Directory"
+type: "towns"
 slug: "dansville-mi"
-town: "Dansville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 2395
+state: "mi"
+town_data: "dansville-mi"
 ---

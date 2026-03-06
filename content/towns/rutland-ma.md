@@ -1,9 +1,7 @@
 ---
-title: "Rutland, Massachusetts Business Directory"
+title: "Rutland, MA Business Directory"
+type: "towns"
 slug: "rutland-ma"
-town: "Rutland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8794
+state: "ma"
+town_data: "rutland-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Jeanerette, Louisiana Business Directory"
+title: "Jeanerette, LA Business Directory"
+type: "towns"
 slug: "jeanerette-la"
-town: "Jeanerette"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberia"
-population: 1312
+state: "la"
+town_data: "jeanerette-la"
 ---

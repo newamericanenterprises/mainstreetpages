@@ -1,9 +1,7 @@
 ---
-title: "Gowrie, Iowa Business Directory"
+title: "Gowrie, IA Business Directory"
+type: "towns"
 slug: "gowrie-ia"
-town: "Gowrie"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 2590
+state: "ia"
+town_data: "gowrie-ia"
 ---

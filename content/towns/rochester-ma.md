@@ -1,9 +1,7 @@
 ---
-title: "Rochester, Massachusetts Business Directory"
+title: "Rochester, MA Business Directory"
+type: "towns"
 slug: "rochester-ma"
-town: "Rochester"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 2626
+state: "ma"
+town_data: "rochester-ma"
 ---

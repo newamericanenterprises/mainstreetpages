@@ -1,9 +1,7 @@
 ---
-title: "Waldoboro, Maine Business Directory"
+title: "Waldoboro, ME Business Directory"
+type: "towns"
 slug: "waldoboro-me"
-town: "Waldoboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 5208
+state: "me"
+town_data: "waldoboro-me"
 ---

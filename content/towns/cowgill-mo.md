@@ -1,7 +1,7 @@
 ---
-title: "Cowgill, Missouri Business Directory"
+title: "Cowgill, MO Business Directory"
+type: "towns"
 slug: "cowgill-mo"
-state: "MO"
-county: "Caldwell"
-population: 1500
+state: "mo"
+town_data: "cowgill-mo"
 ---

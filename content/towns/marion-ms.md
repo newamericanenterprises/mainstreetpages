@@ -1,7 +1,7 @@
 ---
-title: "Marion, Mississippi Business Directory"
+title: "Marion, MS Business Directory"
+type: "towns"
 slug: "marion-ms"
-state: "MS"
-county: "Lauderdale"
-population: 1500
+state: "ms"
+town_data: "marion-ms"
 ---

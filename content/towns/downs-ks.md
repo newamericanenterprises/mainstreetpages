@@ -1,9 +1,7 @@
 ---
-title: "Downs, Kansas Business Directory"
+title: "Downs, KS Business Directory"
+type: "towns"
 slug: "downs-ks"
-town: "Downs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osborne"
-population: 2433
+state: "ks"
+town_data: "downs-ks"
 ---

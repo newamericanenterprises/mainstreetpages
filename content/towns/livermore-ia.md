@@ -1,9 +1,7 @@
 ---
-title: "Livermore, Iowa Business Directory"
+title: "Livermore, IA Business Directory"
+type: "towns"
 slug: "livermore-ia"
-town: "Livermore"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 1455
+state: "ia"
+town_data: "livermore-ia"
 ---

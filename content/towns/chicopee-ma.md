@@ -1,9 +1,7 @@
 ---
-title: "Chicopee, Massachusetts Business Directory"
+title: "Chicopee, MA Business Directory"
+type: "towns"
 slug: "chicopee-ma"
-town: "Chicopee"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 55720
+state: "ma"
+town_data: "chicopee-ma"
 ---

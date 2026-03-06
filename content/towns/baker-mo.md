@@ -1,7 +1,7 @@
 ---
-title: "Baker, Missouri Business Directory"
+title: "Baker, MO Business Directory"
+type: "towns"
 slug: "baker-mo"
-state: "MO"
-county: "Stoddard"
-population: 1500
+state: "mo"
+town_data: "baker-mo"
 ---

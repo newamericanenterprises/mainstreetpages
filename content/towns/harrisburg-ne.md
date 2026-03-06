@@ -1,7 +1,7 @@
 ---
-title: "Harrisburg, Nebraska Business Directory"
+title: "Harrisburg, NE Business Directory"
+type: "towns"
 slug: "harrisburg-ne"
-state: "NE"
-county: "Banner"
-population: 500
+state: "ne"
+town_data: "harrisburg-ne"
 ---

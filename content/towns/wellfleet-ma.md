@@ -1,9 +1,7 @@
 ---
-title: "Wellfleet, Massachusetts Business Directory"
+title: "Wellfleet, MA Business Directory"
+type: "towns"
 slug: "wellfleet-ma"
-town: "Wellfleet"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 2723
+state: "ma"
+town_data: "wellfleet-ma"
 ---

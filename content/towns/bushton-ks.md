@@ -1,9 +1,7 @@
 ---
-title: "Bushton, Kansas Business Directory"
+title: "Bushton, KS Business Directory"
+type: "towns"
 slug: "bushton-ks"
-town: "Bushton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 2228
+state: "ks"
+town_data: "bushton-ks"
 ---

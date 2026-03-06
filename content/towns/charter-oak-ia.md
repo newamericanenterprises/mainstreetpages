@@ -1,9 +1,7 @@
 ---
-title: "Charter Oak, Iowa Business Directory"
+title: "Charter Oak, IA Business Directory"
+type: "towns"
 slug: "charter-oak-ia"
-town: "Charter Oak"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 935
+state: "ia"
+town_data: "charter-oak-ia"
 ---

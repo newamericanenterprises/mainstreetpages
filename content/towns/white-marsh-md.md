@@ -1,9 +1,7 @@
 ---
-title: "White Marsh, Maryland Business Directory"
+title: "White Marsh, MD Business Directory"
+type: "towns"
 slug: "white-marsh-md"
-town: "White Marsh"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 1067
+state: "md"
+town_data: "white-marsh-md"
 ---

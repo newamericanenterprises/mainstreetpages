@@ -1,9 +1,7 @@
 ---
-title: "Stamping Ground, Kentucky Business Directory"
+title: "Stamping Ground, KY Business Directory"
+type: "towns"
 slug: "stamping-ground-ky"
-town: "Stamping Ground"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Scott"
-population: 3195
+state: "ky"
+town_data: "stamping-ground-ky"
 ---

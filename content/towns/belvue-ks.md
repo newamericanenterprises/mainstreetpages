@@ -1,9 +1,7 @@
 ---
-title: "Belvue, Kansas Business Directory"
+title: "Belvue, KS Business Directory"
+type: "towns"
 slug: "belvue-ks"
-town: "Belvue"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 926
+state: "ks"
+town_data: "belvue-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Chesterfield, Michigan Business Directory"
+title: "Chesterfield, MI Business Directory"
+type: "towns"
 slug: "chesterfield-mi"
-town: "Chesterfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 643
+state: "mi"
+town_data: "chesterfield-mi"
 ---

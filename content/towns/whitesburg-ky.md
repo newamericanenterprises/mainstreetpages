@@ -1,9 +1,7 @@
 ---
-title: "Whitesburg, Kentucky Business Directory"
+title: "Whitesburg, KY Business Directory"
+type: "towns"
 slug: "whitesburg-ky"
-town: "Whitesburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Letcher"
-population: 1838
+state: "ky"
+town_data: "whitesburg-ky"
 ---

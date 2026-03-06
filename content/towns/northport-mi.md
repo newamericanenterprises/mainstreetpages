@@ -1,9 +1,7 @@
 ---
-title: "Northport, Michigan Business Directory"
+title: "Northport, MI Business Directory"
+type: "towns"
 slug: "northport-mi"
-town: "Northport"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 2355
+state: "mi"
+town_data: "northport-mi"
 ---

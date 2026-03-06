@@ -1,9 +1,7 @@
 ---
-title: "Parkville, Maryland Business Directory"
+title: "Parkville, MD Business Directory"
+type: "towns"
 slug: "parkville-md"
-town: "Parkville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 1290
+state: "md"
+town_data: "parkville-md"
 ---

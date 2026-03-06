@@ -1,7 +1,7 @@
 ---
-title: "Osage Beach, Missouri Business Directory"
+title: "Osage Beach, MO Business Directory"
+type: "towns"
 slug: "osage-beach-mo"
-state: "MO"
-county: "Camden"
-population: 4351
+state: "mo"
+town_data: "osage-beach-mo"
 ---

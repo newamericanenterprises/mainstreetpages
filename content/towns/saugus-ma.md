@@ -1,9 +1,7 @@
 ---
-title: "Saugus, Massachusetts Business Directory"
+title: "Saugus, MA Business Directory"
+type: "towns"
 slug: "saugus-ma"
-town: "Saugus"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 28468
+state: "ma"
+town_data: "saugus-ma"
 ---

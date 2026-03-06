@@ -1,9 +1,7 @@
 ---
-title: "Argentine, Michigan Business Directory"
+title: "Argentine, MI Business Directory"
+type: "towns"
 slug: "argentine-mi"
-town: "Argentine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 2225
+state: "mi"
+town_data: "argentine-mi"
 ---

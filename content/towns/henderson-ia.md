@@ -1,9 +1,7 @@
 ---
-title: "Henderson, Iowa Business Directory"
+title: "Henderson, IA Business Directory"
+type: "towns"
 slug: "henderson-ia"
-town: "Henderson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 2179
+state: "ia"
+town_data: "henderson-ia"
 ---

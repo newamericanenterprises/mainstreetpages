@@ -1,9 +1,7 @@
 ---
-title: "Hall Summit, Louisiana Business Directory"
+title: "Hall Summit, LA Business Directory"
+type: "towns"
 slug: "hall-summit-la"
-town: "Hall Summit"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Red River"
-population: 2089
+state: "la"
+town_data: "hall-summit-la"
 ---

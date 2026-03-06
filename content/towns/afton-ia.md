@@ -1,9 +1,7 @@
 ---
-title: "Afton, Iowa Business Directory"
+title: "Afton, IA Business Directory"
+type: "towns"
 slug: "afton-ia"
-town: "Afton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 624
+state: "ia"
+town_data: "afton-ia"
 ---

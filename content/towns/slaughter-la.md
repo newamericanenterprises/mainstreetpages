@@ -1,9 +1,7 @@
 ---
-title: "Slaughter, Louisiana Business Directory"
+title: "Slaughter, LA Business Directory"
+type: "towns"
 slug: "slaughter-la"
-town: "Slaughter"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Feliciana"
-population: 302
+state: "la"
+town_data: "slaughter-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Troy, Montana Business Directory"
+title: "Troy, MT Business Directory"
+type: "towns"
 slug: "troy-mt"
-state: "MT"
-county: "Lincoln"
-population: 1016
+state: "mt"
+town_data: "troy-mt"
 ---

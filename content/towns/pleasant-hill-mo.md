@@ -1,7 +1,7 @@
 ---
-title: "Pleasant Hill, Missouri Business Directory"
+title: "Pleasant Hill, MO Business Directory"
+type: "towns"
 slug: "pleasant-hill-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "pleasant-hill-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Porter, Indiana Business Directory"
+title: "Porter, IN Business Directory"
+type: "towns"
 slug: "porter-in"
-town: "Porter"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 5184
+state: "in"
+town_data: "porter-in"
 ---

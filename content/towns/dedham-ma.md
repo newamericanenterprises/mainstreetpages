@@ -1,9 +1,7 @@
 ---
-title: "Dedham, Massachusetts Business Directory"
+title: "Dedham, MA Business Directory"
+type: "towns"
 slug: "dedham-ma"
-town: "Dedham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 25544
+state: "ma"
+town_data: "dedham-ma"
 ---

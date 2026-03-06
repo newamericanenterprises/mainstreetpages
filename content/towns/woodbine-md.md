@@ -1,9 +1,7 @@
 ---
-title: "Woodbine, Maryland Business Directory"
+title: "Woodbine, MD Business Directory"
+type: "towns"
 slug: "woodbine-md"
-town: "Woodbine"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 3941
+state: "md"
+town_data: "woodbine-md"
 ---

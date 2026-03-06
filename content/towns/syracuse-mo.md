@@ -1,7 +1,7 @@
 ---
-title: "Syracuse, Missouri Business Directory"
+title: "Syracuse, MO Business Directory"
+type: "towns"
 slug: "syracuse-mo"
-state: "MO"
-county: "Morgan"
-population: 1500
+state: "mo"
+town_data: "syracuse-mo"
 ---

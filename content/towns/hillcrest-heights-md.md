@@ -1,9 +1,7 @@
 ---
-title: "Hillcrest Heights, Maryland Business Directory"
+title: "Hillcrest Heights, MD Business Directory"
+type: "towns"
 slug: "hillcrest-heights-md"
-town: "Hillcrest Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2306
+state: "md"
+town_data: "hillcrest-heights-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Portageville, Missouri Business Directory"
+title: "Portageville, MO Business Directory"
+type: "towns"
 slug: "portageville-mo"
-state: "MO"
-county: "New Madrid"
-population: 3054
+state: "mo"
+town_data: "portageville-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Alda, Nebraska Business Directory"
+title: "Alda, NE Business Directory"
+type: "towns"
 slug: "alda-ne"
-state: "NE"
-county: "Hall"
-population: 500
+state: "ne"
+town_data: "alda-ne"
 ---

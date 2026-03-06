@@ -1,9 +1,7 @@
 ---
-title: "Gardner, Kansas Business Directory"
+title: "Gardner, KS Business Directory"
+type: "towns"
 slug: "gardner-ks"
-town: "Gardner"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 22600
+state: "ks"
+town_data: "gardner-ks"
 ---

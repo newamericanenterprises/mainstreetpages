@@ -1,9 +1,7 @@
 ---
-title: "Eagle Harbor, Michigan Business Directory"
+title: "Eagle Harbor, MI Business Directory"
+type: "towns"
 slug: "eagle-harbor-mi"
-town: "Eagle Harbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 4836
+state: "mi"
+town_data: "eagle-harbor-mi"
 ---

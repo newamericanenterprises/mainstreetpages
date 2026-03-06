@@ -1,9 +1,7 @@
 ---
-title: "Economy, Indiana Business Directory"
+title: "Economy, IN Business Directory"
+type: "towns"
 slug: "economy-in"
-town: "Economy"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 2659
+state: "in"
+town_data: "economy-in"
 ---

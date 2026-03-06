@@ -1,9 +1,7 @@
 ---
-title: "Greentown, Indiana Business Directory"
+title: "Greentown, IN Business Directory"
+type: "towns"
 slug: "greentown-in"
-town: "Greentown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Howard"
-population: 2230
+state: "in"
+town_data: "greentown-in"
 ---

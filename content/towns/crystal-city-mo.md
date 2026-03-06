@@ -1,7 +1,7 @@
 ---
-title: "Crystal City, Missouri Business Directory"
+title: "Crystal City, MO Business Directory"
+type: "towns"
 slug: "crystal-city-mo"
-state: "MO"
-county: "Jefferson"
-population: 4854
+state: "mo"
+town_data: "crystal-city-mo"
 ---

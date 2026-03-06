@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Kansas Business Directory"
+title: "Princeton, KS Business Directory"
+type: "towns"
 slug: "princeton-ks"
-town: "Princeton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 2009
+state: "ks"
+town_data: "princeton-ks"
 ---

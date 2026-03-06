@@ -1,9 +1,7 @@
 ---
-title: "Dudley, Massachusetts Business Directory"
+title: "Dudley, MA Business Directory"
+type: "towns"
 slug: "dudley-ma"
-town: "Dudley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 3938
+state: "ma"
+town_data: "dudley-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Florence, Minnesota Business Directory"
+title: "Florence, MN Business Directory"
+type: "towns"
 slug: "florence-mn"
-town: "Florence"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 3232
+state: "mn"
+town_data: "florence-mn"
 ---

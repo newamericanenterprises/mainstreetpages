@@ -1,9 +1,7 @@
 ---
-title: "Willis, Kansas Business Directory"
+title: "Willis, KS Business Directory"
+type: "towns"
 slug: "willis-ks"
-town: "Willis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 2905
+state: "ks"
+town_data: "willis-ks"
 ---

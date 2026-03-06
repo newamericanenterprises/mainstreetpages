@@ -1,9 +1,7 @@
 ---
-title: "Henderson, Louisiana Business Directory"
+title: "Henderson, LA Business Directory"
+type: "towns"
 slug: "henderson-la"
-town: "Henderson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 1981
+state: "la"
+town_data: "henderson-la"
 ---

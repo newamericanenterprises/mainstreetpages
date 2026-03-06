@@ -1,9 +1,7 @@
 ---
-title: "Garfield, Kansas Business Directory"
+title: "Garfield, KS Business Directory"
+type: "towns"
 slug: "garfield-ks"
-town: "Garfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pawnee"
-population: 411
+state: "ks"
+town_data: "garfield-ks"
 ---

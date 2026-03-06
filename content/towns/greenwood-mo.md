@@ -1,7 +1,7 @@
 ---
-title: "Greenwood, Missouri Business Directory"
+title: "Greenwood, MO Business Directory"
+type: "towns"
 slug: "greenwood-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "greenwood-mo"
 ---

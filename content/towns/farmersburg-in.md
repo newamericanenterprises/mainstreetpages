@@ -1,9 +1,7 @@
 ---
-title: "Farmersburg, Indiana Business Directory"
+title: "Farmersburg, IN Business Directory"
+type: "towns"
 slug: "farmersburg-in"
-town: "Farmersburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 2849
+state: "in"
+town_data: "farmersburg-in"
 ---

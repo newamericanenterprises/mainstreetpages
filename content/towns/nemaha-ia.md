@@ -1,9 +1,7 @@
 ---
-title: "Nemaha, Iowa Business Directory"
+title: "Nemaha, IA Business Directory"
+type: "towns"
 slug: "nemaha-ia"
-town: "Nemaha"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 1340
+state: "ia"
+town_data: "nemaha-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grinnell, Kansas Business Directory"
+title: "Grinnell, KS Business Directory"
+type: "towns"
 slug: "grinnell-ks"
-town: "Grinnell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gove"
-population: 2134
+state: "ks"
+town_data: "grinnell-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dunnell, Minnesota Business Directory"
+title: "Dunnell, MN Business Directory"
+type: "towns"
 slug: "dunnell-mn"
-town: "Dunnell"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 2978
+state: "mn"
+town_data: "dunnell-mn"
 ---

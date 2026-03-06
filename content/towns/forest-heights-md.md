@@ -1,9 +1,7 @@
 ---
-title: "Forest Heights, Maryland Business Directory"
+title: "Forest Heights, MD Business Directory"
+type: "towns"
 slug: "forest-heights-md"
-town: "Forest Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 908
+state: "md"
+town_data: "forest-heights-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Curtis, Michigan Business Directory"
+title: "Curtis, MI Business Directory"
+type: "towns"
 slug: "curtis-mi"
-town: "Curtis"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 2601
+state: "mi"
+town_data: "curtis-mi"
 ---

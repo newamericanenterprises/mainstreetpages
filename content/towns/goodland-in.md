@@ -1,9 +1,7 @@
 ---
-title: "Goodland, Indiana Business Directory"
+title: "Goodland, IN Business Directory"
+type: "towns"
 slug: "goodland-in"
-town: "Goodland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Newton"
-population: 3227
+state: "in"
+town_data: "goodland-in"
 ---

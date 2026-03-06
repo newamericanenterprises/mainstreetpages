@@ -1,7 +1,7 @@
 ---
-title: "Van Buren, Missouri Business Directory"
+title: "Van Buren, MO Business Directory"
+type: "towns"
 slug: "van-buren-mo"
-state: "MO"
-county: "Carter"
-population: 803
+state: "mo"
+town_data: "van-buren-mo"
 ---

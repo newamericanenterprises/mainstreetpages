@@ -1,9 +1,7 @@
 ---
-title: "Sunman, Indiana Business Directory"
+title: "Sunman, IN Business Directory"
+type: "towns"
 slug: "sunman-in"
-town: "Sunman"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 3600
+state: "in"
+town_data: "sunman-in"
 ---

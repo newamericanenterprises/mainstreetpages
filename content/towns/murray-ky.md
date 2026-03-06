@@ -1,9 +1,7 @@
 ---
-title: "Murray, Kentucky Business Directory"
+title: "Murray, KY Business Directory"
+type: "towns"
 slug: "murray-ky"
-town: "Murray"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Calloway"
-population: 19254
+state: "ky"
+town_data: "murray-ky"
 ---

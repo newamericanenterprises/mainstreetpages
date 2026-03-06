@@ -1,9 +1,7 @@
 ---
-title: "Benham, Kentucky Business Directory"
+title: "Benham, KY Business Directory"
+type: "towns"
 slug: "benham-ky"
-town: "Benham"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harlan"
-population: 712
+state: "ky"
+town_data: "benham-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cullen, Louisiana Business Directory"
+title: "Cullen, LA Business Directory"
+type: "towns"
 slug: "cullen-la"
-town: "Cullen"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 2306
+state: "la"
+town_data: "cullen-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lincoln, Iowa Business Directory"
+title: "Lincoln, IA Business Directory"
+type: "towns"
 slug: "lincoln-ia"
-town: "Lincoln"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 752
+state: "ia"
+town_data: "lincoln-ia"
 ---

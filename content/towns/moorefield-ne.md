@@ -1,7 +1,7 @@
 ---
-title: "Moorefield, Nebraska Business Directory"
+title: "Moorefield, NE Business Directory"
+type: "towns"
 slug: "moorefield-ne"
-state: "NE"
-county: "Frontier"
-population: 500
+state: "ne"
+town_data: "moorefield-ne"
 ---

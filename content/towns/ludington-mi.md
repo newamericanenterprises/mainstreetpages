@@ -1,9 +1,7 @@
 ---
-title: "Ludington, Michigan Business Directory"
+title: "Ludington, MI Business Directory"
+type: "towns"
 slug: "ludington-mi"
-town: "Ludington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mason"
-population: 8076
+state: "mi"
+town_data: "ludington-mi"
 ---

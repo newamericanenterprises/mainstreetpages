@@ -1,7 +1,7 @@
 ---
-title: "Republican City, Nebraska Business Directory"
+title: "Republican City, NE Business Directory"
+type: "towns"
 slug: "republican-city-ne"
-state: "NE"
-county: "Harlan"
-population: 500
+state: "ne"
+town_data: "republican-city-ne"
 ---

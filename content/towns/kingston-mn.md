@@ -1,9 +1,7 @@
 ---
-title: "Kingston, Minnesota Business Directory"
+title: "Kingston, MN Business Directory"
+type: "towns"
 slug: "kingston-mn"
-town: "Kingston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 704
+state: "mn"
+town_data: "kingston-mn"
 ---

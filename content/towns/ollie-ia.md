@@ -1,9 +1,7 @@
 ---
-title: "Ollie, Iowa Business Directory"
+title: "Ollie, IA Business Directory"
+type: "towns"
 slug: "ollie-ia"
-town: "Ollie"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 1303
+state: "ia"
+town_data: "ollie-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Loose Creek, Missouri Business Directory"
+title: "Loose Creek, MO Business Directory"
+type: "towns"
 slug: "loose-creek-mo"
-state: "MO"
-county: "Osage"
-population: 1500
+state: "mo"
+town_data: "loose-creek-mo"
 ---

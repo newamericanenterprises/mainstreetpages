@@ -1,9 +1,7 @@
 ---
-title: "Rawlings, Maryland Business Directory"
+title: "Rawlings, MD Business Directory"
+type: "towns"
 slug: "rawlings-md"
-town: "Rawlings"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 4401
+state: "md"
+town_data: "rawlings-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Frederika, Iowa Business Directory"
+title: "Frederika, IA Business Directory"
+type: "towns"
 slug: "frederika-ia"
-town: "Frederika"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 1021
+state: "ia"
+town_data: "frederika-ia"
 ---

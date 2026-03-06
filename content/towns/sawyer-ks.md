@@ -1,9 +1,7 @@
 ---
-title: "Sawyer, Kansas Business Directory"
+title: "Sawyer, KS Business Directory"
+type: "towns"
 slug: "sawyer-ks"
-town: "Sawyer"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 2049
+state: "ks"
+town_data: "sawyer-ks"
 ---

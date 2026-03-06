@@ -1,9 +1,7 @@
 ---
-title: "Cut Off, Louisiana Business Directory"
+title: "Cut Off, LA Business Directory"
+type: "towns"
 slug: "cut-off-la"
-town: "Cut Off"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 504
+state: "la"
+town_data: "cut-off-la"
 ---

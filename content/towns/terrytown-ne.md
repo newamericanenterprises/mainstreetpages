@@ -1,7 +1,7 @@
 ---
-title: "Terrytown, Nebraska Business Directory"
+title: "Terrytown, NE Business Directory"
+type: "towns"
 slug: "terrytown-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "terrytown-ne"
 ---

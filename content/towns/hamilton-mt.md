@@ -1,7 +1,7 @@
 ---
-title: "Hamilton, Montana Business Directory"
+title: "Hamilton, MT Business Directory"
+type: "towns"
 slug: "hamilton-mt"
-state: "MT"
-county: "Ravalli"
-population: 4827
+state: "mt"
+town_data: "hamilton-mt"
 ---

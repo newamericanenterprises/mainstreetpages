@@ -1,7 +1,7 @@
 ---
-title: "Central City, Nebraska Business Directory"
+title: "Central City, NE Business Directory"
+type: "towns"
 slug: "central-city-ne"
-state: "NE"
-county: "Merrick"
-population: 2934
+state: "ne"
+town_data: "central-city-ne"
 ---

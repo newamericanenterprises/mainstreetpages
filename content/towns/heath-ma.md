@@ -1,9 +1,7 @@
 ---
-title: "Heath, Massachusetts Business Directory"
+title: "Heath, MA Business Directory"
+type: "towns"
 slug: "heath-ma"
-town: "Heath"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 4314
+state: "ma"
+town_data: "heath-ma"
 ---

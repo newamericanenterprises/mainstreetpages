@@ -1,9 +1,7 @@
 ---
-title: "North Attleborough, Massachusetts Business Directory"
+title: "North Attleborough, MA Business Directory"
+type: "towns"
 slug: "north-attleborough-ma"
-town: "North Attleborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 30008
+state: "ma"
+town_data: "north-attleborough-ma"
 ---

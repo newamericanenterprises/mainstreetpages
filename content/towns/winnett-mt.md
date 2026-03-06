@@ -1,7 +1,7 @@
 ---
-title: "Winnett, Montana Business Directory"
+title: "Winnett, MT Business Directory"
+type: "towns"
 slug: "winnett-mt"
-state: "MT"
-county: "Petroleum"
-population: 500
+state: "mt"
+town_data: "winnett-mt"
 ---

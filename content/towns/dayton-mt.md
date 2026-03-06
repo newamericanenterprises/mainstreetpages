@@ -1,7 +1,7 @@
 ---
-title: "Dayton, Montana Business Directory"
+title: "Dayton, MT Business Directory"
+type: "towns"
 slug: "dayton-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "dayton-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Amana, Iowa Business Directory"
+title: "Amana, IA Business Directory"
+type: "towns"
 slug: "amana-ia"
-town: "Amana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 1883
+state: "ia"
+town_data: "amana-ia"
 ---

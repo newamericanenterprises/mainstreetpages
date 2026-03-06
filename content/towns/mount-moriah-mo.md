@@ -1,7 +1,7 @@
 ---
-title: "Mount Moriah, Missouri Business Directory"
+title: "Mountriah Mo, MO Business Directory"
+type: "towns"
 slug: "mount-moriah-mo"
-state: "MO"
-county: "Harrison"
-population: 1500
+state: "mo"
+town_data: "mount-moriah-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Montrose, Michigan Business Directory"
+title: "Montrose, MI Business Directory"
+type: "towns"
 slug: "montrose-mi"
-town: "Montrose"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 5376
+state: "mi"
+town_data: "montrose-mi"
 ---

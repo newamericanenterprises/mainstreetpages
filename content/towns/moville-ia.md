@@ -1,9 +1,7 @@
 ---
-title: "Moville, Iowa Business Directory"
+title: "Moville, IA Business Directory"
+type: "towns"
 slug: "moville-ia"
-town: "Moville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 1054
+state: "ia"
+town_data: "moville-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Warsaw, Kentucky Business Directory"
+title: "Warsaw, KY Business Directory"
+type: "towns"
 slug: "warsaw-ky"
-town: "Warsaw"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Gallatin"
-population: 1791
+state: "ky"
+town_data: "warsaw-ky"
 ---

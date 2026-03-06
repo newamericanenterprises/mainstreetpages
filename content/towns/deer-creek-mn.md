@@ -1,9 +1,7 @@
 ---
-title: "Deer Creek, Minnesota Business Directory"
+title: "Deer Creek, MN Business Directory"
+type: "towns"
 slug: "deer-creek-mn"
-town: "Deer Creek"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1895
+state: "mn"
+town_data: "deer-creek-mn"
 ---

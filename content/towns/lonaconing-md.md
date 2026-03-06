@@ -1,9 +1,7 @@
 ---
-title: "Lonaconing, Maryland Business Directory"
+title: "Lonaconing, MD Business Directory"
+type: "towns"
 slug: "lonaconing-md"
-town: "Lonaconing"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 2036
+state: "md"
+town_data: "lonaconing-md"
 ---

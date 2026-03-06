@@ -1,9 +1,7 @@
 ---
-title: "Linden, Iowa Business Directory"
+title: "Linden, IA Business Directory"
+type: "towns"
 slug: "linden-ia"
-town: "Linden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 3226
+state: "ia"
+town_data: "linden-ia"
 ---

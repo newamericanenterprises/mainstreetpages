@@ -1,7 +1,7 @@
 ---
-title: "Brunswick, Nebraska Business Directory"
+title: "Brunswick, NE Business Directory"
+type: "towns"
 slug: "brunswick-ne"
-state: "NE"
-county: "Antelope"
-population: 500
+state: "ne"
+town_data: "brunswick-ne"
 ---

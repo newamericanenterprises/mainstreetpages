@@ -1,7 +1,7 @@
 ---
-title: "Hillsdale, Missouri Business Directory"
+title: "Hillsdale, MO Business Directory"
+type: "towns"
 slug: "hillsdale-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "hillsdale-mo"
 ---

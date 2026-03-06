@@ -1,9 +1,7 @@
 ---
-title: "Southgate, Kentucky Business Directory"
+title: "Southgate, KY Business Directory"
+type: "towns"
 slug: "southgate-ky"
-town: "Southgate"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 2425
+state: "ky"
+town_data: "southgate-ky"
 ---

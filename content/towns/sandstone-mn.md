@@ -1,9 +1,7 @@
 ---
-title: "Sandstone, Minnesota Business Directory"
+title: "Sandstone, MN Business Directory"
+type: "towns"
 slug: "sandstone-mn"
-town: "Sandstone"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 730
+state: "mn"
+town_data: "sandstone-mn"
 ---

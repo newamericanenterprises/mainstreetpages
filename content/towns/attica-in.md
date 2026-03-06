@@ -1,9 +1,7 @@
 ---
-title: "Attica, Indiana Business Directory"
+title: "Attica, IN Business Directory"
+type: "towns"
 slug: "attica-in"
-town: "Attica"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 4455
+state: "in"
+town_data: "attica-in"
 ---

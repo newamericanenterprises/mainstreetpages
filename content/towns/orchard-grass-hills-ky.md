@@ -1,9 +1,7 @@
 ---
-title: "Orchard Grass Hills, Kentucky Business Directory"
+title: "Orchard Grass Hills, KY Business Directory"
+type: "towns"
 slug: "orchard-grass-hills-ky"
-town: "Orchard Grass Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 1755
+state: "ky"
+town_data: "orchard-grass-hills-ky"
 ---

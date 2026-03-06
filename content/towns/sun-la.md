@@ -1,9 +1,7 @@
 ---
-title: "Sun, Louisiana Business Directory"
+title: "Sun, LA Business Directory"
+type: "towns"
 slug: "sun-la"
-town: "Sun"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 2264
+state: "la"
+town_data: "sun-la"
 ---

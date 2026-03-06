@@ -1,9 +1,7 @@
 ---
-title: "Langley Park, Maryland Business Directory"
+title: "Langley Park, MD Business Directory"
+type: "towns"
 slug: "langley-park-md"
-town: "Langley Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 3415
+state: "md"
+town_data: "langley-park-md"
 ---

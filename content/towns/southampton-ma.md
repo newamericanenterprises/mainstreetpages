@@ -1,9 +1,7 @@
 ---
-title: "Southampton, Massachusetts Business Directory"
+title: "Southampton, MA Business Directory"
+type: "towns"
 slug: "southampton-ma"
-town: "Southampton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 3220
+state: "ma"
+town_data: "southampton-ma"
 ---

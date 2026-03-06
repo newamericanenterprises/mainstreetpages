@@ -1,9 +1,7 @@
 ---
-title: "Greensboro, Maryland Business Directory"
+title: "Greensboro, MD Business Directory"
+type: "towns"
 slug: "greensboro-md"
-town: "Greensboro"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 4865
+state: "md"
+town_data: "greensboro-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Abilene, Kansas Business Directory"
+title: "Abilene, KS Business Directory"
+type: "towns"
 slug: "abilene-ks"
-town: "Abilene"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 6475
+state: "ks"
+town_data: "abilene-ks"
 ---

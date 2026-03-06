@@ -1,9 +1,7 @@
 ---
-title: "Haven, Kansas Business Directory"
+title: "Haven, KS Business Directory"
+type: "towns"
 slug: "haven-ks"
-town: "Haven"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 1624
+state: "ks"
+town_data: "haven-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gardiner, Montana Business Directory"
+title: "Gardiner, MT Business Directory"
+type: "towns"
 slug: "gardiner-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "gardiner-mt"
 ---

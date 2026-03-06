@@ -1,9 +1,7 @@
 ---
-title: "Ida Grove, Iowa Business Directory"
+title: "Ida Grove, IA Business Directory"
+type: "towns"
 slug: "ida-grove-ia"
-town: "Ida Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ida"
-population: 2142
+state: "ia"
+town_data: "ida-grove-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mio, Michigan Business Directory"
+title: "Mio, MI Business Directory"
+type: "towns"
 slug: "mio-mi"
-town: "Mio"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oscoda"
-population: 2870
+state: "mi"
+town_data: "mio-mi"
 ---

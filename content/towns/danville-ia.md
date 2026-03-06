@@ -1,9 +1,7 @@
 ---
-title: "Danville, Iowa Business Directory"
+title: "Danville, IA Business Directory"
+type: "towns"
 slug: "danville-ia"
-town: "Danville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 1668
+state: "ia"
+town_data: "danville-ia"
 ---

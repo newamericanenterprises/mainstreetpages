@@ -1,7 +1,7 @@
 ---
-title: "Lambert, Mississippi Business Directory"
+title: "Lambert, MS Business Directory"
+type: "towns"
 slug: "lambert-ms"
-state: "MS"
-county: "Quitman"
-population: 1594
+state: "ms"
+town_data: "lambert-ms"
 ---

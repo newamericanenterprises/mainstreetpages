@@ -1,7 +1,7 @@
 ---
-title: "Homestead, Missouri Business Directory"
+title: "Homestead, MO Business Directory"
+type: "towns"
 slug: "homestead-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "homestead-mo"
 ---

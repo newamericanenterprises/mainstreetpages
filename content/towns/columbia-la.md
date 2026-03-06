@@ -1,9 +1,7 @@
 ---
-title: "Columbia, Louisiana Business Directory"
+title: "Columbia, LA Business Directory"
+type: "towns"
 slug: "columbia-la"
-town: "Columbia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caldwell"
-population: 368
+state: "la"
+town_data: "columbia-la"
 ---

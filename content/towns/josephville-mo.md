@@ -1,7 +1,7 @@
 ---
-title: "Josephville, Missouri Business Directory"
+title: "Josephville, MO Business Directory"
+type: "towns"
 slug: "josephville-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "josephville-mo"
 ---

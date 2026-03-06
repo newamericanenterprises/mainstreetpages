@@ -1,7 +1,7 @@
 ---
-title: "Incline Village, Nevada Business Directory"
+title: "Incline Village, NV Business Directory"
+type: "towns"
 slug: "incline-village-nv"
-state: "NV"
-county: "Washoe"
-population: 9255
+state: "nv"
+town_data: "incline-village-nv"
 ---

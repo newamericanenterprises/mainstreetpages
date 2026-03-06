@@ -1,9 +1,7 @@
 ---
-title: "Pleasant Ridge, Michigan Business Directory"
+title: "Pleasant Ridge, MI Business Directory"
+type: "towns"
 slug: "pleasant-ridge-mi"
-town: "Pleasant Ridge"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 1568
+state: "mi"
+town_data: "pleasant-ridge-mi"
 ---

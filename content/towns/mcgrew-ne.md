@@ -1,7 +1,7 @@
 ---
-title: "McGrew, Nebraska Business Directory"
+title: "Mcgrew, NE Business Directory"
+type: "towns"
 slug: "mcgrew-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "mcgrew-ne"
 ---

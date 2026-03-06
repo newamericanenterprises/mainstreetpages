@@ -1,9 +1,7 @@
 ---
-title: "St. Lawrence, Minnesota Business Directory"
+title: "St. Lawrence, MN Business Directory"
+type: "towns"
 slug: "st-lawrence-mn"
-town: "St. Lawrence"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 2737
+state: "mn"
+town_data: "st-lawrence-mn"
 ---

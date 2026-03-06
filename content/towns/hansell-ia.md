@@ -1,9 +1,7 @@
 ---
-title: "Hansell, Iowa Business Directory"
+title: "Hansell, IA Business Directory"
+type: "towns"
 slug: "hansell-ia"
-town: "Hansell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 1935
+state: "ia"
+town_data: "hansell-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Forest Lake, Minnesota Business Directory"
+title: "Forest Lake, MN Business Directory"
+type: "towns"
 slug: "forest-lake-mn"
-town: "Forest Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2906
+state: "mn"
+town_data: "forest-lake-mn"
 ---

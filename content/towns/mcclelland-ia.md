@@ -1,9 +1,7 @@
 ---
-title: "McClelland, Iowa Business Directory"
+title: "McClelland, IA Business Directory"
+type: "towns"
 slug: "mcclelland-ia"
-town: "McClelland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 2022
+state: "ia"
+town_data: "mcclelland-ia"
 ---

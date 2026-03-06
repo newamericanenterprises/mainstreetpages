@@ -1,9 +1,7 @@
 ---
-title: "Granville, Massachusetts Business Directory"
+title: "Granville, MA Business Directory"
+type: "towns"
 slug: "granville-ma"
-town: "Granville"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 3893
+state: "ma"
+town_data: "granville-ma"
 ---

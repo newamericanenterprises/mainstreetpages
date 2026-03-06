@@ -1,9 +1,7 @@
 ---
-title: "Rushford, Minnesota Business Directory"
+title: "Rushford, MN Business Directory"
+type: "towns"
 slug: "rushford-mn"
-town: "Rushford"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 951
+state: "mn"
+town_data: "rushford-mn"
 ---

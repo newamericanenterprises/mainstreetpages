@@ -1,9 +1,7 @@
 ---
-title: "Whiteford, Maryland Business Directory"
+title: "Whiteford, MD Business Directory"
+type: "towns"
 slug: "whiteford-md"
-town: "Whiteford"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 2972
+state: "md"
+town_data: "whiteford-md"
 ---

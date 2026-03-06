@@ -1,9 +1,7 @@
 ---
-title: "Fremont, Michigan Business Directory"
+title: "Fremont, MI Business Directory"
+type: "towns"
 slug: "fremont-mi"
-town: "Fremont"
-state: "Michigan"
-state_abbr: "MI"
-county: "Newaygo"
-population: 1186
+state: "mi"
+town_data: "fremont-mi"
 ---

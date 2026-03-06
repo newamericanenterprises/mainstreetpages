@@ -1,7 +1,7 @@
 ---
-title: "Wyatt, Missouri Business Directory"
+title: "Wyatt, MO Business Directory"
+type: "towns"
 slug: "wyatt-mo"
-state: "MO"
-county: "Mississippi"
-population: 1500
+state: "mo"
+town_data: "wyatt-mo"
 ---

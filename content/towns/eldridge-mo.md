@@ -1,7 +1,7 @@
 ---
-title: "Eldridge, Missouri Business Directory"
+title: "Eldridge, MO Business Directory"
+type: "towns"
 slug: "eldridge-mo"
-state: "MO"
-county: "Laclede"
-population: 1500
+state: "mo"
+town_data: "eldridge-mo"
 ---

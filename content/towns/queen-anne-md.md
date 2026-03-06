@@ -1,9 +1,7 @@
 ---
-title: "Queen Anne, Maryland Business Directory"
+title: "Queen Anne, MD Business Directory"
+type: "towns"
 slug: "queen-anne-md"
-town: "Queen Anne"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 4786
+state: "md"
+town_data: "queen-anne-md"
 ---

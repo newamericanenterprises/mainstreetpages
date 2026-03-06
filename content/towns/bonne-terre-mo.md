@@ -1,7 +1,7 @@
 ---
-title: "Bonne Terre, Missouri Business Directory"
+title: "Bonne Terre, MO Business Directory"
+type: "towns"
 slug: "bonne-terre-mo"
-state: "MO"
-county: "St. Francois"
-population: 7055
+state: "mo"
+town_data: "bonne-terre-mo"
 ---

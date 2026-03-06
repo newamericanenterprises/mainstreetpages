@@ -1,9 +1,7 @@
 ---
-title: "Coldwater, Michigan Business Directory"
+title: "Coldwater, MI Business Directory"
+type: "towns"
 slug: "coldwater-mi"
-town: "Coldwater"
-state: "Michigan"
-state_abbr: "MI"
-county: "Branch"
-population: 12697
+state: "mi"
+town_data: "coldwater-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kismet, Kansas Business Directory"
+title: "Kismet, KS Business Directory"
+type: "towns"
 slug: "kismet-ks"
-town: "Kismet"
-state: "Kansas"
-state_abbr: "KS"
-county: "Seward"
-population: 1334
+state: "ks"
+town_data: "kismet-ks"
 ---

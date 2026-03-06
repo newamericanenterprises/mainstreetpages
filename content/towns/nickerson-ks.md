@@ -1,9 +1,7 @@
 ---
-title: "Nickerson, Kansas Business Directory"
+title: "Nickerson, KS Business Directory"
+type: "towns"
 slug: "nickerson-ks"
-town: "Nickerson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 1550
+state: "ks"
+town_data: "nickerson-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kimball, Minnesota Business Directory"
+title: "Kimball, MN Business Directory"
+type: "towns"
 slug: "kimball-mn"
-town: "Kimball"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1359
+state: "mn"
+town_data: "kimball-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Oshtemo, Michigan Business Directory"
+title: "Oshtemo, MI Business Directory"
+type: "towns"
 slug: "oshtemo-mi"
-town: "Oshtemo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 1099
+state: "mi"
+town_data: "oshtemo-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wareham, Massachusetts Business Directory"
+title: "Wareham, MA Business Directory"
+type: "towns"
 slug: "wareham-ma"
-town: "Wareham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 1102
+state: "ma"
+town_data: "wareham-ma"
 ---

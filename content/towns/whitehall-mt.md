@@ -1,7 +1,7 @@
 ---
-title: "Whitehall, Montana Business Directory"
+title: "Whitehall, MT Business Directory"
+type: "towns"
 slug: "whitehall-mt"
-state: "MT"
-county: "Jefferson"
-population: 500
+state: "mt"
+town_data: "whitehall-mt"
 ---

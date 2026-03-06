@@ -1,9 +1,7 @@
 ---
-title: "Lexington, Minnesota Business Directory"
+title: "Lexington, MN Business Directory"
+type: "towns"
 slug: "lexington-mn"
-town: "Lexington"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 3159
+state: "mn"
+town_data: "lexington-mn"
 ---

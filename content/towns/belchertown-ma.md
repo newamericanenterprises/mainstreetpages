@@ -1,9 +1,7 @@
 ---
-title: "Belchertown, Massachusetts Business Directory"
+title: "Belchertown, MA Business Directory"
+type: "towns"
 slug: "belchertown-ma"
-town: "Belchertown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 15168
+state: "ma"
+town_data: "belchertown-ma"
 ---

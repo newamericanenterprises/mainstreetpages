@@ -1,9 +1,7 @@
 ---
-title: "Shingleton, Michigan Business Directory"
+title: "Shingleton, MI Business Directory"
+type: "towns"
 slug: "shingleton-mi"
-town: "Shingleton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 2850
+state: "mi"
+town_data: "shingleton-mi"
 ---

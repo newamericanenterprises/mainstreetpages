@@ -1,9 +1,7 @@
 ---
-title: "Thibodaux, Louisiana Business Directory"
+title: "Thibodaux, LA Business Directory"
+type: "towns"
 slug: "thibodaux-la"
-town: "Thibodaux"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 14431
+state: "la"
+town_data: "thibodaux-la"
 ---

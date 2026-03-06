@@ -1,9 +1,7 @@
 ---
-title: "Poseyville, Indiana Business Directory"
+title: "Poseyville, IN Business Directory"
+type: "towns"
 slug: "poseyville-in"
-town: "Poseyville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Posey"
-population: 736
+state: "in"
+town_data: "poseyville-in"
 ---

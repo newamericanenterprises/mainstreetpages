@@ -1,9 +1,7 @@
 ---
-title: "Walford, Iowa Business Directory"
+title: "Walford, IA Business Directory"
+type: "towns"
 slug: "walford-ia"
-town: "Walford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 1028
+state: "ia"
+town_data: "walford-ia"
 ---

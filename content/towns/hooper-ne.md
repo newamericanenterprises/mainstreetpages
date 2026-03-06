@@ -1,7 +1,7 @@
 ---
-title: "Hooper, Nebraska Business Directory"
+title: "Hooper, NE Business Directory"
+type: "towns"
 slug: "hooper-ne"
-state: "NE"
-county: "Dodge"
-population: 827
+state: "ne"
+town_data: "hooper-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Germany, Minnesota Business Directory"
+title: "New Germany, MN Business Directory"
+type: "towns"
 slug: "new-germany-mn"
-town: "New Germany"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 3162
+state: "mn"
+town_data: "new-germany-mn"
 ---

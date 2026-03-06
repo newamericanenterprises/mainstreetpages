@@ -1,9 +1,7 @@
 ---
-title: "Highland, Indiana Business Directory"
+title: "Highland, IN Business Directory"
+type: "towns"
 slug: "highland-in"
-town: "Highland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 22609
+state: "in"
+town_data: "highland-in"
 ---

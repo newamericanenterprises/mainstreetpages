@@ -1,7 +1,7 @@
 ---
-title: "Pablo, Montana Business Directory"
+title: "Pablo, MT Business Directory"
+type: "towns"
 slug: "pablo-mt"
-state: "MT"
-county: "Lake"
-population: 2325
+state: "mt"
+town_data: "pablo-mt"
 ---

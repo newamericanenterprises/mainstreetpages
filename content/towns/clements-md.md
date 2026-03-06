@@ -1,9 +1,7 @@
 ---
-title: "Clements, Maryland Business Directory"
+title: "Clements, MD Business Directory"
+type: "towns"
 slug: "clements-md"
-town: "Clements"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 2194
+state: "md"
+town_data: "clements-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Colon, Nebraska Business Directory"
+title: "Colon, NE Business Directory"
+type: "towns"
 slug: "colon-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "colon-ne"
 ---

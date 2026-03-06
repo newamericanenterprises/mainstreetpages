@@ -1,7 +1,7 @@
 ---
-title: "Turney, Missouri Business Directory"
+title: "Turney, MO Business Directory"
+type: "towns"
 slug: "turney-mo"
-state: "MO"
-county: "Clinton"
-population: 1500
+state: "mo"
+town_data: "turney-mo"
 ---

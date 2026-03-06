@@ -1,7 +1,7 @@
 ---
-title: "Axtell, Nebraska Business Directory"
+title: "Axtell, NE Business Directory"
+type: "towns"
 slug: "axtell-ne"
-state: "NE"
-county: "Kearney"
-population: 500
+state: "ne"
+town_data: "axtell-ne"
 ---

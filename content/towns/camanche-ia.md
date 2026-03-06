@@ -1,9 +1,7 @@
 ---
-title: "Camanche, Iowa Business Directory"
+title: "Camanche, IA Business Directory"
+type: "towns"
 slug: "camanche-ia"
-town: "Camanche"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 2589
+state: "ia"
+town_data: "camanche-ia"
 ---

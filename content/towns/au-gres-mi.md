@@ -1,9 +1,7 @@
 ---
-title: "Au Gres, Michigan Business Directory"
+title: "Au Gres, MI Business Directory"
+type: "towns"
 slug: "au-gres-mi"
-town: "Au Gres"
-state: "Michigan"
-state_abbr: "MI"
-county: "Arenac"
-population: 4520
+state: "mi"
+town_data: "au-gres-mi"
 ---

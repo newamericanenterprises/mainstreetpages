@@ -1,9 +1,7 @@
 ---
-title: "Hiawatha, Iowa Business Directory"
+title: "Hiawatha, IA Business Directory"
+type: "towns"
 slug: "hiawatha-ia"
-town: "Hiawatha"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 545
+state: "ia"
+town_data: "hiawatha-ia"
 ---

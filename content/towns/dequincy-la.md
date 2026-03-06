@@ -1,9 +1,7 @@
 ---
-title: "DeQuincy, Louisiana Business Directory"
+title: "DeQuincy, LA Business Directory"
+type: "towns"
 slug: "dequincy-la"
-town: "DeQuincy"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 2998
+state: "la"
+town_data: "dequincy-la"
 ---

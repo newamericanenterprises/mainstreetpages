@@ -1,9 +1,7 @@
 ---
-title: "Manistique, Michigan Business Directory"
+title: "Manistique, MI Business Directory"
+type: "towns"
 slug: "manistique-mi"
-town: "Manistique"
-state: "Michigan"
-state_abbr: "MI"
-county: "Schoolcraft"
-population: 2371
+state: "mi"
+town_data: "manistique-mi"
 ---

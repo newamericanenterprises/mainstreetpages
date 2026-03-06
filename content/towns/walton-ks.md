@@ -1,9 +1,7 @@
 ---
-title: "Walton, Kansas Business Directory"
+title: "Walton, KS Business Directory"
+type: "towns"
 slug: "walton-ks"
-town: "Walton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 2384
+state: "ks"
+town_data: "walton-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bentonia, Mississippi Business Directory"
+title: "Bentonia, MS Business Directory"
+type: "towns"
 slug: "bentonia-ms"
-state: "MS"
-county: "Yazoo"
-population: 1500
+state: "ms"
+town_data: "bentonia-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Spencer, Massachusetts Business Directory"
+title: "Spencer, MA Business Directory"
+type: "towns"
 slug: "spencer-ma"
-town: "Spencer"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 7350
+state: "ma"
+town_data: "spencer-ma"
 ---

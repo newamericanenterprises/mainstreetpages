@@ -1,7 +1,7 @@
 ---
-title: "Warrenton, Missouri Business Directory"
+title: "Warrenton, MO Business Directory"
+type: "towns"
 slug: "warrenton-mo"
-state: "MO"
-county: "Warren"
-population: 8167
+state: "mo"
+town_data: "warrenton-mo"
 ---

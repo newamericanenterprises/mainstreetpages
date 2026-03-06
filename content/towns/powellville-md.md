@@ -1,9 +1,7 @@
 ---
-title: "Powellville, Maryland Business Directory"
+title: "Powellville, MD Business Directory"
+type: "towns"
 slug: "powellville-md"
-town: "Powellville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 563
+state: "md"
+town_data: "powellville-md"
 ---

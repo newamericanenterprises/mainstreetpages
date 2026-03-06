@@ -1,9 +1,7 @@
 ---
-title: "Fairmont, Minnesota Business Directory"
+title: "Fairmont, MN Business Directory"
+type: "towns"
 slug: "fairmont-mn"
-town: "Fairmont"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 10191
+state: "mn"
+town_data: "fairmont-mn"
 ---

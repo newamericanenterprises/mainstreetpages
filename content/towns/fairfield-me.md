@@ -1,9 +1,7 @@
 ---
-title: "Fairfield, Maine Business Directory"
+title: "Fairfield, ME Business Directory"
+type: "towns"
 slug: "fairfield-me"
-town: "Fairfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 6573
+state: "me"
+town_data: "fairfield-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Laughlin, Nevada Business Directory"
+title: "Laughlin, NV Business Directory"
+type: "towns"
 slug: "laughlin-nv"
-state: "NV"
-county: "Clark"
-population: 8534
+state: "nv"
+town_data: "laughlin-nv"
 ---

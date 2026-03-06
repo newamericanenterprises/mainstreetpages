@@ -1,9 +1,7 @@
 ---
-title: "Hokah, Minnesota Business Directory"
+title: "Hokah, MN Business Directory"
+type: "towns"
 slug: "hokah-mn"
-town: "Hokah"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 2704
+state: "mn"
+town_data: "hokah-mn"
 ---

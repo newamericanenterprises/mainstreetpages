@@ -1,9 +1,7 @@
 ---
-title: "Sadieville, Kentucky Business Directory"
+title: "Sadieville, KY Business Directory"
+type: "towns"
 slug: "sadieville-ky"
-town: "Sadieville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Scott"
-population: 2253
+state: "ky"
+town_data: "sadieville-ky"
 ---

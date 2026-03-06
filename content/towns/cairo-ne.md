@@ -1,7 +1,7 @@
 ---
-title: "Cairo, Nebraska Business Directory"
+title: "Cairo, NE Business Directory"
+type: "towns"
 slug: "cairo-ne"
-state: "NE"
-county: "Hall"
-population: 500
+state: "ne"
+town_data: "cairo-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Appleton, Minnesota Business Directory"
+title: "Appleton, MN Business Directory"
+type: "towns"
 slug: "appleton-mn"
-town: "Appleton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 614
+state: "mn"
+town_data: "appleton-mn"
 ---

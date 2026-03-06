@@ -1,9 +1,7 @@
 ---
-title: "Frankfort, Indiana Business Directory"
+title: "Frankfort, IN Business Directory"
+type: "towns"
 slug: "frankfort-in"
-town: "Frankfort"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 16001
+state: "in"
+town_data: "frankfort-in"
 ---

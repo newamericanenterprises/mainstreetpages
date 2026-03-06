@@ -1,7 +1,7 @@
 ---
-title: "Emerson, Nebraska Business Directory"
+title: "Emerson, NE Business Directory"
+type: "towns"
 slug: "emerson-ne"
-state: "NE"
-county: "Dixon"
-population: 823
+state: "ne"
+town_data: "emerson-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Amsterdam, Indiana Business Directory"
+title: "New Amsterdam, IN Business Directory"
+type: "towns"
 slug: "new-amsterdam-in"
-town: "New Amsterdam"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 5225
+state: "in"
+town_data: "new-amsterdam-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bel-Nor, Missouri Business Directory"
+title: "Bel Nor, MO Business Directory"
+type: "towns"
 slug: "bel-nor-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "bel-nor-mo"
 ---

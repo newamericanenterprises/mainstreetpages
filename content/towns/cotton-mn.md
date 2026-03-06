@@ -1,9 +1,7 @@
 ---
-title: "Cotton, Minnesota Business Directory"
+title: "Cotton, MN Business Directory"
+type: "towns"
 slug: "cotton-mn"
-town: "Cotton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 565
+state: "mn"
+town_data: "cotton-mn"
 ---

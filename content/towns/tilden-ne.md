@@ -1,7 +1,7 @@
 ---
-title: "Tilden, Nebraska Business Directory"
+title: "Tilden, NE Business Directory"
+type: "towns"
 slug: "tilden-ne"
-state: "NE"
-county: "Madison"
-population: 953
+state: "ne"
+town_data: "tilden-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Edgefield, Louisiana Business Directory"
+title: "Edgefield, LA Business Directory"
+type: "towns"
 slug: "edgefield-la"
-town: "Edgefield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Red River"
-population: 1509
+state: "la"
+town_data: "edgefield-la"
 ---

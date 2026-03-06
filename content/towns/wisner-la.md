@@ -1,9 +1,7 @@
 ---
-title: "Wisner, Louisiana Business Directory"
+title: "Wisner, LA Business Directory"
+type: "towns"
 slug: "wisner-la"
-town: "Wisner"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Franklin"
-population: 1007
+state: "la"
+town_data: "wisner-la"
 ---

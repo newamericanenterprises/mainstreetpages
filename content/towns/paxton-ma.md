@@ -1,9 +1,7 @@
 ---
-title: "Paxton, Massachusetts Business Directory"
+title: "Paxton, MA Business Directory"
+type: "towns"
 slug: "paxton-ma"
-town: "Paxton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5154
+state: "ma"
+town_data: "paxton-ma"
 ---

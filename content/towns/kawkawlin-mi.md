@@ -1,9 +1,7 @@
 ---
-title: "Kawkawlin, Michigan Business Directory"
+title: "Kawkawlin, MI Business Directory"
+type: "towns"
 slug: "kawkawlin-mi"
-town: "Kawkawlin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 1819
+state: "mi"
+town_data: "kawkawlin-mi"
 ---

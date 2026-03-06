@@ -1,9 +1,7 @@
 ---
-title: "Weir, Kansas Business Directory"
+title: "Weir, KS Business Directory"
+type: "towns"
 slug: "weir-ks"
-town: "Weir"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 1293
+state: "ks"
+town_data: "weir-ks"
 ---

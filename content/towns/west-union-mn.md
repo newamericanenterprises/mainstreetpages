@@ -1,9 +1,7 @@
 ---
-title: "West Union, Minnesota Business Directory"
+title: "West Union, MN Business Directory"
+type: "towns"
 slug: "west-union-mn"
-town: "West Union"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 1214
+state: "mn"
+town_data: "west-union-mn"
 ---

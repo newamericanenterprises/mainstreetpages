@@ -1,9 +1,7 @@
 ---
-title: "Rossie, Iowa Business Directory"
+title: "Rossie, IA Business Directory"
+type: "towns"
 slug: "rossie-ia"
-town: "Rossie"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 1333
+state: "ia"
+town_data: "rossie-ia"
 ---

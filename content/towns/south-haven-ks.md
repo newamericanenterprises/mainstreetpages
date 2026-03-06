@@ -1,9 +1,7 @@
 ---
-title: "South Haven, Kansas Business Directory"
+title: "South Haven, KS Business Directory"
+type: "towns"
 slug: "south-haven-ks"
-town: "South Haven"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 1440
+state: "ks"
+town_data: "south-haven-ks"
 ---

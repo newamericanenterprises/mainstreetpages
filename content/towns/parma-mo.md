@@ -1,7 +1,7 @@
 ---
-title: "Parma, Missouri Business Directory"
+title: "Parma, MO Business Directory"
+type: "towns"
 slug: "parma-mo"
-state: "MO"
-county: "New Madrid"
-population: 1500
+state: "mo"
+town_data: "parma-mo"
 ---

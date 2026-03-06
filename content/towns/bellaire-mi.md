@@ -1,9 +1,7 @@
 ---
-title: "Bellaire, Michigan Business Directory"
+title: "Bellaire, MI Business Directory"
+type: "towns"
 slug: "bellaire-mi"
-town: "Bellaire"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 926
+state: "mi"
+town_data: "bellaire-mi"
 ---

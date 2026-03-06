@@ -1,7 +1,7 @@
 ---
-title: "Hernando, Mississippi Business Directory"
+title: "Hernando, MS Business Directory"
+type: "towns"
 slug: "hernando-ms"
-state: "MS"
-county: "DeSoto"
-population: 18151
+state: "ms"
+town_data: "hernando-ms"
 ---

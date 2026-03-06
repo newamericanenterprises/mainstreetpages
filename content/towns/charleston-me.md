@@ -1,9 +1,7 @@
 ---
-title: "Charleston, Maine Business Directory"
+title: "Charleston, ME Business Directory"
+type: "towns"
 slug: "charleston-me"
-town: "Charleston"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 400
+state: "me"
+town_data: "charleston-me"
 ---

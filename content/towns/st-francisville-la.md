@@ -1,9 +1,7 @@
 ---
-title: "St. Francisville, Louisiana Business Directory"
+title: "St. Francisville, LA Business Directory"
+type: "towns"
 slug: "st-francisville-la"
-town: "St. Francisville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Feliciana"
-population: 1661
+state: "la"
+town_data: "st-francisville-la"
 ---

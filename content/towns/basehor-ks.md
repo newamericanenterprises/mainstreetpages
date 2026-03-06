@@ -1,9 +1,7 @@
 ---
-title: "Basehor, Kansas Business Directory"
+title: "Basehor, KS Business Directory"
+type: "towns"
 slug: "basehor-ks"
-town: "Basehor"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 6199
+state: "ks"
+town_data: "basehor-ks"
 ---

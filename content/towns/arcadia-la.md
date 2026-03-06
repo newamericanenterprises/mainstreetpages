@@ -1,9 +1,7 @@
 ---
-title: "Arcadia, Louisiana Business Directory"
+title: "Arcadia, LA Business Directory"
+type: "towns"
 slug: "arcadia-la"
-town: "Arcadia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 2919
+state: "la"
+town_data: "arcadia-la"
 ---

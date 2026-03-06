@@ -1,9 +1,7 @@
 ---
-title: "Old Orchard Beach, Maine Business Directory"
+title: "Old Orchard Beach, ME Business Directory"
+type: "towns"
 slug: "old-orchard-beach-me"
-town: "Old Orchard Beach"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 8624
+state: "me"
+town_data: "old-orchard-beach-me"
 ---

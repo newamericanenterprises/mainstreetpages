@@ -1,9 +1,7 @@
 ---
-title: "Hardinsburg, Indiana Business Directory"
+title: "Hardinsburg, IN Business Directory"
+type: "towns"
 slug: "hardinsburg-in"
-town: "Hardinsburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 1906
+state: "in"
+town_data: "hardinsburg-in"
 ---

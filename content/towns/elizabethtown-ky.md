@@ -1,9 +1,7 @@
 ---
-title: "Elizabethtown, Kentucky Business Directory"
+title: "Elizabethtown, KY Business Directory"
+type: "towns"
 slug: "elizabethtown-ky"
-town: "Elizabethtown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 30289
+state: "ky"
+town_data: "elizabethtown-ky"
 ---

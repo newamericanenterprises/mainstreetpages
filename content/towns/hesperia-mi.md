@@ -1,9 +1,7 @@
 ---
-title: "Hesperia, Michigan Business Directory"
+title: "Hesperia, MI Business Directory"
+type: "towns"
 slug: "hesperia-mi"
-town: "Hesperia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Newaygo"
-population: 3330
+state: "mi"
+town_data: "hesperia-mi"
 ---

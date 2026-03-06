@@ -1,9 +1,7 @@
 ---
-title: "Almena, Kansas Business Directory"
+title: "Almena, KS Business Directory"
+type: "towns"
 slug: "almena-ks"
-town: "Almena"
-state: "Kansas"
-state_abbr: "KS"
-county: "Norton"
-population: 2387
+state: "ks"
+town_data: "almena-ks"
 ---

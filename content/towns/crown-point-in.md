@@ -1,9 +1,7 @@
 ---
-title: "Crown Point, Indiana Business Directory"
+title: "Crown Point, IN Business Directory"
+type: "towns"
 slug: "crown-point-in"
-town: "Crown Point"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 30711
+state: "in"
+town_data: "crown-point-in"
 ---

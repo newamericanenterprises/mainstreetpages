@@ -1,7 +1,7 @@
 ---
-title: "Dover, Missouri Business Directory"
+title: "Dover, MO Business Directory"
+type: "towns"
 slug: "dover-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "dover-mo"
 ---

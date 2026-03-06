@@ -1,7 +1,7 @@
 ---
-title: "Arbela, Missouri Business Directory"
+title: "Arbela, MO Business Directory"
+type: "towns"
 slug: "arbela-mo"
-state: "MO"
-county: "Scotland"
-population: 1500
+state: "mo"
+town_data: "arbela-mo"
 ---

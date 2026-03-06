@@ -1,9 +1,7 @@
 ---
-title: "Minnesota City, Minnesota Business Directory"
+title: "Minnesota City, MN Business Directory"
+type: "towns"
 slug: "minnesota-city-mn"
-town: "Minnesota City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 1710
+state: "mn"
+town_data: "minnesota-city-mn"
 ---

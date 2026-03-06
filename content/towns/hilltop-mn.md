@@ -1,9 +1,7 @@
 ---
-title: "Hilltop, Minnesota Business Directory"
+title: "Hilltop, MN Business Directory"
+type: "towns"
 slug: "hilltop-mn"
-town: "Hilltop"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 1669
+state: "mn"
+town_data: "hilltop-mn"
 ---

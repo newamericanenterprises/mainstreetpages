@@ -1,9 +1,7 @@
 ---
-title: "Millville, Minnesota Business Directory"
+title: "Millville, MN Business Directory"
+type: "towns"
 slug: "millville-mn"
-town: "Millville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 734
+state: "mn"
+town_data: "millville-mn"
 ---

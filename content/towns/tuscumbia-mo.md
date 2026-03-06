@@ -1,7 +1,7 @@
 ---
-title: "Tuscumbia, Missouri Business Directory"
+title: "Tuscumbia, MO Business Directory"
+type: "towns"
 slug: "tuscumbia-mo"
-state: "MO"
-county: "Miller"
-population: 207
+state: "mo"
+town_data: "tuscumbia-mo"
 ---

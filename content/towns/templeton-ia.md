@@ -1,9 +1,7 @@
 ---
-title: "Templeton, Iowa Business Directory"
+title: "Templeton, IA Business Directory"
+type: "towns"
 slug: "templeton-ia"
-town: "Templeton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 3202
+state: "ia"
+town_data: "templeton-ia"
 ---

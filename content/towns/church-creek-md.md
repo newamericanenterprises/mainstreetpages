@@ -1,9 +1,7 @@
 ---
-title: "Church Creek, Maryland Business Directory"
+title: "Church Creek, MD Business Directory"
+type: "towns"
 slug: "church-creek-md"
-town: "Church Creek"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 1738
+state: "md"
+town_data: "church-creek-md"
 ---

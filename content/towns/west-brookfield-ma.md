@@ -1,9 +1,7 @@
 ---
-title: "West Brookfield, Massachusetts Business Directory"
+title: "West Brookfield, MA Business Directory"
+type: "towns"
 slug: "west-brookfield-ma"
-town: "West Brookfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2121
+state: "ma"
+town_data: "west-brookfield-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Poneto, Indiana Business Directory"
+title: "Poneto, IN Business Directory"
+type: "towns"
 slug: "poneto-in"
-town: "Poneto"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 3020
+state: "in"
+town_data: "poneto-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Low Moor, Iowa Business Directory"
+title: "Low Moor, IA Business Directory"
+type: "towns"
 slug: "low-moor-ia"
-town: "Low Moor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 935
+state: "ia"
+town_data: "low-moor-ia"
 ---

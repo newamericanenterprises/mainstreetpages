@@ -1,7 +1,7 @@
 ---
-title: "Bee, Nebraska Business Directory"
+title: "Bee, NE Business Directory"
+type: "towns"
 slug: "bee-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "bee-ne"
 ---

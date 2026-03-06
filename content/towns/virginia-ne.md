@@ -1,7 +1,7 @@
 ---
-title: "Virginia, Nebraska Business Directory"
+title: "Virginia, NE Business Directory"
+type: "towns"
 slug: "virginia-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "virginia-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ironsides, Maryland Business Directory"
+title: "Ironsides, MD Business Directory"
+type: "towns"
 slug: "ironsides-md"
-town: "Ironsides"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 3518
+state: "md"
+town_data: "ironsides-md"
 ---

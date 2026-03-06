@@ -1,7 +1,7 @@
 ---
-title: "Oakland, Mississippi Business Directory"
+title: "Oakland, MS Business Directory"
+type: "towns"
 slug: "oakland-ms"
-state: "MS"
-county: "Yalobusha"
-population: 526
+state: "ms"
+town_data: "oakland-ms"
 ---

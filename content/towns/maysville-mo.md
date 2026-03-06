@@ -1,7 +1,7 @@
 ---
-title: "Maysville, Missouri Business Directory"
+title: "Maysville, MO Business Directory"
+type: "towns"
 slug: "maysville-mo"
-state: "MO"
-county: "DeKalb"
-population: 1500
+state: "mo"
+town_data: "maysville-mo"
 ---

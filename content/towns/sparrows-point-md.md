@@ -1,9 +1,7 @@
 ---
-title: "Sparrows Point, Maryland Business Directory"
+title: "Sparrows Point, MD Business Directory"
+type: "towns"
 slug: "sparrows-point-md"
-town: "Sparrows Point"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 3611
+state: "md"
+town_data: "sparrows-point-md"
 ---

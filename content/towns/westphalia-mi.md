@@ -1,9 +1,7 @@
 ---
-title: "Westphalia, Michigan Business Directory"
+title: "Westphalia, MI Business Directory"
+type: "towns"
 slug: "westphalia-mi"
-town: "Westphalia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 1617
+state: "mi"
+town_data: "westphalia-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Freeman, Missouri Business Directory"
+title: "Freeman, MO Business Directory"
+type: "towns"
 slug: "freeman-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "freeman-mo"
 ---

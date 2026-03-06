@@ -1,9 +1,7 @@
 ---
-title: "Clear Spring, Maryland Business Directory"
+title: "Clear Spring, MD Business Directory"
+type: "towns"
 slug: "clear-spring-md"
-town: "Clear Spring"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 3546
+state: "md"
+town_data: "clear-spring-md"
 ---

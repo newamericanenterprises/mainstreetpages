@@ -1,9 +1,7 @@
 ---
-title: "Centerville, Indiana Business Directory"
+title: "Centerville, IN Business Directory"
+type: "towns"
 slug: "centerville-in"
-town: "Centerville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 5396
+state: "in"
+town_data: "centerville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hills, Minnesota Business Directory"
+title: "Hills, MN Business Directory"
+type: "towns"
 slug: "hills-mn"
-town: "Hills"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 421
+state: "mn"
+town_data: "hills-mn"
 ---

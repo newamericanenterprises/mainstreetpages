@@ -1,7 +1,7 @@
 ---
-title: "Mount Leonard, Missouri Business Directory"
+title: "Mount Leonard, MO Business Directory"
+type: "towns"
 slug: "mount-leonard-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "mount-leonard-mo"
 ---

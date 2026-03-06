@@ -1,9 +1,7 @@
 ---
-title: "Keosauqua, Iowa Business Directory"
+title: "Keosauqua, IA Business Directory"
+type: "towns"
 slug: "keosauqua-ia"
-town: "Keosauqua"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 908
+state: "ia"
+town_data: "keosauqua-ia"
 ---

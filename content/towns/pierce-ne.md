@@ -1,7 +1,7 @@
 ---
-title: "Pierce, Nebraska Business Directory"
+title: "Pierce, NE Business Directory"
+type: "towns"
 slug: "pierce-ne"
-state: "NE"
-county: "Pierce"
-population: 1767
+state: "ne"
+town_data: "pierce-ne"
 ---

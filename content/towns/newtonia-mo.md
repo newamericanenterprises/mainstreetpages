@@ -1,7 +1,7 @@
 ---
-title: "Newtonia, Missouri Business Directory"
+title: "Newtonia, MO Business Directory"
+type: "towns"
 slug: "newtonia-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "newtonia-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Denison, Kansas Business Directory"
+title: "Denison, KS Business Directory"
+type: "towns"
 slug: "denison-ks"
-town: "Denison"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 972
+state: "ks"
+town_data: "denison-ks"
 ---

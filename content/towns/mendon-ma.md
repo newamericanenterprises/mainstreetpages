@@ -1,9 +1,7 @@
 ---
-title: "Mendon, Massachusetts Business Directory"
+title: "Mendon, MA Business Directory"
+type: "towns"
 slug: "mendon-ma"
-town: "Mendon"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5675
+state: "ma"
+town_data: "mendon-ma"
 ---

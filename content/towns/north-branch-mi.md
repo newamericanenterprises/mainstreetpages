@@ -1,9 +1,7 @@
 ---
-title: "North Branch, Michigan Business Directory"
+title: "North Branch, MI Business Directory"
+type: "towns"
 slug: "north-branch-mi"
-town: "North Branch"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 1798
+state: "mi"
+town_data: "north-branch-mi"
 ---

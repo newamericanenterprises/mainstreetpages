@@ -1,9 +1,7 @@
 ---
-title: "Cheney, Kansas Business Directory"
+title: "Cheney, KS Business Directory"
+type: "towns"
 slug: "cheney-ks"
-town: "Cheney"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 3001
+state: "ks"
+town_data: "cheney-ks"
 ---

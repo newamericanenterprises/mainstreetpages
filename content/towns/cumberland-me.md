@@ -1,9 +1,7 @@
 ---
-title: "Cumberland, Maine Business Directory"
+title: "Cumberland, ME Business Directory"
+type: "towns"
 slug: "cumberland-me"
-town: "Cumberland"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1780
+state: "me"
+town_data: "cumberland-me"
 ---

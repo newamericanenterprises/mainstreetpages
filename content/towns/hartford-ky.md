@@ -1,9 +1,7 @@
 ---
-title: "Hartford, Kentucky Business Directory"
+title: "Hartford, KY Business Directory"
+type: "towns"
 slug: "hartford-ky"
-town: "Hartford"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ohio"
-population: 2705
+state: "ky"
+town_data: "hartford-ky"
 ---

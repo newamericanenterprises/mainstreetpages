@@ -1,9 +1,7 @@
 ---
-title: "Holliston, Massachusetts Business Directory"
+title: "Holliston, MA Business Directory"
+type: "towns"
 slug: "holliston-ma"
-town: "Holliston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 2039
+state: "ma"
+town_data: "holliston-ma"
 ---

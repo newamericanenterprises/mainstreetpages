@@ -1,7 +1,7 @@
 ---
-title: "Chapman, Nebraska Business Directory"
+title: "Chapman, NE Business Directory"
+type: "towns"
 slug: "chapman-ne"
-state: "NE"
-county: "Merrick"
-population: 500
+state: "ne"
+town_data: "chapman-ne"
 ---

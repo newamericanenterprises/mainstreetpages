@@ -1,7 +1,7 @@
 ---
-title: "Dillon, Montana Business Directory"
+title: "Dillon, MT Business Directory"
+type: "towns"
 slug: "dillon-mt"
-state: "MT"
-county: "Beaverhead"
-population: 4257
+state: "mt"
+town_data: "dillon-mt"
 ---

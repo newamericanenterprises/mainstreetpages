@@ -1,9 +1,7 @@
 ---
-title: "Earlville, Iowa Business Directory"
+title: "Earlville, IA Business Directory"
+type: "towns"
 slug: "earlville-ia"
-town: "Earlville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 2524
+state: "ia"
+town_data: "earlville-ia"
 ---

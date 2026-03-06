@@ -1,9 +1,7 @@
 ---
-title: "Copper Harbor, Michigan Business Directory"
+title: "Copper Harbor, MI Business Directory"
+type: "towns"
 slug: "copper-harbor-mi"
-town: "Copper Harbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 4918
+state: "mi"
+town_data: "copper-harbor-mi"
 ---

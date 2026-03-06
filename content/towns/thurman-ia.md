@@ -1,9 +1,7 @@
 ---
-title: "Thurman, Iowa Business Directory"
+title: "Thurman, IA Business Directory"
+type: "towns"
 slug: "thurman-ia"
-town: "Thurman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 1855
+state: "ia"
+town_data: "thurman-ia"
 ---

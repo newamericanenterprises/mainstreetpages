@@ -1,7 +1,7 @@
 ---
-title: "Norman, Nebraska Business Directory"
+title: "Norman, NE Business Directory"
+type: "towns"
 slug: "norman-ne"
-state: "NE"
-county: "Kearney"
-population: 500
+state: "ne"
+town_data: "norman-ne"
 ---

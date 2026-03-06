@@ -1,9 +1,7 @@
 ---
-title: "Woodland, Michigan Business Directory"
+title: "Woodland, MI Business Directory"
+type: "towns"
 slug: "woodland-mi"
-town: "Woodland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 4650
+state: "mi"
+town_data: "woodland-mi"
 ---

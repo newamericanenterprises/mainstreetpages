@@ -1,9 +1,7 @@
 ---
-title: "Denver, Iowa Business Directory"
+title: "Denver, IA Business Directory"
+type: "towns"
 slug: "denver-ia"
-town: "Denver"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 1284
+state: "ia"
+town_data: "denver-ia"
 ---

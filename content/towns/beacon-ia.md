@@ -1,9 +1,7 @@
 ---
-title: "Beacon, Iowa Business Directory"
+title: "Beacon, IA Business Directory"
+type: "towns"
 slug: "beacon-ia"
-town: "Beacon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 2734
+state: "ia"
+town_data: "beacon-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Auxvasse, Missouri Business Directory"
+title: "Auxvasse, MO Business Directory"
+type: "towns"
 slug: "auxvasse-mo"
-state: "MO"
-county: "Callaway"
-population: 1500
+state: "mo"
+town_data: "auxvasse-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Frankfort, Kentucky Business Directory"
+title: "Frankfort, KY Business Directory"
+type: "towns"
 slug: "frankfort-ky"
-town: "Frankfort"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Franklin"
-population: 28602
+state: "ky"
+town_data: "frankfort-ky"
 ---

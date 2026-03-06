@@ -1,9 +1,7 @@
 ---
-title: "Ogden, Kansas Business Directory"
+title: "Ogden, KS Business Directory"
+type: "towns"
 slug: "ogden-ks"
-town: "Ogden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Riley"
-population: 1345
+state: "ks"
+town_data: "ogden-ks"
 ---

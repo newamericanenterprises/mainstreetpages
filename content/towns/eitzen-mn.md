@@ -1,9 +1,7 @@
 ---
-title: "Eitzen, Minnesota Business Directory"
+title: "Eitzen, MN Business Directory"
+type: "towns"
 slug: "eitzen-mn"
-town: "Eitzen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 1946
+state: "mn"
+town_data: "eitzen-mn"
 ---

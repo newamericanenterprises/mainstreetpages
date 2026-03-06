@@ -1,7 +1,7 @@
 ---
-title: "Mound Bayou, Mississippi Business Directory"
+title: "Mound Bayou, MS Business Directory"
+type: "towns"
 slug: "mound-bayou-ms"
-state: "MS"
-county: "Bolivar"
-population: 1533
+state: "ms"
+town_data: "mound-bayou-ms"
 ---

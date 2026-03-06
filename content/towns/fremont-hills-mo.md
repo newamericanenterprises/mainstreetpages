@@ -1,7 +1,7 @@
 ---
-title: "Fremont Hills, Missouri Business Directory"
+title: "Fremont Hills, MO Business Directory"
+type: "towns"
 slug: "fremont-hills-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "fremont-hills-mo"
 ---

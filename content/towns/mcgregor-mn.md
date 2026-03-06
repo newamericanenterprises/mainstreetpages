@@ -1,9 +1,7 @@
 ---
-title: "McGregor, Minnesota Business Directory"
+title: "McGregor, MN Business Directory"
+type: "towns"
 slug: "mcgregor-mn"
-town: "McGregor"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Aitkin"
-population: 2111
+state: "mn"
+town_data: "mcgregor-mn"
 ---

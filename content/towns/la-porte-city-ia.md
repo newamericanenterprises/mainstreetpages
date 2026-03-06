@@ -1,9 +1,7 @@
 ---
-title: "La Porte City, Iowa Business Directory"
+title: "La Porte City, IA Business Directory"
+type: "towns"
 slug: "la-porte-city-ia"
-town: "La Porte City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Black Hawk"
-population: 513
+state: "ia"
+town_data: "la-porte-city-ia"
 ---

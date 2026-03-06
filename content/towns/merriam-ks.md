@@ -1,9 +1,7 @@
 ---
-title: "Merriam, Kansas Business Directory"
+title: "Merriam, KS Business Directory"
+type: "towns"
 slug: "merriam-ks"
-town: "Merriam"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 11191
+state: "ks"
+town_data: "merriam-ks"
 ---

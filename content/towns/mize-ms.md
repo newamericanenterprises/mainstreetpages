@@ -1,7 +1,7 @@
 ---
-title: "Mize, Mississippi Business Directory"
+title: "Mize, MS Business Directory"
+type: "towns"
 slug: "mize-ms"
-state: "MS"
-county: "Smith"
-population: 233
+state: "ms"
+town_data: "mize-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Eldora, Iowa Business Directory"
+title: "Eldora, IA Business Directory"
+type: "towns"
 slug: "eldora-ia"
-town: "Eldora"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 2732
+state: "ia"
+town_data: "eldora-ia"
 ---

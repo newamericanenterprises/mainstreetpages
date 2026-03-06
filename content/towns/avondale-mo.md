@@ -1,7 +1,7 @@
 ---
-title: "Avondale, Missouri Business Directory"
+title: "Avondale, MO Business Directory"
+type: "towns"
 slug: "avondale-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "avondale-mo"
 ---

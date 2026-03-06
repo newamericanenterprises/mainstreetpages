@@ -1,7 +1,7 @@
 ---
-title: "Prague, Nebraska Business Directory"
+title: "Prague, NE Business Directory"
+type: "towns"
 slug: "prague-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "prague-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hunt Valley, Maryland Business Directory"
+title: "Hunt Valley, MD Business Directory"
+type: "towns"
 slug: "hunt-valley-md"
-town: "Hunt Valley"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 4091
+state: "md"
+town_data: "hunt-valley-md"
 ---

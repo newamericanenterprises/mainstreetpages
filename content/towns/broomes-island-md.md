@@ -1,9 +1,7 @@
 ---
-title: "Broomes Island, Maryland Business Directory"
+title: "Broomes Island, MD Business Directory"
+type: "towns"
 slug: "broomes-island-md"
-town: "Broomes Island"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 899
+state: "md"
+town_data: "broomes-island-md"
 ---

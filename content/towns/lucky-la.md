@@ -1,9 +1,7 @@
 ---
-title: "Lucky, Louisiana Business Directory"
+title: "Lucky, LA Business Directory"
+type: "towns"
 slug: "lucky-la"
-town: "Lucky"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 1508
+state: "la"
+town_data: "lucky-la"
 ---

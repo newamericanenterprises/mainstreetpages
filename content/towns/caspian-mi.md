@@ -1,9 +1,7 @@
 ---
-title: "Caspian, Michigan Business Directory"
+title: "Caspian, MI Business Directory"
+type: "towns"
 slug: "caspian-mi"
-town: "Caspian"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iron"
-population: 3060
+state: "mi"
+town_data: "caspian-mi"
 ---

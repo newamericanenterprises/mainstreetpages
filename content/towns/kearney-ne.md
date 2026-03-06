@@ -1,7 +1,7 @@
 ---
-title: "Kearney, Nebraska Business Directory"
+title: "Kearney, NE Business Directory"
+type: "towns"
 slug: "kearney-ne"
-state: "NE"
-county: "Buffalo"
-population: 33835
+state: "ne"
+town_data: "kearney-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "South Rockwood, Michigan Business Directory"
+title: "South Rockwood, MI Business Directory"
+type: "towns"
 slug: "south-rockwood-mi"
-town: "South Rockwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 3474
+state: "mi"
+town_data: "south-rockwood-mi"
 ---

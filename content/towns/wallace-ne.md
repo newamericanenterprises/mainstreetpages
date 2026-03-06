@@ -1,7 +1,7 @@
 ---
-title: "Wallace, Nebraska Business Directory"
+title: "Wallace, NE Business Directory"
+type: "towns"
 slug: "wallace-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "wallace-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Carrollton, Kentucky Business Directory"
+title: "Carrollton, KY Business Directory"
+type: "towns"
 slug: "carrollton-ky"
-town: "Carrollton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 3815
+state: "ky"
+town_data: "carrollton-ky"
 ---

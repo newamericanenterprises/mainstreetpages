@@ -1,9 +1,7 @@
 ---
-title: "Victoria, Minnesota Business Directory"
+title: "Victoria, MN Business Directory"
+type: "towns"
 slug: "victoria-mn"
-town: "Victoria"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1947
+state: "mn"
+town_data: "victoria-mn"
 ---

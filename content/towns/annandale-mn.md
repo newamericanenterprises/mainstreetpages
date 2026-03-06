@@ -1,9 +1,7 @@
 ---
-title: "Annandale, Minnesota Business Directory"
+title: "Annandale, MN Business Directory"
+type: "towns"
 slug: "annandale-mn"
-town: "Annandale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 2139
+state: "mn"
+town_data: "annandale-mn"
 ---

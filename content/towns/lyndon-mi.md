@@ -1,9 +1,7 @@
 ---
-title: "Lyndon, Michigan Business Directory"
+title: "Lyndon, MI Business Directory"
+type: "towns"
 slug: "lyndon-mi"
-town: "Lyndon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 1648
+state: "mi"
+town_data: "lyndon-mi"
 ---

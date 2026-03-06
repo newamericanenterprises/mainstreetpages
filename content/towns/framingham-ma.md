@@ -1,9 +1,7 @@
 ---
-title: "Framingham, Massachusetts Business Directory"
+title: "Framingham, MA Business Directory"
+type: "towns"
 slug: "framingham-ma"
-town: "Framingham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 72362
+state: "ma"
+town_data: "framingham-ma"
 ---

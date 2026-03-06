@@ -1,9 +1,7 @@
 ---
-title: "Beaver, Iowa Business Directory"
+title: "Beaver, IA Business Directory"
+type: "towns"
 slug: "beaver-ia"
-town: "Beaver"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 1924
+state: "ia"
+town_data: "beaver-ia"
 ---

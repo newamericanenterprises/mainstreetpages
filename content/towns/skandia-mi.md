@@ -1,9 +1,7 @@
 ---
-title: "Skandia, Michigan Business Directory"
+title: "Skandia, MI Business Directory"
+type: "towns"
 slug: "skandia-mi"
-town: "Skandia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 1896
+state: "mi"
+town_data: "skandia-mi"
 ---

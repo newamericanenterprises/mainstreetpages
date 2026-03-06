@@ -1,9 +1,7 @@
 ---
-title: "Randolph, Kansas Business Directory"
+title: "Randolph, KS Business Directory"
+type: "towns"
 slug: "randolph-ks"
-town: "Randolph"
-state: "Kansas"
-state_abbr: "KS"
-county: "Riley"
-population: 639
+state: "ks"
+town_data: "randolph-ks"
 ---

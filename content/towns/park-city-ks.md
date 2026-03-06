@@ -1,9 +1,7 @@
 ---
-title: "Park City, Kansas Business Directory"
+title: "Park City, KS Business Directory"
+type: "towns"
 slug: "park-city-ks"
-town: "Park City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 8058
+state: "ks"
+town_data: "park-city-ks"
 ---

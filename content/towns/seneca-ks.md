@@ -1,9 +1,7 @@
 ---
-title: "Seneca, Kansas Business Directory"
+title: "Seneca, KS Business Directory"
+type: "towns"
 slug: "seneca-ks"
-town: "Seneca"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 1996
+state: "ks"
+town_data: "seneca-ks"
 ---

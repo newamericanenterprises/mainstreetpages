@@ -1,9 +1,7 @@
 ---
-title: "Winchester, Kentucky Business Directory"
+title: "Winchester, KY Business Directory"
+type: "towns"
 slug: "winchester-ky"
-town: "Winchester"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Clark"
-population: 18891
+state: "ky"
+town_data: "winchester-ky"
 ---

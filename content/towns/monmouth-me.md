@@ -1,9 +1,7 @@
 ---
-title: "Monmouth, Maine Business Directory"
+title: "Monmouth, ME Business Directory"
+type: "towns"
 slug: "monmouth-me"
-town: "Monmouth"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 898
+state: "me"
+town_data: "monmouth-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Belden, Nebraska Business Directory"
+title: "Belden, NE Business Directory"
+type: "towns"
 slug: "belden-ne"
-state: "NE"
-county: "Cedar"
-population: 103
+state: "ne"
+town_data: "belden-ne"
 ---

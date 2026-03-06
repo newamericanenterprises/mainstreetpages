@@ -1,7 +1,7 @@
 ---
-title: "Dell, Montana Business Directory"
+title: "Dell, MT Business Directory"
+type: "towns"
 slug: "dell-mt"
-state: "MT"
-county: "Beaverhead"
-population: 500
+state: "mt"
+town_data: "dell-mt"
 ---

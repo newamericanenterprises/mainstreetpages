@@ -1,9 +1,7 @@
 ---
-title: "Centerville, Minnesota Business Directory"
+title: "Centerville, MN Business Directory"
+type: "towns"
 slug: "centerville-mn"
-town: "Centerville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2932
+state: "mn"
+town_data: "centerville-mn"
 ---

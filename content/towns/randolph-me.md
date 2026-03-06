@@ -1,9 +1,7 @@
 ---
-title: "Randolph, Maine Business Directory"
+title: "Randolph, ME Business Directory"
+type: "towns"
 slug: "randolph-me"
-town: "Randolph"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 786
+state: "me"
+town_data: "randolph-me"
 ---

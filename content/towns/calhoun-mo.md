@@ -1,7 +1,7 @@
 ---
-title: "Calhoun, Missouri Business Directory"
+title: "Calhoun, MO Business Directory"
+type: "towns"
 slug: "calhoun-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "calhoun-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Big Springs, Nebraska Business Directory"
+title: "Big Springs, NE Business Directory"
+type: "towns"
 slug: "big-springs-ne"
-state: "NE"
-county: "Deuel"
-population: 500
+state: "ne"
+town_data: "big-springs-ne"
 ---

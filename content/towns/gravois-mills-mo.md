@@ -1,7 +1,7 @@
 ---
-title: "Gravois Mills, Missouri Business Directory"
+title: "Gravois Mills, MO Business Directory"
+type: "towns"
 slug: "gravois-mills-mo"
-state: "MO"
-county: "Morgan"
-population: 186
+state: "mo"
+town_data: "gravois-mills-mo"
 ---

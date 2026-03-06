@@ -1,9 +1,7 @@
 ---
-title: "Frankton, Indiana Business Directory"
+title: "Frankton, IN Business Directory"
+type: "towns"
 slug: "frankton-in"
-town: "Frankton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 3672
+state: "in"
+town_data: "frankton-in"
 ---

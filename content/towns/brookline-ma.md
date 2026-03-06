@@ -1,9 +1,7 @@
 ---
-title: "Brookline, Massachusetts Business Directory"
+title: "Brookline, MA Business Directory"
+type: "towns"
 slug: "brookline-ma"
-town: "Brookline"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 63191
+state: "ma"
+town_data: "brookline-ma"
 ---

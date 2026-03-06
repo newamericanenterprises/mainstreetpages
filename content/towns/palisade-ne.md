@@ -1,7 +1,7 @@
 ---
-title: "Palisade, Nebraska Business Directory"
+title: "Palisade, NE Business Directory"
+type: "towns"
 slug: "palisade-ne"
-state: "NE"
-county: "Hitchcock"
-population: 500
+state: "ne"
+town_data: "palisade-ne"
 ---

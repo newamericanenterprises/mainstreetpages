@@ -1,9 +1,7 @@
 ---
-title: "Iona, Minnesota Business Directory"
+title: "Iona, MN Business Directory"
+type: "towns"
 slug: "iona-mn"
-town: "Iona"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 1406
+state: "mn"
+town_data: "iona-mn"
 ---

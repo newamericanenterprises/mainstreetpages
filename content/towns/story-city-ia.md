@@ -1,9 +1,7 @@
 ---
-title: "Story City, Iowa Business Directory"
+title: "Story City, IA Business Directory"
+type: "towns"
 slug: "story-city-ia"
-town: "Story City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 1651
+state: "ia"
+town_data: "story-city-ia"
 ---

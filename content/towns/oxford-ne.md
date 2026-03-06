@@ -1,7 +1,7 @@
 ---
-title: "Oxford, Nebraska Business Directory"
+title: "Oxford, NE Business Directory"
+type: "towns"
 slug: "oxford-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "oxford-ne"
 ---

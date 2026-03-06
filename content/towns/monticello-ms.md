@@ -1,7 +1,7 @@
 ---
-title: "Monticello, Mississippi Business Directory"
+title: "Monticello, MS Business Directory"
+type: "towns"
 slug: "monticello-ms"
-state: "MS"
-county: "Lawrence"
-population: 1632
+state: "ms"
+town_data: "monticello-ms"
 ---

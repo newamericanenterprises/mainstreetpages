@@ -1,9 +1,7 @@
 ---
-title: "Rose, Michigan Business Directory"
+title: "Rose, MI Business Directory"
+type: "towns"
 slug: "rose-mi"
-town: "Rose"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3192
+state: "mi"
+town_data: "rose-mi"
 ---

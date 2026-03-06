@@ -1,9 +1,7 @@
 ---
-title: "Harvey, Louisiana Business Directory"
+title: "Harvey, LA Business Directory"
+type: "towns"
 slug: "harvey-la"
-town: "Harvey"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 20348
+state: "la"
+town_data: "harvey-la"
 ---

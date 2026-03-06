@@ -1,9 +1,7 @@
 ---
-title: "Bellefonte, Kentucky Business Directory"
+title: "Bellefonte, KY Business Directory"
+type: "towns"
 slug: "bellefonte-ky"
-town: "Bellefonte"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 2564
+state: "ky"
+town_data: "bellefonte-ky"
 ---

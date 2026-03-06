@@ -1,7 +1,7 @@
 ---
-title: "Columbus, Montana Business Directory"
+title: "Columbus, MT Business Directory"
+type: "towns"
 slug: "columbus-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "columbus-mt"
 ---

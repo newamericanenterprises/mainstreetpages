@@ -1,9 +1,7 @@
 ---
-title: "North Muskegon, Michigan Business Directory"
+title: "North Muskegon, MI Business Directory"
+type: "towns"
 slug: "north-muskegon-mi"
-town: "North Muskegon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 3687
+state: "mi"
+town_data: "north-muskegon-mi"
 ---

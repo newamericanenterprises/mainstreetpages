@@ -1,7 +1,7 @@
 ---
-title: "Spring Valley, Nevada Business Directory"
+title: "Spring Valley, NV Business Directory"
+type: "towns"
 slug: "spring-valley-nv"
-state: "NV"
-county: "Clark"
-population: 214751
+state: "nv"
+town_data: "spring-valley-nv"
 ---

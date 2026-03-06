@@ -1,9 +1,7 @@
 ---
-title: "Osage City, Kansas Business Directory"
+title: "Osage City, KS Business Directory"
+type: "towns"
 slug: "osage-city-ks"
-town: "Osage City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 2788
+state: "ks"
+town_data: "osage-city-ks"
 ---

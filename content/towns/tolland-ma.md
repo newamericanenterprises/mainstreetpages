@@ -1,9 +1,7 @@
 ---
-title: "Tolland, Massachusetts Business Directory"
+title: "Tolland, MA Business Directory"
+type: "towns"
 slug: "tolland-ma"
-town: "Tolland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 5972
+state: "ma"
+town_data: "tolland-ma"
 ---

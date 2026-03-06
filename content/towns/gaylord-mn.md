@@ -1,9 +1,7 @@
 ---
-title: "Gaylord, Minnesota Business Directory"
+title: "Gaylord, MN Business Directory"
+type: "towns"
 slug: "gaylord-mn"
-town: "Gaylord"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 2507
+state: "mn"
+town_data: "gaylord-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gaza, Iowa Business Directory"
+title: "Gaza, IA Business Directory"
+type: "towns"
 slug: "gaza-ia"
-town: "Gaza"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 3309
+state: "ia"
+town_data: "gaza-ia"
 ---

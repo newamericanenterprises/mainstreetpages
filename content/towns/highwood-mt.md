@@ -1,7 +1,7 @@
 ---
-title: "Highwood, Montana Business Directory"
+title: "Highwood, MT Business Directory"
+type: "towns"
 slug: "highwood-mt"
-state: "MT"
-county: "Chouteau"
-population: 500
+state: "mt"
+town_data: "highwood-mt"
 ---

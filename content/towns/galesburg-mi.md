@@ -1,9 +1,7 @@
 ---
-title: "Galesburg, Michigan Business Directory"
+title: "Galesburg, MI Business Directory"
+type: "towns"
 slug: "galesburg-mi"
-town: "Galesburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 2388
+state: "mi"
+town_data: "galesburg-mi"
 ---

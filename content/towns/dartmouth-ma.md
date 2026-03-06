@@ -1,9 +1,7 @@
 ---
-title: "Dartmouth, Massachusetts Business Directory"
+title: "Dartmouth, MA Business Directory"
+type: "towns"
 slug: "dartmouth-ma"
-town: "Dartmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 2297
+state: "ma"
+town_data: "dartmouth-ma"
 ---

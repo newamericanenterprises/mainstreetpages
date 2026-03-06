@@ -1,9 +1,7 @@
 ---
-title: "Lyndon, Kansas Business Directory"
+title: "Lyndon, KS Business Directory"
+type: "towns"
 slug: "lyndon-ks"
-town: "Lyndon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 2644
+state: "ks"
+town_data: "lyndon-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brayton, Iowa Business Directory"
+title: "Brayton, IA Business Directory"
+type: "towns"
 slug: "brayton-ia"
-town: "Brayton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Audubon"
-population: 1229
+state: "ia"
+town_data: "brayton-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Maxwell, Nebraska Business Directory"
+title: "Maxwell, NE Business Directory"
+type: "towns"
 slug: "maxwell-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "maxwell-ne"
 ---

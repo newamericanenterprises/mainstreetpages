@@ -1,9 +1,7 @@
 ---
-title: "Girard, Kansas Business Directory"
+title: "Girard, KS Business Directory"
+type: "towns"
 slug: "girard-ks"
-town: "Girard"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 611
+state: "ks"
+town_data: "girard-ks"
 ---

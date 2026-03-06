@@ -1,9 +1,7 @@
 ---
-title: "Burrton, Kansas Business Directory"
+title: "Burrton, KS Business Directory"
+type: "towns"
 slug: "burrton-ks"
-town: "Burrton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 2053
+state: "ks"
+town_data: "burrton-ks"
 ---

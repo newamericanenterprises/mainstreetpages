@@ -1,9 +1,7 @@
 ---
-title: "Lewis, Iowa Business Directory"
+title: "Lewis, IA Business Directory"
+type: "towns"
 slug: "lewis-ia"
-town: "Lewis"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 1368
+state: "ia"
+town_data: "lewis-ia"
 ---

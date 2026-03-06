@@ -1,7 +1,7 @@
 ---
-title: "Yerington, Nevada Business Directory"
+title: "Yerington, NV Business Directory"
+type: "towns"
 slug: "yerington-nv"
-state: "NV"
-county: "Lyon"
-population: 3048
+state: "nv"
+town_data: "yerington-nv"
 ---

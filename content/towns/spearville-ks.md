@@ -1,9 +1,7 @@
 ---
-title: "Spearville, Kansas Business Directory"
+title: "Spearville, KS Business Directory"
+type: "towns"
 slug: "spearville-ks"
-town: "Spearville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ford"
-population: 1898
+state: "ks"
+town_data: "spearville-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Algona, Iowa Business Directory"
+title: "Algona, IA Business Directory"
+type: "towns"
 slug: "algona-ia"
-town: "Algona"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 5476
+state: "ia"
+town_data: "algona-ia"
 ---

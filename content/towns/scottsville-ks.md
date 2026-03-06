@@ -1,9 +1,7 @@
 ---
-title: "Scottsville, Kansas Business Directory"
+title: "Scottsville, KS Business Directory"
+type: "towns"
 slug: "scottsville-ks"
-town: "Scottsville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 3167
+state: "ks"
+town_data: "scottsville-ks"
 ---

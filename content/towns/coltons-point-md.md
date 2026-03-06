@@ -1,9 +1,7 @@
 ---
-title: "Coltons Point, Maryland Business Directory"
+title: "Coltons Point, MD Business Directory"
+type: "towns"
 slug: "coltons-point-md"
-town: "Coltons Point"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 500
+state: "md"
+town_data: "coltons-point-md"
 ---

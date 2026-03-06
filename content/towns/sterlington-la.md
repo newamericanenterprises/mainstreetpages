@@ -1,9 +1,7 @@
 ---
-title: "Sterlington, Louisiana Business Directory"
+title: "Sterlington, LA Business Directory"
+type: "towns"
 slug: "sterlington-la"
-town: "Sterlington"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 1774
+state: "la"
+town_data: "sterlington-la"
 ---

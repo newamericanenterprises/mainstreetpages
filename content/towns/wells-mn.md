@@ -1,9 +1,7 @@
 ---
-title: "Wells, Minnesota Business Directory"
+title: "Wells, MN Business Directory"
+type: "towns"
 slug: "wells-mn"
-town: "Wells"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 2094
+state: "mn"
+town_data: "wells-mn"
 ---

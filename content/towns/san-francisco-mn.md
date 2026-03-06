@@ -1,9 +1,7 @@
 ---
-title: "San Francisco, Minnesota Business Directory"
+title: "San Francisco, MN Business Directory"
+type: "towns"
 slug: "san-francisco-mn"
-town: "San Francisco"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 612
+state: "mn"
+town_data: "san-francisco-mn"
 ---

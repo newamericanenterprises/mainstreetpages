@@ -1,9 +1,7 @@
 ---
-title: "Melrose, Massachusetts Business Directory"
+title: "Melrose, MA Business Directory"
+type: "towns"
 slug: "melrose-ma"
-town: "Melrose"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 1639
+state: "ma"
+town_data: "melrose-ma"
 ---

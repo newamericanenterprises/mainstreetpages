@@ -1,7 +1,7 @@
 ---
-title: "Warrensburg, Missouri Business Directory"
+title: "Warrensburg, MO Business Directory"
+type: "towns"
 slug: "warrensburg-mo"
-state: "MO"
-county: "Johnson"
-population: 20856
+state: "mo"
+town_data: "warrensburg-mo"
 ---

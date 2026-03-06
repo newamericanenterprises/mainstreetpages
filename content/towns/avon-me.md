@@ -1,9 +1,7 @@
 ---
-title: "Avon, Maine Business Directory"
+title: "Avon, ME Business Directory"
+type: "towns"
 slug: "avon-me"
-town: "Avon"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 357
+state: "me"
+town_data: "avon-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lawrence, Indiana Business Directory"
+title: "Lawrence, IN Business Directory"
+type: "towns"
 slug: "lawrence-in"
-town: "Lawrence"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marion"
-population: 49043
+state: "in"
+town_data: "lawrence-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Edgemere, Maryland Business Directory"
+title: "Edgemere, MD Business Directory"
+type: "towns"
 slug: "edgemere-md"
-town: "Edgemere"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 4410
+state: "md"
+town_data: "edgemere-md"
 ---

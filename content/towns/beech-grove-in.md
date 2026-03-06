@@ -1,9 +1,7 @@
 ---
-title: "Beech Grove, Indiana Business Directory"
+title: "Beech Grove, IN Business Directory"
+type: "towns"
 slug: "beech-grove-in"
-town: "Beech Grove"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marion"
-population: 15010
+state: "in"
+town_data: "beech-grove-in"
 ---

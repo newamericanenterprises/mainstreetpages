@@ -1,9 +1,7 @@
 ---
-title: "New Prague, Minnesota Business Directory"
+title: "New Prague, MN Business Directory"
+type: "towns"
 slug: "new-prague-mn"
-town: "New Prague"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 2001
+state: "mn"
+town_data: "new-prague-mn"
 ---

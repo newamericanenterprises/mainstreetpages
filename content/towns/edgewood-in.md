@@ -1,9 +1,7 @@
 ---
-title: "Edgewood, Indiana Business Directory"
+title: "Edgewood, IN Business Directory"
+type: "towns"
 slug: "edgewood-in"
-town: "Edgewood"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 809
+state: "in"
+town_data: "edgewood-in"
 ---

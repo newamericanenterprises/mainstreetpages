@@ -1,9 +1,7 @@
 ---
-title: "Louisville, Kansas Business Directory"
+title: "Louisville, KS Business Directory"
+type: "towns"
 slug: "louisville-ks"
-town: "Louisville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 3289
+state: "ks"
+town_data: "louisville-ks"
 ---

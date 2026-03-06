@@ -1,9 +1,7 @@
 ---
-title: "Alfordsville, Indiana Business Directory"
+title: "Alfordsville, IN Business Directory"
+type: "towns"
 slug: "alfordsville-in"
-town: "Alfordsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 2178
+state: "in"
+town_data: "alfordsville-in"
 ---

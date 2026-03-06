@@ -1,9 +1,7 @@
 ---
-title: "Epworth, Iowa Business Directory"
+title: "Epworth, IA Business Directory"
+type: "towns"
 slug: "epworth-ia"
-town: "Epworth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 544
+state: "ia"
+town_data: "epworth-ia"
 ---

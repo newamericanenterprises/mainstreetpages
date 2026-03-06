@@ -1,9 +1,7 @@
 ---
-title: "Chatham, Louisiana Business Directory"
+title: "Chatham, LA Business Directory"
+type: "towns"
 slug: "chatham-la"
-town: "Chatham"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 2959
+state: "la"
+town_data: "chatham-la"
 ---

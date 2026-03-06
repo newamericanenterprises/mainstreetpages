@@ -1,9 +1,7 @@
 ---
-title: "St. Vincent, Minnesota Business Directory"
+title: "St. Vincent, MN Business Directory"
+type: "towns"
 slug: "st-vincent-mn"
-town: "St. Vincent"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 1782
+state: "mn"
+town_data: "st-vincent-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clinton, Mississippi Business Directory"
+title: "Clinton, MS Business Directory"
+type: "towns"
 slug: "clinton-ms"
-state: "MS"
-county: "Hinds"
-population: 25817
+state: "ms"
+town_data: "clinton-ms"
 ---

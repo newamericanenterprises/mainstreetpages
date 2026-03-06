@@ -1,9 +1,7 @@
 ---
-title: "Trenton, Michigan Business Directory"
+title: "Trenton, MI Business Directory"
+type: "towns"
 slug: "trenton-mi"
-town: "Trenton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 4008
+state: "mi"
+town_data: "trenton-mi"
 ---

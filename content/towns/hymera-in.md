@@ -1,9 +1,7 @@
 ---
-title: "Hymera, Indiana Business Directory"
+title: "Hymera, IN Business Directory"
+type: "towns"
 slug: "hymera-in"
-town: "Hymera"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 1940
+state: "in"
+town_data: "hymera-in"
 ---

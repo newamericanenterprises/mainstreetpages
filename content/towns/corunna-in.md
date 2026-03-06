@@ -1,9 +1,7 @@
 ---
-title: "Corunna, Indiana Business Directory"
+title: "Corunna, IN Business Directory"
+type: "towns"
 slug: "corunna-in"
-town: "Corunna"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 4999
+state: "in"
+town_data: "corunna-in"
 ---

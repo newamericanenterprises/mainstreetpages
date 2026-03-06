@@ -1,9 +1,7 @@
 ---
-title: "Monticello, Iowa Business Directory"
+title: "Monticello, IA Business Directory"
+type: "towns"
 slug: "monticello-ia"
-town: "Monticello"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 3796
+state: "ia"
+town_data: "monticello-ia"
 ---

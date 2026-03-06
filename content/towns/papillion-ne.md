@@ -1,7 +1,7 @@
 ---
-title: "Papillion, Nebraska Business Directory"
+title: "Papillion, NE Business Directory"
+type: "towns"
 slug: "papillion-ne"
-state: "NE"
-county: "Sarpy"
-population: 24310
+state: "ne"
+town_data: "papillion-ne"
 ---

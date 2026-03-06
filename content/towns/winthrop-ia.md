@@ -1,9 +1,7 @@
 ---
-title: "Winthrop, Iowa Business Directory"
+title: "Winthrop, IA Business Directory"
+type: "towns"
 slug: "winthrop-ia"
-town: "Winthrop"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2379
+state: "ia"
+town_data: "winthrop-ia"
 ---

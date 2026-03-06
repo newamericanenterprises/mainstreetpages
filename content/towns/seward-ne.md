@@ -1,7 +1,7 @@
 ---
-title: "Seward, Nebraska Business Directory"
+title: "Seward, NE Business Directory"
+type: "towns"
 slug: "seward-ne"
-state: "NE"
-county: "Seward"
-population: 7210
+state: "ne"
+town_data: "seward-ne"
 ---

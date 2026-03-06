@@ -1,7 +1,7 @@
 ---
-title: "Hurdland, Missouri Business Directory"
+title: "Hurdland, MO Business Directory"
+type: "towns"
 slug: "hurdland-mo"
-state: "MO"
-county: "Knox"
-population: 1500
+state: "mo"
+town_data: "hurdland-mo"
 ---

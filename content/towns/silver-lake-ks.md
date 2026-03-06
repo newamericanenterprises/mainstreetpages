@@ -1,9 +1,7 @@
 ---
-title: "Silver Lake, Kansas Business Directory"
+title: "Silver Lake, KS Business Directory"
+type: "towns"
 slug: "silver-lake-ks"
-town: "Silver Lake"
-state: "Kansas"
-state_abbr: "KS"
-county: "Shawnee"
-population: 920
+state: "ks"
+town_data: "silver-lake-ks"
 ---

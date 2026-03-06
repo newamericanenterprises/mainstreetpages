@@ -1,9 +1,7 @@
 ---
-title: "Hays, Kansas Business Directory"
+title: "Hays, KS Business Directory"
+type: "towns"
 slug: "hays-ks"
-town: "Hays"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellis"
-population: 21124
+state: "ks"
+town_data: "hays-ks"
 ---

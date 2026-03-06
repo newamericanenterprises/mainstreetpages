@@ -1,9 +1,7 @@
 ---
-title: "Jonesboro, Indiana Business Directory"
+title: "Jonesboro, IN Business Directory"
+type: "towns"
 slug: "jonesboro-in"
-town: "Jonesboro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 1629
+state: "in"
+town_data: "jonesboro-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Muskegon Heights, Michigan Business Directory"
+title: "Muskegon Heights, MI Business Directory"
+type: "towns"
 slug: "muskegon-heights-mi"
-town: "Muskegon Heights"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 5000
+state: "mi"
+town_data: "muskegon-heights-mi"
 ---

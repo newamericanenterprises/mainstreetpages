@@ -1,9 +1,7 @@
 ---
-title: "Oakley, Kansas Business Directory"
+title: "Oakley, KS Business Directory"
+type: "towns"
 slug: "oakley-ks"
-town: "Oakley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 2045
+state: "ks"
+town_data: "oakley-ks"
 ---

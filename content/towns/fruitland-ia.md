@@ -1,9 +1,7 @@
 ---
-title: "Fruitland, Iowa Business Directory"
+title: "Fruitland, IA Business Directory"
+type: "towns"
 slug: "fruitland-ia"
-town: "Fruitland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 2992
+state: "ia"
+town_data: "fruitland-ia"
 ---

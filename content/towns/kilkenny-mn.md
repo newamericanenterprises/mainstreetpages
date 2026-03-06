@@ -1,9 +1,7 @@
 ---
-title: "Kilkenny, Minnesota Business Directory"
+title: "Kilkenny, MN Business Directory"
+type: "towns"
 slug: "kilkenny-mn"
-town: "Kilkenny"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 2668
+state: "mn"
+town_data: "kilkenny-mn"
 ---

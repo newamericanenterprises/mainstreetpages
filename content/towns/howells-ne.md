@@ -1,7 +1,7 @@
 ---
-title: "Howells, Nebraska Business Directory"
+title: "Howells, NE Business Directory"
+type: "towns"
 slug: "howells-ne"
-state: "NE"
-county: "Colfax"
-population: 500
+state: "ne"
+town_data: "howells-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Beaumont, Mississippi Business Directory"
+title: "Beaumont, MS Business Directory"
+type: "towns"
 slug: "beaumont-ms"
-state: "MS"
-county: "Perry"
-population: 1067
+state: "ms"
+town_data: "beaumont-ms"
 ---

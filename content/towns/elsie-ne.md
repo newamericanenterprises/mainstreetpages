@@ -1,7 +1,7 @@
 ---
-title: "Elsie, Nebraska Business Directory"
+title: "Elsie, NE Business Directory"
+type: "towns"
 slug: "elsie-ne"
-state: "NE"
-county: "Perkins"
-population: 500
+state: "ne"
+town_data: "elsie-ne"
 ---

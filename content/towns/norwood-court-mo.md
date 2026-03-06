@@ -1,7 +1,7 @@
 ---
-title: "Norwood Court, Missouri Business Directory"
+title: "Norwood Court, MO Business Directory"
+type: "towns"
 slug: "norwood-court-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "norwood-court-mo"
 ---

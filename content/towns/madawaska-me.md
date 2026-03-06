@@ -1,9 +1,7 @@
 ---
-title: "Madawaska, Maine Business Directory"
+title: "Madawaska, ME Business Directory"
+type: "towns"
 slug: "madawaska-me"
-town: "Madawaska"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 756
+state: "me"
+town_data: "madawaska-me"
 ---

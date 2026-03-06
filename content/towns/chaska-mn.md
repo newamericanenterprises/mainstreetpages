@@ -1,9 +1,7 @@
 ---
-title: "Chaska, Minnesota Business Directory"
+title: "Chaska, MN Business Directory"
+type: "towns"
 slug: "chaska-mn"
-town: "Chaska"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 27935
+state: "mn"
+town_data: "chaska-mn"
 ---

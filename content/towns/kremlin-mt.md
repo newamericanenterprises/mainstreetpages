@@ -1,7 +1,7 @@
 ---
-title: "Kremlin, Montana Business Directory"
+title: "Kremlin, MT Business Directory"
+type: "towns"
 slug: "kremlin-mt"
-state: "MT"
-county: "Hill"
-population: 500
+state: "mt"
+town_data: "kremlin-mt"
 ---

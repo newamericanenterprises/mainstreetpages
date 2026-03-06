@@ -1,7 +1,7 @@
 ---
-title: "Silver Peak, Nevada Business Directory"
+title: "Silver Peak, NV Business Directory"
+type: "towns"
 slug: "silver-peak-nv"
-state: "NV"
-county: "Esmeralda"
-population: 107
+state: "nv"
+town_data: "silver-peak-nv"
 ---

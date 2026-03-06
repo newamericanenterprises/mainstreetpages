@@ -1,9 +1,7 @@
 ---
-title: "Montevideo, Minnesota Business Directory"
+title: "Montevideo, MN Business Directory"
+type: "towns"
 slug: "montevideo-mn"
-town: "Montevideo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chippewa"
-population: 5383
+state: "mn"
+town_data: "montevideo-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dadeville, Missouri Business Directory"
+title: "Dadeville, MO Business Directory"
+type: "towns"
 slug: "dadeville-mo"
-state: "MO"
-county: "Dade"
-population: 1500
+state: "mo"
+town_data: "dadeville-mo"
 ---

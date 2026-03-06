@@ -1,7 +1,7 @@
 ---
-title: "Douglas, Nebraska Business Directory"
+title: "Douglas, NE Business Directory"
+type: "towns"
 slug: "douglas-ne"
-state: "NE"
-county: "Otoe"
-population: 500
+state: "ne"
+town_data: "douglas-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grayson, Kentucky Business Directory"
+title: "Grayson, KY Business Directory"
+type: "towns"
 slug: "grayson-ky"
-town: "Grayson"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carter"
-population: 4012
+state: "ky"
+town_data: "grayson-ky"
 ---

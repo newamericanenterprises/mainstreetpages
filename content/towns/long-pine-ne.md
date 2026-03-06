@@ -1,7 +1,7 @@
 ---
-title: "Long Pine, Nebraska Business Directory"
+title: "Long Pine, NE Business Directory"
+type: "towns"
 slug: "long-pine-ne"
-state: "NE"
-county: "Brown"
-population: 305
+state: "ne"
+town_data: "long-pine-ne"
 ---

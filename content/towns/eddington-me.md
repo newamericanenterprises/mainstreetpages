@@ -1,9 +1,7 @@
 ---
-title: "Eddington, Maine Business Directory"
+title: "Eddington, ME Business Directory"
+type: "towns"
 slug: "eddington-me"
-town: "Eddington"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 1781
+state: "me"
+town_data: "eddington-me"
 ---

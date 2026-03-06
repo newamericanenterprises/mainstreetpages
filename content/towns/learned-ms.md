@@ -1,7 +1,7 @@
 ---
-title: "Learned, Mississippi Business Directory"
+title: "Learned, MS Business Directory"
+type: "towns"
 slug: "learned-ms"
-state: "MS"
-county: "Hinds"
-population: 94
+state: "ms"
+town_data: "learned-ms"
 ---

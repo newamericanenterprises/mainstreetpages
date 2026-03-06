@@ -1,9 +1,7 @@
 ---
-title: "Sheridan, Michigan Business Directory"
+title: "Sheridan, MI Business Directory"
+type: "towns"
 slug: "sheridan-mi"
-town: "Sheridan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 3613
+state: "mi"
+town_data: "sheridan-mi"
 ---

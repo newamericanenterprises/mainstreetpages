@@ -1,9 +1,7 @@
 ---
-title: "Twin Valley, Minnesota Business Directory"
+title: "Twin Valley, MN Business Directory"
+type: "towns"
 slug: "twin-valley-mn"
-town: "Twin Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 2637
+state: "mn"
+town_data: "twin-valley-mn"
 ---

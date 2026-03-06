@@ -1,7 +1,7 @@
 ---
-title: "Shell Knob, Missouri Business Directory"
+title: "Shell Knob, MO Business Directory"
+type: "towns"
 slug: "shell-knob-mo"
-state: "MO"
-county: "Barry"
-population: 1458
+state: "mo"
+town_data: "shell-knob-mo"
 ---

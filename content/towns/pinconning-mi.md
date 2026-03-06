@@ -1,9 +1,7 @@
 ---
-title: "Pinconning, Michigan Business Directory"
+title: "Pinconning, MI Business Directory"
+type: "towns"
 slug: "pinconning-mi"
-town: "Pinconning"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 5294
+state: "mi"
+town_data: "pinconning-mi"
 ---

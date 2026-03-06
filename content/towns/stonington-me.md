@@ -1,9 +1,7 @@
 ---
-title: "Stonington, Maine Business Directory"
+title: "Stonington, ME Business Directory"
+type: "towns"
 slug: "stonington-me"
-town: "Stonington"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2648
+state: "me"
+town_data: "stonington-me"
 ---

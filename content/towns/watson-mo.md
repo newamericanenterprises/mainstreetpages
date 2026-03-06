@@ -1,7 +1,7 @@
 ---
-title: "Watson, Missouri Business Directory"
+title: "Watson, MO Business Directory"
+type: "towns"
 slug: "watson-mo"
-state: "MO"
-county: "Atchison"
-population: 1500
+state: "mo"
+town_data: "watson-mo"
 ---

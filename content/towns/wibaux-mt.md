@@ -1,7 +1,7 @@
 ---
-title: "Wibaux, Montana Business Directory"
+title: "Wibaux, MT Business Directory"
+type: "towns"
 slug: "wibaux-mt"
-state: "MT"
-county: "Wibaux"
-population: 589
+state: "mt"
+town_data: "wibaux-mt"
 ---

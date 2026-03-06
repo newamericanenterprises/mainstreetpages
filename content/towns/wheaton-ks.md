@@ -1,9 +1,7 @@
 ---
-title: "Wheaton, Kansas Business Directory"
+title: "Wheaton, KS Business Directory"
+type: "towns"
 slug: "wheaton-ks"
-town: "Wheaton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 855
+state: "ks"
+town_data: "wheaton-ks"
 ---

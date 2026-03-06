@@ -1,9 +1,7 @@
 ---
-title: "Tyler, Minnesota Business Directory"
+title: "Tyler, MN Business Directory"
+type: "towns"
 slug: "tyler-mn"
-town: "Tyler"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lincoln"
-population: 543
+state: "mn"
+town_data: "tyler-mn"
 ---

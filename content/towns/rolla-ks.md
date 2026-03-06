@@ -1,9 +1,7 @@
 ---
-title: "Rolla, Kansas Business Directory"
+title: "Rolla, KS Business Directory"
+type: "towns"
 slug: "rolla-ks"
-town: "Rolla"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morton"
-population: 338
+state: "ks"
+town_data: "rolla-ks"
 ---

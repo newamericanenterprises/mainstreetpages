@@ -1,9 +1,7 @@
 ---
-title: "Becket, Massachusetts Business Directory"
+title: "Becket, MA Business Directory"
+type: "towns"
 slug: "becket-ma"
-town: "Becket"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 2684
+state: "ma"
+town_data: "becket-ma"
 ---

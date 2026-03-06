@@ -1,7 +1,7 @@
 ---
-title: "Belgrade, Nebraska Business Directory"
+title: "Belgrade, NE Business Directory"
+type: "towns"
 slug: "belgrade-ne"
-state: "NE"
-county: "Nance"
-population: 500
+state: "ne"
+town_data: "belgrade-ne"
 ---

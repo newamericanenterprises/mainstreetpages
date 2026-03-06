@@ -1,9 +1,7 @@
 ---
-title: "Athens, Maine Business Directory"
+title: "Athens, ME Business Directory"
+type: "towns"
 slug: "athens-me"
-town: "Athens"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2084
+state: "me"
+town_data: "athens-me"
 ---

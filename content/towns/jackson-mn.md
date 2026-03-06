@@ -1,9 +1,7 @@
 ---
-title: "Jackson, Minnesota Business Directory"
+title: "Jackson, MN Business Directory"
+type: "towns"
 slug: "jackson-mn"
-town: "Jackson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 3299
+state: "mn"
+town_data: "jackson-mn"
 ---

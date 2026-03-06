@@ -1,7 +1,7 @@
 ---
-title: "Irena, Missouri Business Directory"
+title: "Irena, MO Business Directory"
+type: "towns"
 slug: "irena-mo"
-state: "MO"
-county: "Worth"
-population: 1500
+state: "mo"
+town_data: "irena-mo"
 ---

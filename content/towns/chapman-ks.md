@@ -1,9 +1,7 @@
 ---
-title: "Chapman, Kansas Business Directory"
+title: "Chapman, KS Business Directory"
+type: "towns"
 slug: "chapman-ks"
-town: "Chapman"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 3155
+state: "ks"
+town_data: "chapman-ks"
 ---

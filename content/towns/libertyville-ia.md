@@ -1,9 +1,7 @@
 ---
-title: "Libertyville, Iowa Business Directory"
+title: "Libertyville, IA Business Directory"
+type: "towns"
 slug: "libertyville-ia"
-town: "Libertyville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jefferson"
-population: 3243
+state: "ia"
+town_data: "libertyville-ia"
 ---

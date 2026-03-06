@@ -1,9 +1,7 @@
 ---
-title: "Geneva, Minnesota Business Directory"
+title: "Geneva, MN Business Directory"
+type: "towns"
 slug: "geneva-mn"
-town: "Geneva"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 992
+state: "mn"
+town_data: "geneva-mn"
 ---

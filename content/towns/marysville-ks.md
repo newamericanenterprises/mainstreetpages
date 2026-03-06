@@ -1,9 +1,7 @@
 ---
-title: "Marysville, Kansas Business Directory"
+title: "Marysville, KS Business Directory"
+type: "towns"
 slug: "marysville-ks"
-town: "Marysville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 3385
+state: "ks"
+town_data: "marysville-ks"
 ---

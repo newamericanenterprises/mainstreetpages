@@ -1,9 +1,7 @@
 ---
-title: "Tower, Minnesota Business Directory"
+title: "Tower, MN Business Directory"
+type: "towns"
 slug: "tower-mn"
-town: "Tower"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 1278
+state: "mn"
+town_data: "tower-mn"
 ---

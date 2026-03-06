@@ -1,9 +1,7 @@
 ---
-title: "University Heights, Iowa Business Directory"
+title: "University Heights, IA Business Directory"
+type: "towns"
 slug: "university-heights-ia"
-town: "University Heights"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2762
+state: "ia"
+town_data: "university-heights-ia"
 ---

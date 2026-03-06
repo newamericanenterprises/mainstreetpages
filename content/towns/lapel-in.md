@@ -1,9 +1,7 @@
 ---
-title: "Lapel, Indiana Business Directory"
+title: "Lapel, IN Business Directory"
+type: "towns"
 slug: "lapel-in"
-town: "Lapel"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 4879
+state: "in"
+town_data: "lapel-in"
 ---

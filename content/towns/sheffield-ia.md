@@ -1,9 +1,7 @@
 ---
-title: "Sheffield, Iowa Business Directory"
+title: "Sheffield, IA Business Directory"
+type: "towns"
 slug: "sheffield-ia"
-town: "Sheffield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 1175
+state: "ia"
+town_data: "sheffield-ia"
 ---

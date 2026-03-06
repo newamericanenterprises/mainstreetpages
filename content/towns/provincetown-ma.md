@@ -1,9 +1,7 @@
 ---
-title: "Provincetown, Massachusetts Business Directory"
+title: "Provincetown, MA Business Directory"
+type: "towns"
 slug: "provincetown-ma"
-town: "Provincetown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 2829
+state: "ma"
+town_data: "provincetown-ma"
 ---

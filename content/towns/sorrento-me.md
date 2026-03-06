@@ -1,9 +1,7 @@
 ---
-title: "Sorrento, Maine Business Directory"
+title: "Sorrento, ME Business Directory"
+type: "towns"
 slug: "sorrento-me"
-town: "Sorrento"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 467
+state: "me"
+town_data: "sorrento-me"
 ---

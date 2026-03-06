@@ -1,7 +1,7 @@
 ---
-title: "Mount Vernon, Missouri Business Directory"
+title: "Mount Vernon, MO Business Directory"
+type: "towns"
 slug: "mount-vernon-mo"
-state: "MO"
-county: "Lawrence"
-population: 4575
+state: "mo"
+town_data: "mount-vernon-mo"
 ---

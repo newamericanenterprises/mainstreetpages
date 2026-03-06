@@ -1,9 +1,7 @@
 ---
-title: "South Mansfield, Louisiana Business Directory"
+title: "South Mansfield, LA Business Directory"
+type: "towns"
 slug: "south-mansfield-la"
-town: "South Mansfield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 2955
+state: "la"
+town_data: "south-mansfield-la"
 ---

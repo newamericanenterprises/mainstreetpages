@@ -1,7 +1,7 @@
 ---
-title: "Orleans, Nebraska Business Directory"
+title: "Orleans, NE Business Directory"
+type: "towns"
 slug: "orleans-ne"
-state: "NE"
-county: "Harlan"
-population: 500
+state: "ne"
+town_data: "orleans-ne"
 ---

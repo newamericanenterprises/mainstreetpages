@@ -1,9 +1,7 @@
 ---
-title: "Minnesota Lake, Minnesota Business Directory"
+title: "Minnesota Lake, MN Business Directory"
+type: "towns"
 slug: "minnesota-lake-mn"
-town: "Minnesota Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 577
+state: "mn"
+town_data: "minnesota-lake-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rushmore, Minnesota Business Directory"
+title: "Rushmore, MN Business Directory"
+type: "towns"
 slug: "rushmore-mn"
-town: "Rushmore"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 3164
+state: "mn"
+town_data: "rushmore-mn"
 ---

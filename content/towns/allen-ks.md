@@ -1,9 +1,7 @@
 ---
-title: "Allen, Kansas Business Directory"
+title: "Allen, KS Business Directory"
+type: "towns"
 slug: "allen-ks"
-town: "Allen"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 2568
+state: "ks"
+town_data: "allen-ks"
 ---

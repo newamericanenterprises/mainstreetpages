@@ -1,9 +1,7 @@
 ---
-title: "Montpelier, Louisiana Business Directory"
+title: "Montpelier, LA Business Directory"
+type: "towns"
 slug: "montpelier-la"
-town: "Montpelier"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Helena"
-population: 826
+state: "la"
+town_data: "montpelier-la"
 ---

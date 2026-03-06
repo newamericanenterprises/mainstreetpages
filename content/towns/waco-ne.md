@@ -1,7 +1,7 @@
 ---
-title: "Waco, Nebraska Business Directory"
+title: "Waco, NE Business Directory"
+type: "towns"
 slug: "waco-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "waco-ne"
 ---

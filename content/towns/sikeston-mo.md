@@ -1,7 +1,7 @@
 ---
-title: "Sikeston, Missouri Business Directory"
+title: "Sikeston, MO Business Directory"
+type: "towns"
 slug: "sikeston-mo"
-state: "MO"
-county: "Scott"
-population: 16318
+state: "mo"
+town_data: "sikeston-mo"
 ---

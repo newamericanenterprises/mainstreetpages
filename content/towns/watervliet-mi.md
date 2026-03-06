@@ -1,9 +1,7 @@
 ---
-title: "Watervliet, Michigan Business Directory"
+title: "Watervliet, MI Business Directory"
+type: "towns"
 slug: "watervliet-mi"
-town: "Watervliet"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 5351
+state: "mi"
+town_data: "watervliet-mi"
 ---

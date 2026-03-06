@@ -1,9 +1,7 @@
 ---
-title: "Sharon Springs, Kansas Business Directory"
+title: "Sharon Springs, KS Business Directory"
+type: "towns"
 slug: "sharon-springs-ks"
-town: "Sharon Springs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wallace"
-population: 742
+state: "ks"
+town_data: "sharon-springs-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cambridge, Maryland Business Directory"
+title: "Cambridge, MD Business Directory"
+type: "towns"
 slug: "cambridge-md"
-town: "Cambridge"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 12314
+state: "md"
+town_data: "cambridge-md"
 ---

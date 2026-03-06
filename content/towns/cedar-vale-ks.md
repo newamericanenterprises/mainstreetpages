@@ -1,9 +1,7 @@
 ---
-title: "Cedar Vale, Kansas Business Directory"
+title: "Cedar Vale, KS Business Directory"
+type: "towns"
 slug: "cedar-vale-ks"
-town: "Cedar Vale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 2256
+state: "ks"
+town_data: "cedar-vale-ks"
 ---

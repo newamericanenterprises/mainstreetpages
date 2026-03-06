@@ -1,7 +1,7 @@
 ---
-title: "Blue Diamond, Nevada Business Directory"
+title: "Blue Diamond, NV Business Directory"
+type: "towns"
 slug: "blue-diamond-nv"
-state: "NV"
-county: "Clark"
-population: 282
+state: "nv"
+town_data: "blue-diamond-nv"
 ---

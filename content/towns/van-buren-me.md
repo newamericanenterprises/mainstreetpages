@@ -1,9 +1,7 @@
 ---
-title: "Van Buren, Maine Business Directory"
+title: "Van Buren, ME Business Directory"
+type: "towns"
 slug: "van-buren-me"
-town: "Van Buren"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 980
+state: "me"
+town_data: "van-buren-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Aurora, Missouri Business Directory"
+title: "Aurora, MO Business Directory"
+type: "towns"
 slug: "aurora-mo"
-state: "MO"
-county: "Lawrence"
-population: 7508
+state: "mo"
+town_data: "aurora-mo"
 ---

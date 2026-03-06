@@ -1,9 +1,7 @@
 ---
-title: "Ainsworth, Iowa Business Directory"
+title: "Ainsworth, IA Business Directory"
+type: "towns"
 slug: "ainsworth-ia"
-town: "Ainsworth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 704
+state: "ia"
+town_data: "ainsworth-ia"
 ---

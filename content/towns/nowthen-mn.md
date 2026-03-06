@@ -1,9 +1,7 @@
 ---
-title: "Nowthen, Minnesota Business Directory"
+title: "Nowthen, MN Business Directory"
+type: "towns"
 slug: "nowthen-mn"
-town: "Nowthen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2755
+state: "mn"
+town_data: "nowthen-mn"
 ---

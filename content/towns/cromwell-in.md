@@ -1,9 +1,7 @@
 ---
-title: "Cromwell, Indiana Business Directory"
+title: "Cromwell, IN Business Directory"
+type: "towns"
 slug: "cromwell-in"
-town: "Cromwell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 4252
+state: "in"
+town_data: "cromwell-in"
 ---

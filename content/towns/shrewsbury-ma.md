@@ -1,9 +1,7 @@
 ---
-title: "Shrewsbury, Massachusetts Business Directory"
+title: "Shrewsbury, MA Business Directory"
+type: "towns"
 slug: "shrewsbury-ma"
-town: "Shrewsbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 38478
+state: "ma"
+town_data: "shrewsbury-ma"
 ---

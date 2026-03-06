@@ -1,9 +1,7 @@
 ---
-title: "Alden, Minnesota Business Directory"
+title: "Alden, MN Business Directory"
+type: "towns"
 slug: "alden-mn"
-town: "Alden"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 3136
+state: "mn"
+town_data: "alden-mn"
 ---

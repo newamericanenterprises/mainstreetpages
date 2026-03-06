@@ -1,9 +1,7 @@
 ---
-title: "Hayfield, Minnesota Business Directory"
+title: "Hayfield, MN Business Directory"
+type: "towns"
 slug: "hayfield-mn"
-town: "Hayfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 964
+state: "mn"
+town_data: "hayfield-mn"
 ---

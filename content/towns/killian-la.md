@@ -1,9 +1,7 @@
 ---
-title: "Killian, Louisiana Business Directory"
+title: "Killian, LA Business Directory"
+type: "towns"
 slug: "killian-la"
-town: "Killian"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 1435
+state: "la"
+town_data: "killian-la"
 ---

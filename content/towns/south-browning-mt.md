@@ -1,7 +1,7 @@
 ---
-title: "South Browning, Montana Business Directory"
+title: "South Browning, MT Business Directory"
+type: "towns"
 slug: "south-browning-mt"
-state: "MT"
-county: "Glacier"
-population: 1034
+state: "mt"
+town_data: "south-browning-mt"
 ---

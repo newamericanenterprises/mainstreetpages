@@ -1,7 +1,7 @@
 ---
-title: "Barnard, Missouri Business Directory"
+title: "Barnard, MO Business Directory"
+type: "towns"
 slug: "barnard-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "barnard-mo"
 ---

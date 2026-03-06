@@ -1,9 +1,7 @@
 ---
-title: "Norfolk, Massachusetts Business Directory"
+title: "Norfolk, MA Business Directory"
+type: "towns"
 slug: "norfolk-ma"
-town: "Norfolk"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 8478
+state: "ma"
+town_data: "norfolk-ma"
 ---

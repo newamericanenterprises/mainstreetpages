@@ -1,9 +1,7 @@
 ---
-title: "Assinins, Michigan Business Directory"
+title: "Assinins, MI Business Directory"
+type: "towns"
 slug: "assinins-mi"
-town: "Assinins"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 4356
+state: "mi"
+town_data: "assinins-mi"
 ---

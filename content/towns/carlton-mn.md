@@ -1,9 +1,7 @@
 ---
-title: "Carlton, Minnesota Business Directory"
+title: "Carlton, MN Business Directory"
+type: "towns"
 slug: "carlton-mn"
-town: "Carlton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 1094
+state: "mn"
+town_data: "carlton-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tipton, Indiana Business Directory"
+title: "Tipton, IN Business Directory"
+type: "towns"
 slug: "tipton-in"
-town: "Tipton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tipton"
-population: 5106
+state: "in"
+town_data: "tipton-in"
 ---

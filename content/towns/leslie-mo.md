@@ -1,7 +1,7 @@
 ---
-title: "Leslie, Missouri Business Directory"
+title: "Leslie, MO Business Directory"
+type: "towns"
 slug: "leslie-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "leslie-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hardwick, Minnesota Business Directory"
+title: "Hardwick, MN Business Directory"
+type: "towns"
 slug: "hardwick-mn"
-town: "Hardwick"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 1928
+state: "mn"
+town_data: "hardwick-mn"
 ---

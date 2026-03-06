@@ -1,7 +1,7 @@
 ---
-title: "Herman, Nebraska Business Directory"
+title: "Herman, NE Business Directory"
+type: "towns"
 slug: "herman-ne"
-state: "NE"
-county: "Washington"
-population: 500
+state: "ne"
+town_data: "herman-ne"
 ---

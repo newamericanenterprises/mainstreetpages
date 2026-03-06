@@ -1,9 +1,7 @@
 ---
-title: "Sperry, Iowa Business Directory"
+title: "Sperry, IA Business Directory"
+type: "towns"
 slug: "sperry-ia"
-town: "Sperry"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 1373
+state: "ia"
+town_data: "sperry-ia"
 ---

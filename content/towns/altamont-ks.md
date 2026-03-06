@@ -1,9 +1,7 @@
 ---
-title: "Altamont, Kansas Business Directory"
+title: "Altamont, KS Business Directory"
+type: "towns"
 slug: "altamont-ks"
-town: "Altamont"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 1149
+state: "ks"
+town_data: "altamont-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Quimby, Iowa Business Directory"
+title: "Quimby, IA Business Directory"
+type: "towns"
 slug: "quimby-ia"
-town: "Quimby"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 1021
+state: "ia"
+town_data: "quimby-ia"
 ---

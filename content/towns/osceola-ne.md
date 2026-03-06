@@ -1,7 +1,7 @@
 ---
-title: "Osceola, Nebraska Business Directory"
+title: "Osceola, NE Business Directory"
+type: "towns"
 slug: "osceola-ne"
-state: "NE"
-county: "Polk"
-population: 892
+state: "ne"
+town_data: "osceola-ne"
 ---

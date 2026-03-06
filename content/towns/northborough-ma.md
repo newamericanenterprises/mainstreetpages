@@ -1,9 +1,7 @@
 ---
-title: "Northborough, Massachusetts Business Directory"
+title: "Northborough, MA Business Directory"
+type: "towns"
 slug: "northborough-ma"
-town: "Northborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4229
+state: "ma"
+town_data: "northborough-ma"
 ---

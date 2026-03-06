@@ -1,7 +1,7 @@
 ---
-title: "Bethany, Missouri Business Directory"
+title: "Bethany, MO Business Directory"
+type: "towns"
 slug: "bethany-mo"
-state: "MO"
-county: "Harrison"
-population: 3013
+state: "mo"
+town_data: "bethany-mo"
 ---

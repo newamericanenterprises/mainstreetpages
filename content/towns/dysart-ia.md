@@ -1,9 +1,7 @@
 ---
-title: "Dysart, Iowa Business Directory"
+title: "Dysart, IA Business Directory"
+type: "towns"
 slug: "dysart-ia"
-town: "Dysart"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 1415
+state: "ia"
+town_data: "dysart-ia"
 ---

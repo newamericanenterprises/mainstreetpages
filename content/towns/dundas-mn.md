@@ -1,9 +1,7 @@
 ---
-title: "Dundas, Minnesota Business Directory"
+title: "Dundas, MN Business Directory"
+type: "towns"
 slug: "dundas-mn"
-town: "Dundas"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 2933
+state: "mn"
+town_data: "dundas-mn"
 ---

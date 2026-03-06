@@ -1,9 +1,7 @@
 ---
-title: "Backus, Minnesota Business Directory"
+title: "Backus, MN Business Directory"
+type: "towns"
 slug: "backus-mn"
-town: "Backus"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 1361
+state: "mn"
+town_data: "backus-mn"
 ---

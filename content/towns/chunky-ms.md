@@ -1,7 +1,7 @@
 ---
-title: "Chunky, Mississippi Business Directory"
+title: "Chunky, MS Business Directory"
+type: "towns"
 slug: "chunky-ms"
-state: "MS"
-county: "Newton"
-population: 338
+state: "ms"
+town_data: "chunky-ms"
 ---

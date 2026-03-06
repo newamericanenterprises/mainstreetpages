@@ -1,9 +1,7 @@
 ---
-title: "Dunkirk, Maryland Business Directory"
+title: "Dunkirk, MD Business Directory"
+type: "towns"
 slug: "dunkirk-md"
-town: "Dunkirk"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 1455
+state: "md"
+town_data: "dunkirk-md"
 ---

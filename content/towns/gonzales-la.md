@@ -1,9 +1,7 @@
 ---
-title: "Gonzales, Louisiana Business Directory"
+title: "Gonzales, LA Business Directory"
+type: "towns"
 slug: "gonzales-la"
-town: "Gonzales"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 12231
+state: "la"
+town_data: "gonzales-la"
 ---

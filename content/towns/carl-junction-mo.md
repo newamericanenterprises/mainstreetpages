@@ -1,7 +1,7 @@
 ---
-title: "Carl Junction, Missouri Business Directory"
+title: "Carl Junction, MO Business Directory"
+type: "towns"
 slug: "carl-junction-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "carl-junction-mo"
 ---

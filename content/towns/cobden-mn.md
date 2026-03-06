@@ -1,9 +1,7 @@
 ---
-title: "Cobden, Minnesota Business Directory"
+title: "Cobden, MN Business Directory"
+type: "towns"
 slug: "cobden-mn"
-town: "Cobden"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 2125
+state: "mn"
+town_data: "cobden-mn"
 ---

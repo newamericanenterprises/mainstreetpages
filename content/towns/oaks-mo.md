@@ -1,7 +1,7 @@
 ---
-title: "Oaks, Missouri Business Directory"
+title: "Oaks, MO Business Directory"
+type: "towns"
 slug: "oaks-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "oaks-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ponca, Nebraska Business Directory"
+title: "Ponca, NE Business Directory"
+type: "towns"
 slug: "ponca-ne"
-state: "NE"
-county: "Dixon"
-population: 969
+state: "ne"
+town_data: "ponca-ne"
 ---

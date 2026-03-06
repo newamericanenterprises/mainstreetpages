@@ -1,9 +1,7 @@
 ---
-title: "Orange City, Iowa Business Directory"
+title: "Orange City, IA Business Directory"
+type: "towns"
 slug: "orange-city-ia"
-town: "Orange City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 6189
+state: "ia"
+town_data: "orange-city-ia"
 ---

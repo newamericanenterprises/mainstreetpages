@@ -1,7 +1,7 @@
 ---
-title: "Laurel, Nebraska Business Directory"
+title: "Laurel, NE Business Directory"
+type: "towns"
 slug: "laurel-ne"
-state: "NE"
-county: "Cedar"
-population: 959
+state: "ne"
+town_data: "laurel-ne"
 ---

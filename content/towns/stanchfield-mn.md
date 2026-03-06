@@ -1,9 +1,7 @@
 ---
-title: "Stanchfield, Minnesota Business Directory"
+title: "Stanchfield, MN Business Directory"
+type: "towns"
 slug: "stanchfield-mn"
-town: "Stanchfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 627
+state: "mn"
+town_data: "stanchfield-mn"
 ---

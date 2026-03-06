@@ -1,9 +1,7 @@
 ---
-title: "Bloomfield, Iowa Business Directory"
+title: "Bloomfield, IA Business Directory"
+type: "towns"
 slug: "bloomfield-ia"
-town: "Bloomfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Davis"
-population: 2640
+state: "ia"
+town_data: "bloomfield-ia"
 ---

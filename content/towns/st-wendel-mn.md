@@ -1,9 +1,7 @@
 ---
-title: "St. Wendel, Minnesota Business Directory"
+title: "St. Wendel, MN Business Directory"
+type: "towns"
 slug: "st-wendel-mn"
-town: "St. Wendel"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 2621
+state: "mn"
+town_data: "st-wendel-mn"
 ---

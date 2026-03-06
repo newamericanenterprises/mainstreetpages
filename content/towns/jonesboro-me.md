@@ -1,9 +1,7 @@
 ---
-title: "Jonesboro, Maine Business Directory"
+title: "Jonesboro, ME Business Directory"
+type: "towns"
 slug: "jonesboro-me"
-town: "Jonesboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2785
+state: "me"
+town_data: "jonesboro-me"
 ---

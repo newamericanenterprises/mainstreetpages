@@ -1,9 +1,7 @@
 ---
-title: "Dorchester, Iowa Business Directory"
+title: "Dorchester, IA Business Directory"
+type: "towns"
 slug: "dorchester-ia"
-town: "Dorchester"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 862
+state: "ia"
+town_data: "dorchester-ia"
 ---

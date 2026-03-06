@@ -1,9 +1,7 @@
 ---
-title: "Pembroke, Kentucky Business Directory"
+title: "Pembroke, KY Business Directory"
+type: "towns"
 slug: "pembroke-ky"
-town: "Pembroke"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Christian"
-population: 2606
+state: "ky"
+town_data: "pembroke-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. George, Maine Business Directory"
+title: "St. George, ME Business Directory"
+type: "towns"
 slug: "st-george-me"
-town: "St. George"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 2692
+state: "me"
+town_data: "st-george-me"
 ---

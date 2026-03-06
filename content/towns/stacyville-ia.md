@@ -1,9 +1,7 @@
 ---
-title: "Stacyville, Iowa Business Directory"
+title: "Stacyville, IA Business Directory"
+type: "towns"
 slug: "stacyville-ia"
-town: "Stacyville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 1121
+state: "ia"
+town_data: "stacyville-ia"
 ---

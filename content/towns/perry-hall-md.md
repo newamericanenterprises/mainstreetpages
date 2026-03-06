@@ -1,9 +1,7 @@
 ---
-title: "Perry Hall, Maryland Business Directory"
+title: "Perry Hall, MD Business Directory"
+type: "towns"
 slug: "perry-hall-md"
-town: "Perry Hall"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2515
+state: "md"
+town_data: "perry-hall-md"
 ---

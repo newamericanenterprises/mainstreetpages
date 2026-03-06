@@ -1,9 +1,7 @@
 ---
-title: "Machias, Maine Business Directory"
+title: "Machias, ME Business Directory"
+type: "towns"
 slug: "machias-me"
-town: "Machias"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2095
+state: "me"
+town_data: "machias-me"
 ---

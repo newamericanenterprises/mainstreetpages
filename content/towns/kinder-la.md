@@ -1,9 +1,7 @@
 ---
-title: "Kinder, Louisiana Business Directory"
+title: "Kinder, LA Business Directory"
+type: "towns"
 slug: "kinder-la"
-town: "Kinder"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Allen"
-population: 2477
+state: "la"
+town_data: "kinder-la"
 ---

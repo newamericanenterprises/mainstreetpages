@@ -1,9 +1,7 @@
 ---
-title: "Wellsburg, Iowa Business Directory"
+title: "Wellsburg, IA Business Directory"
+type: "towns"
 slug: "wellsburg-ia"
-town: "Wellsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 1430
+state: "ia"
+town_data: "wellsburg-ia"
 ---

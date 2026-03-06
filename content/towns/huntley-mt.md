@@ -1,7 +1,7 @@
 ---
-title: "Huntley, Montana Business Directory"
+title: "Huntley, MT Business Directory"
+type: "towns"
 slug: "huntley-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "huntley-mt"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Saint Helena, Nebraska Business Directory"
+title: "Saint Helena, NE Business Directory"
+type: "towns"
 slug: "saint-helena-ne"
-state: "NE"
-county: "Cedar"
-population: 500
+state: "ne"
+town_data: "saint-helena-ne"
 ---

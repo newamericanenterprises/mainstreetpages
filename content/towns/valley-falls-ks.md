@@ -1,9 +1,7 @@
 ---
-title: "Valley Falls, Kansas Business Directory"
+title: "Valley Falls, KS Business Directory"
+type: "towns"
 slug: "valley-falls-ks"
-town: "Valley Falls"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 571
+state: "ks"
+town_data: "valley-falls-ks"
 ---

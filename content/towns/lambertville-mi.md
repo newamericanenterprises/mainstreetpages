@@ -1,9 +1,7 @@
 ---
-title: "Lambertville, Michigan Business Directory"
+title: "Lambertville, MI Business Directory"
+type: "towns"
 slug: "lambertville-mi"
-town: "Lambertville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 527
+state: "mi"
+town_data: "lambertville-mi"
 ---

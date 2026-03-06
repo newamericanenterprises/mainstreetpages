@@ -1,9 +1,7 @@
 ---
-title: "Ama, Louisiana Business Directory"
+title: "Ama, LA Business Directory"
+type: "towns"
 slug: "ama-la"
-town: "Ama"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 1123
+state: "la"
+town_data: "ama-la"
 ---

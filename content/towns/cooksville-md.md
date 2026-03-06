@@ -1,9 +1,7 @@
 ---
-title: "Cooksville, Maryland Business Directory"
+title: "Cooksville, MD Business Directory"
+type: "towns"
 slug: "cooksville-md"
-town: "Cooksville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 746
+state: "md"
+town_data: "cooksville-md"
 ---

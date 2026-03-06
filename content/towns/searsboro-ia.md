@@ -1,9 +1,7 @@
 ---
-title: "Searsboro, Iowa Business Directory"
+title: "Searsboro, IA Business Directory"
+type: "towns"
 slug: "searsboro-ia"
-town: "Searsboro"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 2960
+state: "ia"
+town_data: "searsboro-ia"
 ---

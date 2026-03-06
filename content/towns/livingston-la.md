@@ -1,9 +1,7 @@
 ---
-title: "Livingston, Louisiana Business Directory"
+title: "Livingston, LA Business Directory"
+type: "towns"
 slug: "livingston-la"
-town: "Livingston"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 3179
+state: "la"
+town_data: "livingston-la"
 ---

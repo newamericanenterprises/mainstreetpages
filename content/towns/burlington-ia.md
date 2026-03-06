@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Iowa Business Directory"
+title: "Burlington, IA Business Directory"
+type: "towns"
 slug: "burlington-ia"
-town: "Burlington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 24051
+state: "ia"
+town_data: "burlington-ia"
 ---

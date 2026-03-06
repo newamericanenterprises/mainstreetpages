@@ -1,9 +1,7 @@
 ---
-title: "Farmington, Iowa Business Directory"
+title: "Farmington, IA Business Directory"
+type: "towns"
 slug: "farmington-ia"
-town: "Farmington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 726
+state: "ia"
+town_data: "farmington-ia"
 ---

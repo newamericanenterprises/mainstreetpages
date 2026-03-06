@@ -1,9 +1,7 @@
 ---
-title: "Orleans, Massachusetts Business Directory"
+title: "Orleans, MA Business Directory"
+type: "towns"
 slug: "orleans-ma"
-town: "Orleans"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 5698
+state: "ma"
+town_data: "orleans-ma"
 ---

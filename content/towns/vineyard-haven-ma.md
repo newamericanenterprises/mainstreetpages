@@ -1,9 +1,7 @@
 ---
-title: "Vineyard Haven, Massachusetts Business Directory"
+title: "Vineyard Haven, MA Business Directory"
+type: "towns"
 slug: "vineyard-haven-ma"
-town: "Vineyard Haven"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 7245
+state: "ma"
+town_data: "vineyard-haven-ma"
 ---

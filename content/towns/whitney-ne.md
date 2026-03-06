@@ -1,7 +1,7 @@
 ---
-title: "Whitney, Nebraska Business Directory"
+title: "Whitney, NE Business Directory"
+type: "towns"
 slug: "whitney-ne"
-state: "NE"
-county: "Dawes"
-population: 500
+state: "ne"
+town_data: "whitney-ne"
 ---

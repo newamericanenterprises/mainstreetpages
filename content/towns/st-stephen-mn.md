@@ -1,9 +1,7 @@
 ---
-title: "St. Stephen, Minnesota Business Directory"
+title: "St. Stephen, MN Business Directory"
+type: "towns"
 slug: "st-stephen-mn"
-town: "St. Stephen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1402
+state: "mn"
+town_data: "st-stephen-mn"
 ---

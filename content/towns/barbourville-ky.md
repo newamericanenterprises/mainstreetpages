@@ -1,9 +1,7 @@
 ---
-title: "Barbourville, Kentucky Business Directory"
+title: "Barbourville, KY Business Directory"
+type: "towns"
 slug: "barbourville-ky"
-town: "Barbourville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Knox"
-population: 3233
+state: "ky"
+town_data: "barbourville-ky"
 ---

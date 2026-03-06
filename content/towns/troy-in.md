@@ -1,9 +1,7 @@
 ---
-title: "Troy, Indiana Business Directory"
+title: "Troy, IN Business Directory"
+type: "towns"
 slug: "troy-in"
-town: "Troy"
-state: "Indiana"
-state_abbr: "IN"
-county: "Perry"
-population: 5455
+state: "in"
+town_data: "troy-in"
 ---

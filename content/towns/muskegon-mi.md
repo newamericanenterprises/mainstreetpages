@@ -1,9 +1,7 @@
 ---
-title: "Muskegon, Michigan Business Directory"
+title: "Muskegon, MI Business Directory"
+type: "towns"
 slug: "muskegon-mi"
-town: "Muskegon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 36570
+state: "mi"
+town_data: "muskegon-mi"
 ---

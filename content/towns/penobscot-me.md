@@ -1,9 +1,7 @@
 ---
-title: "Penobscot, Maine Business Directory"
+title: "Penobscot, ME Business Directory"
+type: "towns"
 slug: "penobscot-me"
-town: "Penobscot"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 381
+state: "me"
+town_data: "penobscot-me"
 ---

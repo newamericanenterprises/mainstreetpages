@@ -1,9 +1,7 @@
 ---
-title: "Varnado, Louisiana Business Directory"
+title: "Varnado, LA Business Directory"
+type: "towns"
 slug: "varnado-la"
-town: "Varnado"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Washington"
-population: 1751
+state: "la"
+town_data: "varnado-la"
 ---

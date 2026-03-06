@@ -1,9 +1,7 @@
 ---
-title: "Mystic, Iowa Business Directory"
+title: "Mystic, IA Business Directory"
+type: "towns"
 slug: "mystic-ia"
-town: "Mystic"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 1633
+state: "ia"
+town_data: "mystic-ia"
 ---

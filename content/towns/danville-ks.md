@@ -1,9 +1,7 @@
 ---
-title: "Danville, Kansas Business Directory"
+title: "Danville, KS Business Directory"
+type: "towns"
 slug: "danville-ks"
-town: "Danville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 2266
+state: "ks"
+town_data: "danville-ks"
 ---

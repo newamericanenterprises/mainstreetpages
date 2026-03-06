@@ -1,9 +1,7 @@
 ---
-title: "Andover, Kansas Business Directory"
+title: "Andover, KS Business Directory"
+type: "towns"
 slug: "andover-ks"
-town: "Andover"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 13505
+state: "ks"
+town_data: "andover-ks"
 ---

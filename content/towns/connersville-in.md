@@ -1,9 +1,7 @@
 ---
-title: "Connersville, Indiana Business Directory"
+title: "Connersville, IN Business Directory"
+type: "towns"
 slug: "connersville-in"
-town: "Connersville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fayette"
-population: 13146
+state: "in"
+town_data: "connersville-in"
 ---

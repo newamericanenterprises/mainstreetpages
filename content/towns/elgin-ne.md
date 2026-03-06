@@ -1,7 +1,7 @@
 ---
-title: "Elgin, Nebraska Business Directory"
+title: "Elgin, NE Business Directory"
+type: "towns"
 slug: "elgin-ne"
-state: "NE"
-county: "Antelope"
-population: 668
+state: "ne"
+town_data: "elgin-ne"
 ---

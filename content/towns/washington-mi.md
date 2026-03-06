@@ -1,9 +1,7 @@
 ---
-title: "Washington, Michigan Business Directory"
+title: "Washington, MI Business Directory"
+type: "towns"
 slug: "washington-mi"
-town: "Washington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 1151
+state: "mi"
+town_data: "washington-mi"
 ---

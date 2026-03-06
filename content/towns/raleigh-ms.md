@@ -1,7 +1,7 @@
 ---
-title: "Raleigh, Mississippi Business Directory"
+title: "Raleigh, MS Business Directory"
+type: "towns"
 slug: "raleigh-ms"
-state: "MS"
-county: "Smith"
-population: 1461
+state: "ms"
+town_data: "raleigh-ms"
 ---

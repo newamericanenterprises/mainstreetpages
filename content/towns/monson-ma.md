@@ -1,9 +1,7 @@
 ---
-title: "Monson, Massachusetts Business Directory"
+title: "Monson, MA Business Directory"
+type: "towns"
 slug: "monson-ma"
-town: "Monson"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 8133
+state: "ma"
+town_data: "monson-ma"
 ---

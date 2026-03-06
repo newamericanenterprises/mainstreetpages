@@ -1,9 +1,7 @@
 ---
-title: "Correctionville, Iowa Business Directory"
+title: "Correctionville, IA Business Directory"
+type: "towns"
 slug: "correctionville-ia"
-town: "Correctionville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 1363
+state: "ia"
+town_data: "correctionville-ia"
 ---

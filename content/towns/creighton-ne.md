@@ -1,7 +1,7 @@
 ---
-title: "Creighton, Nebraska Business Directory"
+title: "Creighton, NE Business Directory"
+type: "towns"
 slug: "creighton-ne"
-state: "NE"
-county: "Knox"
-population: 1154
+state: "ne"
+town_data: "creighton-ne"
 ---

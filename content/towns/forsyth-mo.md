@@ -1,7 +1,7 @@
 ---
-title: "Forsyth, Missouri Business Directory"
+title: "Forsyth, MO Business Directory"
+type: "towns"
 slug: "forsyth-mo"
-state: "MO"
-county: "Taney"
-population: 2430
+state: "mo"
+town_data: "forsyth-mo"
 ---

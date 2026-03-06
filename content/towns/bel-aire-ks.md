@@ -1,9 +1,7 @@
 ---
-title: "Bel Aire, Kansas Business Directory"
+title: "Bel Aire, KS Business Directory"
+type: "towns"
 slug: "bel-aire-ks"
-town: "Bel Aire"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 8262
+state: "ks"
+town_data: "bel-aire-ks"
 ---

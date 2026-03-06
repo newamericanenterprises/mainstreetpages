@@ -1,9 +1,7 @@
 ---
-title: "Milo, Iowa Business Directory"
+title: "Milo, IA Business Directory"
+type: "towns"
 slug: "milo-ia"
-town: "Milo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 2532
+state: "ia"
+town_data: "milo-ia"
 ---

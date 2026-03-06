@@ -1,9 +1,7 @@
 ---
-title: "Decorah, Iowa Business Directory"
+title: "Decorah, IA Business Directory"
+type: "towns"
 slug: "decorah-ia"
-town: "Decorah"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 7587
+state: "ia"
+town_data: "decorah-ia"
 ---

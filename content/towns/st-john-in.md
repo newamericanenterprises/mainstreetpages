@@ -1,9 +1,7 @@
 ---
-title: "St. John, Indiana Business Directory"
+title: "St. John, IN Business Directory"
+type: "towns"
 slug: "st-john-in"
-town: "St. John"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 18382
+state: "in"
+town_data: "st-john-in"
 ---

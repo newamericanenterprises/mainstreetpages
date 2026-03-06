@@ -1,7 +1,7 @@
 ---
-title: "Bogue Chitto, Mississippi Business Directory"
+title: "Bogue Chitto, MS Business Directory"
+type: "towns"
 slug: "bogue-chitto-ms"
-state: "MS"
-county: "Lincoln"
-population: 1500
+state: "ms"
+town_data: "bogue-chitto-ms"
 ---

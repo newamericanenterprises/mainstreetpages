@@ -1,7 +1,7 @@
 ---
-title: "Troy, Missouri Business Directory"
+title: "Troy, MO Business Directory"
+type: "towns"
 slug: "troy-mo"
-state: "MO"
-county: "Lincoln"
-population: 12657
+state: "mo"
+town_data: "troy-mo"
 ---

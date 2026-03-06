@@ -1,9 +1,7 @@
 ---
-title: "Frenchville, Maine Business Directory"
+title: "Frenchville, ME Business Directory"
+type: "towns"
 slug: "frenchville-me"
-town: "Frenchville"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1926
+state: "me"
+town_data: "frenchville-me"
 ---

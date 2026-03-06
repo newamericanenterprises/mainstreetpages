@@ -1,7 +1,7 @@
 ---
-title: "Bevier, Missouri Business Directory"
+title: "Bevier, MO Business Directory"
+type: "towns"
 slug: "bevier-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "bevier-mo"
 ---

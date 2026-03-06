@@ -1,9 +1,7 @@
 ---
-title: "Delphos, Iowa Business Directory"
+title: "Delphos, IA Business Directory"
+type: "towns"
 slug: "delphos-ia"
-town: "Delphos"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 2072
+state: "ia"
+town_data: "delphos-ia"
 ---

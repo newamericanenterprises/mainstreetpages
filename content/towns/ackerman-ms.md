@@ -1,7 +1,7 @@
 ---
-title: "Ackerman, Mississippi Business Directory"
+title: "Ackerman, MS Business Directory"
+type: "towns"
 slug: "ackerman-ms"
-state: "MS"
-county: "Choctaw"
-population: 1468
+state: "ms"
+town_data: "ackerman-ms"
 ---

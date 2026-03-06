@@ -1,7 +1,7 @@
 ---
-title: "Camden Point, Missouri Business Directory"
+title: "Camden Point, MO Business Directory"
+type: "towns"
 slug: "camden-point-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "camden-point-mo"
 ---

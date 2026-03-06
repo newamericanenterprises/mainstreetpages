@@ -1,7 +1,7 @@
 ---
-title: "Clinton, Missouri Business Directory"
+title: "Clinton, MO Business Directory"
+type: "towns"
 slug: "clinton-mo"
-state: "MO"
-county: "Henry"
-population: 9008
+state: "mo"
+town_data: "clinton-mo"
 ---

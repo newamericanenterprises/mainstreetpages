@@ -1,9 +1,7 @@
 ---
-title: "Maynard, Massachusetts Business Directory"
+title: "Maynard, MA Business Directory"
+type: "towns"
 slug: "maynard-ma"
-town: "Maynard"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 5860
+state: "ma"
+town_data: "maynard-ma"
 ---

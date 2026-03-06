@@ -1,7 +1,7 @@
 ---
-title: "Hampton, Nebraska Business Directory"
+title: "Hampton, NE Business Directory"
+type: "towns"
 slug: "hampton-ne"
-state: "NE"
-county: "Hamilton"
-population: 500
+state: "ne"
+town_data: "hampton-ne"
 ---

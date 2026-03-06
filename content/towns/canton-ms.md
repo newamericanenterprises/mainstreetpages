@@ -1,7 +1,7 @@
 ---
-title: "Canton, Mississippi Business Directory"
+title: "Canton, MS Business Directory"
+type: "towns"
 slug: "canton-ms"
-state: "MS"
-county: "Madison"
-population: 12577
+state: "ms"
+town_data: "canton-ms"
 ---

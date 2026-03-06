@@ -1,7 +1,7 @@
 ---
-title: "Newcastle, Nebraska Business Directory"
+title: "Newcastle, NE Business Directory"
+type: "towns"
 slug: "newcastle-ne"
-state: "NE"
-county: "Dixon"
-population: 315
+state: "ne"
+town_data: "newcastle-ne"
 ---

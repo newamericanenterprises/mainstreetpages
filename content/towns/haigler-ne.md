@@ -1,7 +1,7 @@
 ---
-title: "Haigler, Nebraska Business Directory"
+title: "Haigler, NE Business Directory"
+type: "towns"
 slug: "haigler-ne"
-state: "NE"
-county: "Dundy"
-population: 500
+state: "ne"
+town_data: "haigler-ne"
 ---

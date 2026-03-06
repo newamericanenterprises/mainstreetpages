@@ -1,9 +1,7 @@
 ---
-title: "Negaunee, Michigan Business Directory"
+title: "Negaunee, MI Business Directory"
+type: "towns"
 slug: "negaunee-mi"
-town: "Negaunee"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 3423
+state: "mi"
+town_data: "negaunee-mi"
 ---

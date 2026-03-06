@@ -1,9 +1,7 @@
 ---
-title: "Strong City, Kansas Business Directory"
+title: "Strong City, KS Business Directory"
+type: "towns"
 slug: "strong-city-ks"
-town: "Strong City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chase"
-population: 3025
+state: "ks"
+town_data: "strong-city-ks"
 ---

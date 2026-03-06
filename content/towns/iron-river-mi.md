@@ -1,9 +1,7 @@
 ---
-title: "Iron River, Michigan Business Directory"
+title: "Iron River, MI Business Directory"
+type: "towns"
 slug: "iron-river-mi"
-town: "Iron River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iron"
-population: 1707
+state: "mi"
+town_data: "iron-river-mi"
 ---

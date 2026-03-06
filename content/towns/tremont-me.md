@@ -1,9 +1,7 @@
 ---
-title: "Tremont, Maine Business Directory"
+title: "Tremont, ME Business Directory"
+type: "towns"
 slug: "tremont-me"
-town: "Tremont"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 996
+state: "me"
+town_data: "tremont-me"
 ---

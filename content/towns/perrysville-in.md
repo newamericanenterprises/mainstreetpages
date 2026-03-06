@@ -1,9 +1,7 @@
 ---
-title: "Perrysville, Indiana Business Directory"
+title: "Perrysville, IN Business Directory"
+type: "towns"
 slug: "perrysville-in"
-town: "Perrysville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 1109
+state: "in"
+town_data: "perrysville-in"
 ---

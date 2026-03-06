@@ -1,9 +1,7 @@
 ---
-title: "Waconia, Minnesota Business Directory"
+title: "Waconia, MN Business Directory"
+type: "towns"
 slug: "waconia-mn"
-town: "Waconia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 846
+state: "mn"
+town_data: "waconia-mn"
 ---

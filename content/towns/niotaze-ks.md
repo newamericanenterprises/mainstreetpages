@@ -1,9 +1,7 @@
 ---
-title: "Niotaze, Kansas Business Directory"
+title: "Niotaze, KS Business Directory"
+type: "towns"
 slug: "niotaze-ks"
-town: "Niotaze"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 1021
+state: "ks"
+town_data: "niotaze-ks"
 ---

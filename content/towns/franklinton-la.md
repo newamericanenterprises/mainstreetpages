@@ -1,9 +1,7 @@
 ---
-title: "Franklinton, Louisiana Business Directory"
+title: "Franklinton, LA Business Directory"
+type: "towns"
 slug: "franklinton-la"
-town: "Franklinton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Washington"
-population: 1211
+state: "la"
+town_data: "franklinton-la"
 ---

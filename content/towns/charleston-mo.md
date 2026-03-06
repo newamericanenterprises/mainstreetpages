@@ -1,7 +1,7 @@
 ---
-title: "Charleston, Missouri Business Directory"
+title: "Charleston, MO Business Directory"
+type: "towns"
 slug: "charleston-mo"
-state: "MO"
-county: "Mississippi"
-population: 5498
+state: "mo"
+town_data: "charleston-mo"
 ---

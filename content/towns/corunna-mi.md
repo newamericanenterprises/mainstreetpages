@@ -1,9 +1,7 @@
 ---
-title: "Corunna, Michigan Business Directory"
+title: "Corunna, MI Business Directory"
+type: "towns"
 slug: "corunna-mi"
-town: "Corunna"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 1363
+state: "mi"
+town_data: "corunna-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Stanford, Kentucky Business Directory"
+title: "Stanford, KY Business Directory"
+type: "towns"
 slug: "stanford-ky"
-town: "Stanford"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lincoln"
-population: 3654
+state: "ky"
+town_data: "stanford-ky"
 ---

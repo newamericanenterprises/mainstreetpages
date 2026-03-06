@@ -1,9 +1,7 @@
 ---
-title: "Bristol, Maine Business Directory"
+title: "Bristol, ME Business Directory"
+type: "towns"
 slug: "bristol-me"
-town: "Bristol"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2067
+state: "me"
+town_data: "bristol-me"
 ---

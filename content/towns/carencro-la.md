@@ -1,9 +1,7 @@
 ---
-title: "Carencro, Louisiana Business Directory"
+title: "Carencro, LA Business Directory"
+type: "towns"
 slug: "carencro-la"
-town: "Carencro"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 9188
+state: "la"
+town_data: "carencro-la"
 ---

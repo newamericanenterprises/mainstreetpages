@@ -1,9 +1,7 @@
 ---
-title: "Ramsey, Indiana Business Directory"
+title: "Ramsey, IN Business Directory"
+type: "towns"
 slug: "ramsey-in"
-town: "Ramsey"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 3669
+state: "in"
+town_data: "ramsey-in"
 ---

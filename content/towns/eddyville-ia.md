@@ -1,9 +1,7 @@
 ---
-title: "Eddyville, Iowa Business Directory"
+title: "Eddyville, IA Business Directory"
+type: "towns"
 slug: "eddyville-ia"
-town: "Eddyville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 3494
+state: "ia"
+town_data: "eddyville-ia"
 ---

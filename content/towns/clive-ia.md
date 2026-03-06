@@ -1,9 +1,7 @@
 ---
-title: "Clive, Iowa Business Directory"
+title: "Clive, IA Business Directory"
+type: "towns"
 slug: "clive-ia"
-town: "Clive"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 17909
+state: "ia"
+town_data: "clive-ia"
 ---

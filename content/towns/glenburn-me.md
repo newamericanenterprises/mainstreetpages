@@ -1,9 +1,7 @@
 ---
-title: "Glenburn, Maine Business Directory"
+title: "Glenburn, ME Business Directory"
+type: "towns"
 slug: "glenburn-me"
-town: "Glenburn"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2159
+state: "me"
+town_data: "glenburn-me"
 ---

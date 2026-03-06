@@ -1,9 +1,7 @@
 ---
-title: "Ludlow, Kentucky Business Directory"
+title: "Ludlow, KY Business Directory"
+type: "towns"
 slug: "ludlow-ky"
-town: "Ludlow"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2176
+state: "ky"
+town_data: "ludlow-ky"
 ---

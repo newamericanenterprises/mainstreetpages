@@ -1,9 +1,7 @@
 ---
-title: "Stoneham, Massachusetts Business Directory"
+title: "Stoneham, MA Business Directory"
+type: "towns"
 slug: "stoneham-ma"
-town: "Stoneham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 7509
+state: "ma"
+town_data: "stoneham-ma"
 ---

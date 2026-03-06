@@ -1,9 +1,7 @@
 ---
-title: "Stilesville, Indiana Business Directory"
+title: "Stilesville, IN Business Directory"
+type: "towns"
 slug: "stilesville-in"
-town: "Stilesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 2020
+state: "in"
+town_data: "stilesville-in"
 ---

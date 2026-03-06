@@ -1,9 +1,7 @@
 ---
-title: "Prescott, Michigan Business Directory"
+title: "Prescott, MI Business Directory"
+type: "towns"
 slug: "prescott-mi"
-town: "Prescott"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ogemaw"
-population: 1172
+state: "mi"
+town_data: "prescott-mi"
 ---

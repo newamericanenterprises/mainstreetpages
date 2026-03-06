@@ -1,9 +1,7 @@
 ---
-title: "Earlton, Kansas Business Directory"
+title: "Earlton, KS Business Directory"
+type: "towns"
 slug: "earlton-ks"
-town: "Earlton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 903
+state: "ks"
+town_data: "earlton-ks"
 ---

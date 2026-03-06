@@ -1,9 +1,7 @@
 ---
-title: "New Strawn, Kansas Business Directory"
+title: "New Strawn, KS Business Directory"
+type: "towns"
 slug: "new-strawn-ks"
-town: "New Strawn"
-state: "Kansas"
-state_abbr: "KS"
-county: "Coffey"
-population: 2659
+state: "ks"
+town_data: "new-strawn-ks"
 ---

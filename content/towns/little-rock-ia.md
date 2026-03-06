@@ -1,9 +1,7 @@
 ---
-title: "Little Rock, Iowa Business Directory"
+title: "Little Rock, IA Business Directory"
+type: "towns"
 slug: "little-rock-ia"
-town: "Little Rock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 882
+state: "ia"
+town_data: "little-rock-ia"
 ---

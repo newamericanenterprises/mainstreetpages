@@ -1,9 +1,7 @@
 ---
-title: "Inver Grove Heights, Minnesota Business Directory"
+title: "Inver Grove Heights, MN Business Directory"
+type: "towns"
 slug: "inver-grove-heights-mn"
-town: "Inver Grove Heights"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 37416
+state: "mn"
+town_data: "inver-grove-heights-mn"
 ---

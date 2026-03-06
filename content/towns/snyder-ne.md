@@ -1,7 +1,7 @@
 ---
-title: "Snyder, Nebraska Business Directory"
+title: "Snyder, NE Business Directory"
+type: "towns"
 slug: "snyder-ne"
-state: "NE"
-county: "Dodge"
-population: 500
+state: "ne"
+town_data: "snyder-ne"
 ---

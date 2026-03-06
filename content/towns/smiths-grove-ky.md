@@ -1,9 +1,7 @@
 ---
-title: "Smiths Grove, Kentucky Business Directory"
+title: "Smiths Grove, KY Business Directory"
+type: "towns"
 slug: "smiths-grove-ky"
-town: "Smiths Grove"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Warren"
-population: 1986
+state: "ky"
+town_data: "smiths-grove-ky"
 ---

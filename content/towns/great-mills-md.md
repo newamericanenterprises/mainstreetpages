@@ -1,9 +1,7 @@
 ---
-title: "Great Mills, Maryland Business Directory"
+title: "Great Mills, MD Business Directory"
+type: "towns"
 slug: "great-mills-md"
-town: "Great Mills"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 5050
+state: "md"
+town_data: "great-mills-md"
 ---

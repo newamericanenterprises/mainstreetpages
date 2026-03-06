@@ -1,9 +1,7 @@
 ---
-title: "Lakeside, Iowa Business Directory"
+title: "Lakeside, IA Business Directory"
+type: "towns"
 slug: "lakeside-ia"
-town: "Lakeside"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 2181
+state: "ia"
+town_data: "lakeside-ia"
 ---

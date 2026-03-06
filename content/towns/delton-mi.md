@@ -1,9 +1,7 @@
 ---
-title: "Delton, Michigan Business Directory"
+title: "Delton, MI Business Directory"
+type: "towns"
 slug: "delton-mi"
-town: "Delton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 887
+state: "mi"
+town_data: "delton-mi"
 ---

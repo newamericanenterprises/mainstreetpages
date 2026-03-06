@@ -1,9 +1,7 @@
 ---
-title: "Memphis, Michigan Business Directory"
+title: "Memphis, MI Business Directory"
+type: "towns"
 slug: "memphis-mi"
-town: "Memphis"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 5154
+state: "mi"
+town_data: "memphis-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Luray, Missouri Business Directory"
+title: "Luray, MO Business Directory"
+type: "towns"
 slug: "luray-mo"
-state: "MO"
-county: "Clark"
-population: 1500
+state: "mo"
+town_data: "luray-mo"
 ---

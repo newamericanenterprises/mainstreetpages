@@ -1,9 +1,7 @@
 ---
-title: "Merrillville, Indiana Business Directory"
+title: "Merrillville, IN Business Directory"
+type: "towns"
 slug: "merrillville-in"
-town: "Merrillville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 34655
+state: "in"
+town_data: "merrillville-in"
 ---

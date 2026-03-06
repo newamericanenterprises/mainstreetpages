@@ -1,9 +1,7 @@
 ---
-title: "Kentwood, Michigan Business Directory"
+title: "Kentwood, MI Business Directory"
+type: "towns"
 slug: "kentwood-mi"
-town: "Kentwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 52282
+state: "mi"
+town_data: "kentwood-mi"
 ---

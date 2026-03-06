@@ -1,7 +1,7 @@
 ---
-title: "Bristow, Nebraska Business Directory"
+title: "Bristow, NE Business Directory"
+type: "towns"
 slug: "bristow-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "bristow-ne"
 ---

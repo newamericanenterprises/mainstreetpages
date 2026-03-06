@@ -1,9 +1,7 @@
 ---
-title: "Maquoketa, Iowa Business Directory"
+title: "Maquoketa, IA Business Directory"
+type: "towns"
 slug: "maquoketa-ia"
-town: "Maquoketa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 6041
+state: "ia"
+town_data: "maquoketa-ia"
 ---

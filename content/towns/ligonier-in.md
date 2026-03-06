@@ -1,9 +1,7 @@
 ---
-title: "Ligonier, Indiana Business Directory"
+title: "Ligonier, IN Business Directory"
+type: "towns"
 slug: "ligonier-in"
-town: "Ligonier"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 1512
+state: "in"
+town_data: "ligonier-in"
 ---

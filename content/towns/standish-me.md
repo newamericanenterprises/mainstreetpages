@@ -1,9 +1,7 @@
 ---
-title: "Standish, Maine Business Directory"
+title: "Standish, ME Business Directory"
+type: "towns"
 slug: "standish-me"
-town: "Standish"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1538
+state: "me"
+town_data: "standish-me"
 ---

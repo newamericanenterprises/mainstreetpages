@@ -1,9 +1,7 @@
 ---
-title: "Holstein, Iowa Business Directory"
+title: "Holstein, IA Business Directory"
+type: "towns"
 slug: "holstein-ia"
-town: "Holstein"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ida"
-population: 2708
+state: "ia"
+town_data: "holstein-ia"
 ---

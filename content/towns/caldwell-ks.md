@@ -1,9 +1,7 @@
 ---
-title: "Caldwell, Kansas Business Directory"
+title: "Caldwell, KS Business Directory"
+type: "towns"
 slug: "caldwell-ks"
-town: "Caldwell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 2290
+state: "ks"
+town_data: "caldwell-ks"
 ---

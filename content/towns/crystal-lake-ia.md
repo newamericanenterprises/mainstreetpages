@@ -1,9 +1,7 @@
 ---
-title: "Crystal Lake, Iowa Business Directory"
+title: "Crystal Lake, IA Business Directory"
+type: "towns"
 slug: "crystal-lake-ia"
-town: "Crystal Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 1499
+state: "ia"
+town_data: "crystal-lake-ia"
 ---

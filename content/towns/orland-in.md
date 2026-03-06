@@ -1,9 +1,7 @@
 ---
-title: "Orland, Indiana Business Directory"
+title: "Orland, IN Business Directory"
+type: "towns"
 slug: "orland-in"
-town: "Orland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 5454
+state: "in"
+town_data: "orland-in"
 ---

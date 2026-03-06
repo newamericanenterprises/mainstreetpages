@@ -1,9 +1,7 @@
 ---
-title: "Cheverly, Maryland Business Directory"
+title: "Cheverly, MD Business Directory"
+type: "towns"
 slug: "cheverly-md"
-town: "Cheverly"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5342
+state: "md"
+town_data: "cheverly-md"
 ---

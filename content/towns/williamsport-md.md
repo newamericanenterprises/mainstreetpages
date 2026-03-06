@@ -1,9 +1,7 @@
 ---
-title: "Williamsport, Maryland Business Directory"
+title: "Williamsport, MD Business Directory"
+type: "towns"
 slug: "williamsport-md"
-town: "Williamsport"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 1062
+state: "md"
+town_data: "williamsport-md"
 ---

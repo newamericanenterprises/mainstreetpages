@@ -1,7 +1,7 @@
 ---
-title: "Sunrise Beach, Missouri Business Directory"
+title: "Sunrise Beach, MO Business Directory"
+type: "towns"
 slug: "sunrise-beach-mo"
-state: "MO"
-county: "Camden"
-population: 1500
+state: "mo"
+town_data: "sunrise-beach-mo"
 ---

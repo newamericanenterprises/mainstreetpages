@@ -1,7 +1,7 @@
 ---
-title: "Theodosia, Missouri Business Directory"
+title: "Theodosia, MO Business Directory"
+type: "towns"
 slug: "theodosia-mo"
-state: "MO"
-county: "Ozark"
-population: 1500
+state: "mo"
+town_data: "theodosia-mo"
 ---

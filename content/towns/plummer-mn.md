@@ -1,9 +1,7 @@
 ---
-title: "Plummer, Minnesota Business Directory"
+title: "Plummer, MN Business Directory"
+type: "towns"
 slug: "plummer-mn"
-town: "Plummer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Red Lake"
-population: 576
+state: "mn"
+town_data: "plummer-mn"
 ---

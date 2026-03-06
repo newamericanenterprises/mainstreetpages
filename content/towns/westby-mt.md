@@ -1,7 +1,7 @@
 ---
-title: "Westby, Montana Business Directory"
+title: "Westby, MT Business Directory"
+type: "towns"
 slug: "westby-mt"
-state: "MT"
-county: "Sheridan"
-population: 500
+state: "mt"
+town_data: "westby-mt"
 ---

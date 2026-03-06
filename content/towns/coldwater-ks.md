@@ -1,9 +1,7 @@
 ---
-title: "Coldwater, Kansas Business Directory"
+title: "Coldwater, KS Business Directory"
+type: "towns"
 slug: "coldwater-ks"
-town: "Coldwater"
-state: "Kansas"
-state_abbr: "KS"
-county: "Comanche"
-population: 720
+state: "ks"
+town_data: "coldwater-ks"
 ---

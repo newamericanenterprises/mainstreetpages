@@ -1,9 +1,7 @@
 ---
-title: "Belding, Michigan Business Directory"
+title: "Belding, MI Business Directory"
+type: "towns"
 slug: "belding-mi"
-town: "Belding"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 635
+state: "mi"
+town_data: "belding-mi"
 ---

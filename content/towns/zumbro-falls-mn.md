@@ -1,9 +1,7 @@
 ---
-title: "Zumbro Falls, Minnesota Business Directory"
+title: "Zumbro Falls, MN Business Directory"
+type: "towns"
 slug: "zumbro-falls-mn"
-town: "Zumbro Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 1578
+state: "mn"
+town_data: "zumbro-falls-mn"
 ---

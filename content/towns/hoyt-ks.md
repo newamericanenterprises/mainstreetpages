@@ -1,9 +1,7 @@
 ---
-title: "Hoyt, Kansas Business Directory"
+title: "Hoyt, KS Business Directory"
+type: "towns"
 slug: "hoyt-ks"
-town: "Hoyt"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 605
+state: "ks"
+town_data: "hoyt-ks"
 ---

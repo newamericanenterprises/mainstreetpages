@@ -1,9 +1,7 @@
 ---
-title: "Americus, Kansas Business Directory"
+title: "Americus, KS Business Directory"
+type: "towns"
 slug: "americus-ks"
-town: "Americus"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 774
+state: "ks"
+town_data: "americus-ks"
 ---

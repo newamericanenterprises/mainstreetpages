@@ -1,9 +1,7 @@
 ---
-title: "Carmel, Maine Business Directory"
+title: "Carmel, ME Business Directory"
+type: "towns"
 slug: "carmel-me"
-town: "Carmel"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2511
+state: "me"
+town_data: "carmel-me"
 ---

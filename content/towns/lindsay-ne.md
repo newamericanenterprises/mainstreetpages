@@ -1,7 +1,7 @@
 ---
-title: "Lindsay, Nebraska Business Directory"
+title: "Lindsay, NE Business Directory"
+type: "towns"
 slug: "lindsay-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "lindsay-ne"
 ---

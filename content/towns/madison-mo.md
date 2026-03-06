@@ -1,7 +1,7 @@
 ---
-title: "Madison, Missouri Business Directory"
+title: "Madison, MO Business Directory"
+type: "towns"
 slug: "madison-mo"
-state: "MO"
-county: "Monroe"
-population: 1500
+state: "mo"
+town_data: "madison-mo"
 ---

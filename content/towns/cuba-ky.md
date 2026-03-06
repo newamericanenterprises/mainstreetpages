@@ -1,9 +1,7 @@
 ---
-title: "Cuba, Kentucky Business Directory"
+title: "Cuba, KY Business Directory"
+type: "towns"
 slug: "cuba-ky"
-town: "Cuba"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Graves"
-population: 649
+state: "ky"
+town_data: "cuba-ky"
 ---

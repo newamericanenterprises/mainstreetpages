@@ -1,9 +1,7 @@
 ---
-title: "Florien, Louisiana Business Directory"
+title: "Florien, LA Business Directory"
+type: "towns"
 slug: "florien-la"
-town: "Florien"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 1029
+state: "la"
+town_data: "florien-la"
 ---

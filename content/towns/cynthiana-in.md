@@ -1,9 +1,7 @@
 ---
-title: "Cynthiana, Indiana Business Directory"
+title: "Cynthiana, IN Business Directory"
+type: "towns"
 slug: "cynthiana-in"
-town: "Cynthiana"
-state: "Indiana"
-state_abbr: "IN"
-county: "Posey"
-population: 4367
+state: "in"
+town_data: "cynthiana-in"
 ---

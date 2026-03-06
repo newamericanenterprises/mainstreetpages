@@ -1,9 +1,7 @@
 ---
-title: "Texas, Michigan Business Directory"
+title: "Texas, MI Business Directory"
+type: "towns"
 slug: "texas-mi"
-town: "Texas"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 2775
+state: "mi"
+town_data: "texas-mi"
 ---

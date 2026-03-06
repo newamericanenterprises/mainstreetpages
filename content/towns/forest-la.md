@@ -1,9 +1,7 @@
 ---
-title: "Forest, Louisiana Business Directory"
+title: "Forest, LA Business Directory"
+type: "towns"
 slug: "forest-la"
-town: "Forest"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Carroll"
-population: 3045
+state: "la"
+town_data: "forest-la"
 ---

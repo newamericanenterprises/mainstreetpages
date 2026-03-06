@@ -1,9 +1,7 @@
 ---
-title: "Vermillion, Kansas Business Directory"
+title: "Vermillion, KS Business Directory"
+type: "towns"
 slug: "vermillion-ks"
-town: "Vermillion"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 2317
+state: "ks"
+town_data: "vermillion-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "McDonald, Kansas Business Directory"
+title: "McDonald, KS Business Directory"
+type: "towns"
 slug: "mcdonald-ks"
-town: "McDonald"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rawlins"
-population: 745
+state: "ks"
+town_data: "mcdonald-ks"
 ---

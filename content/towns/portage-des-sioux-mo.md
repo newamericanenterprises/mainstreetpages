@@ -1,7 +1,7 @@
 ---
-title: "Portage Des Sioux, Missouri Business Directory"
+title: "Portage Des Sioux, MO Business Directory"
+type: "towns"
 slug: "portage-des-sioux-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "portage-des-sioux-mo"
 ---

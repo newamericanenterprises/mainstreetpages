@@ -1,9 +1,7 @@
 ---
-title: "Glendale, Kentucky Business Directory"
+title: "Glendale, KY Business Directory"
+type: "towns"
 slug: "glendale-ky"
-town: "Glendale"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 795
+state: "ky"
+town_data: "glendale-ky"
 ---

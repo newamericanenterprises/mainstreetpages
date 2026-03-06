@@ -1,7 +1,7 @@
 ---
-title: "West Wendover, Nevada Business Directory"
+title: "West Wendover, NV Business Directory"
+type: "towns"
 slug: "west-wendover-nv"
-state: "NV"
-county: "Elko"
-population: 4721
+state: "nv"
+town_data: "west-wendover-nv"
 ---

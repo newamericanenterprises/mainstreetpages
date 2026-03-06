@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Indiana Business Directory"
+title: "Clinton, IN Business Directory"
+type: "towns"
 slug: "clinton-in"
-town: "Clinton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 4308
+state: "in"
+town_data: "clinton-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brimfield, Massachusetts Business Directory"
+title: "Brimfield, MA Business Directory"
+type: "towns"
 slug: "brimfield-ma"
-town: "Brimfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 7418
+state: "ma"
+town_data: "brimfield-ma"
 ---

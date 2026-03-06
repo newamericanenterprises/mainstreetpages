@@ -1,9 +1,7 @@
 ---
-title: "Milan, Michigan Business Directory"
+title: "Milan, MI Business Directory"
+type: "towns"
 slug: "milan-mi"
-town: "Milan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 2670
+state: "mi"
+town_data: "milan-mi"
 ---

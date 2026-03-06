@@ -1,9 +1,7 @@
 ---
-title: "Crisfield, Maryland Business Directory"
+title: "Crisfield, MD Business Directory"
+type: "towns"
 slug: "crisfield-md"
-town: "Crisfield"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 2649
+state: "md"
+town_data: "crisfield-md"
 ---

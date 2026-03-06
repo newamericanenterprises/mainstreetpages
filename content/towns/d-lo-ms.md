@@ -1,7 +1,7 @@
 ---
-title: "D'Lo, Mississippi Business Directory"
+title: "D Lo, MS Business Directory"
+type: "towns"
 slug: "d-lo-ms"
-state: "MS"
-county: "Simpson"
-population: 483
+state: "ms"
+town_data: "d-lo-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gardner, Massachusetts Business Directory"
+title: "Gardner, MA Business Directory"
+type: "towns"
 slug: "gardner-ma"
-town: "Gardner"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 20610
+state: "ma"
+town_data: "gardner-ma"
 ---

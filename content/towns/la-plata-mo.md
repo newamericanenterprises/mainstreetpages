@@ -1,7 +1,7 @@
 ---
-title: "La Plata, Missouri Business Directory"
+title: "La Plata, MO Business Directory"
+type: "towns"
 slug: "la-plata-mo"
-state: "MO"
-county: "Macon"
-population: 1366
+state: "mo"
+town_data: "la-plata-mo"
 ---

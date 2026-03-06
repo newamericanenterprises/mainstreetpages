@@ -1,7 +1,7 @@
 ---
-title: "Gibson, Missouri Business Directory"
+title: "Gibson, MO Business Directory"
+type: "towns"
 slug: "gibson-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "gibson-mo"
 ---

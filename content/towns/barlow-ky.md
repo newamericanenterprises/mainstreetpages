@@ -1,9 +1,7 @@
 ---
-title: "Barlow, Kentucky Business Directory"
+title: "Barlow, KY Business Directory"
+type: "towns"
 slug: "barlow-ky"
-town: "Barlow"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ballard"
-population: 3044
+state: "ky"
+town_data: "barlow-ky"
 ---

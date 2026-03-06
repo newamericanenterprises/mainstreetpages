@@ -1,9 +1,7 @@
 ---
-title: "Blairsburg, Iowa Business Directory"
+title: "Blairsburg, IA Business Directory"
+type: "towns"
 slug: "blairsburg-ia"
-town: "Blairsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 1857
+state: "ia"
+town_data: "blairsburg-ia"
 ---

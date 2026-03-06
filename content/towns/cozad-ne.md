@@ -1,7 +1,7 @@
 ---
-title: "Cozad, Nebraska Business Directory"
+title: "Cozad, NE Business Directory"
+type: "towns"
 slug: "cozad-ne"
-state: "NE"
-county: "Dawson"
-population: 3977
+state: "ne"
+town_data: "cozad-ne"
 ---

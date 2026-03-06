@@ -1,9 +1,7 @@
 ---
-title: "Elkhart, Kansas Business Directory"
+title: "Elkhart, KS Business Directory"
+type: "towns"
 slug: "elkhart-ks"
-town: "Elkhart"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morton"
-population: 1937
+state: "ks"
+town_data: "elkhart-ks"
 ---

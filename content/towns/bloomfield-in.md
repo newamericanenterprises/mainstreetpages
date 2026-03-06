@@ -1,9 +1,7 @@
 ---
-title: "Bloomfield, Indiana Business Directory"
+title: "Bloomfield, IN Business Directory"
+type: "towns"
 slug: "bloomfield-in"
-town: "Bloomfield"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 5271
+state: "in"
+town_data: "bloomfield-in"
 ---

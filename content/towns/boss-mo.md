@@ -1,7 +1,7 @@
 ---
-title: "Boss, Missouri Business Directory"
+title: "Boss, MO Business Directory"
+type: "towns"
 slug: "boss-mo"
-state: "MO"
-county: "Dent"
-population: 1500
+state: "mo"
+town_data: "boss-mo"
 ---

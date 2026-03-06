@@ -1,7 +1,7 @@
 ---
-title: "Pompeys Pillar, Montana Business Directory"
+title: "Pompeys Pillar, MT Business Directory"
+type: "towns"
 slug: "pompeys-pillar-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "pompeys-pillar-mt"
 ---

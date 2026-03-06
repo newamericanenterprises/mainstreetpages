@@ -1,9 +1,7 @@
 ---
-title: "Brownsville, Kentucky Business Directory"
+title: "Brownsville, KY Business Directory"
+type: "towns"
 slug: "brownsville-ky"
-town: "Brownsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Edmonson"
-population: 869
+state: "ky"
+town_data: "brownsville-ky"
 ---

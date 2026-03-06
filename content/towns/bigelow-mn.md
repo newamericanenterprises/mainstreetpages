@@ -1,9 +1,7 @@
 ---
-title: "Bigelow, Minnesota Business Directory"
+title: "Bigelow, MN Business Directory"
+type: "towns"
 slug: "bigelow-mn"
-town: "Bigelow"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 1816
+state: "mn"
+town_data: "bigelow-mn"
 ---

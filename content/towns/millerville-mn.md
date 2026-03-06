@@ -1,9 +1,7 @@
 ---
-title: "Millerville, Minnesota Business Directory"
+title: "Millerville, MN Business Directory"
+type: "towns"
 slug: "millerville-mn"
-town: "Millerville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 2830
+state: "mn"
+town_data: "millerville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cedar Point, Kansas Business Directory"
+title: "Cedar Point, KS Business Directory"
+type: "towns"
 slug: "cedar-point-ks"
-town: "Cedar Point"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chase"
-population: 1156
+state: "ks"
+town_data: "cedar-point-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brandenburg, Kentucky Business Directory"
+title: "Brandenburg, KY Business Directory"
+type: "towns"
 slug: "brandenburg-ky"
-town: "Brandenburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Meade"
-population: 2834
+state: "ky"
+town_data: "brandenburg-ky"
 ---

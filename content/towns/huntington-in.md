@@ -1,9 +1,7 @@
 ---
-title: "Huntington, Indiana Business Directory"
+title: "Huntington, IN Business Directory"
+type: "towns"
 slug: "huntington-in"
-town: "Huntington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Huntington"
-population: 17022
+state: "in"
+town_data: "huntington-in"
 ---

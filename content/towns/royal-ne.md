@@ -1,7 +1,7 @@
 ---
-title: "Royal, Nebraska Business Directory"
+title: "Royal, NE Business Directory"
+type: "towns"
 slug: "royal-ne"
-state: "NE"
-county: "Antelope"
-population: 55
+state: "ne"
+town_data: "royal-ne"
 ---

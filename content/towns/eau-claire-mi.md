@@ -1,9 +1,7 @@
 ---
-title: "Eau Claire, Michigan Business Directory"
+title: "Eau Claire, MI Business Directory"
+type: "towns"
 slug: "eau-claire-mi"
-town: "Eau Claire"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 1474
+state: "mi"
+town_data: "eau-claire-mi"
 ---

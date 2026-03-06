@@ -1,9 +1,7 @@
 ---
-title: "Rockland, Massachusetts Business Directory"
+title: "Rockland, MA Business Directory"
+type: "towns"
 slug: "rockland-ma"
-town: "Rockland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 6614
+state: "ma"
+town_data: "rockland-ma"
 ---

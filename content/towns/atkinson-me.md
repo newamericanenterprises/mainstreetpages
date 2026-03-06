@@ -1,9 +1,7 @@
 ---
-title: "Atkinson, Maine Business Directory"
+title: "Atkinson, ME Business Directory"
+type: "towns"
 slug: "atkinson-me"
-town: "Atkinson"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 2161
+state: "me"
+town_data: "atkinson-me"
 ---

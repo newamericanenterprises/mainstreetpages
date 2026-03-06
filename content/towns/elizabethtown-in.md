@@ -1,9 +1,7 @@
 ---
-title: "Elizabethtown, Indiana Business Directory"
+title: "Elizabethtown, IN Business Directory"
+type: "towns"
 slug: "elizabethtown-in"
-town: "Elizabethtown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Bartholomew"
-population: 3237
+state: "in"
+town_data: "elizabethtown-in"
 ---

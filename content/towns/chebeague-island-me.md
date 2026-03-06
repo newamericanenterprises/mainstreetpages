@@ -1,9 +1,7 @@
 ---
-title: "Chebeague Island, Maine Business Directory"
+title: "Chebeague Island, ME Business Directory"
+type: "towns"
 slug: "chebeague-island-me"
-town: "Chebeague Island"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2104
+state: "me"
+town_data: "chebeague-island-me"
 ---

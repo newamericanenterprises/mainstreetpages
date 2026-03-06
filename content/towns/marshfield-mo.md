@@ -1,7 +1,7 @@
 ---
-title: "Marshfield, Missouri Business Directory"
+title: "Marshfield, MO Business Directory"
+type: "towns"
 slug: "marshfield-mo"
-state: "MO"
-county: "Webster"
-population: 1500
+state: "mo"
+town_data: "marshfield-mo"
 ---

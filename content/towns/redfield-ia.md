@@ -1,9 +1,7 @@
 ---
-title: "Redfield, Iowa Business Directory"
+title: "Redfield, IA Business Directory"
+type: "towns"
 slug: "redfield-ia"
-town: "Redfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 1526
+state: "ia"
+town_data: "redfield-ia"
 ---

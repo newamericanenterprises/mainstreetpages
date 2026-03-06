@@ -1,9 +1,7 @@
 ---
-title: "High Amana, Iowa Business Directory"
+title: "High Amana, IA Business Directory"
+type: "towns"
 slug: "high-amana-ia"
-town: "High Amana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 517
+state: "ia"
+town_data: "high-amana-ia"
 ---

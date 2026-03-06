@@ -1,9 +1,7 @@
 ---
-title: "Lynn, Indiana Business Directory"
+title: "Lynn, IN Business Directory"
+type: "towns"
 slug: "lynn-in"
-town: "Lynn"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 2069
+state: "in"
+town_data: "lynn-in"
 ---

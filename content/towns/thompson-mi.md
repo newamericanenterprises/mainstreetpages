@@ -1,9 +1,7 @@
 ---
-title: "Thompson, Michigan Business Directory"
+title: "Thompson, MI Business Directory"
+type: "towns"
 slug: "thompson-mi"
-town: "Thompson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Schoolcraft"
-population: 2689
+state: "mi"
+town_data: "thompson-mi"
 ---

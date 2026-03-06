@@ -1,7 +1,7 @@
 ---
-title: "Dayton, Nevada Business Directory"
+title: "Dayton, NV Business Directory"
+type: "towns"
 slug: "dayton-nv"
-state: "NV"
-county: "Lyon"
-population: 15263
+state: "nv"
+town_data: "dayton-nv"
 ---

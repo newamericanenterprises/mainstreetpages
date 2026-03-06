@@ -1,9 +1,7 @@
 ---
-title: "Gratz, Kentucky Business Directory"
+title: "Gratz, KY Business Directory"
+type: "towns"
 slug: "gratz-ky"
-town: "Gratz"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Owen"
-population: 1216
+state: "ky"
+town_data: "gratz-ky"
 ---

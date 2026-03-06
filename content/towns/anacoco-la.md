@@ -1,9 +1,7 @@
 ---
-title: "Anacoco, Louisiana Business Directory"
+title: "Anacoco, LA Business Directory"
+type: "towns"
 slug: "anacoco-la"
-town: "Anacoco"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 2297
+state: "la"
+town_data: "anacoco-la"
 ---

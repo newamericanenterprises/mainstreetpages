@@ -1,9 +1,7 @@
 ---
-title: "Acton, Massachusetts Business Directory"
+title: "Acton, MA Business Directory"
+type: "towns"
 slug: "acton-ma"
-town: "Acton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 24021
+state: "ma"
+town_data: "acton-ma"
 ---

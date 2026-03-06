@@ -1,9 +1,7 @@
 ---
-title: "Bowlus, Minnesota Business Directory"
+title: "Bowlus, MN Business Directory"
+type: "towns"
 slug: "bowlus-mn"
-town: "Bowlus"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 2530
+state: "mn"
+town_data: "bowlus-mn"
 ---

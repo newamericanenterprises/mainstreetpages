@@ -1,9 +1,7 @@
 ---
-title: "Becker, Minnesota Business Directory"
+title: "Becker, MN Business Directory"
+type: "towns"
 slug: "becker-mn"
-town: "Becker"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 3134
+state: "mn"
+town_data: "becker-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Wayland, Missouri Business Directory"
+title: "Wayland, MO Business Directory"
+type: "towns"
 slug: "wayland-mo"
-state: "MO"
-county: "Clark"
-population: 1500
+state: "mo"
+town_data: "wayland-mo"
 ---

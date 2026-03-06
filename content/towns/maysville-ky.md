@@ -1,9 +1,7 @@
 ---
-title: "Maysville, Kentucky Business Directory"
+title: "Maysville, KY Business Directory"
+type: "towns"
 slug: "maysville-ky"
-town: "Maysville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mason"
-population: 8783
+state: "ky"
+town_data: "maysville-ky"
 ---

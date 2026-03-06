@@ -1,9 +1,7 @@
 ---
-title: "White Lake, Michigan Business Directory"
+title: "White Lake, MI Business Directory"
+type: "towns"
 slug: "white-lake-mi"
-town: "White Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2428
+state: "mi"
+town_data: "white-lake-mi"
 ---

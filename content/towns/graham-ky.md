@@ -1,9 +1,7 @@
 ---
-title: "Graham, Kentucky Business Directory"
+title: "Graham, KY Business Directory"
+type: "towns"
 slug: "graham-ky"
-town: "Graham"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Muhlenberg"
-population: 544
+state: "ky"
+town_data: "graham-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hallam, Nebraska Business Directory"
+title: "Hallam, NE Business Directory"
+type: "towns"
 slug: "hallam-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "hallam-ne"
 ---

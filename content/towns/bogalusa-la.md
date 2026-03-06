@@ -1,9 +1,7 @@
 ---
-title: "Bogalusa, Louisiana Business Directory"
+title: "Bogalusa, LA Business Directory"
+type: "towns"
 slug: "bogalusa-la"
-town: "Bogalusa"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Washington"
-population: 11704
+state: "la"
+town_data: "bogalusa-la"
 ---

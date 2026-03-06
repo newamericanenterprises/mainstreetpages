@@ -1,9 +1,7 @@
 ---
-title: "Fosston, Minnesota Business Directory"
+title: "Fosston, MN Business Directory"
+type: "towns"
 slug: "fosston-mn"
-town: "Fosston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 1831
+state: "mn"
+town_data: "fosston-mn"
 ---

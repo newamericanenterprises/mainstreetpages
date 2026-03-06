@@ -1,7 +1,7 @@
 ---
-title: "Riverview, Missouri Business Directory"
+title: "Riverview, MO Business Directory"
+type: "towns"
 slug: "riverview-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "riverview-mo"
 ---

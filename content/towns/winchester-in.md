@@ -1,9 +1,7 @@
 ---
-title: "Winchester, Indiana Business Directory"
+title: "Winchester, IN Business Directory"
+type: "towns"
 slug: "winchester-in"
-town: "Winchester"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 2888
+state: "in"
+town_data: "winchester-in"
 ---

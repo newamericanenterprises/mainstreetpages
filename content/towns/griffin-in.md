@@ -1,9 +1,7 @@
 ---
-title: "Griffin, Indiana Business Directory"
+title: "Griffin, IN Business Directory"
+type: "towns"
 slug: "griffin-in"
-town: "Griffin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Posey"
-population: 1160
+state: "in"
+town_data: "griffin-in"
 ---

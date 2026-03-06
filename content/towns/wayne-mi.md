@@ -1,9 +1,7 @@
 ---
-title: "Wayne, Michigan Business Directory"
+title: "Wayne, MI Business Directory"
+type: "towns"
 slug: "wayne-mi"
-town: "Wayne"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 4551
+state: "mi"
+town_data: "wayne-mi"
 ---

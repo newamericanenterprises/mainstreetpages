@@ -1,9 +1,7 @@
 ---
-title: "L'Anse, Michigan Business Directory"
+title: "L'Anse, MI Business Directory"
+type: "towns"
 slug: "lanse-mi"
-town: "L'Anse"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 1392
+state: "mi"
+town_data: "lanse-mi"
 ---

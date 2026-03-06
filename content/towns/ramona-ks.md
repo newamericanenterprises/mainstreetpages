@@ -1,9 +1,7 @@
 ---
-title: "Ramona, Kansas Business Directory"
+title: "Ramona, KS Business Directory"
+type: "towns"
 slug: "ramona-ks"
-town: "Ramona"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 1555
+state: "ks"
+town_data: "ramona-ks"
 ---

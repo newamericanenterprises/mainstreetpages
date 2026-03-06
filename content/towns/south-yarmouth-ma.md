@@ -1,9 +1,7 @@
 ---
-title: "South Yarmouth, Massachusetts Business Directory"
+title: "South Yarmouth, MA Business Directory"
+type: "towns"
 slug: "south-yarmouth-ma"
-town: "South Yarmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 7999
+state: "ma"
+town_data: "south-yarmouth-ma"
 ---

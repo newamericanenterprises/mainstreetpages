@@ -1,9 +1,7 @@
 ---
-title: "Redwood Falls, Minnesota Business Directory"
+title: "Redwood Falls, MN Business Directory"
+type: "towns"
 slug: "redwood-falls-mn"
-town: "Redwood Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 5035
+state: "mn"
+town_data: "redwood-falls-mn"
 ---

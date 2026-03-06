@@ -1,9 +1,7 @@
 ---
-title: "Cedar Falls, Iowa Business Directory"
+title: "Cedar Falls, IA Business Directory"
+type: "towns"
 slug: "cedar-falls-ia"
-town: "Cedar Falls"
-state: "Iowa"
-state_abbr: "IA"
-county: "Black Hawk"
-population: 40713
+state: "ia"
+town_data: "cedar-falls-ia"
 ---

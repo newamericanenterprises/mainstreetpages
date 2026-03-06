@@ -1,7 +1,7 @@
 ---
-title: "Smith Valley, Nevada Business Directory"
+title: "Smith Valley, NV Business Directory"
+type: "towns"
 slug: "smith-valley-nv"
-state: "NV"
-county: "Lyon"
-population: 1643
+state: "nv"
+town_data: "smith-valley-nv"
 ---

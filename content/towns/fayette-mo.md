@@ -1,7 +1,7 @@
 ---
-title: "Fayette, Missouri Business Directory"
+title: "Fayette, MO Business Directory"
+type: "towns"
 slug: "fayette-mo"
-state: "MO"
-county: "Howard"
-population: 2604
+state: "mo"
+town_data: "fayette-mo"
 ---

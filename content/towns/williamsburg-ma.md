@@ -1,9 +1,7 @@
 ---
-title: "Williamsburg, Massachusetts Business Directory"
+title: "Williamsburg, MA Business Directory"
+type: "towns"
 slug: "williamsburg-ma"
-town: "Williamsburg"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 2799
+state: "ma"
+town_data: "williamsburg-ma"
 ---

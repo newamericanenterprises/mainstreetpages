@@ -1,7 +1,7 @@
 ---
-title: "Georgetown, Mississippi Business Directory"
+title: "Georgetown, MS Business Directory"
+type: "towns"
 slug: "georgetown-ms"
-state: "MS"
-county: "Copiah"
-population: 328
+state: "ms"
+town_data: "georgetown-ms"
 ---

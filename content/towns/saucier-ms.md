@@ -1,7 +1,7 @@
 ---
-title: "Saucier, Mississippi Business Directory"
+title: "Saucier, MS Business Directory"
+type: "towns"
 slug: "saucier-ms"
-state: "MS"
-county: "Harrison"
-population: 1500
+state: "ms"
+town_data: "saucier-ms"
 ---

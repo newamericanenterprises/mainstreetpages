@@ -1,9 +1,7 @@
 ---
-title: "Livermore Falls, Maine Business Directory"
+title: "Livermore Falls, ME Business Directory"
+type: "towns"
 slug: "livermore-falls-me"
-town: "Livermore Falls"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 1139
+state: "me"
+town_data: "livermore-falls-me"
 ---

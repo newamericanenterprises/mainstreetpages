@@ -1,9 +1,7 @@
 ---
-title: "Woodstock, Minnesota Business Directory"
+title: "Woodstock, MN Business Directory"
+type: "towns"
 slug: "woodstock-mn"
-town: "Woodstock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 1785
+state: "mn"
+town_data: "woodstock-mn"
 ---

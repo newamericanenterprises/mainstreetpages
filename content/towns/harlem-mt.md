@@ -1,7 +1,7 @@
 ---
-title: "Harlem, Montana Business Directory"
+title: "Harlem, MT Business Directory"
+type: "towns"
 slug: "harlem-mt"
-state: "MT"
-county: "Blaine"
-population: 500
+state: "mt"
+town_data: "harlem-mt"
 ---

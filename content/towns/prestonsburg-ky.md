@@ -1,9 +1,7 @@
 ---
-title: "Prestonsburg, Kentucky Business Directory"
+title: "Prestonsburg, KY Business Directory"
+type: "towns"
 slug: "prestonsburg-ky"
-town: "Prestonsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Floyd"
-population: 3273
+state: "ky"
+town_data: "prestonsburg-ky"
 ---

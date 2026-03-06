@@ -1,9 +1,7 @@
 ---
-title: "Cumberland, Indiana Business Directory"
+title: "Cumberland, IN Business Directory"
+type: "towns"
 slug: "cumberland-in"
-town: "Cumberland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 1719
+state: "in"
+town_data: "cumberland-in"
 ---

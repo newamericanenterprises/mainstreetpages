@@ -1,7 +1,7 @@
 ---
-title: "Tipton, Missouri Business Directory"
+title: "Tipton, MO Business Directory"
+type: "towns"
 slug: "tipton-mo"
-state: "MO"
-county: "Moniteau"
-population: 3410
+state: "mo"
+town_data: "tipton-mo"
 ---

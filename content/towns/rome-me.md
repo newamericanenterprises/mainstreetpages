@@ -1,9 +1,7 @@
 ---
-title: "Rome, Maine Business Directory"
+title: "Rome, ME Business Directory"
+type: "towns"
 slug: "rome-me"
-town: "Rome"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 974
+state: "me"
+town_data: "rome-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ridgeway, Missouri Business Directory"
+title: "Ridgeway, MO Business Directory"
+type: "towns"
 slug: "ridgeway-mo"
-state: "MO"
-county: "Harrison"
-population: 1500
+state: "mo"
+town_data: "ridgeway-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Loomis, Nebraska Business Directory"
+title: "Loomis, NE Business Directory"
+type: "towns"
 slug: "loomis-ne"
-state: "NE"
-county: "Phelps"
-population: 500
+state: "ne"
+town_data: "loomis-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Parks, Louisiana Business Directory"
+title: "Parks, LA Business Directory"
+type: "towns"
 slug: "parks-la"
-town: "Parks"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 1063
+state: "la"
+town_data: "parks-la"
 ---

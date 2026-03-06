@@ -1,9 +1,7 @@
 ---
-title: "Aldrich, Minnesota Business Directory"
+title: "Aldrich, MN Business Directory"
+type: "towns"
 slug: "aldrich-mn"
-town: "Aldrich"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wadena"
-population: 812
+state: "mn"
+town_data: "aldrich-mn"
 ---

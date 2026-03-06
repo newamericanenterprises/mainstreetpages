@@ -1,9 +1,7 @@
 ---
-title: "Peru, Kansas Business Directory"
+title: "Peru, KS Business Directory"
+type: "towns"
 slug: "peru-ks"
-town: "Peru"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 1292
+state: "ks"
+town_data: "peru-ks"
 ---

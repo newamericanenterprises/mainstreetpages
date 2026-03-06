@@ -1,9 +1,7 @@
 ---
-title: "Bruce, Michigan Business Directory"
+title: "Bruce, MI Business Directory"
+type: "towns"
 slug: "bruce-mi"
-town: "Bruce"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 2398
+state: "mi"
+town_data: "bruce-mi"
 ---

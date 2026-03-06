@@ -1,9 +1,7 @@
 ---
-title: "Mound Valley, Kansas Business Directory"
+title: "Mound Valley, KS Business Directory"
+type: "towns"
 slug: "mound-valley-ks"
-town: "Mound Valley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 2348
+state: "ks"
+town_data: "mound-valley-ks"
 ---

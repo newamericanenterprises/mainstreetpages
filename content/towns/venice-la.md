@@ -1,9 +1,7 @@
 ---
-title: "Venice, Louisiana Business Directory"
+title: "Venice, LA Business Directory"
+type: "towns"
 slug: "venice-la"
-town: "Venice"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 701
+state: "la"
+town_data: "venice-la"
 ---

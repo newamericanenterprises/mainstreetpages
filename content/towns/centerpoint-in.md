@@ -1,9 +1,7 @@
 ---
-title: "Centerpoint, Indiana Business Directory"
+title: "Centerpoint, IN Business Directory"
+type: "towns"
 slug: "centerpoint-in"
-town: "Centerpoint"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 2073
+state: "in"
+town_data: "centerpoint-in"
 ---

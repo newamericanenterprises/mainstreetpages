@@ -1,9 +1,7 @@
 ---
-title: "Johannesburg, Michigan Business Directory"
+title: "Johannesburg, MI Business Directory"
+type: "towns"
 slug: "johannesburg-mi"
-town: "Johannesburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Otsego"
-population: 2274
+state: "mi"
+town_data: "johannesburg-mi"
 ---

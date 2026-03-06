@@ -1,9 +1,7 @@
 ---
-title: "Hebron, Kentucky Business Directory"
+title: "Hebron, KY Business Directory"
+type: "towns"
 slug: "hebron-ky"
-town: "Hebron"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 1671
+state: "ky"
+town_data: "hebron-ky"
 ---

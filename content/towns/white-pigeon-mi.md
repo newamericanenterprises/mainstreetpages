@@ -1,9 +1,7 @@
 ---
-title: "White Pigeon, Michigan Business Directory"
+title: "White Pigeon, MI Business Directory"
+type: "towns"
 slug: "white-pigeon-mi"
-town: "White Pigeon"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 1709
+state: "mi"
+town_data: "white-pigeon-mi"
 ---

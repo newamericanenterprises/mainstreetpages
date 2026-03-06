@@ -1,7 +1,7 @@
 ---
-title: "Caruthersville, Missouri Business Directory"
+title: "Caruthersville, MO Business Directory"
+type: "towns"
 slug: "caruthersville-mo"
-state: "MO"
-county: "Pemiscot"
-population: 5801
+state: "mo"
+town_data: "caruthersville-mo"
 ---

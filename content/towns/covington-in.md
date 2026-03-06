@@ -1,9 +1,7 @@
 ---
-title: "Covington, Indiana Business Directory"
+title: "Covington, IN Business Directory"
+type: "towns"
 slug: "covington-in"
-town: "Covington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 2986
+state: "in"
+town_data: "covington-in"
 ---

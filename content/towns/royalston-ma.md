@@ -1,9 +1,7 @@
 ---
-title: "Royalston, Massachusetts Business Directory"
+title: "Royalston, MA Business Directory"
+type: "towns"
 slug: "royalston-ma"
-town: "Royalston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8875
+state: "ma"
+town_data: "royalston-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Smithfield, Nebraska Business Directory"
+title: "Smithfield, NE Business Directory"
+type: "towns"
 slug: "smithfield-ne"
-state: "NE"
-county: "Gosper"
-population: 500
+state: "ne"
+town_data: "smithfield-ne"
 ---

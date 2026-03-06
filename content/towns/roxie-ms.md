@@ -1,7 +1,7 @@
 ---
-title: "Roxie, Mississippi Business Directory"
+title: "Roxie, MS Business Directory"
+type: "towns"
 slug: "roxie-ms"
-state: "MS"
-county: "Franklin"
-population: 1500
+state: "ms"
+town_data: "roxie-ms"
 ---

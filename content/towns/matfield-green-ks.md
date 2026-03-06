@@ -1,9 +1,7 @@
 ---
-title: "Matfield Green, Kansas Business Directory"
+title: "Matfield Green, KS Business Directory"
+type: "towns"
 slug: "matfield-green-ks"
-town: "Matfield Green"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chase"
-population: 2451
+state: "ks"
+town_data: "matfield-green-ks"
 ---

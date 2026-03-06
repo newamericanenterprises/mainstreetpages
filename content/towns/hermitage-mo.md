@@ -1,7 +1,7 @@
 ---
-title: "Hermitage, Missouri Business Directory"
+title: "Hermitage, MO Business Directory"
+type: "towns"
 slug: "hermitage-mo"
-state: "MO"
-county: "Hickory"
-population: 474
+state: "mo"
+town_data: "hermitage-mo"
 ---

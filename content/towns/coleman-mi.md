@@ -1,9 +1,7 @@
 ---
-title: "Coleman, Michigan Business Directory"
+title: "Coleman, MI Business Directory"
+type: "towns"
 slug: "coleman-mi"
-town: "Coleman"
-state: "Michigan"
-state_abbr: "MI"
-county: "Midland"
-population: 641
+state: "mi"
+town_data: "coleman-mi"
 ---

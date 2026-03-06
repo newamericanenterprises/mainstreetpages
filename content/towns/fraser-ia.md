@@ -1,9 +1,7 @@
 ---
-title: "Fraser, Iowa Business Directory"
+title: "Fraser, IA Business Directory"
+type: "towns"
 slug: "fraser-ia"
-town: "Fraser"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 2894
+state: "ia"
+town_data: "fraser-ia"
 ---

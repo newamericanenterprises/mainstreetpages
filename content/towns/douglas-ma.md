@@ -1,9 +1,7 @@
 ---
-title: "Douglas, Massachusetts Business Directory"
+title: "Douglas, MA Business Directory"
+type: "towns"
 slug: "douglas-ma"
-town: "Douglas"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 7386
+state: "ma"
+town_data: "douglas-ma"
 ---

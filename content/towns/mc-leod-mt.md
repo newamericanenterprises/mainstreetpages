@@ -1,7 +1,7 @@
 ---
-title: "Mc Leod, Montana Business Directory"
+title: "Mc Leod, MT Business Directory"
+type: "towns"
 slug: "mc-leod-mt"
-state: "MT"
-county: "Sweet Grass"
-population: 500
+state: "mt"
+town_data: "mc-leod-mt"
 ---

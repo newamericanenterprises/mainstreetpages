@@ -1,9 +1,7 @@
 ---
-title: "New Haven, Indiana Business Directory"
+title: "New Haven, IN Business Directory"
+type: "towns"
 slug: "new-haven-in"
-town: "New Haven"
-state: "Indiana"
-state_abbr: "IN"
-county: "Allen"
-population: 15943
+state: "in"
+town_data: "new-haven-in"
 ---

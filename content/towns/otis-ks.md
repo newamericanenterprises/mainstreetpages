@@ -1,9 +1,7 @@
 ---
-title: "Otis, Kansas Business Directory"
+title: "Otis, KS Business Directory"
+type: "towns"
 slug: "otis-ks"
-town: "Otis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 1075
+state: "ks"
+town_data: "otis-ks"
 ---

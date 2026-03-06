@@ -1,9 +1,7 @@
 ---
-title: "Coyville, Kansas Business Directory"
+title: "Coyville, KS Business Directory"
+type: "towns"
 slug: "coyville-ks"
-town: "Coyville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 854
+state: "ks"
+town_data: "coyville-ks"
 ---

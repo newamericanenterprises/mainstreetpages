@@ -1,7 +1,7 @@
 ---
-title: "Annapolis, Missouri Business Directory"
+title: "Annapolis, MO Business Directory"
+type: "towns"
 slug: "annapolis-mo"
-state: "MO"
-county: "Iron"
-population: 333
+state: "mo"
+town_data: "annapolis-mo"
 ---

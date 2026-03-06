@@ -1,7 +1,7 @@
 ---
-title: "Richey, Montana Business Directory"
+title: "Richey, MT Business Directory"
+type: "towns"
 slug: "richey-mt"
-state: "MT"
-county: "Dawson"
-population: 500
+state: "mt"
+town_data: "richey-mt"
 ---

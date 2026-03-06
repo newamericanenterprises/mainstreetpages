@@ -1,9 +1,7 @@
 ---
-title: "Flushing, Michigan Business Directory"
+title: "Flushing, MI Business Directory"
+type: "towns"
 slug: "flushing-mi"
-town: "Flushing"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 2161
+state: "mi"
+town_data: "flushing-mi"
 ---

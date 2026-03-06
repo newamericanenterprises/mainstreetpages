@@ -1,9 +1,7 @@
 ---
-title: "Genola, Minnesota Business Directory"
+title: "Genola, MN Business Directory"
+type: "towns"
 slug: "genola-mn"
-town: "Genola"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 1724
+state: "mn"
+town_data: "genola-mn"
 ---

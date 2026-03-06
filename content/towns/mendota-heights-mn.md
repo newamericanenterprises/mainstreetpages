@@ -1,9 +1,7 @@
 ---
-title: "Mendota Heights, Minnesota Business Directory"
+title: "Mendota Heights, MN Business Directory"
+type: "towns"
 slug: "mendota-heights-mn"
-town: "Mendota Heights"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 2826
+state: "mn"
+town_data: "mendota-heights-mn"
 ---

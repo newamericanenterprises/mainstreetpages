@@ -1,9 +1,7 @@
 ---
-title: "Walnut, Iowa Business Directory"
+title: "Walnut, IA Business Directory"
+type: "towns"
 slug: "walnut-ia"
-town: "Walnut"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 2331
+state: "ia"
+town_data: "walnut-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Arabi, Louisiana Business Directory"
+title: "Arabi, LA Business Directory"
+type: "towns"
 slug: "arabi-la"
-town: "Arabi"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Bernard"
-population: 3161
+state: "la"
+town_data: "arabi-la"
 ---

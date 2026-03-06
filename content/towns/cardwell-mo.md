@@ -1,7 +1,7 @@
 ---
-title: "Cardwell, Missouri Business Directory"
+title: "Cardwell, MO Business Directory"
+type: "towns"
 slug: "cardwell-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "cardwell-mo"
 ---

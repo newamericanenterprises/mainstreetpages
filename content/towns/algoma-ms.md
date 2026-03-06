@@ -1,7 +1,7 @@
 ---
-title: "Algoma, Mississippi Business Directory"
+title: "Algoma, MS Business Directory"
+type: "towns"
 slug: "algoma-ms"
-state: "MS"
-county: "Pontotoc"
-population: 549
+state: "ms"
+town_data: "algoma-ms"
 ---

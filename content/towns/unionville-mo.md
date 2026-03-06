@@ -1,7 +1,7 @@
 ---
-title: "Unionville, Missouri Business Directory"
+title: "Unionville, MO Business Directory"
+type: "towns"
 slug: "unionville-mo"
-state: "MO"
-county: "Putnam"
-population: 1821
+state: "mo"
+town_data: "unionville-mo"
 ---

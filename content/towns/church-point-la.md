@@ -1,9 +1,7 @@
 ---
-title: "Church Point, Louisiana Business Directory"
+title: "Church Point, LA Business Directory"
+type: "towns"
 slug: "church-point-la"
-town: "Church Point"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 1503
+state: "la"
+town_data: "church-point-la"
 ---

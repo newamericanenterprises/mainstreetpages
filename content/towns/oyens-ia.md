@@ -1,9 +1,7 @@
 ---
-title: "Oyens, Iowa Business Directory"
+title: "Oyens, IA Business Directory"
+type: "towns"
 slug: "oyens-ia"
-town: "Oyens"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 3107
+state: "ia"
+town_data: "oyens-ia"
 ---

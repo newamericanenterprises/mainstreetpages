@@ -1,9 +1,7 @@
 ---
-title: "Cecilton, Maryland Business Directory"
+title: "Cecilton, MD Business Directory"
+type: "towns"
 slug: "cecilton-md"
-town: "Cecilton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 4653
+state: "md"
+town_data: "cecilton-md"
 ---

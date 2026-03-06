@@ -1,9 +1,7 @@
 ---
-title: "Clayton, Louisiana Business Directory"
+title: "Clayton, LA Business Directory"
+type: "towns"
 slug: "clayton-la"
-town: "Clayton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Concordia"
-population: 1950
+state: "la"
+town_data: "clayton-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tab, Indiana Business Directory"
+title: "Tab, IN Business Directory"
+type: "towns"
 slug: "tab-in"
-town: "Tab"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warren"
-population: 4149
+state: "in"
+town_data: "tab-in"
 ---

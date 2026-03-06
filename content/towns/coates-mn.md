@@ -1,9 +1,7 @@
 ---
-title: "Coates, Minnesota Business Directory"
+title: "Coates, MN Business Directory"
+type: "towns"
 slug: "coates-mn"
-town: "Coates"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 3216
+state: "mn"
+town_data: "coates-mn"
 ---

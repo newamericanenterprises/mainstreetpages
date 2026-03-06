@@ -1,9 +1,7 @@
 ---
-title: "Morristown, Minnesota Business Directory"
+title: "Morristown, MN Business Directory"
+type: "towns"
 slug: "morristown-mn"
-town: "Morristown"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 2626
+state: "mn"
+town_data: "morristown-mn"
 ---

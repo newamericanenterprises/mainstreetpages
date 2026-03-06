@@ -1,7 +1,7 @@
 ---
-title: "Gideon, Missouri Business Directory"
+title: "Gideon, MO Business Directory"
+type: "towns"
 slug: "gideon-mo"
-state: "MO"
-county: "New Madrid"
-population: 1500
+state: "mo"
+town_data: "gideon-mo"
 ---

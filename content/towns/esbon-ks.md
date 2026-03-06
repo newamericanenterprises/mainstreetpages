@@ -1,9 +1,7 @@
 ---
-title: "Esbon, Kansas Business Directory"
+title: "Esbon, KS Business Directory"
+type: "towns"
 slug: "esbon-ks"
-town: "Esbon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 1920
+state: "ks"
+town_data: "esbon-ks"
 ---

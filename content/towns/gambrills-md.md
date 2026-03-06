@@ -1,9 +1,7 @@
 ---
-title: "Gambrills, Maryland Business Directory"
+title: "Gambrills, MD Business Directory"
+type: "towns"
 slug: "gambrills-md"
-town: "Gambrills"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 1427
+state: "md"
+town_data: "gambrills-md"
 ---

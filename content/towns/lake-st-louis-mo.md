@@ -1,7 +1,7 @@
 ---
-title: "Lake St. Louis, Missouri Business Directory"
+title: "Lake St Louis, MO Business Directory"
+type: "towns"
 slug: "lake-st-louis-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "lake-st-louis-mo"
 ---

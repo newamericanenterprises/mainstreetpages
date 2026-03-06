@@ -1,7 +1,7 @@
 ---
-title: "La Vista, Nebraska Business Directory"
+title: "La Vista, NE Business Directory"
+type: "towns"
 slug: "la-vista-ne"
-state: "NE"
-county: "Sarpy"
-population: 17081
+state: "ne"
+town_data: "la-vista-ne"
 ---

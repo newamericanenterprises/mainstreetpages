@@ -1,9 +1,7 @@
 ---
-title: "Ishpeming, Michigan Business Directory"
+title: "Ishpeming, MI Business Directory"
+type: "towns"
 slug: "ishpeming-mi"
-town: "Ishpeming"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 3211
+state: "mi"
+town_data: "ishpeming-mi"
 ---

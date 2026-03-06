@@ -1,9 +1,7 @@
 ---
-title: "Elberta, Michigan Business Directory"
+title: "Elberta, MI Business Directory"
+type: "towns"
 slug: "elberta-mi"
-town: "Elberta"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 3962
+state: "mi"
+town_data: "elberta-mi"
 ---

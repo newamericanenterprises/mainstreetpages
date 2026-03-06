@@ -1,9 +1,7 @@
 ---
-title: "Ball, Louisiana Business Directory"
+title: "Ball, LA Business Directory"
+type: "towns"
 slug: "ball-la"
-town: "Ball"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 2927
+state: "la"
+town_data: "ball-la"
 ---

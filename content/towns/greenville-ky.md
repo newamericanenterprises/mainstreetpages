@@ -1,9 +1,7 @@
 ---
-title: "Greenville, Kentucky Business Directory"
+title: "Greenville, KY Business Directory"
+type: "towns"
 slug: "greenville-ky"
-town: "Greenville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Muhlenberg"
-population: 4288
+state: "ky"
+town_data: "greenville-ky"
 ---

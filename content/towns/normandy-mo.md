@@ -1,7 +1,7 @@
 ---
-title: "Normandy, Missouri Business Directory"
+title: "Normandy, MO Business Directory"
+type: "towns"
 slug: "normandy-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "normandy-mo"
 ---

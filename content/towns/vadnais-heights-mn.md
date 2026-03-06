@@ -1,9 +1,7 @@
 ---
-title: "Vadnais Heights, Minnesota Business Directory"
+title: "Vadnais Heights, MN Business Directory"
+type: "towns"
 slug: "vadnais-heights-mn"
-town: "Vadnais Heights"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 2044
+state: "mn"
+town_data: "vadnais-heights-mn"
 ---

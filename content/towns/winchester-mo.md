@@ -1,7 +1,7 @@
 ---
-title: "Winchester, Missouri Business Directory"
+title: "Winchester, MO Business Directory"
+type: "towns"
 slug: "winchester-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "winchester-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Victor, Montana Business Directory"
+title: "Victor, MT Business Directory"
+type: "towns"
 slug: "victor-mt"
-state: "MT"
-county: "Ravalli"
-population: 778
+state: "mt"
+town_data: "victor-mt"
 ---

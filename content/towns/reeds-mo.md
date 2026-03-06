@@ -1,7 +1,7 @@
 ---
-title: "Reeds, Missouri Business Directory"
+title: "Reeds, MO Business Directory"
+type: "towns"
 slug: "reeds-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "reeds-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kincaid, Kansas Business Directory"
+title: "Kincaid, KS Business Directory"
+type: "towns"
 slug: "kincaid-ks"
-town: "Kincaid"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 2455
+state: "ks"
+town_data: "kincaid-ks"
 ---

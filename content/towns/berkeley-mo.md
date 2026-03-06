@@ -1,7 +1,7 @@
 ---
-title: "Berkeley, Missouri Business Directory"
+title: "Berkeley, MO Business Directory"
+type: "towns"
 slug: "berkeley-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "berkeley-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lebanon, Indiana Business Directory"
+title: "Lebanon, IN Business Directory"
+type: "towns"
 slug: "lebanon-in"
-town: "Lebanon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Boone"
-population: 16562
+state: "in"
+town_data: "lebanon-in"
 ---

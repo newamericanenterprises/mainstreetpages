@@ -1,7 +1,7 @@
 ---
-title: "Allen, Nebraska Business Directory"
+title: "Allen, NE Business Directory"
+type: "towns"
 slug: "allen-ne"
-state: "NE"
-county: "Dixon"
-population: 361
+state: "ne"
+town_data: "allen-ne"
 ---

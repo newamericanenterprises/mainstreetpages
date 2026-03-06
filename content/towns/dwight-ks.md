@@ -1,9 +1,7 @@
 ---
-title: "Dwight, Kansas Business Directory"
+title: "Dwight, KS Business Directory"
+type: "towns"
 slug: "dwight-ks"
-town: "Dwight"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 2948
+state: "ks"
+town_data: "dwight-ks"
 ---

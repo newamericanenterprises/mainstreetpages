@@ -1,9 +1,7 @@
 ---
-title: "Napoleon, Michigan Business Directory"
+title: "Napoleon, MI Business Directory"
+type: "towns"
 slug: "napoleon-mi"
-town: "Napoleon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 1252
+state: "mi"
+town_data: "napoleon-mi"
 ---

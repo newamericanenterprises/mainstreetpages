@@ -1,9 +1,7 @@
 ---
-title: "Bussey, Iowa Business Directory"
+title: "Bussey, IA Business Directory"
+type: "towns"
 slug: "bussey-ia"
-town: "Bussey"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 2164
+state: "ia"
+town_data: "bussey-ia"
 ---

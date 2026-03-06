@@ -1,9 +1,7 @@
 ---
-title: "Schererville, Indiana Business Directory"
+title: "Schererville, IN Business Directory"
+type: "towns"
 slug: "schererville-in"
-town: "Schererville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 30081
+state: "in"
+town_data: "schererville-in"
 ---

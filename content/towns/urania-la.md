@@ -1,9 +1,7 @@
 ---
-title: "Urania, Louisiana Business Directory"
+title: "Urania, LA Business Directory"
+type: "towns"
 slug: "urania-la"
-town: "Urania"
-state: "Louisiana"
-state_abbr: "LA"
-county: "LaSalle"
-population: 2054
+state: "la"
+town_data: "urania-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shelbina, Missouri Business Directory"
+title: "Shelbina, MO Business Directory"
+type: "towns"
 slug: "shelbina-mo"
-state: "MO"
-county: "Shelby"
-population: 1670
+state: "mo"
+town_data: "shelbina-mo"
 ---

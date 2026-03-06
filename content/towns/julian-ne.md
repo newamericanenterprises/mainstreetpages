@@ -1,7 +1,7 @@
 ---
-title: "Julian, Nebraska Business Directory"
+title: "Julian, NE Business Directory"
+type: "towns"
 slug: "julian-ne"
-state: "NE"
-county: "Nemaha"
-population: 500
+state: "ne"
+town_data: "julian-ne"
 ---

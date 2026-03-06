@@ -1,9 +1,7 @@
 ---
-title: "Odessa, Minnesota Business Directory"
+title: "Odessa, MN Business Directory"
+type: "towns"
 slug: "odessa-mn"
-town: "Odessa"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 1606
+state: "mn"
+town_data: "odessa-mn"
 ---

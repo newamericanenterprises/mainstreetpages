@@ -1,9 +1,7 @@
 ---
-title: "Portsmouth, Iowa Business Directory"
+title: "Portsmouth, IA Business Directory"
+type: "towns"
 slug: "portsmouth-ia"
-town: "Portsmouth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 1619
+state: "ia"
+town_data: "portsmouth-ia"
 ---

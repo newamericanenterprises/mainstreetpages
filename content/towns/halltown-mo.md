@@ -1,7 +1,7 @@
 ---
-title: "Halltown, Missouri Business Directory"
+title: "Halltown, MO Business Directory"
+type: "towns"
 slug: "halltown-mo"
-state: "MO"
-county: "Lawrence"
-population: 1500
+state: "mo"
+town_data: "halltown-mo"
 ---

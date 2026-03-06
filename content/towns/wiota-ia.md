@@ -1,9 +1,7 @@
 ---
-title: "Wiota, Iowa Business Directory"
+title: "Wiota, IA Business Directory"
+type: "towns"
 slug: "wiota-ia"
-town: "Wiota"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 1170
+state: "ia"
+town_data: "wiota-ia"
 ---

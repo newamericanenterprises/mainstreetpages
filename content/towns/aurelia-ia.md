@@ -1,9 +1,7 @@
 ---
-title: "Aurelia, Iowa Business Directory"
+title: "Aurelia, IA Business Directory"
+type: "towns"
 slug: "aurelia-ia"
-town: "Aurelia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 836
+state: "ia"
+town_data: "aurelia-ia"
 ---

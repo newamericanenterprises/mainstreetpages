@@ -1,9 +1,7 @@
 ---
-title: "Marquette, Michigan Business Directory"
+title: "Marquette, MI Business Directory"
+type: "towns"
 slug: "marquette-mi"
-town: "Marquette"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 20827
+state: "mi"
+town_data: "marquette-mi"
 ---

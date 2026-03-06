@@ -1,7 +1,7 @@
 ---
-title: "Pittsboro, Mississippi Business Directory"
+title: "Pittsboro, MS Business Directory"
+type: "towns"
 slug: "pittsboro-ms"
-state: "MS"
-county: "Calhoun"
-population: 192
+state: "ms"
+town_data: "pittsboro-ms"
 ---

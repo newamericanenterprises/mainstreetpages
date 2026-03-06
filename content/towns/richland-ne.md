@@ -1,7 +1,7 @@
 ---
-title: "Richland, Nebraska Business Directory"
+title: "Richland, NE Business Directory"
+type: "towns"
 slug: "richland-ne"
-state: "NE"
-county: "Colfax"
-population: 500
+state: "ne"
+town_data: "richland-ne"
 ---

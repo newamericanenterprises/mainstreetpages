@@ -1,9 +1,7 @@
 ---
-title: "Plainfield, Iowa Business Directory"
+title: "Plainfield, IA Business Directory"
+type: "towns"
 slug: "plainfield-ia"
-town: "Plainfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 1191
+state: "ia"
+town_data: "plainfield-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Eagle Lake, Maine Business Directory"
+title: "Eagle Lake, ME Business Directory"
+type: "towns"
 slug: "eagle-lake-me"
-town: "Eagle Lake"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1221
+state: "me"
+town_data: "eagle-lake-me"
 ---

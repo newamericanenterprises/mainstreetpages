@@ -1,9 +1,7 @@
 ---
-title: "Stanton, Michigan Business Directory"
+title: "Stanton, MI Business Directory"
+type: "towns"
 slug: "stanton-mi"
-town: "Stanton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 1383
+state: "mi"
+town_data: "stanton-mi"
 ---

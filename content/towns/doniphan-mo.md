@@ -1,7 +1,7 @@
 ---
-title: "Doniphan, Missouri Business Directory"
+title: "Doniphan, MO Business Directory"
+type: "towns"
 slug: "doniphan-mo"
-state: "MO"
-county: "Ripley"
-population: 1888
+state: "mo"
+town_data: "doniphan-mo"
 ---

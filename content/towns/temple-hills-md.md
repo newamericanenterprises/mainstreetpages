@@ -1,9 +1,7 @@
 ---
-title: "Temple Hills, Maryland Business Directory"
+title: "Temple Hills, MD Business Directory"
+type: "towns"
 slug: "temple-hills-md"
-town: "Temple Hills"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1643
+state: "md"
+town_data: "temple-hills-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Highland, Maryland Business Directory"
+title: "Highland, MD Business Directory"
+type: "towns"
 slug: "highland-md"
-town: "Highland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 2248
+state: "md"
+town_data: "highland-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Norwich, Kansas Business Directory"
+title: "Norwich, KS Business Directory"
+type: "towns"
 slug: "norwich-ks"
-town: "Norwich"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 524
+state: "ks"
+town_data: "norwich-ks"
 ---

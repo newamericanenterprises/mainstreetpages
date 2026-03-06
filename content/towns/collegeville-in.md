@@ -1,9 +1,7 @@
 ---
-title: "Collegeville, Indiana Business Directory"
+title: "Collegeville, IN Business Directory"
+type: "towns"
 slug: "collegeville-in"
-town: "Collegeville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jasper"
-population: 878
+state: "in"
+town_data: "collegeville-in"
 ---

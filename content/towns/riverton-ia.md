@@ -1,9 +1,7 @@
 ---
-title: "Riverton, Iowa Business Directory"
+title: "Riverton, IA Business Directory"
+type: "towns"
 slug: "riverton-ia"
-town: "Riverton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 668
+state: "ia"
+town_data: "riverton-ia"
 ---

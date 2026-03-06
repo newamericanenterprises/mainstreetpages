@@ -1,7 +1,7 @@
 ---
-title: "Elkhorn, Nebraska Business Directory"
+title: "Elkhorn, NE Business Directory"
+type: "towns"
 slug: "elkhorn-ne"
-state: "NE"
-county: "Douglas"
-population: 6062
+state: "ne"
+town_data: "elkhorn-ne"
 ---

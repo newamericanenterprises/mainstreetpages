@@ -1,7 +1,7 @@
 ---
-title: "Bennington, Nebraska Business Directory"
+title: "Bennington, NE Business Directory"
+type: "towns"
 slug: "bennington-ne"
-state: "NE"
-county: "Douglas"
-population: 1458
+state: "ne"
+town_data: "bennington-ne"
 ---

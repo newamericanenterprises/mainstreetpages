@@ -1,7 +1,7 @@
 ---
-title: "Laurie, Missouri Business Directory"
+title: "Laurie, MO Business Directory"
+type: "towns"
 slug: "laurie-mo"
-state: "MO"
-county: "Morgan"
-population: 1005
+state: "mo"
+town_data: "laurie-mo"
 ---

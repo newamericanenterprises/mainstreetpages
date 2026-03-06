@@ -1,9 +1,7 @@
 ---
-title: "Lodi, Michigan Business Directory"
+title: "Lodi, MI Business Directory"
+type: "towns"
 slug: "lodi-mi"
-town: "Lodi"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4844
+state: "mi"
+town_data: "lodi-mi"
 ---

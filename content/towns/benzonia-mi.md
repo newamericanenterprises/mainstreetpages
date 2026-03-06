@@ -1,9 +1,7 @@
 ---
-title: "Benzonia, Michigan Business Directory"
+title: "Benzonia, MI Business Directory"
+type: "towns"
 slug: "benzonia-mi"
-town: "Benzonia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 3805
+state: "mi"
+town_data: "benzonia-mi"
 ---

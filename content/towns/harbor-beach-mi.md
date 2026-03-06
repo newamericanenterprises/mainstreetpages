@@ -1,9 +1,7 @@
 ---
-title: "Harbor Beach, Michigan Business Directory"
+title: "Harbor Beach, MI Business Directory"
+type: "towns"
 slug: "harbor-beach-mi"
-town: "Harbor Beach"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 2068
+state: "mi"
+town_data: "harbor-beach-mi"
 ---

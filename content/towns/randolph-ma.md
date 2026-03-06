@@ -1,9 +1,7 @@
 ---
-title: "Randolph, Massachusetts Business Directory"
+title: "Randolph, MA Business Directory"
+type: "towns"
 slug: "randolph-ma"
-town: "Randolph"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 34984
+state: "ma"
+town_data: "randolph-ma"
 ---

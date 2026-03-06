@@ -1,9 +1,7 @@
 ---
-title: "Centerville, Iowa Business Directory"
+title: "Centerville, IA Business Directory"
+type: "towns"
 slug: "centerville-ia"
-town: "Centerville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 5418
+state: "ia"
+town_data: "centerville-ia"
 ---

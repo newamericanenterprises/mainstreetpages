@@ -1,7 +1,7 @@
 ---
-title: "Libby, Montana Business Directory"
+title: "Libby, MT Business Directory"
+type: "towns"
 slug: "libby-mt"
-state: "MT"
-county: "Lincoln"
-population: 2758
+state: "mt"
+town_data: "libby-mt"
 ---

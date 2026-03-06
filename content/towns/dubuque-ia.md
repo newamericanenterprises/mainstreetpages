@@ -1,9 +1,7 @@
 ---
-title: "Dubuque, Iowa Business Directory"
+title: "Dubuque, IA Business Directory"
+type: "towns"
 slug: "dubuque-ia"
-town: "Dubuque"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 59667
+state: "ia"
+town_data: "dubuque-ia"
 ---

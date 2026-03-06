@@ -1,9 +1,7 @@
 ---
-title: "Fort Polk, Louisiana Business Directory"
+title: "Fort Polk, LA Business Directory"
+type: "towns"
 slug: "fort-polk-la"
-town: "Fort Polk"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 2267
+state: "la"
+town_data: "fort-polk-la"
 ---

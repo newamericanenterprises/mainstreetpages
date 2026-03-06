@@ -1,7 +1,7 @@
 ---
-title: "Shoal Creek Estates, Missouri Business Directory"
+title: "Shoal Creek Estates, MO Business Directory"
+type: "towns"
 slug: "shoal-creek-estates-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "shoal-creek-estates-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "East Prairie, Missouri Business Directory"
+title: "East Prairie, MO Business Directory"
+type: "towns"
 slug: "east-prairie-mo"
-state: "MO"
-county: "Mississippi"
-population: 3076
+state: "mo"
+town_data: "east-prairie-mo"
 ---

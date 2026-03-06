@@ -1,7 +1,7 @@
 ---
-title: "Genoa, Nebraska Business Directory"
+title: "Genoa, NE Business Directory"
+type: "towns"
 slug: "genoa-ne"
-state: "NE"
-county: "Nance"
-population: 974
+state: "ne"
+town_data: "genoa-ne"
 ---

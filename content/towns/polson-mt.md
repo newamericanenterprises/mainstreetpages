@@ -1,7 +1,7 @@
 ---
-title: "Polson, Montana Business Directory"
+title: "Polson, MT Business Directory"
+type: "towns"
 slug: "polson-mt"
-state: "MT"
-county: "Lake"
-population: 5149
+state: "mt"
+town_data: "polson-mt"
 ---

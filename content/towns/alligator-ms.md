@@ -1,7 +1,7 @@
 ---
-title: "Alligator, Mississippi Business Directory"
+title: "Alligator, MS Business Directory"
+type: "towns"
 slug: "alligator-ms"
-state: "MS"
-county: "Bolivar"
-population: 205
+state: "ms"
+town_data: "alligator-ms"
 ---

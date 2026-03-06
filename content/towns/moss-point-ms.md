@@ -1,7 +1,7 @@
 ---
-title: "Moss Point, Mississippi Business Directory"
+title: "Moss Point, MS Business Directory"
+type: "towns"
 slug: "moss-point-ms"
-state: "MS"
-county: "Jackson"
-population: 13704
+state: "ms"
+town_data: "moss-point-ms"
 ---

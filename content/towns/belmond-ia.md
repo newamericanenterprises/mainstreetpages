@@ -1,9 +1,7 @@
 ---
-title: "Belmond, Iowa Business Directory"
+title: "Belmond, IA Business Directory"
+type: "towns"
 slug: "belmond-ia"
-town: "Belmond"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 2626
+state: "ia"
+town_data: "belmond-ia"
 ---

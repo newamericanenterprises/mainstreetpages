@@ -1,9 +1,7 @@
 ---
-title: "Medaryville, Indiana Business Directory"
+title: "Medaryville, IN Business Directory"
+type: "towns"
 slug: "medaryville-in"
-town: "Medaryville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pulaski"
-population: 4633
+state: "in"
+town_data: "medaryville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Woodhaven, Michigan Business Directory"
+title: "Woodhaven, MI Business Directory"
+type: "towns"
 slug: "woodhaven-mi"
-town: "Woodhaven"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2644
+state: "mi"
+town_data: "woodhaven-mi"
 ---

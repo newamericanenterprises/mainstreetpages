@@ -1,9 +1,7 @@
 ---
-title: "Medford, Massachusetts Business Directory"
+title: "Medford, MA Business Directory"
+type: "towns"
 slug: "medford-ma"
-town: "Medford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 59450
+state: "ma"
+town_data: "medford-ma"
 ---

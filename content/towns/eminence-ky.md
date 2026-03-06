@@ -1,9 +1,7 @@
 ---
-title: "Eminence, Kentucky Business Directory"
+title: "Eminence, KY Business Directory"
+type: "towns"
 slug: "eminence-ky"
-town: "Eminence"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henry"
-population: 1657
+state: "ky"
+town_data: "eminence-ky"
 ---

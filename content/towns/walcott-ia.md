@@ -1,9 +1,7 @@
 ---
-title: "Walcott, Iowa Business Directory"
+title: "Walcott, IA Business Directory"
+type: "towns"
 slug: "walcott-ia"
-town: "Walcott"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 1794
+state: "ia"
+town_data: "walcott-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lakeside, Missouri Business Directory"
+title: "Lakeside, MO Business Directory"
+type: "towns"
 slug: "lakeside-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "lakeside-mo"
 ---

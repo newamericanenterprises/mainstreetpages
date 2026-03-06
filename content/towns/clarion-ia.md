@@ -1,9 +1,7 @@
 ---
-title: "Clarion, Iowa Business Directory"
+title: "Clarion, IA Business Directory"
+type: "towns"
 slug: "clarion-ia"
-town: "Clarion"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 2850
+state: "ia"
+town_data: "clarion-ia"
 ---

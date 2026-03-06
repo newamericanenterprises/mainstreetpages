@@ -1,9 +1,7 @@
 ---
-title: "New Hartford, Iowa Business Directory"
+title: "New Hartford, IA Business Directory"
+type: "towns"
 slug: "new-hartford-ia"
-town: "New Hartford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 661
+state: "ia"
+town_data: "new-hartford-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tracy, Iowa Business Directory"
+title: "Tracy, IA Business Directory"
+type: "towns"
 slug: "tracy-ia"
-town: "Tracy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 1962
+state: "ia"
+town_data: "tracy-ia"
 ---

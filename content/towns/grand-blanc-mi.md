@@ -1,9 +1,7 @@
 ---
-title: "Grand Blanc, Michigan Business Directory"
+title: "Grand Blanc, MI Business Directory"
+type: "towns"
 slug: "grand-blanc-mi"
-town: "Grand Blanc"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 7864
+state: "mi"
+town_data: "grand-blanc-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lancaster, Missouri Business Directory"
+title: "Lancaster, MO Business Directory"
+type: "towns"
 slug: "lancaster-mo"
-state: "MO"
-county: "Schuyler"
-population: 1500
+state: "mo"
+town_data: "lancaster-mo"
 ---

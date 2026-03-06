@@ -1,7 +1,7 @@
 ---
-title: "Palmer, Nebraska Business Directory"
+title: "Palmer, NE Business Directory"
+type: "towns"
 slug: "palmer-ne"
-state: "NE"
-county: "Merrick"
-population: 454
+state: "ne"
+town_data: "palmer-ne"
 ---

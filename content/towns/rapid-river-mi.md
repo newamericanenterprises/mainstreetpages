@@ -1,9 +1,7 @@
 ---
-title: "Rapid River, Michigan Business Directory"
+title: "Rapid River, MI Business Directory"
+type: "towns"
 slug: "rapid-river-mi"
-town: "Rapid River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Delta"
-population: 4738
+state: "mi"
+town_data: "rapid-river-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Millhousen, Indiana Business Directory"
+title: "Millhousen, IN Business Directory"
+type: "towns"
 slug: "millhousen-in"
-town: "Millhousen"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 4219
+state: "in"
+town_data: "millhousen-in"
 ---

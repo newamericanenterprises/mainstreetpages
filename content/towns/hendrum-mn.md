@@ -1,9 +1,7 @@
 ---
-title: "Hendrum, Minnesota Business Directory"
+title: "Hendrum, MN Business Directory"
+type: "towns"
 slug: "hendrum-mn"
-town: "Hendrum"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 2356
+state: "mn"
+town_data: "hendrum-mn"
 ---

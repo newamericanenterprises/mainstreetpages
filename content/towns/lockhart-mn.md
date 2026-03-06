@@ -1,9 +1,7 @@
 ---
-title: "Lockhart, Minnesota Business Directory"
+title: "Lockhart, MN Business Directory"
+type: "towns"
 slug: "lockhart-mn"
-town: "Lockhart"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 929
+state: "mn"
+town_data: "lockhart-mn"
 ---

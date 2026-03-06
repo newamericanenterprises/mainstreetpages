@@ -1,7 +1,7 @@
 ---
-title: "Jackpot, Nevada Business Directory"
+title: "Jackpot, NV Business Directory"
+type: "towns"
 slug: "jackpot-nv"
-state: "NV"
-county: "Elko"
-population: 1195
+state: "nv"
+town_data: "jackpot-nv"
 ---

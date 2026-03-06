@@ -1,9 +1,7 @@
 ---
-title: "Coloma, Michigan Business Directory"
+title: "Coloma, MI Business Directory"
+type: "towns"
 slug: "coloma-mi"
-town: "Coloma"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 4974
+state: "mi"
+town_data: "coloma-mi"
 ---

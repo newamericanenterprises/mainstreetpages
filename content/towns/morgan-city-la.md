@@ -1,9 +1,7 @@
 ---
-title: "Morgan City, Louisiana Business Directory"
+title: "Morgan City, LA Business Directory"
+type: "towns"
 slug: "morgan-city-la"
-town: "Morgan City"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 11560
+state: "la"
+town_data: "morgan-city-la"
 ---

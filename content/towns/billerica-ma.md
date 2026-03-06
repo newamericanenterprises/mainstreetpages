@@ -1,9 +1,7 @@
 ---
-title: "Billerica, Massachusetts Business Directory"
+title: "Billerica, MA Business Directory"
+type: "towns"
 slug: "billerica-ma"
-town: "Billerica"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 43606
+state: "ma"
+town_data: "billerica-ma"
 ---

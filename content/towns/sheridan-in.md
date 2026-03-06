@@ -1,9 +1,7 @@
 ---
-title: "Sheridan, Indiana Business Directory"
+title: "Sheridan, IN Business Directory"
+type: "towns"
 slug: "sheridan-in"
-town: "Sheridan"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hamilton"
-population: 1601
+state: "in"
+town_data: "sheridan-in"
 ---

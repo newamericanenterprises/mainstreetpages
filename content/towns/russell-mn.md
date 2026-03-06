@@ -1,9 +1,7 @@
 ---
-title: "Russell, Minnesota Business Directory"
+title: "Russell, MN Business Directory"
+type: "towns"
 slug: "russell-mn"
-town: "Russell"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 3241
+state: "mn"
+town_data: "russell-mn"
 ---

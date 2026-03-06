@@ -1,9 +1,7 @@
 ---
-title: "Merrimac, Massachusetts Business Directory"
+title: "Merrimac, MA Business Directory"
+type: "towns"
 slug: "merrimac-ma"
-town: "Merrimac"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 7021
+state: "ma"
+town_data: "merrimac-ma"
 ---

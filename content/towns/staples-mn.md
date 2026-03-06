@@ -1,9 +1,7 @@
 ---
-title: "Staples, Minnesota Business Directory"
+title: "Staples, MN Business Directory"
+type: "towns"
 slug: "staples-mn"
-town: "Staples"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 735
+state: "mn"
+town_data: "staples-mn"
 ---

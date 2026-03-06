@@ -1,9 +1,7 @@
 ---
-title: "Northfield, Michigan Business Directory"
+title: "Northfield, MI Business Directory"
+type: "towns"
 slug: "northfield-mi"
-town: "Northfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 1063
+state: "mi"
+town_data: "northfield-mi"
 ---

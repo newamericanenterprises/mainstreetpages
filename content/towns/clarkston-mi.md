@@ -1,9 +1,7 @@
 ---
-title: "Clarkston, Michigan Business Directory"
+title: "Clarkston, MI Business Directory"
+type: "towns"
 slug: "clarkston-mi"
-town: "Clarkston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 893
+state: "mi"
+town_data: "clarkston-mi"
 ---

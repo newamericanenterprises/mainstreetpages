@@ -1,9 +1,7 @@
 ---
-title: "Cushing, Maine Business Directory"
+title: "Cushing, ME Business Directory"
+type: "towns"
 slug: "cushing-me"
-town: "Cushing"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 904
+state: "me"
+town_data: "cushing-me"
 ---

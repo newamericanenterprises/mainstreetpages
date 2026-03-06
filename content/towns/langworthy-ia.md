@@ -1,9 +1,7 @@
 ---
-title: "Langworthy, Iowa Business Directory"
+title: "Langworthy, IA Business Directory"
+type: "towns"
 slug: "langworthy-ia"
-town: "Langworthy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 3237
+state: "ia"
+town_data: "langworthy-ia"
 ---

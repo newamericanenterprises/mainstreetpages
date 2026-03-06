@@ -1,9 +1,7 @@
 ---
-title: "Arcadia, Kansas Business Directory"
+title: "Arcadia, KS Business Directory"
+type: "towns"
 slug: "arcadia-ks"
-town: "Arcadia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 2893
+state: "ks"
+town_data: "arcadia-ks"
 ---

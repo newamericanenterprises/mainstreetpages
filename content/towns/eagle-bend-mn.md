@@ -1,9 +1,7 @@
 ---
-title: "Eagle Bend, Minnesota Business Directory"
+title: "Eagle Bend, MN Business Directory"
+type: "towns"
 slug: "eagle-bend-mn"
-town: "Eagle Bend"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 1550
+state: "mn"
+town_data: "eagle-bend-mn"
 ---

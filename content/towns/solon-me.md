@@ -1,9 +1,7 @@
 ---
-title: "Solon, Maine Business Directory"
+title: "Solon, ME Business Directory"
+type: "towns"
 slug: "solon-me"
-town: "Solon"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2421
+state: "me"
+town_data: "solon-me"
 ---

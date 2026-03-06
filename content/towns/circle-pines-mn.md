@@ -1,9 +1,7 @@
 ---
-title: "Circle Pines, Minnesota Business Directory"
+title: "Circle Pines, MN Business Directory"
+type: "towns"
 slug: "circle-pines-mn"
-town: "Circle Pines"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 1248
+state: "mn"
+town_data: "circle-pines-mn"
 ---

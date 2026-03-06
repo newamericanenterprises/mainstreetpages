@@ -1,9 +1,7 @@
 ---
-title: "Speed, Kansas Business Directory"
+title: "Speed, KS Business Directory"
+type: "towns"
 slug: "speed-ks"
-town: "Speed"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 2991
+state: "ks"
+town_data: "speed-ks"
 ---

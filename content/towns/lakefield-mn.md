@@ -1,9 +1,7 @@
 ---
-title: "Lakefield, Minnesota Business Directory"
+title: "Lakefield, MN Business Directory"
+type: "towns"
 slug: "lakefield-mn"
-town: "Lakefield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 3299
+state: "mn"
+town_data: "lakefield-mn"
 ---

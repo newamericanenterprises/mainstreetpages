@@ -1,9 +1,7 @@
 ---
-title: "Hartland, Maine Business Directory"
+title: "Hartland, ME Business Directory"
+type: "towns"
 slug: "hartland-me"
-town: "Hartland"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1287
+state: "me"
+town_data: "hartland-me"
 ---

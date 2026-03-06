@@ -1,7 +1,7 @@
 ---
-title: "Bolton, Mississippi Business Directory"
+title: "Bolton, MS Business Directory"
+type: "towns"
 slug: "bolton-ms"
-state: "MS"
-county: "Hinds"
-population: 496
+state: "ms"
+town_data: "bolton-ms"
 ---

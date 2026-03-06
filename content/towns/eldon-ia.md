@@ -1,9 +1,7 @@
 ---
-title: "Eldon, Iowa Business Directory"
+title: "Eldon, IA Business Directory"
+type: "towns"
 slug: "eldon-ia"
-town: "Eldon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 733
+state: "ia"
+town_data: "eldon-ia"
 ---

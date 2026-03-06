@@ -1,9 +1,7 @@
 ---
-title: "La Crosse, Kansas Business Directory"
+title: "La Crosse, KS Business Directory"
+type: "towns"
 slug: "la-crosse-ks"
-town: "La Crosse"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 1256
+state: "ks"
+town_data: "la-crosse-ks"
 ---

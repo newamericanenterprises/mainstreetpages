@@ -1,9 +1,7 @@
 ---
-title: "Stratford, Iowa Business Directory"
+title: "Stratford, IA Business Directory"
+type: "towns"
 slug: "stratford-ia"
-town: "Stratford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 3265
+state: "ia"
+town_data: "stratford-ia"
 ---

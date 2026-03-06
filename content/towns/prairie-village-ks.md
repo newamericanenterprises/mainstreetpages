@@ -1,9 +1,7 @@
 ---
-title: "Prairie Village, Kansas Business Directory"
+title: "Prairie Village, KS Business Directory"
+type: "towns"
 slug: "prairie-village-ks"
-town: "Prairie Village"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 22368
+state: "ks"
+town_data: "prairie-village-ks"
 ---

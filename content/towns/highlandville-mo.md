@@ -1,7 +1,7 @@
 ---
-title: "Highlandville, Missouri Business Directory"
+title: "Highlandville, MO Business Directory"
+type: "towns"
 slug: "highlandville-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "highlandville-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Tampico, Montana Business Directory"
+title: "Tampico, MT Business Directory"
+type: "towns"
 slug: "tampico-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "tampico-mt"
 ---

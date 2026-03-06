@@ -1,9 +1,7 @@
 ---
-title: "George, Iowa Business Directory"
+title: "George, IA Business Directory"
+type: "towns"
 slug: "george-ia"
-town: "George"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 2716
+state: "ia"
+town_data: "george-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ottosen, Iowa Business Directory"
+title: "Ottosen, IA Business Directory"
+type: "towns"
 slug: "ottosen-ia"
-town: "Ottosen"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 753
+state: "ia"
+town_data: "ottosen-ia"
 ---

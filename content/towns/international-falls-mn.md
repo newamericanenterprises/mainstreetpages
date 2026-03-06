@@ -1,9 +1,7 @@
 ---
-title: "International Falls, Minnesota Business Directory"
+title: "International Falls, MN Business Directory"
+type: "towns"
 slug: "international-falls-mn"
-town: "International Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Koochiching"
-population: 5696
+state: "mn"
+town_data: "international-falls-mn"
 ---

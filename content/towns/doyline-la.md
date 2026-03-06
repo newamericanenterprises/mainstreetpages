@@ -1,9 +1,7 @@
 ---
-title: "Doyline, Louisiana Business Directory"
+title: "Doyline, LA Business Directory"
+type: "towns"
 slug: "doyline-la"
-town: "Doyline"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 426
+state: "la"
+town_data: "doyline-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Goodhue, Minnesota Business Directory"
+title: "Goodhue, MN Business Directory"
+type: "towns"
 slug: "goodhue-mn"
-town: "Goodhue"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 3153
+state: "mn"
+town_data: "goodhue-mn"
 ---

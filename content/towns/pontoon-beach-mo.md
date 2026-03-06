@@ -1,7 +1,7 @@
 ---
-title: "Pontoon Beach, Missouri Business Directory"
+title: "Pontoon Beach, MO Business Directory"
+type: "towns"
 slug: "pontoon-beach-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "pontoon-beach-mo"
 ---

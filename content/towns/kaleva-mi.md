@@ -1,9 +1,7 @@
 ---
-title: "Kaleva, Michigan Business Directory"
+title: "Kaleva, MI Business Directory"
+type: "towns"
 slug: "kaleva-mi"
-town: "Kaleva"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 3763
+state: "mi"
+town_data: "kaleva-mi"
 ---

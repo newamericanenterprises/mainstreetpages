@@ -1,9 +1,7 @@
 ---
-title: "Swayzee, Indiana Business Directory"
+title: "Swayzee, IN Business Directory"
+type: "towns"
 slug: "swayzee-in"
-town: "Swayzee"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 2792
+state: "in"
+town_data: "swayzee-in"
 ---

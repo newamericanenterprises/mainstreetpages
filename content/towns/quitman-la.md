@@ -1,9 +1,7 @@
 ---
-title: "Quitman, Louisiana Business Directory"
+title: "Quitman, LA Business Directory"
+type: "towns"
 slug: "quitman-la"
-town: "Quitman"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 1637
+state: "la"
+town_data: "quitman-la"
 ---

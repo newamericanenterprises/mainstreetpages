@@ -1,9 +1,7 @@
 ---
-title: "Johnson, Kansas Business Directory"
+title: "Johnson, KS Business Directory"
+type: "towns"
 slug: "johnson-ks"
-town: "Johnson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stanton"
-population: 1155
+state: "ks"
+town_data: "johnson-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Crane, Missouri Business Directory"
+title: "Crane, MO Business Directory"
+type: "towns"
 slug: "crane-mo"
-state: "MO"
-county: "Stone"
-population: 1500
+state: "mo"
+town_data: "crane-mo"
 ---

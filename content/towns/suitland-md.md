@@ -1,9 +1,7 @@
 ---
-title: "Suitland, Maryland Business Directory"
+title: "Suitland, MD Business Directory"
+type: "towns"
 slug: "suitland-md"
-town: "Suitland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2617
+state: "md"
+town_data: "suitland-md"
 ---

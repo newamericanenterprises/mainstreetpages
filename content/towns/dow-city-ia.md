@@ -1,9 +1,7 @@
 ---
-title: "Dow City, Iowa Business Directory"
+title: "Dow City, IA Business Directory"
+type: "towns"
 slug: "dow-city-ia"
-town: "Dow City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 687
+state: "ia"
+town_data: "dow-city-ia"
 ---

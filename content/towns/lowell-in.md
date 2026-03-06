@@ -1,9 +1,7 @@
 ---
-title: "Lowell, Indiana Business Directory"
+title: "Lowell, IN Business Directory"
+type: "towns"
 slug: "lowell-in"
-town: "Lowell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 10008
+state: "in"
+town_data: "lowell-in"
 ---

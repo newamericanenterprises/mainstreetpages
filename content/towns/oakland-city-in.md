@@ -1,9 +1,7 @@
 ---
-title: "Oakland City, Indiana Business Directory"
+title: "Oakland City, IN Business Directory"
+type: "towns"
 slug: "oakland-city-in"
-town: "Oakland City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 2122
+state: "in"
+town_data: "oakland-city-in"
 ---

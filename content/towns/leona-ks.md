@@ -1,9 +1,7 @@
 ---
-title: "Leona, Kansas Business Directory"
+title: "Leona, KS Business Directory"
+type: "towns"
 slug: "leona-ks"
-town: "Leona"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 465
+state: "ks"
+town_data: "leona-ks"
 ---

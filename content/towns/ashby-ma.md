@@ -1,9 +1,7 @@
 ---
-title: "Ashby, Massachusetts Business Directory"
+title: "Ashby, MA Business Directory"
+type: "towns"
 slug: "ashby-ma"
-town: "Ashby"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 7428
+state: "ma"
+town_data: "ashby-ma"
 ---

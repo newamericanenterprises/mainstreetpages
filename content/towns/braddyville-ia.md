@@ -1,9 +1,7 @@
 ---
-title: "Braddyville, Iowa Business Directory"
+title: "Braddyville, IA Business Directory"
+type: "towns"
 slug: "braddyville-ia"
-town: "Braddyville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 3173
+state: "ia"
+town_data: "braddyville-ia"
 ---

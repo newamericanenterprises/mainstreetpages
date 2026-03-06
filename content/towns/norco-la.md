@@ -1,9 +1,7 @@
 ---
-title: "Norco, Louisiana Business Directory"
+title: "Norco, LA Business Directory"
+type: "towns"
 slug: "norco-la"
-town: "Norco"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 1750
+state: "la"
+town_data: "norco-la"
 ---

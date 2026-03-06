@@ -1,7 +1,7 @@
 ---
-title: "Webster Groves, Missouri Business Directory"
+title: "Webster Groves, MO Business Directory"
+type: "towns"
 slug: "webster-groves-mo"
-state: "MO"
-county: "St. Louis"
-population: 23390
+state: "mo"
+town_data: "webster-groves-mo"
 ---

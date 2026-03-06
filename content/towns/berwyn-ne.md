@@ -1,7 +1,7 @@
 ---
-title: "Berwyn, Nebraska Business Directory"
+title: "Berwyn, NE Business Directory"
+type: "towns"
 slug: "berwyn-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "berwyn-ne"
 ---

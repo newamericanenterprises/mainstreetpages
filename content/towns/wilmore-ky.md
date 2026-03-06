@@ -1,9 +1,7 @@
 ---
-title: "Wilmore, Kentucky Business Directory"
+title: "Wilmore, KY Business Directory"
+type: "towns"
 slug: "wilmore-ky"
-town: "Wilmore"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jessamine"
-population: 1677
+state: "ky"
+town_data: "wilmore-ky"
 ---

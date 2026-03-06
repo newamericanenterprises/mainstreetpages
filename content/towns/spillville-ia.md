@@ -1,9 +1,7 @@
 ---
-title: "Spillville, Iowa Business Directory"
+title: "Spillville, IA Business Directory"
+type: "towns"
 slug: "spillville-ia"
-town: "Spillville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 1803
+state: "ia"
+town_data: "spillville-ia"
 ---

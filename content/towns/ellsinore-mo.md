@@ -1,7 +1,7 @@
 ---
-title: "Ellsinore, Missouri Business Directory"
+title: "Ellsinore, MO Business Directory"
+type: "towns"
 slug: "ellsinore-mo"
-state: "MO"
-county: "Carter"
-population: 1500
+state: "mo"
+town_data: "ellsinore-mo"
 ---

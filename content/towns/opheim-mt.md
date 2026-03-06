@@ -1,7 +1,7 @@
 ---
-title: "Opheim, Montana Business Directory"
+title: "Opheim, MT Business Directory"
+type: "towns"
 slug: "opheim-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "opheim-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Metamora, Michigan Business Directory"
+title: "Metamora, MI Business Directory"
+type: "towns"
 slug: "metamora-mi"
-town: "Metamora"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 2874
+state: "mi"
+town_data: "metamora-mi"
 ---

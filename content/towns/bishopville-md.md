@@ -1,9 +1,7 @@
 ---
-title: "Bishopville, Maryland Business Directory"
+title: "Bishopville, MD Business Directory"
+type: "towns"
 slug: "bishopville-md"
-town: "Bishopville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 4469
+state: "md"
+town_data: "bishopville-md"
 ---

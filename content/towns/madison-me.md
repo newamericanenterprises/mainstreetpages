@@ -1,9 +1,7 @@
 ---
-title: "Madison, Maine Business Directory"
+title: "Madison, ME Business Directory"
+type: "towns"
 slug: "madison-me"
-town: "Madison"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 4855
+state: "me"
+town_data: "madison-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mandeville, Missouri Business Directory"
+title: "Mandeville, MO Business Directory"
+type: "towns"
 slug: "mandeville-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "mandeville-mo"
 ---

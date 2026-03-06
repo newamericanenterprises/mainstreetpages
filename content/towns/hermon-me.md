@@ -1,9 +1,7 @@
 ---
-title: "Hermon, Maine Business Directory"
+title: "Hermon, ME Business Directory"
+type: "towns"
 slug: "hermon-me"
-town: "Hermon"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 5977
+state: "me"
+town_data: "hermon-me"
 ---

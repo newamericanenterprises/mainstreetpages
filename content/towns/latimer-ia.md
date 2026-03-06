@@ -1,9 +1,7 @@
 ---
-title: "Latimer, Iowa Business Directory"
+title: "Latimer, IA Business Directory"
+type: "towns"
 slug: "latimer-ia"
-town: "Latimer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 1932
+state: "ia"
+town_data: "latimer-ia"
 ---

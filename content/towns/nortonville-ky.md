@@ -1,9 +1,7 @@
 ---
-title: "Nortonville, Kentucky Business Directory"
+title: "Nortonville, KY Business Directory"
+type: "towns"
 slug: "nortonville-ky"
-town: "Nortonville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 2282
+state: "ky"
+town_data: "nortonville-ky"
 ---

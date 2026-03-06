@@ -1,9 +1,7 @@
 ---
-title: "Methuen, Massachusetts Business Directory"
+title: "Methuen, MA Business Directory"
+type: "towns"
 slug: "methuen-ma"
-town: "Methuen"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 51639
+state: "ma"
+town_data: "methuen-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kandiyohi, Minnesota Business Directory"
+title: "Kandiyohi, MN Business Directory"
+type: "towns"
 slug: "kandiyohi-mn"
-town: "Kandiyohi"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1645
+state: "mn"
+town_data: "kandiyohi-mn"
 ---

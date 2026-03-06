@@ -1,9 +1,7 @@
 ---
-title: "Stacy, Minnesota Business Directory"
+title: "Stacy, MN Business Directory"
+type: "towns"
 slug: "stacy-mn"
-town: "Stacy"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 1067
+state: "mn"
+town_data: "stacy-mn"
 ---

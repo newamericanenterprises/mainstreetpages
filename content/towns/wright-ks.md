@@ -1,9 +1,7 @@
 ---
-title: "Wright, Kansas Business Directory"
+title: "Wright, KS Business Directory"
+type: "towns"
 slug: "wright-ks"
-town: "Wright"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ford"
-population: 2859
+state: "ks"
+town_data: "wright-ks"
 ---

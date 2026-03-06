@@ -1,7 +1,7 @@
 ---
-title: "Leopold, Missouri Business Directory"
+title: "Leopold, MO Business Directory"
+type: "towns"
 slug: "leopold-mo"
-state: "MO"
-county: "Bollinger"
-population: 1500
+state: "mo"
+town_data: "leopold-mo"
 ---

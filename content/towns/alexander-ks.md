@@ -1,9 +1,7 @@
 ---
-title: "Alexander, Kansas Business Directory"
+title: "Alexander, KS Business Directory"
+type: "towns"
 slug: "alexander-ks"
-town: "Alexander"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 2139
+state: "ks"
+town_data: "alexander-ks"
 ---

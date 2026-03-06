@@ -1,7 +1,7 @@
 ---
-title: "Stratton, Nebraska Business Directory"
+title: "Stratton, NE Business Directory"
+type: "towns"
 slug: "stratton-ne"
-state: "NE"
-county: "Hitchcock"
-population: 500
+state: "ne"
+town_data: "stratton-ne"
 ---

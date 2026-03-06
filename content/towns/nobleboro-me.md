@@ -1,9 +1,7 @@
 ---
-title: "Nobleboro, Maine Business Directory"
+title: "Nobleboro, ME Business Directory"
+type: "towns"
 slug: "nobleboro-me"
-town: "Nobleboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2395
+state: "me"
+town_data: "nobleboro-me"
 ---

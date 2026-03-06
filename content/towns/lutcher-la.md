@@ -1,9 +1,7 @@
 ---
-title: "Lutcher, Louisiana Business Directory"
+title: "Lutcher, LA Business Directory"
+type: "towns"
 slug: "lutcher-la"
-town: "Lutcher"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 1821
+state: "la"
+town_data: "lutcher-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Pleasant Hope, Missouri Business Directory"
+title: "Pleasant Hope, MO Business Directory"
+type: "towns"
 slug: "pleasant-hope-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "pleasant-hope-mo"
 ---

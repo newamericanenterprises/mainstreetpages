@@ -1,9 +1,7 @@
 ---
-title: "Orion, Michigan Business Directory"
+title: "Orion, MI Business Directory"
+type: "towns"
 slug: "orion-mi"
-town: "Orion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 1547
+state: "mi"
+town_data: "orion-mi"
 ---

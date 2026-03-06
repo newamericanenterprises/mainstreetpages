@@ -1,9 +1,7 @@
 ---
-title: "Fennville, Michigan Business Directory"
+title: "Fennville, MI Business Directory"
+type: "towns"
 slug: "fennville-mi"
-town: "Fennville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 2547
+state: "mi"
+town_data: "fennville-mi"
 ---

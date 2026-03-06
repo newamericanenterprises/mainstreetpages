@@ -1,9 +1,7 @@
 ---
-title: "Deville, Louisiana Business Directory"
+title: "Deville, LA Business Directory"
+type: "towns"
 slug: "deville-la"
-town: "Deville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 1136
+state: "la"
+town_data: "deville-la"
 ---

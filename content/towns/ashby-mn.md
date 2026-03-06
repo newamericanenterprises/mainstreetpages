@@ -1,9 +1,7 @@
 ---
-title: "Ashby, Minnesota Business Directory"
+title: "Ashby, MN Business Directory"
+type: "towns"
 slug: "ashby-mn"
-town: "Ashby"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 1355
+state: "mn"
+town_data: "ashby-mn"
 ---

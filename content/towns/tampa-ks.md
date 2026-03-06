@@ -1,9 +1,7 @@
 ---
-title: "Tampa, Kansas Business Directory"
+title: "Tampa, KS Business Directory"
+type: "towns"
 slug: "tampa-ks"
-town: "Tampa"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 1085
+state: "ks"
+town_data: "tampa-ks"
 ---

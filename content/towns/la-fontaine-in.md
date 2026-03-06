@@ -1,9 +1,7 @@
 ---
-title: "La Fontaine, Indiana Business Directory"
+title: "La Fontaine, IN Business Directory"
+type: "towns"
 slug: "la-fontaine-in"
-town: "La Fontaine"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 2343
+state: "in"
+town_data: "la-fontaine-in"
 ---

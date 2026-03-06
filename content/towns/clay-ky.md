@@ -1,9 +1,7 @@
 ---
-title: "Clay, Kentucky Business Directory"
+title: "Clay, KY Business Directory"
+type: "towns"
 slug: "clay-ky"
-town: "Clay"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Webster"
-population: 1064
+state: "ky"
+town_data: "clay-ky"
 ---

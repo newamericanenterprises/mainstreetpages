@@ -1,9 +1,7 @@
 ---
-title: "State Center, Iowa Business Directory"
+title: "State Center, IA Business Directory"
+type: "towns"
 slug: "state-center-ia"
-town: "State Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1719
+state: "ia"
+town_data: "state-center-ia"
 ---

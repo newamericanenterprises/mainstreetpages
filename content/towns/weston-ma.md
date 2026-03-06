@@ -1,9 +1,7 @@
 ---
-title: "Weston, Massachusetts Business Directory"
+title: "Weston, MA Business Directory"
+type: "towns"
 slug: "weston-ma"
-town: "Weston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 8176
+state: "ma"
+town_data: "weston-ma"
 ---

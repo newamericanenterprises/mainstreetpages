@@ -1,9 +1,7 @@
 ---
-title: "Port Barre, Louisiana Business Directory"
+title: "Port Barre, LA Business Directory"
+type: "towns"
 slug: "port-barre-la"
-town: "Port Barre"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 2589
+state: "la"
+town_data: "port-barre-la"
 ---

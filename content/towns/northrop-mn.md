@@ -1,9 +1,7 @@
 ---
-title: "Northrop, Minnesota Business Directory"
+title: "Northrop, MN Business Directory"
+type: "towns"
 slug: "northrop-mn"
-town: "Northrop"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 1682
+state: "mn"
+town_data: "northrop-mn"
 ---

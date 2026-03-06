@@ -1,9 +1,7 @@
 ---
-title: "Houghton, Iowa Business Directory"
+title: "Houghton, IA Business Directory"
+type: "towns"
 slug: "houghton-ia"
-town: "Houghton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 971
+state: "ia"
+town_data: "houghton-ia"
 ---

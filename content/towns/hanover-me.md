@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Maine Business Directory"
+title: "Hanover, ME Business Directory"
+type: "towns"
 slug: "hanover-me"
-town: "Hanover"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 1689
+state: "me"
+town_data: "hanover-me"
 ---

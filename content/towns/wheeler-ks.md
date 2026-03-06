@@ -1,9 +1,7 @@
 ---
-title: "Wheeler, Kansas Business Directory"
+title: "Wheeler, KS Business Directory"
+type: "towns"
 slug: "wheeler-ks"
-town: "Wheeler"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cheyenne"
-population: 1406
+state: "ks"
+town_data: "wheeler-ks"
 ---

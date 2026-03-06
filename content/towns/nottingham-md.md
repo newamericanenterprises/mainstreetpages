@@ -1,9 +1,7 @@
 ---
-title: "Nottingham, Maryland Business Directory"
+title: "Nottingham, MD Business Directory"
+type: "towns"
 slug: "nottingham-md"
-town: "Nottingham"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 3550
+state: "md"
+town_data: "nottingham-md"
 ---

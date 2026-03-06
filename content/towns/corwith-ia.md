@@ -1,9 +1,7 @@
 ---
-title: "Corwith, Iowa Business Directory"
+title: "Corwith, IA Business Directory"
+type: "towns"
 slug: "corwith-ia"
-town: "Corwith"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 3220
+state: "ia"
+town_data: "corwith-ia"
 ---

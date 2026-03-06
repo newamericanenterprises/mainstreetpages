@@ -1,7 +1,7 @@
 ---
-title: "Albany, Missouri Business Directory"
+title: "Albany, MO Business Directory"
+type: "towns"
 slug: "albany-mo"
-state: "MO"
-county: "Gentry"
-population: 1730
+state: "mo"
+town_data: "albany-mo"
 ---

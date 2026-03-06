@@ -1,9 +1,7 @@
 ---
-title: "Sandy Hook, Kentucky Business Directory"
+title: "Sandy Hook, KY Business Directory"
+type: "towns"
 slug: "sandy-hook-ky"
-town: "Sandy Hook"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Elliott"
-population: 546
+state: "ky"
+town_data: "sandy-hook-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Michigan Business Directory"
+title: "Franklin, MI Business Directory"
+type: "towns"
 slug: "franklin-mi"
-town: "Franklin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2466
+state: "mi"
+town_data: "franklin-mi"
 ---

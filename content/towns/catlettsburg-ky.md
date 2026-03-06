@@ -1,9 +1,7 @@
 ---
-title: "Catlettsburg, Kentucky Business Directory"
+title: "Catlettsburg, KY Business Directory"
+type: "towns"
 slug: "catlettsburg-ky"
-town: "Catlettsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyd"
-population: 1383
+state: "ky"
+town_data: "catlettsburg-ky"
 ---

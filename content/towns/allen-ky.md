@@ -1,9 +1,7 @@
 ---
-title: "Allen, Kentucky Business Directory"
+title: "Allen, KY Business Directory"
+type: "towns"
 slug: "allen-ky"
-town: "Allen"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Floyd"
-population: 2523
+state: "ky"
+town_data: "allen-ky"
 ---

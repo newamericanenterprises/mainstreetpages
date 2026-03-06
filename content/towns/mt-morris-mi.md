@@ -1,9 +1,7 @@
 ---
-title: "Mt. Morris, Michigan Business Directory"
+title: "Mt. Morris, MI Business Directory"
+type: "towns"
 slug: "mt-morris-mi"
-town: "Mt. Morris"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 5043
+state: "mi"
+town_data: "mt-morris-mi"
 ---

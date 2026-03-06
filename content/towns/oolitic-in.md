@@ -1,9 +1,7 @@
 ---
-title: "Oolitic, Indiana Business Directory"
+title: "Oolitic, IN Business Directory"
+type: "towns"
 slug: "oolitic-in"
-town: "Oolitic"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lawrence"
-population: 4710
+state: "in"
+town_data: "oolitic-in"
 ---

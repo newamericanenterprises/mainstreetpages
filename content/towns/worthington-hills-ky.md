@@ -1,9 +1,7 @@
 ---
-title: "Worthington Hills, Kentucky Business Directory"
+title: "Worthington Hills, KY Business Directory"
+type: "towns"
 slug: "worthington-hills-ky"
-town: "Worthington Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 2829
+state: "ky"
+town_data: "worthington-hills-ky"
 ---

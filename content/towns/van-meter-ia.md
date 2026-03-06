@@ -1,9 +1,7 @@
 ---
-title: "Van Meter, Iowa Business Directory"
+title: "Van Meter, IA Business Directory"
+type: "towns"
 slug: "van-meter-ia"
-town: "Van Meter"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 1090
+state: "ia"
+town_data: "van-meter-ia"
 ---

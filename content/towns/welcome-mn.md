@@ -1,9 +1,7 @@
 ---
-title: "Welcome, Minnesota Business Directory"
+title: "Welcome, MN Business Directory"
+type: "towns"
 slug: "welcome-mn"
-town: "Welcome"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 2525
+state: "mn"
+town_data: "welcome-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Butte, Nebraska Business Directory"
+title: "Butte, NE Business Directory"
+type: "towns"
 slug: "butte-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "butte-ne"
 ---

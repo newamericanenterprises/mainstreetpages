@@ -1,9 +1,7 @@
 ---
-title: "Orchard Lake Village, Michigan Business Directory"
+title: "Orchard Lake Village, MI Business Directory"
+type: "towns"
 slug: "orchard-lake-village-mi"
-town: "Orchard Lake Village"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4848
+state: "mi"
+town_data: "orchard-lake-village-mi"
 ---

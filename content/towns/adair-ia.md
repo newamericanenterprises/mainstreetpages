@@ -1,9 +1,7 @@
 ---
-title: "Adair, Iowa Business Directory"
+title: "Adair, IA Business Directory"
+type: "towns"
 slug: "adair-ia"
-town: "Adair"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 2487
+state: "ia"
+town_data: "adair-ia"
 ---

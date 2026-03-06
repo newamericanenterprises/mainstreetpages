@@ -1,7 +1,7 @@
 ---
-title: "Kidder, Missouri Business Directory"
+title: "Kidder, MO Business Directory"
+type: "towns"
 slug: "kidder-mo"
-state: "MO"
-county: "Caldwell"
-population: 1500
+state: "mo"
+town_data: "kidder-mo"
 ---

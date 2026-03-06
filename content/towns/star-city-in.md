@@ -1,9 +1,7 @@
 ---
-title: "Star City, Indiana Business Directory"
+title: "Star City, IN Business Directory"
+type: "towns"
 slug: "star-city-in"
-town: "Star City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pulaski"
-population: 3963
+state: "in"
+town_data: "star-city-in"
 ---

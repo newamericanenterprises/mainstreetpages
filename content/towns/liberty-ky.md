@@ -1,9 +1,7 @@
 ---
-title: "Liberty, Kentucky Business Directory"
+title: "Liberty, KY Business Directory"
+type: "towns"
 slug: "liberty-ky"
-town: "Liberty"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Casey"
-population: 1916
+state: "ky"
+town_data: "liberty-ky"
 ---

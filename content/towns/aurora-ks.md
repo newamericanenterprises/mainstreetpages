@@ -1,9 +1,7 @@
 ---
-title: "Aurora, Kansas Business Directory"
+title: "Aurora, KS Business Directory"
+type: "towns"
 slug: "aurora-ks"
-town: "Aurora"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 2242
+state: "ks"
+town_data: "aurora-ks"
 ---

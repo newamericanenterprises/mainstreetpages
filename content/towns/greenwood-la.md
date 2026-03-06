@@ -1,9 +1,7 @@
 ---
-title: "Greenwood, Louisiana Business Directory"
+title: "Greenwood, LA Business Directory"
+type: "towns"
 slug: "greenwood-la"
-town: "Greenwood"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 1267
+state: "la"
+town_data: "greenwood-la"
 ---

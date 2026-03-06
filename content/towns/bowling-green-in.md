@@ -1,9 +1,7 @@
 ---
-title: "Bowling Green, Indiana Business Directory"
+title: "Bowling Green, IN Business Directory"
+type: "towns"
 slug: "bowling-green-in"
-town: "Bowling Green"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 4945
+state: "in"
+town_data: "bowling-green-in"
 ---

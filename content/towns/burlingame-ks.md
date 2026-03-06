@@ -1,9 +1,7 @@
 ---
-title: "Burlingame, Kansas Business Directory"
+title: "Burlingame, KS Business Directory"
+type: "towns"
 slug: "burlingame-ks"
-town: "Burlingame"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 3078
+state: "ks"
+town_data: "burlingame-ks"
 ---

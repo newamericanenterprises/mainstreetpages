@@ -1,9 +1,7 @@
 ---
-title: "Maxwell, Iowa Business Directory"
+title: "Maxwell, IA Business Directory"
+type: "towns"
 slug: "maxwell-ia"
-town: "Maxwell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 1424
+state: "ia"
+town_data: "maxwell-ia"
 ---

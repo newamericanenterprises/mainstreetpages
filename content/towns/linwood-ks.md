@@ -1,9 +1,7 @@
 ---
-title: "Linwood, Kansas Business Directory"
+title: "Linwood, KS Business Directory"
+type: "towns"
 slug: "linwood-ks"
-town: "Linwood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 1078
+state: "ks"
+town_data: "linwood-ks"
 ---

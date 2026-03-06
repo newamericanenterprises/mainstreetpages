@@ -1,7 +1,7 @@
 ---
-title: "Rimini, Montana Business Directory"
+title: "Rimini, MT Business Directory"
+type: "towns"
 slug: "rimini-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "rimini-mt"
 ---

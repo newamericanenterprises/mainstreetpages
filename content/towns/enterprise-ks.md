@@ -1,9 +1,7 @@
 ---
-title: "Enterprise, Kansas Business Directory"
+title: "Enterprise, KS Business Directory"
+type: "towns"
 slug: "enterprise-ks"
-town: "Enterprise"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 2416
+state: "ks"
+town_data: "enterprise-ks"
 ---

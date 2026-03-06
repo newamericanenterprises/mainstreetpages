@@ -1,9 +1,7 @@
 ---
-title: "Washington, Maine Business Directory"
+title: "Washington, ME Business Directory"
+type: "towns"
 slug: "washington-me"
-town: "Washington"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 1462
+state: "me"
+town_data: "washington-me"
 ---

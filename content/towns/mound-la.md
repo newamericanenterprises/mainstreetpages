@@ -1,9 +1,7 @@
 ---
-title: "Mound, Louisiana Business Directory"
+title: "Mound, LA Business Directory"
+type: "towns"
 slug: "mound-la"
-town: "Mound"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Madison"
-population: 341
+state: "la"
+town_data: "mound-la"
 ---

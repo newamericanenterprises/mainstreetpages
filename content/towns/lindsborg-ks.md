@@ -1,9 +1,7 @@
 ---
-title: "Lindsborg, Kansas Business Directory"
+title: "Lindsborg, KS Business Directory"
+type: "towns"
 slug: "lindsborg-ks"
-town: "Lindsborg"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 837
+state: "ks"
+town_data: "lindsborg-ks"
 ---

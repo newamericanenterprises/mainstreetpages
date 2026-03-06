@@ -1,9 +1,7 @@
 ---
-title: "Ahmeek, Michigan Business Directory"
+title: "Ahmeek, MI Business Directory"
+type: "towns"
 slug: "ahmeek-mi"
-town: "Ahmeek"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 2810
+state: "mi"
+town_data: "ahmeek-mi"
 ---

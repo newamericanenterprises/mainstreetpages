@@ -1,9 +1,7 @@
 ---
-title: "Haviland, Kansas Business Directory"
+title: "Haviland, KS Business Directory"
+type: "towns"
 slug: "haviland-ks"
-town: "Haviland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kiowa"
-population: 2211
+state: "ks"
+town_data: "haviland-ks"
 ---

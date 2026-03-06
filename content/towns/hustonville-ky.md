@@ -1,9 +1,7 @@
 ---
-title: "Hustonville, Kentucky Business Directory"
+title: "Hustonville, KY Business Directory"
+type: "towns"
 slug: "hustonville-ky"
-town: "Hustonville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lincoln"
-population: 725
+state: "ky"
+town_data: "hustonville-ky"
 ---

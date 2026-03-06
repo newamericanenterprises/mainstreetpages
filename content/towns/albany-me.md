@@ -1,9 +1,7 @@
 ---
-title: "Albany, Maine Business Directory"
+title: "Albany, ME Business Directory"
+type: "towns"
 slug: "albany-me"
-town: "Albany"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2596
+state: "me"
+town_data: "albany-me"
 ---

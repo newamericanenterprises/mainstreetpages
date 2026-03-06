@@ -1,7 +1,7 @@
 ---
-title: "Austin, Nevada Business Directory"
+title: "Austin, NV Business Directory"
+type: "towns"
 slug: "austin-nv"
-state: "NV"
-county: "Lander"
-population: 192
+state: "nv"
+town_data: "austin-nv"
 ---

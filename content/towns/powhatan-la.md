@@ -1,9 +1,7 @@
 ---
-title: "Powhatan, Louisiana Business Directory"
+title: "Powhatan, LA Business Directory"
+type: "towns"
 slug: "powhatan-la"
-town: "Powhatan"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 3098
+state: "la"
+town_data: "powhatan-la"
 ---

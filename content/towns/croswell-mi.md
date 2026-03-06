@@ -1,9 +1,7 @@
 ---
-title: "Croswell, Michigan Business Directory"
+title: "Croswell, MI Business Directory"
+type: "towns"
 slug: "croswell-mi"
-town: "Croswell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 1466
+state: "mi"
+town_data: "croswell-mi"
 ---

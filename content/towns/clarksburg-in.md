@@ -1,9 +1,7 @@
 ---
-title: "Clarksburg, Indiana Business Directory"
+title: "Clarksburg, IN Business Directory"
+type: "towns"
 slug: "clarksburg-in"
-town: "Clarksburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 775
+state: "in"
+town_data: "clarksburg-in"
 ---

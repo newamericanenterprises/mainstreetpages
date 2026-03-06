@@ -1,9 +1,7 @@
 ---
-title: "Galena, Indiana Business Directory"
+title: "Galena, IN Business Directory"
+type: "towns"
 slug: "galena-in"
-town: "Galena"
-state: "Indiana"
-state_abbr: "IN"
-county: "Floyd"
-population: 4519
+state: "in"
+town_data: "galena-in"
 ---

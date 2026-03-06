@@ -1,9 +1,7 @@
 ---
-title: "Newfolden, Minnesota Business Directory"
+title: "Newfolden, MN Business Directory"
+type: "towns"
 slug: "newfolden-mn"
-town: "Newfolden"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Marshall"
-population: 600
+state: "mn"
+town_data: "newfolden-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Goshen, Indiana Business Directory"
+title: "Goshen, IN Business Directory"
+type: "towns"
 slug: "goshen-in"
-town: "Goshen"
-state: "Indiana"
-state_abbr: "IN"
-county: "Elkhart"
-population: 34517
+state: "in"
+town_data: "goshen-in"
 ---

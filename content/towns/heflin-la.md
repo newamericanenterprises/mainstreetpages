@@ -1,9 +1,7 @@
 ---
-title: "Heflin, Louisiana Business Directory"
+title: "Heflin, LA Business Directory"
+type: "towns"
 slug: "heflin-la"
-town: "Heflin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 2044
+state: "la"
+town_data: "heflin-la"
 ---

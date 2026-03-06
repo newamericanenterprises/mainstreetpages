@@ -1,7 +1,7 @@
 ---
-title: "Pendroy, Montana Business Directory"
+title: "Pendroy, MT Business Directory"
+type: "towns"
 slug: "pendroy-mt"
-state: "MT"
-county: "Teton"
-population: 500
+state: "mt"
+town_data: "pendroy-mt"
 ---

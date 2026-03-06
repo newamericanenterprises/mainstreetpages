@@ -1,9 +1,7 @@
 ---
-title: "Colrain, Massachusetts Business Directory"
+title: "Colrain, MA Business Directory"
+type: "towns"
 slug: "colrain-ma"
-town: "Colrain"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 7553
+state: "ma"
+town_data: "colrain-ma"
 ---

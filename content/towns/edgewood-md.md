@@ -1,9 +1,7 @@
 ---
-title: "Edgewood, Maryland Business Directory"
+title: "Edgewood, MD Business Directory"
+type: "towns"
 slug: "edgewood-md"
-town: "Edgewood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 3594
+state: "md"
+town_data: "edgewood-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Morgan City, Mississippi Business Directory"
+title: "Morgan City, MS Business Directory"
+type: "towns"
 slug: "morgan-city-ms"
-state: "MS"
-county: "Leflore"
-population: 235
+state: "ms"
+town_data: "morgan-city-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Carlisle, Kentucky Business Directory"
+title: "Carlisle, KY Business Directory"
+type: "towns"
 slug: "carlisle-ky"
-town: "Carlisle"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Nicholas"
-population: 1869
+state: "ky"
+town_data: "carlisle-ky"
 ---

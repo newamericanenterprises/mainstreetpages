@@ -1,9 +1,7 @@
 ---
-title: "Uniontown, Kentucky Business Directory"
+title: "Uniontown, KY Business Directory"
+type: "towns"
 slug: "uniontown-ky"
-town: "Uniontown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Union"
-population: 955
+state: "ky"
+town_data: "uniontown-ky"
 ---

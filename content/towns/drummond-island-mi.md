@@ -1,9 +1,7 @@
 ---
-title: "Drummond Island, Michigan Business Directory"
+title: "Drummond Island, MI Business Directory"
+type: "towns"
 slug: "drummond-island-mi"
-town: "Drummond Island"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 3985
+state: "mi"
+town_data: "drummond-island-mi"
 ---

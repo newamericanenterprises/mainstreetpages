@@ -1,7 +1,7 @@
 ---
-title: "Vanduser, Missouri Business Directory"
+title: "Vanduser, MO Business Directory"
+type: "towns"
 slug: "vanduser-mo"
-state: "MO"
-county: "Scott"
-population: 1500
+state: "mo"
+town_data: "vanduser-mo"
 ---

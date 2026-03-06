@@ -1,9 +1,7 @@
 ---
-title: "Lynnville, Iowa Business Directory"
+title: "Lynnville, IA Business Directory"
+type: "towns"
 slug: "lynnville-ia"
-town: "Lynnville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1593
+state: "ia"
+town_data: "lynnville-ia"
 ---

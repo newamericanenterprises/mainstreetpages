@@ -1,7 +1,7 @@
 ---
-title: "Seymour, Missouri Business Directory"
+title: "Seymour, MO Business Directory"
+type: "towns"
 slug: "seymour-mo"
-state: "MO"
-county: "Webster"
-population: 1500
+state: "mo"
+town_data: "seymour-mo"
 ---

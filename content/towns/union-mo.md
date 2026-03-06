@@ -1,7 +1,7 @@
 ---
-title: "Union, Missouri Business Directory"
+title: "Union, MO Business Directory"
+type: "towns"
 slug: "union-mo"
-state: "MO"
-county: "Franklin"
-population: 11997
+state: "mo"
+town_data: "union-mo"
 ---

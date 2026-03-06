@@ -1,9 +1,7 @@
 ---
-title: "Ellsworth, Minnesota Business Directory"
+title: "Ellsworth, MN Business Directory"
+type: "towns"
 slug: "ellsworth-mn"
-town: "Ellsworth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 2558
+state: "mn"
+town_data: "ellsworth-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Maitland, Missouri Business Directory"
+title: "Maitland, MO Business Directory"
+type: "towns"
 slug: "maitland-mo"
-state: "MO"
-county: "Holt"
-population: 1500
+state: "mo"
+town_data: "maitland-mo"
 ---

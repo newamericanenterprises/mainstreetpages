@@ -1,9 +1,7 @@
 ---
-title: "Riley, Indiana Business Directory"
+title: "Riley, IN Business Directory"
+type: "towns"
 slug: "riley-in"
-town: "Riley"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vigo"
-population: 874
+state: "in"
+town_data: "riley-in"
 ---

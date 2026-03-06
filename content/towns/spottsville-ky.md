@@ -1,9 +1,7 @@
 ---
-title: "Spottsville, Kentucky Business Directory"
+title: "Spottsville, KY Business Directory"
+type: "towns"
 slug: "spottsville-ky"
-town: "Spottsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henderson"
-population: 1802
+state: "ky"
+town_data: "spottsville-ky"
 ---

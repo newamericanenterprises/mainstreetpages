@@ -1,7 +1,7 @@
 ---
-title: "Maryville, Missouri Business Directory"
+title: "Maryville, MO Business Directory"
+type: "towns"
 slug: "maryville-mo"
-state: "MO"
-county: "Nodaway"
-population: 11972
+state: "mo"
+town_data: "maryville-mo"
 ---

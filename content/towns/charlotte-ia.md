@@ -1,9 +1,7 @@
 ---
-title: "Charlotte, Iowa Business Directory"
+title: "Charlotte, IA Business Directory"
+type: "towns"
 slug: "charlotte-ia"
-town: "Charlotte"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 2864
+state: "ia"
+town_data: "charlotte-ia"
 ---

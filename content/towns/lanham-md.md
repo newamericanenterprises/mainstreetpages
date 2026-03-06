@@ -1,9 +1,7 @@
 ---
-title: "Lanham, Maryland Business Directory"
+title: "Lanham, MD Business Directory"
+type: "towns"
 slug: "lanham-md"
-town: "Lanham"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 590
+state: "md"
+town_data: "lanham-md"
 ---

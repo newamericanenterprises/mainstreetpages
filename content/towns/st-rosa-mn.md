@@ -1,9 +1,7 @@
 ---
-title: "St. Rosa, Minnesota Business Directory"
+title: "St. Rosa, MN Business Directory"
+type: "towns"
 slug: "st-rosa-mn"
-town: "St. Rosa"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 617
+state: "mn"
+town_data: "st-rosa-mn"
 ---

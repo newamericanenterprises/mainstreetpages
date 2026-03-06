@@ -1,9 +1,7 @@
 ---
-title: "Hillview, Kentucky Business Directory"
+title: "Hillview, KY Business Directory"
+type: "towns"
 slug: "hillview-ky"
-town: "Hillview"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bullitt"
-population: 823
+state: "ky"
+town_data: "hillview-ky"
 ---

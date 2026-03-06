@@ -1,9 +1,7 @@
 ---
-title: "Deal Island, Maryland Business Directory"
+title: "Deal Island, MD Business Directory"
+type: "towns"
 slug: "deal-island-md"
-town: "Deal Island"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 2079
+state: "md"
+town_data: "deal-island-md"
 ---

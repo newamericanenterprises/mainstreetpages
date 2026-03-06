@@ -1,9 +1,7 @@
 ---
-title: "Granger, Indiana Business Directory"
+title: "Granger, IN Business Directory"
+type: "towns"
 slug: "granger-in"
-town: "Granger"
-state: "Indiana"
-state_abbr: "IN"
-county: "St. Joseph"
-population: 30620
+state: "in"
+town_data: "granger-in"
 ---

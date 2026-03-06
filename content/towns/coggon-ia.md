@@ -1,9 +1,7 @@
 ---
-title: "Coggon, Iowa Business Directory"
+title: "Coggon, IA Business Directory"
+type: "towns"
 slug: "coggon-ia"
-town: "Coggon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 1508
+state: "ia"
+town_data: "coggon-ia"
 ---

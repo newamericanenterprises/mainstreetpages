@@ -1,9 +1,7 @@
 ---
-title: "Edwardsville, Kansas Business Directory"
+title: "Edwardsville, KS Business Directory"
+type: "towns"
 slug: "edwardsville-ks"
-town: "Edwardsville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wyandotte"
-population: 2385
+state: "ks"
+town_data: "edwardsville-ks"
 ---

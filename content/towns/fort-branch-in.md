@@ -1,9 +1,7 @@
 ---
-title: "Fort Branch, Indiana Business Directory"
+title: "Fort Branch, IN Business Directory"
+type: "towns"
 slug: "fort-branch-in"
-town: "Fort Branch"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 3911
+state: "in"
+town_data: "fort-branch-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Vandalia, Missouri Business Directory"
+title: "Vandalia, MO Business Directory"
+type: "towns"
 slug: "vandalia-mo"
-state: "MO"
-county: "Audrain"
-population: 1500
+state: "mo"
+town_data: "vandalia-mo"
 ---

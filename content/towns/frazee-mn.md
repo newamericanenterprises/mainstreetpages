@@ -1,9 +1,7 @@
 ---
-title: "Frazee, Minnesota Business Directory"
+title: "Frazee, MN Business Directory"
+type: "towns"
 slug: "frazee-mn"
-town: "Frazee"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 2811
+state: "mn"
+town_data: "frazee-mn"
 ---

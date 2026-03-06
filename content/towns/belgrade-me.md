@@ -1,9 +1,7 @@
 ---
-title: "Belgrade, Maine Business Directory"
+title: "Belgrade, ME Business Directory"
+type: "towns"
 slug: "belgrade-me"
-town: "Belgrade"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1882
+state: "me"
+town_data: "belgrade-me"
 ---

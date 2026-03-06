@@ -1,9 +1,7 @@
 ---
-title: "Hadley, Massachusetts Business Directory"
+title: "Hadley, MA Business Directory"
+type: "towns"
 slug: "hadley-ma"
-town: "Hadley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 3831
+state: "ma"
+town_data: "hadley-ma"
 ---

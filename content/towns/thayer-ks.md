@@ -1,9 +1,7 @@
 ---
-title: "Thayer, Kansas Business Directory"
+title: "Thayer, KS Business Directory"
+type: "towns"
 slug: "thayer-ks"
-town: "Thayer"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 2063
+state: "ks"
+town_data: "thayer-ks"
 ---

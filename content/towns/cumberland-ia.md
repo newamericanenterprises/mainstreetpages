@@ -1,9 +1,7 @@
 ---
-title: "Cumberland, Iowa Business Directory"
+title: "Cumberland, IA Business Directory"
+type: "towns"
 slug: "cumberland-ia"
-town: "Cumberland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 2123
+state: "ia"
+town_data: "cumberland-ia"
 ---

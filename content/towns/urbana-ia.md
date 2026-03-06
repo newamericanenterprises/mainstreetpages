@@ -1,9 +1,7 @@
 ---
-title: "Urbana, Iowa Business Directory"
+title: "Urbana, IA Business Directory"
+type: "towns"
 slug: "urbana-ia"
-town: "Urbana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 3343
+state: "ia"
+town_data: "urbana-ia"
 ---

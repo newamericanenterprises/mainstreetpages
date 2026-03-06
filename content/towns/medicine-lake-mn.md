@@ -1,9 +1,7 @@
 ---
-title: "Medicine Lake, Minnesota Business Directory"
+title: "Medicine Lake, MN Business Directory"
+type: "towns"
 slug: "medicine-lake-mn"
-town: "Medicine Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2180
+state: "mn"
+town_data: "medicine-lake-mn"
 ---

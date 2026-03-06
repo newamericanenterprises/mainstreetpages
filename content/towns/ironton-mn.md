@@ -1,9 +1,7 @@
 ---
-title: "Ironton, Minnesota Business Directory"
+title: "Ironton, MN Business Directory"
+type: "towns"
 slug: "ironton-mn"
-town: "Ironton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1598
+state: "mn"
+town_data: "ironton-mn"
 ---

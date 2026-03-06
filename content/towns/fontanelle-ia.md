@@ -1,9 +1,7 @@
 ---
-title: "Fontanelle, Iowa Business Directory"
+title: "Fontanelle, IA Business Directory"
+type: "towns"
 slug: "fontanelle-ia"
-town: "Fontanelle"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 543
+state: "ia"
+town_data: "fontanelle-ia"
 ---

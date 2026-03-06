@@ -1,7 +1,7 @@
 ---
-title: "Johnstown, Nebraska Business Directory"
+title: "Johnstown, NE Business Directory"
+type: "towns"
 slug: "johnstown-ne"
-state: "NE"
-county: "Brown"
-population: 500
+state: "ne"
+town_data: "johnstown-ne"
 ---

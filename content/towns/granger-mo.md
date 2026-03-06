@@ -1,7 +1,7 @@
 ---
-title: "Granger, Missouri Business Directory"
+title: "Granger, MO Business Directory"
+type: "towns"
 slug: "granger-mo"
-state: "MO"
-county: "Scotland"
-population: 1500
+state: "mo"
+town_data: "granger-mo"
 ---

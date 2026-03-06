@@ -1,7 +1,7 @@
 ---
-title: "Walnut, Mississippi Business Directory"
+title: "Walnut, MS Business Directory"
+type: "towns"
 slug: "walnut-ms"
-state: "MS"
-county: "Tippah"
-population: 790
+state: "ms"
+town_data: "walnut-ms"
 ---

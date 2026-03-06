@@ -1,7 +1,7 @@
 ---
-title: "Sprague, Nebraska Business Directory"
+title: "Sprague, NE Business Directory"
+type: "towns"
 slug: "sprague-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "sprague-ne"
 ---

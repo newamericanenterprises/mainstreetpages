@@ -1,7 +1,7 @@
 ---
-title: "Stapleton, Nebraska Business Directory"
+title: "Stapleton, NE Business Directory"
+type: "towns"
 slug: "stapleton-ne"
-state: "NE"
-county: "Logan"
-population: 500
+state: "ne"
+town_data: "stapleton-ne"
 ---

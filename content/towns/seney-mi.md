@@ -1,9 +1,7 @@
 ---
-title: "Seney, Michigan Business Directory"
+title: "Seney, MI Business Directory"
+type: "towns"
 slug: "seney-mi"
-town: "Seney"
-state: "Michigan"
-state_abbr: "MI"
-county: "Schoolcraft"
-population: 2732
+state: "mi"
+town_data: "seney-mi"
 ---

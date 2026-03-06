@@ -1,9 +1,7 @@
 ---
-title: "Janesville, Minnesota Business Directory"
+title: "Janesville, MN Business Directory"
+type: "towns"
 slug: "janesville-mn"
-town: "Janesville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Waseca"
-population: 784
+state: "mn"
+town_data: "janesville-mn"
 ---

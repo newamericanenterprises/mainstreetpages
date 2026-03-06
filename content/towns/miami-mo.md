@@ -1,7 +1,7 @@
 ---
-title: "Miami, Missouri Business Directory"
+title: "Miami, MO Business Directory"
+type: "towns"
 slug: "miami-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "miami-mo"
 ---

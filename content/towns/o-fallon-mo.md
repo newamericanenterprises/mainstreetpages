@@ -1,7 +1,7 @@
 ---
-title: "O'Fallon, Missouri Business Directory"
+title: "O Fallon, MO Business Directory"
+type: "towns"
 slug: "o-fallon-mo"
-state: "MO"
-county: "St. Charles"
-population: 91316
+state: "mo"
+town_data: "o-fallon-mo"
 ---

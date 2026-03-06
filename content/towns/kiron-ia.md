@@ -1,9 +1,7 @@
 ---
-title: "Kiron, Iowa Business Directory"
+title: "Kiron, IA Business Directory"
+type: "towns"
 slug: "kiron-ia"
-town: "Kiron"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 2649
+state: "ia"
+town_data: "kiron-ia"
 ---

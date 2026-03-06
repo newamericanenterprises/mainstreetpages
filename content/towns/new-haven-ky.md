@@ -1,9 +1,7 @@
 ---
-title: "New Haven, Kentucky Business Directory"
+title: "New Haven, KY Business Directory"
+type: "towns"
 slug: "new-haven-ky"
-town: "New Haven"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Nelson"
-population: 465
+state: "ky"
+town_data: "new-haven-ky"
 ---

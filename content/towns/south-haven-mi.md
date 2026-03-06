@@ -1,9 +1,7 @@
 ---
-title: "South Haven, Michigan Business Directory"
+title: "South Haven, MI Business Directory"
+type: "towns"
 slug: "south-haven-mi"
-town: "South Haven"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 4294
+state: "mi"
+town_data: "south-haven-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dover, Massachusetts Business Directory"
+title: "Dover, MA Business Directory"
+type: "towns"
 slug: "dover-ma"
-town: "Dover"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 4117
+state: "ma"
+town_data: "dover-ma"
 ---

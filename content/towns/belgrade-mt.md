@@ -1,7 +1,7 @@
 ---
-title: "Belgrade, Montana Business Directory"
+title: "Belgrade, MT Business Directory"
+type: "towns"
 slug: "belgrade-mt"
-state: "MT"
-county: "Gallatin"
-population: 11370
+state: "mt"
+town_data: "belgrade-mt"
 ---

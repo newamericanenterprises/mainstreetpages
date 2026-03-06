@@ -1,9 +1,7 @@
 ---
-title: "Center Line, Michigan Business Directory"
+title: "Center Line, MI Business Directory"
+type: "towns"
 slug: "center-line-mi"
-town: "Center Line"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 1947
+state: "mi"
+town_data: "center-line-mi"
 ---

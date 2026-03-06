@@ -1,9 +1,7 @@
 ---
-title: "Hamilton, Indiana Business Directory"
+title: "Hamilton, IN Business Directory"
+type: "towns"
 slug: "hamilton-in"
-town: "Hamilton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 3392
+state: "in"
+town_data: "hamilton-in"
 ---

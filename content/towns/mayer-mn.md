@@ -1,9 +1,7 @@
 ---
-title: "Mayer, Minnesota Business Directory"
+title: "Mayer, MN Business Directory"
+type: "towns"
 slug: "mayer-mn"
-town: "Mayer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 3215
+state: "mn"
+town_data: "mayer-mn"
 ---

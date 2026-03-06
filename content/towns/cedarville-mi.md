@@ -1,9 +1,7 @@
 ---
-title: "Cedarville, Michigan Business Directory"
+title: "Cedarville, MI Business Directory"
+type: "towns"
 slug: "cedarville-mi"
-town: "Cedarville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 2175
+state: "mi"
+town_data: "cedarville-mi"
 ---

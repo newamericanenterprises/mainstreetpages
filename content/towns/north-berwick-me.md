@@ -1,9 +1,7 @@
 ---
-title: "North Berwick, Maine Business Directory"
+title: "North Berwick, ME Business Directory"
+type: "towns"
 slug: "north-berwick-me"
-town: "North Berwick"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2318
+state: "me"
+town_data: "north-berwick-me"
 ---

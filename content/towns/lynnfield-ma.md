@@ -1,9 +1,7 @@
 ---
-title: "Lynnfield, Massachusetts Business Directory"
+title: "Lynnfield, MA Business Directory"
+type: "towns"
 slug: "lynnfield-ma"
-town: "Lynnfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 2304
+state: "ma"
+town_data: "lynnfield-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gilbert, Iowa Business Directory"
+title: "Gilbert, IA Business Directory"
+type: "towns"
 slug: "gilbert-ia"
-town: "Gilbert"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 2817
+state: "ia"
+town_data: "gilbert-ia"
 ---

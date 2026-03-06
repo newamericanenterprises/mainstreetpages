@@ -1,9 +1,7 @@
 ---
-title: "Newhall, Iowa Business Directory"
+title: "Newhall, IA Business Directory"
+type: "towns"
 slug: "newhall-ia"
-town: "Newhall"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 852
+state: "ia"
+town_data: "newhall-ia"
 ---

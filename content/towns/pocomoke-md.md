@@ -1,9 +1,7 @@
 ---
-title: "Pocomoke, Maryland Business Directory"
+title: "Pocomoke, MD Business Directory"
+type: "towns"
 slug: "pocomoke-md"
-town: "Pocomoke"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 2831
+state: "md"
+town_data: "pocomoke-md"
 ---

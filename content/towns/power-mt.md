@@ -1,7 +1,7 @@
 ---
-title: "Power, Montana Business Directory"
+title: "Power, MT Business Directory"
+type: "towns"
 slug: "power-mt"
-state: "MT"
-county: "Teton"
-population: 179
+state: "mt"
+town_data: "power-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lacombe, Louisiana Business Directory"
+title: "Lacombe, LA Business Directory"
+type: "towns"
 slug: "lacombe-la"
-town: "Lacombe"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 1836
+state: "la"
+town_data: "lacombe-la"
 ---

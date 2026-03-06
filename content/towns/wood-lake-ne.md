@@ -1,7 +1,7 @@
 ---
-title: "Wood Lake, Nebraska Business Directory"
+title: "Wood Lake, NE Business Directory"
+type: "towns"
 slug: "wood-lake-ne"
-state: "NE"
-county: "Cherry"
-population: 500
+state: "ne"
+town_data: "wood-lake-ne"
 ---

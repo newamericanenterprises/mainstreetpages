@@ -1,9 +1,7 @@
 ---
-title: "Truman, Minnesota Business Directory"
+title: "Truman, MN Business Directory"
+type: "towns"
 slug: "truman-mn"
-town: "Truman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 2114
+state: "mn"
+town_data: "truman-mn"
 ---

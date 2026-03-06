@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Minnesota Business Directory"
+title: "Dexter, MN Business Directory"
+type: "towns"
 slug: "dexter-mn"
-town: "Dexter"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 466
+state: "mn"
+town_data: "dexter-mn"
 ---

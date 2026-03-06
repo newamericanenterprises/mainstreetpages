@@ -1,7 +1,7 @@
 ---
-title: "Gordonville, Missouri Business Directory"
+title: "Gordonville, MO Business Directory"
+type: "towns"
 slug: "gordonville-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 1500
+state: "mo"
+town_data: "gordonville-mo"
 ---

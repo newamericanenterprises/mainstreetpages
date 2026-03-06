@@ -1,9 +1,7 @@
 ---
-title: "Essex, Maryland Business Directory"
+title: "Essex, MD Business Directory"
+type: "towns"
 slug: "essex-md"
-town: "Essex"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 39262
+state: "md"
+town_data: "essex-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "McKittrick, Missouri Business Directory"
+title: "Mckittrick, MO Business Directory"
+type: "towns"
 slug: "mckittrick-mo"
-state: "MO"
-county: "Montgomery"
-population: 1500
+state: "mo"
+town_data: "mckittrick-mo"
 ---

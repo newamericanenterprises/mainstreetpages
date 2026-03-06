@@ -1,9 +1,7 @@
 ---
-title: "Lucas, Kansas Business Directory"
+title: "Lucas, KS Business Directory"
+type: "towns"
 slug: "lucas-ks"
-town: "Lucas"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 1171
+state: "ks"
+town_data: "lucas-ks"
 ---

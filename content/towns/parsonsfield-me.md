@@ -1,9 +1,7 @@
 ---
-title: "Parsonsfield, Maine Business Directory"
+title: "Parsonsfield, ME Business Directory"
+type: "towns"
 slug: "parsonsfield-me"
-town: "Parsonsfield"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 765
+state: "me"
+town_data: "parsonsfield-me"
 ---

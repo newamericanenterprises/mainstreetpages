@@ -1,7 +1,7 @@
 ---
-title: "Kirkwood, Missouri Business Directory"
+title: "Kirkwood, MO Business Directory"
+type: "towns"
 slug: "kirkwood-mo"
-state: "MO"
-county: "St. Louis"
-population: 27540
+state: "mo"
+town_data: "kirkwood-mo"
 ---

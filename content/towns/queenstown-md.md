@@ -1,9 +1,7 @@
 ---
-title: "Queenstown, Maryland Business Directory"
+title: "Queenstown, MD Business Directory"
+type: "towns"
 slug: "queenstown-md"
-town: "Queenstown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 1108
+state: "md"
+town_data: "queenstown-md"
 ---

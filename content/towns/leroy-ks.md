@@ -1,9 +1,7 @@
 ---
-title: "LeRoy, Kansas Business Directory"
+title: "LeRoy, KS Business Directory"
+type: "towns"
 slug: "leroy-ks"
-town: "LeRoy"
-state: "Kansas"
-state_abbr: "KS"
-county: "Coffey"
-population: 2851
+state: "ks"
+town_data: "leroy-ks"
 ---

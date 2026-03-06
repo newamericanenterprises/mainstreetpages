@@ -1,9 +1,7 @@
 ---
-title: "Detroit, Maine Business Directory"
+title: "Detroit, ME Business Directory"
+type: "towns"
 slug: "detroit-me"
-town: "Detroit"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2040
+state: "me"
+town_data: "detroit-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Yarmouth, Maine Business Directory"
+title: "Yarmouth, ME Business Directory"
+type: "towns"
 slug: "yarmouth-me"
-town: "Yarmouth"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 8674
+state: "me"
+town_data: "yarmouth-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Boothbay Harbor, Maine Business Directory"
+title: "Boothbay Harbor, ME Business Directory"
+type: "towns"
 slug: "boothbay-harbor-me"
-town: "Boothbay Harbor"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2092
+state: "me"
+town_data: "boothbay-harbor-me"
 ---

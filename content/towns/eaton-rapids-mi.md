@@ -1,9 +1,7 @@
 ---
-title: "Eaton Rapids, Michigan Business Directory"
+title: "Eaton Rapids, MI Business Directory"
+type: "towns"
 slug: "eaton-rapids-mi"
-town: "Eaton Rapids"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 1502
+state: "mi"
+town_data: "eaton-rapids-mi"
 ---

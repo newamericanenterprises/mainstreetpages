@@ -1,7 +1,7 @@
 ---
-title: "Pasadena Park, Missouri Business Directory"
+title: "Pasadena Park, MO Business Directory"
+type: "towns"
 slug: "pasadena-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "pasadena-park-mo"
 ---

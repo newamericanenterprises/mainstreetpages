@@ -1,9 +1,7 @@
 ---
-title: "Hill City, Kansas Business Directory"
+title: "Hill City, KS Business Directory"
+type: "towns"
 slug: "hill-city-ks"
-town: "Hill City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Graham"
-population: 1432
+state: "ks"
+town_data: "hill-city-ks"
 ---

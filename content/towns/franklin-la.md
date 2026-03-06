@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Louisiana Business Directory"
+title: "Franklin, LA Business Directory"
+type: "towns"
 slug: "franklin-la"
-town: "Franklin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 7339
+state: "la"
+town_data: "franklin-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Antelope, Montana Business Directory"
+title: "Antelope, MT Business Directory"
+type: "towns"
 slug: "antelope-mt"
-state: "MT"
-county: "Sheridan"
-population: 500
+state: "mt"
+town_data: "antelope-mt"
 ---

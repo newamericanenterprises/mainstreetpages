@@ -1,9 +1,7 @@
 ---
-title: "Hayesville, Iowa Business Directory"
+title: "Hayesville, IA Business Directory"
+type: "towns"
 slug: "hayesville-ia"
-town: "Hayesville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2601
+state: "ia"
+town_data: "hayesville-ia"
 ---

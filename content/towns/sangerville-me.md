@@ -1,9 +1,7 @@
 ---
-title: "Sangerville, Maine Business Directory"
+title: "Sangerville, ME Business Directory"
+type: "towns"
 slug: "sangerville-me"
-town: "Sangerville"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1430
+state: "me"
+town_data: "sangerville-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Harlan, Iowa Business Directory"
+title: "Harlan, IA Business Directory"
+type: "towns"
 slug: "harlan-ia"
-town: "Harlan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 4952
+state: "ia"
+town_data: "harlan-ia"
 ---

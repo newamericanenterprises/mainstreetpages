@@ -1,9 +1,7 @@
 ---
-title: "Burgin, Kentucky Business Directory"
+title: "Burgin, KY Business Directory"
+type: "towns"
 slug: "burgin-ky"
-town: "Burgin"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mercer"
-population: 1601
+state: "ky"
+town_data: "burgin-ky"
 ---

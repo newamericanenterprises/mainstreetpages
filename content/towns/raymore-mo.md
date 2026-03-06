@@ -1,7 +1,7 @@
 ---
-title: "Raymore, Missouri Business Directory"
+title: "Raymore, MO Business Directory"
+type: "towns"
 slug: "raymore-mo"
-state: "MO"
-county: "Cass"
-population: 21676
+state: "mo"
+town_data: "raymore-mo"
 ---

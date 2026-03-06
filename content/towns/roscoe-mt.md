@@ -1,7 +1,7 @@
 ---
-title: "Roscoe, Montana Business Directory"
+title: "Roscoe, MT Business Directory"
+type: "towns"
 slug: "roscoe-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "roscoe-mt"
 ---

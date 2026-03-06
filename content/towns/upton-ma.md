@@ -1,9 +1,7 @@
 ---
-title: "Upton, Massachusetts Business Directory"
+title: "Upton, MA Business Directory"
+type: "towns"
 slug: "upton-ma"
-town: "Upton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 6117
+state: "ma"
+town_data: "upton-ma"
 ---

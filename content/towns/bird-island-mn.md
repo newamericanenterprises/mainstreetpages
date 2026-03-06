@@ -1,9 +1,7 @@
 ---
-title: "Bird Island, Minnesota Business Directory"
+title: "Bird Island, MN Business Directory"
+type: "towns"
 slug: "bird-island-mn"
-town: "Bird Island"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 797
+state: "mn"
+town_data: "bird-island-mn"
 ---

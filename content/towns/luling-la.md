@@ -1,9 +1,7 @@
 ---
-title: "Luling, Louisiana Business Directory"
+title: "Luling, LA Business Directory"
+type: "towns"
 slug: "luling-la"
-town: "Luling"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 533
+state: "la"
+town_data: "luling-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gibbon, Nebraska Business Directory"
+title: "Gibbon, NE Business Directory"
+type: "towns"
 slug: "gibbon-ne"
-state: "NE"
-county: "Buffalo"
-population: 1833
+state: "ne"
+town_data: "gibbon-ne"
 ---

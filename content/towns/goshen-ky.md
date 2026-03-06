@@ -1,9 +1,7 @@
 ---
-title: "Goshen, Kentucky Business Directory"
+title: "Goshen, KY Business Directory"
+type: "towns"
 slug: "goshen-ky"
-town: "Goshen"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 2827
+state: "ky"
+town_data: "goshen-ky"
 ---

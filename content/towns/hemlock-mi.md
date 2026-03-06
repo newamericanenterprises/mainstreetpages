@@ -1,9 +1,7 @@
 ---
-title: "Hemlock, Michigan Business Directory"
+title: "Hemlock, MI Business Directory"
+type: "towns"
 slug: "hemlock-mi"
-town: "Hemlock"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 3580
+state: "mi"
+town_data: "hemlock-mi"
 ---

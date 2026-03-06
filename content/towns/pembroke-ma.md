@@ -1,9 +1,7 @@
 ---
-title: "Pembroke, Massachusetts Business Directory"
+title: "Pembroke, MA Business Directory"
+type: "towns"
 slug: "pembroke-ma"
-town: "Pembroke"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 5256
+state: "ma"
+town_data: "pembroke-ma"
 ---

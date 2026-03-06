@@ -1,7 +1,7 @@
 ---
-title: "Country Club, Missouri Business Directory"
+title: "Country Club, MO Business Directory"
+type: "towns"
 slug: "country-club-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "country-club-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Springville, Indiana Business Directory"
+title: "Springville, IN Business Directory"
+type: "towns"
 slug: "springville-in"
-town: "Springville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lawrence"
-population: 3954
+state: "in"
+town_data: "springville-in"
 ---

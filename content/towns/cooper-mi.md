@@ -1,9 +1,7 @@
 ---
-title: "Cooper, Michigan Business Directory"
+title: "Cooper, MI Business Directory"
+type: "towns"
 slug: "cooper-mi"
-town: "Cooper"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 2044
+state: "mi"
+town_data: "cooper-mi"
 ---

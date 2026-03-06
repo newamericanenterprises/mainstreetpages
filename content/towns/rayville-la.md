@@ -1,9 +1,7 @@
 ---
-title: "Rayville, Louisiana Business Directory"
+title: "Rayville, LA Business Directory"
+type: "towns"
 slug: "rayville-la"
-town: "Rayville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Richland"
-population: 3476
+state: "la"
+town_data: "rayville-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Minden, Iowa Business Directory"
+title: "Minden, IA Business Directory"
+type: "towns"
 slug: "minden-ia"
-town: "Minden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 585
+state: "ia"
+town_data: "minden-ia"
 ---

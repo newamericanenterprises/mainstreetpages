@@ -1,9 +1,7 @@
 ---
-title: "Thomaston, Maine Business Directory"
+title: "Thomaston, ME Business Directory"
+type: "towns"
 slug: "thomaston-me"
-town: "Thomaston"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 2781
+state: "me"
+town_data: "thomaston-me"
 ---

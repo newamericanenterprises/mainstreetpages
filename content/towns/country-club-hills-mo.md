@@ -1,7 +1,7 @@
 ---
-title: "Country Club Hills, Missouri Business Directory"
+title: "Country Club Hills, MO Business Directory"
+type: "towns"
 slug: "country-club-hills-mo"
-state: "MO"
-county: "Jefferson"
-population: 1500
+state: "mo"
+town_data: "country-club-hills-mo"
 ---

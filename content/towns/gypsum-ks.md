@@ -1,9 +1,7 @@
 ---
-title: "Gypsum, Kansas Business Directory"
+title: "Gypsum, KS Business Directory"
+type: "towns"
 slug: "gypsum-ks"
-town: "Gypsum"
-state: "Kansas"
-state_abbr: "KS"
-county: "Saline"
-population: 2136
+state: "ks"
+town_data: "gypsum-ks"
 ---

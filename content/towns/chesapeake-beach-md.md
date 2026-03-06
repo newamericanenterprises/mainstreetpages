@@ -1,9 +1,7 @@
 ---
-title: "Chesapeake Beach, Maryland Business Directory"
+title: "Chesapeake Beach, MD Business Directory"
+type: "towns"
 slug: "chesapeake-beach-md"
-town: "Chesapeake Beach"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 2218
+state: "md"
+town_data: "chesapeake-beach-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Floodwood, Minnesota Business Directory"
+title: "Floodwood, MN Business Directory"
+type: "towns"
 slug: "floodwood-mn"
-town: "Floodwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 2999
+state: "mn"
+town_data: "floodwood-mn"
 ---

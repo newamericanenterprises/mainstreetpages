@@ -1,9 +1,7 @@
 ---
-title: "Council Grove, Kansas Business Directory"
+title: "Council Grove, KS Business Directory"
+type: "towns"
 slug: "council-grove-ks"
-town: "Council Grove"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 2096
+state: "ks"
+town_data: "council-grove-ks"
 ---

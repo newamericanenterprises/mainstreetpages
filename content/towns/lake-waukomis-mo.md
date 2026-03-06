@@ -1,7 +1,7 @@
 ---
-title: "Lake Waukomis, Missouri Business Directory"
+title: "Lake Waukomis, MO Business Directory"
+type: "towns"
 slug: "lake-waukomis-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "lake-waukomis-mo"
 ---

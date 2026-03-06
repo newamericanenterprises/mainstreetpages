@@ -1,9 +1,7 @@
 ---
-title: "Suttons Bay, Michigan Business Directory"
+title: "Suttons Bay, MI Business Directory"
+type: "towns"
 slug: "suttons-bay-mi"
-town: "Suttons Bay"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 2505
+state: "mi"
+town_data: "suttons-bay-mi"
 ---

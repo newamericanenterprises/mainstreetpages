@@ -1,7 +1,7 @@
 ---
-title: "Loma, Montana Business Directory"
+title: "Loma, MT Business Directory"
+type: "towns"
 slug: "loma-mt"
-state: "MT"
-county: "Chouteau"
-population: 500
+state: "mt"
+town_data: "loma-mt"
 ---

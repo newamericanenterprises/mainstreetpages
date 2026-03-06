@@ -1,9 +1,7 @@
 ---
-title: "Potterville, Michigan Business Directory"
+title: "Potterville, MI Business Directory"
+type: "towns"
 slug: "potterville-mi"
-town: "Potterville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 1288
+state: "mi"
+town_data: "potterville-mi"
 ---

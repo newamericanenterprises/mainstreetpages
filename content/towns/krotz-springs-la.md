@@ -1,9 +1,7 @@
 ---
-title: "Krotz Springs, Louisiana Business Directory"
+title: "Krotz Springs, LA Business Directory"
+type: "towns"
 slug: "krotz-springs-la"
-town: "Krotz Springs"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 3184
+state: "la"
+town_data: "krotz-springs-la"
 ---

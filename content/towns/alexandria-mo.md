@@ -1,7 +1,7 @@
 ---
-title: "Alexandria, Missouri Business Directory"
+title: "Alexandria, MO Business Directory"
+type: "towns"
 slug: "alexandria-mo"
-state: "MO"
-county: "Clark"
-population: 1500
+state: "mo"
+town_data: "alexandria-mo"
 ---

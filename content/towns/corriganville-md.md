@@ -1,9 +1,7 @@
 ---
-title: "Corriganville, Maryland Business Directory"
+title: "Corriganville, MD Business Directory"
+type: "towns"
 slug: "corriganville-md"
-town: "Corriganville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 3498
+state: "md"
+town_data: "corriganville-md"
 ---

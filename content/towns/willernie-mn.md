@@ -1,9 +1,7 @@
 ---
-title: "Willernie, Minnesota Business Directory"
+title: "Willernie, MN Business Directory"
+type: "towns"
 slug: "willernie-mn"
-town: "Willernie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 924
+state: "mn"
+town_data: "willernie-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pasadena, Maryland Business Directory"
+title: "Pasadena, MD Business Directory"
+type: "towns"
 slug: "pasadena-md"
-town: "Pasadena"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 29225
+state: "md"
+town_data: "pasadena-md"
 ---

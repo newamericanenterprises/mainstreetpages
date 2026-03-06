@@ -1,9 +1,7 @@
 ---
-title: "Freeport, Michigan Business Directory"
+title: "Freeport, MI Business Directory"
+type: "towns"
 slug: "freeport-mi"
-town: "Freeport"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 576
+state: "mi"
+town_data: "freeport-mi"
 ---

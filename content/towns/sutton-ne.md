@@ -1,7 +1,7 @@
 ---
-title: "Sutton, Nebraska Business Directory"
+title: "Sutton, NE Business Directory"
+type: "towns"
 slug: "sutton-ne"
-state: "NE"
-county: "Clay"
-population: 1446
+state: "ne"
+town_data: "sutton-ne"
 ---

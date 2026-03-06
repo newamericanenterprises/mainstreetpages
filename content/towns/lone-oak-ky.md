@@ -1,9 +1,7 @@
 ---
-title: "Lone Oak, Kentucky Business Directory"
+title: "Lone Oak, KY Business Directory"
+type: "towns"
 slug: "lone-oak-ky"
-town: "Lone Oak"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McCracken"
-population: 2306
+state: "ky"
+town_data: "lone-oak-ky"
 ---

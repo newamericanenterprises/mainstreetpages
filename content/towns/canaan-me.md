@@ -1,9 +1,7 @@
 ---
-title: "Canaan, Maine Business Directory"
+title: "Canaan, ME Business Directory"
+type: "towns"
 slug: "canaan-me"
-town: "Canaan"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1669
+state: "me"
+town_data: "canaan-me"
 ---

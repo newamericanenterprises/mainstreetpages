@@ -1,7 +1,7 @@
 ---
-title: "Williamsville, Missouri Business Directory"
+title: "Williamsville, MO Business Directory"
+type: "towns"
 slug: "williamsville-mo"
-state: "MO"
-county: "Wayne"
-population: 1500
+state: "mo"
+town_data: "williamsville-mo"
 ---

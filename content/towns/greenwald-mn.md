@@ -1,9 +1,7 @@
 ---
-title: "Greenwald, Minnesota Business Directory"
+title: "Greenwald, MN Business Directory"
+type: "towns"
 slug: "greenwald-mn"
-town: "Greenwald"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1136
+state: "mn"
+town_data: "greenwald-mn"
 ---

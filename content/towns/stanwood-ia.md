@@ -1,9 +1,7 @@
 ---
-title: "Stanwood, Iowa Business Directory"
+title: "Stanwood, IA Business Directory"
+type: "towns"
 slug: "stanwood-ia"
-town: "Stanwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 2136
+state: "ia"
+town_data: "stanwood-ia"
 ---

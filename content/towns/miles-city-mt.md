@@ -1,7 +1,7 @@
 ---
-title: "Miles City, Montana Business Directory"
+title: "Miles City, MT Business Directory"
+type: "towns"
 slug: "miles-city-mt"
-state: "MT"
-county: "Custer"
-population: 8478
+state: "mt"
+town_data: "miles-city-mt"
 ---

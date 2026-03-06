@@ -1,9 +1,7 @@
 ---
-title: "Stevensville, Maryland Business Directory"
+title: "Stevensville, MD Business Directory"
+type: "towns"
 slug: "stevensville-md"
-town: "Stevensville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 3548
+state: "md"
+town_data: "stevensville-md"
 ---

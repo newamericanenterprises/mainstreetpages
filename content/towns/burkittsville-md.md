@@ -1,9 +1,7 @@
 ---
-title: "Burkittsville, Maryland Business Directory"
+title: "Burkittsville, MD Business Directory"
+type: "towns"
 slug: "burkittsville-md"
-town: "Burkittsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 881
+state: "md"
+town_data: "burkittsville-md"
 ---

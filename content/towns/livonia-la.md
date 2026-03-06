@@ -1,9 +1,7 @@
 ---
-title: "Livonia, Louisiana Business Directory"
+title: "Livonia, LA Business Directory"
+type: "towns"
 slug: "livonia-la"
-town: "Livonia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 2651
+state: "la"
+town_data: "livonia-la"
 ---

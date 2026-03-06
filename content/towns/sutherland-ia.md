@@ -1,9 +1,7 @@
 ---
-title: "Sutherland, Iowa Business Directory"
+title: "Sutherland, IA Business Directory"
+type: "towns"
 slug: "sutherland-ia"
-town: "Sutherland"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 1302
+state: "ia"
+town_data: "sutherland-ia"
 ---

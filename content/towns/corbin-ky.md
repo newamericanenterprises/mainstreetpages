@@ -1,9 +1,7 @@
 ---
-title: "Corbin, Kentucky Business Directory"
+title: "Corbin, KY Business Directory"
+type: "towns"
 slug: "corbin-ky"
-town: "Corbin"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Whitley"
-population: 7224
+state: "ky"
+town_data: "corbin-ky"
 ---

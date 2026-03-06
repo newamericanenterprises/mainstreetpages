@@ -1,9 +1,7 @@
 ---
-title: "Westford, Massachusetts Business Directory"
+title: "Westford, MA Business Directory"
+type: "towns"
 slug: "westford-ma"
-town: "Westford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 8730
+state: "ma"
+town_data: "westford-ma"
 ---

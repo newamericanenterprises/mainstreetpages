@@ -1,9 +1,7 @@
 ---
-title: "Turon, Kansas Business Directory"
+title: "Turon, KS Business Directory"
+type: "towns"
 slug: "turon-ks"
-town: "Turon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 1103
+state: "ks"
+town_data: "turon-ks"
 ---

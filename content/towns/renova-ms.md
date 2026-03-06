@@ -1,7 +1,7 @@
 ---
-title: "Renova, Mississippi Business Directory"
+title: "Renova, MS Business Directory"
+type: "towns"
 slug: "renova-ms"
-state: "MS"
-county: "Bolivar"
-population: 339
+state: "ms"
+town_data: "renova-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Marienthal, Kansas Business Directory"
+title: "Marienthal, KS Business Directory"
+type: "towns"
 slug: "marienthal-ks"
-town: "Marienthal"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wichita"
-population: 2048
+state: "ks"
+town_data: "marienthal-ks"
 ---

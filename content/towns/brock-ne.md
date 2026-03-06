@@ -1,7 +1,7 @@
 ---
-title: "Brock, Nebraska Business Directory"
+title: "Brock, NE Business Directory"
+type: "towns"
 slug: "brock-ne"
-state: "NE"
-county: "Nemaha"
-population: 500
+state: "ne"
+town_data: "brock-ne"
 ---

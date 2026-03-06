@@ -1,9 +1,7 @@
 ---
-title: "Burnsville, Minnesota Business Directory"
+title: "Burnsville, MN Business Directory"
+type: "towns"
 slug: "burnsville-mn"
-town: "Burnsville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 64317
+state: "mn"
+town_data: "burnsville-mn"
 ---

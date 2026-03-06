@@ -1,9 +1,7 @@
 ---
-title: "Tabor, Iowa Business Directory"
+title: "Tabor, IA Business Directory"
+type: "towns"
 slug: "tabor-ia"
-town: "Tabor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 2753
+state: "ia"
+town_data: "tabor-ia"
 ---

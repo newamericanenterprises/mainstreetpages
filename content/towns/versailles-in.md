@@ -1,9 +1,7 @@
 ---
-title: "Versailles, Indiana Business Directory"
+title: "Versailles, IN Business Directory"
+type: "towns"
 slug: "versailles-in"
-town: "Versailles"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 4983
+state: "in"
+town_data: "versailles-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Britton, Michigan Business Directory"
+title: "Britton, MI Business Directory"
+type: "towns"
 slug: "britton-mi"
-town: "Britton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 4346
+state: "mi"
+town_data: "britton-mi"
 ---

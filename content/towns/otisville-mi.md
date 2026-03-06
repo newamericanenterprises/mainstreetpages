@@ -1,9 +1,7 @@
 ---
-title: "Otisville, Michigan Business Directory"
+title: "Otisville, MI Business Directory"
+type: "towns"
 slug: "otisville-mi"
-town: "Otisville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 5025
+state: "mi"
+town_data: "otisville-mi"
 ---

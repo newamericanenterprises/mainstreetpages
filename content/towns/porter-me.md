@@ -1,9 +1,7 @@
 ---
-title: "Porter, Maine Business Directory"
+title: "Porter, ME Business Directory"
+type: "towns"
 slug: "porter-me"
-town: "Porter"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2408
+state: "me"
+town_data: "porter-me"
 ---

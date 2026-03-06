@@ -1,9 +1,7 @@
 ---
-title: "Eastport, Michigan Business Directory"
+title: "Eastport, MI Business Directory"
+type: "towns"
 slug: "eastport-mi"
-town: "Eastport"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 582
+state: "mi"
+town_data: "eastport-mi"
 ---

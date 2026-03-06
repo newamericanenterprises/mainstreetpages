@@ -1,9 +1,7 @@
 ---
-title: "Wesley, Iowa Business Directory"
+title: "Wesley, IA Business Directory"
+type: "towns"
 slug: "wesley-ia"
-town: "Wesley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 3425
+state: "ia"
+town_data: "wesley-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Benedict, Kansas Business Directory"
+title: "Benedict, KS Business Directory"
+type: "towns"
 slug: "benedict-ks"
-town: "Benedict"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 2360
+state: "ks"
+town_data: "benedict-ks"
 ---

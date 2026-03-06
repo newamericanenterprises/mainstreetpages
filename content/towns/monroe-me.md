@@ -1,9 +1,7 @@
 ---
-title: "Monroe, Maine Business Directory"
+title: "Monroe, ME Business Directory"
+type: "towns"
 slug: "monroe-me"
-town: "Monroe"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1931
+state: "me"
+town_data: "monroe-me"
 ---

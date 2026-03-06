@@ -1,9 +1,7 @@
 ---
-title: "Haverhill, Massachusetts Business Directory"
+title: "Haverhill, MA Business Directory"
+type: "towns"
 slug: "haverhill-ma"
-town: "Haverhill"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 67787
+state: "ma"
+town_data: "haverhill-ma"
 ---

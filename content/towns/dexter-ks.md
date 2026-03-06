@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Kansas Business Directory"
+title: "Dexter, KS Business Directory"
+type: "towns"
 slug: "dexter-ks"
-town: "Dexter"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 2793
+state: "ks"
+town_data: "dexter-ks"
 ---

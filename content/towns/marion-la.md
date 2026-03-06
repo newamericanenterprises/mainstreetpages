@@ -1,9 +1,7 @@
 ---
-title: "Marion, Louisiana Business Directory"
+title: "Marion, LA Business Directory"
+type: "towns"
 slug: "marion-la"
-town: "Marion"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 1138
+state: "la"
+town_data: "marion-la"
 ---

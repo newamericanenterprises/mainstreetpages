@@ -1,9 +1,7 @@
 ---
-title: "Almo, Kentucky Business Directory"
+title: "Almo, KY Business Directory"
+type: "towns"
 slug: "almo-ky"
-town: "Almo"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Calloway"
-population: 777
+state: "ky"
+town_data: "almo-ky"
 ---

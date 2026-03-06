@@ -1,9 +1,7 @@
 ---
-title: "Harrison Township, Michigan Business Directory"
+title: "Harrison Township, MI Business Directory"
+type: "towns"
 slug: "harrison-township-mi"
-town: "Harrison Township"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 4132
+state: "mi"
+town_data: "harrison-township-mi"
 ---

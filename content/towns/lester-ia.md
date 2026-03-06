@@ -1,9 +1,7 @@
 ---
-title: "Lester, Iowa Business Directory"
+title: "Lester, IA Business Directory"
+type: "towns"
 slug: "lester-ia"
-town: "Lester"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 2918
+state: "ia"
+town_data: "lester-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Niles, Michigan Business Directory"
+title: "Niles, MI Business Directory"
+type: "towns"
 slug: "niles-mi"
-town: "Niles"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 11127
+state: "mi"
+town_data: "niles-mi"
 ---

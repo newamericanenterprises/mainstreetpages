@@ -1,7 +1,7 @@
 ---
-title: "Iron Mountain Lake, Missouri Business Directory"
+title: "Ironuntain Lake Mo, MO Business Directory"
+type: "towns"
 slug: "iron-mountain-lake-mo"
-state: "MO"
-county: "St. Francois"
-population: 1500
+state: "mo"
+town_data: "iron-mountain-lake-mo"
 ---

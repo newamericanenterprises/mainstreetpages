@@ -1,9 +1,7 @@
 ---
-title: "May City, Iowa Business Directory"
+title: "May City, IA Business Directory"
+type: "towns"
 slug: "may-city-ia"
-town: "May City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 1753
+state: "ia"
+town_data: "may-city-ia"
 ---

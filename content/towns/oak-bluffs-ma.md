@@ -1,9 +1,7 @@
 ---
-title: "Oak Bluffs, Massachusetts Business Directory"
+title: "Oak Bluffs, MA Business Directory"
+type: "towns"
 slug: "oak-bluffs-ma"
-town: "Oak Bluffs"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 5186
+state: "ma"
+town_data: "oak-bluffs-ma"
 ---

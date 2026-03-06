@@ -1,7 +1,7 @@
 ---
-title: "Bridgeport, Nebraska Business Directory"
+title: "Bridgeport, NE Business Directory"
+type: "towns"
 slug: "bridgeport-ne"
-state: "NE"
-county: "Morrill"
-population: 1545
+state: "ne"
+town_data: "bridgeport-ne"
 ---

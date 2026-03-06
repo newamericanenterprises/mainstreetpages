@@ -1,9 +1,7 @@
 ---
-title: "Nerstrand, Minnesota Business Directory"
+title: "Nerstrand, MN Business Directory"
+type: "towns"
 slug: "nerstrand-mn"
-town: "Nerstrand"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 2139
+state: "mn"
+town_data: "nerstrand-mn"
 ---

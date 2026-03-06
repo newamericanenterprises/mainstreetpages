@@ -1,7 +1,7 @@
 ---
-title: "Zurich, Montana Business Directory"
+title: "Zurich, MT Business Directory"
+type: "towns"
 slug: "zurich-mt"
-state: "MT"
-county: "Blaine"
-population: 500
+state: "mt"
+town_data: "zurich-mt"
 ---

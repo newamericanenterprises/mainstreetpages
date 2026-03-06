@@ -1,9 +1,7 @@
 ---
-title: "Ensign, Kansas Business Directory"
+title: "Ensign, KS Business Directory"
+type: "towns"
 slug: "ensign-ks"
-town: "Ensign"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gray"
-population: 1184
+state: "ks"
+town_data: "ensign-ks"
 ---

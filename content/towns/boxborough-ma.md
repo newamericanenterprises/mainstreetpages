@@ -1,9 +1,7 @@
 ---
-title: "Boxborough, Massachusetts Business Directory"
+title: "Boxborough, MA Business Directory"
+type: "towns"
 slug: "boxborough-ma"
-town: "Boxborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 5978
+state: "ma"
+town_data: "boxborough-ma"
 ---

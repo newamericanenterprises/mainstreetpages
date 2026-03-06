@@ -1,9 +1,7 @@
 ---
-title: "Vestaburg, Michigan Business Directory"
+title: "Vestaburg, MI Business Directory"
+type: "towns"
 slug: "vestaburg-mi"
-town: "Vestaburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 3907
+state: "mi"
+town_data: "vestaburg-mi"
 ---

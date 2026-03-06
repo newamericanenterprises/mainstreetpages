@@ -1,9 +1,7 @@
 ---
-title: "Newfield, Maine Business Directory"
+title: "Newfield, ME Business Directory"
+type: "towns"
 slug: "newfield-me"
-town: "Newfield"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2625
+state: "me"
+town_data: "newfield-me"
 ---

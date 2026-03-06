@@ -1,9 +1,7 @@
 ---
-title: "Harrisonburg, Louisiana Business Directory"
+title: "Harrisonburg, LA Business Directory"
+type: "towns"
 slug: "harrisonburg-la"
-town: "Harrisonburg"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Catahoula"
-population: 2907
+state: "la"
+town_data: "harrisonburg-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Andover, Maine Business Directory"
+title: "Andover, ME Business Directory"
+type: "towns"
 slug: "andover-me"
-town: "Andover"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 305
+state: "me"
+town_data: "andover-me"
 ---

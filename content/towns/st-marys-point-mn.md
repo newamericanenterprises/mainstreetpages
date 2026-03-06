@@ -1,9 +1,7 @@
 ---
-title: "St. Mary's Point, Minnesota Business Directory"
+title: "St. Mary's Point, MN Business Directory"
+type: "towns"
 slug: "st-marys-point-mn"
-town: "St. Mary's Point"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2802
+state: "mn"
+town_data: "st-marys-point-mn"
 ---

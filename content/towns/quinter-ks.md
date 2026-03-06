@@ -1,9 +1,7 @@
 ---
-title: "Quinter, Kansas Business Directory"
+title: "Quinter, KS Business Directory"
+type: "towns"
 slug: "quinter-ks"
-town: "Quinter"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gove"
-population: 3231
+state: "ks"
+town_data: "quinter-ks"
 ---

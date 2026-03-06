@@ -1,9 +1,7 @@
 ---
-title: "Yale, Michigan Business Directory"
+title: "Yale, MI Business Directory"
+type: "towns"
 slug: "yale-mi"
-town: "Yale"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 5095
+state: "mi"
+town_data: "yale-mi"
 ---

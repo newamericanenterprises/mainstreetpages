@@ -1,9 +1,7 @@
 ---
-title: "Independence, Kentucky Business Directory"
+title: "Independence, KY Business Directory"
+type: "towns"
 slug: "independence-ky"
-town: "Independence"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 28581
+state: "ky"
+town_data: "independence-ky"
 ---

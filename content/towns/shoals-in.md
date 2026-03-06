@@ -1,9 +1,7 @@
 ---
-title: "Shoals, Indiana Business Directory"
+title: "Shoals, IN Business Directory"
+type: "towns"
 slug: "shoals-in"
-town: "Shoals"
-state: "Indiana"
-state_abbr: "IN"
-county: "Martin"
-population: 756
+state: "in"
+town_data: "shoals-in"
 ---

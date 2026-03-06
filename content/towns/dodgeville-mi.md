@@ -1,9 +1,7 @@
 ---
-title: "Dodgeville, Michigan Business Directory"
+title: "Dodgeville, MI Business Directory"
+type: "towns"
 slug: "dodgeville-mi"
-town: "Dodgeville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 4247
+state: "mi"
+town_data: "dodgeville-mi"
 ---

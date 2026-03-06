@@ -1,7 +1,7 @@
 ---
-title: "Avon, Montana Business Directory"
+title: "Avon, MT Business Directory"
+type: "towns"
 slug: "avon-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "avon-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Collyer, Kansas Business Directory"
+title: "Collyer, KS Business Directory"
+type: "towns"
 slug: "collyer-ks"
-town: "Collyer"
-state: "Kansas"
-state_abbr: "KS"
-county: "Trego"
-population: 2705
+state: "ks"
+town_data: "collyer-ks"
 ---

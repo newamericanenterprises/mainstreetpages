@@ -1,9 +1,7 @@
 ---
-title: "Wanamingo, Minnesota Business Directory"
+title: "Wanamingo, MN Business Directory"
+type: "towns"
 slug: "wanamingo-mn"
-town: "Wanamingo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 1696
+state: "mn"
+town_data: "wanamingo-mn"
 ---

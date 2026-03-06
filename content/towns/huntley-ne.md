@@ -1,7 +1,7 @@
 ---
-title: "Huntley, Nebraska Business Directory"
+title: "Huntley, NE Business Directory"
+type: "towns"
 slug: "huntley-ne"
-state: "NE"
-county: "Harlan"
-population: 500
+state: "ne"
+town_data: "huntley-ne"
 ---

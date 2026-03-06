@@ -1,9 +1,7 @@
 ---
-title: "Carrabassett Valley, Maine Business Directory"
+title: "Carrabassett Valley, ME Business Directory"
+type: "towns"
 slug: "carrabassett-valley-me"
-town: "Carrabassett Valley"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1764
+state: "me"
+town_data: "carrabassett-valley-me"
 ---

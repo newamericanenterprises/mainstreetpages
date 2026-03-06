@@ -1,9 +1,7 @@
 ---
-title: "Fulton, Maryland Business Directory"
+title: "Fulton, MD Business Directory"
+type: "towns"
 slug: "fulton-md"
-town: "Fulton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 1552
+state: "md"
+town_data: "fulton-md"
 ---

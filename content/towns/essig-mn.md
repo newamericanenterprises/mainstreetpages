@@ -1,9 +1,7 @@
 ---
-title: "Essig, Minnesota Business Directory"
+title: "Essig, MN Business Directory"
+type: "towns"
 slug: "essig-mn"
-town: "Essig"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 1607
+state: "mn"
+town_data: "essig-mn"
 ---

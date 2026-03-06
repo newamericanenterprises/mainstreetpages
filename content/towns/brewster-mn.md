@@ -1,9 +1,7 @@
 ---
-title: "Brewster, Minnesota Business Directory"
+title: "Brewster, MN Business Directory"
+type: "towns"
 slug: "brewster-mn"
-town: "Brewster"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 311
+state: "mn"
+town_data: "brewster-mn"
 ---

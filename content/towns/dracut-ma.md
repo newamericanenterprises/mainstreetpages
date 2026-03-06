@@ -1,9 +1,7 @@
 ---
-title: "Dracut, Massachusetts Business Directory"
+title: "Dracut, MA Business Directory"
+type: "towns"
 slug: "dracut-ma"
-town: "Dracut"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 2097
+state: "ma"
+town_data: "dracut-ma"
 ---

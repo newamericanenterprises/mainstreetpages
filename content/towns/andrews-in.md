@@ -1,9 +1,7 @@
 ---
-title: "Andrews, Indiana Business Directory"
+title: "Andrews, IN Business Directory"
+type: "towns"
 slug: "andrews-in"
-town: "Andrews"
-state: "Indiana"
-state_abbr: "IN"
-county: "Huntington"
-population: 3079
+state: "in"
+town_data: "andrews-in"
 ---

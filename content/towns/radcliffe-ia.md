@@ -1,9 +1,7 @@
 ---
-title: "Radcliffe, Iowa Business Directory"
+title: "Radcliffe, IA Business Directory"
+type: "towns"
 slug: "radcliffe-ia"
-town: "Radcliffe"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 3294
+state: "ia"
+town_data: "radcliffe-ia"
 ---

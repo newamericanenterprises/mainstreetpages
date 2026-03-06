@@ -1,9 +1,7 @@
 ---
-title: "Strathcona, Minnesota Business Directory"
+title: "Strathcona, MN Business Directory"
+type: "towns"
 slug: "strathcona-mn"
-town: "Strathcona"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Roseau"
-population: 423
+state: "mn"
+town_data: "strathcona-mn"
 ---

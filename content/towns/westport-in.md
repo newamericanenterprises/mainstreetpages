@@ -1,9 +1,7 @@
 ---
-title: "Westport, Indiana Business Directory"
+title: "Westport, IN Business Directory"
+type: "towns"
 slug: "westport-in"
-town: "Westport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 1796
+state: "in"
+town_data: "westport-in"
 ---

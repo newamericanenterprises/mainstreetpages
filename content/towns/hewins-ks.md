@@ -1,9 +1,7 @@
 ---
-title: "Hewins, Kansas Business Directory"
+title: "Hewins, KS Business Directory"
+type: "towns"
 slug: "hewins-ks"
-town: "Hewins"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 1845
+state: "ks"
+town_data: "hewins-ks"
 ---

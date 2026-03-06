@@ -1,9 +1,7 @@
 ---
-title: "Bronson, Kansas Business Directory"
+title: "Bronson, KS Business Directory"
+type: "towns"
 slug: "bronson-ks"
-town: "Bronson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Bourbon"
-population: 1636
+state: "ks"
+town_data: "bronson-ks"
 ---

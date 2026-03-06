@@ -1,9 +1,7 @@
 ---
-title: "Greene, Iowa Business Directory"
+title: "Greene, IA Business Directory"
+type: "towns"
 slug: "greene-ia"
-town: "Greene"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2696
+state: "ia"
+town_data: "greene-ia"
 ---

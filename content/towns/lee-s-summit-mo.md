@@ -1,7 +1,7 @@
 ---
-title: "Lee's Summit, Missouri Business Directory"
+title: "Lee S Summit, MO Business Directory"
+type: "towns"
 slug: "lee-s-summit-mo"
-state: "MO"
-county: "Jackson"
-population: 101108
+state: "mo"
+town_data: "lee-s-summit-mo"
 ---

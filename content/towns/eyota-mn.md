@@ -1,9 +1,7 @@
 ---
-title: "Eyota, Minnesota Business Directory"
+title: "Eyota, MN Business Directory"
+type: "towns"
 slug: "eyota-mn"
-town: "Eyota"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Olmsted"
-population: 2573
+state: "mn"
+town_data: "eyota-mn"
 ---

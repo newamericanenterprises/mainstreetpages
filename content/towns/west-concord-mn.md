@@ -1,9 +1,7 @@
 ---
-title: "West Concord, Minnesota Business Directory"
+title: "West Concord, MN Business Directory"
+type: "towns"
 slug: "west-concord-mn"
-town: "West Concord"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 2633
+state: "mn"
+town_data: "west-concord-mn"
 ---

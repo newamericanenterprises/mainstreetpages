@@ -1,9 +1,7 @@
 ---
-title: "Hopkinton, Massachusetts Business Directory"
+title: "Hopkinton, MA Business Directory"
+type: "towns"
 slug: "hopkinton-ma"
-town: "Hopkinton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 6517
+state: "ma"
+town_data: "hopkinton-ma"
 ---

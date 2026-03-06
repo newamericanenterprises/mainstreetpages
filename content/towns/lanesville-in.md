@@ -1,9 +1,7 @@
 ---
-title: "Lanesville, Indiana Business Directory"
+title: "Lanesville, IN Business Directory"
+type: "towns"
 slug: "lanesville-in"
-town: "Lanesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 4220
+state: "in"
+town_data: "lanesville-in"
 ---

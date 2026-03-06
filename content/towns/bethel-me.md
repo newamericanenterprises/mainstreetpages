@@ -1,9 +1,7 @@
 ---
-title: "Bethel, Maine Business Directory"
+title: "Bethel, ME Business Directory"
+type: "towns"
 slug: "bethel-me"
-town: "Bethel"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2636
+state: "me"
+town_data: "bethel-me"
 ---

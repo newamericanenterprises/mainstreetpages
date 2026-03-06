@@ -1,9 +1,7 @@
 ---
-title: "Perry, Iowa Business Directory"
+title: "Perry, IA Business Directory"
+type: "towns"
 slug: "perry-ia"
-town: "Perry"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 7702
+state: "ia"
+town_data: "perry-ia"
 ---

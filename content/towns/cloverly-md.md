@@ -1,9 +1,7 @@
 ---
-title: "Cloverly, Maryland Business Directory"
+title: "Cloverly, MD Business Directory"
+type: "towns"
 slug: "cloverly-md"
-town: "Cloverly"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 2776
+state: "md"
+town_data: "cloverly-md"
 ---

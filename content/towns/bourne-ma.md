@@ -1,9 +1,7 @@
 ---
-title: "Bourne, Massachusetts Business Directory"
+title: "Bourne, MA Business Directory"
+type: "towns"
 slug: "bourne-ma"
-town: "Bourne"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 20430
+state: "ma"
+town_data: "bourne-ma"
 ---

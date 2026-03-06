@@ -1,9 +1,7 @@
 ---
-title: "Drakesboro, Kentucky Business Directory"
+title: "Drakesboro, KY Business Directory"
+type: "towns"
 slug: "drakesboro-ky"
-town: "Drakesboro"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Muhlenberg"
-population: 2429
+state: "ky"
+town_data: "drakesboro-ky"
 ---

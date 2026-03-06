@@ -1,9 +1,7 @@
 ---
-title: "Paynesville, Minnesota Business Directory"
+title: "Paynesville, MN Business Directory"
+type: "towns"
 slug: "paynesville-mn"
-town: "Paynesville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 584
+state: "mn"
+town_data: "paynesville-mn"
 ---

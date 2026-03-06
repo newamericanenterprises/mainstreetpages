@@ -1,9 +1,7 @@
 ---
-title: "Everett, Massachusetts Business Directory"
+title: "Everett, MA Business Directory"
+type: "towns"
 slug: "everett-ma"
-town: "Everett"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 48765
+state: "ma"
+town_data: "everett-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Albion, Michigan Business Directory"
+title: "Albion, MI Business Directory"
+type: "towns"
 slug: "albion-mi"
-town: "Albion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 7946
+state: "mi"
+town_data: "albion-mi"
 ---

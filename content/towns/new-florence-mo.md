@@ -1,7 +1,7 @@
 ---
-title: "New Florence, Missouri Business Directory"
+title: "New Florence, MO Business Directory"
+type: "towns"
 slug: "new-florence-mo"
-state: "MO"
-county: "Montgomery"
-population: 1500
+state: "mo"
+town_data: "new-florence-mo"
 ---

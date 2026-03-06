@@ -1,9 +1,7 @@
 ---
-title: "Windham, Maine Business Directory"
+title: "Windham, ME Business Directory"
+type: "towns"
 slug: "windham-me"
-town: "Windham"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 18472
+state: "me"
+town_data: "windham-me"
 ---

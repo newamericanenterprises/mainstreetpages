@@ -1,9 +1,7 @@
 ---
-title: "Westhampton, Massachusetts Business Directory"
+title: "Westhampton, MA Business Directory"
+type: "towns"
 slug: "westhampton-ma"
-town: "Westhampton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 7357
+state: "ma"
+town_data: "westhampton-ma"
 ---

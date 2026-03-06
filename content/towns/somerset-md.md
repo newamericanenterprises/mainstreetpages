@@ -1,9 +1,7 @@
 ---
-title: "Somerset, Maryland Business Directory"
+title: "Somerset, MD Business Directory"
+type: "towns"
 slug: "somerset-md"
-town: "Somerset"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3473
+state: "md"
+town_data: "somerset-md"
 ---

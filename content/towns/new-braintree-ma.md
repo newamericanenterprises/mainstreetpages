@@ -1,9 +1,7 @@
 ---
-title: "New Braintree, Massachusetts Business Directory"
+title: "New Braintree, MA Business Directory"
+type: "towns"
 slug: "new-braintree-ma"
-town: "New Braintree"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5192
+state: "ma"
+town_data: "new-braintree-ma"
 ---

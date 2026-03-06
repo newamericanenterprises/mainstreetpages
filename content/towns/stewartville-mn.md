@@ -1,9 +1,7 @@
 ---
-title: "Stewartville, Minnesota Business Directory"
+title: "Stewartville, MN Business Directory"
+type: "towns"
 slug: "stewartville-mn"
-town: "Stewartville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Olmsted"
-population: 2708
+state: "mn"
+town_data: "stewartville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Port Allen, Louisiana Business Directory"
+title: "Port Allen, LA Business Directory"
+type: "towns"
 slug: "port-allen-la"
-town: "Port Allen"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Baton Rouge"
-population: 4942
+state: "la"
+town_data: "port-allen-la"
 ---

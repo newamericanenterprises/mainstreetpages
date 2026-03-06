@@ -1,7 +1,7 @@
 ---
-title: "Outlook, Montana Business Directory"
+title: "Outlook, MT Business Directory"
+type: "towns"
 slug: "outlook-mt"
-state: "MT"
-county: "Sheridan"
-population: 500
+state: "mt"
+town_data: "outlook-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Livermore, Maine Business Directory"
+title: "Livermore, ME Business Directory"
+type: "towns"
 slug: "livermore-me"
-town: "Livermore"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 2156
+state: "me"
+town_data: "livermore-me"
 ---

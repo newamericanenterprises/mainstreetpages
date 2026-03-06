@@ -1,7 +1,7 @@
 ---
-title: "Excelsior Springs, Missouri Business Directory"
+title: "Excelsior Springs, MO Business Directory"
+type: "towns"
 slug: "excelsior-springs-mo"
-state: "MO"
-county: "Clay"
-population: 11638
+state: "mo"
+town_data: "excelsior-springs-mo"
 ---

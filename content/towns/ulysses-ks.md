@@ -1,9 +1,7 @@
 ---
-title: "Ulysses, Kansas Business Directory"
+title: "Ulysses, KS Business Directory"
+type: "towns"
 slug: "ulysses-ks"
-town: "Ulysses"
-state: "Kansas"
-state_abbr: "KS"
-county: "Grant"
-population: 5960
+state: "ks"
+town_data: "ulysses-ks"
 ---

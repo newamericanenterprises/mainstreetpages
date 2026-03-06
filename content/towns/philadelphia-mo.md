@@ -1,7 +1,7 @@
 ---
-title: "Philadelphia, Missouri Business Directory"
+title: "Philadelphia, MO Business Directory"
+type: "towns"
 slug: "philadelphia-mo"
-state: "MO"
-county: "Marion"
-population: 1500
+state: "mo"
+town_data: "philadelphia-mo"
 ---

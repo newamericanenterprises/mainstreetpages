@@ -1,9 +1,7 @@
 ---
-title: "Patoka, Indiana Business Directory"
+title: "Patoka, IN Business Directory"
+type: "towns"
 slug: "patoka-in"
-town: "Patoka"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 3919
+state: "in"
+town_data: "patoka-in"
 ---

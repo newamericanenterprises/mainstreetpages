@@ -1,9 +1,7 @@
 ---
-title: "Potwin, Kansas Business Directory"
+title: "Potwin, KS Business Directory"
+type: "towns"
 slug: "potwin-ks"
-town: "Potwin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 2454
+state: "ks"
+town_data: "potwin-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Muscotah, Kansas Business Directory"
+title: "Muscotah, KS Business Directory"
+type: "towns"
 slug: "muscotah-ks"
-town: "Muscotah"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 1316
+state: "ks"
+town_data: "muscotah-ks"
 ---

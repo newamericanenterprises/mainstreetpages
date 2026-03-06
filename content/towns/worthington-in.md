@@ -1,9 +1,7 @@
 ---
-title: "Worthington, Indiana Business Directory"
+title: "Worthington, IN Business Directory"
+type: "towns"
 slug: "worthington-in"
-town: "Worthington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 903
+state: "in"
+town_data: "worthington-in"
 ---

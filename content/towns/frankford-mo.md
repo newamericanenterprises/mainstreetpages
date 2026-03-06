@@ -1,7 +1,7 @@
 ---
-title: "Frankford, Missouri Business Directory"
+title: "Frankford, MO Business Directory"
+type: "towns"
 slug: "frankford-mo"
-state: "MO"
-county: "Pike"
-population: 1500
+state: "mo"
+town_data: "frankford-mo"
 ---

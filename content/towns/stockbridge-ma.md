@@ -1,9 +1,7 @@
 ---
-title: "Stockbridge, Massachusetts Business Directory"
+title: "Stockbridge, MA Business Directory"
+type: "towns"
 slug: "stockbridge-ma"
-town: "Stockbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 1982
+state: "ma"
+town_data: "stockbridge-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Agawam, Massachusetts Business Directory"
+title: "Agawam, MA Business Directory"
+type: "towns"
 slug: "agawam-ma"
-town: "Agawam"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 28892
+state: "ma"
+town_data: "agawam-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Monticello, Minnesota Business Directory"
+title: "Monticello, MN Business Directory"
+type: "towns"
 slug: "monticello-mn"
-town: "Monticello"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 2513
+state: "mn"
+town_data: "monticello-mn"
 ---

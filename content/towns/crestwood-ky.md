@@ -1,9 +1,7 @@
 ---
-title: "Crestwood, Kentucky Business Directory"
+title: "Crestwood, KY Business Directory"
+type: "towns"
 slug: "crestwood-ky"
-town: "Crestwood"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 2497
+state: "ky"
+town_data: "crestwood-ky"
 ---

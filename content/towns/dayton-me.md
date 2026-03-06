@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Maine Business Directory"
+title: "Dayton, ME Business Directory"
+type: "towns"
 slug: "dayton-me"
-town: "Dayton"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1509
+state: "me"
+town_data: "dayton-me"
 ---

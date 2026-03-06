@@ -1,9 +1,7 @@
 ---
-title: "Utica, Minnesota Business Directory"
+title: "Utica, MN Business Directory"
+type: "towns"
 slug: "utica-mn"
-town: "Utica"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 938
+state: "mn"
+town_data: "utica-mn"
 ---

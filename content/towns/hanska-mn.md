@@ -1,9 +1,7 @@
 ---
-title: "Hanska, Minnesota Business Directory"
+title: "Hanska, MN Business Directory"
+type: "towns"
 slug: "hanska-mn"
-town: "Hanska"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 753
+state: "mn"
+town_data: "hanska-mn"
 ---

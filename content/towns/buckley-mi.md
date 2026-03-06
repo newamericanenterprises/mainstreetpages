@@ -1,9 +1,7 @@
 ---
-title: "Buckley, Michigan Business Directory"
+title: "Buckley, MI Business Directory"
+type: "towns"
 slug: "buckley-mi"
-town: "Buckley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wexford"
-population: 2180
+state: "mi"
+town_data: "buckley-mi"
 ---

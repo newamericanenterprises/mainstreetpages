@@ -1,7 +1,7 @@
 ---
-title: "Stover, Missouri Business Directory"
+title: "Stover, MO Business Directory"
+type: "towns"
 slug: "stover-mo"
-state: "MO"
-county: "Morgan"
-population: 1500
+state: "mo"
+town_data: "stover-mo"
 ---

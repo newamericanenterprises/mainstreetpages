@@ -1,7 +1,7 @@
 ---
-title: "Brookhaven, Mississippi Business Directory"
+title: "Brookhaven, MS Business Directory"
+type: "towns"
 slug: "brookhaven-ms"
-state: "MS"
-county: "Lincoln"
-population: 12513
+state: "ms"
+town_data: "brookhaven-ms"
 ---

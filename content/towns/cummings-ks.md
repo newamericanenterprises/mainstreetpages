@@ -1,9 +1,7 @@
 ---
-title: "Cummings, Kansas Business Directory"
+title: "Cummings, KS Business Directory"
+type: "towns"
 slug: "cummings-ks"
-town: "Cummings"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 2873
+state: "ks"
+town_data: "cummings-ks"
 ---

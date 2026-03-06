@@ -1,9 +1,7 @@
 ---
-title: "Prescott, Iowa Business Directory"
+title: "Prescott, IA Business Directory"
+type: "towns"
 slug: "prescott-ia"
-town: "Prescott"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adams"
-population: 2567
+state: "ia"
+town_data: "prescott-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Agatha, Maine Business Directory"
+title: "St. Agatha, ME Business Directory"
+type: "towns"
 slug: "st-agatha-me"
-town: "St. Agatha"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 2445
+state: "me"
+town_data: "st-agatha-me"
 ---

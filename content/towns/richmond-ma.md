@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Massachusetts Business Directory"
+title: "Richmond, MA Business Directory"
+type: "towns"
 slug: "richmond-ma"
-town: "Richmond"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8815
+state: "ma"
+town_data: "richmond-ma"
 ---

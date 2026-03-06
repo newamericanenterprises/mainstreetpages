@@ -1,9 +1,7 @@
 ---
-title: "Mission, Kansas Business Directory"
+title: "Mission, KS Business Directory"
+type: "towns"
 slug: "mission-ks"
-town: "Mission"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 9482
+state: "ks"
+town_data: "mission-ks"
 ---

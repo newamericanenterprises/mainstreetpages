@@ -1,9 +1,7 @@
 ---
-title: "Sac City, Iowa Business Directory"
+title: "Sac City, IA Business Directory"
+type: "towns"
 slug: "sac-city-ia"
-town: "Sac City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 2220
+state: "ia"
+town_data: "sac-city-ia"
 ---

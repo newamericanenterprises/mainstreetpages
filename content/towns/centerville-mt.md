@@ -1,7 +1,7 @@
 ---
-title: "Centerville, Montana Business Directory"
+title: "Centerville, MT Business Directory"
+type: "towns"
 slug: "centerville-mt"
-state: "MT"
-county: "Butte-Silver Bow"
-population: 500
+state: "mt"
+town_data: "centerville-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Somerset, Kentucky Business Directory"
+title: "Somerset, KY Business Directory"
+type: "towns"
 slug: "somerset-ky"
-town: "Somerset"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pulaski"
-population: 12749
+state: "ky"
+town_data: "somerset-ky"
 ---

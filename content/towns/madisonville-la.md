@@ -1,9 +1,7 @@
 ---
-title: "Madisonville, Louisiana Business Directory"
+title: "Madisonville, LA Business Directory"
+type: "towns"
 slug: "madisonville-la"
-town: "Madisonville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 1881
+state: "la"
+town_data: "madisonville-la"
 ---

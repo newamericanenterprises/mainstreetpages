@@ -1,9 +1,7 @@
 ---
-title: "Clay City, Indiana Business Directory"
+title: "Clay City, IN Business Directory"
+type: "towns"
 slug: "clay-city-in"
-town: "Clay City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 3411
+state: "in"
+town_data: "clay-city-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "West Bridgewater, Massachusetts Business Directory"
+title: "West Bridgewater, MA Business Directory"
+type: "towns"
 slug: "west-bridgewater-ma"
-town: "West Bridgewater"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 6906
+state: "ma"
+town_data: "west-bridgewater-ma"
 ---

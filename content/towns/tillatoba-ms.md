@@ -1,7 +1,7 @@
 ---
-title: "Tillatoba, Mississippi Business Directory"
+title: "Tillatoba, MS Business Directory"
+type: "towns"
 slug: "tillatoba-ms"
-state: "MS"
-county: "Yalobusha"
-population: 164
+state: "ms"
+town_data: "tillatoba-ms"
 ---

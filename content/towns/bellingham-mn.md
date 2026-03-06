@@ -1,9 +1,7 @@
 ---
-title: "Bellingham, Minnesota Business Directory"
+title: "Bellingham, MN Business Directory"
+type: "towns"
 slug: "bellingham-mn"
-town: "Bellingham"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 1125
+state: "mn"
+town_data: "bellingham-mn"
 ---

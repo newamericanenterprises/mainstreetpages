@@ -1,7 +1,7 @@
 ---
-title: "Fayette, Mississippi Business Directory"
+title: "Fayette, MS Business Directory"
+type: "towns"
 slug: "fayette-ms"
-state: "MS"
-county: "Jefferson"
-population: 1616
+state: "ms"
+town_data: "fayette-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hawthorne, Nevada Business Directory"
+title: "Hawthorne, NV Business Directory"
+type: "towns"
 slug: "hawthorne-nv"
-state: "NV"
-county: "Mineral"
-population: 3095
+state: "nv"
+town_data: "hawthorne-nv"
 ---

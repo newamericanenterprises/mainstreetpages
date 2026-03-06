@@ -1,7 +1,7 @@
 ---
-title: "Duck Hill, Mississippi Business Directory"
+title: "Duck Hill, MS Business Directory"
+type: "towns"
 slug: "duck-hill-ms"
-state: "MS"
-county: "Montgomery"
-population: 813
+state: "ms"
+town_data: "duck-hill-ms"
 ---

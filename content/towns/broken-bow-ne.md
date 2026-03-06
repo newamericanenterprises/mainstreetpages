@@ -1,7 +1,7 @@
 ---
-title: "Broken Bow, Nebraska Business Directory"
+title: "Broken Bow, NE Business Directory"
+type: "towns"
 slug: "broken-bow-ne"
-state: "NE"
-county: "Custer"
-population: 3559
+state: "ne"
+town_data: "broken-bow-ne"
 ---

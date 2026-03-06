@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Maine Business Directory"
+title: "Richmond, ME Business Directory"
+type: "towns"
 slug: "richmond-me"
-town: "Richmond"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 1351
+state: "me"
+town_data: "richmond-me"
 ---

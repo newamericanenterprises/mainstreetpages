@@ -1,9 +1,7 @@
 ---
-title: "Mallard, Iowa Business Directory"
+title: "Mallard, IA Business Directory"
+type: "towns"
 slug: "mallard-ia"
-town: "Mallard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 2289
+state: "ia"
+town_data: "mallard-ia"
 ---

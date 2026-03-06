@@ -1,9 +1,7 @@
 ---
-title: "Solomon, Kansas Business Directory"
+title: "Solomon, KS Business Directory"
+type: "towns"
 slug: "solomon-ks"
-town: "Solomon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 579
+state: "ks"
+town_data: "solomon-ks"
 ---

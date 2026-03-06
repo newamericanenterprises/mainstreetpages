@@ -1,9 +1,7 @@
 ---
-title: "Bernice, Louisiana Business Directory"
+title: "Bernice, LA Business Directory"
+type: "towns"
 slug: "bernice-la"
-town: "Bernice"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 1972
+state: "la"
+town_data: "bernice-la"
 ---

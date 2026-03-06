@@ -1,9 +1,7 @@
 ---
-title: "Sigourney, Iowa Business Directory"
+title: "Sigourney, IA Business Directory"
+type: "towns"
 slug: "sigourney-ia"
-town: "Sigourney"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2059
+state: "ia"
+town_data: "sigourney-ia"
 ---

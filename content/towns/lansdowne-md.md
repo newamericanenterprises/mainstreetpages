@@ -1,9 +1,7 @@
 ---
-title: "Lansdowne, Maryland Business Directory"
+title: "Lansdowne, MD Business Directory"
+type: "towns"
 slug: "lansdowne-md"
-town: "Lansdowne"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 3077
+state: "md"
+town_data: "lansdowne-md"
 ---

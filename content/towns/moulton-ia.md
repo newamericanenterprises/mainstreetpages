@@ -1,9 +1,7 @@
 ---
-title: "Moulton, Iowa Business Directory"
+title: "Moulton, IA Business Directory"
+type: "towns"
 slug: "moulton-ia"
-town: "Moulton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 508
+state: "ia"
+town_data: "moulton-ia"
 ---

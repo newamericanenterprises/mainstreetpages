@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Massachusetts Business Directory"
+title: "Georgetown, MA Business Directory"
+type: "towns"
 slug: "georgetown-ma"
-town: "Georgetown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 7305
+state: "ma"
+town_data: "georgetown-ma"
 ---

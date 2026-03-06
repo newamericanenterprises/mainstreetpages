@@ -1,9 +1,7 @@
 ---
-title: "Renwick, Iowa Business Directory"
+title: "Renwick, IA Business Directory"
+type: "towns"
 slug: "renwick-ia"
-town: "Renwick"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 2797
+state: "ia"
+town_data: "renwick-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sharon, Massachusetts Business Directory"
+title: "Sharon, MA Business Directory"
+type: "towns"
 slug: "sharon-ma"
-town: "Sharon"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 18662
+state: "ma"
+town_data: "sharon-ma"
 ---

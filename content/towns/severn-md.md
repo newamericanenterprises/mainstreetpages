@@ -1,9 +1,7 @@
 ---
-title: "Severn, Maryland Business Directory"
+title: "Severn, MD Business Directory"
+type: "towns"
 slug: "severn-md"
-town: "Severn"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 51285
+state: "md"
+town_data: "severn-md"
 ---

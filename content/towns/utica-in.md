@@ -1,9 +1,7 @@
 ---
-title: "Utica, Indiana Business Directory"
+title: "Utica, IN Business Directory"
+type: "towns"
 slug: "utica-in"
-town: "Utica"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clark"
-population: 3267
+state: "in"
+town_data: "utica-in"
 ---

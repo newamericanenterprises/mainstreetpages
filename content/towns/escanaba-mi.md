@@ -1,9 +1,7 @@
 ---
-title: "Escanaba, Michigan Business Directory"
+title: "Escanaba, MI Business Directory"
+type: "towns"
 slug: "escanaba-mi"
-town: "Escanaba"
-state: "Michigan"
-state_abbr: "MI"
-county: "Delta"
-population: 12309
+state: "mi"
+town_data: "escanaba-mi"
 ---

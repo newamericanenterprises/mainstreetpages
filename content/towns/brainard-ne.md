@@ -1,7 +1,7 @@
 ---
-title: "Brainard, Nebraska Business Directory"
+title: "Brainard, NE Business Directory"
+type: "towns"
 slug: "brainard-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "brainard-ne"
 ---

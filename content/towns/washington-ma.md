@@ -1,9 +1,7 @@
 ---
-title: "Washington, Massachusetts Business Directory"
+title: "Washington, MA Business Directory"
+type: "towns"
 slug: "washington-ma"
-town: "Washington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 6703
+state: "ma"
+town_data: "washington-ma"
 ---

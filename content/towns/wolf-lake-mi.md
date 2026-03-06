@@ -1,9 +1,7 @@
 ---
-title: "Wolf Lake, Michigan Business Directory"
+title: "Wolf Lake, MI Business Directory"
+type: "towns"
 slug: "wolf-lake-mi"
-town: "Wolf Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 2703
+state: "mi"
+town_data: "wolf-lake-mi"
 ---

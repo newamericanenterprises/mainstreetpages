@@ -1,9 +1,7 @@
 ---
-title: "Argos, Indiana Business Directory"
+title: "Argos, IN Business Directory"
+type: "towns"
 slug: "argos-in"
-town: "Argos"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 4137
+state: "in"
+town_data: "argos-in"
 ---

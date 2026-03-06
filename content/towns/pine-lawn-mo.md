@@ -1,7 +1,7 @@
 ---
-title: "Pine Lawn, Missouri Business Directory"
+title: "Pine Lawn, MO Business Directory"
+type: "towns"
 slug: "pine-lawn-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "pine-lawn-mo"
 ---

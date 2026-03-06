@@ -1,7 +1,7 @@
 ---
-title: "Sun River, Montana Business Directory"
+title: "Sun River, MT Business Directory"
+type: "towns"
 slug: "sun-river-mt"
-state: "MT"
-county: "Cascade"
-population: 413
+state: "mt"
+town_data: "sun-river-mt"
 ---

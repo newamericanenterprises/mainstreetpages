@@ -1,7 +1,7 @@
 ---
-title: "Ayr, Nebraska Business Directory"
+title: "Ayr, NE Business Directory"
+type: "towns"
 slug: "ayr-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "ayr-ne"
 ---

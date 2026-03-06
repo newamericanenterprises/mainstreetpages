@@ -1,9 +1,7 @@
 ---
-title: "Woodburn, Kentucky Business Directory"
+title: "Woodburn, KY Business Directory"
+type: "towns"
 slug: "woodburn-ky"
-town: "Woodburn"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Warren"
-population: 1318
+state: "ky"
+town_data: "woodburn-ky"
 ---

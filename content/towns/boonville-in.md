@@ -1,9 +1,7 @@
 ---
-title: "Boonville, Indiana Business Directory"
+title: "Boonville, IN Business Directory"
+type: "towns"
 slug: "boonville-in"
-town: "Boonville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warrick"
-population: 6246
+state: "in"
+town_data: "boonville-in"
 ---

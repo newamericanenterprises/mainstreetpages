@@ -1,9 +1,7 @@
 ---
-title: "Columbia, Maryland Business Directory"
+title: "Columbia, MD Business Directory"
+type: "towns"
 slug: "columbia-md"
-town: "Columbia"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 105412
+state: "md"
+town_data: "columbia-md"
 ---

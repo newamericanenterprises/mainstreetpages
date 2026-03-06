@@ -1,7 +1,7 @@
 ---
-title: "Braxton, Mississippi Business Directory"
+title: "Braxton, MS Business Directory"
+type: "towns"
 slug: "braxton-ms"
-state: "MS"
-county: "Simpson"
-population: 110
+state: "ms"
+town_data: "braxton-ms"
 ---

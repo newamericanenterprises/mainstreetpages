@@ -1,9 +1,7 @@
 ---
-title: "Long Beach, Indiana Business Directory"
+title: "Long Beach, IN Business Directory"
+type: "towns"
 slug: "long-beach-in"
-town: "Long Beach"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 3931
+state: "in"
+town_data: "long-beach-in"
 ---

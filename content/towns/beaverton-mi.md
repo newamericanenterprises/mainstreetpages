@@ -1,9 +1,7 @@
 ---
-title: "Beaverton, Michigan Business Directory"
+title: "Beaverton, MI Business Directory"
+type: "towns"
 slug: "beaverton-mi"
-town: "Beaverton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gladwin"
-population: 2834
+state: "mi"
+town_data: "beaverton-mi"
 ---

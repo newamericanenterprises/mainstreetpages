@@ -1,7 +1,7 @@
 ---
-title: "Cohagen, Montana Business Directory"
+title: "Cohagen, MT Business Directory"
+type: "towns"
 slug: "cohagen-mt"
-state: "MT"
-county: "Garfield"
-population: 500
+state: "mt"
+town_data: "cohagen-mt"
 ---

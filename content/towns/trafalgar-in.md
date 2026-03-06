@@ -1,9 +1,7 @@
 ---
-title: "Trafalgar, Indiana Business Directory"
+title: "Trafalgar, IN Business Directory"
+type: "towns"
 slug: "trafalgar-in"
-town: "Trafalgar"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 1996
+state: "in"
+town_data: "trafalgar-in"
 ---

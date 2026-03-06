@@ -1,9 +1,7 @@
 ---
-title: "Peru, Maine Business Directory"
+title: "Peru, ME Business Directory"
+type: "towns"
 slug: "peru-me"
-town: "Peru"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 373
+state: "me"
+town_data: "peru-me"
 ---

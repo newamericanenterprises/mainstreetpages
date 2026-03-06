@@ -1,9 +1,7 @@
 ---
-title: "Imlay City, Michigan Business Directory"
+title: "Imlay City, MI Business Directory"
+type: "towns"
 slug: "imlay-city-mi"
-town: "Imlay City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 4672
+state: "mi"
+town_data: "imlay-city-mi"
 ---

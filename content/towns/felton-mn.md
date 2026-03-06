@@ -1,9 +1,7 @@
 ---
-title: "Felton, Minnesota Business Directory"
+title: "Felton, MN Business Directory"
+type: "towns"
 slug: "felton-mn"
-town: "Felton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 2424
+state: "mn"
+town_data: "felton-mn"
 ---

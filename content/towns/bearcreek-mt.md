@@ -1,7 +1,7 @@
 ---
-title: "Bearcreek, Montana Business Directory"
+title: "Bearcreek, MT Business Directory"
+type: "towns"
 slug: "bearcreek-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "bearcreek-mt"
 ---

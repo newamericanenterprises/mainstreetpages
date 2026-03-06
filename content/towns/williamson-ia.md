@@ -1,9 +1,7 @@
 ---
-title: "Williamson, Iowa Business Directory"
+title: "Williamson, IA Business Directory"
+type: "towns"
 slug: "williamson-ia"
-town: "Williamson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lucas"
-population: 517
+state: "ia"
+town_data: "williamson-ia"
 ---

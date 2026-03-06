@@ -1,9 +1,7 @@
 ---
-title: "Loogootee, Indiana Business Directory"
+title: "Loogootee, IN Business Directory"
+type: "towns"
 slug: "loogootee-in"
-town: "Loogootee"
-state: "Indiana"
-state_abbr: "IN"
-county: "Martin"
-population: 2061
+state: "in"
+town_data: "loogootee-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beechwood Village, Kentucky Business Directory"
+title: "Beechwood Village, KY Business Directory"
+type: "towns"
 slug: "beechwood-village-ky"
-town: "Beechwood Village"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1201
+state: "ky"
+town_data: "beechwood-village-ky"
 ---

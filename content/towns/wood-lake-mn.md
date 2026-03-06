@@ -1,9 +1,7 @@
 ---
-title: "Wood Lake, Minnesota Business Directory"
+title: "Wood Lake, MN Business Directory"
+type: "towns"
 slug: "wood-lake-mn"
-town: "Wood Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 1174
+state: "mn"
+town_data: "wood-lake-mn"
 ---

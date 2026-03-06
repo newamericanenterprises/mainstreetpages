@@ -1,9 +1,7 @@
 ---
-title: "Sebewaing, Michigan Business Directory"
+title: "Sebewaing, MI Business Directory"
+type: "towns"
 slug: "sebewaing-mi"
-town: "Sebewaing"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 3621
+state: "mi"
+town_data: "sebewaing-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Madison, Minnesota Business Directory"
+title: "Madison, MN Business Directory"
+type: "towns"
 slug: "madison-mn"
-town: "Madison"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 1551
+state: "mn"
+town_data: "madison-mn"
 ---

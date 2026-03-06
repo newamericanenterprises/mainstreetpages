@@ -1,9 +1,7 @@
 ---
-title: "Shueyville, Iowa Business Directory"
+title: "Shueyville, IA Business Directory"
+type: "towns"
 slug: "shueyville-ia"
-town: "Shueyville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2903
+state: "ia"
+town_data: "shueyville-ia"
 ---

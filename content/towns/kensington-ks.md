@@ -1,9 +1,7 @@
 ---
-title: "Kensington, Kansas Business Directory"
+title: "Kensington, KS Business Directory"
+type: "towns"
 slug: "kensington-ks"
-town: "Kensington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Smith"
-population: 862
+state: "ks"
+town_data: "kensington-ks"
 ---

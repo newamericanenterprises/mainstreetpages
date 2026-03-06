@@ -1,9 +1,7 @@
 ---
-title: "Pikeville, Kentucky Business Directory"
+title: "Pikeville, KY Business Directory"
+type: "towns"
 slug: "pikeville-ky"
-town: "Pikeville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pike"
-population: 6903
+state: "ky"
+town_data: "pikeville-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Evarts, Kentucky Business Directory"
+title: "Evarts, KY Business Directory"
+type: "towns"
 slug: "evarts-ky"
-town: "Evarts"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harlan"
-population: 2001
+state: "ky"
+town_data: "evarts-ky"
 ---

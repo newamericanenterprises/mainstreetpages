@@ -1,7 +1,7 @@
 ---
-title: "Amory, Mississippi Business Directory"
+title: "Amory, MS Business Directory"
+type: "towns"
 slug: "amory-ms"
-state: "MS"
-county: "Monroe"
-population: 7396
+state: "ms"
+town_data: "amory-ms"
 ---

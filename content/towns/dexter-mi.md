@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Michigan Business Directory"
+title: "Dexter, MI Business Directory"
+type: "towns"
 slug: "dexter-mi"
-town: "Dexter"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4452
+state: "mi"
+town_data: "dexter-mi"
 ---

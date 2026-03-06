@@ -1,9 +1,7 @@
 ---
-title: "Damar, Kansas Business Directory"
+title: "Damar, KS Business Directory"
+type: "towns"
 slug: "damar-ks"
-town: "Damar"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 1631
+state: "ks"
+town_data: "damar-ks"
 ---

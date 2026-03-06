@@ -1,9 +1,7 @@
 ---
-title: "West Tisbury, Massachusetts Business Directory"
+title: "West Tisbury, MA Business Directory"
+type: "towns"
 slug: "west-tisbury-ma"
-town: "West Tisbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 8071
+state: "ma"
+town_data: "west-tisbury-ma"
 ---

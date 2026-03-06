@@ -1,9 +1,7 @@
 ---
-title: "Wrentham, Massachusetts Business Directory"
+title: "Wrentham, MA Business Directory"
+type: "towns"
 slug: "wrentham-ma"
-town: "Wrentham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 3452
+state: "ma"
+town_data: "wrentham-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Taunton, Massachusetts Business Directory"
+title: "Taunton, MA Business Directory"
+type: "towns"
 slug: "taunton-ma"
-town: "Taunton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 58946
+state: "ma"
+town_data: "taunton-ma"
 ---

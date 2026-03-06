@@ -1,9 +1,7 @@
 ---
-title: "Bridgewater, Maine Business Directory"
+title: "Bridgewater, ME Business Directory"
+type: "towns"
 slug: "bridgewater-me"
-town: "Bridgewater"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1392
+state: "me"
+town_data: "bridgewater-me"
 ---

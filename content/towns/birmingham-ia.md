@@ -1,9 +1,7 @@
 ---
-title: "Birmingham, Iowa Business Directory"
+title: "Birmingham, IA Business Directory"
+type: "towns"
 slug: "birmingham-ia"
-town: "Birmingham"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 690
+state: "ia"
+town_data: "birmingham-ia"
 ---

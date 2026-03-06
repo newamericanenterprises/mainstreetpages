@@ -1,7 +1,7 @@
 ---
-title: "Reed Point, Montana Business Directory"
+title: "Reed Point, MT Business Directory"
+type: "towns"
 slug: "reed-point-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "reed-point-mt"
 ---

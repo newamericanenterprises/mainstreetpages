@@ -1,9 +1,7 @@
 ---
-title: "Covington, Louisiana Business Directory"
+title: "Covington, LA Business Directory"
+type: "towns"
 slug: "covington-la"
-town: "Covington"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 10471
+state: "la"
+town_data: "covington-la"
 ---

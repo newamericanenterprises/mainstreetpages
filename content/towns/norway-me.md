@@ -1,9 +1,7 @@
 ---
-title: "Norway, Maine Business Directory"
+title: "Norway, ME Business Directory"
+type: "towns"
 slug: "norway-me"
-town: "Norway"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 5077
+state: "me"
+town_data: "norway-me"
 ---

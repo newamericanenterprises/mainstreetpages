@@ -1,9 +1,7 @@
 ---
-title: "Cheneyville, Louisiana Business Directory"
+title: "Cheneyville, LA Business Directory"
+type: "towns"
 slug: "cheneyville-la"
-town: "Cheneyville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 2131
+state: "la"
+town_data: "cheneyville-la"
 ---

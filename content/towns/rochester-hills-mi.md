@@ -1,9 +1,7 @@
 ---
-title: "Rochester Hills, Michigan Business Directory"
+title: "Rochester Hills, MI Business Directory"
+type: "towns"
 slug: "rochester-hills-mi"
-town: "Rochester Hills"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 76501
+state: "mi"
+town_data: "rochester-hills-mi"
 ---

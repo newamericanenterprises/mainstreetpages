@@ -1,9 +1,7 @@
 ---
-title: "Erhard, Minnesota Business Directory"
+title: "Erhard, MN Business Directory"
+type: "towns"
 slug: "erhard-mn"
-town: "Erhard"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 643
+state: "mn"
+town_data: "erhard-mn"
 ---

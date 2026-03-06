@@ -1,9 +1,7 @@
 ---
-title: "Jessup, Maryland Business Directory"
+title: "Jessup, MD Business Directory"
+type: "towns"
 slug: "jessup-md"
-town: "Jessup"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 511
+state: "md"
+town_data: "jessup-md"
 ---

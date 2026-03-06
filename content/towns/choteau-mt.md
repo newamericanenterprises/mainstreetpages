@@ -1,7 +1,7 @@
 ---
-title: "Choteau, Montana Business Directory"
+title: "Choteau, MT Business Directory"
+type: "towns"
 slug: "choteau-mt"
-state: "MT"
-county: "Teton"
-population: 1721
+state: "mt"
+town_data: "choteau-mt"
 ---

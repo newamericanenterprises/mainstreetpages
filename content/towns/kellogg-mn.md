@@ -1,9 +1,7 @@
 ---
-title: "Kellogg, Minnesota Business Directory"
+title: "Kellogg, MN Business Directory"
+type: "towns"
 slug: "kellogg-mn"
-town: "Kellogg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 1575
+state: "mn"
+town_data: "kellogg-mn"
 ---

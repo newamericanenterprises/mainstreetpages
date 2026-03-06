@@ -1,7 +1,7 @@
 ---
-title: "Gatewood, Missouri Business Directory"
+title: "Gatewood, MO Business Directory"
+type: "towns"
 slug: "gatewood-mo"
-state: "MO"
-county: "Ripley"
-population: 1500
+state: "mo"
+town_data: "gatewood-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sumner, Nebraska Business Directory"
+title: "Sumner, NE Business Directory"
+type: "towns"
 slug: "sumner-ne"
-state: "NE"
-county: "Dawson"
-population: 500
+state: "ne"
+town_data: "sumner-ne"
 ---

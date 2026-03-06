@@ -1,9 +1,7 @@
 ---
-title: "Whitehall, Michigan Business Directory"
+title: "Whitehall, MI Business Directory"
+type: "towns"
 slug: "whitehall-mi"
-town: "Whitehall"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 3775
+state: "mi"
+town_data: "whitehall-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Midland, Maryland Business Directory"
+title: "Midland, MD Business Directory"
+type: "towns"
 slug: "midland-md"
-town: "Midland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 5346
+state: "md"
+town_data: "midland-md"
 ---

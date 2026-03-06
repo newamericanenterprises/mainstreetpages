@@ -1,9 +1,7 @@
 ---
-title: "Greenwood, Maine Business Directory"
+title: "Greenwood, ME Business Directory"
+type: "towns"
 slug: "greenwood-me"
-town: "Greenwood"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2699
+state: "me"
+town_data: "greenwood-me"
 ---

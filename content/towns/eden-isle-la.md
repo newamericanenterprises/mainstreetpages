@@ -1,9 +1,7 @@
 ---
-title: "Eden Isle, Louisiana Business Directory"
+title: "Eden Isle, LA Business Directory"
+type: "towns"
 slug: "eden-isle-la"
-town: "Eden Isle"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 645
+state: "la"
+town_data: "eden-isle-la"
 ---

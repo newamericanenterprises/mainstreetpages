@@ -1,9 +1,7 @@
 ---
-title: "Walker, Kansas Business Directory"
+title: "Walker, KS Business Directory"
+type: "towns"
 slug: "walker-ks"
-town: "Walker"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellis"
-population: 3296
+state: "ks"
+town_data: "walker-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sedgwick, Kansas Business Directory"
+title: "Sedgwick, KS Business Directory"
+type: "towns"
 slug: "sedgwick-ks"
-town: "Sedgwick"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 637
+state: "ks"
+town_data: "sedgwick-ks"
 ---

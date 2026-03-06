@@ -1,9 +1,7 @@
 ---
-title: "La Porte, Indiana Business Directory"
+title: "La Porte, IN Business Directory"
+type: "towns"
 slug: "la-porte-in"
-town: "La Porte"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 22053
+state: "in"
+town_data: "la-porte-in"
 ---

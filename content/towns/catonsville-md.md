@@ -1,9 +1,7 @@
 ---
-title: "Catonsville, Maryland Business Directory"
+title: "Catonsville, MD Business Directory"
+type: "towns"
 slug: "catonsville-md"
-town: "Catonsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 41567
+state: "md"
+town_data: "catonsville-md"
 ---

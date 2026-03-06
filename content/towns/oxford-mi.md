@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Michigan Business Directory"
+title: "Oxford, MI Business Directory"
+type: "towns"
 slug: "oxford-mi"
-town: "Oxford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3543
+state: "mi"
+town_data: "oxford-mi"
 ---

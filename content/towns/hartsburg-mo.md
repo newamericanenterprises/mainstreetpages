@@ -1,7 +1,7 @@
 ---
-title: "Hartsburg, Missouri Business Directory"
+title: "Hartsburg, MO Business Directory"
+type: "towns"
 slug: "hartsburg-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "hartsburg-mo"
 ---

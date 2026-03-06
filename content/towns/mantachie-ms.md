@@ -1,7 +1,7 @@
 ---
-title: "Mantachie, Mississippi Business Directory"
+title: "Mantachie, MS Business Directory"
+type: "towns"
 slug: "mantachie-ms"
-state: "MS"
-county: "Itawamba"
-population: 1102
+state: "ms"
+town_data: "mantachie-ms"
 ---

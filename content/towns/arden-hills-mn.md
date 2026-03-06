@@ -1,9 +1,7 @@
 ---
-title: "Arden Hills, Minnesota Business Directory"
+title: "Arden Hills, MN Business Directory"
+type: "towns"
 slug: "arden-hills-mn"
-town: "Arden Hills"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 386
+state: "mn"
+town_data: "arden-hills-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Morganville, Kansas Business Directory"
+title: "Morganville, KS Business Directory"
+type: "towns"
 slug: "morganville-ks"
-town: "Morganville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 3293
+state: "ks"
+town_data: "morganville-ks"
 ---

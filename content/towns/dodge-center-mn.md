@@ -1,9 +1,7 @@
 ---
-title: "Dodge Center, Minnesota Business Directory"
+title: "Dodge Center, MN Business Directory"
+type: "towns"
 slug: "dodge-center-mn"
-town: "Dodge Center"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 2813
+state: "mn"
+town_data: "dodge-center-mn"
 ---

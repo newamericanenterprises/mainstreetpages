@@ -1,9 +1,7 @@
 ---
-title: "Terril, Iowa Business Directory"
+title: "Terril, IA Business Directory"
+type: "towns"
 slug: "terril-ia"
-town: "Terril"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 885
+state: "ia"
+town_data: "terril-ia"
 ---

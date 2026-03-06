@@ -1,9 +1,7 @@
 ---
-title: "Shongaloo, Louisiana Business Directory"
+title: "Shongaloo, LA Business Directory"
+type: "towns"
 slug: "shongaloo-la"
-town: "Shongaloo"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 1309
+state: "la"
+town_data: "shongaloo-la"
 ---

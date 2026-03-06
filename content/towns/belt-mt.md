@@ -1,7 +1,7 @@
 ---
-title: "Belt, Montana Business Directory"
+title: "Belt, MT Business Directory"
+type: "towns"
 slug: "belt-mt"
-state: "MT"
-county: "Cascade"
-population: 633
+state: "mt"
+town_data: "belt-mt"
 ---

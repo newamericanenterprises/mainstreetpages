@@ -1,9 +1,7 @@
 ---
-title: "Geneva, Iowa Business Directory"
+title: "Geneva, IA Business Directory"
+type: "towns"
 slug: "geneva-ia"
-town: "Geneva"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 748
+state: "ia"
+town_data: "geneva-ia"
 ---

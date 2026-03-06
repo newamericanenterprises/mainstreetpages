@@ -1,9 +1,7 @@
 ---
-title: "Albion, Maine Business Directory"
+title: "Albion, ME Business Directory"
+type: "towns"
 slug: "albion-me"
-town: "Albion"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2692
+state: "me"
+town_data: "albion-me"
 ---

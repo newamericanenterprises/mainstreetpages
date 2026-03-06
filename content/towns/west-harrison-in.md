@@ -1,9 +1,7 @@
 ---
-title: "West Harrison, Indiana Business Directory"
+title: "West Harrison, IN Business Directory"
+type: "towns"
 slug: "west-harrison-in"
-town: "West Harrison"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dearborn"
-population: 1424
+state: "in"
+town_data: "west-harrison-in"
 ---

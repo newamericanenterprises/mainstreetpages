@@ -1,9 +1,7 @@
 ---
-title: "Ada, Minnesota Business Directory"
+title: "Ada, MN Business Directory"
+type: "towns"
 slug: "ada-mn"
-town: "Ada"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 1561
+state: "mn"
+town_data: "ada-mn"
 ---

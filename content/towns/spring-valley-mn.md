@@ -1,9 +1,7 @@
 ---
-title: "Spring Valley, Minnesota Business Directory"
+title: "Spring Valley, MN Business Directory"
+type: "towns"
 slug: "spring-valley-mn"
-town: "Spring Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 1384
+state: "mn"
+town_data: "spring-valley-mn"
 ---

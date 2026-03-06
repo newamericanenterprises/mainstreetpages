@@ -1,9 +1,7 @@
 ---
-title: "Macksburg, Iowa Business Directory"
+title: "Macksburg, IA Business Directory"
+type: "towns"
 slug: "macksburg-ia"
-town: "Macksburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Madison"
-population: 1256
+state: "ia"
+town_data: "macksburg-ia"
 ---

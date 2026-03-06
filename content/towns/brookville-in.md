@@ -1,9 +1,7 @@
 ---
-title: "Brookville, Indiana Business Directory"
+title: "Brookville, IN Business Directory"
+type: "towns"
 slug: "brookville-in"
-town: "Brookville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Franklin"
-population: 2596
+state: "in"
+town_data: "brookville-in"
 ---

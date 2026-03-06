@@ -1,7 +1,7 @@
 ---
-title: "Leshara, Nebraska Business Directory"
+title: "Leshara, NE Business Directory"
+type: "towns"
 slug: "leshara-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "leshara-ne"
 ---

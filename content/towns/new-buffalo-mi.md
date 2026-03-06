@@ -1,9 +1,7 @@
 ---
-title: "New Buffalo, Michigan Business Directory"
+title: "New Buffalo, MI Business Directory"
+type: "towns"
 slug: "new-buffalo-mi"
-town: "New Buffalo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 828
+state: "mi"
+town_data: "new-buffalo-mi"
 ---

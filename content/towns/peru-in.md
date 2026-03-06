@@ -1,9 +1,7 @@
 ---
-title: "Peru, Indiana Business Directory"
+title: "Peru, IN Business Directory"
+type: "towns"
 slug: "peru-in"
-town: "Peru"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 11417
+state: "in"
+town_data: "peru-in"
 ---

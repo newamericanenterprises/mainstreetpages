@@ -1,9 +1,7 @@
 ---
-title: "Fenton, Michigan Business Directory"
+title: "Fenton, MI Business Directory"
+type: "towns"
 slug: "fenton-mi"
-town: "Fenton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 11756
+state: "mi"
+town_data: "fenton-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Cooke City, Montana Business Directory"
+title: "Cooke City, MT Business Directory"
+type: "towns"
 slug: "cooke-city-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "cooke-city-mt"
 ---

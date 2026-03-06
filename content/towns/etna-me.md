@@ -1,9 +1,7 @@
 ---
-title: "Etna, Maine Business Directory"
+title: "Etna, ME Business Directory"
+type: "towns"
 slug: "etna-me"
-town: "Etna"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2619
+state: "me"
+town_data: "etna-me"
 ---

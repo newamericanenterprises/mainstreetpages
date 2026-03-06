@@ -1,9 +1,7 @@
 ---
-title: "Hospers, Iowa Business Directory"
+title: "Hospers, IA Business Directory"
+type: "towns"
 slug: "hospers-ia"
-town: "Hospers"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 2247
+state: "ia"
+town_data: "hospers-ia"
 ---

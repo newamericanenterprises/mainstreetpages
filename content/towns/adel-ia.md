@@ -1,9 +1,7 @@
 ---
-title: "Adel, Iowa Business Directory"
+title: "Adel, IA Business Directory"
+type: "towns"
 slug: "adel-ia"
-town: "Adel"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 3498
+state: "ia"
+town_data: "adel-ia"
 ---

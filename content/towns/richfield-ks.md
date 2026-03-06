@@ -1,9 +1,7 @@
 ---
-title: "Richfield, Kansas Business Directory"
+title: "Richfield, KS Business Directory"
+type: "towns"
 slug: "richfield-ks"
-town: "Richfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morton"
-population: 656
+state: "ks"
+town_data: "richfield-ks"
 ---

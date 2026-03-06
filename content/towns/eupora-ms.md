@@ -1,7 +1,7 @@
 ---
-title: "Eupora, Mississippi Business Directory"
+title: "Eupora, MS Business Directory"
+type: "towns"
 slug: "eupora-ms"
-state: "MS"
-county: "Webster"
-population: 2214
+state: "ms"
+town_data: "eupora-ms"
 ---

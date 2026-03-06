@@ -1,9 +1,7 @@
 ---
-title: "Skidway Lake, Michigan Business Directory"
+title: "Skidway Lake, MI Business Directory"
+type: "towns"
 slug: "skidway-lake-mi"
-town: "Skidway Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ogemaw"
-population: 2104
+state: "mi"
+town_data: "skidway-lake-mi"
 ---

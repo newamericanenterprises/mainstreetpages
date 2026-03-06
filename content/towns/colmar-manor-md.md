@@ -1,9 +1,7 @@
 ---
-title: "Colmar Manor, Maryland Business Directory"
+title: "Colmar Manor, MD Business Directory"
+type: "towns"
 slug: "colmar-manor-md"
-town: "Colmar Manor"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4817
+state: "md"
+town_data: "colmar-manor-md"
 ---

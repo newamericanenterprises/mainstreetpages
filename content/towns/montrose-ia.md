@@ -1,9 +1,7 @@
 ---
-title: "Montrose, Iowa Business Directory"
+title: "Montrose, IA Business Directory"
+type: "towns"
 slug: "montrose-ia"
-town: "Montrose"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 638
+state: "ia"
+town_data: "montrose-ia"
 ---

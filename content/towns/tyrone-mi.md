@@ -1,9 +1,7 @@
 ---
-title: "Tyrone, Michigan Business Directory"
+title: "Tyrone, MI Business Directory"
+type: "towns"
 slug: "tyrone-mi"
-town: "Tyrone"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 4381
+state: "mi"
+town_data: "tyrone-mi"
 ---

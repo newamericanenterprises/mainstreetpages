@@ -1,9 +1,7 @@
 ---
-title: "Kalkaska, Michigan Business Directory"
+title: "Kalkaska, MI Business Directory"
+type: "towns"
 slug: "kalkaska-mi"
-town: "Kalkaska"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalkaska"
-population: 2167
+state: "mi"
+town_data: "kalkaska-mi"
 ---

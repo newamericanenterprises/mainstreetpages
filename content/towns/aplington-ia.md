@@ -1,9 +1,7 @@
 ---
-title: "Aplington, Iowa Business Directory"
+title: "Aplington, IA Business Directory"
+type: "towns"
 slug: "aplington-ia"
-town: "Aplington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 1481
+state: "ia"
+town_data: "aplington-ia"
 ---

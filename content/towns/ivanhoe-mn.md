@@ -1,9 +1,7 @@
 ---
-title: "Ivanhoe, Minnesota Business Directory"
+title: "Ivanhoe, MN Business Directory"
+type: "towns"
 slug: "ivanhoe-mn"
-town: "Ivanhoe"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lincoln"
-population: 1290
+state: "mn"
+town_data: "ivanhoe-mn"
 ---

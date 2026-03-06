@@ -1,9 +1,7 @@
 ---
-title: "Tonka Bay, Minnesota Business Directory"
+title: "Tonka Bay, MN Business Directory"
+type: "towns"
 slug: "tonka-bay-mn"
-town: "Tonka Bay"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 559
+state: "mn"
+town_data: "tonka-bay-mn"
 ---

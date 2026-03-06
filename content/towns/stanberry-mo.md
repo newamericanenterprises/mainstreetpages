@@ -1,7 +1,7 @@
 ---
-title: "Stanberry, Missouri Business Directory"
+title: "Stanberry, MO Business Directory"
+type: "towns"
 slug: "stanberry-mo"
-state: "MO"
-county: "Gentry"
-population: 1142
+state: "mo"
+town_data: "stanberry-mo"
 ---

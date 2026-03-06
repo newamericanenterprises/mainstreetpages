@@ -1,9 +1,7 @@
 ---
-title: "Haven, Minnesota Business Directory"
+title: "Haven, MN Business Directory"
+type: "towns"
 slug: "haven-mn"
-town: "Haven"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 2683
+state: "mn"
+town_data: "haven-mn"
 ---

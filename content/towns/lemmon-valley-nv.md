@@ -1,7 +1,7 @@
 ---
-title: "Lemmon Valley, Nevada Business Directory"
+title: "Lemmon Valley, NV Business Directory"
+type: "towns"
 slug: "lemmon-valley-nv"
-state: "NV"
-county: "Washoe"
-population: 6280
+state: "nv"
+town_data: "lemmon-valley-nv"
 ---

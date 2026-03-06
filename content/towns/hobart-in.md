@@ -1,9 +1,7 @@
 ---
-title: "Hobart, Indiana Business Directory"
+title: "Hobart, IN Business Directory"
+type: "towns"
 slug: "hobart-in"
-town: "Hobart"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 28314
+state: "in"
+town_data: "hobart-in"
 ---

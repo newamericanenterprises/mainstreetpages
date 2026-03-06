@@ -1,9 +1,7 @@
 ---
-title: "Eastham, Massachusetts Business Directory"
+title: "Eastham, MA Business Directory"
+type: "towns"
 slug: "eastham-ma"
-town: "Eastham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 4923
+state: "ma"
+town_data: "eastham-ma"
 ---

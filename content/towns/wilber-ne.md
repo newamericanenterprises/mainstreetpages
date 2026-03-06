@@ -1,7 +1,7 @@
 ---
-title: "Wilber, Nebraska Business Directory"
+title: "Wilber, NE Business Directory"
+type: "towns"
 slug: "wilber-ne"
-state: "NE"
-county: "Saline"
-population: 1860
+state: "ne"
+town_data: "wilber-ne"
 ---

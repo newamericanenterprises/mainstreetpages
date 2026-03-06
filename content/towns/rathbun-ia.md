@@ -1,9 +1,7 @@
 ---
-title: "Rathbun, Iowa Business Directory"
+title: "Rathbun, IA Business Directory"
+type: "towns"
 slug: "rathbun-ia"
-town: "Rathbun"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 1567
+state: "ia"
+town_data: "rathbun-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tyner, Indiana Business Directory"
+title: "Tyner, IN Business Directory"
+type: "towns"
 slug: "tyner-in"
-town: "Tyner"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 1373
+state: "in"
+town_data: "tyner-in"
 ---

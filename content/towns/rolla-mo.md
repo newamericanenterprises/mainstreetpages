@@ -1,7 +1,7 @@
 ---
-title: "Rolla, Missouri Business Directory"
+title: "Rolla, MO Business Directory"
+type: "towns"
 slug: "rolla-mo"
-state: "MO"
-county: "Phelps"
-population: 20090
+state: "mo"
+town_data: "rolla-mo"
 ---

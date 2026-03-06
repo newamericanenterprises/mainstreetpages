@@ -1,7 +1,7 @@
 ---
-title: "New Melle, Missouri Business Directory"
+title: "New Melle, MO Business Directory"
+type: "towns"
 slug: "new-melle-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "new-melle-mo"
 ---

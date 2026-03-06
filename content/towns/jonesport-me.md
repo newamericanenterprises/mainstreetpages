@@ -1,9 +1,7 @@
 ---
-title: "Jonesport, Maine Business Directory"
+title: "Jonesport, ME Business Directory"
+type: "towns"
 slug: "jonesport-me"
-town: "Jonesport"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 1190
+state: "me"
+town_data: "jonesport-me"
 ---

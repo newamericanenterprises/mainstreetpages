@@ -1,7 +1,7 @@
 ---
-title: "Rockaway Beach, Missouri Business Directory"
+title: "Rockaway Beach, MO Business Directory"
+type: "towns"
 slug: "rockaway-beach-mo"
-state: "MO"
-county: "Taney"
-population: 1500
+state: "mo"
+town_data: "rockaway-beach-mo"
 ---

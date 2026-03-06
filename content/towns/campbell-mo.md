@@ -1,7 +1,7 @@
 ---
-title: "Campbell, Missouri Business Directory"
+title: "Campbell, MO Business Directory"
+type: "towns"
 slug: "campbell-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "campbell-mo"
 ---

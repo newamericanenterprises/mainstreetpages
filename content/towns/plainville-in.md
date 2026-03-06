@@ -1,9 +1,7 @@
 ---
-title: "Plainville, Indiana Business Directory"
+title: "Plainville, IN Business Directory"
+type: "towns"
 slug: "plainville-in"
-town: "Plainville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 3605
+state: "in"
+town_data: "plainville-in"
 ---

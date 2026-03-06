@@ -1,7 +1,7 @@
 ---
-title: "Milo, Missouri Business Directory"
+title: "Milo, MO Business Directory"
+type: "towns"
 slug: "milo-mo"
-state: "MO"
-county: "Vernon"
-population: 1500
+state: "mo"
+town_data: "milo-mo"
 ---

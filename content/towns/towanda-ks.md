@@ -1,9 +1,7 @@
 ---
-title: "Towanda, Kansas Business Directory"
+title: "Towanda, KS Business Directory"
+type: "towns"
 slug: "towanda-ks"
-town: "Towanda"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 2977
+state: "ks"
+town_data: "towanda-ks"
 ---

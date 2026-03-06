@@ -1,7 +1,7 @@
 ---
-title: "Greycliff, Montana Business Directory"
+title: "Greycliff, MT Business Directory"
+type: "towns"
 slug: "greycliff-mt"
-state: "MT"
-county: "Sweet Grass"
-population: 500
+state: "mt"
+town_data: "greycliff-mt"
 ---

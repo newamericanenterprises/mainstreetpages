@@ -1,9 +1,7 @@
 ---
-title: "Sandusky, Michigan Business Directory"
+title: "Sandusky, MI Business Directory"
+type: "towns"
 slug: "sandusky-mi"
-town: "Sandusky"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 827
+state: "mi"
+town_data: "sandusky-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hamilton, Missouri Business Directory"
+title: "Hamilton, MO Business Directory"
+type: "towns"
 slug: "hamilton-mo"
-state: "MO"
-county: "Caldwell"
-population: 1820
+state: "mo"
+town_data: "hamilton-mo"
 ---

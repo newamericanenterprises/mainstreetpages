@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Kansas Business Directory"
+title: "Hanover, KS Business Directory"
+type: "towns"
 slug: "hanover-ks"
-town: "Hanover"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 2757
+state: "ks"
+town_data: "hanover-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Luke, Maryland Business Directory"
+title: "Luke, MD Business Directory"
+type: "towns"
 slug: "luke-md"
-town: "Luke"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 3960
+state: "md"
+town_data: "luke-md"
 ---

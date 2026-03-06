@@ -1,9 +1,7 @@
 ---
-title: "Middletown, Indiana Business Directory"
+title: "Middletown, IN Business Directory"
+type: "towns"
 slug: "middletown-in"
-town: "Middletown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 4374
+state: "in"
+town_data: "middletown-in"
 ---

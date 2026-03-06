@@ -1,7 +1,7 @@
 ---
-title: "Fort Leonard Wood, Missouri Business Directory"
+title: "Fort Leonard Wood, MO Business Directory"
+type: "towns"
 slug: "fort-leonard-wood-mo"
-state: "MO"
-county: "Pulaski"
-population: 14706
+state: "mo"
+town_data: "fort-leonard-wood-mo"
 ---

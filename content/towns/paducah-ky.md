@@ -1,9 +1,7 @@
 ---
-title: "Paducah, Kentucky Business Directory"
+title: "Paducah, KY Business Directory"
+type: "towns"
 slug: "paducah-ky"
-town: "Paducah"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McCracken"
-population: 27137
+state: "ky"
+town_data: "paducah-ky"
 ---

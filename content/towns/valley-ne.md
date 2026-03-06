@@ -1,7 +1,7 @@
 ---
-title: "Valley, Nebraska Business Directory"
+title: "Valley, NE Business Directory"
+type: "towns"
 slug: "valley-ne"
-state: "NE"
-county: "Douglas"
-population: 2280
+state: "ne"
+town_data: "valley-ne"
 ---

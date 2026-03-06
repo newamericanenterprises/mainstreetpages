@@ -1,7 +1,7 @@
 ---
-title: "Heart Butte, Montana Business Directory"
+title: "Heart Butte, MT Business Directory"
+type: "towns"
 slug: "heart-butte-mt"
-state: "MT"
-county: "Pondera"
-population: 580
+state: "mt"
+town_data: "heart-butte-mt"
 ---

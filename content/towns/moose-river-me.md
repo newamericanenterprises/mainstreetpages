@@ -1,9 +1,7 @@
 ---
-title: "Moose River, Maine Business Directory"
+title: "Moose River, ME Business Directory"
+type: "towns"
 slug: "moose-river-me"
-town: "Moose River"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1623
+state: "me"
+town_data: "moose-river-me"
 ---

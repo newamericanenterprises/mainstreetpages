@@ -1,7 +1,7 @@
 ---
-title: "Bladen, Nebraska Business Directory"
+title: "Bladen, NE Business Directory"
+type: "towns"
 slug: "bladen-ne"
-state: "NE"
-county: "Webster"
-population: 500
+state: "ne"
+town_data: "bladen-ne"
 ---

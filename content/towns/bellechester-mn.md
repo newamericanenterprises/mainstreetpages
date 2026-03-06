@@ -1,9 +1,7 @@
 ---
-title: "Bellechester, Minnesota Business Directory"
+title: "Bellechester, MN Business Directory"
+type: "towns"
 slug: "bellechester-mn"
-town: "Bellechester"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 2497
+state: "mn"
+town_data: "bellechester-mn"
 ---

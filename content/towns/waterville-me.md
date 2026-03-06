@@ -1,9 +1,7 @@
 ---
-title: "Waterville, Maine Business Directory"
+title: "Waterville, ME Business Directory"
+type: "towns"
 slug: "waterville-me"
-town: "Waterville"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 16579
+state: "me"
+town_data: "waterville-me"
 ---

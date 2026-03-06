@@ -1,9 +1,7 @@
 ---
-title: "Williams, Iowa Business Directory"
+title: "Williams, IA Business Directory"
+type: "towns"
 slug: "williams-ia"
-town: "Williams"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 3051
+state: "ia"
+town_data: "williams-ia"
 ---

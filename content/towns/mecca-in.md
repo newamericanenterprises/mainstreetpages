@@ -1,9 +1,7 @@
 ---
-title: "Mecca, Indiana Business Directory"
+title: "Mecca, IN Business Directory"
+type: "towns"
 slug: "mecca-in"
-town: "Mecca"
-state: "Indiana"
-state_abbr: "IN"
-county: "Parke"
-population: 4758
+state: "in"
+town_data: "mecca-in"
 ---

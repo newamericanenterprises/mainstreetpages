@@ -1,9 +1,7 @@
 ---
-title: "Secretary, Maryland Business Directory"
+title: "Secretary, MD Business Directory"
+type: "towns"
 slug: "secretary-md"
-town: "Secretary"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 843
+state: "md"
+town_data: "secretary-md"
 ---

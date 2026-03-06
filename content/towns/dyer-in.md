@@ -1,9 +1,7 @@
 ---
-title: "Dyer, Indiana Business Directory"
+title: "Dyer, IN Business Directory"
+type: "towns"
 slug: "dyer-in"
-town: "Dyer"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 16390
+state: "in"
+town_data: "dyer-in"
 ---

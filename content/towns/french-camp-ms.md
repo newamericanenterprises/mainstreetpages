@@ -1,7 +1,7 @@
 ---
-title: "French Camp, Mississippi Business Directory"
+title: "French Camp, MS Business Directory"
+type: "towns"
 slug: "french-camp-ms"
-state: "MS"
-county: "Choctaw"
-population: 192
+state: "ms"
+town_data: "french-camp-ms"
 ---

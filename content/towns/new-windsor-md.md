@@ -1,9 +1,7 @@
 ---
-title: "New Windsor, Maryland Business Directory"
+title: "New Windsor, MD Business Directory"
+type: "towns"
 slug: "new-windsor-md"
-town: "New Windsor"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 5069
+state: "md"
+town_data: "new-windsor-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "South Haven, Minnesota Business Directory"
+title: "South Haven, MN Business Directory"
+type: "towns"
 slug: "south-haven-mn"
-town: "South Haven"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 1288
+state: "mn"
+town_data: "south-haven-mn"
 ---

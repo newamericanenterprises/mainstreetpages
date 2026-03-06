@@ -1,9 +1,7 @@
 ---
-title: "Unionville, Iowa Business Directory"
+title: "Unionville, IA Business Directory"
+type: "towns"
 slug: "unionville-ia"
-town: "Unionville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 2288
+state: "ia"
+town_data: "unionville-ia"
 ---

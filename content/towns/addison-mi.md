@@ -1,9 +1,7 @@
 ---
-title: "Addison, Michigan Business Directory"
+title: "Addison, MI Business Directory"
+type: "towns"
 slug: "addison-mi"
-town: "Addison"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 5393
+state: "mi"
+town_data: "addison-mi"
 ---

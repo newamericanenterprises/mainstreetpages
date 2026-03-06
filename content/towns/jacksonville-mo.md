@@ -1,7 +1,7 @@
 ---
-title: "Jacksonville, Missouri Business Directory"
+title: "Jacksonville, MO Business Directory"
+type: "towns"
 slug: "jacksonville-mo"
-state: "MO"
-county: "Randolph"
-population: 1500
+state: "mo"
+town_data: "jacksonville-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Leoti, Kansas Business Directory"
+title: "Leoti, KS Business Directory"
+type: "towns"
 slug: "leoti-ks"
-town: "Leoti"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wichita"
-population: 1471
+state: "ks"
+town_data: "leoti-ks"
 ---

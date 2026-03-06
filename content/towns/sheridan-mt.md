@@ -1,7 +1,7 @@
 ---
-title: "Sheridan, Montana Business Directory"
+title: "Sheridan, MT Business Directory"
+type: "towns"
 slug: "sheridan-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "sheridan-mt"
 ---

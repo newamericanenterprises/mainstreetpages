@@ -1,7 +1,7 @@
 ---
-title: "Alberton, Montana Business Directory"
+title: "Alberton, MT Business Directory"
+type: "towns"
 slug: "alberton-mt"
-state: "MT"
-county: "Mineral"
-population: 500
+state: "mt"
+town_data: "alberton-mt"
 ---

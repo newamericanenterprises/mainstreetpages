@@ -1,9 +1,7 @@
 ---
-title: "Brownsville, Louisiana Business Directory"
+title: "Brownsville, LA Business Directory"
+type: "towns"
 slug: "brownsville-la"
-town: "Brownsville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 1506
+state: "la"
+town_data: "brownsville-la"
 ---

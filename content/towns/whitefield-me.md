@@ -1,9 +1,7 @@
 ---
-title: "Whitefield, Maine Business Directory"
+title: "Whitefield, ME Business Directory"
+type: "towns"
 slug: "whitefield-me"
-town: "Whitefield"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2546
+state: "me"
+town_data: "whitefield-me"
 ---

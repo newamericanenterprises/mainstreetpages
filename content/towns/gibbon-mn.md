@@ -1,9 +1,7 @@
 ---
-title: "Gibbon, Minnesota Business Directory"
+title: "Gibbon, MN Business Directory"
+type: "towns"
 slug: "gibbon-mn"
-town: "Gibbon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 2919
+state: "mn"
+town_data: "gibbon-mn"
 ---

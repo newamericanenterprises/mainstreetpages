@@ -1,9 +1,7 @@
 ---
-title: "Ashton, Iowa Business Directory"
+title: "Ashton, IA Business Directory"
+type: "towns"
 slug: "ashton-ia"
-town: "Ashton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 1609
+state: "ia"
+town_data: "ashton-ia"
 ---

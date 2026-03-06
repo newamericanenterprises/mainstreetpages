@@ -1,9 +1,7 @@
 ---
-title: "Nichols, Iowa Business Directory"
+title: "Nichols, IA Business Directory"
+type: "towns"
 slug: "nichols-ia"
-town: "Nichols"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 528
+state: "ia"
+town_data: "nichols-ia"
 ---

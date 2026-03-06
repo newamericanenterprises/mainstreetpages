@@ -1,9 +1,7 @@
 ---
-title: "Roseland, Louisiana Business Directory"
+title: "Roseland, LA Business Directory"
+type: "towns"
 slug: "roseland-la"
-town: "Roseland"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 1744
+state: "la"
+town_data: "roseland-la"
 ---

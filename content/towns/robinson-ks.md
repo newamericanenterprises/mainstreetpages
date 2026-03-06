@@ -1,9 +1,7 @@
 ---
-title: "Robinson, Kansas Business Directory"
+title: "Robinson, KS Business Directory"
+type: "towns"
 slug: "robinson-ks"
-town: "Robinson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 813
+state: "ks"
+town_data: "robinson-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dana, Indiana Business Directory"
+title: "Dana, IN Business Directory"
+type: "towns"
 slug: "dana-in"
-town: "Dana"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 2026
+state: "in"
+town_data: "dana-in"
 ---

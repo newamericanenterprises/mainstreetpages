@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Massachusetts Business Directory"
+title: "Clinton, MA Business Directory"
+type: "towns"
 slug: "clinton-ma"
-town: "Clinton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1971
+state: "ma"
+town_data: "clinton-ma"
 ---

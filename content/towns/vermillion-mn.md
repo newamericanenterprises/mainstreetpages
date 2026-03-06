@@ -1,9 +1,7 @@
 ---
-title: "Vermillion, Minnesota Business Directory"
+title: "Vermillion, MN Business Directory"
+type: "towns"
 slug: "vermillion-mn"
-town: "Vermillion"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 418
+state: "mn"
+town_data: "vermillion-mn"
 ---

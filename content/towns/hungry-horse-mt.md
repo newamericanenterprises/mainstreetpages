@@ -1,7 +1,7 @@
 ---
-title: "Hungry Horse, Montana Business Directory"
+title: "Hungry Horse, MT Business Directory"
+type: "towns"
 slug: "hungry-horse-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "hungry-horse-mt"
 ---

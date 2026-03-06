@@ -1,7 +1,7 @@
 ---
-title: "Pinesdale, Montana Business Directory"
+title: "Pinesdale, MT Business Directory"
+type: "towns"
 slug: "pinesdale-mt"
-state: "MT"
-county: "Ravalli"
-population: 500
+state: "mt"
+town_data: "pinesdale-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Chapin, Iowa Business Directory"
+title: "Chapin, IA Business Directory"
+type: "towns"
 slug: "chapin-ia"
-town: "Chapin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 2953
+state: "ia"
+town_data: "chapin-ia"
 ---

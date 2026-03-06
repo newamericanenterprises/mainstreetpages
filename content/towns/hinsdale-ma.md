@@ -1,9 +1,7 @@
 ---
-title: "Hinsdale, Massachusetts Business Directory"
+title: "Hinsdale, MA Business Directory"
+type: "towns"
 slug: "hinsdale-ma"
-town: "Hinsdale"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 5973
+state: "ma"
+town_data: "hinsdale-ma"
 ---

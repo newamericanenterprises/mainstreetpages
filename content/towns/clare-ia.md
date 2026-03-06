@@ -1,9 +1,7 @@
 ---
-title: "Clare, Iowa Business Directory"
+title: "Clare, IA Business Directory"
+type: "towns"
 slug: "clare-ia"
-town: "Clare"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 2947
+state: "ia"
+town_data: "clare-ia"
 ---

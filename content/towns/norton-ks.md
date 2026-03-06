@@ -1,9 +1,7 @@
 ---
-title: "Norton, Kansas Business Directory"
+title: "Norton, KS Business Directory"
+type: "towns"
 slug: "norton-ks"
-town: "Norton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Norton"
-population: 2808
+state: "ks"
+town_data: "norton-ks"
 ---

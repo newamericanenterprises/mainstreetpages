@@ -1,9 +1,7 @@
 ---
-title: "Medford, Minnesota Business Directory"
+title: "Medford, MN Business Directory"
+type: "towns"
 slug: "medford-mn"
-town: "Medford"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Steele"
-population: 3013
+state: "mn"
+town_data: "medford-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "New Boston, Missouri Business Directory"
+title: "New Boston, MO Business Directory"
+type: "towns"
 slug: "new-boston-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "new-boston-mo"
 ---

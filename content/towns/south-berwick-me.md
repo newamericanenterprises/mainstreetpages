@@ -1,9 +1,7 @@
 ---
-title: "South Berwick, Maine Business Directory"
+title: "South Berwick, ME Business Directory"
+type: "towns"
 slug: "south-berwick-me"
-town: "South Berwick"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1866
+state: "me"
+town_data: "south-berwick-me"
 ---

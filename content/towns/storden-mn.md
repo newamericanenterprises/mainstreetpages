@@ -1,9 +1,7 @@
 ---
-title: "Storden, Minnesota Business Directory"
+title: "Storden, MN Business Directory"
+type: "towns"
 slug: "storden-mn"
-town: "Storden"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 3233
+state: "mn"
+town_data: "storden-mn"
 ---

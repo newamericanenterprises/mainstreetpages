@@ -1,9 +1,7 @@
 ---
-title: "Crookston, Minnesota Business Directory"
+title: "Crookston, MN Business Directory"
+type: "towns"
 slug: "crookston-mn"
-town: "Crookston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 7760
+state: "mn"
+town_data: "crookston-mn"
 ---

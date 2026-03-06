@@ -1,9 +1,7 @@
 ---
-title: "Taylor Mill, Kentucky Business Directory"
+title: "Taylor Mill, KY Business Directory"
+type: "towns"
 slug: "taylor-mill-ky"
-town: "Taylor Mill"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 860
+state: "ky"
+town_data: "taylor-mill-ky"
 ---

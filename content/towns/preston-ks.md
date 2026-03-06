@@ -1,9 +1,7 @@
 ---
-title: "Preston, Kansas Business Directory"
+title: "Preston, KS Business Directory"
+type: "towns"
 slug: "preston-ks"
-town: "Preston"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 1546
+state: "ks"
+town_data: "preston-ks"
 ---

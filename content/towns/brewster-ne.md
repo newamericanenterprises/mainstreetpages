@@ -1,7 +1,7 @@
 ---
-title: "Brewster, Nebraska Business Directory"
+title: "Brewster, NE Business Directory"
+type: "towns"
 slug: "brewster-ne"
-state: "NE"
-county: "Blaine"
-population: 500
+state: "ne"
+town_data: "brewster-ne"
 ---

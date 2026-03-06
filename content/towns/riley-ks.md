@@ -1,9 +1,7 @@
 ---
-title: "Riley, Kansas Business Directory"
+title: "Riley, KS Business Directory"
+type: "towns"
 slug: "riley-ks"
-town: "Riley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Riley"
-population: 1933
+state: "ks"
+town_data: "riley-ks"
 ---

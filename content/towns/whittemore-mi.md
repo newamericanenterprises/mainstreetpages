@@ -1,9 +1,7 @@
 ---
-title: "Whittemore, Michigan Business Directory"
+title: "Whittemore, MI Business Directory"
+type: "towns"
 slug: "whittemore-mi"
-town: "Whittemore"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iosco"
-population: 5181
+state: "mi"
+town_data: "whittemore-mi"
 ---

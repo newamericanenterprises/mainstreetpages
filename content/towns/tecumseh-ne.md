@@ -1,7 +1,7 @@
 ---
-title: "Tecumseh, Nebraska Business Directory"
+title: "Tecumseh, NE Business Directory"
+type: "towns"
 slug: "tecumseh-ne"
-state: "NE"
-county: "Johnson"
-population: 1677
+state: "ne"
+town_data: "tecumseh-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Le Grand, Iowa Business Directory"
+title: "Le Grand, IA Business Directory"
+type: "towns"
 slug: "le-grand-ia"
-town: "Le Grand"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1125
+state: "ia"
+town_data: "le-grand-ia"
 ---

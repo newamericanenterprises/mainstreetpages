@@ -1,9 +1,7 @@
 ---
-title: "Mashpee, Massachusetts Business Directory"
+title: "Mashpee, MA Business Directory"
+type: "towns"
 slug: "mashpee-ma"
-town: "Mashpee"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 14836
+state: "ma"
+town_data: "mashpee-ma"
 ---

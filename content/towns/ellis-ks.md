@@ -1,9 +1,7 @@
 ---
-title: "Ellis, Kansas Business Directory"
+title: "Ellis, KS Business Directory"
+type: "towns"
 slug: "ellis-ks"
-town: "Ellis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellis"
-population: 382
+state: "ks"
+town_data: "ellis-ks"
 ---

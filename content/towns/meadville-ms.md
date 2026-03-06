@@ -1,7 +1,7 @@
 ---
-title: "Meadville, Mississippi Business Directory"
+title: "Meadville, MS Business Directory"
+type: "towns"
 slug: "meadville-ms"
-state: "MS"
-county: "Franklin"
-population: 434
+state: "ms"
+town_data: "meadville-ms"
 ---

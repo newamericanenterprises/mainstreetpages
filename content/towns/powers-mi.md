@@ -1,9 +1,7 @@
 ---
-title: "Powers, Michigan Business Directory"
+title: "Powers, MI Business Directory"
+type: "towns"
 slug: "powers-mi"
-town: "Powers"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 2117
+state: "mi"
+town_data: "powers-mi"
 ---

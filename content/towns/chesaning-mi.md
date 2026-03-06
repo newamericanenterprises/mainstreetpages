@@ -1,9 +1,7 @@
 ---
-title: "Chesaning, Michigan Business Directory"
+title: "Chesaning, MI Business Directory"
+type: "towns"
 slug: "chesaning-mi"
-town: "Chesaning"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 2988
+state: "mi"
+town_data: "chesaning-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Union City, Indiana Business Directory"
+title: "Union City, IN Business Directory"
+type: "towns"
 slug: "union-city-in"
-town: "Union City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 5202
+state: "in"
+town_data: "union-city-in"
 ---

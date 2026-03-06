@@ -1,9 +1,7 @@
 ---
-title: "Milroy, Minnesota Business Directory"
+title: "Milroy, MN Business Directory"
+type: "towns"
 slug: "milroy-mn"
-town: "Milroy"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 1202
+state: "mn"
+town_data: "milroy-mn"
 ---

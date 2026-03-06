@@ -1,7 +1,7 @@
 ---
-title: "Diller, Nebraska Business Directory"
+title: "Diller, NE Business Directory"
+type: "towns"
 slug: "diller-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "diller-ne"
 ---

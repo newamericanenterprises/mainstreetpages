@@ -1,9 +1,7 @@
 ---
-title: "Fort Knox, Kentucky Business Directory"
+title: "Fort Knox, KY Business Directory"
+type: "towns"
 slug: "fort-knox-ky"
-town: "Fort Knox"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 2438
+state: "ky"
+town_data: "fort-knox-ky"
 ---

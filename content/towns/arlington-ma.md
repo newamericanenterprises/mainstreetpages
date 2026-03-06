@@ -1,9 +1,7 @@
 ---
-title: "Arlington, Massachusetts Business Directory"
+title: "Arlington, MA Business Directory"
+type: "towns"
 slug: "arlington-ma"
-town: "Arlington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 45531
+state: "ma"
+town_data: "arlington-ma"
 ---

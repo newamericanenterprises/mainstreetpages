@@ -1,7 +1,7 @@
 ---
-title: "Thayer, Nebraska Business Directory"
+title: "Thayer, NE Business Directory"
+type: "towns"
 slug: "thayer-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "thayer-ne"
 ---

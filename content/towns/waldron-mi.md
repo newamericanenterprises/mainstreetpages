@@ -1,9 +1,7 @@
 ---
-title: "Waldron, Michigan Business Directory"
+title: "Waldron, MI Business Directory"
+type: "towns"
 slug: "waldron-mi"
-town: "Waldron"
-state: "Michigan"
-state_abbr: "MI"
-county: "Hillsdale"
-population: 1894
+state: "mi"
+town_data: "waldron-mi"
 ---

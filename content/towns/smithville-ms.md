@@ -1,7 +1,7 @@
 ---
-title: "Smithville, Mississippi Business Directory"
+title: "Smithville, MS Business Directory"
+type: "towns"
 slug: "smithville-ms"
-state: "MS"
-county: "Monroe"
-population: 830
+state: "ms"
+town_data: "smithville-ms"
 ---

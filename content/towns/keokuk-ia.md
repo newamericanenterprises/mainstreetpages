@@ -1,9 +1,7 @@
 ---
-title: "Keokuk, Iowa Business Directory"
+title: "Keokuk, IA Business Directory"
+type: "towns"
 slug: "keokuk-ia"
-town: "Keokuk"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 10033
+state: "ia"
+town_data: "keokuk-ia"
 ---

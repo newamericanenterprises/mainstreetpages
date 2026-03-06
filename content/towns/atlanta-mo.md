@@ -1,7 +1,7 @@
 ---
-title: "Atlanta, Missouri Business Directory"
+title: "Atlanta, MO Business Directory"
+type: "towns"
 slug: "atlanta-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "atlanta-mo"
 ---

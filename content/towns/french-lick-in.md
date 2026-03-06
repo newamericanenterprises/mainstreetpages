@@ -1,9 +1,7 @@
 ---
-title: "French Lick, Indiana Business Directory"
+title: "French Lick, IN Business Directory"
+type: "towns"
 slug: "french-lick-in"
-town: "French Lick"
-state: "Indiana"
-state_abbr: "IN"
-county: "Orange"
-population: 1807
+state: "in"
+town_data: "french-lick-in"
 ---

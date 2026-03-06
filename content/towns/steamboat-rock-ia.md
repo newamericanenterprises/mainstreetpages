@@ -1,9 +1,7 @@
 ---
-title: "Steamboat Rock, Iowa Business Directory"
+title: "Steamboat Rock, IA Business Directory"
+type: "towns"
 slug: "steamboat-rock-ia"
-town: "Steamboat Rock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 716
+state: "ia"
+town_data: "steamboat-rock-ia"
 ---

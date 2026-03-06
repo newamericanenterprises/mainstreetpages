@@ -1,9 +1,7 @@
 ---
-title: "Jefferson, Louisiana Business Directory"
+title: "Jefferson, LA Business Directory"
+type: "towns"
 slug: "jefferson-la"
-town: "Jefferson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 1194
+state: "la"
+town_data: "jefferson-la"
 ---

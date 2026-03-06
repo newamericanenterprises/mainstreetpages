@@ -1,7 +1,7 @@
 ---
-title: "Niangua, Missouri Business Directory"
+title: "Niangua, MO Business Directory"
+type: "towns"
 slug: "niangua-mo"
-state: "MO"
-county: "Webster"
-population: 1500
+state: "mo"
+town_data: "niangua-mo"
 ---

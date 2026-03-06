@@ -1,9 +1,7 @@
 ---
-title: "Wolcottville, Indiana Business Directory"
+title: "Wolcottville, IN Business Directory"
+type: "towns"
 slug: "wolcottville-in"
-town: "Wolcottville"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaGrange"
-population: 4266
+state: "in"
+town_data: "wolcottville-in"
 ---

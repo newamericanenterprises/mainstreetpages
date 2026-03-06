@@ -1,9 +1,7 @@
 ---
-title: "Gosnold, Massachusetts Business Directory"
+title: "Gosnold, MA Business Directory"
+type: "towns"
 slug: "gosnold-ma"
-town: "Gosnold"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 1168
+state: "ma"
+town_data: "gosnold-ma"
 ---

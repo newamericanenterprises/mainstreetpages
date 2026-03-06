@@ -1,9 +1,7 @@
 ---
-title: "Ranier, Minnesota Business Directory"
+title: "Ranier, MN Business Directory"
+type: "towns"
 slug: "ranier-mn"
-town: "Ranier"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Koochiching"
-population: 824
+state: "mn"
+town_data: "ranier-mn"
 ---

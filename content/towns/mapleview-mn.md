@@ -1,9 +1,7 @@
 ---
-title: "Mapleview, Minnesota Business Directory"
+title: "Mapleview, MN Business Directory"
+type: "towns"
 slug: "mapleview-mn"
-town: "Mapleview"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 1882
+state: "mn"
+town_data: "mapleview-mn"
 ---

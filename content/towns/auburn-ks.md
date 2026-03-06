@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Kansas Business Directory"
+title: "Auburn, KS Business Directory"
+type: "towns"
 slug: "auburn-ks"
-town: "Auburn"
-state: "Kansas"
-state_abbr: "KS"
-county: "Shawnee"
-population: 3228
+state: "ks"
+town_data: "auburn-ks"
 ---

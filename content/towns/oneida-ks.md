@@ -1,9 +1,7 @@
 ---
-title: "Oneida, Kansas Business Directory"
+title: "Oneida, KS Business Directory"
+type: "towns"
 slug: "oneida-ks"
-town: "Oneida"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 2679
+state: "ks"
+town_data: "oneida-ks"
 ---

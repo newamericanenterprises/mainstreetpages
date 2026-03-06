@@ -1,9 +1,7 @@
 ---
-title: "Medora, Indiana Business Directory"
+title: "Medora, IN Business Directory"
+type: "towns"
 slug: "medora-in"
-town: "Medora"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jackson"
-population: 3825
+state: "in"
+town_data: "medora-in"
 ---

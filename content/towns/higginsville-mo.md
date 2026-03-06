@@ -1,7 +1,7 @@
 ---
-title: "Higginsville, Missouri Business Directory"
+title: "Higginsville, MO Business Directory"
+type: "towns"
 slug: "higginsville-mo"
-state: "MO"
-county: "Lafayette"
-population: 4738
+state: "mo"
+town_data: "higginsville-mo"
 ---

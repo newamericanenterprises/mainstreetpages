@@ -1,9 +1,7 @@
 ---
-title: "Sabin, Minnesota Business Directory"
+title: "Sabin, MN Business Directory"
+type: "towns"
 slug: "sabin-mn"
-town: "Sabin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 3104
+state: "mn"
+town_data: "sabin-mn"
 ---

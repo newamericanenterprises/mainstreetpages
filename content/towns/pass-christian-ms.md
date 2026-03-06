@@ -1,7 +1,7 @@
 ---
-title: "Pass Christian, Mississippi Business Directory"
+title: "Pass Christian, MS Business Directory"
+type: "towns"
 slug: "pass-christian-ms"
-state: "MS"
-county: "Harrison"
-population: 6582
+state: "ms"
+town_data: "pass-christian-ms"
 ---

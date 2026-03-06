@@ -1,9 +1,7 @@
 ---
-title: "Lewisville, Minnesota Business Directory"
+title: "Lewisville, MN Business Directory"
+type: "towns"
 slug: "lewisville-mn"
-town: "Lewisville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Watonwan"
-population: 2839
+state: "mn"
+town_data: "lewisville-mn"
 ---

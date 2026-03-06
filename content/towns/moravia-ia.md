@@ -1,9 +1,7 @@
 ---
-title: "Moravia, Iowa Business Directory"
+title: "Moravia, IA Business Directory"
+type: "towns"
 slug: "moravia-ia"
-town: "Moravia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 2334
+state: "ia"
+town_data: "moravia-ia"
 ---

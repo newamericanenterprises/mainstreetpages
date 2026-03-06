@@ -1,7 +1,7 @@
 ---
-title: "Matthews, Missouri Business Directory"
+title: "Matthews, MO Business Directory"
+type: "towns"
 slug: "matthews-mo"
-state: "MO"
-county: "New Madrid"
-population: 1500
+state: "mo"
+town_data: "matthews-mo"
 ---

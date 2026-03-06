@@ -1,9 +1,7 @@
 ---
-title: "Claiborne, Maryland Business Directory"
+title: "Claiborne, MD Business Directory"
+type: "towns"
 slug: "claiborne-md"
-town: "Claiborne"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 3067
+state: "md"
+town_data: "claiborne-md"
 ---

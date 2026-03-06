@@ -1,7 +1,7 @@
 ---
-title: "Concord, Nebraska Business Directory"
+title: "Concord, NE Business Directory"
+type: "towns"
 slug: "concord-ne"
-state: "NE"
-county: "Dixon"
-population: 150
+state: "ne"
+town_data: "concord-ne"
 ---

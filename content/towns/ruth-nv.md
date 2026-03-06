@@ -1,7 +1,7 @@
 ---
-title: "Ruth, Nevada Business Directory"
+title: "Ruth, NV Business Directory"
+type: "towns"
 slug: "ruth-nv"
-state: "NV"
-county: "White Pine"
-population: 296
+state: "nv"
+town_data: "ruth-nv"
 ---

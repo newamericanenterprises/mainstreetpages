@@ -1,9 +1,7 @@
 ---
-title: "Shutesbury, Massachusetts Business Directory"
+title: "Shutesbury, MA Business Directory"
+type: "towns"
 slug: "shutesbury-ma"
-town: "Shutesbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 4044
+state: "ma"
+town_data: "shutesbury-ma"
 ---

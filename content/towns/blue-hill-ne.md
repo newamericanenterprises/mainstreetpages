@@ -1,7 +1,7 @@
 ---
-title: "Blue Hill, Nebraska Business Directory"
+title: "Blue Hill, NE Business Directory"
+type: "towns"
 slug: "blue-hill-ne"
-state: "NE"
-county: "Webster"
-population: 932
+state: "ne"
+town_data: "blue-hill-ne"
 ---

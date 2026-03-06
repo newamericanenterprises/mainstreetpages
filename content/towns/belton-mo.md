@@ -1,7 +1,7 @@
 ---
-title: "Belton, Missouri Business Directory"
+title: "Belton, MO Business Directory"
+type: "towns"
 slug: "belton-mo"
-state: "MO"
-county: "Cass"
-population: 23480
+state: "mo"
+town_data: "belton-mo"
 ---

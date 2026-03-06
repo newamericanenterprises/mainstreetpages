@@ -1,7 +1,7 @@
 ---
-title: "Henrietta, Missouri Business Directory"
+title: "Henrietta, MO Business Directory"
+type: "towns"
 slug: "henrietta-mo"
-state: "MO"
-county: "Ray"
-population: 1500
+state: "mo"
+town_data: "henrietta-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Veedersburg, Indiana Business Directory"
+title: "Veedersburg, IN Business Directory"
+type: "towns"
 slug: "veedersburg-in"
-town: "Veedersburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 2028
+state: "in"
+town_data: "veedersburg-in"
 ---

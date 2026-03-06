@@ -1,7 +1,7 @@
 ---
-title: "Robertsville, Missouri Business Directory"
+title: "Robertsville, MO Business Directory"
+type: "towns"
 slug: "robertsville-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "robertsville-mo"
 ---

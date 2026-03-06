@@ -1,7 +1,7 @@
 ---
-title: "Beaver Crossing, Nebraska Business Directory"
+title: "Beaver Crossing, NE Business Directory"
+type: "towns"
 slug: "beaver-crossing-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "beaver-crossing-ne"
 ---

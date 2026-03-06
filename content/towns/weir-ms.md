@@ -1,7 +1,7 @@
 ---
-title: "Weir, Mississippi Business Directory"
+title: "Weir, MS Business Directory"
+type: "towns"
 slug: "weir-ms"
-state: "MS"
-county: "Choctaw"
-population: 497
+state: "ms"
+town_data: "weir-ms"
 ---

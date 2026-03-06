@@ -1,7 +1,7 @@
 ---
-title: "Cole Camp, Missouri Business Directory"
+title: "Cole Camp, MO Business Directory"
+type: "towns"
 slug: "cole-camp-mo"
-state: "MO"
-county: "Benton"
-population: 1120
+state: "mo"
+town_data: "cole-camp-mo"
 ---

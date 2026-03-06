@@ -1,7 +1,7 @@
 ---
-title: "Excello, Missouri Business Directory"
+title: "Excello, MO Business Directory"
+type: "towns"
 slug: "excello-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "excello-mo"
 ---

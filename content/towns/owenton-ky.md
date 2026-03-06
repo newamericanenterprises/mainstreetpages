@@ -1,9 +1,7 @@
 ---
-title: "Owenton, Kentucky Business Directory"
+title: "Owenton, KY Business Directory"
+type: "towns"
 slug: "owenton-ky"
-town: "Owenton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Owen"
-population: 1418
+state: "ky"
+town_data: "owenton-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Machiasport, Maine Business Directory"
+title: "Machiasport, ME Business Directory"
+type: "towns"
 slug: "machiasport-me"
-town: "Machiasport"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2584
+state: "me"
+town_data: "machiasport-me"
 ---

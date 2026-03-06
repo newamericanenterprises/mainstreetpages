@@ -1,9 +1,7 @@
 ---
-title: "Cottonwood, Minnesota Business Directory"
+title: "Cottonwood, MN Business Directory"
+type: "towns"
 slug: "cottonwood-mn"
-town: "Cottonwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 2880
+state: "mn"
+town_data: "cottonwood-mn"
 ---

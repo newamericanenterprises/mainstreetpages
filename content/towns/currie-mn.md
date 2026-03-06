@@ -1,9 +1,7 @@
 ---
-title: "Currie, Minnesota Business Directory"
+title: "Currie, MN Business Directory"
+type: "towns"
 slug: "currie-mn"
-town: "Currie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 2958
+state: "mn"
+town_data: "currie-mn"
 ---

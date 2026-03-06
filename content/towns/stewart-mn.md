@@ -1,9 +1,7 @@
 ---
-title: "Stewart, Minnesota Business Directory"
+title: "Stewart, MN Business Directory"
+type: "towns"
 slug: "stewart-mn"
-town: "Stewart"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 472
+state: "mn"
+town_data: "stewart-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Northome, Minnesota Business Directory"
+title: "Northome, MN Business Directory"
+type: "towns"
 slug: "northome-mn"
-town: "Northome"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Koochiching"
-population: 1568
+state: "mn"
+town_data: "northome-mn"
 ---

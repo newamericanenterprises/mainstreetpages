@@ -1,9 +1,7 @@
 ---
-title: "Crescent Springs, Kentucky Business Directory"
+title: "Crescent Springs, KY Business Directory"
+type: "towns"
 slug: "crescent-springs-ky"
-town: "Crescent Springs"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 711
+state: "ky"
+town_data: "crescent-springs-ky"
 ---

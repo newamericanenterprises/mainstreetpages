@@ -1,7 +1,7 @@
 ---
-title: "Fort Peck, Montana Business Directory"
+title: "Fort Peck, MT Business Directory"
+type: "towns"
 slug: "fort-peck-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "fort-peck-mt"
 ---

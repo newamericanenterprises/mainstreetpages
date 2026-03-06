@@ -1,9 +1,7 @@
 ---
-title: "Red Oak, Iowa Business Directory"
+title: "Red Oak, IA Business Directory"
+type: "towns"
 slug: "red-oak-ia"
-town: "Red Oak"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 5568
+state: "ia"
+town_data: "red-oak-ia"
 ---

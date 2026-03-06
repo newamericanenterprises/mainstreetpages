@@ -1,7 +1,7 @@
 ---
-title: "Jerico Springs, Missouri Business Directory"
+title: "Jerico Springs, MO Business Directory"
+type: "towns"
 slug: "jerico-springs-mo"
-state: "MO"
-county: "Cedar"
-population: 1500
+state: "mo"
+town_data: "jerico-springs-mo"
 ---

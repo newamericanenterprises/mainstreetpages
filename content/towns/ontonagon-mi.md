@@ -1,9 +1,7 @@
 ---
-title: "Ontonagon, Michigan Business Directory"
+title: "Ontonagon, MI Business Directory"
+type: "towns"
 slug: "ontonagon-mi"
-town: "Ontonagon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ontonagon"
-population: 5084
+state: "mi"
+town_data: "ontonagon-mi"
 ---

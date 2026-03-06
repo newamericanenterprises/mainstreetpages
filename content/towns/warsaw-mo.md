@@ -1,7 +1,7 @@
 ---
-title: "Warsaw, Missouri Business Directory"
+title: "Warsaw, MO Business Directory"
+type: "towns"
 slug: "warsaw-mo"
-state: "MO"
-county: "Benton"
-population: 2127
+state: "mo"
+town_data: "warsaw-mo"
 ---

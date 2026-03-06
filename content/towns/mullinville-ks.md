@@ -1,9 +1,7 @@
 ---
-title: "Mullinville, Kansas Business Directory"
+title: "Mullinville, KS Business Directory"
+type: "towns"
 slug: "mullinville-ks"
-town: "Mullinville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kiowa"
-population: 1907
+state: "ks"
+town_data: "mullinville-ks"
 ---

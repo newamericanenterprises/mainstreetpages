@@ -1,7 +1,7 @@
 ---
-title: "Aurora, Nebraska Business Directory"
+title: "Aurora, NE Business Directory"
+type: "towns"
 slug: "aurora-ne"
-state: "NE"
-county: "Hamilton"
-population: 4479
+state: "ne"
+town_data: "aurora-ne"
 ---

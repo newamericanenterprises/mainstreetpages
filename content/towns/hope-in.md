@@ -1,9 +1,7 @@
 ---
-title: "Hope, Indiana Business Directory"
+title: "Hope, IN Business Directory"
+type: "towns"
 slug: "hope-in"
-town: "Hope"
-state: "Indiana"
-state_abbr: "IN"
-county: "Bartholomew"
-population: 5382
+state: "in"
+town_data: "hope-in"
 ---

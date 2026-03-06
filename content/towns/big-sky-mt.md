@@ -1,7 +1,7 @@
 ---
-title: "Big Sky, Montana Business Directory"
+title: "Big Sky, MT Business Directory"
+type: "towns"
 slug: "big-sky-mt"
-state: "MT"
-county: "Gallatin"
-population: 3591
+state: "mt"
+town_data: "big-sky-mt"
 ---

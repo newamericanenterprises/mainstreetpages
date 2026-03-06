@@ -1,9 +1,7 @@
 ---
-title: "Hallowell, Maine Business Directory"
+title: "Hallowell, ME Business Directory"
+type: "towns"
 slug: "hallowell-me"
-town: "Hallowell"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2381
+state: "me"
+town_data: "hallowell-me"
 ---

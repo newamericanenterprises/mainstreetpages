@@ -1,7 +1,7 @@
 ---
-title: "Boyle, Mississippi Business Directory"
+title: "Boyle, MS Business Directory"
+type: "towns"
 slug: "boyle-ms"
-state: "MS"
-county: "Bolivar"
-population: 448
+state: "ms"
+town_data: "boyle-ms"
 ---

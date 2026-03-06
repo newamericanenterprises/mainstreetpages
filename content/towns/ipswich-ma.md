@@ -1,9 +1,7 @@
 ---
-title: "Ipswich, Massachusetts Business Directory"
+title: "Ipswich, MA Business Directory"
+type: "towns"
 slug: "ipswich-ma"
-town: "Ipswich"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 7013
+state: "ma"
+town_data: "ipswich-ma"
 ---

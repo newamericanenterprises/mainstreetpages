@@ -1,9 +1,7 @@
 ---
-title: "Tofte, Minnesota Business Directory"
+title: "Tofte, MN Business Directory"
+type: "towns"
 slug: "tofte-mn"
-town: "Tofte"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cook"
-population: 1634
+state: "mn"
+town_data: "tofte-mn"
 ---

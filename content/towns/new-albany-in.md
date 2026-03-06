@@ -1,9 +1,7 @@
 ---
-title: "New Albany, Indiana Business Directory"
+title: "New Albany, IN Business Directory"
+type: "towns"
 slug: "new-albany-in"
-town: "New Albany"
-state: "Indiana"
-state_abbr: "IN"
-county: "Floyd"
-population: 36889
+state: "in"
+town_data: "new-albany-in"
 ---

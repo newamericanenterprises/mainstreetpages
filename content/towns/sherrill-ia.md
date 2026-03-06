@@ -1,9 +1,7 @@
 ---
-title: "Sherrill, Iowa Business Directory"
+title: "Sherrill, IA Business Directory"
+type: "towns"
 slug: "sherrill-ia"
-town: "Sherrill"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 1277
+state: "ia"
+town_data: "sherrill-ia"
 ---

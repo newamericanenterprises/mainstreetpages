@@ -1,9 +1,7 @@
 ---
-title: "Brooklyn, Indiana Business Directory"
+title: "Brooklyn, IN Business Directory"
+type: "towns"
 slug: "brooklyn-in"
-town: "Brooklyn"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 4669
+state: "in"
+town_data: "brooklyn-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Falmouth, Maine Business Directory"
+title: "Falmouth, ME Business Directory"
+type: "towns"
 slug: "falmouth-me"
-town: "Falmouth"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 12023
+state: "me"
+town_data: "falmouth-me"
 ---

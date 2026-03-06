@@ -1,7 +1,7 @@
 ---
-title: "Spring Hill, Montana Business Directory"
+title: "Spring Hill, MT Business Directory"
+type: "towns"
 slug: "spring-hill-mt"
-state: "MT"
-county: "Gallatin"
-population: 500
+state: "mt"
+town_data: "spring-hill-mt"
 ---

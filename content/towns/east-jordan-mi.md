@@ -1,9 +1,7 @@
 ---
-title: "East Jordan, Michigan Business Directory"
+title: "East Jordan, MI Business Directory"
+type: "towns"
 slug: "east-jordan-mi"
-town: "East Jordan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 4554
+state: "mi"
+town_data: "east-jordan-mi"
 ---

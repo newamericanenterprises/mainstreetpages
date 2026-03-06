@@ -1,9 +1,7 @@
 ---
-title: "West Chester, Iowa Business Directory"
+title: "West Chester, IA Business Directory"
+type: "towns"
 slug: "west-chester-ia"
-town: "West Chester"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 1569
+state: "ia"
+town_data: "west-chester-ia"
 ---

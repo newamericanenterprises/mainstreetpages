@@ -1,9 +1,7 @@
 ---
-title: "Jetmore, Kansas Business Directory"
+title: "Jetmore, KS Business Directory"
+type: "towns"
 slug: "jetmore-ks"
-town: "Jetmore"
-state: "Kansas"
-state_abbr: "KS"
-county: "Hodgeman"
-population: 867
+state: "ks"
+town_data: "jetmore-ks"
 ---

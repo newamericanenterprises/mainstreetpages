@@ -1,9 +1,7 @@
 ---
-title: "Gramercy, Louisiana Business Directory"
+title: "Gramercy, LA Business Directory"
+type: "towns"
 slug: "gramercy-la"
-town: "Gramercy"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 1665
+state: "la"
+town_data: "gramercy-la"
 ---

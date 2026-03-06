@@ -1,9 +1,7 @@
 ---
-title: "Natoma, Kansas Business Directory"
+title: "Natoma, KS Business Directory"
+type: "towns"
 slug: "natoma-ks"
-town: "Natoma"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osborne"
-population: 3043
+state: "ks"
+town_data: "natoma-ks"
 ---

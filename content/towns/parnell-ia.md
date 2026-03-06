@@ -1,9 +1,7 @@
 ---
-title: "Parnell, Iowa Business Directory"
+title: "Parnell, IA Business Directory"
+type: "towns"
 slug: "parnell-ia"
-town: "Parnell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 690
+state: "ia"
+town_data: "parnell-ia"
 ---

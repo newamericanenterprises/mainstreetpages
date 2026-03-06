@@ -1,9 +1,7 @@
 ---
-title: "Marion, Kentucky Business Directory"
+title: "Marion, KY Business Directory"
+type: "towns"
 slug: "marion-ky"
-town: "Marion"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Crittenden"
-population: 3039
+state: "ky"
+town_data: "marion-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mullett Lake, Michigan Business Directory"
+title: "Mullett Lake, MI Business Directory"
+type: "towns"
 slug: "mullett-lake-mi"
-town: "Mullett Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 1755
+state: "mi"
+town_data: "mullett-lake-mi"
 ---

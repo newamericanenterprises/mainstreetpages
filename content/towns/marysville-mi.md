@@ -1,9 +1,7 @@
 ---
-title: "Marysville, Michigan Business Directory"
+title: "Marysville, MI Business Directory"
+type: "towns"
 slug: "marysville-mi"
-town: "Marysville"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 1174
+state: "mi"
+town_data: "marysville-mi"
 ---

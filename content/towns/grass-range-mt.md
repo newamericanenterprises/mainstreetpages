@@ -1,7 +1,7 @@
 ---
-title: "Grass Range, Montana Business Directory"
+title: "Grass Range, MT Business Directory"
+type: "towns"
 slug: "grass-range-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "grass-range-mt"
 ---

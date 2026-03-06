@@ -1,9 +1,7 @@
 ---
-title: "Orono, Maine Business Directory"
+title: "Orono, ME Business Directory"
+type: "towns"
 slug: "orono-me"
-town: "Orono"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 11213
+state: "me"
+town_data: "orono-me"
 ---

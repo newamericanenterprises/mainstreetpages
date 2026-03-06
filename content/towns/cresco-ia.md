@@ -1,9 +1,7 @@
 ---
-title: "Cresco, Iowa Business Directory"
+title: "Cresco, IA Business Directory"
+type: "towns"
 slug: "cresco-ia"
-town: "Cresco"
-state: "Iowa"
-state_abbr: "IA"
-county: "Howard"
-population: 3868
+state: "ia"
+town_data: "cresco-ia"
 ---

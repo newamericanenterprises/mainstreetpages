@@ -1,9 +1,7 @@
 ---
-title: "Pilot Mound, Iowa Business Directory"
+title: "Pilot Mound, IA Business Directory"
+type: "towns"
 slug: "pilot-mound-ia"
-town: "Pilot Mound"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 1512
+state: "ia"
+town_data: "pilot-mound-ia"
 ---

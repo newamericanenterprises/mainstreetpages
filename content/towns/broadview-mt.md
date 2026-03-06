@@ -1,7 +1,7 @@
 ---
-title: "Broadview, Montana Business Directory"
+title: "Broadview, MT Business Directory"
+type: "towns"
 slug: "broadview-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "broadview-mt"
 ---

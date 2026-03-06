@@ -1,9 +1,7 @@
 ---
-title: "Tustin, Michigan Business Directory"
+title: "Tustin, MI Business Directory"
+type: "towns"
 slug: "tustin-mi"
-town: "Tustin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 1133
+state: "mi"
+town_data: "tustin-mi"
 ---

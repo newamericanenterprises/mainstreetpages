@@ -1,9 +1,7 @@
 ---
-title: "Ferriday, Louisiana Business Directory"
+title: "Ferriday, LA Business Directory"
+type: "towns"
 slug: "ferriday-la"
-town: "Ferriday"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Concordia"
-population: 3274
+state: "la"
+town_data: "ferriday-la"
 ---

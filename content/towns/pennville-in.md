@@ -1,9 +1,7 @@
 ---
-title: "Pennville, Indiana Business Directory"
+title: "Pennville, IN Business Directory"
+type: "towns"
 slug: "pennville-in"
-town: "Pennville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 3975
+state: "in"
+town_data: "pennville-in"
 ---

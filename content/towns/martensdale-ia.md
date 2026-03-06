@@ -1,9 +1,7 @@
 ---
-title: "Martensdale, Iowa Business Directory"
+title: "Martensdale, IA Business Directory"
+type: "towns"
 slug: "martensdale-ia"
-town: "Martensdale"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 2787
+state: "ia"
+town_data: "martensdale-ia"
 ---

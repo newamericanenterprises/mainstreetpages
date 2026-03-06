@@ -1,9 +1,7 @@
 ---
-title: "La Grange, Kentucky Business Directory"
+title: "La Grange, KY Business Directory"
+type: "towns"
 slug: "la-grange-ky"
-town: "La Grange"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 2108
+state: "ky"
+town_data: "la-grange-ky"
 ---

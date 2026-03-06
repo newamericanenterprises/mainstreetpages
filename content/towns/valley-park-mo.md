@@ -1,7 +1,7 @@
 ---
-title: "Valley Park, Missouri Business Directory"
+title: "Valley Park, MO Business Directory"
+type: "towns"
 slug: "valley-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "valley-park-mo"
 ---

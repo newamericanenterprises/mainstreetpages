@@ -1,9 +1,7 @@
 ---
-title: "Brook, Indiana Business Directory"
+title: "Brook, IN Business Directory"
+type: "towns"
 slug: "brook-in"
-town: "Brook"
-state: "Indiana"
-state_abbr: "IN"
-county: "Newton"
-population: 5285
+state: "in"
+town_data: "brook-in"
 ---

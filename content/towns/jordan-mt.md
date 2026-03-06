@@ -1,7 +1,7 @@
 ---
-title: "Jordan, Montana Business Directory"
+title: "Jordan, MT Business Directory"
+type: "towns"
 slug: "jordan-mt"
-state: "MT"
-county: "Garfield"
-population: 343
+state: "mt"
+town_data: "jordan-mt"
 ---

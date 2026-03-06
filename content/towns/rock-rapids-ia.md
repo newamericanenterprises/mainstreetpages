@@ -1,9 +1,7 @@
 ---
-title: "Rock Rapids, Iowa Business Directory"
+title: "Rock Rapids, IA Business Directory"
+type: "towns"
 slug: "rock-rapids-ia"
-town: "Rock Rapids"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 2549
+state: "ia"
+town_data: "rock-rapids-ia"
 ---

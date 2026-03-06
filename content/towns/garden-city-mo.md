@@ -1,7 +1,7 @@
 ---
-title: "Garden City, Missouri Business Directory"
+title: "Garden City, MO Business Directory"
+type: "towns"
 slug: "garden-city-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "garden-city-mo"
 ---

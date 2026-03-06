@@ -1,9 +1,7 @@
 ---
-title: "Standish, Michigan Business Directory"
+title: "Standish, MI Business Directory"
+type: "towns"
 slug: "standish-mi"
-town: "Standish"
-state: "Michigan"
-state_abbr: "MI"
-county: "Arenac"
-population: 2200
+state: "mi"
+town_data: "standish-mi"
 ---

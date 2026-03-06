@@ -1,9 +1,7 @@
 ---
-title: "Marquette, Kansas Business Directory"
+title: "Marquette, KS Business Directory"
+type: "towns"
 slug: "marquette-ks"
-town: "Marquette"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 1298
+state: "ks"
+town_data: "marquette-ks"
 ---

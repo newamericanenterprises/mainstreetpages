@@ -1,9 +1,7 @@
 ---
-title: "Convent, Louisiana Business Directory"
+title: "Convent, LA Business Directory"
+type: "towns"
 slug: "convent-la"
-town: "Convent"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 1697
+state: "la"
+town_data: "convent-la"
 ---

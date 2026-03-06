@@ -1,7 +1,7 @@
 ---
-title: "Sumner, Mississippi Business Directory"
+title: "Sumner, MS Business Directory"
+type: "towns"
 slug: "sumner-ms"
-state: "MS"
-county: "Tallahatchie"
-population: 336
+state: "ms"
+town_data: "sumner-ms"
 ---

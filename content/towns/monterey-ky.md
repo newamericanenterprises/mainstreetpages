@@ -1,9 +1,7 @@
 ---
-title: "Monterey, Kentucky Business Directory"
+title: "Monterey, KY Business Directory"
+type: "towns"
 slug: "monterey-ky"
-town: "Monterey"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Owen"
-population: 3212
+state: "ky"
+town_data: "monterey-ky"
 ---

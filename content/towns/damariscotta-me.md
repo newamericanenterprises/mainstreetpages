@@ -1,9 +1,7 @@
 ---
-title: "Damariscotta, Maine Business Directory"
+title: "Damariscotta, ME Business Directory"
+type: "towns"
 slug: "damariscotta-me"
-town: "Damariscotta"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2297
+state: "me"
+town_data: "damariscotta-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cassopolis, Michigan Business Directory"
+title: "Cassopolis, MI Business Directory"
+type: "towns"
 slug: "cassopolis-mi"
-town: "Cassopolis"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cass"
-population: 1727
+state: "mi"
+town_data: "cassopolis-mi"
 ---

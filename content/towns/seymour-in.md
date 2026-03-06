@@ -1,9 +1,7 @@
 ---
-title: "Seymour, Indiana Business Directory"
+title: "Seymour, IN Business Directory"
+type: "towns"
 slug: "seymour-in"
-town: "Seymour"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jackson"
-population: 20027
+state: "in"
+town_data: "seymour-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Battle Ground, Indiana Business Directory"
+title: "Battle Ground, IN Business Directory"
+type: "towns"
 slug: "battle-ground-in"
-town: "Battle Ground"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tippecanoe"
-population: 3121
+state: "in"
+town_data: "battle-ground-in"
 ---

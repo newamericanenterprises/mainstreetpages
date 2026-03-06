@@ -1,9 +1,7 @@
 ---
-title: "Petersham, Massachusetts Business Directory"
+title: "Petersham, MA Business Directory"
+type: "towns"
 slug: "petersham-ma"
-town: "Petersham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5867
+state: "ma"
+town_data: "petersham-ma"
 ---

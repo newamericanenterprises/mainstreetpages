@@ -1,7 +1,7 @@
 ---
-title: "Mexico, Missouri Business Directory"
+title: "Mexico, MO Business Directory"
+type: "towns"
 slug: "mexico-mo"
-state: "MO"
-county: "Audrain"
-population: 11543
+state: "mo"
+town_data: "mexico-mo"
 ---

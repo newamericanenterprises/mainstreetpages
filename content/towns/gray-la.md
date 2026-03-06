@@ -1,9 +1,7 @@
 ---
-title: "Gray, Louisiana Business Directory"
+title: "Gray, LA Business Directory"
+type: "towns"
 slug: "gray-la"
-town: "Gray"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 2014
+state: "la"
+town_data: "gray-la"
 ---

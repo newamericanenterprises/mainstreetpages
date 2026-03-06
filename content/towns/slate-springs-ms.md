@@ -1,7 +1,7 @@
 ---
-title: "Slate Springs, Mississippi Business Directory"
+title: "Slate Springs, MS Business Directory"
+type: "towns"
 slug: "slate-springs-ms"
-state: "MS"
-county: "Calhoun"
-population: 105
+state: "ms"
+town_data: "slate-springs-ms"
 ---

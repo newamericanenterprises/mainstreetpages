@@ -1,9 +1,7 @@
 ---
-title: "Turkey Creek, Louisiana Business Directory"
+title: "Turkey Creek, LA Business Directory"
+type: "towns"
 slug: "turkey-creek-la"
-town: "Turkey Creek"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Evangeline"
-population: 2033
+state: "la"
+town_data: "turkey-creek-la"
 ---

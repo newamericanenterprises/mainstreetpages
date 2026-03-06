@@ -1,9 +1,7 @@
 ---
-title: "Goldonna, Louisiana Business Directory"
+title: "Goldonna, LA Business Directory"
+type: "towns"
 slug: "goldonna-la"
-town: "Goldonna"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 1543
+state: "la"
+town_data: "goldonna-la"
 ---

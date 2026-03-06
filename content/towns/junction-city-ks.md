@@ -1,9 +1,7 @@
 ---
-title: "Junction City, Kansas Business Directory"
+title: "Junction City, KS Business Directory"
+type: "towns"
 slug: "junction-city-ks"
-town: "Junction City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Geary"
-population: 22988
+state: "ks"
+town_data: "junction-city-ks"
 ---

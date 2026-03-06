@@ -1,7 +1,7 @@
 ---
-title: "Hamilton, Mississippi Business Directory"
+title: "Hamilton, MS Business Directory"
+type: "towns"
 slug: "hamilton-ms"
-state: "MS"
-county: "Monroe"
-population: 428
+state: "ms"
+town_data: "hamilton-ms"
 ---

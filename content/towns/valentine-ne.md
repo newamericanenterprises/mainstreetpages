@@ -1,7 +1,7 @@
 ---
-title: "Valentine, Nebraska Business Directory"
+title: "Valentine, NE Business Directory"
+type: "towns"
 slug: "valentine-ne"
-state: "NE"
-county: "Cherry"
-population: 2737
+state: "ne"
+town_data: "valentine-ne"
 ---

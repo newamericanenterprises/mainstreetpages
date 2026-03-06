@@ -1,7 +1,7 @@
 ---
-title: "Lincoln, Montana Business Directory"
+title: "Lincoln, MT Business Directory"
+type: "towns"
 slug: "lincoln-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 1038
+state: "mt"
+town_data: "lincoln-mt"
 ---

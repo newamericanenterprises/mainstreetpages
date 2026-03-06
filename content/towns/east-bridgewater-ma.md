@@ -1,9 +1,7 @@
 ---
-title: "East Bridgewater, Massachusetts Business Directory"
+title: "East Bridgewater, MA Business Directory"
+type: "towns"
 slug: "east-bridgewater-ma"
-town: "East Bridgewater"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 6640
+state: "ma"
+town_data: "east-bridgewater-ma"
 ---

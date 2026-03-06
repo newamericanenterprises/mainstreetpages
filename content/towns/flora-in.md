@@ -1,9 +1,7 @@
 ---
-title: "Flora, Indiana Business Directory"
+title: "Flora, IN Business Directory"
+type: "towns"
 slug: "flora-in"
-town: "Flora"
-state: "Indiana"
-state_abbr: "IN"
-county: "Carroll"
-population: 5175
+state: "in"
+town_data: "flora-in"
 ---

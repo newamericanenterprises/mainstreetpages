@@ -1,9 +1,7 @@
 ---
-title: "Kalona, Iowa Business Directory"
+title: "Kalona, IA Business Directory"
+type: "towns"
 slug: "kalona-ia"
-town: "Kalona"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 1036
+state: "ia"
+town_data: "kalona-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Manson, Iowa Business Directory"
+title: "Manson, IA Business Directory"
+type: "towns"
 slug: "manson-ia"
-town: "Manson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 2431
+state: "ia"
+town_data: "manson-ia"
 ---

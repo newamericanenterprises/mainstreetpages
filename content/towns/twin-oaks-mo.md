@@ -1,7 +1,7 @@
 ---
-title: "Twin Oaks, Missouri Business Directory"
+title: "Twin Oaks, MO Business Directory"
+type: "towns"
 slug: "twin-oaks-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "twin-oaks-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sandwich, Massachusetts Business Directory"
+title: "Sandwich, MA Business Directory"
+type: "towns"
 slug: "sandwich-ma"
-town: "Sandwich"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 20484
+state: "ma"
+town_data: "sandwich-ma"
 ---

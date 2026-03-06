@@ -1,7 +1,7 @@
 ---
-title: "Dunning, Nebraska Business Directory"
+title: "Dunning, NE Business Directory"
+type: "towns"
 slug: "dunning-ne"
-state: "NE"
-county: "Blaine"
-population: 500
+state: "ne"
+town_data: "dunning-ne"
 ---

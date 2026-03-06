@@ -1,7 +1,7 @@
 ---
-title: "Callao, Missouri Business Directory"
+title: "Callao, MO Business Directory"
+type: "towns"
 slug: "callao-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "callao-mo"
 ---

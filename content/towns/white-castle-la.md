@@ -1,9 +1,7 @@
 ---
-title: "White Castle, Louisiana Business Directory"
+title: "White Castle, LA Business Directory"
+type: "towns"
 slug: "white-castle-la"
-town: "White Castle"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 410
+state: "la"
+town_data: "white-castle-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Villisca, Iowa Business Directory"
+title: "Villisca, IA Business Directory"
+type: "towns"
 slug: "villisca-ia"
-town: "Villisca"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 2905
+state: "ia"
+town_data: "villisca-ia"
 ---

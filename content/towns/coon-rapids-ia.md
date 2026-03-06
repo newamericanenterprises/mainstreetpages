@@ -1,9 +1,7 @@
 ---
-title: "Coon Rapids, Iowa Business Directory"
+title: "Coon Rapids, IA Business Directory"
+type: "towns"
 slug: "coon-rapids-ia"
-town: "Coon Rapids"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 1589
+state: "ia"
+town_data: "coon-rapids-ia"
 ---

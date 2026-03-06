@@ -1,9 +1,7 @@
 ---
-title: "Essex, Iowa Business Directory"
+title: "Essex, IA Business Directory"
+type: "towns"
 slug: "essex-ia"
-town: "Essex"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 3228
+state: "ia"
+town_data: "essex-ia"
 ---

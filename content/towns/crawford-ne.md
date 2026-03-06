@@ -1,7 +1,7 @@
 ---
-title: "Crawford, Nebraska Business Directory"
+title: "Crawford, NE Business Directory"
+type: "towns"
 slug: "crawford-ne"
-state: "NE"
-county: "Dawes"
-population: 977
+state: "ne"
+town_data: "crawford-ne"
 ---

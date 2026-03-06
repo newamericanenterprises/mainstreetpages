@@ -1,9 +1,7 @@
 ---
-title: "Underwood, Minnesota Business Directory"
+title: "Underwood, MN Business Directory"
+type: "towns"
 slug: "underwood-mn"
-town: "Underwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 855
+state: "mn"
+town_data: "underwood-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Cedar Creek, Nebraska Business Directory"
+title: "Cedar Creek, NE Business Directory"
+type: "towns"
 slug: "cedar-creek-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "cedar-creek-ne"
 ---

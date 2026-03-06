@@ -1,7 +1,7 @@
 ---
-title: "Dodson, Montana Business Directory"
+title: "Dodson, MT Business Directory"
+type: "towns"
 slug: "dodson-mt"
-state: "MT"
-county: "Phillips"
-population: 500
+state: "mt"
+town_data: "dodson-mt"
 ---

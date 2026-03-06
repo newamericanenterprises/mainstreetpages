@@ -1,9 +1,7 @@
 ---
-title: "Colony, Kansas Business Directory"
+title: "Colony, KS Business Directory"
+type: "towns"
 slug: "colony-ks"
-town: "Colony"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 1416
+state: "ks"
+town_data: "colony-ks"
 ---

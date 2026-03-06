@@ -1,9 +1,7 @@
 ---
-title: "Eldersburg, Maryland Business Directory"
+title: "Eldersburg, MD Business Directory"
+type: "towns"
 slug: "eldersburg-md"
-town: "Eldersburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 1845
+state: "md"
+town_data: "eldersburg-md"
 ---

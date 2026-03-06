@@ -1,9 +1,7 @@
 ---
-title: "Gretna, Louisiana Business Directory"
+title: "Gretna, LA Business Directory"
+type: "towns"
 slug: "gretna-la"
-town: "Gretna"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 17909
+state: "la"
+town_data: "gretna-la"
 ---

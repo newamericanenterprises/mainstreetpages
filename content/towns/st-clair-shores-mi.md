@@ -1,9 +1,7 @@
 ---
-title: "St. Clair Shores, Michigan Business Directory"
+title: "St. Clair Shores, MI Business Directory"
+type: "towns"
 slug: "st-clair-shores-mi"
-town: "St. Clair Shores"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 59379
+state: "mi"
+town_data: "st-clair-shores-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Clarence, Iowa Business Directory"
+title: "Clarence, IA Business Directory"
+type: "towns"
 slug: "clarence-ia"
-town: "Clarence"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 1671
+state: "ia"
+town_data: "clarence-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Melbourne, Iowa Business Directory"
+title: "Melbourne, IA Business Directory"
+type: "towns"
 slug: "melbourne-ia"
-town: "Melbourne"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1426
+state: "ia"
+town_data: "melbourne-ia"
 ---

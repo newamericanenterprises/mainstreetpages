@@ -1,9 +1,7 @@
 ---
-title: "Richwood, Louisiana Business Directory"
+title: "Richwood, LA Business Directory"
+type: "towns"
 slug: "richwood-la"
-town: "Richwood"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 1887
+state: "la"
+town_data: "richwood-la"
 ---

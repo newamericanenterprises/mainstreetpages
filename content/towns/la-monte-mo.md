@@ -1,7 +1,7 @@
 ---
-title: "La Monte, Missouri Business Directory"
+title: "Lante Mo, MO Business Directory"
+type: "towns"
 slug: "la-monte-mo"
-state: "MO"
-county: "Pettis"
-population: 1500
+state: "mo"
+town_data: "la-monte-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Chappell, Nebraska Business Directory"
+title: "Chappell, NE Business Directory"
+type: "towns"
 slug: "chappell-ne"
-state: "NE"
-county: "Deuel"
-population: 912
+state: "ne"
+town_data: "chappell-ne"
 ---

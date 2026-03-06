@@ -1,9 +1,7 @@
 ---
-title: "Nielsville, Minnesota Business Directory"
+title: "Nielsville, MN Business Directory"
+type: "towns"
 slug: "nielsville-mn"
-town: "Nielsville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 1649
+state: "mn"
+town_data: "nielsville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bedford, Kentucky Business Directory"
+title: "Bedford, KY Business Directory"
+type: "towns"
 slug: "bedford-ky"
-town: "Bedford"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Trimble"
-population: 688
+state: "ky"
+town_data: "bedford-ky"
 ---

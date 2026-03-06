@@ -1,7 +1,7 @@
 ---
-title: "Polo, Missouri Business Directory"
+title: "Polo, MO Business Directory"
+type: "towns"
 slug: "polo-mo"
-state: "MO"
-county: "Caldwell"
-population: 1500
+state: "mo"
+town_data: "polo-mo"
 ---

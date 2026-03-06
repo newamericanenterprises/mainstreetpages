@@ -1,9 +1,7 @@
 ---
-title: "Toronto, Kansas Business Directory"
+title: "Toronto, KS Business Directory"
+type: "towns"
 slug: "toronto-ks"
-town: "Toronto"
-state: "Kansas"
-state_abbr: "KS"
-county: "Woodson"
-population: 2255
+state: "ks"
+town_data: "toronto-ks"
 ---

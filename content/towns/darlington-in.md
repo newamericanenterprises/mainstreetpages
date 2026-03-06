@@ -1,9 +1,7 @@
 ---
-title: "Darlington, Indiana Business Directory"
+title: "Darlington, IN Business Directory"
+type: "towns"
 slug: "darlington-in"
-town: "Darlington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 503
+state: "in"
+town_data: "darlington-in"
 ---

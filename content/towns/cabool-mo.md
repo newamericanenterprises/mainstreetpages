@@ -1,7 +1,7 @@
 ---
-title: "Cabool, Missouri Business Directory"
+title: "Cabool, MO Business Directory"
+type: "towns"
 slug: "cabool-mo"
-state: "MO"
-county: "Texas"
-population: 2195
+state: "mo"
+town_data: "cabool-mo"
 ---

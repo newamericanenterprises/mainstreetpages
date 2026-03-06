@@ -1,9 +1,7 @@
 ---
-title: "Altona, Indiana Business Directory"
+title: "Altona, IN Business Directory"
+type: "towns"
 slug: "altona-in"
-town: "Altona"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 972
+state: "in"
+town_data: "altona-in"
 ---

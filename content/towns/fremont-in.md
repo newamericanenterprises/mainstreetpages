@@ -1,9 +1,7 @@
 ---
-title: "Fremont, Indiana Business Directory"
+title: "Fremont, IN Business Directory"
+type: "towns"
 slug: "fremont-in"
-town: "Fremont"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 2718
+state: "in"
+town_data: "fremont-in"
 ---

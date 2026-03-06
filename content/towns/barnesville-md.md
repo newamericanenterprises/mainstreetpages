@@ -1,9 +1,7 @@
 ---
-title: "Barnesville, Maryland Business Directory"
+title: "Barnesville, MD Business Directory"
+type: "towns"
 slug: "barnesville-md"
-town: "Barnesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 2598
+state: "md"
+town_data: "barnesville-md"
 ---

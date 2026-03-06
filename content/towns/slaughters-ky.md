@@ -1,9 +1,7 @@
 ---
-title: "Slaughters, Kentucky Business Directory"
+title: "Slaughters, KY Business Directory"
+type: "towns"
 slug: "slaughters-ky"
-town: "Slaughters"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Webster"
-population: 1425
+state: "ky"
+town_data: "slaughters-ky"
 ---

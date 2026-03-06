@@ -1,9 +1,7 @@
 ---
-title: "Kemp Mill, Maryland Business Directory"
+title: "Kemp Mill, MD Business Directory"
+type: "towns"
 slug: "kemp-mill-md"
-town: "Kemp Mill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 1248
+state: "md"
+town_data: "kemp-mill-md"
 ---

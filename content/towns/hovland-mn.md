@@ -1,9 +1,7 @@
 ---
-title: "Hovland, Minnesota Business Directory"
+title: "Hovland, MN Business Directory"
+type: "towns"
 slug: "hovland-mn"
-town: "Hovland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cook"
-population: 2141
+state: "mn"
+town_data: "hovland-mn"
 ---

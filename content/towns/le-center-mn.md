@@ -1,9 +1,7 @@
 ---
-title: "Le Center, Minnesota Business Directory"
+title: "Le Center, MN Business Directory"
+type: "towns"
 slug: "le-center-mn"
-town: "Le Center"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 1665
+state: "mn"
+town_data: "le-center-mn"
 ---

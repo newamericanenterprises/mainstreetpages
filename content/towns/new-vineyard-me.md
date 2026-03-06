@@ -1,9 +1,7 @@
 ---
-title: "New Vineyard, Maine Business Directory"
+title: "New Vineyard, ME Business Directory"
+type: "towns"
 slug: "new-vineyard-me"
-town: "New Vineyard"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1530
+state: "me"
+town_data: "new-vineyard-me"
 ---

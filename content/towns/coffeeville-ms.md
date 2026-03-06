@@ -1,7 +1,7 @@
 ---
-title: "Coffeeville, Mississippi Business Directory"
+title: "Coffeeville, MS Business Directory"
+type: "towns"
 slug: "coffeeville-ms"
-state: "MS"
-county: "Yalobusha"
-population: 883
+state: "ms"
+town_data: "coffeeville-ms"
 ---

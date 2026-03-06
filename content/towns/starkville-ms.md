@@ -1,7 +1,7 @@
 ---
-title: "Starkville, Mississippi Business Directory"
+title: "Starkville, MS Business Directory"
+type: "towns"
 slug: "starkville-ms"
-state: "MS"
-county: "Oktibbeha"
-population: 26136
+state: "ms"
+town_data: "starkville-ms"
 ---

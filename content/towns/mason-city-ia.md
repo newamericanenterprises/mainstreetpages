@@ -1,9 +1,7 @@
 ---
-title: "Mason City, Iowa Business Directory"
+title: "Mason City, IA Business Directory"
+type: "towns"
 slug: "mason-city-ia"
-town: "Mason City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 27899
+state: "ia"
+town_data: "mason-city-ia"
 ---

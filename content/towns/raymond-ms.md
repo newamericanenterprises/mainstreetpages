@@ -1,7 +1,7 @@
 ---
-title: "Raymond, Mississippi Business Directory"
+title: "Raymond, MS Business Directory"
+type: "towns"
 slug: "raymond-ms"
-state: "MS"
-county: "Hinds"
-population: 2028
+state: "ms"
+town_data: "raymond-ms"
 ---

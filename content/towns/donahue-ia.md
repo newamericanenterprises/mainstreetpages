@@ -1,9 +1,7 @@
 ---
-title: "Donahue, Iowa Business Directory"
+title: "Donahue, IA Business Directory"
+type: "towns"
 slug: "donahue-ia"
-town: "Donahue"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 2774
+state: "ia"
+town_data: "donahue-ia"
 ---

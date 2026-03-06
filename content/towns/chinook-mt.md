@@ -1,7 +1,7 @@
 ---
-title: "Chinook, Montana Business Directory"
+title: "Chinook, MT Business Directory"
+type: "towns"
 slug: "chinook-mt"
-state: "MT"
-county: "Blaine"
-population: 1203
+state: "mt"
+town_data: "chinook-mt"
 ---

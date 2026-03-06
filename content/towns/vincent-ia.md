@@ -1,9 +1,7 @@
 ---
-title: "Vincent, Iowa Business Directory"
+title: "Vincent, IA Business Directory"
+type: "towns"
 slug: "vincent-ia"
-town: "Vincent"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1092
+state: "ia"
+town_data: "vincent-ia"
 ---

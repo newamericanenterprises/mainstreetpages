@@ -1,7 +1,7 @@
 ---
-title: "Yutan, Nebraska Business Directory"
+title: "Yutan, NE Business Directory"
+type: "towns"
 slug: "yutan-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "yutan-ne"
 ---

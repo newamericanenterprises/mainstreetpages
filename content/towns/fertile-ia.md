@@ -1,9 +1,7 @@
 ---
-title: "Fertile, Iowa Business Directory"
+title: "Fertile, IA Business Directory"
+type: "towns"
 slug: "fertile-ia"
-town: "Fertile"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 2952
+state: "ia"
+town_data: "fertile-ia"
 ---

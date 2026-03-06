@@ -1,9 +1,7 @@
 ---
-title: "Raceland, Louisiana Business Directory"
+title: "Raceland, LA Business Directory"
+type: "towns"
 slug: "raceland-la"
-town: "Raceland"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 404
+state: "la"
+town_data: "raceland-la"
 ---

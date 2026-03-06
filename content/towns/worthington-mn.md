@@ -1,9 +1,7 @@
 ---
-title: "Worthington, Minnesota Business Directory"
+title: "Worthington, MN Business Directory"
+type: "towns"
 slug: "worthington-mn"
-town: "Worthington"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 14100
+state: "mn"
+town_data: "worthington-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lockridge, Iowa Business Directory"
+title: "Lockridge, IA Business Directory"
+type: "towns"
 slug: "lockridge-ia"
-town: "Lockridge"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jefferson"
-population: 3008
+state: "ia"
+town_data: "lockridge-ia"
 ---

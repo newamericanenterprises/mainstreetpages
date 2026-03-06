@@ -1,7 +1,7 @@
 ---
-title: "Milltown, Montana Business Directory"
+title: "Milltown, MT Business Directory"
+type: "towns"
 slug: "milltown-mt"
-state: "MT"
-county: "Missoula"
-population: 500
+state: "mt"
+town_data: "milltown-mt"
 ---

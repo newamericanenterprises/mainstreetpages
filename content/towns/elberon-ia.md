@@ -1,9 +1,7 @@
 ---
-title: "Elberon, Iowa Business Directory"
+title: "Elberon, IA Business Directory"
+type: "towns"
 slug: "elberon-ia"
-town: "Elberon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 1831
+state: "ia"
+town_data: "elberon-ia"
 ---

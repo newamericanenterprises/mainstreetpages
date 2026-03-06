@@ -1,9 +1,7 @@
 ---
-title: "Hartford, Kansas Business Directory"
+title: "Hartford, KS Business Directory"
+type: "towns"
 slug: "hartford-ks"
-town: "Hartford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 2896
+state: "ks"
+town_data: "hartford-ks"
 ---

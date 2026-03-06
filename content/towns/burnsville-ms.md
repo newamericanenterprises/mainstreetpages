@@ -1,7 +1,7 @@
 ---
-title: "Burnsville, Mississippi Business Directory"
+title: "Burnsville, MS Business Directory"
+type: "towns"
 slug: "burnsville-ms"
-state: "MS"
-county: "Tishomingo"
-population: 965
+state: "ms"
+town_data: "burnsville-ms"
 ---

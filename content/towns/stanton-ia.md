@@ -1,9 +1,7 @@
 ---
-title: "Stanton, Iowa Business Directory"
+title: "Stanton, IA Business Directory"
+type: "towns"
 slug: "stanton-ia"
-town: "Stanton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 2804
+state: "ia"
+town_data: "stanton-ia"
 ---

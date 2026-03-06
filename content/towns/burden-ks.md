@@ -1,9 +1,7 @@
 ---
-title: "Burden, Kansas Business Directory"
+title: "Burden, KS Business Directory"
+type: "towns"
 slug: "burden-ks"
-town: "Burden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 1048
+state: "ks"
+town_data: "burden-ks"
 ---

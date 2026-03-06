@@ -1,9 +1,7 @@
 ---
-title: "Buchanan, Michigan Business Directory"
+title: "Buchanan, MI Business Directory"
+type: "towns"
 slug: "buchanan-mi"
-town: "Buchanan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 2357
+state: "mi"
+town_data: "buchanan-mi"
 ---

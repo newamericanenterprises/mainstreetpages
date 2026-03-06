@@ -1,9 +1,7 @@
 ---
-title: "Sulphur Springs, Indiana Business Directory"
+title: "Sulphur Springs, IN Business Directory"
+type: "towns"
 slug: "sulphur-springs-in"
-town: "Sulphur Springs"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 4147
+state: "in"
+town_data: "sulphur-springs-in"
 ---

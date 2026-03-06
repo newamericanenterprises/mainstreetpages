@@ -1,9 +1,7 @@
 ---
-title: "Cottage Grove, Minnesota Business Directory"
+title: "Cottage Grove, MN Business Directory"
+type: "towns"
 slug: "cottage-grove-mn"
-town: "Cottage Grove"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 37500
+state: "mn"
+town_data: "cottage-grove-mn"
 ---

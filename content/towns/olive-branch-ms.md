@@ -1,7 +1,7 @@
 ---
-title: "Olive Branch, Mississippi Business Directory"
+title: "Olive Branch, MS Business Directory"
+type: "towns"
 slug: "olive-branch-ms"
-state: "MS"
-county: "DeSoto"
-population: 43050
+state: "ms"
+town_data: "olive-branch-ms"
 ---

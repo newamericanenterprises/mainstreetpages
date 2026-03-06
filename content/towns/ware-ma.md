@@ -1,9 +1,7 @@
 ---
-title: "Ware, Massachusetts Business Directory"
+title: "Ware, MA Business Directory"
+type: "towns"
 slug: "ware-ma"
-town: "Ware"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 9862
+state: "ma"
+town_data: "ware-ma"
 ---

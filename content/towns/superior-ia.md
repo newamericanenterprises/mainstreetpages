@@ -1,9 +1,7 @@
 ---
-title: "Superior, Iowa Business Directory"
+title: "Superior, IA Business Directory"
+type: "towns"
 slug: "superior-ia"
-town: "Superior"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 2361
+state: "ia"
+town_data: "superior-ia"
 ---

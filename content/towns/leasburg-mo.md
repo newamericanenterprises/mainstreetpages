@@ -1,7 +1,7 @@
 ---
-title: "Leasburg, Missouri Business Directory"
+title: "Leasburg, MO Business Directory"
+type: "towns"
 slug: "leasburg-mo"
-state: "MO"
-county: "Crawford"
-population: 1500
+state: "mo"
+town_data: "leasburg-mo"
 ---

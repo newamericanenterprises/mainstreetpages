@@ -1,9 +1,7 @@
 ---
-title: "Oaktown, Indiana Business Directory"
+title: "Oaktown, IN Business Directory"
+type: "towns"
 slug: "oaktown-in"
-town: "Oaktown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 2763
+state: "in"
+town_data: "oaktown-in"
 ---

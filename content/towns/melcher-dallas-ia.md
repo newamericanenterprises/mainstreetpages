@@ -1,9 +1,7 @@
 ---
-title: "Melcher-Dallas, Iowa Business Directory"
+title: "Melcher-Dallas, IA Business Directory"
+type: "towns"
 slug: "melcher-dallas-ia"
-town: "Melcher-Dallas"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 1115
+state: "ia"
+town_data: "melcher-dallas-ia"
 ---

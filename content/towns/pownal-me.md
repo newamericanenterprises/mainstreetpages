@@ -1,9 +1,7 @@
 ---
-title: "Pownal, Maine Business Directory"
+title: "Pownal, ME Business Directory"
+type: "towns"
 slug: "pownal-me"
-town: "Pownal"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2457
+state: "me"
+town_data: "pownal-me"
 ---

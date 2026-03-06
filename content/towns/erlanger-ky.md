@@ -1,9 +1,7 @@
 ---
-title: "Erlanger, Kentucky Business Directory"
+title: "Erlanger, KY Business Directory"
+type: "towns"
 slug: "erlanger-ky"
-town: "Erlanger"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 19251
+state: "ky"
+town_data: "erlanger-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ellsworth, Iowa Business Directory"
+title: "Ellsworth, IA Business Directory"
+type: "towns"
 slug: "ellsworth-ia"
-town: "Ellsworth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 2694
+state: "ia"
+town_data: "ellsworth-ia"
 ---

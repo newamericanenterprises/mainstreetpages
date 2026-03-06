@@ -1,9 +1,7 @@
 ---
-title: "Constantine, Michigan Business Directory"
+title: "Constantine, MI Business Directory"
+type: "towns"
 slug: "constantine-mi"
-town: "Constantine"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 822
+state: "mi"
+town_data: "constantine-mi"
 ---

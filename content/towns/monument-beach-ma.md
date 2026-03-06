@@ -1,9 +1,7 @@
 ---
-title: "Monument Beach, Massachusetts Business Directory"
+title: "Monument Beach, MA Business Directory"
+type: "towns"
 slug: "monument-beach-ma"
-town: "Monument Beach"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 7541
+state: "ma"
+town_data: "monument-beach-ma"
 ---

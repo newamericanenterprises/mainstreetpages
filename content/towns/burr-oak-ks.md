@@ -1,9 +1,7 @@
 ---
-title: "Burr Oak, Kansas Business Directory"
+title: "Burr Oak, KS Business Directory"
+type: "towns"
 slug: "burr-oak-ks"
-town: "Burr Oak"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 577
+state: "ks"
+town_data: "burr-oak-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Aetna, Kansas Business Directory"
+title: "Aetna, KS Business Directory"
+type: "towns"
 slug: "aetna-ks"
-town: "Aetna"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 1050
+state: "ks"
+town_data: "aetna-ks"
 ---

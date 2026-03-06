@@ -1,9 +1,7 @@
 ---
-title: "Williamstown, Kentucky Business Directory"
+title: "Williamstown, KY Business Directory"
+type: "towns"
 slug: "williamstown-ky"
-town: "Williamstown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grant"
-population: 3910
+state: "ky"
+town_data: "williamstown-ky"
 ---

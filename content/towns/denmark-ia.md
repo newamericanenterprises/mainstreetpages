@@ -1,9 +1,7 @@
 ---
-title: "Denmark, Iowa Business Directory"
+title: "Denmark, IA Business Directory"
+type: "towns"
 slug: "denmark-ia"
-town: "Denmark"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 2974
+state: "ia"
+town_data: "denmark-ia"
 ---

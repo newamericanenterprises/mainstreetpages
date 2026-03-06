@@ -1,9 +1,7 @@
 ---
-title: "Bunker Hill, Indiana Business Directory"
+title: "Bunker Hill, IN Business Directory"
+type: "towns"
 slug: "bunker-hill-in"
-town: "Bunker Hill"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 3910
+state: "in"
+town_data: "bunker-hill-in"
 ---

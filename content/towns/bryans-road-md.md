@@ -1,9 +1,7 @@
 ---
-title: "Bryans Road, Maryland Business Directory"
+title: "Bryans Road, MD Business Directory"
+type: "towns"
 slug: "bryans-road-md"
-town: "Bryans Road"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 2910
+state: "md"
+town_data: "bryans-road-md"
 ---

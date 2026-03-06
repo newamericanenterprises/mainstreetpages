@@ -1,7 +1,7 @@
 ---
-title: "Republic, Missouri Business Directory"
+title: "Republic, MO Business Directory"
+type: "towns"
 slug: "republic-mo"
-state: "MO"
-county: "Greene"
-population: 18203
+state: "mo"
+town_data: "republic-mo"
 ---

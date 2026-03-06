@@ -1,9 +1,7 @@
 ---
-title: "Grenola, Kansas Business Directory"
+title: "Grenola, KS Business Directory"
+type: "towns"
 slug: "grenola-ks"
-town: "Grenola"
-state: "Kansas"
-state_abbr: "KS"
-county: "Elk"
-population: 2039
+state: "ks"
+town_data: "grenola-ks"
 ---

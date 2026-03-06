@@ -1,7 +1,7 @@
 ---
-title: "Blue Eye, Missouri Business Directory"
+title: "Blue Eye, MO Business Directory"
+type: "towns"
 slug: "blue-eye-mo"
-state: "MO"
-county: "Stone"
-population: 1500
+state: "mo"
+town_data: "blue-eye-mo"
 ---

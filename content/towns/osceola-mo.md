@@ -1,7 +1,7 @@
 ---
-title: "Osceola, Missouri Business Directory"
+title: "Osceola, MO Business Directory"
+type: "towns"
 slug: "osceola-mo"
-state: "MO"
-county: "St. Clair"
-population: 935
+state: "mo"
+town_data: "osceola-mo"
 ---

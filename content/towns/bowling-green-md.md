@@ -1,9 +1,7 @@
 ---
-title: "Bowling Green, Maryland Business Directory"
+title: "Bowling Green, MD Business Directory"
+type: "towns"
 slug: "bowling-green-md"
-town: "Bowling Green"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 4304
+state: "md"
+town_data: "bowling-green-md"
 ---

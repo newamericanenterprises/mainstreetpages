@@ -1,9 +1,7 @@
 ---
-title: "Warroad, Minnesota Business Directory"
+title: "Warroad, MN Business Directory"
+type: "towns"
 slug: "warroad-mn"
-town: "Warroad"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Roseau"
-population: 2522
+state: "mn"
+town_data: "warroad-mn"
 ---

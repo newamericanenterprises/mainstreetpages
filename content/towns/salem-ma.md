@@ -1,9 +1,7 @@
 ---
-title: "Salem, Massachusetts Business Directory"
+title: "Salem, MA Business Directory"
+type: "towns"
 slug: "salem-ma"
-town: "Salem"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 44480
+state: "ma"
+town_data: "salem-ma"
 ---

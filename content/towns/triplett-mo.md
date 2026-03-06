@@ -1,7 +1,7 @@
 ---
-title: "Triplett, Missouri Business Directory"
+title: "Triplett, MO Business Directory"
+type: "towns"
 slug: "triplett-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "triplett-mo"
 ---

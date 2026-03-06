@@ -1,7 +1,7 @@
 ---
-title: "Cuba, Missouri Business Directory"
+title: "Cuba, MO Business Directory"
+type: "towns"
 slug: "cuba-mo"
-state: "MO"
-county: "Crawford"
-population: 3455
+state: "mo"
+town_data: "cuba-mo"
 ---

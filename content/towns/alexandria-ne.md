@@ -1,7 +1,7 @@
 ---
-title: "Alexandria, Nebraska Business Directory"
+title: "Alexandria, NE Business Directory"
+type: "towns"
 slug: "alexandria-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "alexandria-ne"
 ---

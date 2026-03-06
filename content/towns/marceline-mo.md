@@ -1,7 +1,7 @@
 ---
-title: "Marceline, Missouri Business Directory"
+title: "Marceline, MO Business Directory"
+type: "towns"
 slug: "marceline-mo"
-state: "MO"
-county: "Linn"
-population: 2233
+state: "mo"
+town_data: "marceline-mo"
 ---

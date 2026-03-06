@@ -1,9 +1,7 @@
 ---
-title: "Chalmette, Louisiana Business Directory"
+title: "Chalmette, LA Business Directory"
+type: "towns"
 slug: "chalmette-la"
-town: "Chalmette"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Bernard"
-population: 28164
+state: "la"
+town_data: "chalmette-la"
 ---

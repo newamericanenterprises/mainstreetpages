@@ -1,9 +1,7 @@
 ---
-title: "Capac, Michigan Business Directory"
+title: "Capac, MI Business Directory"
+type: "towns"
 slug: "capac-mi"
-town: "Capac"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 5027
+state: "mi"
+town_data: "capac-mi"
 ---

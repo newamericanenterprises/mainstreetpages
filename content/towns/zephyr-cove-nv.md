@@ -1,7 +1,7 @@
 ---
-title: "Zephyr Cove, Nevada Business Directory"
+title: "Zephyr Cove, NV Business Directory"
+type: "towns"
 slug: "zephyr-cove-nv"
-state: "NV"
-county: "Douglas"
-population: 1623
+state: "nv"
+town_data: "zephyr-cove-nv"
 ---

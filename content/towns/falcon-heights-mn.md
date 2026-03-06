@@ -1,9 +1,7 @@
 ---
-title: "Falcon Heights, Minnesota Business Directory"
+title: "Falcon Heights, MN Business Directory"
+type: "towns"
 slug: "falcon-heights-mn"
-town: "Falcon Heights"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 1606
+state: "mn"
+town_data: "falcon-heights-mn"
 ---

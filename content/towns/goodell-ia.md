@@ -1,9 +1,7 @@
 ---
-title: "Goodell, Iowa Business Directory"
+title: "Goodell, IA Business Directory"
+type: "towns"
 slug: "goodell-ia"
-town: "Goodell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 728
+state: "ia"
+town_data: "goodell-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Blaine, Maine Business Directory"
+title: "Blaine, ME Business Directory"
+type: "towns"
 slug: "blaine-me"
-town: "Blaine"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1856
+state: "me"
+town_data: "blaine-me"
 ---

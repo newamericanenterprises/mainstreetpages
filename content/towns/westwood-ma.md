@@ -1,9 +1,7 @@
 ---
-title: "Westwood, Massachusetts Business Directory"
+title: "Westwood, MA Business Directory"
+type: "towns"
 slug: "westwood-ma"
-town: "Westwood"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 6173
+state: "ma"
+town_data: "westwood-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Kilmichael, Mississippi Business Directory"
+title: "Kilmichael, MS Business Directory"
+type: "towns"
 slug: "kilmichael-ms"
-state: "MS"
-county: "Montgomery"
-population: 686
+state: "ms"
+town_data: "kilmichael-ms"
 ---

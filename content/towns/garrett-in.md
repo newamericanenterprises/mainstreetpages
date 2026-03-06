@@ -1,9 +1,7 @@
 ---
-title: "Garrett, Indiana Business Directory"
+title: "Garrett, IN Business Directory"
+type: "towns"
 slug: "garrett-in"
-town: "Garrett"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 834
+state: "in"
+town_data: "garrett-in"
 ---

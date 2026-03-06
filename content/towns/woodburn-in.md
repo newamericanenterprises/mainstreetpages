@@ -1,9 +1,7 @@
 ---
-title: "Woodburn, Indiana Business Directory"
+title: "Woodburn, IN Business Directory"
+type: "towns"
 slug: "woodburn-in"
-town: "Woodburn"
-state: "Indiana"
-state_abbr: "IN"
-county: "Allen"
-population: 592
+state: "in"
+town_data: "woodburn-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Robbinsdale, Minnesota Business Directory"
+title: "Robbinsdale, MN Business Directory"
+type: "towns"
 slug: "robbinsdale-mn"
-town: "Robbinsdale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1367
+state: "mn"
+town_data: "robbinsdale-mn"
 ---

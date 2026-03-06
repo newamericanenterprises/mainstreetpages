@@ -1,7 +1,7 @@
 ---
-title: "Weaubleau, Missouri Business Directory"
+title: "Weaubleau, MO Business Directory"
+type: "towns"
 slug: "weaubleau-mo"
-state: "MO"
-county: "Hickory"
-population: 421
+state: "mo"
+town_data: "weaubleau-mo"
 ---

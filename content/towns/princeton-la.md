@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Louisiana Business Directory"
+title: "Princeton, LA Business Directory"
+type: "towns"
 slug: "princeton-la"
-town: "Princeton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bossier"
-population: 1014
+state: "la"
+town_data: "princeton-la"
 ---

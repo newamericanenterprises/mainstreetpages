@@ -1,7 +1,7 @@
 ---
-title: "Dearborn, Missouri Business Directory"
+title: "Dearborn, MO Business Directory"
+type: "towns"
 slug: "dearborn-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "dearborn-mo"
 ---

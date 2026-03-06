@@ -1,7 +1,7 @@
 ---
-title: "Oakdale, Nebraska Business Directory"
+title: "Oakdale, NE Business Directory"
+type: "towns"
 slug: "oakdale-ne"
-state: "NE"
-county: "Antelope"
-population: 318
+state: "ne"
+town_data: "oakdale-ne"
 ---

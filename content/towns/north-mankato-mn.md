@@ -1,9 +1,7 @@
 ---
-title: "North Mankato, Minnesota Business Directory"
+title: "North Mankato, MN Business Directory"
+type: "towns"
 slug: "north-mankato-mn"
-town: "North Mankato"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nicollet"
-population: 1521
+state: "mn"
+town_data: "north-mankato-mn"
 ---

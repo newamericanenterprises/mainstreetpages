@@ -1,9 +1,7 @@
 ---
-title: "Utica, Michigan Business Directory"
+title: "Utica, MI Business Directory"
+type: "towns"
 slug: "utica-mi"
-town: "Utica"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 1953
+state: "mi"
+town_data: "utica-mi"
 ---

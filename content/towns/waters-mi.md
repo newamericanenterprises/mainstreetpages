@@ -1,9 +1,7 @@
 ---
-title: "Waters, Michigan Business Directory"
+title: "Waters, MI Business Directory"
+type: "towns"
 slug: "waters-mi"
-town: "Waters"
-state: "Michigan"
-state_abbr: "MI"
-county: "Otsego"
-population: 1446
+state: "mi"
+town_data: "waters-mi"
 ---

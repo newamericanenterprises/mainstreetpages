@@ -1,9 +1,7 @@
 ---
-title: "Webster, Massachusetts Business Directory"
+title: "Webster, MA Business Directory"
+type: "towns"
 slug: "webster-ma"
-town: "Webster"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4324
+state: "ma"
+town_data: "webster-ma"
 ---

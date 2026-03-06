@@ -1,7 +1,7 @@
 ---
-title: "Mineral Point, Missouri Business Directory"
+title: "Mineral Point, MO Business Directory"
+type: "towns"
 slug: "mineral-point-mo"
-state: "MO"
-county: "Washington"
-population: 1500
+state: "mo"
+town_data: "mineral-point-mo"
 ---

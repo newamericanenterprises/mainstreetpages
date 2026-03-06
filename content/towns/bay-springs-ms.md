@@ -1,7 +1,7 @@
 ---
-title: "Bay Springs, Mississippi Business Directory"
+title: "Bay Springs, MS Business Directory"
+type: "towns"
 slug: "bay-springs-ms"
-state: "MS"
-county: "Jasper"
-population: 1760
+state: "ms"
+town_data: "bay-springs-ms"
 ---

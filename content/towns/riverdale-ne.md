@@ -1,7 +1,7 @@
 ---
-title: "Riverdale, Nebraska Business Directory"
+title: "Riverdale, NE Business Directory"
+type: "towns"
 slug: "riverdale-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "riverdale-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Prince's Lakes, Indiana Business Directory"
+title: "Prince's Lakes, IN Business Directory"
+type: "towns"
 slug: "princes-lakes-in"
-town: "Prince's Lakes"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 808
+state: "in"
+town_data: "princes-lakes-in"
 ---

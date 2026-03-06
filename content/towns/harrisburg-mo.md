@@ -1,7 +1,7 @@
 ---
-title: "Harrisburg, Missouri Business Directory"
+title: "Harrisburg, MO Business Directory"
+type: "towns"
 slug: "harrisburg-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "harrisburg-mo"
 ---

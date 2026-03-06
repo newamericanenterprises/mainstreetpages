@@ -1,7 +1,7 @@
 ---
-title: "Tremont, Mississippi Business Directory"
+title: "Tremont, MS Business Directory"
+type: "towns"
 slug: "tremont-ms"
-state: "MS"
-county: "Itawamba"
-population: 389
+state: "ms"
+town_data: "tremont-ms"
 ---

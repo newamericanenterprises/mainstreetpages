@@ -1,9 +1,7 @@
 ---
-title: "Wabash, Indiana Business Directory"
+title: "Wabash, IN Business Directory"
+type: "towns"
 slug: "wabash-in"
-town: "Wabash"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 10666
+state: "in"
+town_data: "wabash-in"
 ---

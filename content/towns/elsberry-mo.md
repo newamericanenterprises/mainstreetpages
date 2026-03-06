@@ -1,7 +1,7 @@
 ---
-title: "Elsberry, Missouri Business Directory"
+title: "Elsberry, MO Business Directory"
+type: "towns"
 slug: "elsberry-mo"
-state: "MO"
-county: "Lincoln"
-population: 2050
+state: "mo"
+town_data: "elsberry-mo"
 ---

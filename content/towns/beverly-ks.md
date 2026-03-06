@@ -1,9 +1,7 @@
 ---
-title: "Beverly, Kansas Business Directory"
+title: "Beverly, KS Business Directory"
+type: "towns"
 slug: "beverly-ks"
-town: "Beverly"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lincoln"
-population: 800
+state: "ks"
+town_data: "beverly-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Noel, Missouri Business Directory"
+title: "Noel, MO Business Directory"
+type: "towns"
 slug: "noel-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "noel-mo"
 ---

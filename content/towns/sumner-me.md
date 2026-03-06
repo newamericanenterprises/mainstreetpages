@@ -1,9 +1,7 @@
 ---
-title: "Sumner, Maine Business Directory"
+title: "Sumner, ME Business Directory"
+type: "towns"
 slug: "sumner-me"
-town: "Sumner"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 320
+state: "me"
+town_data: "sumner-me"
 ---

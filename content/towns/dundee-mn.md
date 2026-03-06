@@ -1,9 +1,7 @@
 ---
-title: "Dundee, Minnesota Business Directory"
+title: "Dundee, MN Business Directory"
+type: "towns"
 slug: "dundee-mn"
-town: "Dundee"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 2576
+state: "mn"
+town_data: "dundee-mn"
 ---

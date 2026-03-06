@@ -1,9 +1,7 @@
 ---
-title: "Tyngsborough, Massachusetts Business Directory"
+title: "Tyngsborough, MA Business Directory"
+type: "towns"
 slug: "tyngsborough-ma"
-town: "Tyngsborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 7397
+state: "ma"
+town_data: "tyngsborough-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rock Creek, Minnesota Business Directory"
+title: "Rock Creek, MN Business Directory"
+type: "towns"
 slug: "rock-creek-mn"
-town: "Rock Creek"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 792
+state: "mn"
+town_data: "rock-creek-mn"
 ---

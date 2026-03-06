@@ -1,7 +1,7 @@
 ---
-title: "Ruskin, Nebraska Business Directory"
+title: "Ruskin, NE Business Directory"
+type: "towns"
 slug: "ruskin-ne"
-state: "NE"
-county: "Nuckolls"
-population: 500
+state: "ne"
+town_data: "ruskin-ne"
 ---

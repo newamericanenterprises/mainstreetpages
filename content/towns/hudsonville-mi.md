@@ -1,9 +1,7 @@
 ---
-title: "Hudsonville, Michigan Business Directory"
+title: "Hudsonville, MI Business Directory"
+type: "towns"
 slug: "hudsonville-mi"
-town: "Hudsonville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 1651
+state: "mi"
+town_data: "hudsonville-mi"
 ---

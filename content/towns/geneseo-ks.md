@@ -1,9 +1,7 @@
 ---
-title: "Geneseo, Kansas Business Directory"
+title: "Geneseo, KS Business Directory"
+type: "towns"
 slug: "geneseo-ks"
-town: "Geneseo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 1007
+state: "ks"
+town_data: "geneseo-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gravity, Iowa Business Directory"
+title: "Gravity, IA Business Directory"
+type: "towns"
 slug: "gravity-ia"
-town: "Gravity"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 963
+state: "ia"
+town_data: "gravity-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Haynesville, Louisiana Business Directory"
+title: "Haynesville, LA Business Directory"
+type: "towns"
 slug: "haynesville-la"
-town: "Haynesville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Claiborne"
-population: 2337
+state: "la"
+town_data: "haynesville-la"
 ---

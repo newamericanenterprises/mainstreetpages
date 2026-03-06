@@ -1,9 +1,7 @@
 ---
-title: "Melvin, Iowa Business Directory"
+title: "Melvin, IA Business Directory"
+type: "towns"
 slug: "melvin-ia"
-town: "Melvin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 2073
+state: "ia"
+town_data: "melvin-ia"
 ---

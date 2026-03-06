@@ -1,7 +1,7 @@
 ---
-title: "Calhoun City, Mississippi Business Directory"
+title: "Calhoun City, MS Business Directory"
+type: "towns"
 slug: "calhoun-city-ms"
-state: "MS"
-county: "Calhoun"
-population: 1832
+state: "ms"
+town_data: "calhoun-city-ms"
 ---

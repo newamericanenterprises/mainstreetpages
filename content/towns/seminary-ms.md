@@ -1,7 +1,7 @@
 ---
-title: "Seminary, Mississippi Business Directory"
+title: "Seminary, MS Business Directory"
+type: "towns"
 slug: "seminary-ms"
-state: "MS"
-county: "Covington"
-population: 326
+state: "ms"
+town_data: "seminary-ms"
 ---

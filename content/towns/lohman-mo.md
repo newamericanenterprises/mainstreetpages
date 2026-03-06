@@ -1,7 +1,7 @@
 ---
-title: "Lohman, Missouri Business Directory"
+title: "Lohman, MO Business Directory"
+type: "towns"
 slug: "lohman-mo"
-state: "MO"
-county: "Cole"
-population: 1500
+state: "mo"
+town_data: "lohman-mo"
 ---

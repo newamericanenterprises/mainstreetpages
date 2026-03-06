@@ -1,9 +1,7 @@
 ---
-title: "Phillips, Maine Business Directory"
+title: "Phillips, ME Business Directory"
+type: "towns"
 slug: "phillips-me"
-town: "Phillips"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 871
+state: "me"
+town_data: "phillips-me"
 ---

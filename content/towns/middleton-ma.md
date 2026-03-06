@@ -1,9 +1,7 @@
 ---
-title: "Middleton, Massachusetts Business Directory"
+title: "Middleton, MA Business Directory"
+type: "towns"
 slug: "middleton-ma"
-town: "Middleton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 5417
+state: "ma"
+town_data: "middleton-ma"
 ---

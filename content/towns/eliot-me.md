@@ -1,9 +1,7 @@
 ---
-title: "Eliot, Maine Business Directory"
+title: "Eliot, ME Business Directory"
+type: "towns"
 slug: "eliot-me"
-town: "Eliot"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 6749
+state: "me"
+town_data: "eliot-me"
 ---

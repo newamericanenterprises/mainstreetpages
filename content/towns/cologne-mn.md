@@ -1,9 +1,7 @@
 ---
-title: "Cologne, Minnesota Business Directory"
+title: "Cologne, MN Business Directory"
+type: "towns"
 slug: "cologne-mn"
-town: "Cologne"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 3296
+state: "mn"
+town_data: "cologne-mn"
 ---

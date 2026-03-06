@@ -1,9 +1,7 @@
 ---
-title: "Oakland, Maryland Business Directory"
+title: "Oakland, MD Business Directory"
+type: "towns"
 slug: "oakland-md"
-town: "Oakland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 1930
+state: "md"
+town_data: "oakland-md"
 ---

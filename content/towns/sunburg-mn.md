@@ -1,9 +1,7 @@
 ---
-title: "Sunburg, Minnesota Business Directory"
+title: "Sunburg, MN Business Directory"
+type: "towns"
 slug: "sunburg-mn"
-town: "Sunburg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1182
+state: "mn"
+town_data: "sunburg-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Benton, Kentucky Business Directory"
+title: "Benton, KY Business Directory"
+type: "towns"
 slug: "benton-ky"
-town: "Benton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marshall"
-population: 4415
+state: "ky"
+town_data: "benton-ky"
 ---

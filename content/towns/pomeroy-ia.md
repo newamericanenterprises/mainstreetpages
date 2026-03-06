@@ -1,9 +1,7 @@
 ---
-title: "Pomeroy, Iowa Business Directory"
+title: "Pomeroy, IA Business Directory"
+type: "towns"
 slug: "pomeroy-ia"
-town: "Pomeroy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 1056
+state: "ia"
+town_data: "pomeroy-ia"
 ---

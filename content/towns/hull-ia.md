@@ -1,9 +1,7 @@
 ---
-title: "Hull, Iowa Business Directory"
+title: "Hull, IA Business Directory"
+type: "towns"
 slug: "hull-ia"
-town: "Hull"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 581
+state: "ia"
+town_data: "hull-ia"
 ---

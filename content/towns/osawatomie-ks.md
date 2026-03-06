@@ -1,9 +1,7 @@
 ---
-title: "Osawatomie, Kansas Business Directory"
+title: "Osawatomie, KS Business Directory"
+type: "towns"
 slug: "osawatomie-ks"
-town: "Osawatomie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Miami"
-population: 1852
+state: "ks"
+town_data: "osawatomie-ks"
 ---

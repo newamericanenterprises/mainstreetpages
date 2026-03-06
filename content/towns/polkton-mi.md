@@ -1,9 +1,7 @@
 ---
-title: "Polkton, Michigan Business Directory"
+title: "Polkton, MI Business Directory"
+type: "towns"
 slug: "polkton-mi"
-town: "Polkton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 5369
+state: "mi"
+town_data: "polkton-mi"
 ---

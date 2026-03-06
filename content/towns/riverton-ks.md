@@ -1,9 +1,7 @@
 ---
-title: "Riverton, Kansas Business Directory"
+title: "Riverton, KS Business Directory"
+type: "towns"
 slug: "riverton-ks"
-town: "Riverton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 2073
+state: "ks"
+town_data: "riverton-ks"
 ---

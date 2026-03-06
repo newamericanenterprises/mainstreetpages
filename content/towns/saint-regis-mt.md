@@ -1,7 +1,7 @@
 ---
-title: "Saint Regis, Montana Business Directory"
+title: "Saint Regis, MT Business Directory"
+type: "towns"
 slug: "saint-regis-mt"
-state: "MT"
-county: "Mineral"
-population: 500
+state: "mt"
+town_data: "saint-regis-mt"
 ---

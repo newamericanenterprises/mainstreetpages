@@ -1,7 +1,7 @@
 ---
-title: "Salem, Nebraska Business Directory"
+title: "Salem, NE Business Directory"
+type: "towns"
 slug: "salem-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "salem-ne"
 ---

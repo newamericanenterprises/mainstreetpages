@@ -1,7 +1,7 @@
 ---
-title: "Saint Marie, Montana Business Directory"
+title: "Saint Marie, MT Business Directory"
+type: "towns"
 slug: "saint-marie-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "saint-marie-mt"
 ---

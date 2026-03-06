@@ -1,9 +1,7 @@
 ---
-title: "Mount Hope, Kansas Business Directory"
+title: "Mount Hope, KS Business Directory"
+type: "towns"
 slug: "mount-hope-ks"
-town: "Mount Hope"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 989
+state: "ks"
+town_data: "mount-hope-ks"
 ---

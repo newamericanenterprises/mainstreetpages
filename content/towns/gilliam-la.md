@@ -1,9 +1,7 @@
 ---
-title: "Gilliam, Louisiana Business Directory"
+title: "Gilliam, LA Business Directory"
+type: "towns"
 slug: "gilliam-la"
-town: "Gilliam"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 2436
+state: "la"
+town_data: "gilliam-la"
 ---

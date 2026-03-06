@@ -1,9 +1,7 @@
 ---
-title: "Andover, Massachusetts Business Directory"
+title: "Andover, MA Business Directory"
+type: "towns"
 slug: "andover-ma"
-town: "Andover"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 36383
+state: "ma"
+town_data: "andover-ma"
 ---

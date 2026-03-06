@@ -1,9 +1,7 @@
 ---
-title: "Chilmark, Massachusetts Business Directory"
+title: "Chilmark, MA Business Directory"
+type: "towns"
 slug: "chilmark-ma"
-town: "Chilmark"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 7833
+state: "ma"
+town_data: "chilmark-ma"
 ---

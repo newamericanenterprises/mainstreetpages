@@ -1,9 +1,7 @@
 ---
-title: "Onekama, Michigan Business Directory"
+title: "Onekama, MI Business Directory"
+type: "towns"
 slug: "onekama-mi"
-town: "Onekama"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 4472
+state: "mi"
+town_data: "onekama-mi"
 ---

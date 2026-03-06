@@ -1,9 +1,7 @@
 ---
-title: "Hallock, Minnesota Business Directory"
+title: "Hallock, MN Business Directory"
+type: "towns"
 slug: "hallock-mn"
-town: "Hallock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 1413
+state: "mn"
+town_data: "hallock-mn"
 ---

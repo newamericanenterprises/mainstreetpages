@@ -1,9 +1,7 @@
 ---
-title: "Brookston, Minnesota Business Directory"
+title: "Brookston, MN Business Directory"
+type: "towns"
 slug: "brookston-mn"
-town: "Brookston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 3054
+state: "mn"
+town_data: "brookston-mn"
 ---

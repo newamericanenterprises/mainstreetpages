@@ -1,9 +1,7 @@
 ---
-title: "Manilla, Iowa Business Directory"
+title: "Manilla, IA Business Directory"
+type: "towns"
 slug: "manilla-ia"
-town: "Manilla"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 1851
+state: "ia"
+town_data: "manilla-ia"
 ---

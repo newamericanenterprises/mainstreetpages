@@ -1,9 +1,7 @@
 ---
-title: "Edgecomb, Maine Business Directory"
+title: "Edgecomb, ME Business Directory"
+type: "towns"
 slug: "edgecomb-me"
-town: "Edgecomb"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2481
+state: "me"
+town_data: "edgecomb-me"
 ---

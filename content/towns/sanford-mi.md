@@ -1,9 +1,7 @@
 ---
-title: "Sanford, Michigan Business Directory"
+title: "Sanford, MI Business Directory"
+type: "towns"
 slug: "sanford-mi"
-town: "Sanford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Midland"
-population: 4968
+state: "mi"
+town_data: "sanford-mi"
 ---

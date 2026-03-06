@@ -1,9 +1,7 @@
 ---
-title: "Kingman, Indiana Business Directory"
+title: "Kingman, IN Business Directory"
+type: "towns"
 slug: "kingman-in"
-town: "Kingman"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 815
+state: "in"
+town_data: "kingman-in"
 ---

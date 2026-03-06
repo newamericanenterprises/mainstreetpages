@@ -1,9 +1,7 @@
 ---
-title: "Girdletree, Maryland Business Directory"
+title: "Girdletree, MD Business Directory"
+type: "towns"
 slug: "girdletree-md"
-town: "Girdletree"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 2703
+state: "md"
+town_data: "girdletree-md"
 ---

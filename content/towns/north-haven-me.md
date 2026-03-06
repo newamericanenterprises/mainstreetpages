@@ -1,9 +1,7 @@
 ---
-title: "North Haven, Maine Business Directory"
+title: "North Haven, ME Business Directory"
+type: "towns"
 slug: "north-haven-me"
-town: "North Haven"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 2366
+state: "me"
+town_data: "north-haven-me"
 ---

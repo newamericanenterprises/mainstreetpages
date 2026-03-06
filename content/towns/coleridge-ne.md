@@ -1,7 +1,7 @@
 ---
-title: "Coleridge, Nebraska Business Directory"
+title: "Coleridge, NE Business Directory"
+type: "towns"
 slug: "coleridge-ne"
-state: "NE"
-county: "Cedar"
-population: 473
+state: "ne"
+town_data: "coleridge-ne"
 ---

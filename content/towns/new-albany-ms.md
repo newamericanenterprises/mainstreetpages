@@ -1,7 +1,7 @@
 ---
-title: "New Albany, Mississippi Business Directory"
+title: "New Albany, MS Business Directory"
+type: "towns"
 slug: "new-albany-ms"
-state: "MS"
-county: "Union"
-population: 8650
+state: "ms"
+town_data: "new-albany-ms"
 ---

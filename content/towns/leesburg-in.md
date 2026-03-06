@@ -1,9 +1,7 @@
 ---
-title: "Leesburg, Indiana Business Directory"
+title: "Leesburg, IN Business Directory"
+type: "towns"
 slug: "leesburg-in"
-town: "Leesburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 4611
+state: "in"
+town_data: "leesburg-in"
 ---

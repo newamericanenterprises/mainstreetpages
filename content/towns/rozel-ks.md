@@ -1,9 +1,7 @@
 ---
-title: "Rozel, Kansas Business Directory"
+title: "Rozel, KS Business Directory"
+type: "towns"
 slug: "rozel-ks"
-town: "Rozel"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pawnee"
-population: 682
+state: "ks"
+town_data: "rozel-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shepherd, Montana Business Directory"
+title: "Shepherd, MT Business Directory"
+type: "towns"
 slug: "shepherd-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "shepherd-mt"
 ---

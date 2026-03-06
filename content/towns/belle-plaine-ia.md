@@ -1,9 +1,7 @@
 ---
-title: "Belle Plaine, Iowa Business Directory"
+title: "Belle Plaine, IA Business Directory"
+type: "towns"
 slug: "belle-plaine-ia"
-town: "Belle Plaine"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 2534
+state: "ia"
+town_data: "belle-plaine-ia"
 ---

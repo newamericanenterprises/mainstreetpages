@@ -1,9 +1,7 @@
 ---
-title: "Mound, Minnesota Business Directory"
+title: "Mound, MN Business Directory"
+type: "towns"
 slug: "mound-mn"
-town: "Mound"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2925
+state: "mn"
+town_data: "mound-mn"
 ---

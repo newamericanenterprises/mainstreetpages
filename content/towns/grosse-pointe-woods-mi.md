@@ -1,9 +1,7 @@
 ---
-title: "Grosse Pointe Woods, Michigan Business Directory"
+title: "Grosse Pointe Woods, MI Business Directory"
+type: "towns"
 slug: "grosse-pointe-woods-mi"
-town: "Grosse Pointe Woods"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2534
+state: "mi"
+town_data: "grosse-pointe-woods-mi"
 ---

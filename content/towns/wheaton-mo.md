@@ -1,7 +1,7 @@
 ---
-title: "Wheaton, Missouri Business Directory"
+title: "Wheaton, MO Business Directory"
+type: "towns"
 slug: "wheaton-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "wheaton-mo"
 ---

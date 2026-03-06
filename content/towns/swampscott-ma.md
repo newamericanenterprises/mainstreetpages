@@ -1,9 +1,7 @@
 ---
-title: "Swampscott, Massachusetts Business Directory"
+title: "Swampscott, MA Business Directory"
+type: "towns"
 slug: "swampscott-ma"
-town: "Swampscott"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 6885
+state: "ma"
+town_data: "swampscott-ma"
 ---

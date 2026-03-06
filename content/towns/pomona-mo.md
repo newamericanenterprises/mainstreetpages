@@ -1,7 +1,7 @@
 ---
-title: "Pomona, Missouri Business Directory"
+title: "Pomona, MO Business Directory"
+type: "towns"
 slug: "pomona-mo"
-state: "MO"
-county: "Howell"
-population: 1500
+state: "mo"
+town_data: "pomona-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Oilmont, Montana Business Directory"
+title: "Oilmont, MT Business Directory"
+type: "towns"
 slug: "oilmont-mt"
-state: "MT"
-county: "Toole"
-population: 500
+state: "mt"
+town_data: "oilmont-mt"
 ---

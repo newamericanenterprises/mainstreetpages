@@ -1,9 +1,7 @@
 ---
-title: "Hamilton, Massachusetts Business Directory"
+title: "Hamilton, MA Business Directory"
+type: "towns"
 slug: "hamilton-ma"
-town: "Hamilton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 2269
+state: "ma"
+town_data: "hamilton-ma"
 ---

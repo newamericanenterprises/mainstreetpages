@@ -1,9 +1,7 @@
 ---
-title: "Dalton, Massachusetts Business Directory"
+title: "Dalton, MA Business Directory"
+type: "towns"
 slug: "dalton-ma"
-town: "Dalton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 3530
+state: "ma"
+town_data: "dalton-ma"
 ---

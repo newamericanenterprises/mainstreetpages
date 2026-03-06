@@ -1,9 +1,7 @@
 ---
-title: "Dellwood, Minnesota Business Directory"
+title: "Dellwood, MN Business Directory"
+type: "towns"
 slug: "dellwood-mn"
-town: "Dellwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2570
+state: "mn"
+town_data: "dellwood-mn"
 ---

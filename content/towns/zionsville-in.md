@@ -1,9 +1,7 @@
 ---
-title: "Zionsville, Indiana Business Directory"
+title: "Zionsville, IN Business Directory"
+type: "towns"
 slug: "zionsville-in"
-town: "Zionsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Boone"
-population: 28357
+state: "in"
+town_data: "zionsville-in"
 ---

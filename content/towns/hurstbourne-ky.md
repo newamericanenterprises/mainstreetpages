@@ -1,9 +1,7 @@
 ---
-title: "Hurstbourne, Kentucky Business Directory"
+title: "Hurstbourne, KY Business Directory"
+type: "towns"
 slug: "hurstbourne-ky"
-town: "Hurstbourne"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 2134
+state: "ky"
+town_data: "hurstbourne-ky"
 ---

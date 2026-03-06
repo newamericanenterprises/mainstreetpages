@@ -1,9 +1,7 @@
 ---
-title: "Lafontaine, Kansas Business Directory"
+title: "Lafontaine, KS Business Directory"
+type: "towns"
 slug: "lafontaine-ks"
-town: "Lafontaine"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 2620
+state: "ks"
+town_data: "lafontaine-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Marcus, Iowa Business Directory"
+title: "Marcus, IA Business Directory"
+type: "towns"
 slug: "marcus-ia"
-town: "Marcus"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 783
+state: "ia"
+town_data: "marcus-ia"
 ---

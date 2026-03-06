@@ -1,9 +1,7 @@
 ---
-title: "West Bloomfield, Michigan Business Directory"
+title: "West Bloomfield, MI Business Directory"
+type: "towns"
 slug: "west-bloomfield-mi"
-town: "West Bloomfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 65634
+state: "mi"
+town_data: "west-bloomfield-mi"
 ---

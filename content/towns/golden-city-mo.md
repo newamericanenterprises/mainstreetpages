@@ -1,7 +1,7 @@
 ---
-title: "Golden City, Missouri Business Directory"
+title: "Golden City, MO Business Directory"
+type: "towns"
 slug: "golden-city-mo"
-state: "MO"
-county: "Barton"
-population: 1500
+state: "mo"
+town_data: "golden-city-mo"
 ---

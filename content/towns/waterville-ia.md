@@ -1,9 +1,7 @@
 ---
-title: "Waterville, Iowa Business Directory"
+title: "Waterville, IA Business Directory"
+type: "towns"
 slug: "waterville-ia"
-town: "Waterville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 1919
+state: "ia"
+town_data: "waterville-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Queen City, Missouri Business Directory"
+title: "Queen City, MO Business Directory"
+type: "towns"
 slug: "queen-city-mo"
-state: "MO"
-county: "Schuyler"
-population: 1500
+state: "mo"
+town_data: "queen-city-mo"
 ---

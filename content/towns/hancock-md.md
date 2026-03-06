@@ -1,9 +1,7 @@
 ---
-title: "Hancock, Maryland Business Directory"
+title: "Hancock, MD Business Directory"
+type: "towns"
 slug: "hancock-md"
-town: "Hancock"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 830
+state: "md"
+town_data: "hancock-md"
 ---

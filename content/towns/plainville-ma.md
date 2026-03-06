@@ -1,9 +1,7 @@
 ---
-title: "Plainville, Massachusetts Business Directory"
+title: "Plainville, MA Business Directory"
+type: "towns"
 slug: "plainville-ma"
-town: "Plainville"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 8513
+state: "ma"
+town_data: "plainville-ma"
 ---

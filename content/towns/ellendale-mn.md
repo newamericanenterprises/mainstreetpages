@@ -1,9 +1,7 @@
 ---
-title: "Ellendale, Minnesota Business Directory"
+title: "Ellendale, MN Business Directory"
+type: "towns"
 slug: "ellendale-mn"
-town: "Ellendale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Steele"
-population: 658
+state: "mn"
+town_data: "ellendale-mn"
 ---

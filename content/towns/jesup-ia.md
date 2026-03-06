@@ -1,9 +1,7 @@
 ---
-title: "Jesup, Iowa Business Directory"
+title: "Jesup, IA Business Directory"
+type: "towns"
 slug: "jesup-ia"
-town: "Jesup"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2629
+state: "ia"
+town_data: "jesup-ia"
 ---

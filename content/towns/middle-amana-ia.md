@@ -1,9 +1,7 @@
 ---
-title: "Middle Amana, Iowa Business Directory"
+title: "Middle Amana, IA Business Directory"
+type: "towns"
 slug: "middle-amana-ia"
-town: "Middle Amana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 1514
+state: "ia"
+town_data: "middle-amana-ia"
 ---

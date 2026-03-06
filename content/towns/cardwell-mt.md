@@ -1,7 +1,7 @@
 ---
-title: "Cardwell, Montana Business Directory"
+title: "Cardwell, MT Business Directory"
+type: "towns"
 slug: "cardwell-mt"
-state: "MT"
-county: "Jefferson"
-population: 500
+state: "mt"
+town_data: "cardwell-mt"
 ---

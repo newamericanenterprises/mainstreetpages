@@ -1,9 +1,7 @@
 ---
-title: "Rutledge, Minnesota Business Directory"
+title: "Rutledge, MN Business Directory"
+type: "towns"
 slug: "rutledge-mn"
-town: "Rutledge"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 1780
+state: "mn"
+town_data: "rutledge-mn"
 ---

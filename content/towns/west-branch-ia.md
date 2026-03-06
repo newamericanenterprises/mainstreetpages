@@ -1,9 +1,7 @@
 ---
-title: "West Branch, Iowa Business Directory"
+title: "West Branch, IA Business Directory"
+type: "towns"
 slug: "west-branch-ia"
-town: "West Branch"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 2996
+state: "ia"
+town_data: "west-branch-ia"
 ---

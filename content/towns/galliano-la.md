@@ -1,9 +1,7 @@
 ---
-title: "Galliano, Louisiana Business Directory"
+title: "Galliano, LA Business Directory"
+type: "towns"
 slug: "galliano-la"
-town: "Galliano"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 2937
+state: "la"
+town_data: "galliano-la"
 ---

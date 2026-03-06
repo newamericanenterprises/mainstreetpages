@@ -1,9 +1,7 @@
 ---
-title: "Stockholm, Maine Business Directory"
+title: "Stockholm, ME Business Directory"
+type: "towns"
 slug: "stockholm-me"
-town: "Stockholm"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 953
+state: "me"
+town_data: "stockholm-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cherryvale, Kansas Business Directory"
+title: "Cherryvale, KS Business Directory"
+type: "towns"
 slug: "cherryvale-ks"
-town: "Cherryvale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 3217
+state: "ks"
+town_data: "cherryvale-ks"
 ---

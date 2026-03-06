@@ -1,9 +1,7 @@
 ---
-title: "Shapleigh, Maine Business Directory"
+title: "Shapleigh, ME Business Directory"
+type: "towns"
 slug: "shapleigh-me"
-town: "Shapleigh"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1652
+state: "me"
+town_data: "shapleigh-me"
 ---

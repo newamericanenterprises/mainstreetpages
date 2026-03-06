@@ -1,7 +1,7 @@
 ---
-title: "Washburn, Missouri Business Directory"
+title: "Washburn, MO Business Directory"
+type: "towns"
 slug: "washburn-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "washburn-mo"
 ---

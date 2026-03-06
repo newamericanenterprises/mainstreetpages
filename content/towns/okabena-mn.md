@@ -1,9 +1,7 @@
 ---
-title: "Okabena, Minnesota Business Directory"
+title: "Okabena, MN Business Directory"
+type: "towns"
 slug: "okabena-mn"
-town: "Okabena"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 2264
+state: "mn"
+town_data: "okabena-mn"
 ---

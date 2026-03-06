@@ -1,9 +1,7 @@
 ---
-title: "Waukon, Iowa Business Directory"
+title: "Waukon, IA Business Directory"
+type: "towns"
 slug: "waukon-ia"
-town: "Waukon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 3897
+state: "ia"
+town_data: "waukon-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Montague, Massachusetts Business Directory"
+title: "Montague, MA Business Directory"
+type: "towns"
 slug: "montague-ma"
-town: "Montague"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 7911
+state: "ma"
+town_data: "montague-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kettle River, Minnesota Business Directory"
+title: "Kettle River, MN Business Directory"
+type: "towns"
 slug: "kettle-river-mn"
-town: "Kettle River"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 1808
+state: "mn"
+town_data: "kettle-river-mn"
 ---

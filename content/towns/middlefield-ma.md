@@ -1,9 +1,7 @@
 ---
-title: "Middlefield, Massachusetts Business Directory"
+title: "Middlefield, MA Business Directory"
+type: "towns"
 slug: "middlefield-ma"
-town: "Middlefield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 7079
+state: "ma"
+town_data: "middlefield-ma"
 ---

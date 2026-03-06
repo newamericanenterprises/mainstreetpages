@@ -1,9 +1,7 @@
 ---
-title: "North Andover, Massachusetts Business Directory"
+title: "North Andover, MA Business Directory"
+type: "towns"
 slug: "north-andover-ma"
-town: "North Andover"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 6375
+state: "ma"
+town_data: "north-andover-ma"
 ---

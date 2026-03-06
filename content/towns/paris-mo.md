@@ -1,7 +1,7 @@
 ---
-title: "Paris, Missouri Business Directory"
+title: "Paris, MO Business Directory"
+type: "towns"
 slug: "paris-mo"
-state: "MO"
-county: "Monroe"
-population: 1218
+state: "mo"
+town_data: "paris-mo"
 ---

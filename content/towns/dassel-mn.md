@@ -1,9 +1,7 @@
 ---
-title: "Dassel, Minnesota Business Directory"
+title: "Dassel, MN Business Directory"
+type: "towns"
 slug: "dassel-mn"
-town: "Dassel"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 2804
+state: "mn"
+town_data: "dassel-mn"
 ---

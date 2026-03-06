@@ -1,9 +1,7 @@
 ---
-title: "Melrose, Iowa Business Directory"
+title: "Melrose, IA Business Directory"
+type: "towns"
 slug: "melrose-ia"
-town: "Melrose"
-state: "Iowa"
-state_abbr: "IA"
-county: "Monroe"
-population: 3359
+state: "ia"
+town_data: "melrose-ia"
 ---

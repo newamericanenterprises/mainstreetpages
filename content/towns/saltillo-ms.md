@@ -1,7 +1,7 @@
 ---
-title: "Saltillo, Mississippi Business Directory"
+title: "Saltillo, MS Business Directory"
+type: "towns"
 slug: "saltillo-ms"
-state: "MS"
-county: "Lee"
-population: 5662
+state: "ms"
+town_data: "saltillo-ms"
 ---

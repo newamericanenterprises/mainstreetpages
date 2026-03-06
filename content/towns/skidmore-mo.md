@@ -1,7 +1,7 @@
 ---
-title: "Skidmore, Missouri Business Directory"
+title: "Skidmore, MO Business Directory"
+type: "towns"
 slug: "skidmore-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "skidmore-mo"
 ---

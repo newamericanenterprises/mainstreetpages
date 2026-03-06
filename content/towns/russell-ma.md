@@ -1,9 +1,7 @@
 ---
-title: "Russell, Massachusetts Business Directory"
+title: "Russell, MA Business Directory"
+type: "towns"
 slug: "russell-ma"
-town: "Russell"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 3277
+state: "ma"
+town_data: "russell-ma"
 ---

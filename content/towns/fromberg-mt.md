@@ -1,7 +1,7 @@
 ---
-title: "Fromberg, Montana Business Directory"
+title: "Fromberg, MT Business Directory"
+type: "towns"
 slug: "fromberg-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "fromberg-mt"
 ---

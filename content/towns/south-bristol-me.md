@@ -1,9 +1,7 @@
 ---
-title: "South Bristol, Maine Business Directory"
+title: "South Bristol, ME Business Directory"
+type: "towns"
 slug: "south-bristol-me"
-town: "South Bristol"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 1179
+state: "me"
+town_data: "south-bristol-me"
 ---

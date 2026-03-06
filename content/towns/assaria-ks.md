@@ -1,9 +1,7 @@
 ---
-title: "Assaria, Kansas Business Directory"
+title: "Assaria, KS Business Directory"
+type: "towns"
 slug: "assaria-ks"
-town: "Assaria"
-state: "Kansas"
-state_abbr: "KS"
-county: "Saline"
-population: 1315
+state: "ks"
+town_data: "assaria-ks"
 ---

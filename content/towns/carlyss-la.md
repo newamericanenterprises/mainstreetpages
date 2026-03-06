@@ -1,9 +1,7 @@
 ---
-title: "Carlyss, Louisiana Business Directory"
+title: "Carlyss, LA Business Directory"
+type: "towns"
 slug: "carlyss-la"
-town: "Carlyss"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 2339
+state: "la"
+town_data: "carlyss-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "East Bernstadt, Kentucky Business Directory"
+title: "East Bernstadt, KY Business Directory"
+type: "towns"
 slug: "east-bernstadt-ky"
-town: "East Bernstadt"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Laurel"
-population: 2650
+state: "ky"
+town_data: "east-bernstadt-ky"
 ---

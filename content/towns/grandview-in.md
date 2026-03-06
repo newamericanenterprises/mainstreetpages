@@ -1,9 +1,7 @@
 ---
-title: "Grandview, Indiana Business Directory"
+title: "Grandview, IN Business Directory"
+type: "towns"
 slug: "grandview-in"
-town: "Grandview"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 1973
+state: "in"
+town_data: "grandview-in"
 ---

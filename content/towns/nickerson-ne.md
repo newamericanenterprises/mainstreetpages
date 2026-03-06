@@ -1,7 +1,7 @@
 ---
-title: "Nickerson, Nebraska Business Directory"
+title: "Nickerson, NE Business Directory"
+type: "towns"
 slug: "nickerson-ne"
-state: "NE"
-county: "Dodge"
-population: 500
+state: "ne"
+town_data: "nickerson-ne"
 ---

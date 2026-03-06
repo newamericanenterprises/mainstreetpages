@@ -1,9 +1,7 @@
 ---
-title: "Leicester, Massachusetts Business Directory"
+title: "Leicester, MA Business Directory"
+type: "towns"
 slug: "leicester-ma"
-town: "Leicester"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 7161
+state: "ma"
+town_data: "leicester-ma"
 ---

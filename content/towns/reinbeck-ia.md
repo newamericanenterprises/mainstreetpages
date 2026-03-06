@@ -1,9 +1,7 @@
 ---
-title: "Reinbeck, Iowa Business Directory"
+title: "Reinbeck, IA Business Directory"
+type: "towns"
 slug: "reinbeck-ia"
-town: "Reinbeck"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 2343
+state: "ia"
+town_data: "reinbeck-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Brady, Nebraska Business Directory"
+title: "Brady, NE Business Directory"
+type: "towns"
 slug: "brady-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "brady-ne"
 ---

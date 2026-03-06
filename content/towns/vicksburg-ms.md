@@ -1,7 +1,7 @@
 ---
-title: "Vicksburg, Mississippi Business Directory"
+title: "Vicksburg, MS Business Directory"
+type: "towns"
 slug: "vicksburg-ms"
-state: "MS"
-county: "Warren"
-population: 21536
+state: "ms"
+town_data: "vicksburg-ms"
 ---

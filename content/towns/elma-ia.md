@@ -1,9 +1,7 @@
 ---
-title: "Elma, Iowa Business Directory"
+title: "Elma, IA Business Directory"
+type: "towns"
 slug: "elma-ia"
-town: "Elma"
-state: "Iowa"
-state_abbr: "IA"
-county: "Howard"
-population: 2292
+state: "ia"
+town_data: "elma-ia"
 ---

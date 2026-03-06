@@ -1,9 +1,7 @@
 ---
-title: "Rosemount, Minnesota Business Directory"
+title: "Rosemount, MN Business Directory"
+type: "towns"
 slug: "rosemount-mn"
-town: "Rosemount"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 26276
+state: "mn"
+town_data: "rosemount-mn"
 ---

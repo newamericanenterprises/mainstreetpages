@@ -1,9 +1,7 @@
 ---
-title: "Park, Michigan Business Directory"
+title: "Park, MI Business Directory"
+type: "towns"
 slug: "park-mi"
-town: "Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 4382
+state: "mi"
+town_data: "park-mi"
 ---

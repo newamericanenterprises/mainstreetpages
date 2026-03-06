@@ -1,9 +1,7 @@
 ---
-title: "Greenwell Springs, Louisiana Business Directory"
+title: "Greenwell Springs, LA Business Directory"
+type: "towns"
 slug: "greenwell-springs-la"
-town: "Greenwell Springs"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Baton Rouge"
-population: 1425
+state: "la"
+town_data: "greenwell-springs-la"
 ---

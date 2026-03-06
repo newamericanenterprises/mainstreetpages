@@ -1,9 +1,7 @@
 ---
-title: "Norway, Michigan Business Directory"
+title: "Norway, MI Business Directory"
+type: "towns"
 slug: "norway-mi"
-town: "Norway"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 1190
+state: "mi"
+town_data: "norway-mi"
 ---

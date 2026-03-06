@@ -1,7 +1,7 @@
 ---
-title: "Merriman, Nebraska Business Directory"
+title: "Merriman, NE Business Directory"
+type: "towns"
 slug: "merriman-ne"
-state: "NE"
-county: "Cherry"
-population: 500
+state: "ne"
+town_data: "merriman-ne"
 ---

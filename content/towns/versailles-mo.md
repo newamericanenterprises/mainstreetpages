@@ -1,7 +1,7 @@
 ---
-title: "Versailles, Missouri Business Directory"
+title: "Versailles, MO Business Directory"
+type: "towns"
 slug: "versailles-mo"
-state: "MO"
-county: "Morgan"
-population: 2482
+state: "mo"
+town_data: "versailles-mo"
 ---

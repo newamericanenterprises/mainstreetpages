@@ -1,9 +1,7 @@
 ---
-title: "Rothbury, Michigan Business Directory"
+title: "Rothbury, MI Business Directory"
+type: "towns"
 slug: "rothbury-mi"
-town: "Rothbury"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 3264
+state: "mi"
+town_data: "rothbury-mi"
 ---

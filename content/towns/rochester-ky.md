@@ -1,9 +1,7 @@
 ---
-title: "Rochester, Kentucky Business Directory"
+title: "Rochester, KY Business Directory"
+type: "towns"
 slug: "rochester-ky"
-town: "Rochester"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Butler"
-population: 2519
+state: "ky"
+town_data: "rochester-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mokane, Missouri Business Directory"
+title: "Mokane, MO Business Directory"
+type: "towns"
 slug: "mokane-mo"
-state: "MO"
-county: "Callaway"
-population: 1500
+state: "mo"
+town_data: "mokane-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mansfield, Massachusetts Business Directory"
+title: "Mansfield, MA Business Directory"
+type: "towns"
 slug: "mansfield-ma"
-town: "Mansfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 24611
+state: "ma"
+town_data: "mansfield-ma"
 ---

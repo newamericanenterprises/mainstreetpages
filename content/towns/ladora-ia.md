@@ -1,9 +1,7 @@
 ---
-title: "Ladora, Iowa Business Directory"
+title: "Ladora, IA Business Directory"
+type: "towns"
 slug: "ladora-ia"
-town: "Ladora"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 678
+state: "ia"
+town_data: "ladora-ia"
 ---

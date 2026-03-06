@@ -1,7 +1,7 @@
 ---
-title: "Burchard, Nebraska Business Directory"
+title: "Burchard, NE Business Directory"
+type: "towns"
 slug: "burchard-ne"
-state: "NE"
-county: "Pawnee"
-population: 500
+state: "ne"
+town_data: "burchard-ne"
 ---

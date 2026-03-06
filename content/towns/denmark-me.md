@@ -1,9 +1,7 @@
 ---
-title: "Denmark, Maine Business Directory"
+title: "Denmark, ME Business Directory"
+type: "towns"
 slug: "denmark-me"
-town: "Denmark"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2632
+state: "me"
+town_data: "denmark-me"
 ---

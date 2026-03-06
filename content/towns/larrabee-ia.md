@@ -1,9 +1,7 @@
 ---
-title: "Larrabee, Iowa Business Directory"
+title: "Larrabee, IA Business Directory"
+type: "towns"
 slug: "larrabee-ia"
-town: "Larrabee"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 1909
+state: "ia"
+town_data: "larrabee-ia"
 ---

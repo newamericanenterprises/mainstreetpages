@@ -1,9 +1,7 @@
 ---
-title: "Bonner Springs, Kansas Business Directory"
+title: "Bonner Springs, KS Business Directory"
+type: "towns"
 slug: "bonner-springs-ks"
-town: "Bonner Springs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wyandotte"
-population: 7929
+state: "ks"
+town_data: "bonner-springs-ks"
 ---

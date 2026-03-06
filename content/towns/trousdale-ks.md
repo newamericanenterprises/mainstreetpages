@@ -1,9 +1,7 @@
 ---
-title: "Trousdale, Kansas Business Directory"
+title: "Trousdale, KS Business Directory"
+type: "towns"
 slug: "trousdale-ks"
-town: "Trousdale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Edwards"
-population: 465
+state: "ks"
+town_data: "trousdale-ks"
 ---

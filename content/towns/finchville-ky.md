@@ -1,9 +1,7 @@
 ---
-title: "Finchville, Kentucky Business Directory"
+title: "Finchville, KY Business Directory"
+type: "towns"
 slug: "finchville-ky"
-town: "Finchville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Shelby"
-population: 1641
+state: "ky"
+town_data: "finchville-ky"
 ---

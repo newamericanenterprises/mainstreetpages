@@ -1,9 +1,7 @@
 ---
-title: "Kinsley, Kansas Business Directory"
+title: "Kinsley, KS Business Directory"
+type: "towns"
 slug: "kinsley-ks"
-town: "Kinsley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Edwards"
-population: 1457
+state: "ks"
+town_data: "kinsley-ks"
 ---

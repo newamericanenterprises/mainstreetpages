@@ -1,7 +1,7 @@
 ---
-title: "Doniphan, Nebraska Business Directory"
+title: "Doniphan, NE Business Directory"
+type: "towns"
 slug: "doniphan-ne"
-state: "NE"
-county: "Hall"
-population: 500
+state: "ne"
+town_data: "doniphan-ne"
 ---

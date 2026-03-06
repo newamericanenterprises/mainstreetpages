@@ -1,9 +1,7 @@
 ---
-title: "Quamba, Minnesota Business Directory"
+title: "Quamba, MN Business Directory"
+type: "towns"
 slug: "quamba-mn"
-town: "Quamba"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kanabec"
-population: 2140
+state: "mn"
+town_data: "quamba-mn"
 ---

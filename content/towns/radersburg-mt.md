@@ -1,7 +1,7 @@
 ---
-title: "Radersburg, Montana Business Directory"
+title: "Radersburg, MT Business Directory"
+type: "towns"
 slug: "radersburg-mt"
-state: "MT"
-county: "Broadwater"
-population: 500
+state: "mt"
+town_data: "radersburg-mt"
 ---

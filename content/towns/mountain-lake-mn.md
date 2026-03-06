@@ -1,9 +1,7 @@
 ---
-title: "Mountain Lake, Minnesota Business Directory"
+title: "Mountain Lake, MN Business Directory"
+type: "towns"
 slug: "mountain-lake-mn"
-town: "Mountain Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 1033
+state: "mn"
+town_data: "mountain-lake-mn"
 ---

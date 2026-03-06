@@ -1,9 +1,7 @@
 ---
-title: "Garden City, Michigan Business Directory"
+title: "Garden City, MI Business Directory"
+type: "towns"
 slug: "garden-city-mi"
-town: "Garden City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1744
+state: "mi"
+town_data: "garden-city-mi"
 ---

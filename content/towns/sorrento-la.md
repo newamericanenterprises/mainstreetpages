@@ -1,9 +1,7 @@
 ---
-title: "Sorrento, Louisiana Business Directory"
+title: "Sorrento, LA Business Directory"
+type: "towns"
 slug: "sorrento-la"
-town: "Sorrento"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 2379
+state: "la"
+town_data: "sorrento-la"
 ---

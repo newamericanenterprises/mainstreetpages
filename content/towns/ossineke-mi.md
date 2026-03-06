@@ -1,9 +1,7 @@
 ---
-title: "Ossineke, Michigan Business Directory"
+title: "Ossineke, MI Business Directory"
+type: "towns"
 slug: "ossineke-mi"
-town: "Ossineke"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alpena"
-population: 3408
+state: "mi"
+town_data: "ossineke-mi"
 ---

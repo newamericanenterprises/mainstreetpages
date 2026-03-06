@@ -1,9 +1,7 @@
 ---
-title: "Smithsburg, Maryland Business Directory"
+title: "Smithsburg, MD Business Directory"
+type: "towns"
 slug: "smithsburg-md"
-town: "Smithsburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 3190
+state: "md"
+town_data: "smithsburg-md"
 ---

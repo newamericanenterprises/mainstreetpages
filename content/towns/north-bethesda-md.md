@@ -1,9 +1,7 @@
 ---
-title: "North Bethesda, Maryland Business Directory"
+title: "North Bethesda, MD Business Directory"
+type: "towns"
 slug: "north-bethesda-md"
-town: "North Bethesda"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 49410
+state: "md"
+town_data: "north-bethesda-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Keedysville, Maryland Business Directory"
+title: "Keedysville, MD Business Directory"
+type: "towns"
 slug: "keedysville-md"
-town: "Keedysville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 3136
+state: "md"
+town_data: "keedysville-md"
 ---

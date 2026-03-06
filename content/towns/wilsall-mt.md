@@ -1,7 +1,7 @@
 ---
-title: "Wilsall, Montana Business Directory"
+title: "Wilsall, MT Business Directory"
+type: "towns"
 slug: "wilsall-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "wilsall-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Goodview, Minnesota Business Directory"
+title: "Goodview, MN Business Directory"
+type: "towns"
 slug: "goodview-mn"
-town: "Goodview"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 883
+state: "mn"
+town_data: "goodview-mn"
 ---

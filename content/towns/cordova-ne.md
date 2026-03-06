@@ -1,7 +1,7 @@
 ---
-title: "Cordova, Nebraska Business Directory"
+title: "Cordova, NE Business Directory"
+type: "towns"
 slug: "cordova-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "cordova-ne"
 ---

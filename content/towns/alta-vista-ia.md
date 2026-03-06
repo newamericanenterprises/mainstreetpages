@@ -1,9 +1,7 @@
 ---
-title: "Alta Vista, Iowa Business Directory"
+title: "Alta Vista, IA Business Directory"
+type: "towns"
 slug: "alta-vista-ia"
-town: "Alta Vista"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 581
+state: "ia"
+town_data: "alta-vista-ia"
 ---

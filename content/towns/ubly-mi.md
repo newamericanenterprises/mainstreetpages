@@ -1,9 +1,7 @@
 ---
-title: "Ubly, Michigan Business Directory"
+title: "Ubly, MI Business Directory"
+type: "towns"
 slug: "ubly-mi"
-town: "Ubly"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 3502
+state: "mi"
+town_data: "ubly-mi"
 ---

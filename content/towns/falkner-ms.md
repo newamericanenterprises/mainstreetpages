@@ -1,7 +1,7 @@
 ---
-title: "Falkner, Mississippi Business Directory"
+title: "Falkner, MS Business Directory"
+type: "towns"
 slug: "falkner-ms"
-state: "MS"
-county: "Tippah"
-population: 477
+state: "ms"
+town_data: "falkner-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Herculaneum, Missouri Business Directory"
+title: "Herculaneum, MO Business Directory"
+type: "towns"
 slug: "herculaneum-mo"
-state: "MO"
-county: "Jefferson"
-population: 4046
+state: "mo"
+town_data: "herculaneum-mo"
 ---

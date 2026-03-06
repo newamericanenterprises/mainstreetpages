@@ -1,9 +1,7 @@
 ---
-title: "Hubbell, Michigan Business Directory"
+title: "Hubbell, MI Business Directory"
+type: "towns"
 slug: "hubbell-mi"
-town: "Hubbell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 2623
+state: "mi"
+town_data: "hubbell-mi"
 ---

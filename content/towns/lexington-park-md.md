@@ -1,9 +1,7 @@
 ---
-title: "Lexington Park, Maryland Business Directory"
+title: "Lexington Park, MD Business Directory"
+type: "towns"
 slug: "lexington-park-md"
-town: "Lexington Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 11626
+state: "md"
+town_data: "lexington-park-md"
 ---

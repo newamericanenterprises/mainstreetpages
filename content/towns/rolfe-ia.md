@@ -1,9 +1,7 @@
 ---
-title: "Rolfe, Iowa Business Directory"
+title: "Rolfe, IA Business Directory"
+type: "towns"
 slug: "rolfe-ia"
-town: "Rolfe"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1230
+state: "ia"
+town_data: "rolfe-ia"
 ---

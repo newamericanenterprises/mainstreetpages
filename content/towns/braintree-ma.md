@@ -1,9 +1,7 @@
 ---
-title: "Braintree, Massachusetts Business Directory"
+title: "Braintree, MA Business Directory"
+type: "towns"
 slug: "braintree-ma"
-town: "Braintree"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 38263
+state: "ma"
+town_data: "braintree-ma"
 ---

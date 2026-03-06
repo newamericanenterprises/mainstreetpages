@@ -1,9 +1,7 @@
 ---
-title: "Randall, Minnesota Business Directory"
+title: "Randall, MN Business Directory"
+type: "towns"
 slug: "randall-mn"
-town: "Randall"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 3088
+state: "mn"
+town_data: "randall-mn"
 ---

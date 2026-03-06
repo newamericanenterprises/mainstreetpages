@@ -1,9 +1,7 @@
 ---
-title: "Urbana, Maryland Business Directory"
+title: "Urbana, MD Business Directory"
+type: "towns"
 slug: "urbana-md"
-town: "Urbana"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 3425
+state: "md"
+town_data: "urbana-md"
 ---

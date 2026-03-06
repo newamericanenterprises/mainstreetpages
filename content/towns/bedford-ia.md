@@ -1,9 +1,7 @@
 ---
-title: "Bedford, Iowa Business Directory"
+title: "Bedford, IA Business Directory"
+type: "towns"
 slug: "bedford-ia"
-town: "Bedford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 1409
+state: "ia"
+town_data: "bedford-ia"
 ---

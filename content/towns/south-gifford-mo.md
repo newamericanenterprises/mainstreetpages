@@ -1,7 +1,7 @@
 ---
-title: "South Gifford, Missouri Business Directory"
+title: "South Gifford, MO Business Directory"
+type: "towns"
 slug: "south-gifford-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "south-gifford-mo"
 ---

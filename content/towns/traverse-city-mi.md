@@ -1,9 +1,7 @@
 ---
-title: "Traverse City, Michigan Business Directory"
+title: "Traverse City, MI Business Directory"
+type: "towns"
 slug: "traverse-city-mi"
-town: "Traverse City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 15678
+state: "mi"
+town_data: "traverse-city-mi"
 ---

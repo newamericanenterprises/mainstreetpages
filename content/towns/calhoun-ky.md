@@ -1,9 +1,7 @@
 ---
-title: "Calhoun, Kentucky Business Directory"
+title: "Calhoun, KY Business Directory"
+type: "towns"
 slug: "calhoun-ky"
-town: "Calhoun"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McLean"
-population: 771
+state: "ky"
+town_data: "calhoun-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Seligman, Missouri Business Directory"
+title: "Seligman, MO Business Directory"
+type: "towns"
 slug: "seligman-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "seligman-mo"
 ---

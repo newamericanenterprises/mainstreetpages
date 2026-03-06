@@ -1,9 +1,7 @@
 ---
-title: "South Shore, Kentucky Business Directory"
+title: "South Shore, KY Business Directory"
+type: "towns"
 slug: "south-shore-ky"
-town: "South Shore"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 1410
+state: "ky"
+town_data: "south-shore-ky"
 ---

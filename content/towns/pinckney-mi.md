@@ -1,9 +1,7 @@
 ---
-title: "Pinckney, Michigan Business Directory"
+title: "Pinckney, MI Business Directory"
+type: "towns"
 slug: "pinckney-mi"
-town: "Pinckney"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 1838
+state: "mi"
+town_data: "pinckney-mi"
 ---

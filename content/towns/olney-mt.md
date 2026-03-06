@@ -1,7 +1,7 @@
 ---
-title: "Olney, Montana Business Directory"
+title: "Olney, MT Business Directory"
+type: "towns"
 slug: "olney-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "olney-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bluffton, Indiana Business Directory"
+title: "Bluffton, IN Business Directory"
+type: "towns"
 slug: "bluffton-in"
-town: "Bluffton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 10282
+state: "in"
+town_data: "bluffton-in"
 ---

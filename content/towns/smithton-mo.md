@@ -1,7 +1,7 @@
 ---
-title: "Smithton, Missouri Business Directory"
+title: "Smithton, MO Business Directory"
+type: "towns"
 slug: "smithton-mo"
-state: "MO"
-county: "Pettis"
-population: 1500
+state: "mo"
+town_data: "smithton-mo"
 ---

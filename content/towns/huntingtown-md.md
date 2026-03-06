@@ -1,9 +1,7 @@
 ---
-title: "Huntingtown, Maryland Business Directory"
+title: "Huntingtown, MD Business Directory"
+type: "towns"
 slug: "huntingtown-md"
-town: "Huntingtown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 2150
+state: "md"
+town_data: "huntingtown-md"
 ---

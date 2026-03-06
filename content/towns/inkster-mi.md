@@ -1,9 +1,7 @@
 ---
-title: "Inkster, Michigan Business Directory"
+title: "Inkster, MI Business Directory"
+type: "towns"
 slug: "inkster-mi"
-town: "Inkster"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1860
+state: "mi"
+town_data: "inkster-mi"
 ---

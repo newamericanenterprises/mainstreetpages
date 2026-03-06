@@ -1,9 +1,7 @@
 ---
-title: "Science Hill, Kentucky Business Directory"
+title: "Science Hill, KY Business Directory"
+type: "towns"
 slug: "science-hill-ky"
-town: "Science Hill"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pulaski"
-population: 3138
+state: "ky"
+town_data: "science-hill-ky"
 ---

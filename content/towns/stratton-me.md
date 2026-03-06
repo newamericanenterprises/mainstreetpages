@@ -1,9 +1,7 @@
 ---
-title: "Stratton, Maine Business Directory"
+title: "Stratton, ME Business Directory"
+type: "towns"
 slug: "stratton-me"
-town: "Stratton"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 961
+state: "me"
+town_data: "stratton-me"
 ---

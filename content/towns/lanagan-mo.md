@@ -1,7 +1,7 @@
 ---
-title: "Lanagan, Missouri Business Directory"
+title: "Lanagan, MO Business Directory"
+type: "towns"
 slug: "lanagan-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "lanagan-mo"
 ---

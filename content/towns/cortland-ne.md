@@ -1,7 +1,7 @@
 ---
-title: "Cortland, Nebraska Business Directory"
+title: "Cortland, NE Business Directory"
+type: "towns"
 slug: "cortland-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "cortland-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kettering, Maryland Business Directory"
+title: "Kettering, MD Business Directory"
+type: "towns"
 slug: "kettering-md"
-town: "Kettering"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4444
+state: "md"
+town_data: "kettering-md"
 ---

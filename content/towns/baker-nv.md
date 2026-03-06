@@ -1,7 +1,7 @@
 ---
-title: "Baker, Nevada Business Directory"
+title: "Baker, NV Business Directory"
+type: "towns"
 slug: "baker-nv"
-state: "NV"
-county: "White Pine"
-population: 68
+state: "nv"
+town_data: "baker-nv"
 ---

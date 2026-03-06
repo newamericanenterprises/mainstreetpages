@@ -1,9 +1,7 @@
 ---
-title: "Lane, Kansas Business Directory"
+title: "Lane, KS Business Directory"
+type: "towns"
 slug: "lane-ks"
-town: "Lane"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 1840
+state: "ks"
+town_data: "lane-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bernardston, Massachusetts Business Directory"
+title: "Bernardston, MA Business Directory"
+type: "towns"
 slug: "bernardston-ma"
-town: "Bernardston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 3086
+state: "ma"
+town_data: "bernardston-ma"
 ---

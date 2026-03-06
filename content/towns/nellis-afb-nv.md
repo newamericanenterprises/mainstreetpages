@@ -1,7 +1,7 @@
 ---
-title: "Nellis AFB, Nevada Business Directory"
+title: "Nellis Afb, NV Business Directory"
+type: "towns"
 slug: "nellis-afb-nv"
-state: "NV"
-county: "Clark"
-population: 10018
+state: "nv"
+town_data: "nellis-afb-nv"
 ---

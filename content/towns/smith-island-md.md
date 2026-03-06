@@ -1,9 +1,7 @@
 ---
-title: "Smith Island, Maryland Business Directory"
+title: "Smith Island, MD Business Directory"
+type: "towns"
 slug: "smith-island-md"
-town: "Smith Island"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 3182
+state: "md"
+town_data: "smith-island-md"
 ---

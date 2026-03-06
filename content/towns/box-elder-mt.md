@@ -1,7 +1,7 @@
 ---
-title: "Box Elder, Montana Business Directory"
+title: "Box Elder, MT Business Directory"
+type: "towns"
 slug: "box-elder-mt"
-state: "MT"
-county: "Hill"
-population: 113
+state: "mt"
+town_data: "box-elder-mt"
 ---

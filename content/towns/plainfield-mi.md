@@ -1,9 +1,7 @@
 ---
-title: "Plainfield, Michigan Business Directory"
+title: "Plainfield, MI Business Directory"
+type: "towns"
 slug: "plainfield-mi"
-town: "Plainfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 1900
+state: "mi"
+town_data: "plainfield-mi"
 ---

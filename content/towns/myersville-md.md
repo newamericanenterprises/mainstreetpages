@@ -1,9 +1,7 @@
 ---
-title: "Myersville, Maryland Business Directory"
+title: "Myersville, MD Business Directory"
+type: "towns"
 slug: "myersville-md"
-town: "Myersville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 4877
+state: "md"
+town_data: "myersville-md"
 ---

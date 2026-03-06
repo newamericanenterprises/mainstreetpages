@@ -1,9 +1,7 @@
 ---
-title: "Walnut Grove, Minnesota Business Directory"
+title: "Walnut Grove, MN Business Directory"
+type: "towns"
 slug: "walnut-grove-mn"
-town: "Walnut Grove"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 1031
+state: "mn"
+town_data: "walnut-grove-mn"
 ---

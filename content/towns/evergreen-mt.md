@@ -1,7 +1,7 @@
 ---
-title: "Evergreen, Montana Business Directory"
+title: "Evergreen, MT Business Directory"
+type: "towns"
 slug: "evergreen-mt"
-state: "MT"
-county: "Flathead"
-population: 8407
+state: "mt"
+town_data: "evergreen-mt"
 ---

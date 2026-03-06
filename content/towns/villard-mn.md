@@ -1,9 +1,7 @@
 ---
-title: "Villard, Minnesota Business Directory"
+title: "Villard, MN Business Directory"
+type: "towns"
 slug: "villard-mn"
-town: "Villard"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 457
+state: "mn"
+town_data: "villard-mn"
 ---

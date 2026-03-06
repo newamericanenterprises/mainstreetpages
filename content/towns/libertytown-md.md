@@ -1,9 +1,7 @@
 ---
-title: "Libertytown, Maryland Business Directory"
+title: "Libertytown, MD Business Directory"
+type: "towns"
 slug: "libertytown-md"
-town: "Libertytown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 4519
+state: "md"
+town_data: "libertytown-md"
 ---

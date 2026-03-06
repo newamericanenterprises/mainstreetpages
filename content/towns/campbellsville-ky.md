@@ -1,9 +1,7 @@
 ---
-title: "Campbellsville, Kentucky Business Directory"
+title: "Campbellsville, KY Business Directory"
+type: "towns"
 slug: "campbellsville-ky"
-town: "Campbellsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Taylor"
-population: 11519
+state: "ky"
+town_data: "campbellsville-ky"
 ---

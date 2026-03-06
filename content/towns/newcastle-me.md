@@ -1,9 +1,7 @@
 ---
-title: "Newcastle, Maine Business Directory"
+title: "Newcastle, ME Business Directory"
+type: "towns"
 slug: "newcastle-me"
-town: "Newcastle"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 633
+state: "me"
+town_data: "newcastle-me"
 ---

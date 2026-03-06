@@ -1,9 +1,7 @@
 ---
-title: "Sterling, Massachusetts Business Directory"
+title: "Sterling, MA Business Directory"
+type: "towns"
 slug: "sterling-ma"
-town: "Sterling"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5673
+state: "ma"
+town_data: "sterling-ma"
 ---

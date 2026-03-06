@@ -1,9 +1,7 @@
 ---
-title: "Vacherie, Louisiana Business Directory"
+title: "Vacherie, LA Business Directory"
+type: "towns"
 slug: "vacherie-la"
-town: "Vacherie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 849
+state: "la"
+town_data: "vacherie-la"
 ---

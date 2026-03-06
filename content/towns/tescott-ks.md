@@ -1,9 +1,7 @@
 ---
-title: "Tescott, Kansas Business Directory"
+title: "Tescott, KS Business Directory"
+type: "towns"
 slug: "tescott-ks"
-town: "Tescott"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 2879
+state: "ks"
+town_data: "tescott-ks"
 ---

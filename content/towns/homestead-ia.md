@@ -1,9 +1,7 @@
 ---
-title: "Homestead, Iowa Business Directory"
+title: "Homestead, IA Business Directory"
+type: "towns"
 slug: "homestead-ia"
-town: "Homestead"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 2812
+state: "ia"
+town_data: "homestead-ia"
 ---

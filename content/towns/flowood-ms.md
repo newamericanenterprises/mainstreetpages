@@ -1,7 +1,7 @@
 ---
-title: "Flowood, Mississippi Business Directory"
+title: "Flowood, MS Business Directory"
+type: "towns"
 slug: "flowood-ms"
-state: "MS"
-county: "Rankin"
-population: 10467
+state: "ms"
+town_data: "flowood-ms"
 ---

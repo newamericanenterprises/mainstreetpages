@@ -1,9 +1,7 @@
 ---
-title: "West Monroe, Louisiana Business Directory"
+title: "West Monroe, LA Business Directory"
+type: "towns"
 slug: "west-monroe-la"
-town: "West Monroe"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 12515
+state: "la"
+town_data: "west-monroe-la"
 ---

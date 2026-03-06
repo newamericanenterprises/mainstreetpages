@@ -1,9 +1,7 @@
 ---
-title: "Harlan, Kentucky Business Directory"
+title: "Harlan, KY Business Directory"
+type: "towns"
 slug: "harlan-ky"
-town: "Harlan"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harlan"
-population: 1498
+state: "ky"
+town_data: "harlan-ky"
 ---

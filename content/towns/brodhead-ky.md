@@ -1,9 +1,7 @@
 ---
-title: "Brodhead, Kentucky Business Directory"
+title: "Brodhead, KY Business Directory"
+type: "towns"
 slug: "brodhead-ky"
-town: "Brodhead"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Rockcastle"
-population: 2836
+state: "ky"
+town_data: "brodhead-ky"
 ---

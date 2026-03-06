@@ -1,9 +1,7 @@
 ---
-title: "Glyndon, Minnesota Business Directory"
+title: "Glyndon, MN Business Directory"
+type: "towns"
 slug: "glyndon-mn"
-town: "Glyndon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 1684
+state: "mn"
+town_data: "glyndon-mn"
 ---

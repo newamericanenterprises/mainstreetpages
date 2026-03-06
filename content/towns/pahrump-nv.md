@@ -1,7 +1,7 @@
 ---
-title: "Pahrump, Nevada Business Directory"
+title: "Pahrump, NV Business Directory"
+type: "towns"
 slug: "pahrump-nv"
-state: "NV"
-county: "Nye"
-population: 42196
+state: "nv"
+town_data: "pahrump-nv"
 ---

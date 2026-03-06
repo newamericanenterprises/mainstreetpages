@@ -1,9 +1,7 @@
 ---
-title: "Robins, Iowa Business Directory"
+title: "Robins, IA Business Directory"
+type: "towns"
 slug: "robins-ia"
-town: "Robins"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 2732
+state: "ia"
+town_data: "robins-ia"
 ---

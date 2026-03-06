@@ -1,9 +1,7 @@
 ---
-title: "Crestview Hills, Kentucky Business Directory"
+title: "Crestview Hills, KY Business Directory"
+type: "towns"
 slug: "crestview-hills-ky"
-town: "Crestview Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 1813
+state: "ky"
+town_data: "crestview-hills-ky"
 ---

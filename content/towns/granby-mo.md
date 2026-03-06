@@ -1,7 +1,7 @@
 ---
-title: "Granby, Missouri Business Directory"
+title: "Granby, MO Business Directory"
+type: "towns"
 slug: "granby-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "granby-mo"
 ---

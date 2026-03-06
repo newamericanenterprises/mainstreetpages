@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Minnesota Business Directory"
+title: "Georgetown, MN Business Directory"
+type: "towns"
 slug: "georgetown-mn"
-town: "Georgetown"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 561
+state: "mn"
+town_data: "georgetown-mn"
 ---

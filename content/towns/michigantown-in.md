@@ -1,9 +1,7 @@
 ---
-title: "Michigantown, Indiana Business Directory"
+title: "Michigantown, IN Business Directory"
+type: "towns"
 slug: "michigantown-in"
-town: "Michigantown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 4951
+state: "in"
+town_data: "michigantown-in"
 ---

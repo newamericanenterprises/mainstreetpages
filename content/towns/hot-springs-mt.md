@@ -1,7 +1,7 @@
 ---
-title: "Hot Springs, Montana Business Directory"
+title: "Hot Springs, MT Business Directory"
+type: "towns"
 slug: "hot-springs-mt"
-state: "MT"
-county: "Sanders"
-population: 559
+state: "mt"
+town_data: "hot-springs-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Thornburg, Iowa Business Directory"
+title: "Thornburg, IA Business Directory"
+type: "towns"
 slug: "thornburg-ia"
-town: "Thornburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2899
+state: "ia"
+town_data: "thornburg-ia"
 ---

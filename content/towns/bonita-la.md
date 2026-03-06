@@ -1,9 +1,7 @@
 ---
-title: "Bonita, Louisiana Business Directory"
+title: "Bonita, LA Business Directory"
+type: "towns"
 slug: "bonita-la"
-town: "Bonita"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Morehouse"
-population: 1132
+state: "la"
+town_data: "bonita-la"
 ---

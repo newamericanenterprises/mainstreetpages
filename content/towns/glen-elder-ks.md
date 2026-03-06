@@ -1,9 +1,7 @@
 ---
-title: "Glen Elder, Kansas Business Directory"
+title: "Glen Elder, KS Business Directory"
+type: "towns"
 slug: "glen-elder-ks"
-town: "Glen Elder"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 715
+state: "ks"
+town_data: "glen-elder-ks"
 ---

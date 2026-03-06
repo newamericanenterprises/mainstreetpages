@@ -1,9 +1,7 @@
 ---
-title: "Lime Springs, Iowa Business Directory"
+title: "Lime Springs, IA Business Directory"
+type: "towns"
 slug: "lime-springs-ia"
-town: "Lime Springs"
-state: "Iowa"
-state_abbr: "IA"
-county: "Howard"
-population: 1896
+state: "ia"
+town_data: "lime-springs-ia"
 ---

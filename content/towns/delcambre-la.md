@@ -1,9 +1,7 @@
 ---
-title: "Delcambre, Louisiana Business Directory"
+title: "Delcambre, LA Business Directory"
+type: "towns"
 slug: "delcambre-la"
-town: "Delcambre"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vermilion"
-population: 3118
+state: "la"
+town_data: "delcambre-la"
 ---

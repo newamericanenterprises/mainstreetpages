@@ -1,9 +1,7 @@
 ---
-title: "Jefferson, Maine Business Directory"
+title: "Jefferson, ME Business Directory"
+type: "towns"
 slug: "jefferson-me"
-town: "Jefferson"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2779
+state: "me"
+town_data: "jefferson-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Moline, Kansas Business Directory"
+title: "Moline, KS Business Directory"
+type: "towns"
 slug: "moline-ks"
-town: "Moline"
-state: "Kansas"
-state_abbr: "KS"
-county: "Elk"
-population: 2598
+state: "ks"
+town_data: "moline-ks"
 ---

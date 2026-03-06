@@ -1,7 +1,7 @@
 ---
-title: "Cedar Bluffs, Nebraska Business Directory"
+title: "Cedar Bluffs, NE Business Directory"
+type: "towns"
 slug: "cedar-bluffs-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "cedar-bluffs-ne"
 ---

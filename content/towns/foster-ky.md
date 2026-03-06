@@ -1,9 +1,7 @@
 ---
-title: "Foster, Kentucky Business Directory"
+title: "Foster, KY Business Directory"
+type: "towns"
 slug: "foster-ky"
-town: "Foster"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bracken"
-population: 1208
+state: "ky"
+town_data: "foster-ky"
 ---

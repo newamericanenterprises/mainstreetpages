@@ -1,9 +1,7 @@
 ---
-title: "Williamsburg, Kentucky Business Directory"
+title: "Williamsburg, KY Business Directory"
+type: "towns"
 slug: "williamsburg-ky"
-town: "Williamsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Whitley"
-population: 5144
+state: "ky"
+town_data: "williamsburg-ky"
 ---

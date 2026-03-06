@@ -1,7 +1,7 @@
 ---
-title: "Perry, Missouri Business Directory"
+title: "Perry, MO Business Directory"
+type: "towns"
 slug: "perry-mo"
-state: "MO"
-county: "Ralls"
-population: 1500
+state: "mo"
+town_data: "perry-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ossian, Indiana Business Directory"
+title: "Ossian, IN Business Directory"
+type: "towns"
 slug: "ossian-in"
-town: "Ossian"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 1265
+state: "in"
+town_data: "ossian-in"
 ---

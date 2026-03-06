@@ -1,9 +1,7 @@
 ---
-title: "Belmont, Massachusetts Business Directory"
+title: "Belmont, MA Business Directory"
+type: "towns"
 slug: "belmont-ma"
-town: "Belmont"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 26243
+state: "ma"
+town_data: "belmont-ma"
 ---

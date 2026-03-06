@@ -1,9 +1,7 @@
 ---
-title: "Garden Grove, Iowa Business Directory"
+title: "Garden Grove, IA Business Directory"
+type: "towns"
 slug: "garden-grove-ia"
-town: "Garden Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 3128
+state: "ia"
+town_data: "garden-grove-ia"
 ---

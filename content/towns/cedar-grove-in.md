@@ -1,9 +1,7 @@
 ---
-title: "Cedar Grove, Indiana Business Directory"
+title: "Cedar Grove, IN Business Directory"
+type: "towns"
 slug: "cedar-grove-in"
-town: "Cedar Grove"
-state: "Indiana"
-state_abbr: "IN"
-county: "Franklin"
-population: 1451
+state: "in"
+town_data: "cedar-grove-in"
 ---

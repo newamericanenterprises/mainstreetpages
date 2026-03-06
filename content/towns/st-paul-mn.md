@@ -1,9 +1,7 @@
 ---
-title: "St. Paul, Minnesota Business Directory"
+title: "St. Paul, MN Business Directory"
+type: "towns"
 slug: "st-paul-mn"
-town: "St. Paul"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 311527
+state: "mn"
+town_data: "st-paul-mn"
 ---

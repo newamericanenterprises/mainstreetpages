@@ -1,7 +1,7 @@
 ---
-title: "Artesia, Mississippi Business Directory"
+title: "Artesia, MS Business Directory"
+type: "towns"
 slug: "artesia-ms"
-state: "MS"
-county: "Lowndes"
-population: 428
+state: "ms"
+town_data: "artesia-ms"
 ---

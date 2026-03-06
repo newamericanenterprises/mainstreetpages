@@ -1,9 +1,7 @@
 ---
-title: "Cloquet, Minnesota Business Directory"
+title: "Cloquet, MN Business Directory"
+type: "towns"
 slug: "cloquet-mn"
-town: "Cloquet"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 12114
+state: "mn"
+town_data: "cloquet-mn"
 ---

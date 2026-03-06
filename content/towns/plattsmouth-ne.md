@@ -1,7 +1,7 @@
 ---
-title: "Plattsmouth, Nebraska Business Directory"
+title: "Plattsmouth, NE Business Directory"
+type: "towns"
 slug: "plattsmouth-ne"
-state: "NE"
-county: "Cass"
-population: 6502
+state: "ne"
+town_data: "plattsmouth-ne"
 ---

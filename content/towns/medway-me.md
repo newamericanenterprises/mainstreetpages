@@ -1,9 +1,7 @@
 ---
-title: "Medway, Maine Business Directory"
+title: "Medway, ME Business Directory"
+type: "towns"
 slug: "medway-me"
-town: "Medway"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 812
+state: "me"
+town_data: "medway-me"
 ---

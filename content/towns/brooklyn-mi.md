@@ -1,9 +1,7 @@
 ---
-title: "Brooklyn, Michigan Business Directory"
+title: "Brooklyn, MI Business Directory"
+type: "towns"
 slug: "brooklyn-mi"
-town: "Brooklyn"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 2691
+state: "mi"
+town_data: "brooklyn-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Elbow Lake, Minnesota Business Directory"
+title: "Elbow Lake, MN Business Directory"
+type: "towns"
 slug: "elbow-lake-mn"
-town: "Elbow Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 3006
+state: "mn"
+town_data: "elbow-lake-mn"
 ---

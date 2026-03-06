@@ -1,9 +1,7 @@
 ---
-title: "Clayton, Iowa Business Directory"
+title: "Clayton, IA Business Directory"
+type: "towns"
 slug: "clayton-ia"
-town: "Clayton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 640
+state: "ia"
+town_data: "clayton-ia"
 ---

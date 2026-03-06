@@ -1,9 +1,7 @@
 ---
-title: "Rochester, Michigan Business Directory"
+title: "Rochester, MI Business Directory"
+type: "towns"
 slug: "rochester-mi"
-town: "Rochester"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4108
+state: "mi"
+town_data: "rochester-mi"
 ---

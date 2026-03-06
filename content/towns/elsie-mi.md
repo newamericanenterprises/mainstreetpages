@@ -1,9 +1,7 @@
 ---
-title: "Elsie, Michigan Business Directory"
+title: "Elsie, MI Business Directory"
+type: "towns"
 slug: "elsie-mi"
-town: "Elsie"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 1745
+state: "mi"
+town_data: "elsie-mi"
 ---

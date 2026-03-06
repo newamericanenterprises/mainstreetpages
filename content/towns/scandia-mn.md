@@ -1,9 +1,7 @@
 ---
-title: "Scandia, Minnesota Business Directory"
+title: "Scandia, MN Business Directory"
+type: "towns"
 slug: "scandia-mn"
-town: "Scandia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 648
+state: "mn"
+town_data: "scandia-mn"
 ---

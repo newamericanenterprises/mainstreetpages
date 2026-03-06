@@ -1,9 +1,7 @@
 ---
-title: "Calumet, Michigan Business Directory"
+title: "Calumet, MI Business Directory"
+type: "towns"
 slug: "calumet-mi"
-town: "Calumet"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 726
+state: "mi"
+town_data: "calumet-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Prospect, Maine Business Directory"
+title: "Prospect, ME Business Directory"
+type: "towns"
 slug: "prospect-me"
-town: "Prospect"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1273
+state: "me"
+town_data: "prospect-me"
 ---

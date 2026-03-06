@@ -1,7 +1,7 @@
 ---
-title: "Montana City, Montana Business Directory"
+title: "Montana City, MT Business Directory"
+type: "towns"
 slug: "montana-city-mt"
-state: "MT"
-county: "Jefferson"
-population: 500
+state: "mt"
+town_data: "montana-city-mt"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Verona, Missouri Business Directory"
+title: "Verona, MO Business Directory"
+type: "towns"
 slug: "verona-mo"
-state: "MO"
-county: "Lawrence"
-population: 1500
+state: "mo"
+town_data: "verona-mo"
 ---

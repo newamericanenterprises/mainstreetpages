@@ -1,7 +1,7 @@
 ---
-title: "Noxon, Montana Business Directory"
+title: "Noxon, MT Business Directory"
+type: "towns"
 slug: "noxon-mt"
-state: "MT"
-county: "Sanders"
-population: 500
+state: "mt"
+town_data: "noxon-mt"
 ---

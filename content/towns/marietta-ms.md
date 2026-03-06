@@ -1,7 +1,7 @@
 ---
-title: "Marietta, Mississippi Business Directory"
+title: "Marietta, MS Business Directory"
+type: "towns"
 slug: "marietta-ms"
-state: "MS"
-county: "Prentiss"
-population: 196
+state: "ms"
+town_data: "marietta-ms"
 ---

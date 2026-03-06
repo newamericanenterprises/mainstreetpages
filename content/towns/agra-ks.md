@@ -1,9 +1,7 @@
 ---
-title: "Agra, Kansas Business Directory"
+title: "Agra, KS Business Directory"
+type: "towns"
 slug: "agra-ks"
-town: "Agra"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 2912
+state: "ks"
+town_data: "agra-ks"
 ---

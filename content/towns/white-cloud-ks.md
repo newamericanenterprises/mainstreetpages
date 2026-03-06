@@ -1,9 +1,7 @@
 ---
-title: "White Cloud, Kansas Business Directory"
+title: "White Cloud, KS Business Directory"
+type: "towns"
 slug: "white-cloud-ks"
-town: "White Cloud"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 1600
+state: "ks"
+town_data: "white-cloud-ks"
 ---

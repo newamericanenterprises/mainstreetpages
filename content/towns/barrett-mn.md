@@ -1,9 +1,7 @@
 ---
-title: "Barrett, Minnesota Business Directory"
+title: "Barrett, MN Business Directory"
+type: "towns"
 slug: "barrett-mn"
-town: "Barrett"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 721
+state: "mn"
+town_data: "barrett-mn"
 ---

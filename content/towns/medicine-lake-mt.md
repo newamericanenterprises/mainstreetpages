@@ -1,7 +1,7 @@
 ---
-title: "Medicine Lake, Montana Business Directory"
+title: "Medicine Lake, MT Business Directory"
+type: "towns"
 slug: "medicine-lake-mt"
-state: "MT"
-county: "Sheridan"
-population: 500
+state: "mt"
+town_data: "medicine-lake-mt"
 ---

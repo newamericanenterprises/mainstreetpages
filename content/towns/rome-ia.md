@@ -1,9 +1,7 @@
 ---
-title: "Rome, Iowa Business Directory"
+title: "Rome, IA Business Directory"
+type: "towns"
 slug: "rome-ia"
-town: "Rome"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 1089
+state: "ia"
+town_data: "rome-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Port Sheldon, Michigan Business Directory"
+title: "Port Sheldon, MI Business Directory"
+type: "towns"
 slug: "port-sheldon-mi"
-town: "Port Sheldon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 2950
+state: "mi"
+town_data: "port-sheldon-mi"
 ---

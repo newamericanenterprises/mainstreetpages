@@ -1,9 +1,7 @@
 ---
-title: "Newton, Iowa Business Directory"
+title: "Newton, IA Business Directory"
+type: "towns"
 slug: "newton-ia"
-town: "Newton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 15254
+state: "ia"
+town_data: "newton-ia"
 ---

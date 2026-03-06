@@ -1,9 +1,7 @@
 ---
-title: "Oxon Hill, Maryland Business Directory"
+title: "Oxon Hill, MD Business Directory"
+type: "towns"
 slug: "oxon-hill-md"
-town: "Oxon Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1275
+state: "md"
+town_data: "oxon-hill-md"
 ---

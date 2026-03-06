@@ -1,7 +1,7 @@
 ---
-title: "Ulysses, Nebraska Business Directory"
+title: "Ulysses, NE Business Directory"
+type: "towns"
 slug: "ulysses-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "ulysses-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kerkhoven, Minnesota Business Directory"
+title: "Kerkhoven, MN Business Directory"
+type: "towns"
 slug: "kerkhoven-mn"
-town: "Kerkhoven"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 2050
+state: "mn"
+town_data: "kerkhoven-mn"
 ---

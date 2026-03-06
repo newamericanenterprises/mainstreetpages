@@ -1,7 +1,7 @@
 ---
-title: "Lamar, Missouri Business Directory"
+title: "Lamar, MO Business Directory"
+type: "towns"
 slug: "lamar-mo"
-state: "MO"
-county: "Barton"
-population: 4284
+state: "mo"
+town_data: "lamar-mo"
 ---

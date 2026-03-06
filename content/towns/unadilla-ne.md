@@ -1,7 +1,7 @@
 ---
-title: "Unadilla, Nebraska Business Directory"
+title: "Unadilla, NE Business Directory"
+type: "towns"
 slug: "unadilla-ne"
-state: "NE"
-county: "Otoe"
-population: 500
+state: "ne"
+town_data: "unadilla-ne"
 ---

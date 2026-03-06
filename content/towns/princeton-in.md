@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Indiana Business Directory"
+title: "Princeton, IN Business Directory"
+type: "towns"
 slug: "princeton-in"
-town: "Princeton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 8113
+state: "in"
+town_data: "princeton-in"
 ---

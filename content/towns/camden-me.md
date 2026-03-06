@@ -1,9 +1,7 @@
 ---
-title: "Camden, Maine Business Directory"
+title: "Camden, ME Business Directory"
+type: "towns"
 slug: "camden-me"
-town: "Camden"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 5232
+state: "me"
+town_data: "camden-me"
 ---

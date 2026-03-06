@@ -1,9 +1,7 @@
 ---
-title: "Knoxville, Iowa Business Directory"
+title: "Knoxville, IA Business Directory"
+type: "towns"
 slug: "knoxville-ia"
-town: "Knoxville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 7313
+state: "ia"
+town_data: "knoxville-ia"
 ---

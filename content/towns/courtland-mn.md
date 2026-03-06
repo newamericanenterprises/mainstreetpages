@@ -1,9 +1,7 @@
 ---
-title: "Courtland, Minnesota Business Directory"
+title: "Courtland, MN Business Directory"
+type: "towns"
 slug: "courtland-mn"
-town: "Courtland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nicollet"
-population: 3225
+state: "mn"
+town_data: "courtland-mn"
 ---

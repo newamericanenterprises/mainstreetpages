@@ -1,9 +1,7 @@
 ---
-title: "Albany, Kentucky Business Directory"
+title: "Albany, KY Business Directory"
+type: "towns"
 slug: "albany-ky"
-town: "Albany"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Clinton"
-population: 2015
+state: "ky"
+town_data: "albany-ky"
 ---

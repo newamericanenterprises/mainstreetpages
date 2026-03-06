@@ -1,7 +1,7 @@
 ---
-title: "Panama, Nebraska Business Directory"
+title: "Panama, NE Business Directory"
+type: "towns"
 slug: "panama-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "panama-ne"
 ---

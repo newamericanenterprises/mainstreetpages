@@ -1,9 +1,7 @@
 ---
-title: "Brighton, Iowa Business Directory"
+title: "Brighton, IA Business Directory"
+type: "towns"
 slug: "brighton-ia"
-town: "Brighton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 2890
+state: "ia"
+town_data: "brighton-ia"
 ---

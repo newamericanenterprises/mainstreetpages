@@ -1,9 +1,7 @@
 ---
-title: "Newport, Maine Business Directory"
+title: "Newport, ME Business Directory"
+type: "towns"
 slug: "newport-me"
-town: "Newport"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 3021
+state: "me"
+town_data: "newport-me"
 ---

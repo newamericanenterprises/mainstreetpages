@@ -1,7 +1,7 @@
 ---
-title: "Baker, Montana Business Directory"
+title: "Baker, MT Business Directory"
+type: "towns"
 slug: "baker-mt"
-state: "MT"
-county: "Fallon"
-population: 1737
+state: "mt"
+town_data: "baker-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Naples, Maine Business Directory"
+title: "Naples, ME Business Directory"
+type: "towns"
 slug: "naples-me"
-town: "Naples"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1368
+state: "me"
+town_data: "naples-me"
 ---

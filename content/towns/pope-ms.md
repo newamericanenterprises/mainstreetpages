@@ -1,7 +1,7 @@
 ---
-title: "Pope, Mississippi Business Directory"
+title: "Pope, MS Business Directory"
+type: "towns"
 slug: "pope-ms"
-state: "MS"
-county: "Panola"
-population: 241
+state: "ms"
+town_data: "pope-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rehoboth, Massachusetts Business Directory"
+title: "Rehoboth, MA Business Directory"
+type: "towns"
 slug: "rehoboth-ma"
-town: "Rehoboth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 1358
+state: "ma"
+town_data: "rehoboth-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cosmos, Minnesota Business Directory"
+title: "Cosmos, MN Business Directory"
+type: "towns"
 slug: "cosmos-mn"
-town: "Cosmos"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 2436
+state: "mn"
+town_data: "cosmos-mn"
 ---

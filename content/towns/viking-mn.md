@@ -1,9 +1,7 @@
 ---
-title: "Viking, Minnesota Business Directory"
+title: "Viking, MN Business Directory"
+type: "towns"
 slug: "viking-mn"
-town: "Viking"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Marshall"
-population: 598
+state: "mn"
+town_data: "viking-mn"
 ---

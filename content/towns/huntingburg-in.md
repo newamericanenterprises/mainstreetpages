@@ -1,9 +1,7 @@
 ---
-title: "Huntingburg, Indiana Business Directory"
+title: "Huntingburg, IN Business Directory"
+type: "towns"
 slug: "huntingburg-in"
-town: "Huntingburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dubois"
-population: 5050
+state: "in"
+town_data: "huntingburg-in"
 ---

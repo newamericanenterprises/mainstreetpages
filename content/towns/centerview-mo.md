@@ -1,7 +1,7 @@
 ---
-title: "Centerview, Missouri Business Directory"
+title: "Centerview, MO Business Directory"
+type: "towns"
 slug: "centerview-mo"
-state: "MO"
-county: "Johnson"
-population: 1500
+state: "mo"
+town_data: "centerview-mo"
 ---

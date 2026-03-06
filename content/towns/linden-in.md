@@ -1,9 +1,7 @@
 ---
-title: "Linden, Indiana Business Directory"
+title: "Linden, IN Business Directory"
+type: "towns"
 slug: "linden-in"
-town: "Linden"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 2584
+state: "in"
+town_data: "linden-in"
 ---

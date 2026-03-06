@@ -1,7 +1,7 @@
 ---
-title: "Bude, Mississippi Business Directory"
+title: "Bude, MS Business Directory"
+type: "towns"
 slug: "bude-ms"
-state: "MS"
-county: "Franklin"
-population: 1030
+state: "ms"
+town_data: "bude-ms"
 ---

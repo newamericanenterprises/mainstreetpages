@@ -1,9 +1,7 @@
 ---
-title: "Frederic, Michigan Business Directory"
+title: "Frederic, MI Business Directory"
+type: "towns"
 slug: "frederic-mi"
-town: "Frederic"
-state: "Michigan"
-state_abbr: "MI"
-county: "Crawford"
-population: 4172
+state: "mi"
+town_data: "frederic-mi"
 ---

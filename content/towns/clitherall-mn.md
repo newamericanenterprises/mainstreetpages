@@ -1,9 +1,7 @@
 ---
-title: "Clitherall, Minnesota Business Directory"
+title: "Clitherall, MN Business Directory"
+type: "towns"
 slug: "clitherall-mn"
-town: "Clitherall"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 944
+state: "mn"
+town_data: "clitherall-mn"
 ---

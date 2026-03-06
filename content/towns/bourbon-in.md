@@ -1,9 +1,7 @@
 ---
-title: "Bourbon, Indiana Business Directory"
+title: "Bourbon, IN Business Directory"
+type: "towns"
 slug: "bourbon-in"
-town: "Bourbon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 1064
+state: "in"
+town_data: "bourbon-in"
 ---

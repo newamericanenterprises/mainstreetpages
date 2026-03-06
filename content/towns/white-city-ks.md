@@ -1,9 +1,7 @@
 ---
-title: "White City, Kansas Business Directory"
+title: "White City, KS Business Directory"
+type: "towns"
 slug: "white-city-ks"
-town: "White City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 439
+state: "ks"
+town_data: "white-city-ks"
 ---

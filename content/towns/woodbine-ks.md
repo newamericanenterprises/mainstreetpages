@@ -1,9 +1,7 @@
 ---
-title: "Woodbine, Kansas Business Directory"
+title: "Woodbine, KS Business Directory"
+type: "towns"
 slug: "woodbine-ks"
-town: "Woodbine"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 1462
+state: "ks"
+town_data: "woodbine-ks"
 ---

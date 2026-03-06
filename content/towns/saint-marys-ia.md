@@ -1,9 +1,7 @@
 ---
-title: "Saint Marys, Iowa Business Directory"
+title: "Saint Marys, IA Business Directory"
+type: "towns"
 slug: "saint-marys-ia"
-town: "Saint Marys"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 2786
+state: "ia"
+town_data: "saint-marys-ia"
 ---

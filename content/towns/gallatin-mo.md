@@ -1,7 +1,7 @@
 ---
-title: "Gallatin, Missouri Business Directory"
+title: "Gallatin, MO Business Directory"
+type: "towns"
 slug: "gallatin-mo"
-state: "MO"
-county: "Daviess"
-population: 1762
+state: "mo"
+town_data: "gallatin-mo"
 ---

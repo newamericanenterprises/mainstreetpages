@@ -1,9 +1,7 @@
 ---
-title: "Sagamore, Massachusetts Business Directory"
+title: "Sagamore, MA Business Directory"
+type: "towns"
 slug: "sagamore-ma"
-town: "Sagamore"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 4472
+state: "ma"
+town_data: "sagamore-ma"
 ---

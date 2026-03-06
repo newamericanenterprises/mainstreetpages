@@ -1,9 +1,7 @@
 ---
-title: "Cincinnati, Iowa Business Directory"
+title: "Cincinnati, IA Business Directory"
+type: "towns"
 slug: "cincinnati-ia"
-town: "Cincinnati"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 720
+state: "ia"
+town_data: "cincinnati-ia"
 ---

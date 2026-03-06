@@ -1,7 +1,7 @@
 ---
-title: "Gold Creek, Montana Business Directory"
+title: "Gold Creek, MT Business Directory"
+type: "towns"
 slug: "gold-creek-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "gold-creek-mt"
 ---

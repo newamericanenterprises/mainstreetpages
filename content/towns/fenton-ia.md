@@ -1,9 +1,7 @@
 ---
-title: "Fenton, Iowa Business Directory"
+title: "Fenton, IA Business Directory"
+type: "towns"
 slug: "fenton-ia"
-town: "Fenton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 1883
+state: "ia"
+town_data: "fenton-ia"
 ---

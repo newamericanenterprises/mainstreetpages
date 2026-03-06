@@ -1,7 +1,7 @@
 ---
-title: "Union, Nebraska Business Directory"
+title: "Union, NE Business Directory"
+type: "towns"
 slug: "union-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "union-ne"
 ---

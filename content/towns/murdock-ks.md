@@ -1,9 +1,7 @@
 ---
-title: "Murdock, Kansas Business Directory"
+title: "Murdock, KS Business Directory"
+type: "towns"
 slug: "murdock-ks"
-town: "Murdock"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 2451
+state: "ks"
+town_data: "murdock-ks"
 ---

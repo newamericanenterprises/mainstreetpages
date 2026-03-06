@@ -1,9 +1,7 @@
 ---
-title: "Victoria, Kansas Business Directory"
+title: "Victoria, KS Business Directory"
+type: "towns"
 slug: "victoria-ks"
-town: "Victoria"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellis"
-population: 742
+state: "ks"
+town_data: "victoria-ks"
 ---

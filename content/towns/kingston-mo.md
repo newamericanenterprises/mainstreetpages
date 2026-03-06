@@ -1,7 +1,7 @@
 ---
-title: "Kingston, Missouri Business Directory"
+title: "Kingston, MO Business Directory"
+type: "towns"
 slug: "kingston-mo"
-state: "MO"
-county: "Caldwell"
-population: 1500
+state: "mo"
+town_data: "kingston-mo"
 ---

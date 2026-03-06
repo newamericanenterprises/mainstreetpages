@@ -1,9 +1,7 @@
 ---
-title: "Drakesville, Iowa Business Directory"
+title: "Drakesville, IA Business Directory"
+type: "towns"
 slug: "drakesville-ia"
-town: "Drakesville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Davis"
-population: 821
+state: "ia"
+town_data: "drakesville-ia"
 ---

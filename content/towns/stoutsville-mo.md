@@ -1,7 +1,7 @@
 ---
-title: "Stoutsville, Missouri Business Directory"
+title: "Stoutsville, MO Business Directory"
+type: "towns"
 slug: "stoutsville-mo"
-state: "MO"
-county: "Monroe"
-population: 1500
+state: "mo"
+town_data: "stoutsville-mo"
 ---

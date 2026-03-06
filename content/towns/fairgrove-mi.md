@@ -1,9 +1,7 @@
 ---
-title: "Fairgrove, Michigan Business Directory"
+title: "Fairgrove, MI Business Directory"
+type: "towns"
 slug: "fairgrove-mi"
-town: "Fairgrove"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 4468
+state: "mi"
+town_data: "fairgrove-mi"
 ---

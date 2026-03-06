@@ -1,9 +1,7 @@
 ---
-title: "Center Junction, Iowa Business Directory"
+title: "Center Junction, IA Business Directory"
+type: "towns"
 slug: "center-junction-ia"
-town: "Center Junction"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 2373
+state: "ia"
+town_data: "center-junction-ia"
 ---

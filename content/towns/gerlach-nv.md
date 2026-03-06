@@ -1,7 +1,7 @@
 ---
-title: "Gerlach, Nevada Business Directory"
+title: "Gerlach, NV Business Directory"
+type: "towns"
 slug: "gerlach-nv"
-state: "NV"
-county: "Washoe"
-population: 206
+state: "nv"
+town_data: "gerlach-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Scottsville, Kentucky Business Directory"
+title: "Scottsville, KY Business Directory"
+type: "towns"
 slug: "scottsville-ky"
-town: "Scottsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Allen"
-population: 4499
+state: "ky"
+town_data: "scottsville-ky"
 ---

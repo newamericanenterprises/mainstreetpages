@@ -1,9 +1,7 @@
 ---
-title: "Brooklyn, Iowa Business Directory"
+title: "Brooklyn, IA Business Directory"
+type: "towns"
 slug: "brooklyn-ia"
-town: "Brooklyn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 2030
+state: "ia"
+town_data: "brooklyn-ia"
 ---

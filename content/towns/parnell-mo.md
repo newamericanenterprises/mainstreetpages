@@ -1,7 +1,7 @@
 ---
-title: "Parnell, Missouri Business Directory"
+title: "Parnell, MO Business Directory"
+type: "towns"
 slug: "parnell-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "parnell-mo"
 ---

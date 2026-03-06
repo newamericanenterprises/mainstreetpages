@@ -1,7 +1,7 @@
 ---
-title: "Elba, Nebraska Business Directory"
+title: "Elba, NE Business Directory"
+type: "towns"
 slug: "elba-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "elba-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Chillicothe, Iowa Business Directory"
+title: "Chillicothe, IA Business Directory"
+type: "towns"
 slug: "chillicothe-ia"
-town: "Chillicothe"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 3043
+state: "ia"
+town_data: "chillicothe-ia"
 ---

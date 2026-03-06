@@ -1,9 +1,7 @@
 ---
-title: "Vernon, Indiana Business Directory"
+title: "Vernon, IN Business Directory"
+type: "towns"
 slug: "vernon-in"
-town: "Vernon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jennings"
-population: 2281
+state: "in"
+town_data: "vernon-in"
 ---

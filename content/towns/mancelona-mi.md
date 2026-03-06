@@ -1,9 +1,7 @@
 ---
-title: "Mancelona, Michigan Business Directory"
+title: "Mancelona, MI Business Directory"
+type: "towns"
 slug: "mancelona-mi"
-town: "Mancelona"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 5191
+state: "mi"
+town_data: "mancelona-mi"
 ---

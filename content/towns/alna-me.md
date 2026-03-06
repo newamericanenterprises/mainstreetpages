@@ -1,9 +1,7 @@
 ---
-title: "Alna, Maine Business Directory"
+title: "Alna, ME Business Directory"
+type: "towns"
 slug: "alna-me"
-town: "Alna"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 1781
+state: "me"
+town_data: "alna-me"
 ---

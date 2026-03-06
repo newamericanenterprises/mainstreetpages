@@ -1,9 +1,7 @@
 ---
-title: "Hazelton, Kansas Business Directory"
+title: "Hazelton, KS Business Directory"
+type: "towns"
 slug: "hazelton-ks"
-town: "Hazelton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 1327
+state: "ks"
+town_data: "hazelton-ks"
 ---

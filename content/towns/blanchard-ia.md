@@ -1,9 +1,7 @@
 ---
-title: "Blanchard, Iowa Business Directory"
+title: "Blanchard, IA Business Directory"
+type: "towns"
 slug: "blanchard-ia"
-town: "Blanchard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 699
+state: "ia"
+town_data: "blanchard-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clay Center, Nebraska Business Directory"
+title: "Clay Center, NE Business Directory"
+type: "towns"
 slug: "clay-center-ne"
-state: "NE"
-county: "Clay"
-population: 796
+state: "ne"
+town_data: "clay-center-ne"
 ---

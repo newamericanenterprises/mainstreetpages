@@ -1,9 +1,7 @@
 ---
-title: "New Sharon, Iowa Business Directory"
+title: "New Sharon, IA Business Directory"
+type: "towns"
 slug: "new-sharon-ia"
-town: "New Sharon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 2274
+state: "ia"
+town_data: "new-sharon-ia"
 ---

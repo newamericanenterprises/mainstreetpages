@@ -1,9 +1,7 @@
 ---
-title: "Centertown, Kentucky Business Directory"
+title: "Centertown, KY Business Directory"
+type: "towns"
 slug: "centertown-ky"
-town: "Centertown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ohio"
-population: 754
+state: "ky"
+town_data: "centertown-ky"
 ---

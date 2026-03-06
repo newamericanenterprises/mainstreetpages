@@ -1,9 +1,7 @@
 ---
-title: "Elk City, Kansas Business Directory"
+title: "Elk City, KS Business Directory"
+type: "towns"
 slug: "elk-city-ks"
-town: "Elk City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 2175
+state: "ks"
+town_data: "elk-city-ks"
 ---

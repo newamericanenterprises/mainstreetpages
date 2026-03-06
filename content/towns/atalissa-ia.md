@@ -1,9 +1,7 @@
 ---
-title: "Atalissa, Iowa Business Directory"
+title: "Atalissa, IA Business Directory"
+type: "towns"
 slug: "atalissa-ia"
-town: "Atalissa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 2783
+state: "ia"
+town_data: "atalissa-ia"
 ---

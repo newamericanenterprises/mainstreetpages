@@ -1,7 +1,7 @@
 ---
-title: "Sparta, Missouri Business Directory"
+title: "Sparta, MO Business Directory"
+type: "towns"
 slug: "sparta-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "sparta-mo"
 ---

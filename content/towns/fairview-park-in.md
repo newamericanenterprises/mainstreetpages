@@ -1,9 +1,7 @@
 ---
-title: "Fairview Park, Indiana Business Directory"
+title: "Fairview Park, IN Business Directory"
+type: "towns"
 slug: "fairview-park-in"
-town: "Fairview Park"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 1093
+state: "in"
+town_data: "fairview-park-in"
 ---

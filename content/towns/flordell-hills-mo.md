@@ -1,7 +1,7 @@
 ---
-title: "Flordell Hills, Missouri Business Directory"
+title: "Flordell Hills, MO Business Directory"
+type: "towns"
 slug: "flordell-hills-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "flordell-hills-mo"
 ---

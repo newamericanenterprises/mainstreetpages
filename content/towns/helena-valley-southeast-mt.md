@@ -1,7 +1,7 @@
 ---
-title: "Helena Valley Southeast, Montana Business Directory"
+title: "Helena Valley Southeast, MT Business Directory"
+type: "towns"
 slug: "helena-valley-southeast-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "helena-valley-southeast-mt"
 ---

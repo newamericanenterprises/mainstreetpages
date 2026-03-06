@@ -1,9 +1,7 @@
 ---
-title: "Hackensack, Minnesota Business Directory"
+title: "Hackensack, MN Business Directory"
+type: "towns"
 slug: "hackensack-mn"
-town: "Hackensack"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 360
+state: "mn"
+town_data: "hackensack-mn"
 ---

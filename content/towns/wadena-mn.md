@@ -1,9 +1,7 @@
 ---
-title: "Wadena, Minnesota Business Directory"
+title: "Wadena, MN Business Directory"
+type: "towns"
 slug: "wadena-mn"
-town: "Wadena"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wadena"
-population: 4088
+state: "mn"
+town_data: "wadena-mn"
 ---

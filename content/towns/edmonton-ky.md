@@ -1,9 +1,7 @@
 ---
-title: "Edmonton, Kentucky Business Directory"
+title: "Edmonton, KY Business Directory"
+type: "towns"
 slug: "edmonton-ky"
-town: "Edmonton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Metcalfe"
-population: 1622
+state: "ky"
+town_data: "edmonton-ky"
 ---

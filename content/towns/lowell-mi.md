@@ -1,9 +1,7 @@
 ---
-title: "Lowell, Michigan Business Directory"
+title: "Lowell, MI Business Directory"
+type: "towns"
 slug: "lowell-mi"
-town: "Lowell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 5120
+state: "mi"
+town_data: "lowell-mi"
 ---

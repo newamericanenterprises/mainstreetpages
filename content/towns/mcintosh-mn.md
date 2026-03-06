@@ -1,9 +1,7 @@
 ---
-title: "McIntosh, Minnesota Business Directory"
+title: "McIntosh, MN Business Directory"
+type: "towns"
 slug: "mcintosh-mn"
-town: "McIntosh"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 529
+state: "mn"
+town_data: "mcintosh-mn"
 ---

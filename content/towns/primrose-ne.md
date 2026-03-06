@@ -1,7 +1,7 @@
 ---
-title: "Primrose, Nebraska Business Directory"
+title: "Primrose, NE Business Directory"
+type: "towns"
 slug: "primrose-ne"
-state: "NE"
-county: "Boone"
-population: 500
+state: "ne"
+town_data: "primrose-ne"
 ---

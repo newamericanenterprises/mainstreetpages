@@ -1,9 +1,7 @@
 ---
-title: "Jonesville, Louisiana Business Directory"
+title: "Jonesville, LA Business Directory"
+type: "towns"
 slug: "jonesville-la"
-town: "Jonesville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Catahoula"
-population: 1515
+state: "la"
+town_data: "jonesville-la"
 ---

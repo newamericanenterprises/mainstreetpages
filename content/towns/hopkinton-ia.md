@@ -1,9 +1,7 @@
 ---
-title: "Hopkinton, Iowa Business Directory"
+title: "Hopkinton, IA Business Directory"
+type: "towns"
 slug: "hopkinton-ia"
-town: "Hopkinton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 1643
+state: "ia"
+town_data: "hopkinton-ia"
 ---

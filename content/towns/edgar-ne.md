@@ -1,7 +1,7 @@
 ---
-title: "Edgar, Nebraska Business Directory"
+title: "Edgar, NE Business Directory"
+type: "towns"
 slug: "edgar-ne"
-state: "NE"
-county: "Clay"
-population: 496
+state: "ne"
+town_data: "edgar-ne"
 ---

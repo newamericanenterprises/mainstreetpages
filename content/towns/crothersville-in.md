@@ -1,9 +1,7 @@
 ---
-title: "Crothersville, Indiana Business Directory"
+title: "Crothersville, IN Business Directory"
+type: "towns"
 slug: "crothersville-in"
-town: "Crothersville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jackson"
-population: 3269
+state: "in"
+town_data: "crothersville-in"
 ---

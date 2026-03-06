@@ -1,7 +1,7 @@
 ---
-title: "Cross Timbers, Missouri Business Directory"
+title: "Cross Timbers, MO Business Directory"
+type: "towns"
 slug: "cross-timbers-mo"
-state: "MO"
-county: "Hickory"
-population: 1500
+state: "mo"
+town_data: "cross-timbers-mo"
 ---

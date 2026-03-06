@@ -1,9 +1,7 @@
 ---
-title: "Orient, Iowa Business Directory"
+title: "Orient, IA Business Directory"
+type: "towns"
 slug: "orient-ia"
-town: "Orient"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 2445
+state: "ia"
+town_data: "orient-ia"
 ---

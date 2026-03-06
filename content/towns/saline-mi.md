@@ -1,9 +1,7 @@
 ---
-title: "Saline, Michigan Business Directory"
+title: "Saline, MI Business Directory"
+type: "towns"
 slug: "saline-mi"
-town: "Saline"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 9296
+state: "mi"
+town_data: "saline-mi"
 ---

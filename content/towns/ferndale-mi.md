@@ -1,9 +1,7 @@
 ---
-title: "Ferndale, Michigan Business Directory"
+title: "Ferndale, MI Business Directory"
+type: "towns"
 slug: "ferndale-mi"
-town: "Ferndale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 20428
+state: "mi"
+town_data: "ferndale-mi"
 ---

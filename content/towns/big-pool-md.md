@@ -1,9 +1,7 @@
 ---
-title: "Big Pool, Maryland Business Directory"
+title: "Big Pool, MD Business Directory"
+type: "towns"
 slug: "big-pool-md"
-town: "Big Pool"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 3472
+state: "md"
+town_data: "big-pool-md"
 ---

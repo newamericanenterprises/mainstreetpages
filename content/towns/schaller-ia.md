@@ -1,9 +1,7 @@
 ---
-title: "Schaller, Iowa Business Directory"
+title: "Schaller, IA Business Directory"
+type: "towns"
 slug: "schaller-ia"
-town: "Schaller"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 3009
+state: "ia"
+town_data: "schaller-ia"
 ---

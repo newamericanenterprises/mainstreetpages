@@ -1,7 +1,7 @@
 ---
-title: "Helena Valley Northwest, Montana Business Directory"
+title: "Helena Valley Northwest, MT Business Directory"
+type: "towns"
 slug: "helena-valley-northwest-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "helena-valley-northwest-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wayne, Maine Business Directory"
+title: "Wayne, ME Business Directory"
+type: "towns"
 slug: "wayne-me"
-town: "Wayne"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2165
+state: "me"
+town_data: "wayne-me"
 ---

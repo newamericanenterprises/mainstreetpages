@@ -1,9 +1,7 @@
 ---
-title: "Byron, Minnesota Business Directory"
+title: "Byron, MN Business Directory"
+type: "towns"
 slug: "byron-mn"
-town: "Byron"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Olmsted"
-population: 1949
+state: "mn"
+town_data: "byron-mn"
 ---

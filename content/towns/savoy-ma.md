@@ -1,9 +1,7 @@
 ---
-title: "Savoy, Massachusetts Business Directory"
+title: "Savoy, MA Business Directory"
+type: "towns"
 slug: "savoy-ma"
-town: "Savoy"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8827
+state: "ma"
+town_data: "savoy-ma"
 ---

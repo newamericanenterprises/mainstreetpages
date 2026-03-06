@@ -1,7 +1,7 @@
 ---
-title: "Fairbury, Nebraska Business Directory"
+title: "Fairbury, NE Business Directory"
+type: "towns"
 slug: "fairbury-ne"
-state: "NE"
-county: "Jefferson"
-population: 3942
+state: "ne"
+town_data: "fairbury-ne"
 ---

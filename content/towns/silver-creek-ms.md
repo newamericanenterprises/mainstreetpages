@@ -1,7 +1,7 @@
 ---
-title: "Silver Creek, Mississippi Business Directory"
+title: "Silver Creek, MS Business Directory"
+type: "towns"
 slug: "silver-creek-ms"
-state: "MS"
-county: "Lawrence"
-population: 236
+state: "ms"
+town_data: "silver-creek-ms"
 ---

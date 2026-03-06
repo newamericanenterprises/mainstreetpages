@@ -1,9 +1,7 @@
 ---
-title: "Rippey, Iowa Business Directory"
+title: "Rippey, IA Business Directory"
+type: "towns"
 slug: "rippey-ia"
-town: "Rippey"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 2055
+state: "ia"
+town_data: "rippey-ia"
 ---

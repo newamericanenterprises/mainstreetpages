@@ -1,9 +1,7 @@
 ---
-title: "Milo, Maine Business Directory"
+title: "Milo, ME Business Directory"
+type: "towns"
 slug: "milo-me"
-town: "Milo"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 879
+state: "me"
+town_data: "milo-me"
 ---

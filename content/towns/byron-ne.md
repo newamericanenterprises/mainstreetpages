@@ -1,7 +1,7 @@
 ---
-title: "Byron, Nebraska Business Directory"
+title: "Byron, NE Business Directory"
+type: "towns"
 slug: "byron-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "byron-ne"
 ---

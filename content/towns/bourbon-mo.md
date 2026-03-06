@@ -1,7 +1,7 @@
 ---
-title: "Bourbon, Missouri Business Directory"
+title: "Bourbon, MO Business Directory"
+type: "towns"
 slug: "bourbon-mo"
-state: "MO"
-county: "Crawford"
-population: 1500
+state: "mo"
+town_data: "bourbon-mo"
 ---

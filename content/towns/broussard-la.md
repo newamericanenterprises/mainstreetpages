@@ -1,9 +1,7 @@
 ---
-title: "Broussard, Louisiana Business Directory"
+title: "Broussard, LA Business Directory"
+type: "towns"
 slug: "broussard-la"
-town: "Broussard"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 12268
+state: "la"
+town_data: "broussard-la"
 ---

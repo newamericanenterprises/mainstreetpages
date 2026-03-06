@@ -1,9 +1,7 @@
 ---
-title: "Henriette, Minnesota Business Directory"
+title: "Henriette, MN Business Directory"
+type: "towns"
 slug: "henriette-mn"
-town: "Henriette"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 2742
+state: "mn"
+town_data: "henriette-mn"
 ---

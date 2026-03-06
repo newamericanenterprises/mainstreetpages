@@ -1,9 +1,7 @@
 ---
-title: "Spurgeon, Indiana Business Directory"
+title: "Spurgeon, IN Business Directory"
+type: "towns"
 slug: "spurgeon-in"
-town: "Spurgeon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pike"
-population: 1871
+state: "in"
+town_data: "spurgeon-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Haverhill, Iowa Business Directory"
+title: "Haverhill, IA Business Directory"
+type: "towns"
 slug: "haverhill-ia"
-town: "Haverhill"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 3184
+state: "ia"
+town_data: "haverhill-ia"
 ---

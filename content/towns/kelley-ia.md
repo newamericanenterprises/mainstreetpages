@@ -1,9 +1,7 @@
 ---
-title: "Kelley, Iowa Business Directory"
+title: "Kelley, IA Business Directory"
+type: "towns"
 slug: "kelley-ia"
-town: "Kelley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 1052
+state: "ia"
+town_data: "kelley-ia"
 ---

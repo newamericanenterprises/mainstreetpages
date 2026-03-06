@@ -1,7 +1,7 @@
 ---
-title: "Novelty, Missouri Business Directory"
+title: "Novelty, MO Business Directory"
+type: "towns"
 slug: "novelty-mo"
-state: "MO"
-county: "Knox"
-population: 1500
+state: "mo"
+town_data: "novelty-mo"
 ---

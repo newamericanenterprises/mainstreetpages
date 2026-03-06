@@ -1,9 +1,7 @@
 ---
-title: "Lothian, Maryland Business Directory"
+title: "Lothian, MD Business Directory"
+type: "towns"
 slug: "lothian-md"
-town: "Lothian"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 1634
+state: "md"
+town_data: "lothian-md"
 ---

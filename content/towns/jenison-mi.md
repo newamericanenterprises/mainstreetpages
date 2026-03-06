@@ -1,9 +1,7 @@
 ---
-title: "Jenison, Michigan Business Directory"
+title: "Jenison, MI Business Directory"
+type: "towns"
 slug: "jenison-mi"
-town: "Jenison"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 5262
+state: "mi"
+town_data: "jenison-mi"
 ---

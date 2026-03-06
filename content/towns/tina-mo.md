@@ -1,7 +1,7 @@
 ---
-title: "Tina, Missouri Business Directory"
+title: "Tina, MO Business Directory"
+type: "towns"
 slug: "tina-mo"
-state: "MO"
-county: "Carroll"
-population: 1500
+state: "mo"
+town_data: "tina-mo"
 ---

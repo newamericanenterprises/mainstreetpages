@@ -1,7 +1,7 @@
 ---
-title: "Louisville, Mississippi Business Directory"
+title: "Louisville, MS Business Directory"
+type: "towns"
 slug: "louisville-ms"
-state: "MS"
-county: "Winston"
-population: 6809
+state: "ms"
+town_data: "louisville-ms"
 ---

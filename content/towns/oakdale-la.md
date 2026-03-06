@@ -1,9 +1,7 @@
 ---
-title: "Oakdale, Louisiana Business Directory"
+title: "Oakdale, LA Business Directory"
+type: "towns"
 slug: "oakdale-la"
-town: "Oakdale"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Allen"
-population: 7653
+state: "la"
+town_data: "oakdale-la"
 ---

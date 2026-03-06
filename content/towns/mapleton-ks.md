@@ -1,9 +1,7 @@
 ---
-title: "Mapleton, Kansas Business Directory"
+title: "Mapleton, KS Business Directory"
+type: "towns"
 slug: "mapleton-ks"
-town: "Mapleton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Bourbon"
-population: 1051
+state: "ks"
+town_data: "mapleton-ks"
 ---

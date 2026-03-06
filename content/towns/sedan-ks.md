@@ -1,9 +1,7 @@
 ---
-title: "Sedan, Kansas Business Directory"
+title: "Sedan, KS Business Directory"
+type: "towns"
 slug: "sedan-ks"
-town: "Sedan"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 1018
+state: "ks"
+town_data: "sedan-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Delhi, Minnesota Business Directory"
+title: "Delhi, MN Business Directory"
+type: "towns"
 slug: "delhi-mn"
-town: "Delhi"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2500
+state: "mn"
+town_data: "delhi-mn"
 ---

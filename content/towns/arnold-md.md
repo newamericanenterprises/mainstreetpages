@@ -1,9 +1,7 @@
 ---
-title: "Arnold, Maryland Business Directory"
+title: "Arnold, MD Business Directory"
+type: "towns"
 slug: "arnold-md"
-town: "Arnold"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 3305
+state: "md"
+town_data: "arnold-md"
 ---

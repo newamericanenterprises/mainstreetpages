@@ -1,7 +1,7 @@
 ---
-title: "Steinauer, Nebraska Business Directory"
+title: "Steinauer, NE Business Directory"
+type: "towns"
 slug: "steinauer-ne"
-state: "NE"
-county: "Pawnee"
-population: 500
+state: "ne"
+town_data: "steinauer-ne"
 ---

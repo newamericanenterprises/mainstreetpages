@@ -1,7 +1,7 @@
 ---
-title: "Elmwood, Nebraska Business Directory"
+title: "Elmwood, NE Business Directory"
+type: "towns"
 slug: "elmwood-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "elmwood-ne"
 ---

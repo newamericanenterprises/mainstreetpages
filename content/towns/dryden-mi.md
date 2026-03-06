@@ -1,9 +1,7 @@
 ---
-title: "Dryden, Michigan Business Directory"
+title: "Dryden, MI Business Directory"
+type: "towns"
 slug: "dryden-mi"
-town: "Dryden"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 1695
+state: "mi"
+town_data: "dryden-mi"
 ---

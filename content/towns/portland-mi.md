@@ -1,9 +1,7 @@
 ---
-title: "Portland, Michigan Business Directory"
+title: "Portland, MI Business Directory"
+type: "towns"
 slug: "portland-mi"
-town: "Portland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 1359
+state: "mi"
+town_data: "portland-mi"
 ---

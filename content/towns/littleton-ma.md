@@ -1,9 +1,7 @@
 ---
-title: "Littleton, Massachusetts Business Directory"
+title: "Littleton, MA Business Directory"
+type: "towns"
 slug: "littleton-ma"
-town: "Littleton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 7633
+state: "ma"
+town_data: "littleton-ma"
 ---

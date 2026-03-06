@@ -1,7 +1,7 @@
 ---
-title: "Foster, Missouri Business Directory"
+title: "Foster, MO Business Directory"
+type: "towns"
 slug: "foster-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "foster-mo"
 ---

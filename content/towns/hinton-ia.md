@@ -1,9 +1,7 @@
 ---
-title: "Hinton, Iowa Business Directory"
+title: "Hinton, IA Business Directory"
+type: "towns"
 slug: "hinton-ia"
-town: "Hinton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 2637
+state: "ia"
+town_data: "hinton-ia"
 ---

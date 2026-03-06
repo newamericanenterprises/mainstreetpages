@@ -1,7 +1,7 @@
 ---
-title: "Elmo, Missouri Business Directory"
+title: "Elmo, MO Business Directory"
+type: "towns"
 slug: "elmo-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "elmo-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Naylor, Missouri Business Directory"
+title: "Naylor, MO Business Directory"
+type: "towns"
 slug: "naylor-mo"
-state: "MO"
-county: "Ripley"
-population: 609
+state: "mo"
+town_data: "naylor-mo"
 ---

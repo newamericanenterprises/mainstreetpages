@@ -1,7 +1,7 @@
 ---
-title: "Twin Bridges, Montana Business Directory"
+title: "Twin Bridges, MT Business Directory"
+type: "towns"
 slug: "twin-bridges-mt"
-state: "MT"
-county: "Madison"
-population: 375
+state: "mt"
+town_data: "twin-bridges-mt"
 ---

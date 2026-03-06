@@ -1,9 +1,7 @@
 ---
-title: "Schoenchen, Kansas Business Directory"
+title: "Schoenchen, KS Business Directory"
+type: "towns"
 slug: "schoenchen-ks"
-town: "Schoenchen"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellis"
-population: 1145
+state: "ks"
+town_data: "schoenchen-ks"
 ---

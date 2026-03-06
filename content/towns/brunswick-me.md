@@ -1,9 +1,7 @@
 ---
-title: "Brunswick, Maine Business Directory"
+title: "Brunswick, ME Business Directory"
+type: "towns"
 slug: "brunswick-me"
-town: "Brunswick"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 21756
+state: "me"
+town_data: "brunswick-me"
 ---

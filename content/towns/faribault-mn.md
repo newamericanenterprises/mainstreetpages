@@ -1,9 +1,7 @@
 ---
-title: "Faribault, Minnesota Business Directory"
+title: "Faribault, MN Business Directory"
+type: "towns"
 slug: "faribault-mn"
-town: "Faribault"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 23820
+state: "mn"
+town_data: "faribault-mn"
 ---

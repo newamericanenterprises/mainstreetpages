@@ -1,7 +1,7 @@
 ---
-title: "Lake Winnebago, Missouri Business Directory"
+title: "Lake Winnebago, MO Business Directory"
+type: "towns"
 slug: "lake-winnebago-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "lake-winnebago-mo"
 ---

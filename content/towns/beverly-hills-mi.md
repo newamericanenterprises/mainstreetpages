@@ -1,9 +1,7 @@
 ---
-title: "Beverly Hills, Michigan Business Directory"
+title: "Beverly Hills, MI Business Directory"
+type: "towns"
 slug: "beverly-hills-mi"
-town: "Beverly Hills"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 1700
+state: "mi"
+town_data: "beverly-hills-mi"
 ---

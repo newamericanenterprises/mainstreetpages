@@ -1,9 +1,7 @@
 ---
-title: "Stillwater, Minnesota Business Directory"
+title: "Stillwater, MN Business Directory"
+type: "towns"
 slug: "stillwater-mn"
-town: "Stillwater"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 3159
+state: "mn"
+town_data: "stillwater-mn"
 ---

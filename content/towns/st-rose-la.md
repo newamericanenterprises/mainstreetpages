@@ -1,9 +1,7 @@
 ---
-title: "St. Rose, Louisiana Business Directory"
+title: "St. Rose, LA Business Directory"
+type: "towns"
 slug: "st-rose-la"
-town: "St. Rose"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 1941
+state: "la"
+town_data: "st-rose-la"
 ---

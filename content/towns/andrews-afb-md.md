@@ -1,9 +1,7 @@
 ---
-title: "Andrews AFB, Maryland Business Directory"
+title: "Andrews AFB, MD Business Directory"
+type: "towns"
 slug: "andrews-afb-md"
-town: "Andrews AFB"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 3956
+state: "md"
+town_data: "andrews-afb-md"
 ---

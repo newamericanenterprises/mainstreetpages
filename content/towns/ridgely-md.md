@@ -1,9 +1,7 @@
 ---
-title: "Ridgely, Maryland Business Directory"
+title: "Ridgely, MD Business Directory"
+type: "towns"
 slug: "ridgely-md"
-town: "Ridgely"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 1731
+state: "md"
+town_data: "ridgely-md"
 ---

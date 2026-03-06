@@ -1,9 +1,7 @@
 ---
-title: "Westphalia, Kansas Business Directory"
+title: "Westphalia, KS Business Directory"
+type: "towns"
 slug: "westphalia-ks"
-town: "Westphalia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 2105
+state: "ks"
+town_data: "westphalia-ks"
 ---

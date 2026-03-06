@@ -1,7 +1,7 @@
 ---
-title: "Arcadia, Missouri Business Directory"
+title: "Arcadia, MO Business Directory"
+type: "towns"
 slug: "arcadia-mo"
-state: "MO"
-county: "Iron"
-population: 673
+state: "mo"
+town_data: "arcadia-mo"
 ---

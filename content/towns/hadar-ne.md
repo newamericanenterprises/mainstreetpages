@@ -1,7 +1,7 @@
 ---
-title: "Hadar, Nebraska Business Directory"
+title: "Hadar, NE Business Directory"
+type: "towns"
 slug: "hadar-ne"
-state: "NE"
-county: "Pierce"
-population: 500
+state: "ne"
+town_data: "hadar-ne"
 ---

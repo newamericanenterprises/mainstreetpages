@@ -1,9 +1,7 @@
 ---
-title: "New Point, Indiana Business Directory"
+title: "New Point, IN Business Directory"
+type: "towns"
 slug: "new-point-in"
-town: "New Point"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 1160
+state: "in"
+town_data: "new-point-in"
 ---

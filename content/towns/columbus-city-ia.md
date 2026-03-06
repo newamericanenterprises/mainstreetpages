@@ -1,9 +1,7 @@
 ---
-title: "Columbus City, Iowa Business Directory"
+title: "Columbus City, IA Business Directory"
+type: "towns"
 slug: "columbus-city-ia"
-town: "Columbus City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 1325
+state: "ia"
+town_data: "columbus-city-ia"
 ---

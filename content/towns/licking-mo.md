@@ -1,7 +1,7 @@
 ---
-title: "Licking, Missouri Business Directory"
+title: "Licking, MO Business Directory"
+type: "towns"
 slug: "licking-mo"
-state: "MO"
-county: "Texas"
-population: 1500
+state: "mo"
+town_data: "licking-mo"
 ---

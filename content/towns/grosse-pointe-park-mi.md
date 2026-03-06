@@ -1,9 +1,7 @@
 ---
-title: "Grosse Pointe Park, Michigan Business Directory"
+title: "Grosse Pointe Park, MI Business Directory"
+type: "towns"
 slug: "grosse-pointe-park-mi"
-town: "Grosse Pointe Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3964
+state: "mi"
+town_data: "grosse-pointe-park-mi"
 ---

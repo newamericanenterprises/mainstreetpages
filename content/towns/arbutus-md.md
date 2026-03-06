@@ -1,9 +1,7 @@
 ---
-title: "Arbutus, Maryland Business Directory"
+title: "Arbutus, MD Business Directory"
+type: "towns"
 slug: "arbutus-md"
-town: "Arbutus"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2498
+state: "md"
+town_data: "arbutus-md"
 ---

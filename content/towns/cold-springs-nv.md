@@ -1,7 +1,7 @@
 ---
-title: "Cold Springs, Nevada Business Directory"
+title: "Cold Springs, NV Business Directory"
+type: "towns"
 slug: "cold-springs-nv"
-state: "NV"
-county: "Washoe"
-population: 9152
+state: "nv"
+town_data: "cold-springs-nv"
 ---

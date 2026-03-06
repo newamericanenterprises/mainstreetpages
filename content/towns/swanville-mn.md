@@ -1,9 +1,7 @@
 ---
-title: "Swanville, Minnesota Business Directory"
+title: "Swanville, MN Business Directory"
+type: "towns"
 slug: "swanville-mn"
-town: "Swanville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 892
+state: "mn"
+town_data: "swanville-mn"
 ---

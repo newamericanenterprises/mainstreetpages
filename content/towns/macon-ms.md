@@ -1,7 +1,7 @@
 ---
-title: "Macon, Mississippi Business Directory"
+title: "Macon, MS Business Directory"
+type: "towns"
 slug: "macon-ms"
-state: "MS"
-county: "Noxubee"
-population: 2532
+state: "ms"
+town_data: "macon-ms"
 ---

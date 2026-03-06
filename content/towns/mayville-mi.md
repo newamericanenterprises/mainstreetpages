@@ -1,9 +1,7 @@
 ---
-title: "Mayville, Michigan Business Directory"
+title: "Mayville, MI Business Directory"
+type: "towns"
 slug: "mayville-mi"
-town: "Mayville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 4881
+state: "mi"
+town_data: "mayville-mi"
 ---

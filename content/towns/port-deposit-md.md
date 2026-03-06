@@ -1,9 +1,7 @@
 ---
-title: "Port Deposit, Maryland Business Directory"
+title: "Port Deposit, MD Business Directory"
+type: "towns"
 slug: "port-deposit-md"
-town: "Port Deposit"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 3513
+state: "md"
+town_data: "port-deposit-md"
 ---

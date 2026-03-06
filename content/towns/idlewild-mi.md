@@ -1,9 +1,7 @@
 ---
-title: "Idlewild, Michigan Business Directory"
+title: "Idlewild, MI Business Directory"
+type: "towns"
 slug: "idlewild-mi"
-town: "Idlewild"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lake"
-population: 2308
+state: "mi"
+town_data: "idlewild-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Freedom, Michigan Business Directory"
+title: "Freedom, MI Business Directory"
+type: "towns"
 slug: "freedom-mi"
-town: "Freedom"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 518
+state: "mi"
+town_data: "freedom-mi"
 ---

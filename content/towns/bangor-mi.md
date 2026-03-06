@@ -1,9 +1,7 @@
 ---
-title: "Bangor, Michigan Business Directory"
+title: "Bangor, MI Business Directory"
+type: "towns"
 slug: "bangor-mi"
-town: "Bangor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 2730
+state: "mi"
+town_data: "bangor-mi"
 ---

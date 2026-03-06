@@ -1,9 +1,7 @@
 ---
-title: "Spivey, Kansas Business Directory"
+title: "Spivey, KS Business Directory"
+type: "towns"
 slug: "spivey-ks"
-town: "Spivey"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 1093
+state: "ks"
+town_data: "spivey-ks"
 ---

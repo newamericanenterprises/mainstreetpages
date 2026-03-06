@@ -1,9 +1,7 @@
 ---
-title: "Saginaw, Michigan Business Directory"
+title: "Saginaw, MI Business Directory"
+type: "towns"
 slug: "saginaw-mi"
-town: "Saginaw"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 44202
+state: "mi"
+town_data: "saginaw-mi"
 ---

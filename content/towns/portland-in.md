@@ -1,9 +1,7 @@
 ---
-title: "Portland, Indiana Business Directory"
+title: "Portland, IN Business Directory"
+type: "towns"
 slug: "portland-in"
-town: "Portland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 6056
+state: "in"
+town_data: "portland-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fairview, Michigan Business Directory"
+title: "Fairview, MI Business Directory"
+type: "towns"
 slug: "fairview-mi"
-town: "Fairview"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oscoda"
-population: 4430
+state: "mi"
+town_data: "fairview-mi"
 ---

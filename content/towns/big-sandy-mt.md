@@ -1,7 +1,7 @@
 ---
-title: "Big Sandy, Montana Business Directory"
+title: "Big Sandy, MT Business Directory"
+type: "towns"
 slug: "big-sandy-mt"
-state: "MT"
-county: "Chouteau"
-population: 500
+state: "mt"
+town_data: "big-sandy-mt"
 ---

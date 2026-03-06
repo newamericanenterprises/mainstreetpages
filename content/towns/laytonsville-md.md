@@ -1,9 +1,7 @@
 ---
-title: "Laytonsville, Maryland Business Directory"
+title: "Laytonsville, MD Business Directory"
+type: "towns"
 slug: "laytonsville-md"
-town: "Laytonsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 2091
+state: "md"
+town_data: "laytonsville-md"
 ---

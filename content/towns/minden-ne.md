@@ -1,7 +1,7 @@
 ---
-title: "Minden, Nebraska Business Directory"
+title: "Minden, NE Business Directory"
+type: "towns"
 slug: "minden-ne"
-state: "NE"
-county: "Kearney"
-population: 2964
+state: "ne"
+town_data: "minden-ne"
 ---

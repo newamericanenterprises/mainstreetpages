@@ -1,7 +1,7 @@
 ---
-title: "East Glacier Park, Montana Business Directory"
+title: "East Glacier Park, MT Business Directory"
+type: "towns"
 slug: "east-glacier-park-mt"
-state: "MT"
-county: "Glacier"
-population: 500
+state: "mt"
+town_data: "east-glacier-park-mt"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Polkville, Mississippi Business Directory"
+title: "Polkville, MS Business Directory"
+type: "towns"
 slug: "polkville-ms"
-state: "MS"
-county: "Smith"
-population: 119
+state: "ms"
+town_data: "polkville-ms"
 ---

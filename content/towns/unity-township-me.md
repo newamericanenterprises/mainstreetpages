@@ -1,9 +1,7 @@
 ---
-title: "Unity Township, Maine Business Directory"
+title: "Unity Township, ME Business Directory"
+type: "towns"
 slug: "unity-township-me"
-town: "Unity Township"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2530
+state: "me"
+town_data: "unity-township-me"
 ---

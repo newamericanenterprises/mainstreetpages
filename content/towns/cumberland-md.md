@@ -1,9 +1,7 @@
 ---
-title: "Cumberland, Maryland Business Directory"
+title: "Cumberland, MD Business Directory"
+type: "towns"
 slug: "cumberland-md"
-town: "Cumberland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 19682
+state: "md"
+town_data: "cumberland-md"
 ---

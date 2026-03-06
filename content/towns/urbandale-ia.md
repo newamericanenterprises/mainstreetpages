@@ -1,9 +1,7 @@
 ---
-title: "Urbandale, Iowa Business Directory"
+title: "Urbandale, IA Business Directory"
+type: "towns"
 slug: "urbandale-ia"
-town: "Urbandale"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 45580
+state: "ia"
+town_data: "urbandale-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Viburnum, Missouri Business Directory"
+title: "Viburnum, MO Business Directory"
+type: "towns"
 slug: "viburnum-mo"
-state: "MO"
-county: "Iron"
-population: 1500
+state: "mo"
+town_data: "viburnum-mo"
 ---

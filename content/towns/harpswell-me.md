@@ -1,9 +1,7 @@
 ---
-title: "Harpswell, Maine Business Directory"
+title: "Harpswell, ME Business Directory"
+type: "towns"
 slug: "harpswell-me"
-town: "Harpswell"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2548
+state: "me"
+town_data: "harpswell-me"
 ---

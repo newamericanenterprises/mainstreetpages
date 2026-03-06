@@ -1,7 +1,7 @@
 ---
-title: "Kalispell, Montana Business Directory"
+title: "Kalispell, MT Business Directory"
+type: "towns"
 slug: "kalispell-mt"
-state: "MT"
-county: "Flathead"
-population: 26884
+state: "mt"
+town_data: "kalispell-mt"
 ---

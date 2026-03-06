@@ -1,9 +1,7 @@
 ---
-title: "Parsons, Kansas Business Directory"
+title: "Parsons, KS Business Directory"
+type: "towns"
 slug: "parsons-ks"
-town: "Parsons"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 9656
+state: "ks"
+town_data: "parsons-ks"
 ---

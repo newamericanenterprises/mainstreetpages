@@ -1,9 +1,7 @@
 ---
-title: "Alpine, Michigan Business Directory"
+title: "Alpine, MI Business Directory"
+type: "towns"
 slug: "alpine-mi"
-town: "Alpine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 3603
+state: "mi"
+town_data: "alpine-mi"
 ---

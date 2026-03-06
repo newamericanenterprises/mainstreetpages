@@ -1,7 +1,7 @@
 ---
-title: "Goodsprings, Nevada Business Directory"
+title: "Goodsprings, NV Business Directory"
+type: "towns"
 slug: "goodsprings-nv"
-state: "NV"
-county: "Clark"
-population: 232
+state: "nv"
+town_data: "goodsprings-nv"
 ---

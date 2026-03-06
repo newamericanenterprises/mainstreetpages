@@ -1,9 +1,7 @@
 ---
-title: "Verona, Kentucky Business Directory"
+title: "Verona, KY Business Directory"
+type: "towns"
 slug: "verona-ky"
-town: "Verona"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 3065
+state: "ky"
+town_data: "verona-ky"
 ---

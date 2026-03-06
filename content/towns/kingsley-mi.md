@@ -1,9 +1,7 @@
 ---
-title: "Kingsley, Michigan Business Directory"
+title: "Kingsley, MI Business Directory"
+type: "towns"
 slug: "kingsley-mi"
-town: "Kingsley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 4298
+state: "mi"
+town_data: "kingsley-mi"
 ---

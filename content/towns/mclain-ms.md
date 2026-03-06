@@ -1,7 +1,7 @@
 ---
-title: "McLain, Mississippi Business Directory"
+title: "Mclain, MS Business Directory"
+type: "towns"
 slug: "mclain-ms"
-state: "MS"
-county: "Greene"
-population: 634
+state: "ms"
+town_data: "mclain-ms"
 ---

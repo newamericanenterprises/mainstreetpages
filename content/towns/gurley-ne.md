@@ -1,7 +1,7 @@
 ---
-title: "Gurley, Nebraska Business Directory"
+title: "Gurley, NE Business Directory"
+type: "towns"
 slug: "gurley-ne"
-state: "NE"
-county: "Cheyenne"
-population: 500
+state: "ne"
+town_data: "gurley-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rembrandt, Iowa Business Directory"
+title: "Rembrandt, IA Business Directory"
+type: "towns"
 slug: "rembrandt-ia"
-town: "Rembrandt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 2747
+state: "ia"
+town_data: "rembrandt-ia"
 ---

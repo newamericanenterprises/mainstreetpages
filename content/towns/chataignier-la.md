@@ -1,9 +1,7 @@
 ---
-title: "Chataignier, Louisiana Business Directory"
+title: "Chataignier, LA Business Directory"
+type: "towns"
 slug: "chataignier-la"
-town: "Chataignier"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Evangeline"
-population: 2772
+state: "la"
+town_data: "chataignier-la"
 ---

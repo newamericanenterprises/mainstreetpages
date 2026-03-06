@@ -1,7 +1,7 @@
 ---
-title: "Ashland, Nebraska Business Directory"
+title: "Ashland, NE Business Directory"
+type: "towns"
 slug: "ashland-ne"
-state: "NE"
-county: "Saunders"
-population: 2845
+state: "ne"
+town_data: "ashland-ne"
 ---

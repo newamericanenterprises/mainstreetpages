@@ -1,9 +1,7 @@
 ---
-title: "Goldfield, Iowa Business Directory"
+title: "Goldfield, IA Business Directory"
+type: "towns"
 slug: "goldfield-ia"
-town: "Goldfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 2009
+state: "ia"
+town_data: "goldfield-ia"
 ---

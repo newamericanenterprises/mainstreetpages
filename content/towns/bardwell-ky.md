@@ -1,9 +1,7 @@
 ---
-title: "Bardwell, Kentucky Business Directory"
+title: "Bardwell, KY Business Directory"
+type: "towns"
 slug: "bardwell-ky"
-town: "Bardwell"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carlisle"
-population: 685
+state: "ky"
+town_data: "bardwell-ky"
 ---

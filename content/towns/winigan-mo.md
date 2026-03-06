@@ -1,7 +1,7 @@
 ---
-title: "Winigan, Missouri Business Directory"
+title: "Winigan, MO Business Directory"
+type: "towns"
 slug: "winigan-mo"
-state: "MO"
-county: "Sullivan"
-population: 1500
+state: "mo"
+town_data: "winigan-mo"
 ---

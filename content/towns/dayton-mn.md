@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Minnesota Business Directory"
+title: "Dayton, MN Business Directory"
+type: "towns"
 slug: "dayton-mn"
-town: "Dayton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2994
+state: "mn"
+town_data: "dayton-mn"
 ---

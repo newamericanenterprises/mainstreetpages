@@ -1,9 +1,7 @@
 ---
-title: "Oak Ridge, Louisiana Business Directory"
+title: "Oak Ridge, LA Business Directory"
+type: "towns"
 slug: "oak-ridge-la"
-town: "Oak Ridge"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Morehouse"
-population: 3091
+state: "la"
+town_data: "oak-ridge-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hawarden, Iowa Business Directory"
+title: "Hawarden, IA Business Directory"
+type: "towns"
 slug: "hawarden-ia"
-town: "Hawarden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 1707
+state: "ia"
+town_data: "hawarden-ia"
 ---

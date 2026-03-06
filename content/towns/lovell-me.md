@@ -1,9 +1,7 @@
 ---
-title: "Lovell, Maine Business Directory"
+title: "Lovell, ME Business Directory"
+type: "towns"
 slug: "lovell-me"
-town: "Lovell"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 481
+state: "me"
+town_data: "lovell-me"
 ---

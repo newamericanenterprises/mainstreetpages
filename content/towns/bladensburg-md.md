@@ -1,9 +1,7 @@
 ---
-title: "Bladensburg, Maryland Business Directory"
+title: "Bladensburg, MD Business Directory"
+type: "towns"
 slug: "bladensburg-md"
-town: "Bladensburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2426
+state: "md"
+town_data: "bladensburg-md"
 ---

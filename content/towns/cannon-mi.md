@@ -1,9 +1,7 @@
 ---
-title: "Cannon, Michigan Business Directory"
+title: "Cannon, MI Business Directory"
+type: "towns"
 slug: "cannon-mi"
-town: "Cannon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 4210
+state: "mi"
+town_data: "cannon-mi"
 ---

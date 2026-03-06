@@ -1,9 +1,7 @@
 ---
-title: "Fruitland, Maryland Business Directory"
+title: "Fruitland, MD Business Directory"
+type: "towns"
 slug: "fruitland-md"
-town: "Fruitland"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 5442
+state: "md"
+town_data: "fruitland-md"
 ---

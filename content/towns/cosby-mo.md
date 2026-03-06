@@ -1,7 +1,7 @@
 ---
-title: "Cosby, Missouri Business Directory"
+title: "Cosby, MO Business Directory"
+type: "towns"
 slug: "cosby-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "cosby-mo"
 ---

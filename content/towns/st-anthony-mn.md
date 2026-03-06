@@ -1,9 +1,7 @@
 ---
-title: "St. Anthony, Minnesota Business Directory"
+title: "St. Anthony, MN Business Directory"
+type: "towns"
 slug: "st-anthony-mn"
-town: "St. Anthony"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1011
+state: "mn"
+town_data: "st-anthony-mn"
 ---

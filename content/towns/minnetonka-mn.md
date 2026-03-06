@@ -1,9 +1,7 @@
 ---
-title: "Minnetonka, Minnesota Business Directory"
+title: "Minnetonka, MN Business Directory"
+type: "towns"
 slug: "minnetonka-mn"
-town: "Minnetonka"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 53781
+state: "mn"
+town_data: "minnetonka-mn"
 ---

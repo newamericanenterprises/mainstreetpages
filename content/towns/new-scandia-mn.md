@@ -1,9 +1,7 @@
 ---
-title: "New Scandia, Minnesota Business Directory"
+title: "New Scandia, MN Business Directory"
+type: "towns"
 slug: "new-scandia-mn"
-town: "New Scandia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1377
+state: "mn"
+town_data: "new-scandia-mn"
 ---

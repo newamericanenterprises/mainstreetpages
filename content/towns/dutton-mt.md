@@ -1,7 +1,7 @@
 ---
-title: "Dutton, Montana Business Directory"
+title: "Dutton, MT Business Directory"
+type: "towns"
 slug: "dutton-mt"
-state: "MT"
-county: "Teton"
-population: 320
+state: "mt"
+town_data: "dutton-mt"
 ---

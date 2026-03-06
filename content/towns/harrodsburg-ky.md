@@ -1,9 +1,7 @@
 ---
-title: "Harrodsburg, Kentucky Business Directory"
+title: "Harrodsburg, KY Business Directory"
+type: "towns"
 slug: "harrodsburg-ky"
-town: "Harrodsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mercer"
-population: 8529
+state: "ky"
+town_data: "harrodsburg-ky"
 ---

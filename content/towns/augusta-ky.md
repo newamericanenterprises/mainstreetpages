@@ -1,9 +1,7 @@
 ---
-title: "Augusta, Kentucky Business Directory"
+title: "Augusta, KY Business Directory"
+type: "towns"
 slug: "augusta-ky"
-town: "Augusta"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bracken"
-population: 1168
+state: "ky"
+town_data: "augusta-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Overbrook, Kansas Business Directory"
+title: "Overbrook, KS Business Directory"
+type: "towns"
 slug: "overbrook-ks"
-town: "Overbrook"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 2686
+state: "ks"
+town_data: "overbrook-ks"
 ---

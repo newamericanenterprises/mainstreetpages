@@ -1,9 +1,7 @@
 ---
-title: "Knottsville, Kentucky Business Directory"
+title: "Knottsville, KY Business Directory"
+type: "towns"
 slug: "knottsville-ky"
-town: "Knottsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Daviess"
-population: 764
+state: "ky"
+town_data: "knottsville-ky"
 ---

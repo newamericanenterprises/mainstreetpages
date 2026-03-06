@@ -1,9 +1,7 @@
 ---
-title: "Lyle, Minnesota Business Directory"
+title: "Lyle, MN Business Directory"
+type: "towns"
 slug: "lyle-mn"
-town: "Lyle"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 2563
+state: "mn"
+town_data: "lyle-mn"
 ---

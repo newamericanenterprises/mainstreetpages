@@ -1,9 +1,7 @@
 ---
-title: "La Plata, Maryland Business Directory"
+title: "La Plata, MD Business Directory"
+type: "towns"
 slug: "la-plata-md"
-town: "La Plata"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 9516
+state: "md"
+town_data: "la-plata-md"
 ---

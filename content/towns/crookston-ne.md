@@ -1,7 +1,7 @@
 ---
-title: "Crookston, Nebraska Business Directory"
+title: "Crookston, NE Business Directory"
+type: "towns"
 slug: "crookston-ne"
-state: "NE"
-county: "Cherry"
-population: 500
+state: "ne"
+town_data: "crookston-ne"
 ---

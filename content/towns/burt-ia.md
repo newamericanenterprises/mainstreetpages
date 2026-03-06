@@ -1,9 +1,7 @@
 ---
-title: "Burt, Iowa Business Directory"
+title: "Burt, IA Business Directory"
+type: "towns"
 slug: "burt-ia"
-town: "Burt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 1689
+state: "ia"
+town_data: "burt-ia"
 ---

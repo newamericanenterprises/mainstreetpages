@@ -1,9 +1,7 @@
 ---
-title: "Sobieski, Minnesota Business Directory"
+title: "Sobieski, MN Business Directory"
+type: "towns"
 slug: "sobieski-mn"
-town: "Sobieski"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 2873
+state: "mn"
+town_data: "sobieski-mn"
 ---

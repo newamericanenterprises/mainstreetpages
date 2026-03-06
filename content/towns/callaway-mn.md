@@ -1,9 +1,7 @@
 ---
-title: "Callaway, Minnesota Business Directory"
+title: "Callaway, MN Business Directory"
+type: "towns"
 slug: "callaway-mn"
-town: "Callaway"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 1939
+state: "mn"
+town_data: "callaway-mn"
 ---

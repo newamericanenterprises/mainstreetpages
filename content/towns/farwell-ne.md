@@ -1,7 +1,7 @@
 ---
-title: "Farwell, Nebraska Business Directory"
+title: "Farwell, NE Business Directory"
+type: "towns"
 slug: "farwell-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "farwell-ne"
 ---

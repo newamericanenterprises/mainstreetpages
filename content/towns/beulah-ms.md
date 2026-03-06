@@ -1,7 +1,7 @@
 ---
-title: "Beulah, Mississippi Business Directory"
+title: "Beulah, MS Business Directory"
+type: "towns"
 slug: "beulah-ms"
-state: "MS"
-county: "Bolivar"
-population: 399
+state: "ms"
+town_data: "beulah-ms"
 ---

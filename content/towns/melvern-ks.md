@@ -1,9 +1,7 @@
 ---
-title: "Melvern, Kansas Business Directory"
+title: "Melvern, KS Business Directory"
+type: "towns"
 slug: "melvern-ks"
-town: "Melvern"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 624
+state: "ks"
+town_data: "melvern-ks"
 ---

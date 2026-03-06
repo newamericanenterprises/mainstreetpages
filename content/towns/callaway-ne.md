@@ -1,7 +1,7 @@
 ---
-title: "Callaway, Nebraska Business Directory"
+title: "Callaway, NE Business Directory"
+type: "towns"
 slug: "callaway-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "callaway-ne"
 ---

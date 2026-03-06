@@ -1,7 +1,7 @@
 ---
-title: "Silver Springs, Nevada Business Directory"
+title: "Silver Springs, NV Business Directory"
+type: "towns"
 slug: "silver-springs-nv"
-state: "NV"
-county: "Lyon"
-population: 6024
+state: "nv"
+town_data: "silver-springs-nv"
 ---

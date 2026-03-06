@@ -1,9 +1,7 @@
 ---
-title: "Eunice, Louisiana Business Directory"
+title: "Eunice, LA Business Directory"
+type: "towns"
 slug: "eunice-la"
-town: "Eunice"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 9944
+state: "la"
+town_data: "eunice-la"
 ---

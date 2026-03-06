@@ -1,7 +1,7 @@
 ---
-title: "Mindenmines, Missouri Business Directory"
+title: "Mindenmines, MO Business Directory"
+type: "towns"
 slug: "mindenmines-mo"
-state: "MO"
-county: "Barton"
-population: 1500
+state: "mo"
+town_data: "mindenmines-mo"
 ---

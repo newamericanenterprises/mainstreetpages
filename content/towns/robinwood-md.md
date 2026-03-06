@@ -1,9 +1,7 @@
 ---
-title: "Robinwood, Maryland Business Directory"
+title: "Robinwood, MD Business Directory"
+type: "towns"
 slug: "robinwood-md"
-town: "Robinwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 1468
+state: "md"
+town_data: "robinwood-md"
 ---

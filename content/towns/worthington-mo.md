@@ -1,7 +1,7 @@
 ---
-title: "Worthington, Missouri Business Directory"
+title: "Worthington, MO Business Directory"
+type: "towns"
 slug: "worthington-mo"
-state: "MO"
-county: "Putnam"
-population: 1500
+state: "mo"
+town_data: "worthington-mo"
 ---

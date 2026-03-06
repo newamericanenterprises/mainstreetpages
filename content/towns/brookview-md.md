@@ -1,9 +1,7 @@
 ---
-title: "Brookview, Maryland Business Directory"
+title: "Brookview, MD Business Directory"
+type: "towns"
 slug: "brookview-md"
-town: "Brookview"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 2265
+state: "md"
+town_data: "brookview-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shannon, Mississippi Business Directory"
+title: "Shannon, MS Business Directory"
+type: "towns"
 slug: "shannon-ms"
-state: "MS"
-county: "Lee"
-population: 1733
+state: "ms"
+town_data: "shannon-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Manhattan, Montana Business Directory"
+title: "Manhattan, MT Business Directory"
+type: "towns"
 slug: "manhattan-mt"
-state: "MT"
-county: "Gallatin"
-population: 2079
+state: "mt"
+town_data: "manhattan-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Burnham, Maine Business Directory"
+title: "Burnham, ME Business Directory"
+type: "towns"
 slug: "burnham-me"
-town: "Burnham"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1588
+state: "me"
+town_data: "burnham-me"
 ---

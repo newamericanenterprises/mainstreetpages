@@ -1,7 +1,7 @@
 ---
-title: "Montello, Nevada Business Directory"
+title: "Montello, NV Business Directory"
+type: "towns"
 slug: "montello-nv"
-state: "NV"
-county: "Elko"
-population: 74
+state: "nv"
+town_data: "montello-nv"
 ---

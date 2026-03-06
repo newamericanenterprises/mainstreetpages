@@ -1,9 +1,7 @@
 ---
-title: "Laporte, Minnesota Business Directory"
+title: "Laporte, MN Business Directory"
+type: "towns"
 slug: "laporte-mn"
-town: "Laporte"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hubbard"
-population: 2734
+state: "mn"
+town_data: "laporte-mn"
 ---

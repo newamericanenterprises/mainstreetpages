@@ -1,7 +1,7 @@
 ---
-title: "Hilger, Montana Business Directory"
+title: "Hilger, MT Business Directory"
+type: "towns"
 slug: "hilger-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "hilger-mt"
 ---

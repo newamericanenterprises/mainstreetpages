@@ -1,7 +1,7 @@
 ---
-title: "Wesson, Mississippi Business Directory"
+title: "Wesson, MS Business Directory"
+type: "towns"
 slug: "wesson-ms"
-state: "MS"
-county: "Copiah"
-population: 1817
+state: "ms"
+town_data: "wesson-ms"
 ---

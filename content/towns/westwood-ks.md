@@ -1,9 +1,7 @@
 ---
-title: "Westwood, Kansas Business Directory"
+title: "Westwood, KS Business Directory"
+type: "towns"
 slug: "westwood-ks"
-town: "Westwood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 2673
+state: "ks"
+town_data: "westwood-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Robeline, Louisiana Business Directory"
+title: "Robeline, LA Business Directory"
+type: "towns"
 slug: "robeline-la"
-town: "Robeline"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 2353
+state: "la"
+town_data: "robeline-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vicco, Kentucky Business Directory"
+title: "Vicco, KY Business Directory"
+type: "towns"
 slug: "vicco-ky"
-town: "Vicco"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Perry"
-population: 565
+state: "ky"
+town_data: "vicco-ky"
 ---

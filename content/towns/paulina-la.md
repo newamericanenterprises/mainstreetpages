@@ -1,9 +1,7 @@
 ---
-title: "Paulina, Louisiana Business Directory"
+title: "Paulina, LA Business Directory"
+type: "towns"
 slug: "paulina-la"
-town: "Paulina"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. James"
-population: 2799
+state: "la"
+town_data: "paulina-la"
 ---

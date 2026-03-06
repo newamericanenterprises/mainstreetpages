@@ -1,9 +1,7 @@
 ---
-title: "Dresden, Maine Business Directory"
+title: "Dresden, ME Business Directory"
+type: "towns"
 slug: "dresden-me"
-town: "Dresden"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 1600
+state: "me"
+town_data: "dresden-me"
 ---

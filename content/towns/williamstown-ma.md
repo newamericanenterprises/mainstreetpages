@@ -1,9 +1,7 @@
 ---
-title: "Williamstown, Massachusetts Business Directory"
+title: "Williamstown, MA Business Directory"
+type: "towns"
 slug: "williamstown-ma"
-town: "Williamstown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 7513
+state: "ma"
+town_data: "williamstown-ma"
 ---

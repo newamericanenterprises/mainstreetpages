@@ -1,9 +1,7 @@
 ---
-title: "Santiago, Minnesota Business Directory"
+title: "Santiago, MN Business Directory"
+type: "towns"
 slug: "santiago-mn"
-town: "Santiago"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 412
+state: "mn"
+town_data: "santiago-mn"
 ---

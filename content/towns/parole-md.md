@@ -1,9 +1,7 @@
 ---
-title: "Parole, Maryland Business Directory"
+title: "Parole, MD Business Directory"
+type: "towns"
 slug: "parole-md"
-town: "Parole"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 1339
+state: "md"
+town_data: "parole-md"
 ---

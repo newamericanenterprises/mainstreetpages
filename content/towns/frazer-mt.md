@@ -1,7 +1,7 @@
 ---
-title: "Frazer, Montana Business Directory"
+title: "Frazer, MT Business Directory"
+type: "towns"
 slug: "frazer-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "frazer-mt"
 ---

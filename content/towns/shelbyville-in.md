@@ -1,9 +1,7 @@
 ---
-title: "Shelbyville, Indiana Business Directory"
+title: "Shelbyville, IN Business Directory"
+type: "towns"
 slug: "shelbyville-in"
-town: "Shelbyville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Shelby"
-population: 19712
+state: "in"
+town_data: "shelbyville-in"
 ---

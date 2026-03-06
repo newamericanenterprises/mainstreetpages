@@ -1,9 +1,7 @@
 ---
-title: "Waltham, Massachusetts Business Directory"
+title: "Waltham, MA Business Directory"
+type: "towns"
 slug: "waltham-ma"
-town: "Waltham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 65227
+state: "ma"
+town_data: "waltham-ma"
 ---

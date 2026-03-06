@@ -1,9 +1,7 @@
 ---
-title: "Fonda, Iowa Business Directory"
+title: "Fonda, IA Business Directory"
+type: "towns"
 slug: "fonda-ia"
-town: "Fonda"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1193
+state: "ia"
+town_data: "fonda-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Le Sueur, Minnesota Business Directory"
+title: "Le Sueur, MN Business Directory"
+type: "towns"
 slug: "le-sueur-mn"
-town: "Le Sueur"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 464
+state: "mn"
+town_data: "le-sueur-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Duquesne, Missouri Business Directory"
+title: "Duquesne, MO Business Directory"
+type: "towns"
 slug: "duquesne-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "duquesne-mo"
 ---

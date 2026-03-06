@@ -1,9 +1,7 @@
 ---
-title: "Garrett Park, Maryland Business Directory"
+title: "Garrett Park, MD Business Directory"
+type: "towns"
 slug: "garrett-park-md"
-town: "Garrett Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3179
+state: "md"
+town_data: "garrett-park-md"
 ---

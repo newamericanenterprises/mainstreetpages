@@ -1,7 +1,7 @@
 ---
-title: "Humphrey, Nebraska Business Directory"
+title: "Humphrey, NE Business Directory"
+type: "towns"
 slug: "humphrey-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "humphrey-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Champion, Nebraska Business Directory"
+title: "Champion, NE Business Directory"
+type: "towns"
 slug: "champion-ne"
-state: "NE"
-county: "Chase"
-population: 500
+state: "ne"
+town_data: "champion-ne"
 ---

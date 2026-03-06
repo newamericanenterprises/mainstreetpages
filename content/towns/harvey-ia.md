@@ -1,9 +1,7 @@
 ---
-title: "Harvey, Iowa Business Directory"
+title: "Harvey, IA Business Directory"
+type: "towns"
 slug: "harvey-ia"
-town: "Harvey"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 508
+state: "ia"
+town_data: "harvey-ia"
 ---

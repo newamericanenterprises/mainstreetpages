@@ -1,9 +1,7 @@
 ---
-title: "Birmingham, Michigan Business Directory"
+title: "Birmingham, MI Business Directory"
+type: "towns"
 slug: "birmingham-mi"
-town: "Birmingham"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 21457
+state: "mi"
+town_data: "birmingham-mi"
 ---

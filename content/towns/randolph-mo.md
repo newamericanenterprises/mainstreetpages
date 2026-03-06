@@ -1,7 +1,7 @@
 ---
-title: "Randolph, Missouri Business Directory"
+title: "Randolph, MO Business Directory"
+type: "towns"
 slug: "randolph-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "randolph-mo"
 ---

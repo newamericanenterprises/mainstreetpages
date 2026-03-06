@@ -1,9 +1,7 @@
 ---
-title: "Longton, Kansas Business Directory"
+title: "Longton, KS Business Directory"
+type: "towns"
 slug: "longton-ks"
-town: "Longton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Elk"
-population: 2653
+state: "ks"
+town_data: "longton-ks"
 ---

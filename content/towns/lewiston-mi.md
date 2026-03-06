@@ -1,9 +1,7 @@
 ---
-title: "Lewiston, Michigan Business Directory"
+title: "Lewiston, MI Business Directory"
+type: "towns"
 slug: "lewiston-mi"
-town: "Lewiston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montmorency"
-population: 664
+state: "mi"
+town_data: "lewiston-mi"
 ---

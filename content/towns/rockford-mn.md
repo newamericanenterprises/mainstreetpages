@@ -1,9 +1,7 @@
 ---
-title: "Rockford, Minnesota Business Directory"
+title: "Rockford, MN Business Directory"
+type: "towns"
 slug: "rockford-mn"
-town: "Rockford"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 1984
+state: "mn"
+town_data: "rockford-mn"
 ---

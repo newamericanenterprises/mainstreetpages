@@ -1,9 +1,7 @@
 ---
-title: "Shannon City, Iowa Business Directory"
+title: "Shannon City, IA Business Directory"
+type: "towns"
 slug: "shannon-city-ia"
-town: "Shannon City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 1357
+state: "ia"
+town_data: "shannon-city-ia"
 ---

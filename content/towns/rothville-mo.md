@@ -1,7 +1,7 @@
 ---
-title: "Rothville, Missouri Business Directory"
+title: "Rothville, MO Business Directory"
+type: "towns"
 slug: "rothville-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "rothville-mo"
 ---

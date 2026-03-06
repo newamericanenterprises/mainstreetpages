@@ -1,7 +1,7 @@
 ---
-title: "Holbrook, Nebraska Business Directory"
+title: "Holbrook, NE Business Directory"
+type: "towns"
 slug: "holbrook-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "holbrook-ne"
 ---

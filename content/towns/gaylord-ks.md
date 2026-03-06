@@ -1,9 +1,7 @@
 ---
-title: "Gaylord, Kansas Business Directory"
+title: "Gaylord, KS Business Directory"
+type: "towns"
 slug: "gaylord-ks"
-town: "Gaylord"
-state: "Kansas"
-state_abbr: "KS"
-county: "Smith"
-population: 725
+state: "ks"
+town_data: "gaylord-ks"
 ---

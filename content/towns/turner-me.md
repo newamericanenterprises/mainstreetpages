@@ -1,9 +1,7 @@
 ---
-title: "Turner, Maine Business Directory"
+title: "Turner, ME Business Directory"
+type: "towns"
 slug: "turner-me"
-town: "Turner"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 364
+state: "me"
+town_data: "turner-me"
 ---

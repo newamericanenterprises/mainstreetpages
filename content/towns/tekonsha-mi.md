@@ -1,9 +1,7 @@
 ---
-title: "Tekonsha, Michigan Business Directory"
+title: "Tekonsha, MI Business Directory"
+type: "towns"
 slug: "tekonsha-mi"
-town: "Tekonsha"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 4203
+state: "mi"
+town_data: "tekonsha-mi"
 ---

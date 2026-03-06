@@ -1,9 +1,7 @@
 ---
-title: "Pine Springs, Minnesota Business Directory"
+title: "Pine Springs, MN Business Directory"
+type: "towns"
 slug: "pine-springs-mn"
-town: "Pine Springs"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1577
+state: "mn"
+town_data: "pine-springs-mn"
 ---

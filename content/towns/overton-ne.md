@@ -1,7 +1,7 @@
 ---
-title: "Overton, Nebraska Business Directory"
+title: "Overton, NE Business Directory"
+type: "towns"
 slug: "overton-ne"
-state: "NE"
-county: "Dawson"
-population: 500
+state: "ne"
+town_data: "overton-ne"
 ---

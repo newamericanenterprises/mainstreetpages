@@ -1,7 +1,7 @@
 ---
-title: "Black Jack, Missouri Business Directory"
+title: "Black Jack, MO Business Directory"
+type: "towns"
 slug: "black-jack-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "black-jack-mo"
 ---

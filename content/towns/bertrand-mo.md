@@ -1,7 +1,7 @@
 ---
-title: "Bertrand, Missouri Business Directory"
+title: "Bertrand, MO Business Directory"
+type: "towns"
 slug: "bertrand-mo"
-state: "MO"
-county: "Mississippi"
-population: 1500
+state: "mo"
+town_data: "bertrand-mo"
 ---

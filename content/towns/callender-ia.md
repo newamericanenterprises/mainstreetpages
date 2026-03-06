@@ -1,9 +1,7 @@
 ---
-title: "Callender, Iowa Business Directory"
+title: "Callender, IA Business Directory"
+type: "towns"
 slug: "callender-ia"
-town: "Callender"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1479
+state: "ia"
+town_data: "callender-ia"
 ---

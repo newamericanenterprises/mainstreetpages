@@ -1,7 +1,7 @@
 ---
-title: "Crosby, Mississippi Business Directory"
+title: "Crosby, MS Business Directory"
+type: "towns"
 slug: "crosby-ms"
-state: "MS"
-county: "Amite"
-population: 310
+state: "ms"
+town_data: "crosby-ms"
 ---

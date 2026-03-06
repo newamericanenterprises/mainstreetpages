@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Indiana Business Directory"
+title: "Dayton, IN Business Directory"
+type: "towns"
 slug: "dayton-in"
-town: "Dayton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tippecanoe"
-population: 2304
+state: "in"
+town_data: "dayton-in"
 ---

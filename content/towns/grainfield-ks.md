@@ -1,9 +1,7 @@
 ---
-title: "Grainfield, Kansas Business Directory"
+title: "Grainfield, KS Business Directory"
+type: "towns"
 slug: "grainfield-ks"
-town: "Grainfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gove"
-population: 2618
+state: "ks"
+town_data: "grainfield-ks"
 ---

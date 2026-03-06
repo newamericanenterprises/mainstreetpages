@@ -1,9 +1,7 @@
 ---
-title: "St. Gabriel, Louisiana Business Directory"
+title: "St. Gabriel, LA Business Directory"
+type: "towns"
 slug: "st-gabriel-la"
-town: "St. Gabriel"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 1186
+state: "la"
+town_data: "st-gabriel-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lancaster, Kansas Business Directory"
+title: "Lancaster, KS Business Directory"
+type: "towns"
 slug: "lancaster-ks"
-town: "Lancaster"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 1968
+state: "ks"
+town_data: "lancaster-ks"
 ---

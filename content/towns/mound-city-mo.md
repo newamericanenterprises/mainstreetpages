@@ -1,7 +1,7 @@
 ---
-title: "Mound City, Missouri Business Directory"
+title: "Mound City, MO Business Directory"
+type: "towns"
 slug: "mound-city-mo"
-state: "MO"
-county: "Holt"
-population: 1076
+state: "mo"
+town_data: "mound-city-mo"
 ---

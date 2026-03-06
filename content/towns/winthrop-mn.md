@@ -1,9 +1,7 @@
 ---
-title: "Winthrop, Minnesota Business Directory"
+title: "Winthrop, MN Business Directory"
+type: "towns"
 slug: "winthrop-mn"
-town: "Winthrop"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 531
+state: "mn"
+town_data: "winthrop-mn"
 ---

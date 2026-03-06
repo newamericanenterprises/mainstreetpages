@@ -1,9 +1,7 @@
 ---
-title: "Menominee, Michigan Business Directory"
+title: "Menominee, MI Business Directory"
+type: "towns"
 slug: "menominee-mi"
-town: "Menominee"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 1432
+state: "mi"
+town_data: "menominee-mi"
 ---

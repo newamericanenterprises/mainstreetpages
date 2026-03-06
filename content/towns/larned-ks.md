@@ -1,9 +1,7 @@
 ---
-title: "Larned, Kansas Business Directory"
+title: "Larned, KS Business Directory"
+type: "towns"
 slug: "larned-ks"
-town: "Larned"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pawnee"
-population: 3841
+state: "ks"
+town_data: "larned-ks"
 ---

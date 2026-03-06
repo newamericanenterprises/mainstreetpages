@@ -1,7 +1,7 @@
 ---
-title: "Bethel, Missouri Business Directory"
+title: "Bethel, MO Business Directory"
+type: "towns"
 slug: "bethel-mo"
-state: "MO"
-county: "Shelby"
-population: 1500
+state: "mo"
+town_data: "bethel-mo"
 ---

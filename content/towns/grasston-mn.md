@@ -1,9 +1,7 @@
 ---
-title: "Grasston, Minnesota Business Directory"
+title: "Grasston, MN Business Directory"
+type: "towns"
 slug: "grasston-mn"
-town: "Grasston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kanabec"
-population: 3295
+state: "mn"
+town_data: "grasston-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Abbyville, Kansas Business Directory"
+title: "Abbyville, KS Business Directory"
+type: "towns"
 slug: "abbyville-ks"
-town: "Abbyville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 1426
+state: "ks"
+town_data: "abbyville-ks"
 ---

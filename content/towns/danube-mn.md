@@ -1,9 +1,7 @@
 ---
-title: "Danube, Minnesota Business Directory"
+title: "Danube, MN Business Directory"
+type: "towns"
 slug: "danube-mn"
-town: "Danube"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 1754
+state: "mn"
+town_data: "danube-mn"
 ---

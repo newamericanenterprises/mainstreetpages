@@ -1,9 +1,7 @@
 ---
-title: "Carlisle, Iowa Business Directory"
+title: "Carlisle, IA Business Directory"
+type: "towns"
 slug: "carlisle-ia"
-town: "Carlisle"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 1398
+state: "ia"
+town_data: "carlisle-ia"
 ---

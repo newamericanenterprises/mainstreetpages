@@ -1,9 +1,7 @@
 ---
-title: "New York Mills, Minnesota Business Directory"
+title: "New York Mills, MN Business Directory"
+type: "towns"
 slug: "new-york-mills-mn"
-town: "New York Mills"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1459
+state: "mn"
+town_data: "new-york-mills-mn"
 ---

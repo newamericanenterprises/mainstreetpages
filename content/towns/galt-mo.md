@@ -1,7 +1,7 @@
 ---
-title: "Galt, Missouri Business Directory"
+title: "Galt, MO Business Directory"
+type: "towns"
 slug: "galt-mo"
-state: "MO"
-county: "Grundy"
-population: 1500
+state: "mo"
+town_data: "galt-mo"
 ---

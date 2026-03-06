@@ -1,7 +1,7 @@
 ---
-title: "Silver City, Mississippi Business Directory"
+title: "Silver City, MS Business Directory"
+type: "towns"
 slug: "silver-city-ms"
-state: "MS"
-county: "Humphreys"
-population: 272
+state: "ms"
+town_data: "silver-city-ms"
 ---

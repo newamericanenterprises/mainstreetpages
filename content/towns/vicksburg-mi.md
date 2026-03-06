@@ -1,9 +1,7 @@
 ---
-title: "Vicksburg, Michigan Business Directory"
+title: "Vicksburg, MI Business Directory"
+type: "towns"
 slug: "vicksburg-mi"
-town: "Vicksburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 4113
+state: "mi"
+town_data: "vicksburg-mi"
 ---

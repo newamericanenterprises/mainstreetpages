@@ -1,7 +1,7 @@
 ---
-title: "Knob Lick, Missouri Business Directory"
+title: "Knob Lick, MO Business Directory"
+type: "towns"
 slug: "knob-lick-mo"
-state: "MO"
-county: "St. Francois"
-population: 1500
+state: "mo"
+town_data: "knob-lick-mo"
 ---

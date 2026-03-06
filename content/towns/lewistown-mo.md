@@ -1,7 +1,7 @@
 ---
-title: "Lewistown, Missouri Business Directory"
+title: "Lewistown, MO Business Directory"
+type: "towns"
 slug: "lewistown-mo"
-state: "MO"
-county: "Lewis"
-population: 1500
+state: "mo"
+town_data: "lewistown-mo"
 ---

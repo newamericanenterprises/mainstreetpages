@@ -1,9 +1,7 @@
 ---
-title: "Newry, Maine Business Directory"
+title: "Newry, ME Business Directory"
+type: "towns"
 slug: "newry-me"
-town: "Newry"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2577
+state: "me"
+town_data: "newry-me"
 ---

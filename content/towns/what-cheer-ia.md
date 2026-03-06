@@ -1,9 +1,7 @@
 ---
-title: "What Cheer, Iowa Business Directory"
+title: "What Cheer, IA Business Directory"
+type: "towns"
 slug: "what-cheer-ia"
-town: "What Cheer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 796
+state: "ia"
+town_data: "what-cheer-ia"
 ---

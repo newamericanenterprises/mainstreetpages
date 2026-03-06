@@ -1,9 +1,7 @@
 ---
-title: "Cockeysville, Maryland Business Directory"
+title: "Cockeysville, MD Business Directory"
+type: "towns"
 slug: "cockeysville-md"
-town: "Cockeysville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 1234
+state: "md"
+town_data: "cockeysville-md"
 ---

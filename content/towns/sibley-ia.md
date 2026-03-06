@@ -1,9 +1,7 @@
 ---
-title: "Sibley, Iowa Business Directory"
+title: "Sibley, IA Business Directory"
+type: "towns"
 slug: "sibley-ia"
-town: "Sibley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Osceola"
-population: 2798
+state: "ia"
+town_data: "sibley-ia"
 ---

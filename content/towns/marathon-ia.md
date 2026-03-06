@@ -1,9 +1,7 @@
 ---
-title: "Marathon, Iowa Business Directory"
+title: "Marathon, IA Business Directory"
+type: "towns"
 slug: "marathon-ia"
-town: "Marathon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 1227
+state: "ia"
+town_data: "marathon-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Loranger, Louisiana Business Directory"
+title: "Loranger, LA Business Directory"
+type: "towns"
 slug: "loranger-la"
-town: "Loranger"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 1964
+state: "la"
+town_data: "loranger-la"
 ---

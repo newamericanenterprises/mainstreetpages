@@ -1,7 +1,7 @@
 ---
-title: "Poplarville, Mississippi Business Directory"
+title: "Poplarville, MS Business Directory"
+type: "towns"
 slug: "poplarville-ms"
-state: "MS"
-county: "Pearl River"
-population: 2876
+state: "ms"
+town_data: "poplarville-ms"
 ---

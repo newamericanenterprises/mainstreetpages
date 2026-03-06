@@ -1,9 +1,7 @@
 ---
-title: "Milan, Minnesota Business Directory"
+title: "Milan, MN Business Directory"
+type: "towns"
 slug: "milan-mn"
-town: "Milan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chippewa"
-population: 1386
+state: "mn"
+town_data: "milan-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Buffalo, Missouri Business Directory"
+title: "Buffalo, MO Business Directory"
+type: "towns"
 slug: "buffalo-mo"
-state: "MO"
-county: "Dallas"
-population: 3084
+state: "mo"
+town_data: "buffalo-mo"
 ---

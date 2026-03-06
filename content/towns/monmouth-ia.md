@@ -1,9 +1,7 @@
 ---
-title: "Monmouth, Iowa Business Directory"
+title: "Monmouth, IA Business Directory"
+type: "towns"
 slug: "monmouth-ia"
-town: "Monmouth"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 1067
+state: "ia"
+town_data: "monmouth-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pillager, Minnesota Business Directory"
+title: "Pillager, MN Business Directory"
+type: "towns"
 slug: "pillager-mn"
-town: "Pillager"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 1127
+state: "mn"
+town_data: "pillager-mn"
 ---

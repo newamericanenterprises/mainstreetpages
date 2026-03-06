@@ -1,7 +1,7 @@
 ---
-title: "Grandview, Missouri Business Directory"
+title: "Grandview, MO Business Directory"
+type: "towns"
 slug: "grandview-mo"
-state: "MO"
-county: "Jackson"
-population: 25505
+state: "mo"
+town_data: "grandview-mo"
 ---

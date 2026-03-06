@@ -1,9 +1,7 @@
 ---
-title: "Maurice, Louisiana Business Directory"
+title: "Maurice, LA Business Directory"
+type: "towns"
 slug: "maurice-la"
-town: "Maurice"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 1270
+state: "la"
+town_data: "maurice-la"
 ---

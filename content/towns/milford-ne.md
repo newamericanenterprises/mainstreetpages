@@ -1,7 +1,7 @@
 ---
-title: "Milford, Nebraska Business Directory"
+title: "Milford, NE Business Directory"
+type: "towns"
 slug: "milford-ne"
-state: "NE"
-county: "Seward"
-population: 2145
+state: "ne"
+town_data: "milford-ne"
 ---

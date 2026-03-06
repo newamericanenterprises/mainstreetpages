@@ -1,9 +1,7 @@
 ---
-title: "Lockport, Louisiana Business Directory"
+title: "Lockport, LA Business Directory"
+type: "towns"
 slug: "lockport-la"
-town: "Lockport"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 1756
+state: "la"
+town_data: "lockport-la"
 ---

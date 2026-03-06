@@ -1,7 +1,7 @@
 ---
-title: "Crawford, Mississippi Business Directory"
+title: "Crawford, MS Business Directory"
+type: "towns"
 slug: "crawford-ms"
-state: "MS"
-county: "Lowndes"
-population: 659
+state: "ms"
+town_data: "crawford-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Allerton, Iowa Business Directory"
+title: "Allerton, IA Business Directory"
+type: "towns"
 slug: "allerton-ia"
-town: "Allerton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wayne"
-population: 1460
+state: "ia"
+town_data: "allerton-ia"
 ---

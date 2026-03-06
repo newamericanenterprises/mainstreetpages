@@ -1,9 +1,7 @@
 ---
-title: "Delphos, Kansas Business Directory"
+title: "Delphos, KS Business Directory"
+type: "towns"
 slug: "delphos-ks"
-town: "Delphos"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ottawa"
-population: 2224
+state: "ks"
+town_data: "delphos-ks"
 ---

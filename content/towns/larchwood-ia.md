@@ -1,9 +1,7 @@
 ---
-title: "Larchwood, Iowa Business Directory"
+title: "Larchwood, IA Business Directory"
+type: "towns"
 slug: "larchwood-ia"
-town: "Larchwood"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 1573
+state: "ia"
+town_data: "larchwood-ia"
 ---

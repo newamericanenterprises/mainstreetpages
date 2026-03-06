@@ -1,9 +1,7 @@
 ---
-title: "Newellton, Louisiana Business Directory"
+title: "Newellton, LA Business Directory"
+type: "towns"
 slug: "newellton-la"
-town: "Newellton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tensas"
-population: 1157
+state: "la"
+town_data: "newellton-la"
 ---

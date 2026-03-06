@@ -1,9 +1,7 @@
 ---
-title: "Greensburg, Louisiana Business Directory"
+title: "Greensburg, LA Business Directory"
+type: "towns"
 slug: "greensburg-la"
-town: "Greensburg"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Helena"
-population: 1086
+state: "la"
+town_data: "greensburg-la"
 ---

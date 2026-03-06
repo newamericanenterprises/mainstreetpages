@@ -1,7 +1,7 @@
 ---
-title: "Wilcox, Nebraska Business Directory"
+title: "Wilcox, NE Business Directory"
+type: "towns"
 slug: "wilcox-ne"
-state: "NE"
-county: "Kearney"
-population: 500
+state: "ne"
+town_data: "wilcox-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Cruger, Mississippi Business Directory"
+title: "Cruger, MS Business Directory"
+type: "towns"
 slug: "cruger-ms"
-state: "MS"
-county: "Holmes"
-population: 395
+state: "ms"
+town_data: "cruger-ms"
 ---

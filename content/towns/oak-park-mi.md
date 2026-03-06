@@ -1,9 +1,7 @@
 ---
-title: "Oak Park, Michigan Business Directory"
+title: "Oak Park, MI Business Directory"
+type: "towns"
 slug: "oak-park-mi"
-town: "Oak Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4613
+state: "mi"
+town_data: "oak-park-mi"
 ---

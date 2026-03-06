@@ -1,9 +1,7 @@
 ---
-title: "Elyria, Kansas Business Directory"
+title: "Elyria, KS Business Directory"
+type: "towns"
 slug: "elyria-ks"
-town: "Elyria"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 3222
+state: "ks"
+town_data: "elyria-ks"
 ---

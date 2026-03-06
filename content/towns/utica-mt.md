@@ -1,7 +1,7 @@
 ---
-title: "Utica, Montana Business Directory"
+title: "Utica, MT Business Directory"
+type: "towns"
 slug: "utica-mt"
-state: "MT"
-county: "Judith Basin"
-population: 500
+state: "mt"
+town_data: "utica-mt"
 ---

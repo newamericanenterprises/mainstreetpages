@@ -1,9 +1,7 @@
 ---
-title: "Ashland, Massachusetts Business Directory"
+title: "Ashland, MA Business Directory"
+type: "towns"
 slug: "ashland-ma"
-town: "Ashland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 5570
+state: "ma"
+town_data: "ashland-ma"
 ---

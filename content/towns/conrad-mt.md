@@ -1,7 +1,7 @@
 ---
-title: "Conrad, Montana Business Directory"
+title: "Conrad, MT Business Directory"
+type: "towns"
 slug: "conrad-mt"
-state: "MT"
-county: "Pondera"
-population: 2570
+state: "mt"
+town_data: "conrad-mt"
 ---

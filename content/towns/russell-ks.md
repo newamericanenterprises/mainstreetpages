@@ -1,9 +1,7 @@
 ---
-title: "Russell, Kansas Business Directory"
+title: "Russell, KS Business Directory"
+type: "towns"
 slug: "russell-ks"
-town: "Russell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 4460
+state: "ks"
+town_data: "russell-ks"
 ---

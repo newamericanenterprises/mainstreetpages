@@ -1,9 +1,7 @@
 ---
-title: "Garwin, Iowa Business Directory"
+title: "Garwin, IA Business Directory"
+type: "towns"
 slug: "garwin-ia"
-town: "Garwin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 1512
+state: "ia"
+town_data: "garwin-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Walpole, Massachusetts Business Directory"
+title: "Walpole, MA Business Directory"
+type: "towns"
 slug: "walpole-ma"
-town: "Walpole"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 7384
+state: "ma"
+town_data: "walpole-ma"
 ---

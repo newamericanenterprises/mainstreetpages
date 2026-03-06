@@ -1,9 +1,7 @@
 ---
-title: "Fontana, Kansas Business Directory"
+title: "Fontana, KS Business Directory"
+type: "towns"
 slug: "fontana-ks"
-town: "Fontana"
-state: "Kansas"
-state_abbr: "KS"
-county: "Miami"
-population: 1174
+state: "ks"
+town_data: "fontana-ks"
 ---

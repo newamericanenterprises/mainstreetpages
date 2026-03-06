@@ -1,9 +1,7 @@
 ---
-title: "Rosedale, Louisiana Business Directory"
+title: "Rosedale, LA Business Directory"
+type: "towns"
 slug: "rosedale-la"
-town: "Rosedale"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 1671
+state: "la"
+town_data: "rosedale-la"
 ---

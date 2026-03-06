@@ -1,9 +1,7 @@
 ---
-title: "Trommald, Minnesota Business Directory"
+title: "Trommald, MN Business Directory"
+type: "towns"
 slug: "trommald-mn"
-town: "Trommald"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 455
+state: "mn"
+town_data: "trommald-mn"
 ---

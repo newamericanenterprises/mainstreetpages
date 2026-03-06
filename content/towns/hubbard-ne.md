@@ -1,7 +1,7 @@
 ---
-title: "Hubbard, Nebraska Business Directory"
+title: "Hubbard, NE Business Directory"
+type: "towns"
 slug: "hubbard-ne"
-state: "NE"
-county: "Dakota"
-population: 216
+state: "ne"
+town_data: "hubbard-ne"
 ---

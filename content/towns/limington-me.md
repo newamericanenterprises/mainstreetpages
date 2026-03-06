@@ -1,9 +1,7 @@
 ---
-title: "Limington, Maine Business Directory"
+title: "Limington, ME Business Directory"
+type: "towns"
 slug: "limington-me"
-town: "Limington"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1972
+state: "me"
+town_data: "limington-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Winona, Kansas Business Directory"
+title: "Winona, KS Business Directory"
+type: "towns"
 slug: "winona-ks"
-town: "Winona"
-state: "Kansas"
-state_abbr: "KS"
-county: "Logan"
-population: 1258
+state: "ks"
+town_data: "winona-ks"
 ---

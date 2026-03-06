@@ -1,9 +1,7 @@
 ---
-title: "Sylvan, Michigan Business Directory"
+title: "Sylvan, MI Business Directory"
+type: "towns"
 slug: "sylvan-mi"
-town: "Sylvan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 709
+state: "mi"
+town_data: "sylvan-mi"
 ---

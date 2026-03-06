@@ -1,7 +1,7 @@
 ---
-title: "Rosebud, Montana Business Directory"
+title: "Rosebud, MT Business Directory"
+type: "towns"
 slug: "rosebud-mt"
-state: "MT"
-county: "Rosebud"
-population: 500
+state: "mt"
+town_data: "rosebud-mt"
 ---

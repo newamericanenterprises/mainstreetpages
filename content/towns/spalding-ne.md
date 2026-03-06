@@ -1,7 +1,7 @@
 ---
-title: "Spalding, Nebraska Business Directory"
+title: "Spalding, NE Business Directory"
+type: "towns"
 slug: "spalding-ne"
-state: "NE"
-county: "Greeley"
-population: 500
+state: "ne"
+town_data: "spalding-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grand Coteau, Louisiana Business Directory"
+title: "Grand Coteau, LA Business Directory"
+type: "towns"
 slug: "grand-coteau-la"
-town: "Grand Coteau"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 3049
+state: "la"
+town_data: "grand-coteau-la"
 ---

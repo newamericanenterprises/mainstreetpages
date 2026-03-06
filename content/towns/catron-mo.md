@@ -1,7 +1,7 @@
 ---
-title: "Catron, Missouri Business Directory"
+title: "Catron, MO Business Directory"
+type: "towns"
 slug: "catron-mo"
-state: "MO"
-county: "New Madrid"
-population: 1500
+state: "mo"
+town_data: "catron-mo"
 ---

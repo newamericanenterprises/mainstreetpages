@@ -1,9 +1,7 @@
 ---
-title: "Whalan, Minnesota Business Directory"
+title: "Whalan, MN Business Directory"
+type: "towns"
 slug: "whalan-mn"
-town: "Whalan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 531
+state: "mn"
+town_data: "whalan-mn"
 ---

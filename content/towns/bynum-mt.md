@@ -1,7 +1,7 @@
 ---
-title: "Bynum, Montana Business Directory"
+title: "Bynum, MT Business Directory"
+type: "towns"
 slug: "bynum-mt"
-state: "MT"
-county: "Teton"
-population: 500
+state: "mt"
+town_data: "bynum-mt"
 ---

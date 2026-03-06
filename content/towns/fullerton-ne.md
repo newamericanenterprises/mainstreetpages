@@ -1,7 +1,7 @@
 ---
-title: "Fullerton, Nebraska Business Directory"
+title: "Fullerton, NE Business Directory"
+type: "towns"
 slug: "fullerton-ne"
-state: "NE"
-county: "Nance"
-population: 1307
+state: "ne"
+town_data: "fullerton-ne"
 ---

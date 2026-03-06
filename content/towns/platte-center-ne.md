@@ -1,7 +1,7 @@
 ---
-title: "Platte Center, Nebraska Business Directory"
+title: "Platte Center, NE Business Directory"
+type: "towns"
 slug: "platte-center-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "platte-center-ne"
 ---

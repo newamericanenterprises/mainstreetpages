@@ -1,9 +1,7 @@
 ---
-title: "Malvern, Iowa Business Directory"
+title: "Malvern, IA Business Directory"
+type: "towns"
 slug: "malvern-ia"
-town: "Malvern"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 2550
+state: "ia"
+town_data: "malvern-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Nahant, Massachusetts Business Directory"
+title: "Nahant, MA Business Directory"
+type: "towns"
 slug: "nahant-ma"
-town: "Nahant"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 8167
+state: "ma"
+town_data: "nahant-ma"
 ---

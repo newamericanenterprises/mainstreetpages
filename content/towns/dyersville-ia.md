@@ -1,9 +1,7 @@
 ---
-title: "Dyersville, Iowa Business Directory"
+title: "Dyersville, IA Business Directory"
+type: "towns"
 slug: "dyersville-ia"
-town: "Dyersville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 4379
+state: "ia"
+town_data: "dyersville-ia"
 ---

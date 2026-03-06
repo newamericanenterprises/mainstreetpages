@@ -1,9 +1,7 @@
 ---
-title: "Severance, Kansas Business Directory"
+title: "Severance, KS Business Directory"
+type: "towns"
 slug: "severance-ks"
-town: "Severance"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 588
+state: "ks"
+town_data: "severance-ks"
 ---

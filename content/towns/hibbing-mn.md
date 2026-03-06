@@ -1,9 +1,7 @@
 ---
-title: "Hibbing, Minnesota Business Directory"
+title: "Hibbing, MN Business Directory"
+type: "towns"
 slug: "hibbing-mn"
-town: "Hibbing"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 16157
+state: "mn"
+town_data: "hibbing-mn"
 ---

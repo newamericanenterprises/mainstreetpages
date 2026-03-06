@@ -1,9 +1,7 @@
 ---
-title: "Russellville, Kentucky Business Directory"
+title: "Russellville, KY Business Directory"
+type: "towns"
 slug: "russellville-ky"
-town: "Russellville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Logan"
-population: 6924
+state: "ky"
+town_data: "russellville-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Arnold, Nebraska Business Directory"
+title: "Arnold, NE Business Directory"
+type: "towns"
 slug: "arnold-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "arnold-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pollock, Louisiana Business Directory"
+title: "Pollock, LA Business Directory"
+type: "towns"
 slug: "pollock-la"
-town: "Pollock"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Grant"
-population: 3107
+state: "la"
+town_data: "pollock-la"
 ---

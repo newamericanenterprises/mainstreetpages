@@ -1,9 +1,7 @@
 ---
-title: "Holland, Massachusetts Business Directory"
+title: "Holland, MA Business Directory"
+type: "towns"
 slug: "holland-ma"
-town: "Holland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 7224
+state: "ma"
+town_data: "holland-ma"
 ---

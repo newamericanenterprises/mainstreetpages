@@ -1,9 +1,7 @@
 ---
-title: "Paris, Michigan Business Directory"
+title: "Paris, MI Business Directory"
+type: "towns"
 slug: "paris-mi"
-town: "Paris"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mecosta"
-population: 3978
+state: "mi"
+town_data: "paris-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gas City, Indiana Business Directory"
+title: "Gas City, IN Business Directory"
+type: "towns"
 slug: "gas-city-in"
-town: "Gas City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 5936
+state: "in"
+town_data: "gas-city-in"
 ---

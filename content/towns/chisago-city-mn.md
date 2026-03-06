@@ -1,9 +1,7 @@
 ---
-title: "Chisago City, Minnesota Business Directory"
+title: "Chisago City, MN Business Directory"
+type: "towns"
 slug: "chisago-city-mn"
-town: "Chisago City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 3003
+state: "mn"
+town_data: "chisago-city-mn"
 ---

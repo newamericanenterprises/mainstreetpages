@@ -1,9 +1,7 @@
 ---
-title: "Breitung, Michigan Business Directory"
+title: "Breitung, MI Business Directory"
+type: "towns"
 slug: "breitung-mi"
-town: "Breitung"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 2524
+state: "mi"
+town_data: "breitung-mi"
 ---

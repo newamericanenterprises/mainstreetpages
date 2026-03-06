@@ -1,9 +1,7 @@
 ---
-title: "Fountain, Michigan Business Directory"
+title: "Fountain, MI Business Directory"
+type: "towns"
 slug: "fountain-mi"
-town: "Fountain"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mason"
-population: 4140
+state: "mi"
+town_data: "fountain-mi"
 ---

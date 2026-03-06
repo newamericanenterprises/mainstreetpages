@@ -1,7 +1,7 @@
 ---
-title: "Windsor, Missouri Business Directory"
+title: "Windsor, MO Business Directory"
+type: "towns"
 slug: "windsor-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "windsor-mo"
 ---

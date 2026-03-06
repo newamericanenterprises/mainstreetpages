@@ -1,7 +1,7 @@
 ---
-title: "Arrow Rock, Missouri Business Directory"
+title: "Arrow Rock, MO Business Directory"
+type: "towns"
 slug: "arrow-rock-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "arrow-rock-mo"
 ---

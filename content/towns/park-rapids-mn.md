@@ -1,9 +1,7 @@
 ---
-title: "Park Rapids, Minnesota Business Directory"
+title: "Park Rapids, MN Business Directory"
+type: "towns"
 slug: "park-rapids-mn"
-town: "Park Rapids"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hubbard"
-population: 4225
+state: "mn"
+town_data: "park-rapids-mn"
 ---

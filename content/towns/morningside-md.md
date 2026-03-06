@@ -1,9 +1,7 @@
 ---
-title: "Morningside, Maryland Business Directory"
+title: "Morningside, MD Business Directory"
+type: "towns"
 slug: "morningside-md"
-town: "Morningside"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4084
+state: "md"
+town_data: "morningside-md"
 ---

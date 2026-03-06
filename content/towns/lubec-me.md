@@ -1,9 +1,7 @@
 ---
-title: "Lubec, Maine Business Directory"
+title: "Lubec, ME Business Directory"
+type: "towns"
 slug: "lubec-me"
-town: "Lubec"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2642
+state: "me"
+town_data: "lubec-me"
 ---

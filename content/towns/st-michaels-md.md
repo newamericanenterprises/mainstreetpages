@@ -1,9 +1,7 @@
 ---
-title: "St. Michaels, Maryland Business Directory"
+title: "St. Michaels, MD Business Directory"
+type: "towns"
 slug: "st-michaels-md"
-town: "St. Michaels"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 1021
+state: "md"
+town_data: "st-michaels-md"
 ---

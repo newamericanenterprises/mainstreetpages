@@ -1,7 +1,7 @@
 ---
-title: "Leeton, Missouri Business Directory"
+title: "Leeton, MO Business Directory"
+type: "towns"
 slug: "leeton-mo"
-state: "MO"
-county: "Johnson"
-population: 1500
+state: "mo"
+town_data: "leeton-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wickliffe, Kentucky Business Directory"
+title: "Wickliffe, KY Business Directory"
+type: "towns"
 slug: "wickliffe-ky"
-town: "Wickliffe"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ballard"
-population: 1898
+state: "ky"
+town_data: "wickliffe-ky"
 ---

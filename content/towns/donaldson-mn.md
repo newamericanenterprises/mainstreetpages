@@ -1,9 +1,7 @@
 ---
-title: "Donaldson, Minnesota Business Directory"
+title: "Donaldson, MN Business Directory"
+type: "towns"
 slug: "donaldson-mn"
-town: "Donaldson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 495
+state: "mn"
+town_data: "donaldson-mn"
 ---

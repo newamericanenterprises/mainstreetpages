@@ -1,7 +1,7 @@
 ---
-title: "Pender, Nebraska Business Directory"
+title: "Pender, NE Business Directory"
+type: "towns"
 slug: "pender-ne"
-state: "NE"
-county: "Thurston"
-population: 1002
+state: "ne"
+town_data: "pender-ne"
 ---

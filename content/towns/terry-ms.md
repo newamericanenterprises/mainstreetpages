@@ -1,7 +1,7 @@
 ---
-title: "Terry, Mississippi Business Directory"
+title: "Terry, MS Business Directory"
+type: "towns"
 slug: "terry-ms"
-state: "MS"
-county: "Hinds"
-population: 1293
+state: "ms"
+town_data: "terry-ms"
 ---

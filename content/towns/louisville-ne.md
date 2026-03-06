@@ -1,7 +1,7 @@
 ---
-title: "Louisville, Nebraska Business Directory"
+title: "Louisville, NE Business Directory"
+type: "towns"
 slug: "louisville-ne"
-state: "NE"
-county: "Cass"
-population: 1084
+state: "ne"
+town_data: "louisville-ne"
 ---

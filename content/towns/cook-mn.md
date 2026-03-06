@@ -1,9 +1,7 @@
 ---
-title: "Cook, Minnesota Business Directory"
+title: "Cook, MN Business Directory"
+type: "towns"
 slug: "cook-mn"
-town: "Cook"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 381
+state: "mn"
+town_data: "cook-mn"
 ---

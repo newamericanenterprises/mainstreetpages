@@ -1,9 +1,7 @@
 ---
-title: "Pineville, Louisiana Business Directory"
+title: "Pineville, LA Business Directory"
+type: "towns"
 slug: "pineville-la"
-town: "Pineville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 14428
+state: "la"
+town_data: "pineville-la"
 ---

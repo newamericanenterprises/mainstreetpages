@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Minnesota Business Directory"
+title: "Richmond, MN Business Directory"
+type: "towns"
 slug: "richmond-mn"
-town: "Richmond"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 2964
+state: "mn"
+town_data: "richmond-mn"
 ---

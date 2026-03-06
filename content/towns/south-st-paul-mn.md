@@ -1,9 +1,7 @@
 ---
-title: "South St. Paul, Minnesota Business Directory"
+title: "South St. Paul, MN Business Directory"
+type: "towns"
 slug: "south-st-paul-mn"
-town: "South St. Paul"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 1960
+state: "mn"
+town_data: "south-st-paul-mn"
 ---

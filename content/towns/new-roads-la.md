@@ -1,9 +1,7 @@
 ---
-title: "New Roads, Louisiana Business Directory"
+title: "New Roads, LA Business Directory"
+type: "towns"
 slug: "new-roads-la"
-town: "New Roads"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 4831
+state: "la"
+town_data: "new-roads-la"
 ---

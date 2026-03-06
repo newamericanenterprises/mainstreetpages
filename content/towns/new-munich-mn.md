@@ -1,9 +1,7 @@
 ---
-title: "New Munich, Minnesota Business Directory"
+title: "New Munich, MN Business Directory"
+type: "towns"
 slug: "new-munich-mn"
-town: "New Munich"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 883
+state: "mn"
+town_data: "new-munich-mn"
 ---

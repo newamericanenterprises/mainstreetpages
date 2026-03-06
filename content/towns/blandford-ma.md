@@ -1,9 +1,7 @@
 ---
-title: "Blandford, Massachusetts Business Directory"
+title: "Blandford, MA Business Directory"
+type: "towns"
 slug: "blandford-ma"
-town: "Blandford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 6191
+state: "ma"
+town_data: "blandford-ma"
 ---

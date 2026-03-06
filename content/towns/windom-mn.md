@@ -1,9 +1,7 @@
 ---
-title: "Windom, Minnesota Business Directory"
+title: "Windom, MN Business Directory"
+type: "towns"
 slug: "windom-mn"
-town: "Windom"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 4646
+state: "mn"
+town_data: "windom-mn"
 ---

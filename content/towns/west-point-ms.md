@@ -1,7 +1,7 @@
 ---
-title: "West Point, Mississippi Business Directory"
+title: "West Point, MS Business Directory"
+type: "towns"
 slug: "west-point-ms"
-state: "MS"
-county: "Clay"
-population: 10585
+state: "ms"
+town_data: "west-point-ms"
 ---

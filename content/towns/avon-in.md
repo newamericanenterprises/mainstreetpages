@@ -1,9 +1,7 @@
 ---
-title: "Avon, Indiana Business Directory"
+title: "Avon, IN Business Directory"
+type: "towns"
 slug: "avon-in"
-town: "Avon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 18874
+state: "in"
+town_data: "avon-in"
 ---

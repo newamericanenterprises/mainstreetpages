@@ -1,7 +1,7 @@
 ---
-title: "Pleasanton, Nebraska Business Directory"
+title: "Pleasanton, NE Business Directory"
+type: "towns"
 slug: "pleasanton-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "pleasanton-ne"
 ---

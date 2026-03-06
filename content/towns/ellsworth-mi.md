@@ -1,9 +1,7 @@
 ---
-title: "Ellsworth, Michigan Business Directory"
+title: "Ellsworth, MI Business Directory"
+type: "towns"
 slug: "ellsworth-mi"
-town: "Ellsworth"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 4750
+state: "mi"
+town_data: "ellsworth-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Theilman, Minnesota Business Directory"
+title: "Theilman, MN Business Directory"
+type: "towns"
 slug: "theilman-mn"
-town: "Theilman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 1421
+state: "mn"
+town_data: "theilman-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Howe, Indiana Business Directory"
+title: "Howe, IN Business Directory"
+type: "towns"
 slug: "howe-in"
-town: "Howe"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaGrange"
-population: 4977
+state: "in"
+town_data: "howe-in"
 ---

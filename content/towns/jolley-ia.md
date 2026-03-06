@@ -1,9 +1,7 @@
 ---
-title: "Jolley, Iowa Business Directory"
+title: "Jolley, IA Business Directory"
+type: "towns"
 slug: "jolley-ia"
-town: "Jolley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 1505
+state: "ia"
+town_data: "jolley-ia"
 ---

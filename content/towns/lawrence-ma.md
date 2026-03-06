@@ -1,9 +1,7 @@
 ---
-title: "Lawrence, Massachusetts Business Directory"
+title: "Lawrence, MA Business Directory"
+type: "towns"
 slug: "lawrence-ma"
-town: "Lawrence"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 89143
+state: "ma"
+town_data: "lawrence-ma"
 ---

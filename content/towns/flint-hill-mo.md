@@ -1,7 +1,7 @@
 ---
-title: "Flint Hill, Missouri Business Directory"
+title: "Flint Hill, MO Business Directory"
+type: "towns"
 slug: "flint-hill-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "flint-hill-mo"
 ---

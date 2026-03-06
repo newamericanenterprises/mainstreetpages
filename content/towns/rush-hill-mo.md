@@ -1,7 +1,7 @@
 ---
-title: "Rush Hill, Missouri Business Directory"
+title: "Rush Hill, MO Business Directory"
+type: "towns"
 slug: "rush-hill-mo"
-state: "MO"
-county: "Audrain"
-population: 1500
+state: "mo"
+town_data: "rush-hill-mo"
 ---

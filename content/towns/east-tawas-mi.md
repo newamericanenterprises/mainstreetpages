@@ -1,9 +1,7 @@
 ---
-title: "East Tawas, Michigan Business Directory"
+title: "East Tawas, MI Business Directory"
+type: "towns"
 slug: "east-tawas-mi"
-town: "East Tawas"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iosco"
-population: 3610
+state: "mi"
+town_data: "east-tawas-mi"
 ---

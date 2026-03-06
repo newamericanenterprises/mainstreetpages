@@ -1,9 +1,7 @@
 ---
-title: "Gilman, Iowa Business Directory"
+title: "Gilman, IA Business Directory"
+type: "towns"
 slug: "gilman-ia"
-town: "Gilman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 2954
+state: "ia"
+town_data: "gilman-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vinton, Iowa Business Directory"
+title: "Vinton, IA Business Directory"
+type: "towns"
 slug: "vinton-ia"
-town: "Vinton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 5257
+state: "ia"
+town_data: "vinton-ia"
 ---

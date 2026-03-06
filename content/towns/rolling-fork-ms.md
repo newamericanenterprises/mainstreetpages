@@ -1,7 +1,7 @@
 ---
-title: "Rolling Fork, Mississippi Business Directory"
+title: "Rolling Fork, MS Business Directory"
+type: "towns"
 slug: "rolling-fork-ms"
-state: "MS"
-county: "Sharkey"
-population: 2152
+state: "ms"
+town_data: "rolling-fork-ms"
 ---

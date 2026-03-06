@@ -1,7 +1,7 @@
 ---
-title: "Reynolds, Nebraska Business Directory"
+title: "Reynolds, NE Business Directory"
+type: "towns"
 slug: "reynolds-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "reynolds-ne"
 ---

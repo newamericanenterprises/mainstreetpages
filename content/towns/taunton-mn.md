@@ -1,9 +1,7 @@
 ---
-title: "Taunton, Minnesota Business Directory"
+title: "Taunton, MN Business Directory"
+type: "towns"
 slug: "taunton-mn"
-town: "Taunton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 1453
+state: "mn"
+town_data: "taunton-mn"
 ---

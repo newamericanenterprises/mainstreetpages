@@ -1,7 +1,7 @@
 ---
-title: "Pacific, Missouri Business Directory"
+title: "Pacific, MO Business Directory"
+type: "towns"
 slug: "pacific-mo"
-state: "MO"
-county: "Franklin"
-population: 7002
+state: "mo"
+town_data: "pacific-mo"
 ---

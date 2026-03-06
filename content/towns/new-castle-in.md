@@ -1,9 +1,7 @@
 ---
-title: "New Castle, Indiana Business Directory"
+title: "New Castle, IN Business Directory"
+type: "towns"
 slug: "new-castle-in"
-town: "New Castle"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 17396
+state: "in"
+town_data: "new-castle-in"
 ---

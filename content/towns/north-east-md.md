@@ -1,9 +1,7 @@
 ---
-title: "North East, Maryland Business Directory"
+title: "North East, MD Business Directory"
+type: "towns"
 slug: "north-east-md"
-town: "North East"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 4778
+state: "md"
+town_data: "north-east-md"
 ---

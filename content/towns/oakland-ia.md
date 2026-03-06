@@ -1,9 +1,7 @@
 ---
-title: "Oakland, Iowa Business Directory"
+title: "Oakland, IA Business Directory"
+type: "towns"
 slug: "oakland-ia"
-town: "Oakland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 1712
+state: "ia"
+town_data: "oakland-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bingham, Maine Business Directory"
+title: "Bingham, ME Business Directory"
+type: "towns"
 slug: "bingham-me"
-town: "Bingham"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1187
+state: "me"
+town_data: "bingham-me"
 ---

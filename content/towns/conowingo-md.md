@@ -1,9 +1,7 @@
 ---
-title: "Conowingo, Maryland Business Directory"
+title: "Conowingo, MD Business Directory"
+type: "towns"
 slug: "conowingo-md"
-town: "Conowingo"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 3405
+state: "md"
+town_data: "conowingo-md"
 ---

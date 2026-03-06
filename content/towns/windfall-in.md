@@ -1,9 +1,7 @@
 ---
-title: "Windfall, Indiana Business Directory"
+title: "Windfall, IN Business Directory"
+type: "towns"
 slug: "windfall-in"
-town: "Windfall"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tipton"
-population: 4740
+state: "in"
+town_data: "windfall-in"
 ---

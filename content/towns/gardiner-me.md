@@ -1,9 +1,7 @@
 ---
-title: "Gardiner, Maine Business Directory"
+title: "Gardiner, ME Business Directory"
+type: "towns"
 slug: "gardiner-me"
-town: "Gardiner"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 5670
+state: "me"
+town_data: "gardiner-me"
 ---

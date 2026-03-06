@@ -1,9 +1,7 @@
 ---
-title: "Marion, Kansas Business Directory"
+title: "Marion, KS Business Directory"
+type: "towns"
 slug: "marion-ks"
-town: "Marion"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 1927
+state: "ks"
+town_data: "marion-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Oran, Missouri Business Directory"
+title: "Oran, MO Business Directory"
+type: "towns"
 slug: "oran-mo"
-state: "MO"
-county: "Scott"
-population: 1284
+state: "mo"
+town_data: "oran-mo"
 ---

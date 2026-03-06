@@ -1,9 +1,7 @@
 ---
-title: "Conway, Iowa Business Directory"
+title: "Conway, IA Business Directory"
+type: "towns"
 slug: "conway-ia"
-town: "Conway"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 2696
+state: "ia"
+town_data: "conway-ia"
 ---

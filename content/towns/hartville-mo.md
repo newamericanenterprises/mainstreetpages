@@ -1,7 +1,7 @@
 ---
-title: "Hartville, Missouri Business Directory"
+title: "Hartville, MO Business Directory"
+type: "towns"
 slug: "hartville-mo"
-state: "MO"
-county: "Wright"
-population: 1500
+state: "mo"
+town_data: "hartville-mo"
 ---

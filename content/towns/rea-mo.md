@@ -1,7 +1,7 @@
 ---
-title: "Rea, Missouri Business Directory"
+title: "Rea, MO Business Directory"
+type: "towns"
 slug: "rea-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "rea-mo"
 ---

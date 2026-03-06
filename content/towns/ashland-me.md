@@ -1,9 +1,7 @@
 ---
-title: "Ashland, Maine Business Directory"
+title: "Ashland, ME Business Directory"
+type: "towns"
 slug: "ashland-me"
-town: "Ashland"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 2139
+state: "me"
+town_data: "ashland-me"
 ---

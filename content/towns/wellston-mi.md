@@ -1,9 +1,7 @@
 ---
-title: "Wellston, Michigan Business Directory"
+title: "Wellston, MI Business Directory"
+type: "towns"
 slug: "wellston-mi"
-town: "Wellston"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 3314
+state: "mi"
+town_data: "wellston-mi"
 ---

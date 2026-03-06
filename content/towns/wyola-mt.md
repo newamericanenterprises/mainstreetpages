@@ -1,7 +1,7 @@
 ---
-title: "Wyola, Montana Business Directory"
+title: "Wyola, MT Business Directory"
+type: "towns"
 slug: "wyola-mt"
-state: "MT"
-county: "Big Horn"
-population: 500
+state: "mt"
+town_data: "wyola-mt"
 ---

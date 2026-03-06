@@ -1,9 +1,7 @@
 ---
-title: "Orangeburg, Kentucky Business Directory"
+title: "Orangeburg, KY Business Directory"
+type: "towns"
 slug: "orangeburg-ky"
-town: "Orangeburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Mason"
-population: 2657
+state: "ky"
+town_data: "orangeburg-ky"
 ---

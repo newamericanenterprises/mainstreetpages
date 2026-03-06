@@ -1,9 +1,7 @@
 ---
-title: "Linn Grove, Iowa Business Directory"
+title: "Linn Grove, IA Business Directory"
+type: "towns"
 slug: "linn-grove-ia"
-town: "Linn Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 847
+state: "ia"
+town_data: "linn-grove-ia"
 ---

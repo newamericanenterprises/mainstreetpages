@@ -1,9 +1,7 @@
 ---
-title: "Dundee, Michigan Business Directory"
+title: "Dundee, MI Business Directory"
+type: "towns"
 slug: "dundee-mi"
-town: "Dundee"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 4030
+state: "mi"
+town_data: "dundee-mi"
 ---

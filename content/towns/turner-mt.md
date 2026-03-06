@@ -1,7 +1,7 @@
 ---
-title: "Turner, Montana Business Directory"
+title: "Turner, MT Business Directory"
+type: "towns"
 slug: "turner-mt"
-state: "MT"
-county: "Blaine"
-population: 500
+state: "mt"
+town_data: "turner-mt"
 ---

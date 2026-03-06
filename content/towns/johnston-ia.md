@@ -1,9 +1,7 @@
 ---
-title: "Johnston, Iowa Business Directory"
+title: "Johnston, IA Business Directory"
+type: "towns"
 slug: "johnston-ia"
-town: "Johnston"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 22582
+state: "ia"
+town_data: "johnston-ia"
 ---

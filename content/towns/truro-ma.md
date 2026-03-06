@@ -1,9 +1,7 @@
 ---
-title: "Truro, Massachusetts Business Directory"
+title: "Truro, MA Business Directory"
+type: "towns"
 slug: "truro-ma"
-town: "Truro"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 1942
+state: "ma"
+town_data: "truro-ma"
 ---

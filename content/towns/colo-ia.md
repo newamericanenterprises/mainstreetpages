@@ -1,9 +1,7 @@
 ---
-title: "Colo, Iowa Business Directory"
+title: "Colo, IA Business Directory"
+type: "towns"
 slug: "colo-ia"
-town: "Colo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 2542
+state: "ia"
+town_data: "colo-ia"
 ---

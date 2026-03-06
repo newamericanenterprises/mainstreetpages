@@ -1,9 +1,7 @@
 ---
-title: "Plum Springs, Kentucky Business Directory"
+title: "Plum Springs, KY Business Directory"
+type: "towns"
 slug: "plum-springs-ky"
-town: "Plum Springs"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Warren"
-population: 1349
+state: "ky"
+town_data: "plum-springs-ky"
 ---

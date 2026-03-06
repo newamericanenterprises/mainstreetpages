@@ -1,9 +1,7 @@
 ---
-title: "Pittsfield, Massachusetts Business Directory"
+title: "Pittsfield, MA Business Directory"
+type: "towns"
 slug: "pittsfield-ma"
-town: "Pittsfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 42514
+state: "ma"
+town_data: "pittsfield-ma"
 ---

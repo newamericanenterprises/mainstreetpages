@@ -1,9 +1,7 @@
 ---
-title: "Fountain, Minnesota Business Directory"
+title: "Fountain, MN Business Directory"
+type: "towns"
 slug: "fountain-mn"
-town: "Fountain"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 829
+state: "mn"
+town_data: "fountain-mn"
 ---

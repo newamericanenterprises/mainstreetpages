@@ -1,9 +1,7 @@
 ---
-title: "Chariton, Iowa Business Directory"
+title: "Chariton, IA Business Directory"
+type: "towns"
 slug: "chariton-ia"
-town: "Chariton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lucas"
-population: 4174
+state: "ia"
+town_data: "chariton-ia"
 ---

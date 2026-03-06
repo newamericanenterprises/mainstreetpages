@@ -1,9 +1,7 @@
 ---
-title: "Lytton, Iowa Business Directory"
+title: "Lytton, IA Business Directory"
+type: "towns"
 slug: "lytton-ia"
-town: "Lytton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 2138
+state: "ia"
+town_data: "lytton-ia"
 ---

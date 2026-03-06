@@ -1,9 +1,7 @@
 ---
-title: "Prince Frederick, Maryland Business Directory"
+title: "Prince Frederick, MD Business Directory"
+type: "towns"
 slug: "prince-frederick-md"
-town: "Prince Frederick"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 2505
+state: "md"
+town_data: "prince-frederick-md"
 ---

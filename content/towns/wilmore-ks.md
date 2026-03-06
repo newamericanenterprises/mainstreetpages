@@ -1,9 +1,7 @@
 ---
-title: "Wilmore, Kansas Business Directory"
+title: "Wilmore, KS Business Directory"
+type: "towns"
 slug: "wilmore-ks"
-town: "Wilmore"
-state: "Kansas"
-state_abbr: "KS"
-county: "Comanche"
-population: 1565
+state: "ks"
+town_data: "wilmore-ks"
 ---

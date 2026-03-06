@@ -1,7 +1,7 @@
 ---
-title: "Northmoor, Missouri Business Directory"
+title: "Northmoor, MO Business Directory"
+type: "towns"
 slug: "northmoor-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "northmoor-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pocasset, Massachusetts Business Directory"
+title: "Pocasset, MA Business Directory"
+type: "towns"
 slug: "pocasset-ma"
-town: "Pocasset"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 1884
+state: "ma"
+town_data: "pocasset-ma"
 ---

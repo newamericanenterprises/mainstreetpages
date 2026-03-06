@@ -1,7 +1,7 @@
 ---
-title: "Center, Nebraska Business Directory"
+title: "Center, NE Business Directory"
+type: "towns"
 slug: "center-ne"
-state: "NE"
-county: "Knox"
-population: 93
+state: "ne"
+town_data: "center-ne"
 ---

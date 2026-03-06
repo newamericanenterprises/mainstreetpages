@@ -1,9 +1,7 @@
 ---
-title: "Chelsea, Michigan Business Directory"
+title: "Chelsea, MI Business Directory"
+type: "towns"
 slug: "chelsea-mi"
-town: "Chelsea"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 5234
+state: "mi"
+town_data: "chelsea-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fortescue, Missouri Business Directory"
+title: "Fortescue, MO Business Directory"
+type: "towns"
 slug: "fortescue-mo"
-state: "MO"
-county: "Holt"
-population: 1500
+state: "mo"
+town_data: "fortescue-mo"
 ---

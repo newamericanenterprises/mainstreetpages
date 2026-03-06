@@ -1,9 +1,7 @@
 ---
-title: "Noblesville, Indiana Business Directory"
+title: "Noblesville, IN Business Directory"
+type: "towns"
 slug: "noblesville-in"
-town: "Noblesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hamilton"
-population: 64668
+state: "in"
+town_data: "noblesville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Livermore, Kentucky Business Directory"
+title: "Livermore, KY Business Directory"
+type: "towns"
 slug: "livermore-ky"
-town: "Livermore"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McLean"
-population: 3128
+state: "ky"
+town_data: "livermore-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Helen, Michigan Business Directory"
+title: "St. Helen, MI Business Directory"
+type: "towns"
 slug: "st-helen-mi"
-town: "St. Helen"
-state: "Michigan"
-state_abbr: "MI"
-county: "Roscommon"
-population: 2004
+state: "mi"
+town_data: "st-helen-mi"
 ---

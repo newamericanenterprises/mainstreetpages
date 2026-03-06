@@ -1,9 +1,7 @@
 ---
-title: "Plano, Iowa Business Directory"
+title: "Plano, IA Business Directory"
+type: "towns"
 slug: "plano-ia"
-town: "Plano"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 2885
+state: "ia"
+town_data: "plano-ia"
 ---

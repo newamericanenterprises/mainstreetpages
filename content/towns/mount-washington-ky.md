@@ -1,9 +1,7 @@
 ---
-title: "Mount Washington, Kentucky Business Directory"
+title: "Mount Washington, KY Business Directory"
+type: "towns"
 slug: "mount-washington-ky"
-town: "Mount Washington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bullitt"
-population: 2308
+state: "ky"
+town_data: "mount-washington-ky"
 ---

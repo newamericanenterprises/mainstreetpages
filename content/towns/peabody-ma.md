@@ -1,9 +1,7 @@
 ---
-title: "Peabody, Massachusetts Business Directory"
+title: "Peabody, MA Business Directory"
+type: "towns"
 slug: "peabody-ma"
-town: "Peabody"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 54251
+state: "ma"
+town_data: "peabody-ma"
 ---

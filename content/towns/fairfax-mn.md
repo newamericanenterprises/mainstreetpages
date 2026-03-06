@@ -1,9 +1,7 @@
 ---
-title: "Fairfax, Minnesota Business Directory"
+title: "Fairfax, MN Business Directory"
+type: "towns"
 slug: "fairfax-mn"
-town: "Fairfax"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 469
+state: "mn"
+town_data: "fairfax-mn"
 ---

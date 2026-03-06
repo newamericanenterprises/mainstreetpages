@@ -1,7 +1,7 @@
 ---
-title: "Arlee, Montana Business Directory"
+title: "Arlee, MT Business Directory"
+type: "towns"
 slug: "arlee-mt"
-state: "MT"
-county: "Lake"
-population: 778
+state: "mt"
+town_data: "arlee-mt"
 ---

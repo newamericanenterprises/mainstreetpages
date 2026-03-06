@@ -1,9 +1,7 @@
 ---
-title: "Rosepine, Louisiana Business Directory"
+title: "Rosepine, LA Business Directory"
+type: "towns"
 slug: "rosepine-la"
-town: "Rosepine"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 3151
+state: "la"
+town_data: "rosepine-la"
 ---

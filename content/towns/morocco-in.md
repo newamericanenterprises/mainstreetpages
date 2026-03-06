@@ -1,9 +1,7 @@
 ---
-title: "Morocco, Indiana Business Directory"
+title: "Morocco, IN Business Directory"
+type: "towns"
 slug: "morocco-in"
-town: "Morocco"
-state: "Indiana"
-state_abbr: "IN"
-county: "Newton"
-population: 2447
+state: "in"
+town_data: "morocco-in"
 ---

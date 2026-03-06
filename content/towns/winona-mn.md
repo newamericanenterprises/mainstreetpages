@@ -1,9 +1,7 @@
 ---
-title: "Winona, Minnesota Business Directory"
+title: "Winona, MN Business Directory"
+type: "towns"
 slug: "winona-mn"
-town: "Winona"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 26459
+state: "mn"
+town_data: "winona-mn"
 ---

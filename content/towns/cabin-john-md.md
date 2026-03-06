@@ -1,9 +1,7 @@
 ---
-title: "Cabin John, Maryland Business Directory"
+title: "Cabin John, MD Business Directory"
+type: "towns"
 slug: "cabin-john-md"
-town: "Cabin John"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 1399
+state: "md"
+town_data: "cabin-john-md"
 ---

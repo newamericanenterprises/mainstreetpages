@@ -1,9 +1,7 @@
 ---
-title: "Burns, Kansas Business Directory"
+title: "Burns, KS Business Directory"
+type: "towns"
 slug: "burns-ks"
-town: "Burns"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 3262
+state: "ks"
+town_data: "burns-ks"
 ---

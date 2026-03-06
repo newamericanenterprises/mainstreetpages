@@ -1,9 +1,7 @@
 ---
-title: "Greenup, Kentucky Business Directory"
+title: "Greenup, KY Business Directory"
+type: "towns"
 slug: "greenup-ky"
-town: "Greenup"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 2650
+state: "ky"
+town_data: "greenup-ky"
 ---

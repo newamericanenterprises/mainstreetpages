@@ -1,7 +1,7 @@
 ---
-title: "Eddyville, Nebraska Business Directory"
+title: "Eddyville, NE Business Directory"
+type: "towns"
 slug: "eddyville-ne"
-state: "NE"
-county: "Dawson"
-population: 500
+state: "ne"
+town_data: "eddyville-ne"
 ---

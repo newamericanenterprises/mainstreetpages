@@ -1,9 +1,7 @@
 ---
-title: "Bel Alton, Maryland Business Directory"
+title: "Bel Alton, MD Business Directory"
+type: "towns"
 slug: "bel-alton-md"
-town: "Bel Alton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 2183
+state: "md"
+town_data: "bel-alton-md"
 ---

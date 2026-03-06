@@ -1,9 +1,7 @@
 ---
-title: "Wallingford, Iowa Business Directory"
+title: "Wallingford, IA Business Directory"
+type: "towns"
 slug: "wallingford-ia"
-town: "Wallingford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Emmet"
-population: 1225
+state: "ia"
+town_data: "wallingford-ia"
 ---

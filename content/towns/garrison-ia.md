@@ -1,9 +1,7 @@
 ---
-title: "Garrison, Iowa Business Directory"
+title: "Garrison, IA Business Directory"
+type: "towns"
 slug: "garrison-ia"
-town: "Garrison"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 539
+state: "ia"
+town_data: "garrison-ia"
 ---

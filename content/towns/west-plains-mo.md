@@ -1,7 +1,7 @@
 ---
-title: "West Plains, Missouri Business Directory"
+title: "West Plains, MO Business Directory"
+type: "towns"
 slug: "west-plains-mo"
-state: "MO"
-county: "Howell"
-population: 12290
+state: "mo"
+town_data: "west-plains-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Michigan Business Directory"
+title: "Clinton, MI Business Directory"
+type: "towns"
 slug: "clinton-mi"
-town: "Clinton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 2229
+state: "mi"
+town_data: "clinton-mi"
 ---

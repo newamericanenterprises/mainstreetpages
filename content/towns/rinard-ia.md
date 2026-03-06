@@ -1,9 +1,7 @@
 ---
-title: "Rinard, Iowa Business Directory"
+title: "Rinard, IA Business Directory"
+type: "towns"
 slug: "rinard-ia"
-town: "Rinard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 1658
+state: "ia"
+town_data: "rinard-ia"
 ---

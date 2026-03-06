@@ -1,9 +1,7 @@
 ---
-title: "Lewis, Kansas Business Directory"
+title: "Lewis, KS Business Directory"
+type: "towns"
 slug: "lewis-ks"
-town: "Lewis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Edwards"
-population: 1422
+state: "ks"
+town_data: "lewis-ks"
 ---

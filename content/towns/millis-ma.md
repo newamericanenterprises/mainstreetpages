@@ -1,9 +1,7 @@
 ---
-title: "Millis, Massachusetts Business Directory"
+title: "Millis, MA Business Directory"
+type: "towns"
 slug: "millis-ma"
-town: "Millis"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 4131
+state: "ma"
+town_data: "millis-ma"
 ---

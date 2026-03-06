@@ -1,7 +1,7 @@
 ---
-title: "Du Bois, Nebraska Business Directory"
+title: "Du Bois, NE Business Directory"
+type: "towns"
 slug: "du-bois-ne"
-state: "NE"
-county: "Pawnee"
-population: 500
+state: "ne"
+town_data: "du-bois-ne"
 ---

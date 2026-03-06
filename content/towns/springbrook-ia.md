@@ -1,9 +1,7 @@
 ---
-title: "Springbrook, Iowa Business Directory"
+title: "Springbrook, IA Business Directory"
+type: "towns"
 slug: "springbrook-ia"
-town: "Springbrook"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 2500
+state: "ia"
+town_data: "springbrook-ia"
 ---

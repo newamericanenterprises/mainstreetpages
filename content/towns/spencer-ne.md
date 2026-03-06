@@ -1,7 +1,7 @@
 ---
-title: "Spencer, Nebraska Business Directory"
+title: "Spencer, NE Business Directory"
+type: "towns"
 slug: "spencer-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "spencer-ne"
 ---

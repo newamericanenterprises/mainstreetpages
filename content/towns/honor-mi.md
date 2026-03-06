@@ -1,9 +1,7 @@
 ---
-title: "Honor, Michigan Business Directory"
+title: "Honor, MI Business Directory"
+type: "towns"
 slug: "honor-mi"
-town: "Honor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 4971
+state: "mi"
+town_data: "honor-mi"
 ---

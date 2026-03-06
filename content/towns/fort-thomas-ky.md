@@ -1,9 +1,7 @@
 ---
-title: "Fort Thomas, Kentucky Business Directory"
+title: "Fort Thomas, KY Business Directory"
+type: "towns"
 slug: "fort-thomas-ky"
-town: "Fort Thomas"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 16317
+state: "ky"
+town_data: "fort-thomas-ky"
 ---

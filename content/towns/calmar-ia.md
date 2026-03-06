@@ -1,9 +1,7 @@
 ---
-title: "Calmar, Iowa Business Directory"
+title: "Calmar, IA Business Directory"
+type: "towns"
 slug: "calmar-ia"
-town: "Calmar"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 1443
+state: "ia"
+town_data: "calmar-ia"
 ---

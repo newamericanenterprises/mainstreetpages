@@ -1,9 +1,7 @@
 ---
-title: "Pottawattamie Park, Indiana Business Directory"
+title: "Pottawattamie Park, IN Business Directory"
+type: "towns"
 slug: "pottawattamie-park-in"
-town: "Pottawattamie Park"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 2532
+state: "in"
+town_data: "pottawattamie-park-in"
 ---

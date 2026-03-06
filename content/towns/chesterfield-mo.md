@@ -1,7 +1,7 @@
 ---
-title: "Chesterfield, Missouri Business Directory"
+title: "Chesterfield, MO Business Directory"
+type: "towns"
 slug: "chesterfield-mo"
-state: "MO"
-county: "St. Louis"
-population: 49999
+state: "mo"
+town_data: "chesterfield-mo"
 ---

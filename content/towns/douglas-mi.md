@@ -1,9 +1,7 @@
 ---
-title: "Douglas, Michigan Business Directory"
+title: "Douglas, MI Business Directory"
+type: "towns"
 slug: "douglas-mi"
-town: "Douglas"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 4714
+state: "mi"
+town_data: "douglas-mi"
 ---

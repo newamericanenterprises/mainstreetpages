@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Indiana Business Directory"
+title: "Auburn, IN Business Directory"
+type: "towns"
 slug: "auburn-in"
-town: "Auburn"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 13330
+state: "in"
+town_data: "auburn-in"
 ---

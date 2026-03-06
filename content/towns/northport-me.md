@@ -1,9 +1,7 @@
 ---
-title: "Northport, Maine Business Directory"
+title: "Northport, ME Business Directory"
+type: "towns"
 slug: "northport-me"
-town: "Northport"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1567
+state: "me"
+town_data: "northport-me"
 ---

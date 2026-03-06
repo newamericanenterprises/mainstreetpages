@@ -1,9 +1,7 @@
 ---
-title: "Mapleton, Maine Business Directory"
+title: "Mapleton, ME Business Directory"
+type: "towns"
 slug: "mapleton-me"
-town: "Mapleton"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 507
+state: "me"
+town_data: "mapleton-me"
 ---

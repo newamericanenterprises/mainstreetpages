@@ -1,7 +1,7 @@
 ---
-title: "Downing, Missouri Business Directory"
+title: "Downing, MO Business Directory"
+type: "towns"
 slug: "downing-mo"
-state: "MO"
-county: "Schuyler"
-population: 1500
+state: "mo"
+town_data: "downing-mo"
 ---

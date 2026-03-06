@@ -1,9 +1,7 @@
 ---
-title: "Cumberland, Kentucky Business Directory"
+title: "Cumberland, KY Business Directory"
+type: "towns"
 slug: "cumberland-ky"
-town: "Cumberland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harlan"
-population: 2341
+state: "ky"
+town_data: "cumberland-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sanders, Kentucky Business Directory"
+title: "Sanders, KY Business Directory"
+type: "towns"
 slug: "sanders-ky"
-town: "Sanders"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 2632
+state: "ky"
+town_data: "sanders-ky"
 ---

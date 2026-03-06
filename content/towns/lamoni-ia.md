@@ -1,9 +1,7 @@
 ---
-title: "Lamoni, Iowa Business Directory"
+title: "Lamoni, IA Business Directory"
+type: "towns"
 slug: "lamoni-ia"
-town: "Lamoni"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 685
+state: "ia"
+town_data: "lamoni-ia"
 ---

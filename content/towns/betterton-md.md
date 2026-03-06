@@ -1,9 +1,7 @@
 ---
-title: "Betterton, Maryland Business Directory"
+title: "Betterton, MD Business Directory"
+type: "towns"
 slug: "betterton-md"
-town: "Betterton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 4352
+state: "md"
+town_data: "betterton-md"
 ---

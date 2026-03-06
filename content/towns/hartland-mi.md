@@ -1,9 +1,7 @@
 ---
-title: "Hartland, Michigan Business Directory"
+title: "Hartland, MI Business Directory"
+type: "towns"
 slug: "hartland-mi"
-town: "Hartland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 1706
+state: "mi"
+town_data: "hartland-mi"
 ---

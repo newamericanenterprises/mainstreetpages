@@ -1,9 +1,7 @@
 ---
-title: "Hadley, Minnesota Business Directory"
+title: "Hadley, MN Business Directory"
+type: "towns"
 slug: "hadley-mn"
-town: "Hadley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 1977
+state: "mn"
+town_data: "hadley-mn"
 ---

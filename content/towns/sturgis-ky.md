@@ -1,9 +1,7 @@
 ---
-title: "Sturgis, Kentucky Business Directory"
+title: "Sturgis, KY Business Directory"
+type: "towns"
 slug: "sturgis-ky"
-town: "Sturgis"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Union"
-population: 1872
+state: "ky"
+town_data: "sturgis-ky"
 ---

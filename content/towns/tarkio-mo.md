@@ -1,7 +1,7 @@
 ---
-title: "Tarkio, Missouri Business Directory"
+title: "Tarkio, MO Business Directory"
+type: "towns"
 slug: "tarkio-mo"
-state: "MO"
-county: "Atchison"
-population: 1496
+state: "mo"
+town_data: "tarkio-mo"
 ---

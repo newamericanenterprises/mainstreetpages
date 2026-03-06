@@ -1,9 +1,7 @@
 ---
-title: "New Richmond, Indiana Business Directory"
+title: "New Richmond, IN Business Directory"
+type: "towns"
 slug: "new-richmond-in"
-town: "New Richmond"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 1843
+state: "in"
+town_data: "new-richmond-in"
 ---

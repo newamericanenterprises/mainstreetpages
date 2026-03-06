@@ -1,9 +1,7 @@
 ---
-title: "Montrose, Minnesota Business Directory"
+title: "Montrose, MN Business Directory"
+type: "towns"
 slug: "montrose-mn"
-town: "Montrose"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 2158
+state: "mn"
+town_data: "montrose-mn"
 ---

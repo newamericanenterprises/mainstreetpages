@@ -1,9 +1,7 @@
 ---
-title: "Grissom Air Reserve Base, Indiana Business Directory"
+title: "Grissom Air Reserve Base, IN Business Directory"
+type: "towns"
 slug: "grissom-air-reserve-base-in"
-town: "Grissom Air Reserve Base"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 1939
+state: "in"
+town_data: "grissom-air-reserve-base-in"
 ---

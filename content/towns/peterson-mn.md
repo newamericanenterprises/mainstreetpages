@@ -1,9 +1,7 @@
 ---
-title: "Peterson, Minnesota Business Directory"
+title: "Peterson, MN Business Directory"
+type: "towns"
 slug: "peterson-mn"
-town: "Peterson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 904
+state: "mn"
+town_data: "peterson-mn"
 ---

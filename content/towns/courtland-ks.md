@@ -1,9 +1,7 @@
 ---
-title: "Courtland, Kansas Business Directory"
+title: "Courtland, KS Business Directory"
+type: "towns"
 slug: "courtland-ks"
-town: "Courtland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 572
+state: "ks"
+town_data: "courtland-ks"
 ---

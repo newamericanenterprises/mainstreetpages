@@ -1,9 +1,7 @@
 ---
-title: "Owosso, Michigan Business Directory"
+title: "Owosso, MI Business Directory"
+type: "towns"
 slug: "owosso-mi"
-town: "Owosso"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 14651
+state: "mi"
+town_data: "owosso-mi"
 ---

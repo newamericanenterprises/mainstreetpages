@@ -1,7 +1,7 @@
 ---
-title: "Cook, Nebraska Business Directory"
+title: "Cook, NE Business Directory"
+type: "towns"
 slug: "cook-ne"
-state: "NE"
-county: "Johnson"
-population: 500
+state: "ne"
+town_data: "cook-ne"
 ---

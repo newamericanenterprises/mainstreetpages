@@ -1,9 +1,7 @@
 ---
-title: "Farley, Iowa Business Directory"
+title: "Farley, IA Business Directory"
+type: "towns"
 slug: "farley-ia"
-town: "Farley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 1636
+state: "ia"
+town_data: "farley-ia"
 ---

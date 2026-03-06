@@ -1,9 +1,7 @@
 ---
-title: "Bertha, Minnesota Business Directory"
+title: "Bertha, MN Business Directory"
+type: "towns"
 slug: "bertha-mn"
-town: "Bertha"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 2669
+state: "mn"
+town_data: "bertha-mn"
 ---

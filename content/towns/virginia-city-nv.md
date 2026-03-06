@@ -1,7 +1,7 @@
 ---
-title: "Virginia City, Nevada Business Directory"
+title: "Virginia City, NV Business Directory"
+type: "towns"
 slug: "virginia-city-nv"
-state: "NV"
-county: "Storey"
-population: 855
+state: "nv"
+town_data: "virginia-city-nv"
 ---

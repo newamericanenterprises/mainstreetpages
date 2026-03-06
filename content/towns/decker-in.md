@@ -1,9 +1,7 @@
 ---
-title: "Decker, Indiana Business Directory"
+title: "Decker, IN Business Directory"
+type: "towns"
 slug: "decker-in"
-town: "Decker"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 2704
+state: "in"
+town_data: "decker-in"
 ---

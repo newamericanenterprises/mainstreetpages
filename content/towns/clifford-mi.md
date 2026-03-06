@@ -1,9 +1,7 @@
 ---
-title: "Clifford, Michigan Business Directory"
+title: "Clifford, MI Business Directory"
+type: "towns"
 slug: "clifford-mi"
-town: "Clifford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 2940
+state: "mi"
+town_data: "clifford-mi"
 ---

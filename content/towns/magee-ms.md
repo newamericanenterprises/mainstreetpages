@@ -1,7 +1,7 @@
 ---
-title: "Magee, Mississippi Business Directory"
+title: "Magee, MS Business Directory"
+type: "towns"
 slug: "magee-ms"
-state: "MS"
-county: "Simpson"
-population: 4775
+state: "ms"
+town_data: "magee-ms"
 ---

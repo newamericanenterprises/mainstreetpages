@@ -1,9 +1,7 @@
 ---
-title: "Monhegan, Maine Business Directory"
+title: "Monhegan, ME Business Directory"
+type: "towns"
 slug: "monhegan-me"
-town: "Monhegan"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 921
+state: "me"
+town_data: "monhegan-me"
 ---

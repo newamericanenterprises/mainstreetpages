@@ -1,9 +1,7 @@
 ---
-title: "Jackman, Maine Business Directory"
+title: "Jackman, ME Business Directory"
+type: "towns"
 slug: "jackman-me"
-town: "Jackman"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2163
+state: "me"
+town_data: "jackman-me"
 ---

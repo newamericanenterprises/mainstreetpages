@@ -1,7 +1,7 @@
 ---
-title: "Winside, Nebraska Business Directory"
+title: "Winside, NE Business Directory"
+type: "towns"
 slug: "winside-ne"
-state: "NE"
-county: "Wayne"
-population: 500
+state: "ne"
+town_data: "winside-ne"
 ---

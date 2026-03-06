@@ -1,9 +1,7 @@
 ---
-title: "Howland, Maine Business Directory"
+title: "Howland, ME Business Directory"
+type: "towns"
 slug: "howland-me"
-town: "Howland"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 913
+state: "me"
+town_data: "howland-me"
 ---

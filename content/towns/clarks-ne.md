@@ -1,7 +1,7 @@
 ---
-title: "Clarks, Nebraska Business Directory"
+title: "Clarks, NE Business Directory"
+type: "towns"
 slug: "clarks-ne"
-state: "NE"
-county: "Merrick"
-population: 500
+state: "ne"
+town_data: "clarks-ne"
 ---

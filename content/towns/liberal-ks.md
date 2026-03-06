@@ -1,9 +1,7 @@
 ---
-title: "Liberal, Kansas Business Directory"
+title: "Liberal, KS Business Directory"
+type: "towns"
 slug: "liberal-ks"
-town: "Liberal"
-state: "Kansas"
-state_abbr: "KS"
-county: "Seward"
-population: 19826
+state: "ks"
+town_data: "liberal-ks"
 ---

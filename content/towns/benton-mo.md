@@ -1,7 +1,7 @@
 ---
-title: "Benton, Missouri Business Directory"
+title: "Benton, MO Business Directory"
+type: "towns"
 slug: "benton-mo"
-state: "MO"
-county: "Scott"
-population: 880
+state: "mo"
+town_data: "benton-mo"
 ---

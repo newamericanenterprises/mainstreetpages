@@ -1,9 +1,7 @@
 ---
-title: "Lyman, Maine Business Directory"
+title: "Lyman, ME Business Directory"
+type: "towns"
 slug: "lyman-me"
-town: "Lyman"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1379
+state: "me"
+town_data: "lyman-me"
 ---

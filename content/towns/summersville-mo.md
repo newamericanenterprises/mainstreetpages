@@ -1,7 +1,7 @@
 ---
-title: "Summersville, Missouri Business Directory"
+title: "Summersville, MO Business Directory"
+type: "towns"
 slug: "summersville-mo"
-state: "MO"
-county: "Texas"
-population: 1500
+state: "mo"
+town_data: "summersville-mo"
 ---

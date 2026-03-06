@@ -1,9 +1,7 @@
 ---
-title: "Rollingstone, Minnesota Business Directory"
+title: "Rollingstone, MN Business Directory"
+type: "towns"
 slug: "rollingstone-mn"
-town: "Rollingstone"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 2130
+state: "mn"
+town_data: "rollingstone-mn"
 ---

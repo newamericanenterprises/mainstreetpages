@@ -1,9 +1,7 @@
 ---
-title: "Sutton, Massachusetts Business Directory"
+title: "Sutton, MA Business Directory"
+type: "towns"
 slug: "sutton-ma"
-town: "Sutton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 3314
+state: "ma"
+town_data: "sutton-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Alexander, Iowa Business Directory"
+title: "Alexander, IA Business Directory"
+type: "towns"
 slug: "alexander-ia"
-town: "Alexander"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 1406
+state: "ia"
+town_data: "alexander-ia"
 ---

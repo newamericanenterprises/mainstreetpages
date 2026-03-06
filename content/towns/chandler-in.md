@@ -1,9 +1,7 @@
 ---
-title: "Chandler, Indiana Business Directory"
+title: "Chandler, IN Business Directory"
+type: "towns"
 slug: "chandler-in"
-town: "Chandler"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warrick"
-population: 2223
+state: "in"
+town_data: "chandler-in"
 ---

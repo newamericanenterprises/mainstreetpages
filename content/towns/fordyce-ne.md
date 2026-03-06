@@ -1,7 +1,7 @@
 ---
-title: "Fordyce, Nebraska Business Directory"
+title: "Fordyce, NE Business Directory"
+type: "towns"
 slug: "fordyce-ne"
-state: "NE"
-county: "Cedar"
-population: 115
+state: "ne"
+town_data: "fordyce-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Neola, Iowa Business Directory"
+title: "Neola, IA Business Directory"
+type: "towns"
 slug: "neola-ia"
-town: "Neola"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 2316
+state: "ia"
+town_data: "neola-ia"
 ---

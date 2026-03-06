@@ -1,7 +1,7 @@
 ---
-title: "Liberty, Mississippi Business Directory"
+title: "Liberty, MS Business Directory"
+type: "towns"
 slug: "liberty-ms"
-state: "MS"
-county: "Amite"
-population: 765
+state: "ms"
+town_data: "liberty-ms"
 ---

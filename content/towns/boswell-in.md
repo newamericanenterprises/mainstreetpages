@@ -1,9 +1,7 @@
 ---
-title: "Boswell, Indiana Business Directory"
+title: "Boswell, IN Business Directory"
+type: "towns"
 slug: "boswell-in"
-town: "Boswell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Benton"
-population: 2553
+state: "in"
+town_data: "boswell-in"
 ---

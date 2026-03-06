@@ -1,7 +1,7 @@
 ---
-title: "Ong, Nebraska Business Directory"
+title: "Ong, NE Business Directory"
+type: "towns"
 slug: "ong-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "ong-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brusly, Louisiana Business Directory"
+title: "Brusly, LA Business Directory"
+type: "towns"
 slug: "brusly-la"
-town: "Brusly"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Baton Rouge"
-population: 3013
+state: "la"
+town_data: "brusly-la"
 ---

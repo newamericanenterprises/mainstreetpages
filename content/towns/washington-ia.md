@@ -1,9 +1,7 @@
 ---
-title: "Washington, Iowa Business Directory"
+title: "Washington, IA Business Directory"
+type: "towns"
 slug: "washington-ia"
-town: "Washington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 7266
+state: "ia"
+town_data: "washington-ia"
 ---

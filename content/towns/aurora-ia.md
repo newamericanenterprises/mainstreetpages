@@ -1,9 +1,7 @@
 ---
-title: "Aurora, Iowa Business Directory"
+title: "Aurora, IA Business Directory"
+type: "towns"
 slug: "aurora-ia"
-town: "Aurora"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2761
+state: "ia"
+town_data: "aurora-ia"
 ---

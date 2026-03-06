@@ -1,9 +1,7 @@
 ---
-title: "Barclay, Maryland Business Directory"
+title: "Barclay, MD Business Directory"
+type: "towns"
 slug: "barclay-md"
-town: "Barclay"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 4143
+state: "md"
+town_data: "barclay-md"
 ---

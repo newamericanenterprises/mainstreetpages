@@ -1,7 +1,7 @@
 ---
-title: "Lovelock, Nevada Business Directory"
+title: "Lovelock, NV Business Directory"
+type: "towns"
 slug: "lovelock-nv"
-state: "NV"
-county: "Pershing"
-population: 1813
+state: "nv"
+town_data: "lovelock-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Otho, Iowa Business Directory"
+title: "Otho, IA Business Directory"
+type: "towns"
 slug: "otho-ia"
-town: "Otho"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 2370
+state: "ia"
+town_data: "otho-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Kansas Business Directory"
+title: "Richmond, KS Business Directory"
+type: "towns"
 slug: "richmond-ks"
-town: "Richmond"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 1389
+state: "ks"
+town_data: "richmond-ks"
 ---

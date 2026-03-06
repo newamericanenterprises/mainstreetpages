@@ -1,9 +1,7 @@
 ---
-title: "Hornick, Iowa Business Directory"
+title: "Hornick, IA Business Directory"
+type: "towns"
 slug: "hornick-ia"
-town: "Hornick"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 610
+state: "ia"
+town_data: "hornick-ia"
 ---

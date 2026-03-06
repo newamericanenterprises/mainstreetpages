@@ -1,7 +1,7 @@
 ---
-title: "Minden, Nevada Business Directory"
+title: "Minden, NV Business Directory"
+type: "towns"
 slug: "minden-nv"
-state: "NV"
-county: "Douglas"
-population: 3480
+state: "nv"
+town_data: "minden-nv"
 ---

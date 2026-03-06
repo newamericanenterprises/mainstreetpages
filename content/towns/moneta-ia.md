@@ -1,9 +1,7 @@
 ---
-title: "Moneta, Iowa Business Directory"
+title: "Moneta, IA Business Directory"
+type: "towns"
 slug: "moneta-ia"
-town: "Moneta"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 2774
+state: "ia"
+town_data: "moneta-ia"
 ---

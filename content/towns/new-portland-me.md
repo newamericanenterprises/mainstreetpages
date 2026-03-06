@@ -1,9 +1,7 @@
 ---
-title: "New Portland, Maine Business Directory"
+title: "New Portland, ME Business Directory"
+type: "towns"
 slug: "new-portland-me"
-town: "New Portland"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2539
+state: "me"
+town_data: "new-portland-me"
 ---

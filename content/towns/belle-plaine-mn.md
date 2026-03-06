@@ -1,9 +1,7 @@
 ---
-title: "Belle Plaine, Minnesota Business Directory"
+title: "Belle Plaine, MN Business Directory"
+type: "towns"
 slug: "belle-plaine-mn"
-town: "Belle Plaine"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 2466
+state: "mn"
+town_data: "belle-plaine-mn"
 ---

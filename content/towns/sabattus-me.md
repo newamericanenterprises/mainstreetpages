@@ -1,9 +1,7 @@
 ---
-title: "Sabattus, Maine Business Directory"
+title: "Sabattus, ME Business Directory"
+type: "towns"
 slug: "sabattus-me"
-town: "Sabattus"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 1386
+state: "me"
+town_data: "sabattus-me"
 ---

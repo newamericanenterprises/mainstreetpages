@@ -1,9 +1,7 @@
 ---
-title: "Belle Plaine, Kansas Business Directory"
+title: "Belle Plaine, KS Business Directory"
+type: "towns"
 slug: "belle-plaine-ks"
-town: "Belle Plaine"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 2743
+state: "ks"
+town_data: "belle-plaine-ks"
 ---

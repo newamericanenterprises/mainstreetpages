@@ -1,9 +1,7 @@
 ---
-title: "Carney, Michigan Business Directory"
+title: "Carney, MI Business Directory"
+type: "towns"
 slug: "carney-mi"
-town: "Carney"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 2277
+state: "mi"
+town_data: "carney-mi"
 ---

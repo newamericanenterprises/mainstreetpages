@@ -1,9 +1,7 @@
 ---
-title: "Marble, Minnesota Business Directory"
+title: "Marble, MN Business Directory"
+type: "towns"
 slug: "marble-mn"
-town: "Marble"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 3120
+state: "mn"
+town_data: "marble-mn"
 ---

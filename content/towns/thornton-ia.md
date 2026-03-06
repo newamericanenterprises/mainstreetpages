@@ -1,9 +1,7 @@
 ---
-title: "Thornton, Iowa Business Directory"
+title: "Thornton, IA Business Directory"
+type: "towns"
 slug: "thornton-ia"
-town: "Thornton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 3199
+state: "ia"
+town_data: "thornton-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pierceton, Indiana Business Directory"
+title: "Pierceton, IN Business Directory"
+type: "towns"
 slug: "pierceton-in"
-town: "Pierceton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 1127
+state: "in"
+town_data: "pierceton-in"
 ---

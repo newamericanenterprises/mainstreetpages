@@ -1,9 +1,7 @@
 ---
-title: "Philpot, Kentucky Business Directory"
+title: "Philpot, KY Business Directory"
+type: "towns"
 slug: "philpot-ky"
-town: "Philpot"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Daviess"
-population: 477
+state: "ky"
+town_data: "philpot-ky"
 ---

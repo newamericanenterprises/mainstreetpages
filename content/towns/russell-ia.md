@@ -1,9 +1,7 @@
 ---
-title: "Russell, Iowa Business Directory"
+title: "Russell, IA Business Directory"
+type: "towns"
 slug: "russell-ia"
-town: "Russell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lucas"
-population: 2794
+state: "ia"
+town_data: "russell-ia"
 ---

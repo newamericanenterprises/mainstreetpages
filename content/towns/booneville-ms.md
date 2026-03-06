@@ -1,7 +1,7 @@
 ---
-title: "Booneville, Mississippi Business Directory"
+title: "Booneville, MS Business Directory"
+type: "towns"
 slug: "booneville-ms"
-state: "MS"
-county: "Prentiss"
-population: 8416
+state: "ms"
+town_data: "booneville-ms"
 ---

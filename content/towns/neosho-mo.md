@@ -1,7 +1,7 @@
 ---
-title: "Neosho, Missouri Business Directory"
+title: "Neosho, MO Business Directory"
+type: "towns"
 slug: "neosho-mo"
-state: "MO"
-county: "Newton"
-population: 12021
+state: "mo"
+town_data: "neosho-mo"
 ---

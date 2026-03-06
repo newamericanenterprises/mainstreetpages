@@ -1,9 +1,7 @@
 ---
-title: "Rock, Michigan Business Directory"
+title: "Rock, MI Business Directory"
+type: "towns"
 slug: "rock-mi"
-town: "Rock"
-state: "Michigan"
-state_abbr: "MI"
-county: "Delta"
-population: 3211
+state: "mi"
+town_data: "rock-mi"
 ---

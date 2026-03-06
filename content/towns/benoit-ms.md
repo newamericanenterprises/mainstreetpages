@@ -1,7 +1,7 @@
 ---
-title: "Benoit, Mississippi Business Directory"
+title: "Benoit, MS Business Directory"
+type: "towns"
 slug: "benoit-ms"
-state: "MS"
-county: "Bolivar"
-population: 434
+state: "ms"
+town_data: "benoit-ms"
 ---

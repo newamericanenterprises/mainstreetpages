@@ -1,9 +1,7 @@
 ---
-title: "Prior Lake, Minnesota Business Directory"
+title: "Prior Lake, MN Business Directory"
+type: "towns"
 slug: "prior-lake-mn"
-town: "Prior Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 28162
+state: "mn"
+town_data: "prior-lake-mn"
 ---

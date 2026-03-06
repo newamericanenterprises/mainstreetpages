@@ -1,9 +1,7 @@
 ---
-title: "Holdingford, Minnesota Business Directory"
+title: "Holdingford, MN Business Directory"
+type: "towns"
 slug: "holdingford-mn"
-town: "Holdingford"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 344
+state: "mn"
+town_data: "holdingford-mn"
 ---

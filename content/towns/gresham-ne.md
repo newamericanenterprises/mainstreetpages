@@ -1,7 +1,7 @@
 ---
-title: "Gresham, Nebraska Business Directory"
+title: "Gresham, NE Business Directory"
+type: "towns"
 slug: "gresham-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "gresham-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Bernard, Louisiana Business Directory"
+title: "St. Bernard, LA Business Directory"
+type: "towns"
 slug: "st-bernard-la"
-town: "St. Bernard"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Bernard"
-population: 3191
+state: "la"
+town_data: "st-bernard-la"
 ---

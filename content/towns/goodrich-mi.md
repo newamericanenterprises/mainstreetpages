@@ -1,9 +1,7 @@
 ---
-title: "Goodrich, Michigan Business Directory"
+title: "Goodrich, MI Business Directory"
+type: "towns"
 slug: "goodrich-mi"
-town: "Goodrich"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 1646
+state: "mi"
+town_data: "goodrich-mi"
 ---

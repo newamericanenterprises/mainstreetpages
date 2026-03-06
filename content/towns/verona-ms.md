@@ -1,7 +1,7 @@
 ---
-title: "Verona, Mississippi Business Directory"
+title: "Verona, MS Business Directory"
+type: "towns"
 slug: "verona-ms"
-state: "MS"
-county: "Lee"
-population: 3421
+state: "ms"
+town_data: "verona-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dupuyer, Montana Business Directory"
+title: "Dupuyer, MT Business Directory"
+type: "towns"
 slug: "dupuyer-mt"
-state: "MT"
-county: "Pondera"
-population: 500
+state: "mt"
+town_data: "dupuyer-mt"
 ---

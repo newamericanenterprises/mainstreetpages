@@ -1,9 +1,7 @@
 ---
-title: "Riverview, Michigan Business Directory"
+title: "Riverview, MI Business Directory"
+type: "towns"
 slug: "riverview-mi"
-town: "Riverview"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1959
+state: "mi"
+town_data: "riverview-mi"
 ---

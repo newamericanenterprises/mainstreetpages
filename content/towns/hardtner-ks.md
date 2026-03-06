@@ -1,9 +1,7 @@
 ---
-title: "Hardtner, Kansas Business Directory"
+title: "Hardtner, KS Business Directory"
+type: "towns"
 slug: "hardtner-ks"
-town: "Hardtner"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 3253
+state: "ks"
+town_data: "hardtner-ks"
 ---

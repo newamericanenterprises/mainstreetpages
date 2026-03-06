@@ -1,9 +1,7 @@
 ---
-title: "Waldorf, Maryland Business Directory"
+title: "Waldorf, MD Business Directory"
+type: "towns"
 slug: "waldorf-md"
-town: "Waldorf"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 77005
+state: "md"
+town_data: "waldorf-md"
 ---

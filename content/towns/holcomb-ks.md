@@ -1,9 +1,7 @@
 ---
-title: "Holcomb, Kansas Business Directory"
+title: "Holcomb, KS Business Directory"
+type: "towns"
 slug: "holcomb-ks"
-town: "Holcomb"
-state: "Kansas"
-state_abbr: "KS"
-county: "Finney"
-population: 494
+state: "ks"
+town_data: "holcomb-ks"
 ---

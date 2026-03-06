@@ -1,9 +1,7 @@
 ---
-title: "Bellevue, Iowa Business Directory"
+title: "Bellevue, IA Business Directory"
+type: "towns"
 slug: "bellevue-ia"
-town: "Bellevue"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 1130
+state: "ia"
+town_data: "bellevue-ia"
 ---

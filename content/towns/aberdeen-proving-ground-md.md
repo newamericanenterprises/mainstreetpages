@@ -1,9 +1,7 @@
 ---
-title: "Aberdeen Proving Ground, Maryland Business Directory"
+title: "Aberdeen Proving Ground, MD Business Directory"
+type: "towns"
 slug: "aberdeen-proving-ground-md"
-town: "Aberdeen Proving Ground"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 2655
+state: "md"
+town_data: "aberdeen-proving-ground-md"
 ---

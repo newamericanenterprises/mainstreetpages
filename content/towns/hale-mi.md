@@ -1,9 +1,7 @@
 ---
-title: "Hale, Michigan Business Directory"
+title: "Hale, MI Business Directory"
+type: "towns"
 slug: "hale-mi"
-town: "Hale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iosco"
-population: 3519
+state: "mi"
+town_data: "hale-mi"
 ---

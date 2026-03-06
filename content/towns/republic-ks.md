@@ -1,9 +1,7 @@
 ---
-title: "Republic, Kansas Business Directory"
+title: "Republic, KS Business Directory"
+type: "towns"
 slug: "republic-ks"
-town: "Republic"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 1618
+state: "ks"
+town_data: "republic-ks"
 ---

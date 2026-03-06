@@ -1,9 +1,7 @@
 ---
-title: "Colfax, Louisiana Business Directory"
+title: "Colfax, LA Business Directory"
+type: "towns"
 slug: "colfax-la"
-town: "Colfax"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Grant"
-population: 1543
+state: "la"
+town_data: "colfax-la"
 ---

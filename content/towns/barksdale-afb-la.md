@@ -1,9 +1,7 @@
 ---
-title: "Barksdale AFB, Louisiana Business Directory"
+title: "Barksdale AFB, LA Business Directory"
+type: "towns"
 slug: "barksdale-afb-la"
-town: "Barksdale AFB"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bossier"
-population: 1937
+state: "la"
+town_data: "barksdale-afb-la"
 ---

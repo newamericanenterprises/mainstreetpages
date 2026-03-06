@@ -1,9 +1,7 @@
 ---
-title: "Wakefield, Michigan Business Directory"
+title: "Wakefield, MI Business Directory"
+type: "towns"
 slug: "wakefield-mi"
-town: "Wakefield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gogebic"
-population: 650
+state: "mi"
+town_data: "wakefield-mi"
 ---

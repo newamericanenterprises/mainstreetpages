@@ -1,9 +1,7 @@
 ---
-title: "Dimondale, Michigan Business Directory"
+title: "Dimondale, MI Business Directory"
+type: "towns"
 slug: "dimondale-mi"
-town: "Dimondale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 4201
+state: "mi"
+town_data: "dimondale-mi"
 ---

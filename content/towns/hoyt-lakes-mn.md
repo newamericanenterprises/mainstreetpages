@@ -1,9 +1,7 @@
 ---
-title: "Hoyt Lakes, Minnesota Business Directory"
+title: "Hoyt Lakes, MN Business Directory"
+type: "towns"
 slug: "hoyt-lakes-mn"
-town: "Hoyt Lakes"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 2146
+state: "mn"
+town_data: "hoyt-lakes-mn"
 ---

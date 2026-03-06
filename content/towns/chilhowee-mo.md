@@ -1,7 +1,7 @@
 ---
-title: "Chilhowee, Missouri Business Directory"
+title: "Chilhowee, MO Business Directory"
+type: "towns"
 slug: "chilhowee-mo"
-state: "MO"
-county: "Johnson"
-population: 1500
+state: "mo"
+town_data: "chilhowee-mo"
 ---

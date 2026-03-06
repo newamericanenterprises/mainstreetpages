@@ -1,9 +1,7 @@
 ---
-title: "Arlington, Minnesota Business Directory"
+title: "Arlington, MN Business Directory"
+type: "towns"
 slug: "arlington-mn"
-town: "Arlington"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 811
+state: "mn"
+town_data: "arlington-mn"
 ---

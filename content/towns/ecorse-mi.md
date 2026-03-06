@@ -1,9 +1,7 @@
 ---
-title: "Ecorse, Michigan Business Directory"
+title: "Ecorse, MI Business Directory"
+type: "towns"
 slug: "ecorse-mi"
-town: "Ecorse"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 4772
+state: "mi"
+town_data: "ecorse-mi"
 ---

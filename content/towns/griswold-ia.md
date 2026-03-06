@@ -1,9 +1,7 @@
 ---
-title: "Griswold, Iowa Business Directory"
+title: "Griswold, IA Business Directory"
+type: "towns"
 slug: "griswold-ia"
-town: "Griswold"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 2258
+state: "ia"
+town_data: "griswold-ia"
 ---

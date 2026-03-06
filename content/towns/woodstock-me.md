@@ -1,9 +1,7 @@
 ---
-title: "Woodstock, Maine Business Directory"
+title: "Woodstock, ME Business Directory"
+type: "towns"
 slug: "woodstock-me"
-town: "Woodstock"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2315
+state: "me"
+town_data: "woodstock-me"
 ---

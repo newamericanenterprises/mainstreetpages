@@ -1,7 +1,7 @@
 ---
-title: "Vienna, Missouri Business Directory"
+title: "Vienna, MO Business Directory"
+type: "towns"
 slug: "vienna-mo"
-state: "MO"
-county: "Maries"
-population: 619
+state: "mo"
+town_data: "vienna-mo"
 ---

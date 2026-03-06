@@ -1,9 +1,7 @@
 ---
-title: "Lakeside Park, Kentucky Business Directory"
+title: "Lakeside Park, KY Business Directory"
+type: "towns"
 slug: "lakeside-park-ky"
-town: "Lakeside Park"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2737
+state: "ky"
+town_data: "lakeside-park-ky"
 ---

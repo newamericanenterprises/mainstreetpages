@@ -1,7 +1,7 @@
 ---
-title: "Merriam Woods, Missouri Business Directory"
+title: "Merriam Woods, MO Business Directory"
+type: "towns"
 slug: "merriam-woods-mo"
-state: "MO"
-county: "Taney"
-population: 1500
+state: "mo"
+town_data: "merriam-woods-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Violet, Louisiana Business Directory"
+title: "Violet, LA Business Directory"
+type: "towns"
 slug: "violet-la"
-town: "Violet"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Bernard"
-population: 1829
+state: "la"
+town_data: "violet-la"
 ---

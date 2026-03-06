@@ -1,9 +1,7 @@
 ---
-title: "Walkerton, Indiana Business Directory"
+title: "Walkerton, IN Business Directory"
+type: "towns"
 slug: "walkerton-in"
-town: "Walkerton"
-state: "Indiana"
-state_abbr: "IN"
-county: "St. Joseph"
-population: 5160
+state: "in"
+town_data: "walkerton-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Harmony, Maine Business Directory"
+title: "Harmony, ME Business Directory"
+type: "towns"
 slug: "harmony-me"
-town: "Harmony"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 682
+state: "me"
+town_data: "harmony-me"
 ---

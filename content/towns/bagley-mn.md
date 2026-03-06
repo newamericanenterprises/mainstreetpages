@@ -1,9 +1,7 @@
 ---
-title: "Bagley, Minnesota Business Directory"
+title: "Bagley, MN Business Directory"
+type: "towns"
 slug: "bagley-mn"
-town: "Bagley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clearwater"
-population: 893
+state: "mn"
+town_data: "bagley-mn"
 ---

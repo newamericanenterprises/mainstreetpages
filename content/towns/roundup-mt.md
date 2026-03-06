@@ -1,7 +1,7 @@
 ---
-title: "Roundup, Montana Business Directory"
+title: "Roundup, MT Business Directory"
+type: "towns"
 slug: "roundup-mt"
-state: "MT"
-county: "Musselshell"
-population: 1788
+state: "mt"
+town_data: "roundup-mt"
 ---

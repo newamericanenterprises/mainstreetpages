@@ -1,9 +1,7 @@
 ---
-title: "Saline, Louisiana Business Directory"
+title: "Saline, LA Business Directory"
+type: "towns"
 slug: "saline-la"
-town: "Saline"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 1624
+state: "la"
+town_data: "saline-la"
 ---

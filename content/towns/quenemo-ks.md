@@ -1,9 +1,7 @@
 ---
-title: "Quenemo, Kansas Business Directory"
+title: "Quenemo, KS Business Directory"
+type: "towns"
 slug: "quenemo-ks"
-town: "Quenemo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 2406
+state: "ks"
+town_data: "quenemo-ks"
 ---

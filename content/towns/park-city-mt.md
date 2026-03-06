@@ -1,7 +1,7 @@
 ---
-title: "Park City, Montana Business Directory"
+title: "Park City, MT Business Directory"
+type: "towns"
 slug: "park-city-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "park-city-mt"
 ---

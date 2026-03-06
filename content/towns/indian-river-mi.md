@@ -1,9 +1,7 @@
 ---
-title: "Indian River, Michigan Business Directory"
+title: "Indian River, MI Business Directory"
+type: "towns"
 slug: "indian-river-mi"
-town: "Indian River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 3905
+state: "mi"
+town_data: "indian-river-mi"
 ---

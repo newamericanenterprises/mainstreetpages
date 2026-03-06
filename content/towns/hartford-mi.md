@@ -1,9 +1,7 @@
 ---
-title: "Hartford, Michigan Business Directory"
+title: "Hartford, MI Business Directory"
+type: "towns"
 slug: "hartford-mi"
-town: "Hartford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 2162
+state: "mi"
+town_data: "hartford-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Spring Creek, Nevada Business Directory"
+title: "Spring Creek, NV Business Directory"
+type: "towns"
 slug: "spring-creek-nv"
-state: "NV"
-county: "Elko"
-population: 15280
+state: "nv"
+town_data: "spring-creek-nv"
 ---

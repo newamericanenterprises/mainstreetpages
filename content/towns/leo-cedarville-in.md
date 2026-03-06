@@ -1,9 +1,7 @@
 ---
-title: "Leo-Cedarville, Indiana Business Directory"
+title: "Leo-Cedarville, IN Business Directory"
+type: "towns"
 slug: "leo-cedarville-in"
-town: "Leo-Cedarville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Allen"
-population: 2584
+state: "in"
+town_data: "leo-cedarville-in"
 ---

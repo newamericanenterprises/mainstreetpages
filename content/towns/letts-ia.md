@@ -1,9 +1,7 @@
 ---
-title: "Letts, Iowa Business Directory"
+title: "Letts, IA Business Directory"
+type: "towns"
 slug: "letts-ia"
-town: "Letts"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 1713
+state: "ia"
+town_data: "letts-ia"
 ---

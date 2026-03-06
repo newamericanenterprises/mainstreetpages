@@ -1,7 +1,7 @@
 ---
-title: "Ava, Missouri Business Directory"
+title: "Ava, MO Business Directory"
+type: "towns"
 slug: "ava-mo"
-state: "MO"
-county: "Douglas"
-population: 2992
+state: "mo"
+town_data: "ava-mo"
 ---

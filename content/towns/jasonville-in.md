@@ -1,9 +1,7 @@
 ---
-title: "Jasonville, Indiana Business Directory"
+title: "Jasonville, IN Business Directory"
+type: "towns"
 slug: "jasonville-in"
-town: "Jasonville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 1559
+state: "in"
+town_data: "jasonville-in"
 ---

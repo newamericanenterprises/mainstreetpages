@@ -1,9 +1,7 @@
 ---
-title: "Mattawamkeag, Maine Business Directory"
+title: "Mattawamkeag, ME Business Directory"
+type: "towns"
 slug: "mattawamkeag-me"
-town: "Mattawamkeag"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2276
+state: "me"
+town_data: "mattawamkeag-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hampton, Minnesota Business Directory"
+title: "Hampton, MN Business Directory"
+type: "towns"
 slug: "hampton-mn"
-town: "Hampton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 3019
+state: "mn"
+town_data: "hampton-mn"
 ---

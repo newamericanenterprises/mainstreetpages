@@ -1,9 +1,7 @@
 ---
-title: "Spring Hill, Kansas Business Directory"
+title: "Spring Hill, KS Business Directory"
+type: "towns"
 slug: "spring-hill-ks"
-town: "Spring Hill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Miami"
-population: 6939
+state: "ks"
+town_data: "spring-hill-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Balaton, Minnesota Business Directory"
+title: "Balaton, MN Business Directory"
+type: "towns"
 slug: "balaton-mn"
-town: "Balaton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 3094
+state: "mn"
+town_data: "balaton-mn"
 ---

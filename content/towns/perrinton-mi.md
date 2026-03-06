@@ -1,9 +1,7 @@
 ---
-title: "Perrinton, Michigan Business Directory"
+title: "Perrinton, MI Business Directory"
+type: "towns"
 slug: "perrinton-mi"
-town: "Perrinton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 1571
+state: "mi"
+town_data: "perrinton-mi"
 ---

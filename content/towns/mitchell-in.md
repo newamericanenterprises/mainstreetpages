@@ -1,9 +1,7 @@
 ---
-title: "Mitchell, Indiana Business Directory"
+title: "Mitchell, IN Business Directory"
+type: "towns"
 slug: "mitchell-in"
-town: "Mitchell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lawrence"
-population: 803
+state: "in"
+town_data: "mitchell-in"
 ---

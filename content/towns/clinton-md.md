@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Maryland Business Directory"
+title: "Clinton, MD Business Directory"
+type: "towns"
 slug: "clinton-md"
-town: "Clinton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4220
+state: "md"
+town_data: "clinton-md"
 ---

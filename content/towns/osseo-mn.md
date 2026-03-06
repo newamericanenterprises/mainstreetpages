@@ -1,9 +1,7 @@
 ---
-title: "Osseo, Minnesota Business Directory"
+title: "Osseo, MN Business Directory"
+type: "towns"
 slug: "osseo-mn"
-town: "Osseo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2061
+state: "mn"
+town_data: "osseo-mn"
 ---

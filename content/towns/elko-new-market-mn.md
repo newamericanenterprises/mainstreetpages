@@ -1,9 +1,7 @@
 ---
-title: "Elko New Market, Minnesota Business Directory"
+title: "Elko New Market, MN Business Directory"
+type: "towns"
 slug: "elko-new-market-mn"
-town: "Elko New Market"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 1759
+state: "mn"
+town_data: "elko-new-market-mn"
 ---

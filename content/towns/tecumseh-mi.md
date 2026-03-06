@@ -1,9 +1,7 @@
 ---
-title: "Tecumseh, Michigan Business Directory"
+title: "Tecumseh, MI Business Directory"
+type: "towns"
 slug: "tecumseh-mi"
-town: "Tecumseh"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 5038
+state: "mi"
+town_data: "tecumseh-mi"
 ---

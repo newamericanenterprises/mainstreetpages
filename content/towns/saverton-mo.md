@@ -1,7 +1,7 @@
 ---
-title: "Saverton, Missouri Business Directory"
+title: "Saverton, MO Business Directory"
+type: "towns"
 slug: "saverton-mo"
-state: "MO"
-county: "Ralls"
-population: 1500
+state: "mo"
+town_data: "saverton-mo"
 ---

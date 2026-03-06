@@ -1,9 +1,7 @@
 ---
-title: "Lima, Michigan Business Directory"
+title: "Lima, MI Business Directory"
+type: "towns"
 slug: "lima-mi"
-town: "Lima"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4363
+state: "mi"
+town_data: "lima-mi"
 ---

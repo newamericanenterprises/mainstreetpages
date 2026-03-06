@@ -1,9 +1,7 @@
 ---
-title: "Burnettsville, Indiana Business Directory"
+title: "Burnettsville, IN Business Directory"
+type: "towns"
 slug: "burnettsville-in"
-town: "Burnettsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 754
+state: "in"
+town_data: "burnettsville-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Brookfield, Missouri Business Directory"
+title: "Brookfield, MO Business Directory"
+type: "towns"
 slug: "brookfield-mo"
-state: "MO"
-county: "Linn"
-population: 4279
+state: "mo"
+town_data: "brookfield-mo"
 ---

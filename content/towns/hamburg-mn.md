@@ -1,9 +1,7 @@
 ---
-title: "Hamburg, Minnesota Business Directory"
+title: "Hamburg, MN Business Directory"
+type: "towns"
 slug: "hamburg-mn"
-town: "Hamburg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 3024
+state: "mn"
+town_data: "hamburg-mn"
 ---

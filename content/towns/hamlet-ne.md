@@ -1,7 +1,7 @@
 ---
-title: "Hamlet, Nebraska Business Directory"
+title: "Hamlet, NE Business Directory"
+type: "towns"
 slug: "hamlet-ne"
-state: "NE"
-county: "Hayes"
-population: 500
+state: "ne"
+town_data: "hamlet-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hattiesburg, Mississippi Business Directory"
+title: "Hattiesburg, MS Business Directory"
+type: "towns"
 slug: "hattiesburg-ms"
-state: "MS"
-county: "Forrest"
-population: 46377
+state: "ms"
+town_data: "hattiesburg-ms"
 ---

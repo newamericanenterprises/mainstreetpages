@@ -1,7 +1,7 @@
 ---
-title: "Exeter, Nebraska Business Directory"
+title: "Exeter, NE Business Directory"
+type: "towns"
 slug: "exeter-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "exeter-ne"
 ---

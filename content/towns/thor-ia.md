@@ -1,9 +1,7 @@
 ---
-title: "Thor, Iowa Business Directory"
+title: "Thor, IA Business Directory"
+type: "towns"
 slug: "thor-ia"
-town: "Thor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 2053
+state: "ia"
+town_data: "thor-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Risco, Missouri Business Directory"
+title: "Risco, MO Business Directory"
+type: "towns"
 slug: "risco-mo"
-state: "MO"
-county: "New Madrid"
-population: 1500
+state: "mo"
+town_data: "risco-mo"
 ---

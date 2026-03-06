@@ -1,7 +1,7 @@
 ---
-title: "Gilead, Nebraska Business Directory"
+title: "Gilead, NE Business Directory"
+type: "towns"
 slug: "gilead-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "gilead-ne"
 ---

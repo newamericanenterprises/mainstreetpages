@@ -1,9 +1,7 @@
 ---
-title: "Monticello, Indiana Business Directory"
+title: "Monticello, IN Business Directory"
+type: "towns"
 slug: "monticello-in"
-town: "Monticello"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 5203
+state: "in"
+town_data: "monticello-in"
 ---

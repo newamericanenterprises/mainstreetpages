@@ -1,9 +1,7 @@
 ---
-title: "Redford, Michigan Business Directory"
+title: "Redford, MI Business Directory"
+type: "towns"
 slug: "redford-mi"
-town: "Redford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2730
+state: "mi"
+town_data: "redford-mi"
 ---

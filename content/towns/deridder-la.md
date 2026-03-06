@@ -1,9 +1,7 @@
 ---
-title: "DeRidder, Louisiana Business Directory"
+title: "DeRidder, LA Business Directory"
+type: "towns"
 slug: "deridder-la"
-town: "DeRidder"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Beauregard"
-population: 10578
+state: "la"
+town_data: "deridder-la"
 ---

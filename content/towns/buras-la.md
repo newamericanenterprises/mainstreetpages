@@ -1,9 +1,7 @@
 ---
-title: "Buras, Louisiana Business Directory"
+title: "Buras, LA Business Directory"
+type: "towns"
 slug: "buras-la"
-town: "Buras"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 2922
+state: "la"
+town_data: "buras-la"
 ---

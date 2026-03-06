@@ -1,9 +1,7 @@
 ---
-title: "Montezuma, Kansas Business Directory"
+title: "Montezuma, KS Business Directory"
+type: "towns"
 slug: "montezuma-ks"
-town: "Montezuma"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gray"
-population: 335
+state: "ks"
+town_data: "montezuma-ks"
 ---

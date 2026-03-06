@@ -1,9 +1,7 @@
 ---
-title: "Fremont, Iowa Business Directory"
+title: "Fremont, IA Business Directory"
+type: "towns"
 slug: "fremont-ia"
-town: "Fremont"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 1880
+state: "ia"
+town_data: "fremont-ia"
 ---

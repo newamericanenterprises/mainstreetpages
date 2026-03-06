@@ -1,9 +1,7 @@
 ---
-title: "Dubberly, Louisiana Business Directory"
+title: "Dubberly, LA Business Directory"
+type: "towns"
 slug: "dubberly-la"
-town: "Dubberly"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 1895
+state: "la"
+town_data: "dubberly-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bellewood, Kentucky Business Directory"
+title: "Bellewood, KY Business Directory"
+type: "towns"
 slug: "bellewood-ky"
-town: "Bellewood"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 2912
+state: "ky"
+town_data: "bellewood-ky"
 ---

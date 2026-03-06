@@ -1,9 +1,7 @@
 ---
-title: "Lake Providence, Louisiana Business Directory"
+title: "Lake Providence, LA Business Directory"
+type: "towns"
 slug: "lake-providence-la"
-town: "Lake Providence"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Carroll"
-population: 3326
+state: "la"
+town_data: "lake-providence-la"
 ---

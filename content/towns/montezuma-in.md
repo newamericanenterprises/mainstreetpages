@@ -1,9 +1,7 @@
 ---
-title: "Montezuma, Indiana Business Directory"
+title: "Montezuma, IN Business Directory"
+type: "towns"
 slug: "montezuma-in"
-town: "Montezuma"
-state: "Indiana"
-state_abbr: "IN"
-county: "Parke"
-population: 3166
+state: "in"
+town_data: "montezuma-in"
 ---

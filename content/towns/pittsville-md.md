@@ -1,9 +1,7 @@
 ---
-title: "Pittsville, Maryland Business Directory"
+title: "Pittsville, MD Business Directory"
+type: "towns"
 slug: "pittsville-md"
-town: "Pittsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 2971
+state: "md"
+town_data: "pittsville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mountain Lake Park, Maryland Business Directory"
+title: "Mountain Lake Park, MD Business Directory"
+type: "towns"
 slug: "mountain-lake-park-md"
-town: "Mountain Lake Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 612
+state: "md"
+town_data: "mountain-lake-park-md"
 ---

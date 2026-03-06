@@ -1,9 +1,7 @@
 ---
-title: "Fort Mitchell, Kentucky Business Directory"
+title: "Fort Mitchell, KY Business Directory"
+type: "towns"
 slug: "fort-mitchell-ky"
-town: "Fort Mitchell"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2337
+state: "ky"
+town_data: "fort-mitchell-ky"
 ---

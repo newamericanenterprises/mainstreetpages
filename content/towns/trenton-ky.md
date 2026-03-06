@@ -1,9 +1,7 @@
 ---
-title: "Trenton, Kentucky Business Directory"
+title: "Trenton, KY Business Directory"
+type: "towns"
 slug: "trenton-ky"
-town: "Trenton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Todd"
-population: 1462
+state: "ky"
+town_data: "trenton-ky"
 ---

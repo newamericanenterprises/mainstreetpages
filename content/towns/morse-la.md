@@ -1,9 +1,7 @@
 ---
-title: "Morse, Louisiana Business Directory"
+title: "Morse, LA Business Directory"
+type: "towns"
 slug: "morse-la"
-town: "Morse"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 946
+state: "la"
+town_data: "morse-la"
 ---

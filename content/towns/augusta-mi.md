@@ -1,9 +1,7 @@
 ---
-title: "Augusta, Michigan Business Directory"
+title: "Augusta, MI Business Directory"
+type: "towns"
 slug: "augusta-mi"
-town: "Augusta"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 4629
+state: "mi"
+town_data: "augusta-mi"
 ---

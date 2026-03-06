@@ -1,9 +1,7 @@
 ---
-title: "Excelsior, Minnesota Business Directory"
+title: "Excelsior, MN Business Directory"
+type: "towns"
 slug: "excelsior-mn"
-town: "Excelsior"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 3045
+state: "mn"
+town_data: "excelsior-mn"
 ---

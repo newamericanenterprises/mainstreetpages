@@ -1,9 +1,7 @@
 ---
-title: "Concordia, Kansas Business Directory"
+title: "Concordia, KS Business Directory"
+type: "towns"
 slug: "concordia-ks"
-town: "Concordia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 5135
+state: "ks"
+town_data: "concordia-ks"
 ---

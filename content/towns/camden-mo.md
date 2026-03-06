@@ -1,7 +1,7 @@
 ---
-title: "Camden, Missouri Business Directory"
+title: "Camden, MO Business Directory"
+type: "towns"
 slug: "camden-mo"
-state: "MO"
-county: "Ray"
-population: 1500
+state: "mo"
+town_data: "camden-mo"
 ---

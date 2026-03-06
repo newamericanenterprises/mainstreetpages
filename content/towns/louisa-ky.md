@@ -1,9 +1,7 @@
 ---
-title: "Louisa, Kentucky Business Directory"
+title: "Louisa, KY Business Directory"
+type: "towns"
 slug: "louisa-ky"
-town: "Louisa"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lawrence"
-population: 2463
+state: "ky"
+town_data: "louisa-ky"
 ---

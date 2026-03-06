@@ -1,7 +1,7 @@
 ---
-title: "Gilman City, Missouri Business Directory"
+title: "Gilman City, MO Business Directory"
+type: "towns"
 slug: "gilman-city-mo"
-state: "MO"
-county: "Harrison"
-population: 1500
+state: "mo"
+town_data: "gilman-city-mo"
 ---

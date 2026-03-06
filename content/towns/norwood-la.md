@@ -1,9 +1,7 @@
 ---
-title: "Norwood, Louisiana Business Directory"
+title: "Norwood, LA Business Directory"
+type: "towns"
 slug: "norwood-la"
-town: "Norwood"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Feliciana"
-population: 2642
+state: "la"
+town_data: "norwood-la"
 ---

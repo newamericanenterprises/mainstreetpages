@@ -1,9 +1,7 @@
 ---
-title: "Jenkins, Minnesota Business Directory"
+title: "Jenkins, MN Business Directory"
+type: "towns"
 slug: "jenkins-mn"
-town: "Jenkins"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1547
+state: "mn"
+town_data: "jenkins-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Richland, Michigan Business Directory"
+title: "Richland, MI Business Directory"
+type: "towns"
 slug: "richland-mi"
-town: "Richland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 3265
+state: "mi"
+town_data: "richland-mi"
 ---

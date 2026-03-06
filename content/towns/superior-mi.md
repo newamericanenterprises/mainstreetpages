@@ -1,9 +1,7 @@
 ---
-title: "Superior, Michigan Business Directory"
+title: "Superior, MI Business Directory"
+type: "towns"
 slug: "superior-mi"
-town: "Superior"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 2423
+state: "mi"
+town_data: "superior-mi"
 ---

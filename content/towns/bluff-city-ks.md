@@ -1,9 +1,7 @@
 ---
-title: "Bluff City, Kansas Business Directory"
+title: "Bluff City, KS Business Directory"
+type: "towns"
 slug: "bluff-city-ks"
-town: "Bluff City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 2420
+state: "ks"
+town_data: "bluff-city-ks"
 ---

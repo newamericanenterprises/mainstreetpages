@@ -1,7 +1,7 @@
 ---
-title: "Valparaiso, Nebraska Business Directory"
+title: "Valparaiso, NE Business Directory"
+type: "towns"
 slug: "valparaiso-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "valparaiso-ne"
 ---

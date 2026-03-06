@@ -1,9 +1,7 @@
 ---
-title: "Ashfield, Massachusetts Business Directory"
+title: "Ashfield, MA Business Directory"
+type: "towns"
 slug: "ashfield-ma"
-town: "Ashfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 5206
+state: "ma"
+town_data: "ashfield-ma"
 ---

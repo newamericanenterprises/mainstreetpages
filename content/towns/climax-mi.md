@@ -1,9 +1,7 @@
 ---
-title: "Climax, Michigan Business Directory"
+title: "Climax, MI Business Directory"
+type: "towns"
 slug: "climax-mi"
-town: "Climax"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 3631
+state: "mi"
+town_data: "climax-mi"
 ---

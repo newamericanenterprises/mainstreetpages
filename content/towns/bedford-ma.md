@@ -1,9 +1,7 @@
 ---
-title: "Bedford, Massachusetts Business Directory"
+title: "Bedford, MA Business Directory"
+type: "towns"
 slug: "bedford-ma"
-town: "Bedford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 8091
+state: "ma"
+town_data: "bedford-ma"
 ---

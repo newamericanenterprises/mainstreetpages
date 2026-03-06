@@ -1,7 +1,7 @@
 ---
-title: "Advance, Missouri Business Directory"
+title: "Advance, MO Business Directory"
+type: "towns"
 slug: "advance-mo"
-state: "MO"
-county: "Stoddard"
-population: 1341
+state: "mo"
+town_data: "advance-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Humboldt, Iowa Business Directory"
+title: "Humboldt, IA Business Directory"
+type: "towns"
 slug: "humboldt-ia"
-town: "Humboldt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 4690
+state: "ia"
+town_data: "humboldt-ia"
 ---

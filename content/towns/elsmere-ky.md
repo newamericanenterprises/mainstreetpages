@@ -1,9 +1,7 @@
 ---
-title: "Elsmere, Kentucky Business Directory"
+title: "Elsmere, KY Business Directory"
+type: "towns"
 slug: "elsmere-ky"
-town: "Elsmere"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2040
+state: "ky"
+town_data: "elsmere-ky"
 ---

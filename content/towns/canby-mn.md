@@ -1,9 +1,7 @@
 ---
-title: "Canby, Minnesota Business Directory"
+title: "Canby, MN Business Directory"
+type: "towns"
 slug: "canby-mn"
-town: "Canby"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 1977
+state: "mn"
+town_data: "canby-mn"
 ---

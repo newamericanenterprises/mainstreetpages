@@ -1,9 +1,7 @@
 ---
-title: "Clare, Michigan Business Directory"
+title: "Clare, MI Business Directory"
+type: "towns"
 slug: "clare-mi"
-town: "Clare"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clare"
-population: 3699
+state: "mi"
+town_data: "clare-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bromley, Kentucky Business Directory"
+title: "Bromley, KY Business Directory"
+type: "towns"
 slug: "bromley-ky"
-town: "Bromley"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 1059
+state: "ky"
+town_data: "bromley-ky"
 ---

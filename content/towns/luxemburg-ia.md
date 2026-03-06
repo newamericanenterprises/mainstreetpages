@@ -1,9 +1,7 @@
 ---
-title: "Luxemburg, Iowa Business Directory"
+title: "Luxemburg, IA Business Directory"
+type: "towns"
 slug: "luxemburg-ia"
-town: "Luxemburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 1104
+state: "ia"
+town_data: "luxemburg-ia"
 ---

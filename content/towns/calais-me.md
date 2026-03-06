@@ -1,9 +1,7 @@
 ---
-title: "Calais, Maine Business Directory"
+title: "Calais, ME Business Directory"
+type: "towns"
 slug: "calais-me"
-town: "Calais"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2983
+state: "me"
+town_data: "calais-me"
 ---

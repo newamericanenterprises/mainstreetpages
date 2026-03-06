@@ -1,9 +1,7 @@
 ---
-title: "Hobbs, Indiana Business Directory"
+title: "Hobbs, IN Business Directory"
+type: "towns"
 slug: "hobbs-in"
-town: "Hobbs"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tipton"
-population: 2875
+state: "in"
+town_data: "hobbs-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Climax, Minnesota Business Directory"
+title: "Climax, MN Business Directory"
+type: "towns"
 slug: "climax-mn"
-town: "Climax"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 2356
+state: "mn"
+town_data: "climax-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Petersburg, Michigan Business Directory"
+title: "Petersburg, MI Business Directory"
+type: "towns"
 slug: "petersburg-mi"
-town: "Petersburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 3765
+state: "mi"
+town_data: "petersburg-mi"
 ---

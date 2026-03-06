@@ -1,9 +1,7 @@
 ---
-title: "Baileyville, Maine Business Directory"
+title: "Baileyville, ME Business Directory"
+type: "towns"
 slug: "baileyville-me"
-town: "Baileyville"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2271
+state: "me"
+town_data: "baileyville-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Farnhamville, Iowa Business Directory"
+title: "Farnhamville, IA Business Directory"
+type: "towns"
 slug: "farnhamville-ia"
-town: "Farnhamville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 1092
+state: "ia"
+town_data: "farnhamville-ia"
 ---

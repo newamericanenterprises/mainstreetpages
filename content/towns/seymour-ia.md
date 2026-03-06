@@ -1,9 +1,7 @@
 ---
-title: "Seymour, Iowa Business Directory"
+title: "Seymour, IA Business Directory"
+type: "towns"
 slug: "seymour-ia"
-town: "Seymour"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wayne"
-population: 1699
+state: "ia"
+town_data: "seymour-ia"
 ---

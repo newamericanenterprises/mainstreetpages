@@ -1,9 +1,7 @@
 ---
-title: "Plevna, Kansas Business Directory"
+title: "Plevna, KS Business Directory"
+type: "towns"
 slug: "plevna-ks"
-town: "Plevna"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 343
+state: "ks"
+town_data: "plevna-ks"
 ---

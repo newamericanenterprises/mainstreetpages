@@ -1,9 +1,7 @@
 ---
-title: "Raymond, Maine Business Directory"
+title: "Raymond, ME Business Directory"
+type: "towns"
 slug: "raymond-me"
-town: "Raymond"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 1544
+state: "me"
+town_data: "raymond-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Peck, Michigan Business Directory"
+title: "Peck, MI Business Directory"
+type: "towns"
 slug: "peck-mi"
-town: "Peck"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 4967
+state: "mi"
+town_data: "peck-mi"
 ---

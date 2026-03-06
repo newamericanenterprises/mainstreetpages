@@ -1,9 +1,7 @@
 ---
-title: "Leesville, Louisiana Business Directory"
+title: "Leesville, LA Business Directory"
+type: "towns"
 slug: "leesville-la"
-town: "Leesville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 6628
+state: "la"
+town_data: "leesville-la"
 ---

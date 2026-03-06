@@ -1,9 +1,7 @@
 ---
-title: "Ocean City, Maryland Business Directory"
+title: "Ocean City, MD Business Directory"
+type: "towns"
 slug: "ocean-city-md"
-town: "Ocean City"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 6957
+state: "md"
+town_data: "ocean-city-md"
 ---

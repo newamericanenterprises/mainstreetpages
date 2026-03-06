@@ -1,7 +1,7 @@
 ---
-title: "Everton, Missouri Business Directory"
+title: "Everton, MO Business Directory"
+type: "towns"
 slug: "everton-mo"
-state: "MO"
-county: "Dade"
-population: 1500
+state: "mo"
+town_data: "everton-mo"
 ---

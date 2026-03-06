@@ -1,9 +1,7 @@
 ---
-title: "Albia, Iowa Business Directory"
+title: "Albia, IA Business Directory"
+type: "towns"
 slug: "albia-ia"
-town: "Albia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Monroe"
-population: 3706
+state: "ia"
+town_data: "albia-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lake Shore, Maryland Business Directory"
+title: "Lake Shore, MD Business Directory"
+type: "towns"
 slug: "lake-shore-md"
-town: "Lake Shore"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 3864
+state: "md"
+town_data: "lake-shore-md"
 ---

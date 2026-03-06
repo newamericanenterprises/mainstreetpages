@@ -1,9 +1,7 @@
 ---
-title: "Hanlontown, Iowa Business Directory"
+title: "Hanlontown, IA Business Directory"
+type: "towns"
 slug: "hanlontown-ia"
-town: "Hanlontown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 2448
+state: "ia"
+town_data: "hanlontown-ia"
 ---

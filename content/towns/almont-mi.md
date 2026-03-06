@@ -1,9 +1,7 @@
 ---
-title: "Almont, Michigan Business Directory"
+title: "Almont, MI Business Directory"
+type: "towns"
 slug: "almont-mi"
-town: "Almont"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 1266
+state: "mi"
+town_data: "almont-mi"
 ---

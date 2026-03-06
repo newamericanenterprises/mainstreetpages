@@ -1,7 +1,7 @@
 ---
-title: "Nevada, Missouri Business Directory"
+title: "Nevada, MO Business Directory"
+type: "towns"
 slug: "nevada-mo"
-state: "MO"
-county: "Vernon"
-population: 8386
+state: "mo"
+town_data: "nevada-mo"
 ---

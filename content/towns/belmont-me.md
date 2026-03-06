@@ -1,9 +1,7 @@
 ---
-title: "Belmont, Maine Business Directory"
+title: "Belmont, ME Business Directory"
+type: "towns"
 slug: "belmont-me"
-town: "Belmont"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 437
+state: "me"
+town_data: "belmont-me"
 ---

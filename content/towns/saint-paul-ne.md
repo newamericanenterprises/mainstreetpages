@@ -1,7 +1,7 @@
 ---
-title: "Saint Paul, Nebraska Business Directory"
+title: "Saint Paul, NE Business Directory"
+type: "towns"
 slug: "saint-paul-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "saint-paul-ne"
 ---

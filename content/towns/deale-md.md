@@ -1,9 +1,7 @@
 ---
-title: "Deale, Maryland Business Directory"
+title: "Deale, MD Business Directory"
+type: "towns"
 slug: "deale-md"
-town: "Deale"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 4513
+state: "md"
+town_data: "deale-md"
 ---

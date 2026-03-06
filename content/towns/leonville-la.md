@@ -1,9 +1,7 @@
 ---
-title: "Leonville, Louisiana Business Directory"
+title: "Leonville, LA Business Directory"
+type: "towns"
 slug: "leonville-la"
-town: "Leonville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 2851
+state: "la"
+town_data: "leonville-la"
 ---

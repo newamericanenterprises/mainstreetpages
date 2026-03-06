@@ -1,9 +1,7 @@
 ---
-title: "Lucan, Minnesota Business Directory"
+title: "Lucan, MN Business Directory"
+type: "towns"
 slug: "lucan-mn"
-town: "Lucan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2419
+state: "mn"
+town_data: "lucan-mn"
 ---

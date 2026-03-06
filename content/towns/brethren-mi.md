@@ -1,9 +1,7 @@
 ---
-title: "Brethren, Michigan Business Directory"
+title: "Brethren, MI Business Directory"
+type: "towns"
 slug: "brethren-mi"
-town: "Brethren"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 3581
+state: "mi"
+town_data: "brethren-mi"
 ---

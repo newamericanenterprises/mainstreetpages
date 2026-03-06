@@ -1,9 +1,7 @@
 ---
-title: "Lisbon, Maine Business Directory"
+title: "Lisbon, ME Business Directory"
+type: "towns"
 slug: "lisbon-me"
-town: "Lisbon"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 9009
+state: "me"
+town_data: "lisbon-me"
 ---

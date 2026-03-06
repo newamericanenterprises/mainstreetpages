@@ -1,9 +1,7 @@
 ---
-title: "Tyringham, Massachusetts Business Directory"
+title: "Tyringham, MA Business Directory"
+type: "towns"
 slug: "tyringham-ma"
-town: "Tyringham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8921
+state: "ma"
+town_data: "tyringham-ma"
 ---

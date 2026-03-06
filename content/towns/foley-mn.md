@@ -1,9 +1,7 @@
 ---
-title: "Foley, Minnesota Business Directory"
+title: "Foley, MN Business Directory"
+type: "towns"
 slug: "foley-mn"
-town: "Foley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Benton"
-population: 650
+state: "mn"
+town_data: "foley-mn"
 ---

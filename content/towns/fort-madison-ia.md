@@ -1,9 +1,7 @@
 ---
-title: "Fort Madison, Iowa Business Directory"
+title: "Fort Madison, IA Business Directory"
+type: "towns"
 slug: "fort-madison-ia"
-town: "Fort Madison"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 10414
+state: "ia"
+town_data: "fort-madison-ia"
 ---

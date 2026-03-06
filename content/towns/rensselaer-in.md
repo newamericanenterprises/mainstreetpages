@@ -1,9 +1,7 @@
 ---
-title: "Rensselaer, Indiana Business Directory"
+title: "Rensselaer, IN Business Directory"
+type: "towns"
 slug: "rensselaer-in"
-town: "Rensselaer"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jasper"
-population: 5904
+state: "in"
+town_data: "rensselaer-in"
 ---

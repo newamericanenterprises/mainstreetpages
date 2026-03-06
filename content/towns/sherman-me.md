@@ -1,9 +1,7 @@
 ---
-title: "Sherman, Maine Business Directory"
+title: "Sherman, ME Business Directory"
+type: "towns"
 slug: "sherman-me"
-town: "Sherman"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 420
+state: "me"
+town_data: "sherman-me"
 ---

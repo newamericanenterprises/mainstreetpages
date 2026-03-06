@@ -1,7 +1,7 @@
 ---
-title: "Gandy, Nebraska Business Directory"
+title: "Gandy, NE Business Directory"
+type: "towns"
 slug: "gandy-ne"
-state: "NE"
-county: "Logan"
-population: 500
+state: "ne"
+town_data: "gandy-ne"
 ---

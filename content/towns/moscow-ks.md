@@ -1,9 +1,7 @@
 ---
-title: "Moscow, Kansas Business Directory"
+title: "Moscow, KS Business Directory"
+type: "towns"
 slug: "moscow-ks"
-town: "Moscow"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stevens"
-population: 1253
+state: "ks"
+town_data: "moscow-ks"
 ---

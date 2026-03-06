@@ -1,7 +1,7 @@
 ---
-title: "McCook, Nebraska Business Directory"
+title: "Mccook, NE Business Directory"
+type: "towns"
 slug: "mccook-ne"
-state: "NE"
-county: "Red Willow"
-population: 7698
+state: "ne"
+town_data: "mccook-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Melstone, Montana Business Directory"
+title: "Melstone, MT Business Directory"
+type: "towns"
 slug: "melstone-mt"
-state: "MT"
-county: "Musselshell"
-population: 500
+state: "mt"
+town_data: "melstone-mt"
 ---

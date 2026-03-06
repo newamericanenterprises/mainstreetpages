@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Massachusetts Business Directory"
+title: "Oxford, MA Business Directory"
+type: "towns"
 slug: "oxford-ma"
-town: "Oxford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1387
+state: "ma"
+town_data: "oxford-ma"
 ---

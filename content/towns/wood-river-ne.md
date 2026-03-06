@@ -1,7 +1,7 @@
 ---
-title: "Wood River, Nebraska Business Directory"
+title: "Wood River, NE Business Directory"
+type: "towns"
 slug: "wood-river-ne"
-state: "NE"
-county: "Hall"
-population: 500
+state: "ne"
+town_data: "wood-river-ne"
 ---

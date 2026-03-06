@@ -1,9 +1,7 @@
 ---
-title: "Kennebunk, Maine Business Directory"
+title: "Kennebunk, ME Business Directory"
+type: "towns"
 slug: "kennebunk-me"
-town: "Kennebunk"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 11933
+state: "me"
+town_data: "kennebunk-me"
 ---

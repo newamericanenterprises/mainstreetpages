@@ -1,9 +1,7 @@
 ---
-title: "Mendon, Michigan Business Directory"
+title: "Mendon, MI Business Directory"
+type: "towns"
 slug: "mendon-mi"
-town: "Mendon"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 3406
+state: "mi"
+town_data: "mendon-mi"
 ---

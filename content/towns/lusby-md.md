@@ -1,9 +1,7 @@
 ---
-title: "Lusby, Maryland Business Directory"
+title: "Lusby, MD Business Directory"
+type: "towns"
 slug: "lusby-md"
-town: "Lusby"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 5336
+state: "md"
+town_data: "lusby-md"
 ---

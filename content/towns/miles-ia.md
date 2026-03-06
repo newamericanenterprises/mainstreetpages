@@ -1,9 +1,7 @@
 ---
-title: "Miles, Iowa Business Directory"
+title: "Miles, IA Business Directory"
+type: "towns"
 slug: "miles-ia"
-town: "Miles"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 550
+state: "ia"
+town_data: "miles-ia"
 ---

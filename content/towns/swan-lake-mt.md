@@ -1,7 +1,7 @@
 ---
-title: "Swan Lake, Montana Business Directory"
+title: "Swan Lake, MT Business Directory"
+type: "towns"
 slug: "swan-lake-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "swan-lake-mt"
 ---

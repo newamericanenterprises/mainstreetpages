@@ -1,9 +1,7 @@
 ---
-title: "Bevington, Iowa Business Directory"
+title: "Bevington, IA Business Directory"
+type: "towns"
 slug: "bevington-ia"
-town: "Bevington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Madison"
-population: 2681
+state: "ia"
+town_data: "bevington-ia"
 ---

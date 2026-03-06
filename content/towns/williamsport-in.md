@@ -1,9 +1,7 @@
 ---
-title: "Williamsport, Indiana Business Directory"
+title: "Williamsport, IN Business Directory"
+type: "towns"
 slug: "williamsport-in"
-town: "Williamsport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warren"
-population: 1870
+state: "in"
+town_data: "williamsport-in"
 ---

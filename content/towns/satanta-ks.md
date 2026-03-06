@@ -1,9 +1,7 @@
 ---
-title: "Satanta, Kansas Business Directory"
+title: "Satanta, KS Business Directory"
+type: "towns"
 slug: "satanta-ks"
-town: "Satanta"
-state: "Kansas"
-state_abbr: "KS"
-county: "Haskell"
-population: 3173
+state: "ks"
+town_data: "satanta-ks"
 ---

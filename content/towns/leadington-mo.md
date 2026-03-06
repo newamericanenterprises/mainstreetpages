@@ -1,7 +1,7 @@
 ---
-title: "Leadington, Missouri Business Directory"
+title: "Leadington, MO Business Directory"
+type: "towns"
 slug: "leadington-mo"
-state: "MO"
-county: "St. Francois"
-population: 330
+state: "mo"
+town_data: "leadington-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Larslan, Montana Business Directory"
+title: "Larslan, MT Business Directory"
+type: "towns"
 slug: "larslan-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "larslan-mt"
 ---

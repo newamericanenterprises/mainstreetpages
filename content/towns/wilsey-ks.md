@@ -1,9 +1,7 @@
 ---
-title: "Wilsey, Kansas Business Directory"
+title: "Wilsey, KS Business Directory"
+type: "towns"
 slug: "wilsey-ks"
-town: "Wilsey"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 2267
+state: "ks"
+town_data: "wilsey-ks"
 ---

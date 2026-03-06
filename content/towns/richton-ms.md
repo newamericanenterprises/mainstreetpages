@@ -1,7 +1,7 @@
 ---
-title: "Richton, Mississippi Business Directory"
+title: "Richton, MS Business Directory"
+type: "towns"
 slug: "richton-ms"
-state: "MS"
-county: "Perry"
-population: 1057
+state: "ms"
+town_data: "richton-ms"
 ---

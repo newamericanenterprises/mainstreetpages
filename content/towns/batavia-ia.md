@@ -1,9 +1,7 @@
 ---
-title: "Batavia, Iowa Business Directory"
+title: "Batavia, IA Business Directory"
+type: "towns"
 slug: "batavia-ia"
-town: "Batavia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jefferson"
-population: 752
+state: "ia"
+town_data: "batavia-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Coburg, Iowa Business Directory"
+title: "Coburg, IA Business Directory"
+type: "towns"
 slug: "coburg-ia"
-town: "Coburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 3470
+state: "ia"
+town_data: "coburg-ia"
 ---

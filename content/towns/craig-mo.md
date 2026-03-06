@@ -1,7 +1,7 @@
 ---
-title: "Craig, Missouri Business Directory"
+title: "Craig, MO Business Directory"
+type: "towns"
 slug: "craig-mo"
-state: "MO"
-county: "Holt"
-population: 1500
+state: "mo"
+town_data: "craig-mo"
 ---

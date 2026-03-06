@@ -1,9 +1,7 @@
 ---
-title: "Roosevelt Park, Michigan Business Directory"
+title: "Roosevelt Park, MI Business Directory"
+type: "towns"
 slug: "roosevelt-park-mi"
-town: "Roosevelt Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 656
+state: "mi"
+town_data: "roosevelt-park-mi"
 ---

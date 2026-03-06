@@ -1,7 +1,7 @@
 ---
-title: "Richland, Missouri Business Directory"
+title: "Richland, MO Business Directory"
+type: "towns"
 slug: "richland-mo"
-state: "MO"
-county: "Pulaski"
-population: 1898
+state: "mo"
+town_data: "richland-mo"
 ---

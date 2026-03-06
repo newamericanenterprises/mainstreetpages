@@ -1,7 +1,7 @@
 ---
-title: "East Las Vegas, Nevada Business Directory"
+title: "East Las Vegas, NV Business Directory"
+type: "towns"
 slug: "east-las-vegas-nv"
-state: "NV"
-county: "Clark"
-population: 500
+state: "nv"
+town_data: "east-las-vegas-nv"
 ---

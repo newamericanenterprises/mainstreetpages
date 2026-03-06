@@ -1,9 +1,7 @@
 ---
-title: "Mulvane, Kansas Business Directory"
+title: "Mulvane, KS Business Directory"
+type: "towns"
 slug: "mulvane-ks"
-town: "Mulvane"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 2171
+state: "ks"
+town_data: "mulvane-ks"
 ---

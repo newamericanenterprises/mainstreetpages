@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Maryland Business Directory"
+title: "Dayton, MD Business Directory"
+type: "towns"
 slug: "dayton-md"
-town: "Dayton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 5343
+state: "md"
+town_data: "dayton-md"
 ---

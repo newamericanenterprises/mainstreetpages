@@ -1,9 +1,7 @@
 ---
-title: "Biwabik, Minnesota Business Directory"
+title: "Biwabik, MN Business Directory"
+type: "towns"
 slug: "biwabik-mn"
-town: "Biwabik"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 3080
+state: "mn"
+town_data: "biwabik-mn"
 ---

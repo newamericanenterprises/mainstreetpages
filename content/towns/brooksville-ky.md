@@ -1,9 +1,7 @@
 ---
-title: "Brooksville, Kentucky Business Directory"
+title: "Brooksville, KY Business Directory"
+type: "towns"
 slug: "brooksville-ky"
-town: "Brooksville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bracken"
-population: 627
+state: "ky"
+town_data: "brooksville-ky"
 ---

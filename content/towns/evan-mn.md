@@ -1,9 +1,7 @@
 ---
-title: "Evan, Minnesota Business Directory"
+title: "Evan, MN Business Directory"
+type: "towns"
 slug: "evan-mn"
-town: "Evan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 2920
+state: "mn"
+town_data: "evan-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Carterville, Missouri Business Directory"
+title: "Carterville, MO Business Directory"
+type: "towns"
 slug: "carterville-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "carterville-mo"
 ---

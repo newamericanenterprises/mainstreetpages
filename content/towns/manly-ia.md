@@ -1,9 +1,7 @@
 ---
-title: "Manly, Iowa Business Directory"
+title: "Manly, IA Business Directory"
+type: "towns"
 slug: "manly-ia"
-town: "Manly"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 1544
+state: "ia"
+town_data: "manly-ia"
 ---

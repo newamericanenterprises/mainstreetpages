@@ -1,7 +1,7 @@
 ---
-title: "Laurel, Montana Business Directory"
+title: "Laurel, MT Business Directory"
+type: "towns"
 slug: "laurel-mt"
-state: "MT"
-county: "Yellowstone"
-population: 7282
+state: "mt"
+town_data: "laurel-mt"
 ---

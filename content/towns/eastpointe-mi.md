@@ -1,9 +1,7 @@
 ---
-title: "Eastpointe, Michigan Business Directory"
+title: "Eastpointe, MI Business Directory"
+type: "towns"
 slug: "eastpointe-mi"
-town: "Eastpointe"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 3894
+state: "mi"
+town_data: "eastpointe-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fairfield, Montana Business Directory"
+title: "Fairfield, MT Business Directory"
+type: "towns"
 slug: "fairfield-mt"
-state: "MT"
-county: "Teton"
-population: 708
+state: "mt"
+town_data: "fairfield-mt"
 ---

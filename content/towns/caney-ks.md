@@ -1,9 +1,7 @@
 ---
-title: "Caney, Kansas Business Directory"
+title: "Caney, KS Business Directory"
+type: "towns"
 slug: "caney-ks"
-town: "Caney"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 2227
+state: "ks"
+town_data: "caney-ks"
 ---

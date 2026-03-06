@@ -1,9 +1,7 @@
 ---
-title: "Wyoming, Michigan Business Directory"
+title: "Wyoming, MI Business Directory"
+type: "towns"
 slug: "wyoming-mi"
-town: "Wyoming"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 76804
+state: "mi"
+town_data: "wyoming-mi"
 ---

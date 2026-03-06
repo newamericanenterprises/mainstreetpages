@@ -1,7 +1,7 @@
 ---
-title: "Port Gibson, Mississippi Business Directory"
+title: "Port Gibson, MS Business Directory"
+type: "towns"
 slug: "port-gibson-ms"
-state: "MS"
-county: "Claiborne"
-population: 1567
+state: "ms"
+town_data: "port-gibson-ms"
 ---

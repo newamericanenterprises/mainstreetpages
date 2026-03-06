@@ -1,7 +1,7 @@
 ---
-title: "Inverness, Mississippi Business Directory"
+title: "Inverness, MS Business Directory"
+type: "towns"
 slug: "inverness-ms"
-state: "MS"
-county: "Sunflower"
-population: 955
+state: "ms"
+town_data: "inverness-ms"
 ---

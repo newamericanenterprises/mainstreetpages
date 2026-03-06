@@ -1,7 +1,7 @@
 ---
-title: "Byhalia, Mississippi Business Directory"
+title: "Byhalia, MS Business Directory"
+type: "towns"
 slug: "byhalia-ms"
-state: "MS"
-county: "Marshall"
-population: 1293
+state: "ms"
+town_data: "byhalia-ms"
 ---

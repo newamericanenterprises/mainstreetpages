@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Kansas Business Directory"
+title: "Oxford, KS Business Directory"
+type: "towns"
 slug: "oxford-ks"
-town: "Oxford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 2614
+state: "ks"
+town_data: "oxford-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Festus, Missouri Business Directory"
+title: "Festus, MO Business Directory"
+type: "towns"
 slug: "festus-mo"
-state: "MO"
-county: "Jefferson"
-population: 12059
+state: "mo"
+town_data: "festus-mo"
 ---

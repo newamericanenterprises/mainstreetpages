@@ -1,9 +1,7 @@
 ---
-title: "Borden, Indiana Business Directory"
+title: "Borden, IN Business Directory"
+type: "towns"
 slug: "borden-in"
-town: "Borden"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clark"
-population: 2287
+state: "in"
+town_data: "borden-in"
 ---

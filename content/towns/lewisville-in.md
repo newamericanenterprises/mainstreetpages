@@ -1,9 +1,7 @@
 ---
-title: "Lewisville, Indiana Business Directory"
+title: "Lewisville, IN Business Directory"
+type: "towns"
 slug: "lewisville-in"
-town: "Lewisville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 742
+state: "in"
+town_data: "lewisville-in"
 ---

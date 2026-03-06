@@ -1,9 +1,7 @@
 ---
-title: "Moscow, Maine Business Directory"
+title: "Moscow, ME Business Directory"
+type: "towns"
 slug: "moscow-me"
-town: "Moscow"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1459
+state: "me"
+town_data: "moscow-me"
 ---

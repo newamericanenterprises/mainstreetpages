@@ -1,9 +1,7 @@
 ---
-title: "West Lebanon, Indiana Business Directory"
+title: "West Lebanon, IN Business Directory"
+type: "towns"
 slug: "west-lebanon-in"
-town: "West Lebanon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warren"
-population: 2914
+state: "in"
+town_data: "west-lebanon-in"
 ---

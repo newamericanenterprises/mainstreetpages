@@ -1,9 +1,7 @@
 ---
-title: "Leavenworth, Indiana Business Directory"
+title: "Leavenworth, IN Business Directory"
+type: "towns"
 slug: "leavenworth-in"
-town: "Leavenworth"
-state: "Indiana"
-state_abbr: "IN"
-county: "Crawford"
-population: 4413
+state: "in"
+town_data: "leavenworth-in"
 ---

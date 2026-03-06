@@ -1,9 +1,7 @@
 ---
-title: "Cadillac, Michigan Business Directory"
+title: "Cadillac, MI Business Directory"
+type: "towns"
 slug: "cadillac-mi"
-town: "Cadillac"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wexford"
-population: 10355
+state: "mi"
+town_data: "cadillac-mi"
 ---

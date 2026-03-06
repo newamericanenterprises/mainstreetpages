@@ -1,9 +1,7 @@
 ---
-title: "Bradley, Maine Business Directory"
+title: "Bradley, ME Business Directory"
+type: "towns"
 slug: "bradley-me"
-town: "Bradley"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 369
+state: "me"
+town_data: "bradley-me"
 ---

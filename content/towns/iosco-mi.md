@@ -1,9 +1,7 @@
 ---
-title: "Iosco, Michigan Business Directory"
+title: "Iosco, MI Business Directory"
+type: "towns"
 slug: "iosco-mi"
-town: "Iosco"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 1908
+state: "mi"
+town_data: "iosco-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Blue Springs, Nebraska Business Directory"
+title: "Blue Springs, NE Business Directory"
+type: "towns"
 slug: "blue-springs-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "blue-springs-ne"
 ---

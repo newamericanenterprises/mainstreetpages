@@ -1,9 +1,7 @@
 ---
-title: "Cold Spring, Minnesota Business Directory"
+title: "Cold Spring, MN Business Directory"
+type: "towns"
 slug: "cold-spring-mn"
-town: "Cold Spring"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 2414
+state: "mn"
+town_data: "cold-spring-mn"
 ---

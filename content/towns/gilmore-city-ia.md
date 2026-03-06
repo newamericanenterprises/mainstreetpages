@@ -1,9 +1,7 @@
 ---
-title: "Gilmore City, Iowa Business Directory"
+title: "Gilmore City, IA Business Directory"
+type: "towns"
 slug: "gilmore-city-ia"
-town: "Gilmore City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1976
+state: "ia"
+town_data: "gilmore-city-ia"
 ---

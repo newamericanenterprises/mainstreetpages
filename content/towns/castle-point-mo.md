@@ -1,7 +1,7 @@
 ---
-title: "Castle Point, Missouri Business Directory"
+title: "Castle Point, MO Business Directory"
+type: "towns"
 slug: "castle-point-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "castle-point-mo"
 ---

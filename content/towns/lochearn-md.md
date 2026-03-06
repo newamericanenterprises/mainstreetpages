@@ -1,9 +1,7 @@
 ---
-title: "Lochearn, Maryland Business Directory"
+title: "Lochearn, MD Business Directory"
+type: "towns"
 slug: "lochearn-md"
-town: "Lochearn"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2024
+state: "md"
+town_data: "lochearn-md"
 ---

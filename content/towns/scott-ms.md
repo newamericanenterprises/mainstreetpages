@@ -1,7 +1,7 @@
 ---
-title: "Scott, Mississippi Business Directory"
+title: "Scott, MS Business Directory"
+type: "towns"
 slug: "scott-ms"
-state: "MS"
-county: "Bolivar"
-population: 454
+state: "ms"
+town_data: "scott-ms"
 ---

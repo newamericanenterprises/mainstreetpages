@@ -1,9 +1,7 @@
 ---
-title: "Morgantown, Kentucky Business Directory"
+title: "Morgantown, KY Business Directory"
+type: "towns"
 slug: "morgantown-ky"
-town: "Morgantown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Butler"
-population: 2401
+state: "ky"
+town_data: "morgantown-ky"
 ---

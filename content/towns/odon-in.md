@@ -1,9 +1,7 @@
 ---
-title: "Odon, Indiana Business Directory"
+title: "Odon, IN Business Directory"
+type: "towns"
 slug: "odon-in"
-town: "Odon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 906
+state: "in"
+town_data: "odon-in"
 ---

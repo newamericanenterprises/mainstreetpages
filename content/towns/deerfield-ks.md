@@ -1,9 +1,7 @@
 ---
-title: "Deerfield, Kansas Business Directory"
+title: "Deerfield, KS Business Directory"
+type: "towns"
 slug: "deerfield-ks"
-town: "Deerfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kearny"
-population: 1149
+state: "ks"
+town_data: "deerfield-ks"
 ---

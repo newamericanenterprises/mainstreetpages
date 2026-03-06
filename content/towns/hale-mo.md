@@ -1,7 +1,7 @@
 ---
-title: "Hale, Missouri Business Directory"
+title: "Hale, MO Business Directory"
+type: "towns"
 slug: "hale-mo"
-state: "MO"
-county: "Carroll"
-population: 1500
+state: "mo"
+town_data: "hale-mo"
 ---

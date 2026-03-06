@@ -1,9 +1,7 @@
 ---
-title: "Bingham Farms, Michigan Business Directory"
+title: "Bingham Farms, MI Business Directory"
+type: "towns"
 slug: "bingham-farms-mi"
-town: "Bingham Farms"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3252
+state: "mi"
+town_data: "bingham-farms-mi"
 ---

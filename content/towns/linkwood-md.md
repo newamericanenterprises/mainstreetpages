@@ -1,9 +1,7 @@
 ---
-title: "Linkwood, Maryland Business Directory"
+title: "Linkwood, MD Business Directory"
+type: "towns"
 slug: "linkwood-md"
-town: "Linkwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 3614
+state: "md"
+town_data: "linkwood-md"
 ---

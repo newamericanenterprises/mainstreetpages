@@ -1,9 +1,7 @@
 ---
-title: "Caribou, Maine Business Directory"
+title: "Caribou, ME Business Directory"
+type: "towns"
 slug: "caribou-me"
-town: "Caribou"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 7604
+state: "me"
+town_data: "caribou-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gallatin Gateway, Montana Business Directory"
+title: "Gallatin Gateway, MT Business Directory"
+type: "towns"
 slug: "gallatin-gateway-mt"
-state: "MT"
-county: "Gallatin"
-population: 500
+state: "mt"
+town_data: "gallatin-gateway-mt"
 ---

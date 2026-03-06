@@ -1,9 +1,7 @@
 ---
-title: "West Bath, Maine Business Directory"
+title: "West Bath, ME Business Directory"
+type: "towns"
 slug: "west-bath-me"
-town: "West Bath"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 1623
+state: "me"
+town_data: "west-bath-me"
 ---

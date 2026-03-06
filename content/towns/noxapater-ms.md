@@ -1,7 +1,7 @@
 ---
-title: "Noxapater, Mississippi Business Directory"
+title: "Noxapater, MS Business Directory"
+type: "towns"
 slug: "noxapater-ms"
-state: "MS"
-county: "Winston"
-population: 470
+state: "ms"
+town_data: "noxapater-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Swea City, Iowa Business Directory"
+title: "Swea City, IA Business Directory"
+type: "towns"
 slug: "swea-city-ia"
-town: "Swea City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 1581
+state: "ia"
+town_data: "swea-city-ia"
 ---

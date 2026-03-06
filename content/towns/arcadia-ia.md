@@ -1,9 +1,7 @@
 ---
-title: "Arcadia, Iowa Business Directory"
+title: "Arcadia, IA Business Directory"
+type: "towns"
 slug: "arcadia-ia"
-town: "Arcadia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 2871
+state: "ia"
+town_data: "arcadia-ia"
 ---

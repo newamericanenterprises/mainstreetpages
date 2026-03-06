@@ -1,9 +1,7 @@
 ---
-title: "Union, Maine Business Directory"
+title: "Union, ME Business Directory"
+type: "towns"
 slug: "union-me"
-town: "Union"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 739
+state: "me"
+town_data: "union-me"
 ---

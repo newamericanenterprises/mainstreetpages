@@ -1,9 +1,7 @@
 ---
-title: "Marshall, Michigan Business Directory"
+title: "Marshall, MI Business Directory"
+type: "towns"
 slug: "marshall-mi"
-town: "Marshall"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 7088
+state: "mi"
+town_data: "marshall-mi"
 ---

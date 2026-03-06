@@ -1,9 +1,7 @@
 ---
-title: "Ballenger Creek, Maryland Business Directory"
+title: "Ballenger Creek, MD Business Directory"
+type: "towns"
 slug: "ballenger-creek-md"
-town: "Ballenger Creek"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 2679
+state: "md"
+town_data: "ballenger-creek-md"
 ---

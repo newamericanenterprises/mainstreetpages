@@ -1,7 +1,7 @@
 ---
-title: "Curryville, Missouri Business Directory"
+title: "Curryville, MO Business Directory"
+type: "towns"
 slug: "curryville-mo"
-state: "MO"
-county: "Pike"
-population: 1500
+state: "mo"
+town_data: "curryville-mo"
 ---

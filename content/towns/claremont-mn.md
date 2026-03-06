@@ -1,9 +1,7 @@
 ---
-title: "Claremont, Minnesota Business Directory"
+title: "Claremont, MN Business Directory"
+type: "towns"
 slug: "claremont-mn"
-town: "Claremont"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 2031
+state: "mn"
+town_data: "claremont-mn"
 ---

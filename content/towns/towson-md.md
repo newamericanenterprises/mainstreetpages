@@ -1,9 +1,7 @@
 ---
-title: "Towson, Maryland Business Directory"
+title: "Towson, MD Business Directory"
+type: "towns"
 slug: "towson-md"
-town: "Towson"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 57532
+state: "md"
+town_data: "towson-md"
 ---

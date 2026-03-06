@@ -1,7 +1,7 @@
 ---
-title: "Winona, Missouri Business Directory"
+title: "Winona, MO Business Directory"
+type: "towns"
 slug: "winona-mo"
-state: "MO"
-county: "Shannon"
-population: 1500
+state: "mo"
+town_data: "winona-mo"
 ---

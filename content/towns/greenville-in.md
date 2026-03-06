@@ -1,9 +1,7 @@
 ---
-title: "Greenville, Indiana Business Directory"
+title: "Greenville, IN Business Directory"
+type: "towns"
 slug: "greenville-in"
-town: "Greenville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Floyd"
-population: 817
+state: "in"
+town_data: "greenville-in"
 ---

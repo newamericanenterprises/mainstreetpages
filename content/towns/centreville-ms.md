@@ -1,7 +1,7 @@
 ---
-title: "Centreville, Mississippi Business Directory"
+title: "Centreville, MS Business Directory"
+type: "towns"
 slug: "centreville-ms"
-state: "MS"
-county: "Wilkinson"
-population: 1630
+state: "ms"
+town_data: "centreville-ms"
 ---

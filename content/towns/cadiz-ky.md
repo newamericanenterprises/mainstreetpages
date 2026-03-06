@@ -1,9 +1,7 @@
 ---
-title: "Cadiz, Kentucky Business Directory"
+title: "Cadiz, KY Business Directory"
+type: "towns"
 slug: "cadiz-ky"
-town: "Cadiz"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Trigg"
-population: 2553
+state: "ky"
+town_data: "cadiz-ky"
 ---

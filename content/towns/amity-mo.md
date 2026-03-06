@@ -1,7 +1,7 @@
 ---
-title: "Amity, Missouri Business Directory"
+title: "Amity, MO Business Directory"
+type: "towns"
 slug: "amity-mo"
-state: "MO"
-county: "DeKalb"
-population: 1500
+state: "mo"
+town_data: "amity-mo"
 ---

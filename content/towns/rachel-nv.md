@@ -1,7 +1,7 @@
 ---
-title: "Rachel, Nevada Business Directory"
+title: "Rachel, NV Business Directory"
+type: "towns"
 slug: "rachel-nv"
-state: "NV"
-county: "Lincoln"
-population: 54
+state: "nv"
+town_data: "rachel-nv"
 ---

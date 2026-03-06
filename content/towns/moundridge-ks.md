@@ -1,9 +1,7 @@
 ---
-title: "Moundridge, Kansas Business Directory"
+title: "Moundridge, KS Business Directory"
+type: "towns"
 slug: "moundridge-ks"
-town: "Moundridge"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 1039
+state: "ks"
+town_data: "moundridge-ks"
 ---

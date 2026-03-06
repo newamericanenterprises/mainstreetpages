@@ -1,9 +1,7 @@
 ---
-title: "Hampden, Massachusetts Business Directory"
+title: "Hampden, MA Business Directory"
+type: "towns"
 slug: "hampden-ma"
-town: "Hampden"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 5838
+state: "ma"
+town_data: "hampden-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Westville, Indiana Business Directory"
+title: "Westville, IN Business Directory"
+type: "towns"
 slug: "westville-in"
-town: "Westville"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 502
+state: "in"
+town_data: "westville-in"
 ---

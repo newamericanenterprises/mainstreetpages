@@ -1,9 +1,7 @@
 ---
-title: "Cunningham, Kentucky Business Directory"
+title: "Cunningham, KY Business Directory"
+type: "towns"
 slug: "cunningham-ky"
-town: "Cunningham"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carlisle"
-population: 2070
+state: "ky"
+town_data: "cunningham-ky"
 ---

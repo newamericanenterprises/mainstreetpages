@@ -1,9 +1,7 @@
 ---
-title: "Lamont, Iowa Business Directory"
+title: "Lamont, IA Business Directory"
+type: "towns"
 slug: "lamont-ia"
-town: "Lamont"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2231
+state: "ia"
+town_data: "lamont-ia"
 ---

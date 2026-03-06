@@ -1,9 +1,7 @@
 ---
-title: "Woburn, Massachusetts Business Directory"
+title: "Woburn, MA Business Directory"
+type: "towns"
 slug: "woburn-ma"
-town: "Woburn"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 40512
+state: "ma"
+town_data: "woburn-ma"
 ---

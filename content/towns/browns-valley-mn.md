@@ -1,9 +1,7 @@
 ---
-title: "Browns Valley, Minnesota Business Directory"
+title: "Browns Valley, MN Business Directory"
+type: "towns"
 slug: "browns-valley-mn"
-town: "Browns Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Traverse"
-population: 2432
+state: "mn"
+town_data: "browns-valley-mn"
 ---

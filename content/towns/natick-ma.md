@@ -1,9 +1,7 @@
 ---
-title: "Natick, Massachusetts Business Directory"
+title: "Natick, MA Business Directory"
+type: "towns"
 slug: "natick-ma"
-town: "Natick"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 36050
+state: "ma"
+town_data: "natick-ma"
 ---

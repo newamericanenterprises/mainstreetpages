@@ -1,9 +1,7 @@
 ---
-title: "Dugger, Indiana Business Directory"
+title: "Dugger, IN Business Directory"
+type: "towns"
 slug: "dugger-in"
-town: "Dugger"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 3357
+state: "in"
+town_data: "dugger-in"
 ---

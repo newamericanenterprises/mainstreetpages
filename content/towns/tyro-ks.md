@@ -1,9 +1,7 @@
 ---
-title: "Tyro, Kansas Business Directory"
+title: "Tyro, KS Business Directory"
+type: "towns"
 slug: "tyro-ks"
-town: "Tyro"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 360
+state: "ks"
+town_data: "tyro-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lebanon, Nebraska Business Directory"
+title: "Lebanon, NE Business Directory"
+type: "towns"
 slug: "lebanon-ne"
-state: "NE"
-county: "Red Willow"
-population: 500
+state: "ne"
+town_data: "lebanon-ne"
 ---

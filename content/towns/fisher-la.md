@@ -1,9 +1,7 @@
 ---
-title: "Fisher, Louisiana Business Directory"
+title: "Fisher, LA Business Directory"
+type: "towns"
 slug: "fisher-la"
-town: "Fisher"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 2387
+state: "la"
+town_data: "fisher-la"
 ---

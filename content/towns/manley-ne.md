@@ -1,7 +1,7 @@
 ---
-title: "Manley, Nebraska Business Directory"
+title: "Manley, NE Business Directory"
+type: "towns"
 slug: "manley-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "manley-ne"
 ---

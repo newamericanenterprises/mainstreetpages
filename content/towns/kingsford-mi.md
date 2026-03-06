@@ -1,9 +1,7 @@
 ---
-title: "Kingsford, Michigan Business Directory"
+title: "Kingsford, MI Business Directory"
+type: "towns"
 slug: "kingsford-mi"
-town: "Kingsford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 4439
+state: "mi"
+town_data: "kingsford-mi"
 ---

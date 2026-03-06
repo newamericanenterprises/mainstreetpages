@@ -1,7 +1,7 @@
 ---
-title: "Dorchester, Nebraska Business Directory"
+title: "Dorchester, NE Business Directory"
+type: "towns"
 slug: "dorchester-ne"
-state: "NE"
-county: "Saline"
-population: 500
+state: "ne"
+town_data: "dorchester-ne"
 ---

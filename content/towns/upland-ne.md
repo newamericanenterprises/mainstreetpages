@@ -1,7 +1,7 @@
 ---
-title: "Upland, Nebraska Business Directory"
+title: "Upland, NE Business Directory"
+type: "towns"
 slug: "upland-ne"
-state: "NE"
-county: "Franklin"
-population: 500
+state: "ne"
+town_data: "upland-ne"
 ---

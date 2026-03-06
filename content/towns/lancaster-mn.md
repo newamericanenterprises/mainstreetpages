@@ -1,9 +1,7 @@
 ---
-title: "Lancaster, Minnesota Business Directory"
+title: "Lancaster, MN Business Directory"
+type: "towns"
 slug: "lancaster-mn"
-town: "Lancaster"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kittson"
-population: 587
+state: "mn"
+town_data: "lancaster-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dearing, Kansas Business Directory"
+title: "Dearing, KS Business Directory"
+type: "towns"
 slug: "dearing-ks"
-town: "Dearing"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 2239
+state: "ks"
+town_data: "dearing-ks"
 ---

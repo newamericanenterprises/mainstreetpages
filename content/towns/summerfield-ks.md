@@ -1,9 +1,7 @@
 ---
-title: "Summerfield, Kansas Business Directory"
+title: "Summerfield, KS Business Directory"
+type: "towns"
 slug: "summerfield-ks"
-town: "Summerfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 1286
+state: "ks"
+town_data: "summerfield-ks"
 ---

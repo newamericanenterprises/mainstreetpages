@@ -1,9 +1,7 @@
 ---
-title: "La Crescent, Minnesota Business Directory"
+title: "La Crescent, MN Business Directory"
+type: "towns"
 slug: "la-crescent-mn"
-town: "La Crescent"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 2779
+state: "mn"
+town_data: "la-crescent-mn"
 ---

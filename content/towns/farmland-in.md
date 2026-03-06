@@ -1,9 +1,7 @@
 ---
-title: "Farmland, Indiana Business Directory"
+title: "Farmland, IN Business Directory"
+type: "towns"
 slug: "farmland-in"
-town: "Farmland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 1938
+state: "in"
+town_data: "farmland-in"
 ---

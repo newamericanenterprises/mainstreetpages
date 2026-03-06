@@ -1,9 +1,7 @@
 ---
-title: "Horton, Kansas Business Directory"
+title: "Horton, KS Business Directory"
+type: "towns"
 slug: "horton-ks"
-town: "Horton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 2687
+state: "ks"
+town_data: "horton-ks"
 ---

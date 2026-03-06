@@ -1,9 +1,7 @@
 ---
-title: "Ladoga, Indiana Business Directory"
+title: "Ladoga, IN Business Directory"
+type: "towns"
 slug: "ladoga-in"
-town: "Ladoga"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 507
+state: "in"
+town_data: "ladoga-in"
 ---

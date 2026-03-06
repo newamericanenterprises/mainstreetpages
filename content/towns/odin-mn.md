@@ -1,9 +1,7 @@
 ---
-title: "Odin, Minnesota Business Directory"
+title: "Odin, MN Business Directory"
+type: "towns"
 slug: "odin-mn"
-town: "Odin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Watonwan"
-population: 2859
+state: "mn"
+town_data: "odin-mn"
 ---

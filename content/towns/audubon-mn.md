@@ -1,9 +1,7 @@
 ---
-title: "Audubon, Minnesota Business Directory"
+title: "Audubon, MN Business Directory"
+type: "towns"
 slug: "audubon-mn"
-town: "Audubon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 1791
+state: "mn"
+town_data: "audubon-mn"
 ---

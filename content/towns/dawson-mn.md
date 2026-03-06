@@ -1,9 +1,7 @@
 ---
-title: "Dawson, Minnesota Business Directory"
+title: "Dawson, MN Business Directory"
+type: "towns"
 slug: "dawson-mn"
-town: "Dawson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 2350
+state: "mn"
+town_data: "dawson-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wendell, Massachusetts Business Directory"
+title: "Wendell, MA Business Directory"
+type: "towns"
 slug: "wendell-ma"
-town: "Wendell"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 6266
+state: "ma"
+town_data: "wendell-ma"
 ---

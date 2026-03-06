@@ -1,9 +1,7 @@
 ---
-title: "Seward, Kansas Business Directory"
+title: "Seward, KS Business Directory"
+type: "towns"
 slug: "seward-ks"
-town: "Seward"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 2926
+state: "ks"
+town_data: "seward-ks"
 ---

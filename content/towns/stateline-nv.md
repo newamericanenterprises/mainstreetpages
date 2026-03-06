@@ -1,7 +1,7 @@
 ---
-title: "Stateline, Nevada Business Directory"
+title: "Stateline, NV Business Directory"
+type: "towns"
 slug: "stateline-nv"
-state: "NV"
-county: "Douglas"
-population: 1051
+state: "nv"
+town_data: "stateline-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beals, Maine Business Directory"
+title: "Beals, ME Business Directory"
+type: "towns"
 slug: "beals-me"
-town: "Beals"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 1100
+state: "me"
+town_data: "beals-me"
 ---

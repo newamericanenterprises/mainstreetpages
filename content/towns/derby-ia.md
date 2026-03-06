@@ -1,9 +1,7 @@
 ---
-title: "Derby, Iowa Business Directory"
+title: "Derby, IA Business Directory"
+type: "towns"
 slug: "derby-ia"
-town: "Derby"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lucas"
-population: 1568
+state: "ia"
+town_data: "derby-ia"
 ---

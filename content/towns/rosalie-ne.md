@@ -1,7 +1,7 @@
 ---
-title: "Rosalie, Nebraska Business Directory"
+title: "Rosalie, NE Business Directory"
+type: "towns"
 slug: "rosalie-ne"
-state: "NE"
-county: "Thurston"
-population: 151
+state: "ne"
+town_data: "rosalie-ne"
 ---

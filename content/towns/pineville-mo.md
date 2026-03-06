@@ -1,7 +1,7 @@
 ---
-title: "Pineville, Missouri Business Directory"
+title: "Pineville, MO Business Directory"
+type: "towns"
 slug: "pineville-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "pineville-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "East Lynne, Missouri Business Directory"
+title: "East Lynne, MO Business Directory"
+type: "towns"
 slug: "east-lynne-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "east-lynne-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fort Campbell North, Kentucky Business Directory"
+title: "Fort Campbell North, KY Business Directory"
+type: "towns"
 slug: "fort-campbell-north-ky"
-town: "Fort Campbell North"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Christian"
-population: 1422
+state: "ky"
+town_data: "fort-campbell-north-ky"
 ---

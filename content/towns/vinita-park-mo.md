@@ -1,7 +1,7 @@
 ---
-title: "Vinita Park, Missouri Business Directory"
+title: "Vinita Park, MO Business Directory"
+type: "towns"
 slug: "vinita-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "vinita-park-mo"
 ---

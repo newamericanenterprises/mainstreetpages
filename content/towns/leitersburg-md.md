@@ -1,9 +1,7 @@
 ---
-title: "Leitersburg, Maryland Business Directory"
+title: "Leitersburg, MD Business Directory"
+type: "towns"
 slug: "leitersburg-md"
-town: "Leitersburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 529
+state: "md"
+town_data: "leitersburg-md"
 ---

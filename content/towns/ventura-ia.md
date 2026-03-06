@@ -1,9 +1,7 @@
 ---
-title: "Ventura, Iowa Business Directory"
+title: "Ventura, IA Business Directory"
+type: "towns"
 slug: "ventura-ia"
-town: "Ventura"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 3125
+state: "ia"
+town_data: "ventura-ia"
 ---

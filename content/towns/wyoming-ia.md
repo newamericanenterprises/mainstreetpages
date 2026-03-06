@@ -1,9 +1,7 @@
 ---
-title: "Wyoming, Iowa Business Directory"
+title: "Wyoming, IA Business Directory"
+type: "towns"
 slug: "wyoming-ia"
-town: "Wyoming"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 1315
+state: "ia"
+town_data: "wyoming-ia"
 ---

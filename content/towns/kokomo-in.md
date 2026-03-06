@@ -1,9 +1,7 @@
 ---
-title: "Kokomo, Indiana Business Directory"
+title: "Kokomo, IN Business Directory"
+type: "towns"
 slug: "kokomo-in"
-town: "Kokomo"
-state: "Indiana"
-state_abbr: "IN"
-county: "Howard"
-population: 57853
+state: "in"
+town_data: "kokomo-in"
 ---

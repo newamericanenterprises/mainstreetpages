@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Maine Business Directory"
+title: "Princeton, ME Business Directory"
+type: "towns"
 slug: "princeton-me"
-town: "Princeton"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 501
+state: "me"
+town_data: "princeton-me"
 ---

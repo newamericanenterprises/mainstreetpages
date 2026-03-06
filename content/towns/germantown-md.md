@@ -1,9 +1,7 @@
 ---
-title: "Germantown, Maryland Business Directory"
+title: "Germantown, MD Business Directory"
+type: "towns"
 slug: "germantown-md"
-town: "Germantown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 90494
+state: "md"
+town_data: "germantown-md"
 ---

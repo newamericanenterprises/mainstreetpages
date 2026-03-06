@@ -1,9 +1,7 @@
 ---
-title: "Woodburn, Iowa Business Directory"
+title: "Woodburn, IA Business Directory"
+type: "towns"
 slug: "woodburn-ia"
-town: "Woodburn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clarke"
-population: 1801
+state: "ia"
+town_data: "woodburn-ia"
 ---

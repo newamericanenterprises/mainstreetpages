@@ -1,9 +1,7 @@
 ---
-title: "Baldwin, Louisiana Business Directory"
+title: "Baldwin, LA Business Directory"
+type: "towns"
 slug: "baldwin-la"
-town: "Baldwin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 2180
+state: "la"
+town_data: "baldwin-la"
 ---

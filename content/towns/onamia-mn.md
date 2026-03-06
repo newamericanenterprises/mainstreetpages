@@ -1,9 +1,7 @@
 ---
-title: "Onamia, Minnesota Business Directory"
+title: "Onamia, MN Business Directory"
+type: "towns"
 slug: "onamia-mn"
-town: "Onamia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 1235
+state: "mn"
+town_data: "onamia-mn"
 ---

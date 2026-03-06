@@ -1,9 +1,7 @@
 ---
-title: "Fillmore, Indiana Business Directory"
+title: "Fillmore, IN Business Directory"
+type: "towns"
 slug: "fillmore-in"
-town: "Fillmore"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 1838
+state: "in"
+town_data: "fillmore-in"
 ---

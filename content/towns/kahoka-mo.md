@@ -1,7 +1,7 @@
 ---
-title: "Kahoka, Missouri Business Directory"
+title: "Kahoka, MO Business Directory"
+type: "towns"
 slug: "kahoka-mo"
-state: "MO"
-county: "Clark"
-population: 2074
+state: "mo"
+town_data: "kahoka-mo"
 ---

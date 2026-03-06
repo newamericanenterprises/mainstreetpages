@@ -1,9 +1,7 @@
 ---
-title: "Westminster, Louisiana Business Directory"
+title: "Westminster, LA Business Directory"
+type: "towns"
 slug: "westminster-la"
-town: "Westminster"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Baton Rouge"
-population: 2140
+state: "la"
+town_data: "westminster-la"
 ---

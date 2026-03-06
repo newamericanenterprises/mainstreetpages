@@ -1,9 +1,7 @@
 ---
-title: "East Longmeadow, Massachusetts Business Directory"
+title: "East Longmeadow, MA Business Directory"
+type: "towns"
 slug: "east-longmeadow-ma"
-town: "East Longmeadow"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 16487
+state: "ma"
+town_data: "east-longmeadow-ma"
 ---

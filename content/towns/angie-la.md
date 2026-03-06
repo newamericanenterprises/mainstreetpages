@@ -1,9 +1,7 @@
 ---
-title: "Angie, Louisiana Business Directory"
+title: "Angie, LA Business Directory"
+type: "towns"
 slug: "angie-la"
-town: "Angie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Washington"
-population: 965
+state: "la"
+town_data: "angie-la"
 ---

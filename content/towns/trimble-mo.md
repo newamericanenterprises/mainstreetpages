@@ -1,7 +1,7 @@
 ---
-title: "Trimble, Missouri Business Directory"
+title: "Trimble, MO Business Directory"
+type: "towns"
 slug: "trimble-mo"
-state: "MO"
-county: "Clinton"
-population: 1500
+state: "mo"
+town_data: "trimble-mo"
 ---

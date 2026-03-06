@@ -1,9 +1,7 @@
 ---
-title: "Buckland, Massachusetts Business Directory"
+title: "Buckland, MA Business Directory"
+type: "towns"
 slug: "buckland-ma"
-town: "Buckland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 7684
+state: "ma"
+town_data: "buckland-ma"
 ---

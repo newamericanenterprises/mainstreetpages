@@ -1,7 +1,7 @@
 ---
-title: "Bismarck, Missouri Business Directory"
+title: "Bismarck, MO Business Directory"
+type: "towns"
 slug: "bismarck-mo"
-state: "MO"
-county: "St. Francois"
-population: 1513
+state: "mo"
+town_data: "bismarck-mo"
 ---

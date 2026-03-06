@@ -1,9 +1,7 @@
 ---
-title: "St. Joe, Indiana Business Directory"
+title: "St. Joe, IN Business Directory"
+type: "towns"
 slug: "st-joe-in"
-town: "St. Joe"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 5402
+state: "in"
+town_data: "st-joe-in"
 ---

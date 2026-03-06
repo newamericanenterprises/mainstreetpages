@@ -1,7 +1,7 @@
 ---
-title: "Lexington, Mississippi Business Directory"
+title: "Lexington, MS Business Directory"
+type: "towns"
 slug: "lexington-ms"
-state: "MS"
-county: "Holmes"
-population: 1729
+state: "ms"
+town_data: "lexington-ms"
 ---

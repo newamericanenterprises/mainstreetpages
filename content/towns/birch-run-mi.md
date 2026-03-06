@@ -1,9 +1,7 @@
 ---
-title: "Birch Run, Michigan Business Directory"
+title: "Birch Run, MI Business Directory"
+type: "towns"
 slug: "birch-run-mi"
-town: "Birch Run"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 5014
+state: "mi"
+town_data: "birch-run-mi"
 ---

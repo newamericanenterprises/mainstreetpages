@@ -1,7 +1,7 @@
 ---
-title: "Kingsbury, Nevada Business Directory"
+title: "Kingsbury, NV Business Directory"
+type: "towns"
 slug: "kingsbury-nv"
-state: "NV"
-county: "Douglas"
-population: 2723
+state: "nv"
+town_data: "kingsbury-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ferdinand, Indiana Business Directory"
+title: "Ferdinand, IN Business Directory"
+type: "towns"
 slug: "ferdinand-in"
-town: "Ferdinand"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dubois"
-population: 4340
+state: "in"
+town_data: "ferdinand-in"
 ---

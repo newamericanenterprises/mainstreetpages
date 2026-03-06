@@ -1,9 +1,7 @@
 ---
-title: "Paton, Iowa Business Directory"
+title: "Paton, IA Business Directory"
+type: "towns"
 slug: "paton-ia"
-town: "Paton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 546
+state: "ia"
+town_data: "paton-ia"
 ---

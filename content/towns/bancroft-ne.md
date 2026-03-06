@@ -1,7 +1,7 @@
 ---
-title: "Bancroft, Nebraska Business Directory"
+title: "Bancroft, NE Business Directory"
+type: "towns"
 slug: "bancroft-ne"
-state: "NE"
-county: "Cuming"
-population: 500
+state: "ne"
+town_data: "bancroft-ne"
 ---

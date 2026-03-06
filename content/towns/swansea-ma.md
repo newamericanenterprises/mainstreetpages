@@ -1,9 +1,7 @@
 ---
-title: "Swansea, Massachusetts Business Directory"
+title: "Swansea, MA Business Directory"
+type: "towns"
 slug: "swansea-ma"
-town: "Swansea"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 6920
+state: "ma"
+town_data: "swansea-ma"
 ---

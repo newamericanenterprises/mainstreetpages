@@ -1,9 +1,7 @@
 ---
-title: "Shelburne Falls, Massachusetts Business Directory"
+title: "Shelburne Falls, MA Business Directory"
+type: "towns"
 slug: "shelburne-falls-ma"
-town: "Shelburne Falls"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 7549
+state: "ma"
+town_data: "shelburne-falls-ma"
 ---

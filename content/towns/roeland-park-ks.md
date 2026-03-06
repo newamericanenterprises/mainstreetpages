@@ -1,9 +1,7 @@
 ---
-title: "Roeland Park, Kansas Business Directory"
+title: "Roeland Park, KS Business Directory"
+type: "towns"
 slug: "roeland-park-ks"
-town: "Roeland Park"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 6731
+state: "ks"
+town_data: "roeland-park-ks"
 ---

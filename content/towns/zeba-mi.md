@@ -1,9 +1,7 @@
 ---
-title: "Zeba, Michigan Business Directory"
+title: "Zeba, MI Business Directory"
+type: "towns"
 slug: "zeba-mi"
-town: "Zeba"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 3793
+state: "mi"
+town_data: "zeba-mi"
 ---

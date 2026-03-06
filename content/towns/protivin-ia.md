@@ -1,9 +1,7 @@
 ---
-title: "Protivin, Iowa Business Directory"
+title: "Protivin, IA Business Directory"
+type: "towns"
 slug: "protivin-ia"
-town: "Protivin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Howard"
-population: 1494
+state: "ia"
+town_data: "protivin-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Jay, Maine Business Directory"
+title: "Jay, ME Business Directory"
+type: "towns"
 slug: "jay-me"
-town: "Jay"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 4762
+state: "me"
+town_data: "jay-me"
 ---

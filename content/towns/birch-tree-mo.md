@@ -1,7 +1,7 @@
 ---
-title: "Birch Tree, Missouri Business Directory"
+title: "Birch Tree, MO Business Directory"
+type: "towns"
 slug: "birch-tree-mo"
-state: "MO"
-county: "Shannon"
-population: 1500
+state: "mo"
+town_data: "birch-tree-mo"
 ---

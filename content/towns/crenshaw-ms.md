@@ -1,7 +1,7 @@
 ---
-title: "Crenshaw, Mississippi Business Directory"
+title: "Crenshaw, MS Business Directory"
+type: "towns"
 slug: "crenshaw-ms"
-state: "MS"
-county: "Panola"
-population: 588
+state: "ms"
+town_data: "crenshaw-ms"
 ---

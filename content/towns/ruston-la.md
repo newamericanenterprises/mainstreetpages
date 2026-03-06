@@ -1,9 +1,7 @@
 ---
-title: "Ruston, Louisiana Business Directory"
+title: "Ruston, LA Business Directory"
+type: "towns"
 slug: "ruston-la"
-town: "Ruston"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 21987
+state: "la"
+town_data: "ruston-la"
 ---

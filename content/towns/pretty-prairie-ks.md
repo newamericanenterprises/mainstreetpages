@@ -1,9 +1,7 @@
 ---
-title: "Pretty Prairie, Kansas Business Directory"
+title: "Pretty Prairie, KS Business Directory"
+type: "towns"
 slug: "pretty-prairie-ks"
-town: "Pretty Prairie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 1747
+state: "ks"
+town_data: "pretty-prairie-ks"
 ---

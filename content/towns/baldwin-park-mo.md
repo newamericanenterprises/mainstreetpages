@@ -1,7 +1,7 @@
 ---
-title: "Baldwin Park, Missouri Business Directory"
+title: "Baldwin Park, MO Business Directory"
+type: "towns"
 slug: "baldwin-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "baldwin-park-mo"
 ---

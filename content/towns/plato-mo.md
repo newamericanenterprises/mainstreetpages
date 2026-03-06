@@ -1,7 +1,7 @@
 ---
-title: "Plato, Missouri Business Directory"
+title: "Plato, MO Business Directory"
+type: "towns"
 slug: "plato-mo"
-state: "MO"
-county: "Texas"
-population: 1500
+state: "mo"
+town_data: "plato-mo"
 ---

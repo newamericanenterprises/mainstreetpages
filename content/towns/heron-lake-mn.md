@@ -1,9 +1,7 @@
 ---
-title: "Heron Lake, Minnesota Business Directory"
+title: "Heron Lake, MN Business Directory"
+type: "towns"
 slug: "heron-lake-mn"
-town: "Heron Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Jackson"
-population: 2052
+state: "mn"
+town_data: "heron-lake-mn"
 ---

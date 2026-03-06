@@ -1,9 +1,7 @@
 ---
-title: "Alden, Iowa Business Directory"
+title: "Alden, IA Business Directory"
+type: "towns"
 slug: "alden-ia"
-town: "Alden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 1557
+state: "ia"
+town_data: "alden-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Petersburg, Indiana Business Directory"
+title: "Petersburg, IN Business Directory"
+type: "towns"
 slug: "petersburg-in"
-town: "Petersburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pike"
-population: 766
+state: "in"
+town_data: "petersburg-in"
 ---

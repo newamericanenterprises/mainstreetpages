@@ -1,7 +1,7 @@
 ---
-title: "Parkdale, Missouri Business Directory"
+title: "Parkdale, MO Business Directory"
+type: "towns"
 slug: "parkdale-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "parkdale-mo"
 ---

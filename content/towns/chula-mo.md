@@ -1,7 +1,7 @@
 ---
-title: "Chula, Missouri Business Directory"
+title: "Chula, MO Business Directory"
+type: "towns"
 slug: "chula-mo"
-state: "MO"
-county: "Livingston"
-population: 1500
+state: "mo"
+town_data: "chula-mo"
 ---

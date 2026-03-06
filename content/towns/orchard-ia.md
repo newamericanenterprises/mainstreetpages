@@ -1,9 +1,7 @@
 ---
-title: "Orchard, Iowa Business Directory"
+title: "Orchard, IA Business Directory"
+type: "towns"
 slug: "orchard-ia"
-town: "Orchard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 1137
+state: "ia"
+town_data: "orchard-ia"
 ---

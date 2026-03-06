@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Kentucky Business Directory"
+title: "Princeton, KY Business Directory"
+type: "towns"
 slug: "princeton-ky"
-town: "Princeton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Caldwell"
-population: 6329
+state: "ky"
+town_data: "princeton-ky"
 ---

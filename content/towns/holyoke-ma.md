@@ -1,9 +1,7 @@
 ---
-title: "Holyoke, Massachusetts Business Directory"
+title: "Holyoke, MA Business Directory"
+type: "towns"
 slug: "holyoke-ma"
-town: "Holyoke"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 38150
+state: "ma"
+town_data: "holyoke-ma"
 ---

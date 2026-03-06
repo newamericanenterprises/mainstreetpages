@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Kansas Business Directory"
+title: "Burlington, KS Business Directory"
+type: "towns"
 slug: "burlington-ks"
-town: "Burlington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Coffey"
-population: 2624
+state: "ks"
+town_data: "burlington-ks"
 ---

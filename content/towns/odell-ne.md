@@ -1,7 +1,7 @@
 ---
-title: "Odell, Nebraska Business Directory"
+title: "Odell, NE Business Directory"
+type: "towns"
 slug: "odell-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "odell-ne"
 ---

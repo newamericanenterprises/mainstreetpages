@@ -1,9 +1,7 @@
 ---
-title: "Oil City, Louisiana Business Directory"
+title: "Oil City, LA Business Directory"
+type: "towns"
 slug: "oil-city-la"
-town: "Oil City"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 2643
+state: "la"
+town_data: "oil-city-la"
 ---

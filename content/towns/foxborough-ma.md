@@ -1,9 +1,7 @@
 ---
-title: "Foxborough, Massachusetts Business Directory"
+title: "Foxborough, MA Business Directory"
+type: "towns"
 slug: "foxborough-ma"
-town: "Foxborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 18865
+state: "ma"
+town_data: "foxborough-ma"
 ---

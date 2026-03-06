@@ -1,9 +1,7 @@
 ---
-title: "Palmer, Michigan Business Directory"
+title: "Palmer, MI Business Directory"
+type: "towns"
 slug: "palmer-mi"
-town: "Palmer"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 3757
+state: "mi"
+town_data: "palmer-mi"
 ---

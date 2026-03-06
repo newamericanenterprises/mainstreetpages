@@ -1,9 +1,7 @@
 ---
-title: "Van Horne, Iowa Business Directory"
+title: "Van Horne, IA Business Directory"
+type: "towns"
 slug: "van-horne-ia"
-town: "Van Horne"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 1988
+state: "ia"
+town_data: "van-horne-ia"
 ---

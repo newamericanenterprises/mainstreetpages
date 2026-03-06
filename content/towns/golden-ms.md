@@ -1,7 +1,7 @@
 ---
-title: "Golden, Mississippi Business Directory"
+title: "Golden, MS Business Directory"
+type: "towns"
 slug: "golden-ms"
-state: "MS"
-county: "Tishomingo"
-population: 184
+state: "ms"
+town_data: "golden-ms"
 ---

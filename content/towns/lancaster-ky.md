@@ -1,9 +1,7 @@
 ---
-title: "Lancaster, Kentucky Business Directory"
+title: "Lancaster, KY Business Directory"
+type: "towns"
 slug: "lancaster-ky"
-town: "Lancaster"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Garrard"
-population: 3982
+state: "ky"
+town_data: "lancaster-ky"
 ---

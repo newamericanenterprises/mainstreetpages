@@ -1,9 +1,7 @@
 ---
-title: "Hancock, Michigan Business Directory"
+title: "Hancock, MI Business Directory"
+type: "towns"
 slug: "hancock-mi"
-town: "Hancock"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 4634
+state: "mi"
+town_data: "hancock-mi"
 ---

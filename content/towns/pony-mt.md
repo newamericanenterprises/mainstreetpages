@@ -1,7 +1,7 @@
 ---
-title: "Pony, Montana Business Directory"
+title: "Pony, MT Business Directory"
+type: "towns"
 slug: "pony-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "pony-mt"
 ---

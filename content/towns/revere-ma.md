@@ -1,9 +1,7 @@
 ---
-title: "Revere, Massachusetts Business Directory"
+title: "Revere, MA Business Directory"
+type: "towns"
 slug: "revere-ma"
-town: "Revere"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Suffolk"
-population: 62186
+state: "ma"
+town_data: "revere-ma"
 ---

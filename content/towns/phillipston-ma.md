@@ -1,9 +1,7 @@
 ---
-title: "Phillipston, Massachusetts Business Directory"
+title: "Phillipston, MA Business Directory"
+type: "towns"
 slug: "phillipston-ma"
-town: "Phillipston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4777
+state: "ma"
+town_data: "phillipston-ma"
 ---

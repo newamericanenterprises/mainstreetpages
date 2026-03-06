@@ -1,9 +1,7 @@
 ---
-title: "Rushville, Indiana Business Directory"
+title: "Rushville, IN Business Directory"
+type: "towns"
 slug: "rushville-in"
-town: "Rushville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Rush"
-population: 3040
+state: "in"
+town_data: "rushville-in"
 ---

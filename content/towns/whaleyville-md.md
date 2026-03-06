@@ -1,9 +1,7 @@
 ---
-title: "Whaleyville, Maryland Business Directory"
+title: "Whaleyville, MD Business Directory"
+type: "towns"
 slug: "whaleyville-md"
-town: "Whaleyville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 1390
+state: "md"
+town_data: "whaleyville-md"
 ---

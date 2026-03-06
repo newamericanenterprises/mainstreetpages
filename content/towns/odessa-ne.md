@@ -1,7 +1,7 @@
 ---
-title: "Odessa, Nebraska Business Directory"
+title: "Odessa, NE Business Directory"
+type: "towns"
 slug: "odessa-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "odessa-ne"
 ---

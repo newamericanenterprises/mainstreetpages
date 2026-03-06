@@ -1,9 +1,7 @@
 ---
-title: "Paris, Kentucky Business Directory"
+title: "Paris, KY Business Directory"
+type: "towns"
 slug: "paris-ky"
-town: "Paris"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bourbon"
-population: 9846
+state: "ky"
+town_data: "paris-ky"
 ---

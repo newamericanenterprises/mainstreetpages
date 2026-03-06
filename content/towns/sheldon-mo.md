@@ -1,7 +1,7 @@
 ---
-title: "Sheldon, Missouri Business Directory"
+title: "Sheldon, MO Business Directory"
+type: "towns"
 slug: "sheldon-mo"
-state: "MO"
-county: "Vernon"
-population: 1500
+state: "mo"
+town_data: "sheldon-mo"
 ---

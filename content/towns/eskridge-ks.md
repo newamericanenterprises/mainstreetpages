@@ -1,9 +1,7 @@
 ---
-title: "Eskridge, Kansas Business Directory"
+title: "Eskridge, KS Business Directory"
+type: "towns"
 slug: "eskridge-ks"
-town: "Eskridge"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 2467
+state: "ks"
+town_data: "eskridge-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Laurel, Iowa Business Directory"
+title: "Laurel, IA Business Directory"
+type: "towns"
 slug: "laurel-ia"
-town: "Laurel"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1323
+state: "ia"
+town_data: "laurel-ia"
 ---

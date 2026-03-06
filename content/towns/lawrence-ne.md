@@ -1,7 +1,7 @@
 ---
-title: "Lawrence, Nebraska Business Directory"
+title: "Lawrence, NE Business Directory"
+type: "towns"
 slug: "lawrence-ne"
-state: "NE"
-county: "Nuckolls"
-population: 500
+state: "ne"
+town_data: "lawrence-ne"
 ---

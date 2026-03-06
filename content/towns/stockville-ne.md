@@ -1,7 +1,7 @@
 ---
-title: "Stockville, Nebraska Business Directory"
+title: "Stockville, NE Business Directory"
+type: "towns"
 slug: "stockville-ne"
-state: "NE"
-county: "Frontier"
-population: 500
+state: "ne"
+town_data: "stockville-ne"
 ---

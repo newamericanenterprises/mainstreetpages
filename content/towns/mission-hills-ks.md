@@ -1,9 +1,7 @@
 ---
-title: "Mission Hills, Kansas Business Directory"
+title: "Mission Hills, KS Business Directory"
+type: "towns"
 slug: "mission-hills-ks"
-town: "Mission Hills"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 945
+state: "ks"
+town_data: "mission-hills-ks"
 ---

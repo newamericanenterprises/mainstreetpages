@@ -1,7 +1,7 @@
 ---
-title: "Malta Bend, Missouri Business Directory"
+title: "Malta Bend, MO Business Directory"
+type: "towns"
 slug: "malta-bend-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "malta-bend-mo"
 ---

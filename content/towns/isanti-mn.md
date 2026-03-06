@@ -1,9 +1,7 @@
 ---
-title: "Isanti, Minnesota Business Directory"
+title: "Isanti, MN Business Directory"
+type: "towns"
 slug: "isanti-mn"
-town: "Isanti"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 1902
+state: "mn"
+town_data: "isanti-mn"
 ---

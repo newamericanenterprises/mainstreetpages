@@ -1,7 +1,7 @@
 ---
-title: "Nemaha, Nebraska Business Directory"
+title: "Nemaha, NE Business Directory"
+type: "towns"
 slug: "nemaha-ne"
-state: "NE"
-county: "Nemaha"
-population: 500
+state: "ne"
+town_data: "nemaha-ne"
 ---

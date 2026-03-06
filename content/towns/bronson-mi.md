@@ -1,9 +1,7 @@
 ---
-title: "Bronson, Michigan Business Directory"
+title: "Bronson, MI Business Directory"
+type: "towns"
 slug: "bronson-mi"
-town: "Bronson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Branch"
-population: 4662
+state: "mi"
+town_data: "bronson-mi"
 ---

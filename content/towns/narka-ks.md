@@ -1,9 +1,7 @@
 ---
-title: "Narka, Kansas Business Directory"
+title: "Narka, KS Business Directory"
+type: "towns"
 slug: "narka-ks"
-town: "Narka"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 3101
+state: "ks"
+town_data: "narka-ks"
 ---

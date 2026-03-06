@@ -1,7 +1,7 @@
 ---
-title: "Froid, Montana Business Directory"
+title: "Froid, MT Business Directory"
+type: "towns"
 slug: "froid-mt"
-state: "MT"
-county: "Roosevelt"
-population: 500
+state: "mt"
+town_data: "froid-mt"
 ---

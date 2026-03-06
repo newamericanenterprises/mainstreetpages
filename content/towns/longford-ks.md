@@ -1,9 +1,7 @@
 ---
-title: "Longford, Kansas Business Directory"
+title: "Longford, KS Business Directory"
+type: "towns"
 slug: "longford-ks"
-town: "Longford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 1142
+state: "ks"
+town_data: "longford-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pentwater, Michigan Business Directory"
+title: "Pentwater, MI Business Directory"
+type: "towns"
 slug: "pentwater-mi"
-town: "Pentwater"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 4384
+state: "mi"
+town_data: "pentwater-mi"
 ---

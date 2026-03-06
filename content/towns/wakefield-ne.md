@@ -1,7 +1,7 @@
 ---
-title: "Wakefield, Nebraska Business Directory"
+title: "Wakefield, NE Business Directory"
+type: "towns"
 slug: "wakefield-ne"
-state: "NE"
-county: "Dixon"
-population: 1451
+state: "ne"
+town_data: "wakefield-ne"
 ---

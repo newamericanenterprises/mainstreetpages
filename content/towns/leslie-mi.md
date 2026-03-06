@@ -1,9 +1,7 @@
 ---
-title: "Leslie, Michigan Business Directory"
+title: "Leslie, MI Business Directory"
+type: "towns"
 slug: "leslie-mi"
-town: "Leslie"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 5113
+state: "mi"
+town_data: "leslie-mi"
 ---

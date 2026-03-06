@@ -1,9 +1,7 @@
 ---
-title: "Caledonia, Michigan Business Directory"
+title: "Caledonia, MI Business Directory"
+type: "towns"
 slug: "caledonia-mi"
-town: "Caledonia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 2234
+state: "mi"
+town_data: "caledonia-mi"
 ---

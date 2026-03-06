@@ -1,7 +1,7 @@
 ---
-title: "Hume, Missouri Business Directory"
+title: "Hume, MO Business Directory"
+type: "towns"
 slug: "hume-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "hume-mo"
 ---

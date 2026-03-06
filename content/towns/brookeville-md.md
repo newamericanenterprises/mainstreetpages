@@ -1,9 +1,7 @@
 ---
-title: "Brookeville, Maryland Business Directory"
+title: "Brookeville, MD Business Directory"
+type: "towns"
 slug: "brookeville-md"
-town: "Brookeville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3031
+state: "md"
+town_data: "brookeville-md"
 ---

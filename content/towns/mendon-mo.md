@@ -1,7 +1,7 @@
 ---
-title: "Mendon, Missouri Business Directory"
+title: "Mendon, MO Business Directory"
+type: "towns"
 slug: "mendon-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "mendon-mo"
 ---

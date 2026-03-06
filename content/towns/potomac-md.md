@@ -1,9 +1,7 @@
 ---
-title: "Potomac, Maryland Business Directory"
+title: "Potomac, MD Business Directory"
+type: "towns"
 slug: "potomac-md"
-town: "Potomac"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 46716
+state: "md"
+town_data: "potomac-md"
 ---

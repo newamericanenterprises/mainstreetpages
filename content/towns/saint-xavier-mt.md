@@ -1,7 +1,7 @@
 ---
-title: "Saint Xavier, Montana Business Directory"
+title: "Saint Xavier, MT Business Directory"
+type: "towns"
 slug: "saint-xavier-mt"
-state: "MT"
-county: "Big Horn"
-population: 500
+state: "mt"
+town_data: "saint-xavier-mt"
 ---

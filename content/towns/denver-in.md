@@ -1,9 +1,7 @@
 ---
-title: "Denver, Indiana Business Directory"
+title: "Denver, IN Business Directory"
+type: "towns"
 slug: "denver-in"
-town: "Denver"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 3002
+state: "in"
+town_data: "denver-in"
 ---

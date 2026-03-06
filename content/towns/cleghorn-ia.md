@@ -1,9 +1,7 @@
 ---
-title: "Cleghorn, Iowa Business Directory"
+title: "Cleghorn, IA Business Directory"
+type: "towns"
 slug: "cleghorn-ia"
-town: "Cleghorn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 1004
+state: "ia"
+town_data: "cleghorn-ia"
 ---

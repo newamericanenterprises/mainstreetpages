@@ -1,9 +1,7 @@
 ---
-title: "Fairland, Indiana Business Directory"
+title: "Fairland, IN Business Directory"
+type: "towns"
 slug: "fairland-in"
-town: "Fairland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Shelby"
-population: 1163
+state: "in"
+town_data: "fairland-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sholes, Nebraska Business Directory"
+title: "Sholes, NE Business Directory"
+type: "towns"
 slug: "sholes-ne"
-state: "NE"
-county: "Wayne"
-population: 500
+state: "ne"
+town_data: "sholes-ne"
 ---

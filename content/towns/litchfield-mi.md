@@ -1,9 +1,7 @@
 ---
-title: "Litchfield, Michigan Business Directory"
+title: "Litchfield, MI Business Directory"
+type: "towns"
 slug: "litchfield-mi"
-town: "Litchfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Hillsdale"
-population: 1819
+state: "mi"
+town_data: "litchfield-mi"
 ---

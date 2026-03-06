@@ -1,9 +1,7 @@
 ---
-title: "Little York, Indiana Business Directory"
+title: "Little York, IN Business Directory"
+type: "towns"
 slug: "little-york-in"
-town: "Little York"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 4030
+state: "in"
+town_data: "little-york-in"
 ---

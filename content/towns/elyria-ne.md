@@ -1,7 +1,7 @@
 ---
-title: "Elyria, Nebraska Business Directory"
+title: "Elyria, NE Business Directory"
+type: "towns"
 slug: "elyria-ne"
-state: "NE"
-county: "Valley"
-population: 500
+state: "ne"
+town_data: "elyria-ne"
 ---

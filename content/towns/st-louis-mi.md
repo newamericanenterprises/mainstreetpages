@@ -1,9 +1,7 @@
 ---
-title: "St. Louis, Michigan Business Directory"
+title: "St. Louis, MI Business Directory"
+type: "towns"
 slug: "st-louis-mi"
-town: "St. Louis"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 1089
+state: "mi"
+town_data: "st-louis-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Merna, Nebraska Business Directory"
+title: "Merna, NE Business Directory"
+type: "towns"
 slug: "merna-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "merna-ne"
 ---

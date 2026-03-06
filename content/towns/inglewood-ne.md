@@ -1,7 +1,7 @@
 ---
-title: "Inglewood, Nebraska Business Directory"
+title: "Inglewood, NE Business Directory"
+type: "towns"
 slug: "inglewood-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "inglewood-ne"
 ---

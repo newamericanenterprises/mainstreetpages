@@ -1,9 +1,7 @@
 ---
-title: "Spring Park, Minnesota Business Directory"
+title: "Spring Park, MN Business Directory"
+type: "towns"
 slug: "spring-park-mn"
-town: "Spring Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 3120
+state: "mn"
+town_data: "spring-park-mn"
 ---

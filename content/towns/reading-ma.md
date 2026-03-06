@@ -1,9 +1,7 @@
 ---
-title: "Reading, Massachusetts Business Directory"
+title: "Reading, MA Business Directory"
+type: "towns"
 slug: "reading-ma"
-town: "Reading"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 26185
+state: "ma"
+town_data: "reading-ma"
 ---

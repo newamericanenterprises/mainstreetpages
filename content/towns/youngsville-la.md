@@ -1,9 +1,7 @@
 ---
-title: "Youngsville, Louisiana Business Directory"
+title: "Youngsville, LA Business Directory"
+type: "towns"
 slug: "youngsville-la"
-town: "Youngsville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 14068
+state: "la"
+town_data: "youngsville-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "West Burlington, Iowa Business Directory"
+title: "West Burlington, IA Business Directory"
+type: "towns"
 slug: "west-burlington-ia"
-town: "West Burlington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 1705
+state: "ia"
+town_data: "west-burlington-ia"
 ---

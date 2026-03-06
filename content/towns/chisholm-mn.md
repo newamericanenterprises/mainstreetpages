@@ -1,9 +1,7 @@
 ---
-title: "Chisholm, Minnesota Business Directory"
+title: "Chisholm, MN Business Directory"
+type: "towns"
 slug: "chisholm-mn"
-town: "Chisholm"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 2466
+state: "mn"
+town_data: "chisholm-mn"
 ---

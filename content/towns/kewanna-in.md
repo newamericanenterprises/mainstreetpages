@@ -1,9 +1,7 @@
 ---
-title: "Kewanna, Indiana Business Directory"
+title: "Kewanna, IN Business Directory"
+type: "towns"
 slug: "kewanna-in"
-town: "Kewanna"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fulton"
-population: 3653
+state: "in"
+town_data: "kewanna-in"
 ---

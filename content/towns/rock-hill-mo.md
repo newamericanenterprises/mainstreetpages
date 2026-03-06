@@ -1,7 +1,7 @@
 ---
-title: "Rock Hill, Missouri Business Directory"
+title: "Rock Hill, MO Business Directory"
+type: "towns"
 slug: "rock-hill-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "rock-hill-mo"
 ---

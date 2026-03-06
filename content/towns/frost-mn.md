@@ -1,9 +1,7 @@
 ---
-title: "Frost, Minnesota Business Directory"
+title: "Frost, MN Business Directory"
+type: "towns"
 slug: "frost-mn"
-town: "Frost"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 969
+state: "mn"
+town_data: "frost-mn"
 ---

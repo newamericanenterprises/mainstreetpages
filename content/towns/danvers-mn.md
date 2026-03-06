@@ -1,9 +1,7 @@
 ---
-title: "Danvers, Minnesota Business Directory"
+title: "Danvers, MN Business Directory"
+type: "towns"
 slug: "danvers-mn"
-town: "Danvers"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 1410
+state: "mn"
+town_data: "danvers-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Watkins, Minnesota Business Directory"
+title: "Watkins, MN Business Directory"
+type: "towns"
 slug: "watkins-mn"
-town: "Watkins"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 1630
+state: "mn"
+town_data: "watkins-mn"
 ---

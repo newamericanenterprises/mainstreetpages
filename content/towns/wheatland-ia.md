@@ -1,9 +1,7 @@
 ---
-title: "Wheatland, Iowa Business Directory"
+title: "Wheatland, IA Business Directory"
+type: "towns"
 slug: "wheatland-ia"
-town: "Wheatland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 1479
+state: "ia"
+town_data: "wheatland-ia"
 ---

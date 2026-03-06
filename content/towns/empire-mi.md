@@ -1,9 +1,7 @@
 ---
-title: "Empire, Michigan Business Directory"
+title: "Empire, MI Business Directory"
+type: "towns"
 slug: "empire-mi"
-town: "Empire"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 2888
+state: "mi"
+town_data: "empire-mi"
 ---

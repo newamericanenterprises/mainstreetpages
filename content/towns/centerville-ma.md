@@ -1,9 +1,7 @@
 ---
-title: "Centerville, Massachusetts Business Directory"
+title: "Centerville, MA Business Directory"
+type: "towns"
 slug: "centerville-ma"
-town: "Centerville"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 8098
+state: "ma"
+town_data: "centerville-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Copeland, Kansas Business Directory"
+title: "Copeland, KS Business Directory"
+type: "towns"
 slug: "copeland-ks"
-town: "Copeland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gray"
-population: 399
+state: "ks"
+town_data: "copeland-ks"
 ---

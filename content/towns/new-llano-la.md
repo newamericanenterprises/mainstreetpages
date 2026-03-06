@@ -1,9 +1,7 @@
 ---
-title: "New Llano, Louisiana Business Directory"
+title: "New Llano, LA Business Directory"
+type: "towns"
 slug: "new-llano-la"
-town: "New Llano"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 2827
+state: "la"
+town_data: "new-llano-la"
 ---

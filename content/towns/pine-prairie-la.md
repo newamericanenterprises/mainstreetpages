@@ -1,9 +1,7 @@
 ---
-title: "Pine Prairie, Louisiana Business Directory"
+title: "Pine Prairie, LA Business Directory"
+type: "towns"
 slug: "pine-prairie-la"
-town: "Pine Prairie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Evangeline"
-population: 2906
+state: "la"
+town_data: "pine-prairie-la"
 ---

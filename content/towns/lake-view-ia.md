@@ -1,9 +1,7 @@
 ---
-title: "Lake View, Iowa Business Directory"
+title: "Lake View, IA Business Directory"
+type: "towns"
 slug: "lake-view-ia"
-town: "Lake View"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 2344
+state: "ia"
+town_data: "lake-view-ia"
 ---

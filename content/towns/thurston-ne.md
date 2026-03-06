@@ -1,7 +1,7 @@
 ---
-title: "Thurston, Nebraska Business Directory"
+title: "Thurston, NE Business Directory"
+type: "towns"
 slug: "thurston-ne"
-state: "NE"
-county: "Thurston"
-population: 124
+state: "ne"
+town_data: "thurston-ne"
 ---

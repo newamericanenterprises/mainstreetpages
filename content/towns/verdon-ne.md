@@ -1,7 +1,7 @@
 ---
-title: "Verdon, Nebraska Business Directory"
+title: "Verdon, NE Business Directory"
+type: "towns"
 slug: "verdon-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "verdon-ne"
 ---

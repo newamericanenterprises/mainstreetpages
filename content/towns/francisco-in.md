@@ -1,9 +1,7 @@
 ---
-title: "Francisco, Indiana Business Directory"
+title: "Francisco, IN Business Directory"
+type: "towns"
 slug: "francisco-in"
-town: "Francisco"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 3024
+state: "in"
+town_data: "francisco-in"
 ---

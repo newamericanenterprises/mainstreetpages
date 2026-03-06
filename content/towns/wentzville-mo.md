@@ -1,7 +1,7 @@
 ---
-title: "Wentzville, Missouri Business Directory"
+title: "Wentzville, MO Business Directory"
+type: "towns"
 slug: "wentzville-mo"
-state: "MO"
-county: "St. Charles"
-population: 42751
+state: "mo"
+town_data: "wentzville-mo"
 ---

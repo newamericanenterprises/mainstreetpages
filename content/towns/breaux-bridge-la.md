@@ -1,9 +1,7 @@
 ---
-title: "Breaux Bridge, Louisiana Business Directory"
+title: "Breaux Bridge, LA Business Directory"
+type: "towns"
 slug: "breaux-bridge-la"
-town: "Breaux Bridge"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 8269
+state: "la"
+town_data: "breaux-bridge-la"
 ---

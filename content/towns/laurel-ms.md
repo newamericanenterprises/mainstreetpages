@@ -1,7 +1,7 @@
 ---
-title: "Laurel, Mississippi Business Directory"
+title: "Laurel, MS Business Directory"
+type: "towns"
 slug: "laurel-ms"
-state: "MS"
-county: "Jones"
-population: 18548
+state: "ms"
+town_data: "laurel-ms"
 ---

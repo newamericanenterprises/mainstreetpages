@@ -1,7 +1,7 @@
 ---
-title: "Flaxville, Montana Business Directory"
+title: "Flaxville, MT Business Directory"
+type: "towns"
 slug: "flaxville-mt"
-state: "MT"
-county: "Daniels"
-population: 500
+state: "mt"
+town_data: "flaxville-mt"
 ---

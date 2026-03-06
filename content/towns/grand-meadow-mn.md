@@ -1,9 +1,7 @@
 ---
-title: "Grand Meadow, Minnesota Business Directory"
+title: "Grand Meadow, MN Business Directory"
+type: "towns"
 slug: "grand-meadow-mn"
-town: "Grand Meadow"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 716
+state: "mn"
+town_data: "grand-meadow-mn"
 ---

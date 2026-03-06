@@ -1,9 +1,7 @@
 ---
-title: "Herington, Kansas Business Directory"
+title: "Herington, KS Business Directory"
+type: "towns"
 slug: "herington-ks"
-town: "Herington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 2263
+state: "ks"
+town_data: "herington-ks"
 ---

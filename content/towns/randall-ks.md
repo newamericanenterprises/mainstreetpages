@@ -1,9 +1,7 @@
 ---
-title: "Randall, Kansas Business Directory"
+title: "Randall, KS Business Directory"
+type: "towns"
 slug: "randall-ks"
-town: "Randall"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 1695
+state: "ks"
+town_data: "randall-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "McBain, Michigan Business Directory"
+title: "McBain, MI Business Directory"
+type: "towns"
 slug: "mcbain-mi"
-town: "McBain"
-state: "Michigan"
-state_abbr: "MI"
-county: "Missaukee"
-population: 3955
+state: "mi"
+town_data: "mcbain-mi"
 ---

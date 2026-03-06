@@ -1,9 +1,7 @@
 ---
-title: "Coppock, Iowa Business Directory"
+title: "Coppock, IA Business Directory"
+type: "towns"
 slug: "coppock-ia"
-town: "Coppock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 1933
+state: "ia"
+town_data: "coppock-ia"
 ---

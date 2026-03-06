@@ -1,9 +1,7 @@
 ---
-title: "Milford, Michigan Business Directory"
+title: "Milford, MI Business Directory"
+type: "towns"
 slug: "milford-mi"
-town: "Milford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 597
+state: "mi"
+town_data: "milford-mi"
 ---

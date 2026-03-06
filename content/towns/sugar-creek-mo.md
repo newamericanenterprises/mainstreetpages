@@ -1,7 +1,7 @@
 ---
-title: "Sugar Creek, Missouri Business Directory"
+title: "Sugar Creek, MO Business Directory"
+type: "towns"
 slug: "sugar-creek-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "sugar-creek-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lake Annette, Missouri Business Directory"
+title: "Lake Annette, MO Business Directory"
+type: "towns"
 slug: "lake-annette-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "lake-annette-mo"
 ---

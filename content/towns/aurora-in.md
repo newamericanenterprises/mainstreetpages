@@ -1,9 +1,7 @@
 ---
-title: "Aurora, Indiana Business Directory"
+title: "Aurora, IN Business Directory"
+type: "towns"
 slug: "aurora-in"
-town: "Aurora"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dearborn"
-population: 3750
+state: "in"
+town_data: "aurora-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Norborne, Missouri Business Directory"
+title: "Norborne, MO Business Directory"
+type: "towns"
 slug: "norborne-mo"
-state: "MO"
-county: "Carroll"
-population: 1500
+state: "mo"
+town_data: "norborne-mo"
 ---

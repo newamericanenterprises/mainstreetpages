@@ -1,9 +1,7 @@
 ---
-title: "Huron, Michigan Business Directory"
+title: "Huron, MI Business Directory"
+type: "towns"
 slug: "huron-mi"
-town: "Huron"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2894
+state: "mi"
+town_data: "huron-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Porter, Minnesota Business Directory"
+title: "Porter, MN Business Directory"
+type: "towns"
 slug: "porter-mn"
-town: "Porter"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 3119
+state: "mn"
+town_data: "porter-mn"
 ---

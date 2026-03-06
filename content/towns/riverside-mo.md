@@ -1,7 +1,7 @@
 ---
-title: "Riverside, Missouri Business Directory"
+title: "Riverside, MO Business Directory"
+type: "towns"
 slug: "riverside-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "riverside-mo"
 ---

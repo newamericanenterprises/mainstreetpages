@@ -1,9 +1,7 @@
 ---
-title: "Warren, Massachusetts Business Directory"
+title: "Warren, MA Business Directory"
+type: "towns"
 slug: "warren-ma"
-town: "Warren"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8877
+state: "ma"
+town_data: "warren-ma"
 ---

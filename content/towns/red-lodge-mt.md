@@ -1,7 +1,7 @@
 ---
-title: "Red Lodge, Montana Business Directory"
+title: "Red Lodge, MT Business Directory"
+type: "towns"
 slug: "red-lodge-mt"
-state: "MT"
-county: "Carbon"
-population: 2278
+state: "mt"
+town_data: "red-lodge-mt"
 ---

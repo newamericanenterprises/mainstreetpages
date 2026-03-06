@@ -1,9 +1,7 @@
 ---
-title: "Edgartown, Massachusetts Business Directory"
+title: "Edgartown, MA Business Directory"
+type: "towns"
 slug: "edgartown-ma"
-town: "Edgartown"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 4607
+state: "ma"
+town_data: "edgartown-ma"
 ---

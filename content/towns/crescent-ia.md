@@ -1,9 +1,7 @@
 ---
-title: "Crescent, Iowa Business Directory"
+title: "Crescent, IA Business Directory"
+type: "towns"
 slug: "crescent-ia"
-town: "Crescent"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 1377
+state: "ia"
+town_data: "crescent-ia"
 ---

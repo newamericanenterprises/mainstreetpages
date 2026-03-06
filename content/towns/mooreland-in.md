@@ -1,9 +1,7 @@
 ---
-title: "Mooreland, Indiana Business Directory"
+title: "Mooreland, IN Business Directory"
+type: "towns"
 slug: "mooreland-in"
-town: "Mooreland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 577
+state: "in"
+town_data: "mooreland-in"
 ---

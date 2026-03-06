@@ -1,7 +1,7 @@
 ---
-title: "Marionville, Missouri Business Directory"
+title: "Marionville, MO Business Directory"
+type: "towns"
 slug: "marionville-mo"
-state: "MO"
-county: "Lawrence"
-population: 1500
+state: "mo"
+town_data: "marionville-mo"
 ---

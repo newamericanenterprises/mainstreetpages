@@ -1,7 +1,7 @@
 ---
-title: "Birmingham, Missouri Business Directory"
+title: "Birmingham, MO Business Directory"
+type: "towns"
 slug: "birmingham-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "birmingham-mo"
 ---

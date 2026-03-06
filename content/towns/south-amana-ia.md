@@ -1,9 +1,7 @@
 ---
-title: "South Amana, Iowa Business Directory"
+title: "South Amana, IA Business Directory"
+type: "towns"
 slug: "south-amana-ia"
-town: "South Amana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 1706
+state: "ia"
+town_data: "south-amana-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pulaski, Iowa Business Directory"
+title: "Pulaski, IA Business Directory"
+type: "towns"
 slug: "pulaski-ia"
-town: "Pulaski"
-state: "Iowa"
-state_abbr: "IA"
-county: "Davis"
-population: 1838
+state: "ia"
+town_data: "pulaski-ia"
 ---

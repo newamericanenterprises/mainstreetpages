@@ -1,9 +1,7 @@
 ---
-title: "Ireton, Iowa Business Directory"
+title: "Ireton, IA Business Directory"
+type: "towns"
 slug: "ireton-ia"
-town: "Ireton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 2595
+state: "ia"
+town_data: "ireton-ia"
 ---

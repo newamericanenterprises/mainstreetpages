@@ -1,7 +1,7 @@
 ---
-title: "Riverton, Nebraska Business Directory"
+title: "Riverton, NE Business Directory"
+type: "towns"
 slug: "riverton-ne"
-state: "NE"
-county: "Franklin"
-population: 500
+state: "ne"
+town_data: "riverton-ne"
 ---

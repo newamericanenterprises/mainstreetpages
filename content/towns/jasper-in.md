@@ -1,9 +1,7 @@
 ---
-title: "Jasper, Indiana Business Directory"
+title: "Jasper, IN Business Directory"
+type: "towns"
 slug: "jasper-in"
-town: "Jasper"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dubois"
-population: 15853
+state: "in"
+town_data: "jasper-in"
 ---

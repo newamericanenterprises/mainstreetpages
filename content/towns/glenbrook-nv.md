@@ -1,7 +1,7 @@
 ---
-title: "Glenbrook, Nevada Business Directory"
+title: "Glenbrook, NV Business Directory"
+type: "towns"
 slug: "glenbrook-nv"
-state: "NV"
-county: "Douglas"
-population: 251
+state: "nv"
+town_data: "glenbrook-nv"
 ---

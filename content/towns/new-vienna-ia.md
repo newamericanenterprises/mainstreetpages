@@ -1,9 +1,7 @@
 ---
-title: "New Vienna, Iowa Business Directory"
+title: "New Vienna, IA Business Directory"
+type: "towns"
 slug: "new-vienna-ia"
-town: "New Vienna"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 1661
+state: "ia"
+town_data: "new-vienna-ia"
 ---

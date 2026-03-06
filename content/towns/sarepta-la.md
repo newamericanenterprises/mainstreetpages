@@ -1,9 +1,7 @@
 ---
-title: "Sarepta, Louisiana Business Directory"
+title: "Sarepta, LA Business Directory"
+type: "towns"
 slug: "sarepta-la"
-town: "Sarepta"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 3079
+state: "la"
+town_data: "sarepta-la"
 ---

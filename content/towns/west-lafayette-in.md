@@ -1,9 +1,7 @@
 ---
-title: "West Lafayette, Indiana Business Directory"
+title: "West Lafayette, IN Business Directory"
+type: "towns"
 slug: "west-lafayette-in"
-town: "West Lafayette"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tippecanoe"
-population: 44595
+state: "in"
+town_data: "west-lafayette-in"
 ---

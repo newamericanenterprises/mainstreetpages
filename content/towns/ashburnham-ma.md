@@ -1,9 +1,7 @@
 ---
-title: "Ashburnham, Massachusetts Business Directory"
+title: "Ashburnham, MA Business Directory"
+type: "towns"
 slug: "ashburnham-ma"
-town: "Ashburnham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 6974
+state: "ma"
+town_data: "ashburnham-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Allen Park, Michigan Business Directory"
+title: "Allen Park, MI Business Directory"
+type: "towns"
 slug: "allen-park-mi"
-town: "Allen Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3592
+state: "mi"
+town_data: "allen-park-mi"
 ---

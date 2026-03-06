@@ -1,7 +1,7 @@
 ---
-title: "Merwin, Missouri Business Directory"
+title: "Merwin, MO Business Directory"
+type: "towns"
 slug: "merwin-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "merwin-mo"
 ---

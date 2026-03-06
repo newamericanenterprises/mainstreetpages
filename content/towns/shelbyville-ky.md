@@ -1,9 +1,7 @@
 ---
-title: "Shelbyville, Kentucky Business Directory"
+title: "Shelbyville, KY Business Directory"
+type: "towns"
 slug: "shelbyville-ky"
-town: "Shelbyville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Shelby"
-population: 16598
+state: "ky"
+town_data: "shelbyville-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Blair, Nebraska Business Directory"
+title: "Blair, NE Business Directory"
+type: "towns"
 slug: "blair-ne"
-state: "NE"
-county: "Washington"
-population: 7990
+state: "ne"
+town_data: "blair-ne"
 ---

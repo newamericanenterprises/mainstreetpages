@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Iowa Business Directory"
+title: "Clinton, IA Business Directory"
+type: "towns"
 slug: "clinton-ia"
-town: "Clinton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 24473
+state: "ia"
+town_data: "clinton-ia"
 ---

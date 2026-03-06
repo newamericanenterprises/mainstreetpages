@@ -1,9 +1,7 @@
 ---
-title: "Taylor, Michigan Business Directory"
+title: "Taylor, MI Business Directory"
+type: "towns"
 slug: "taylor-mi"
-town: "Taylor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 61361
+state: "mi"
+town_data: "taylor-mi"
 ---

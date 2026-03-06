@@ -1,7 +1,7 @@
 ---
-title: "Grain Valley, Missouri Business Directory"
+title: "Grain Valley, MO Business Directory"
+type: "towns"
 slug: "grain-valley-mo"
-state: "MO"
-county: "Jackson"
-population: 15174
+state: "mo"
+town_data: "grain-valley-mo"
 ---

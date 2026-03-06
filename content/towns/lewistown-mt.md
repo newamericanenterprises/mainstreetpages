@@ -1,7 +1,7 @@
 ---
-title: "Lewistown, Montana Business Directory"
+title: "Lewistown, MT Business Directory"
+type: "towns"
 slug: "lewistown-mt"
-state: "MT"
-county: "Fergus"
-population: 5813
+state: "mt"
+town_data: "lewistown-mt"
 ---

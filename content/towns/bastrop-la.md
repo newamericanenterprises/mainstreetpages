@@ -1,9 +1,7 @@
 ---
-title: "Bastrop, Louisiana Business Directory"
+title: "Bastrop, LA Business Directory"
+type: "towns"
 slug: "bastrop-la"
-town: "Bastrop"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Morehouse"
-population: 10187
+state: "la"
+town_data: "bastrop-la"
 ---

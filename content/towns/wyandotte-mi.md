@@ -1,9 +1,7 @@
 ---
-title: "Wyandotte, Michigan Business Directory"
+title: "Wyandotte, MI Business Directory"
+type: "towns"
 slug: "wyandotte-mi"
-town: "Wyandotte"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2564
+state: "mi"
+town_data: "wyandotte-mi"
 ---

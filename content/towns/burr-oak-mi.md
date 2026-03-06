@@ -1,9 +1,7 @@
 ---
-title: "Burr Oak, Michigan Business Directory"
+title: "Burr Oak, MI Business Directory"
+type: "towns"
 slug: "burr-oak-mi"
-town: "Burr Oak"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Joseph"
-population: 3980
+state: "mi"
+town_data: "burr-oak-mi"
 ---

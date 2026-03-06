@@ -1,9 +1,7 @@
 ---
-title: "Deerfield, Massachusetts Business Directory"
+title: "Deerfield, MA Business Directory"
+type: "towns"
 slug: "deerfield-ma"
-town: "Deerfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 5090
+state: "ma"
+town_data: "deerfield-ma"
 ---

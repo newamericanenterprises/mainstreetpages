@@ -1,7 +1,7 @@
 ---
-title: "Wausa, Nebraska Business Directory"
+title: "Wausa, NE Business Directory"
+type: "towns"
 slug: "wausa-ne"
-state: "NE"
-county: "Knox"
-population: 621
+state: "ne"
+town_data: "wausa-ne"
 ---

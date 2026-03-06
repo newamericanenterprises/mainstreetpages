@@ -1,9 +1,7 @@
 ---
-title: "Berkley, Michigan Business Directory"
+title: "Berkley, MI Business Directory"
+type: "towns"
 slug: "berkley-mi"
-town: "Berkley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4119
+state: "mi"
+town_data: "berkley-mi"
 ---

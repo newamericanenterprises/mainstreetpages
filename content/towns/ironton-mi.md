@@ -1,9 +1,7 @@
 ---
-title: "Ironton, Michigan Business Directory"
+title: "Ironton, MI Business Directory"
+type: "towns"
 slug: "ironton-mi"
-town: "Ironton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 2650
+state: "mi"
+town_data: "ironton-mi"
 ---

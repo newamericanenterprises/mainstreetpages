@@ -1,9 +1,7 @@
 ---
-title: "Rome City, Indiana Business Directory"
+title: "Rome City, IN Business Directory"
+type: "towns"
 slug: "rome-city-in"
-town: "Rome City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 4512
+state: "in"
+town_data: "rome-city-in"
 ---

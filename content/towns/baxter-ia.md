@@ -1,9 +1,7 @@
 ---
-title: "Baxter, Iowa Business Directory"
+title: "Baxter, IA Business Directory"
+type: "towns"
 slug: "baxter-ia"
-town: "Baxter"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1321
+state: "ia"
+town_data: "baxter-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Street, Maryland Business Directory"
+title: "Street, MD Business Directory"
+type: "towns"
 slug: "street-md"
-town: "Street"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 3079
+state: "md"
+town_data: "street-md"
 ---

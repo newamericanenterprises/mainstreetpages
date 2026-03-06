@@ -1,9 +1,7 @@
 ---
-title: "Simsboro, Louisiana Business Directory"
+title: "Simsboro, LA Business Directory"
+type: "towns"
 slug: "simsboro-la"
-town: "Simsboro"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 1653
+state: "la"
+town_data: "simsboro-la"
 ---

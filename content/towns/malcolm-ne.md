@@ -1,7 +1,7 @@
 ---
-title: "Malcolm, Nebraska Business Directory"
+title: "Malcolm, NE Business Directory"
+type: "towns"
 slug: "malcolm-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "malcolm-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bucksport, Maine Business Directory"
+title: "Bucksport, ME Business Directory"
+type: "towns"
 slug: "bucksport-me"
-town: "Bucksport"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 4924
+state: "me"
+town_data: "bucksport-me"
 ---

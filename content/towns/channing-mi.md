@@ -1,9 +1,7 @@
 ---
-title: "Channing, Michigan Business Directory"
+title: "Channing, MI Business Directory"
+type: "towns"
 slug: "channing-mi"
-town: "Channing"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 4271
+state: "mi"
+town_data: "channing-mi"
 ---

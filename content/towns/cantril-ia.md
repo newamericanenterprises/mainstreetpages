@@ -1,9 +1,7 @@
 ---
-title: "Cantril, Iowa Business Directory"
+title: "Cantril, IA Business Directory"
+type: "towns"
 slug: "cantril-ia"
-town: "Cantril"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 2423
+state: "ia"
+town_data: "cantril-ia"
 ---

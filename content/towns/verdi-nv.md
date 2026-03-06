@@ -1,7 +1,7 @@
 ---
-title: "Verdi, Nevada Business Directory"
+title: "Verdi, NV Business Directory"
+type: "towns"
 slug: "verdi-nv"
-state: "NV"
-county: "Washoe"
-population: 1415
+state: "nv"
+town_data: "verdi-nv"
 ---

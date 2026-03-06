@@ -1,9 +1,7 @@
 ---
-title: "Paris, Maine Business Directory"
+title: "Paris, ME Business Directory"
+type: "towns"
 slug: "paris-me"
-town: "Paris"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 591
+state: "me"
+town_data: "paris-me"
 ---

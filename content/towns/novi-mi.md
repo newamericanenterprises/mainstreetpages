@@ -1,9 +1,7 @@
 ---
-title: "Novi, Michigan Business Directory"
+title: "Novi, MI Business Directory"
+type: "towns"
 slug: "novi-mi"
-town: "Novi"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 60490
+state: "mi"
+town_data: "novi-mi"
 ---

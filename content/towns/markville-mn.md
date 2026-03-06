@@ -1,9 +1,7 @@
 ---
-title: "Markville, Minnesota Business Directory"
+title: "Markville, MN Business Directory"
+type: "towns"
 slug: "markville-mn"
-town: "Markville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 978
+state: "mn"
+town_data: "markville-mn"
 ---

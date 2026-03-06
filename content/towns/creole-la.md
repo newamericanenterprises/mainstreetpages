@@ -1,9 +1,7 @@
 ---
-title: "Creole, Louisiana Business Directory"
+title: "Creole, LA Business Directory"
+type: "towns"
 slug: "creole-la"
-town: "Creole"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 455
+state: "la"
+town_data: "creole-la"
 ---

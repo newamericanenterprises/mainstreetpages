@@ -1,9 +1,7 @@
 ---
-title: "Newell, Iowa Business Directory"
+title: "Newell, IA Business Directory"
+type: "towns"
 slug: "newell-ia"
-town: "Newell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 2154
+state: "ia"
+town_data: "newell-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Berry, Kentucky Business Directory"
+title: "Berry, KY Business Directory"
+type: "towns"
 slug: "berry-ky"
-town: "Berry"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harrison"
-population: 775
+state: "ky"
+town_data: "berry-ky"
 ---

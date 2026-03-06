@@ -1,7 +1,7 @@
 ---
-title: "Polaris, Montana Business Directory"
+title: "Polaris, MT Business Directory"
+type: "towns"
 slug: "polaris-mt"
-state: "MT"
-county: "Beaverhead"
-population: 500
+state: "mt"
+town_data: "polaris-mt"
 ---

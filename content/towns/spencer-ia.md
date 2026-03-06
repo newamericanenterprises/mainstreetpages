@@ -1,9 +1,7 @@
 ---
-title: "Spencer, Iowa Business Directory"
+title: "Spencer, IA Business Directory"
+type: "towns"
 slug: "spencer-ia"
-town: "Spencer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 11317
+state: "ia"
+town_data: "spencer-ia"
 ---

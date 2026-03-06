@@ -1,9 +1,7 @@
 ---
-title: "LaHarpe, Kansas Business Directory"
+title: "LaHarpe, KS Business Directory"
+type: "towns"
 slug: "laharpe-ks"
-town: "LaHarpe"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 2778
+state: "ks"
+town_data: "laharpe-ks"
 ---

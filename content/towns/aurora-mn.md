@@ -1,9 +1,7 @@
 ---
-title: "Aurora, Minnesota Business Directory"
+title: "Aurora, MN Business Directory"
+type: "towns"
 slug: "aurora-mn"
-town: "Aurora"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 840
+state: "mn"
+town_data: "aurora-mn"
 ---

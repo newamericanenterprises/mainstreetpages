@@ -1,9 +1,7 @@
 ---
-title: "Tennyson, Indiana Business Directory"
+title: "Tennyson, IN Business Directory"
+type: "towns"
 slug: "tennyson-in"
-town: "Tennyson"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warrick"
-population: 1751
+state: "in"
+town_data: "tennyson-in"
 ---

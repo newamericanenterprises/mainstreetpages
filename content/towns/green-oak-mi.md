@@ -1,9 +1,7 @@
 ---
-title: "Green Oak, Michigan Business Directory"
+title: "Green Oak, MI Business Directory"
+type: "towns"
 slug: "green-oak-mi"
-town: "Green Oak"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 1866
+state: "mi"
+town_data: "green-oak-mi"
 ---

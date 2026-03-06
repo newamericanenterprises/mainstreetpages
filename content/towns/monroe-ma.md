@@ -1,9 +1,7 @@
 ---
-title: "Monroe, Massachusetts Business Directory"
+title: "Monroe, MA Business Directory"
+type: "towns"
 slug: "monroe-ma"
-town: "Monroe"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 7493
+state: "ma"
+town_data: "monroe-ma"
 ---

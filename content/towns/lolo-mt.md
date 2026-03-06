@@ -1,7 +1,7 @@
 ---
-title: "Lolo, Montana Business Directory"
+title: "Lolo, MT Business Directory"
+type: "towns"
 slug: "lolo-mt"
-state: "MT"
-county: "Missoula"
-population: 4015
+state: "mt"
+town_data: "lolo-mt"
 ---

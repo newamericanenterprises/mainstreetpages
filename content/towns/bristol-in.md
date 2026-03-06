@@ -1,9 +1,7 @@
 ---
-title: "Bristol, Indiana Business Directory"
+title: "Bristol, IN Business Directory"
+type: "towns"
 slug: "bristol-in"
-town: "Bristol"
-state: "Indiana"
-state_abbr: "IN"
-county: "Elkhart"
-population: 602
+state: "in"
+town_data: "bristol-in"
 ---

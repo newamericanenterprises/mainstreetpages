@@ -1,7 +1,7 @@
 ---
-title: "Cedar Rapids, Nebraska Business Directory"
+title: "Cedar Rapids, NE Business Directory"
+type: "towns"
 slug: "cedar-rapids-ne"
-state: "NE"
-county: "Boone"
-population: 500
+state: "ne"
+town_data: "cedar-rapids-ne"
 ---

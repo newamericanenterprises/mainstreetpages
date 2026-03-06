@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Indiana Business Directory"
+title: "Oxford, IN Business Directory"
+type: "towns"
 slug: "oxford-in"
-town: "Oxford"
-state: "Indiana"
-state_abbr: "IN"
-county: "Benton"
-population: 5378
+state: "in"
+town_data: "oxford-in"
 ---

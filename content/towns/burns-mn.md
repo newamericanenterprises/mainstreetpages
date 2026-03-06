@@ -1,9 +1,7 @@
 ---
-title: "Burns, Minnesota Business Directory"
+title: "Burns, MN Business Directory"
+type: "towns"
 slug: "burns-mn"
-town: "Burns"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2421
+state: "mn"
+town_data: "burns-mn"
 ---

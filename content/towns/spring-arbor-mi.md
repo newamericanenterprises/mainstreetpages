@@ -1,9 +1,7 @@
 ---
-title: "Spring Arbor, Michigan Business Directory"
+title: "Spring Arbor, MI Business Directory"
+type: "towns"
 slug: "spring-arbor-mi"
-town: "Spring Arbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 1727
+state: "mi"
+town_data: "spring-arbor-mi"
 ---

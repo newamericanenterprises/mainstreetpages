@@ -1,7 +1,7 @@
 ---
-title: "Platte City, Missouri Business Directory"
+title: "Platte City, MO Business Directory"
+type: "towns"
 slug: "platte-city-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "platte-city-mo"
 ---

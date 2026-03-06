@@ -1,9 +1,7 @@
 ---
-title: "Golden Valley, Minnesota Business Directory"
+title: "Golden Valley, MN Business Directory"
+type: "towns"
 slug: "golden-valley-mn"
-town: "Golden Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 346
+state: "mn"
+town_data: "golden-valley-mn"
 ---

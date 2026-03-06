@@ -1,9 +1,7 @@
 ---
-title: "Carter Lake, Iowa Business Directory"
+title: "Carter Lake, IA Business Directory"
+type: "towns"
 slug: "carter-lake-ia"
-town: "Carter Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 2679
+state: "ia"
+town_data: "carter-lake-ia"
 ---

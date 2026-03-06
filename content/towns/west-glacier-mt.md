@@ -1,7 +1,7 @@
 ---
-title: "West Glacier, Montana Business Directory"
+title: "West Glacier, MT Business Directory"
+type: "towns"
 slug: "west-glacier-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "west-glacier-mt"
 ---

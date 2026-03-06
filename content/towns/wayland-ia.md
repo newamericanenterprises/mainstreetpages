@@ -1,9 +1,7 @@
 ---
-title: "Wayland, Iowa Business Directory"
+title: "Wayland, IA Business Directory"
+type: "towns"
 slug: "wayland-ia"
-town: "Wayland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 2298
+state: "ia"
+town_data: "wayland-ia"
 ---

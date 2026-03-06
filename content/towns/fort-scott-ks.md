@@ -1,9 +1,7 @@
 ---
-title: "Fort Scott, Kansas Business Directory"
+title: "Fort Scott, KS Business Directory"
+type: "towns"
 slug: "fort-scott-ks"
-town: "Fort Scott"
-state: "Kansas"
-state_abbr: "KS"
-county: "Bourbon"
-population: 7612
+state: "ks"
+town_data: "fort-scott-ks"
 ---

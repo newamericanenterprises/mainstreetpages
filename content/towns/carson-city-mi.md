@@ -1,9 +1,7 @@
 ---
-title: "Carson City, Michigan Business Directory"
+title: "Carson City, MI Business Directory"
+type: "towns"
 slug: "carson-city-mi"
-town: "Carson City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 5221
+state: "mi"
+town_data: "carson-city-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Kentucky Business Directory"
+title: "Franklin, KY Business Directory"
+type: "towns"
 slug: "franklin-ky"
-town: "Franklin"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Simpson"
-population: 8898
+state: "ky"
+town_data: "franklin-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dennysville, Maine Business Directory"
+title: "Dennysville, ME Business Directory"
+type: "towns"
 slug: "dennysville-me"
-town: "Dennysville"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 396
+state: "me"
+town_data: "dennysville-me"
 ---

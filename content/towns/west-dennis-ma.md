@@ -1,9 +1,7 @@
 ---
-title: "West Dennis, Massachusetts Business Directory"
+title: "West Dennis, MA Business Directory"
+type: "towns"
 slug: "west-dennis-ma"
-town: "West Dennis"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 5193
+state: "ma"
+town_data: "west-dennis-ma"
 ---

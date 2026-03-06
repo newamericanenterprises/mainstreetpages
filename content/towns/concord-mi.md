@@ -1,9 +1,7 @@
 ---
-title: "Concord, Michigan Business Directory"
+title: "Concord, MI Business Directory"
+type: "towns"
 slug: "concord-mi"
-town: "Concord"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 2944
+state: "mi"
+town_data: "concord-mi"
 ---

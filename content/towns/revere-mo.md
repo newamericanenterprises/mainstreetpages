@@ -1,7 +1,7 @@
 ---
-title: "Revere, Missouri Business Directory"
+title: "Revere, MO Business Directory"
+type: "towns"
 slug: "revere-mo"
-state: "MO"
-county: "Clark"
-population: 1500
+state: "mo"
+town_data: "revere-mo"
 ---

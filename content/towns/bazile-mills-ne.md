@@ -1,7 +1,7 @@
 ---
-title: "Bazile Mills, Nebraska Business Directory"
+title: "Bazile Mills, NE Business Directory"
+type: "towns"
 slug: "bazile-mills-ne"
-state: "NE"
-county: "Knox"
-population: 500
+state: "ne"
+town_data: "bazile-mills-ne"
 ---

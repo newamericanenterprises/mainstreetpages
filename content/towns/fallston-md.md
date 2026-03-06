@@ -1,9 +1,7 @@
 ---
-title: "Fallston, Maryland Business Directory"
+title: "Fallston, MD Business Directory"
+type: "towns"
 slug: "fallston-md"
-town: "Fallston"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 1613
+state: "md"
+town_data: "fallston-md"
 ---

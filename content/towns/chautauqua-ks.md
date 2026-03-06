@@ -1,9 +1,7 @@
 ---
-title: "Chautauqua, Kansas Business Directory"
+title: "Chautauqua, KS Business Directory"
+type: "towns"
 slug: "chautauqua-ks"
-town: "Chautauqua"
-state: "Kansas"
-state_abbr: "KS"
-county: "Chautauqua"
-population: 2757
+state: "ks"
+town_data: "chautauqua-ks"
 ---

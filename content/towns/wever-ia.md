@@ -1,9 +1,7 @@
 ---
-title: "Wever, Iowa Business Directory"
+title: "Wever, IA Business Directory"
+type: "towns"
 slug: "wever-ia"
-town: "Wever"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 1421
+state: "ia"
+town_data: "wever-ia"
 ---

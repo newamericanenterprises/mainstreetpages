@@ -1,9 +1,7 @@
 ---
-title: "Patten, Maine Business Directory"
+title: "Patten, ME Business Directory"
+type: "towns"
 slug: "patten-me"
-town: "Patten"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1469
+state: "me"
+town_data: "patten-me"
 ---

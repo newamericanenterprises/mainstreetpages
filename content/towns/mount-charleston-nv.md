@@ -1,7 +1,7 @@
 ---
-title: "Mount Charleston, Nevada Business Directory"
+title: "Mount Charleston, NV Business Directory"
+type: "towns"
 slug: "mount-charleston-nv"
-state: "NV"
-county: "Clark"
-population: 354
+state: "nv"
+town_data: "mount-charleston-nv"
 ---

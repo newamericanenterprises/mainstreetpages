@@ -1,9 +1,7 @@
 ---
-title: "Marquette, Iowa Business Directory"
+title: "Marquette, IA Business Directory"
+type: "towns"
 slug: "marquette-ia"
-town: "Marquette"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 1613
+state: "ia"
+town_data: "marquette-ia"
 ---

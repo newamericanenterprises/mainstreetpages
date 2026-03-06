@@ -1,9 +1,7 @@
 ---
-title: "Ravenna, Michigan Business Directory"
+title: "Ravenna, MI Business Directory"
+type: "towns"
 slug: "ravenna-mi"
-town: "Ravenna"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 2762
+state: "mi"
+town_data: "ravenna-mi"
 ---

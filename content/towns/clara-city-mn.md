@@ -1,9 +1,7 @@
 ---
-title: "Clara City, Minnesota Business Directory"
+title: "Clara City, MN Business Directory"
+type: "towns"
 slug: "clara-city-mn"
-town: "Clara City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chippewa"
-population: 2459
+state: "mn"
+town_data: "clara-city-mn"
 ---

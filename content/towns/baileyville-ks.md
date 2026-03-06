@@ -1,9 +1,7 @@
 ---
-title: "Baileyville, Kansas Business Directory"
+title: "Baileyville, KS Business Directory"
+type: "towns"
 slug: "baileyville-ks"
-town: "Baileyville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 1341
+state: "ks"
+town_data: "baileyville-ks"
 ---

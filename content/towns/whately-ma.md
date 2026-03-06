@@ -1,9 +1,7 @@
 ---
-title: "Whately, Massachusetts Business Directory"
+title: "Whately, MA Business Directory"
+type: "towns"
 slug: "whately-ma"
-town: "Whately"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 3619
+state: "ma"
+town_data: "whately-ma"
 ---

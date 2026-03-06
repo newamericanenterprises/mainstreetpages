@@ -1,9 +1,7 @@
 ---
-title: "Ridge, Maryland Business Directory"
+title: "Ridge, MD Business Directory"
+type: "towns"
 slug: "ridge-md"
-town: "Ridge"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 1593
+state: "md"
+town_data: "ridge-md"
 ---

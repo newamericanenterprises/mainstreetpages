@@ -1,9 +1,7 @@
 ---
-title: "Pewee Valley, Kentucky Business Directory"
+title: "Pewee Valley, KY Business Directory"
+type: "towns"
 slug: "pewee-valley-ky"
-town: "Pewee Valley"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 1145
+state: "ky"
+town_data: "pewee-valley-ky"
 ---

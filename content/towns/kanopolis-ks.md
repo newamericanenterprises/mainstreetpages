@@ -1,9 +1,7 @@
 ---
-title: "Kanopolis, Kansas Business Directory"
+title: "Kanopolis, KS Business Directory"
+type: "towns"
 slug: "kanopolis-ks"
-town: "Kanopolis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellsworth"
-population: 2430
+state: "ks"
+town_data: "kanopolis-ks"
 ---

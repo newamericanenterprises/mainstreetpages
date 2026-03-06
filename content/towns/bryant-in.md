@@ -1,9 +1,7 @@
 ---
-title: "Bryant, Indiana Business Directory"
+title: "Bryant, IN Business Directory"
+type: "towns"
 slug: "bryant-in"
-town: "Bryant"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 912
+state: "in"
+town_data: "bryant-in"
 ---

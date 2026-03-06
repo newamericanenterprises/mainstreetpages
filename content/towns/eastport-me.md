@@ -1,9 +1,7 @@
 ---
-title: "Eastport, Maine Business Directory"
+title: "Eastport, ME Business Directory"
+type: "towns"
 slug: "eastport-me"
-town: "Eastport"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 1288
+state: "me"
+town_data: "eastport-me"
 ---

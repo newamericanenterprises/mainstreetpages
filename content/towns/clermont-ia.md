@@ -1,9 +1,7 @@
 ---
-title: "Clermont, Iowa Business Directory"
+title: "Clermont, IA Business Directory"
+type: "towns"
 slug: "clermont-ia"
-town: "Clermont"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 752
+state: "ia"
+town_data: "clermont-ia"
 ---

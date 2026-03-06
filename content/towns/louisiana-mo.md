@@ -1,7 +1,7 @@
 ---
-title: "Louisiana, Missouri Business Directory"
+title: "Louisiana, MO Business Directory"
+type: "towns"
 slug: "louisiana-mo"
-state: "MO"
-county: "Pike"
-population: 3311
+state: "mo"
+town_data: "louisiana-mo"
 ---

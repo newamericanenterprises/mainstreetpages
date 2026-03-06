@@ -1,9 +1,7 @@
 ---
-title: "Swisher, Iowa Business Directory"
+title: "Swisher, IA Business Directory"
+type: "towns"
 slug: "swisher-ia"
-town: "Swisher"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2490
+state: "ia"
+town_data: "swisher-ia"
 ---

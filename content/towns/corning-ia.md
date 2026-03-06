@@ -1,9 +1,7 @@
 ---
-title: "Corning, Iowa Business Directory"
+title: "Corning, IA Business Directory"
+type: "towns"
 slug: "corning-ia"
-town: "Corning"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adams"
-population: 1916
+state: "ia"
+town_data: "corning-ia"
 ---

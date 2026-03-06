@@ -1,9 +1,7 @@
 ---
-title: "Paragon, Indiana Business Directory"
+title: "Paragon, IN Business Directory"
+type: "towns"
 slug: "paragon-in"
-town: "Paragon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 1036
+state: "in"
+town_data: "paragon-in"
 ---

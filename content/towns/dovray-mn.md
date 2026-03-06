@@ -1,9 +1,7 @@
 ---
-title: "Dovray, Minnesota Business Directory"
+title: "Dovray, MN Business Directory"
+type: "towns"
 slug: "dovray-mn"
-town: "Dovray"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 1856
+state: "mn"
+town_data: "dovray-mn"
 ---

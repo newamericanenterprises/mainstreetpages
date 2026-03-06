@@ -1,7 +1,7 @@
 ---
-title: "Belfry, Montana Business Directory"
+title: "Belfry, MT Business Directory"
+type: "towns"
 slug: "belfry-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "belfry-mt"
 ---

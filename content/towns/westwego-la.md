@@ -1,9 +1,7 @@
 ---
-title: "Westwego, Louisiana Business Directory"
+title: "Westwego, LA Business Directory"
+type: "towns"
 slug: "westwego-la"
-town: "Westwego"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 8534
+state: "la"
+town_data: "westwego-la"
 ---

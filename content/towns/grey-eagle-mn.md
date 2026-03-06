@@ -1,9 +1,7 @@
 ---
-title: "Grey Eagle, Minnesota Business Directory"
+title: "Grey Eagle, MN Business Directory"
+type: "towns"
 slug: "grey-eagle-mn"
-town: "Grey Eagle"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 3023
+state: "mn"
+town_data: "grey-eagle-mn"
 ---

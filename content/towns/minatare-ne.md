@@ -1,7 +1,7 @@
 ---
-title: "Minatare, Nebraska Business Directory"
+title: "Minatare, NE Business Directory"
+type: "towns"
 slug: "minatare-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "minatare-ne"
 ---

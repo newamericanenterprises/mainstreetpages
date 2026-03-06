@@ -1,7 +1,7 @@
 ---
-title: "Knox City, Missouri Business Directory"
+title: "Knox City, MO Business Directory"
+type: "towns"
 slug: "knox-city-mo"
-state: "MO"
-county: "Knox"
-population: 1500
+state: "mo"
+town_data: "knox-city-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Stephenson, Michigan Business Directory"
+title: "Stephenson, MI Business Directory"
+type: "towns"
 slug: "stephenson-mi"
-town: "Stephenson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 4289
+state: "mi"
+town_data: "stephenson-mi"
 ---

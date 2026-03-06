@@ -1,9 +1,7 @@
 ---
-title: "Anderson, Indiana Business Directory"
+title: "Anderson, IN Business Directory"
+type: "towns"
 slug: "anderson-in"
-town: "Anderson"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 54876
+state: "in"
+town_data: "anderson-in"
 ---

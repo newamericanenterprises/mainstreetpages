@@ -1,9 +1,7 @@
 ---
-title: "Baldwin, Minnesota Business Directory"
+title: "Baldwin, MN Business Directory"
+type: "towns"
 slug: "baldwin-mn"
-town: "Baldwin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 1590
+state: "mn"
+town_data: "baldwin-mn"
 ---

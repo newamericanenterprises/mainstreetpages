@@ -1,9 +1,7 @@
 ---
-title: "Vinalhaven, Maine Business Directory"
+title: "Vinalhaven, ME Business Directory"
+type: "towns"
 slug: "vinalhaven-me"
-town: "Vinalhaven"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 429
+state: "me"
+town_data: "vinalhaven-me"
 ---

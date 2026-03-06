@@ -1,7 +1,7 @@
 ---
-title: "Huntsville, Missouri Business Directory"
+title: "Huntsville, MO Business Directory"
+type: "towns"
 slug: "huntsville-mo"
-state: "MO"
-county: "Randolph"
-population: 1500
+state: "mo"
+town_data: "huntsville-mo"
 ---

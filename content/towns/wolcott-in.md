@@ -1,9 +1,7 @@
 ---
-title: "Wolcott, Indiana Business Directory"
+title: "Wolcott, IN Business Directory"
+type: "towns"
 slug: "wolcott-in"
-town: "Wolcott"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 5405
+state: "in"
+town_data: "wolcott-in"
 ---

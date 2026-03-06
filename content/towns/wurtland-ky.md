@@ -1,9 +1,7 @@
 ---
-title: "Wurtland, Kentucky Business Directory"
+title: "Wurtland, KY Business Directory"
+type: "towns"
 slug: "wurtland-ky"
-town: "Wurtland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 2073
+state: "ky"
+town_data: "wurtland-ky"
 ---

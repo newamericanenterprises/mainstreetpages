@@ -1,7 +1,7 @@
 ---
-title: "Ronan, Montana Business Directory"
+title: "Ronan, MT Business Directory"
+type: "towns"
 slug: "ronan-mt"
-state: "MT"
-county: "Lake"
-population: 2076
+state: "mt"
+town_data: "ronan-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lisbon, Iowa Business Directory"
+title: "Lisbon, IA Business Directory"
+type: "towns"
 slug: "lisbon-ia"
-town: "Lisbon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 1706
+state: "ia"
+town_data: "lisbon-ia"
 ---

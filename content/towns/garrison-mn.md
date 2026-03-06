@@ -1,9 +1,7 @@
 ---
-title: "Garrison, Minnesota Business Directory"
+title: "Garrison, MN Business Directory"
+type: "towns"
 slug: "garrison-mn"
-town: "Garrison"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 909
+state: "mn"
+town_data: "garrison-mn"
 ---

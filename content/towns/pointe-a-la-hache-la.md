@@ -1,9 +1,7 @@
 ---
-title: "Pointe a la Hache, Louisiana Business Directory"
+title: "Pointe a la Hache, LA Business Directory"
+type: "towns"
 slug: "pointe-a-la-hache-la"
-town: "Pointe a la Hache"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 1035
+state: "la"
+town_data: "pointe-a-la-hache-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pratt, Kansas Business Directory"
+title: "Pratt, KS Business Directory"
+type: "towns"
 slug: "pratt-ks"
-town: "Pratt"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 6615
+state: "ks"
+town_data: "pratt-ks"
 ---

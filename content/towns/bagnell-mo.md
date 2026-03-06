@@ -1,7 +1,7 @@
 ---
-title: "Bagnell, Missouri Business Directory"
+title: "Bagnell, MO Business Directory"
+type: "towns"
 slug: "bagnell-mo"
-state: "MO"
-county: "Miller"
-population: 63
+state: "mo"
+town_data: "bagnell-mo"
 ---

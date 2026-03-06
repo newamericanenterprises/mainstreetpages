@@ -1,7 +1,7 @@
 ---
-title: "Hardin, Missouri Business Directory"
+title: "Hardin, MO Business Directory"
+type: "towns"
 slug: "hardin-mo"
-state: "MO"
-county: "Ray"
-population: 1500
+state: "mo"
+town_data: "hardin-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "West Gardiner, Maine Business Directory"
+title: "West Gardiner, ME Business Directory"
+type: "towns"
 slug: "west-gardiner-me"
-town: "West Gardiner"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 615
+state: "me"
+town_data: "west-gardiner-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Flintstone, Maryland Business Directory"
+title: "Flintstone, MD Business Directory"
+type: "towns"
 slug: "flintstone-md"
-town: "Flintstone"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 4331
+state: "md"
+town_data: "flintstone-md"
 ---

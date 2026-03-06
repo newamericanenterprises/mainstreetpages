@@ -1,9 +1,7 @@
 ---
-title: "Munster, Indiana Business Directory"
+title: "Munster, IN Business Directory"
+type: "towns"
 slug: "munster-in"
-town: "Munster"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 23385
+state: "in"
+town_data: "munster-in"
 ---

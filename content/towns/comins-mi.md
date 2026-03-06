@@ -1,9 +1,7 @@
 ---
-title: "Comins, Michigan Business Directory"
+title: "Comins, MI Business Directory"
+type: "towns"
 slug: "comins-mi"
-town: "Comins"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oscoda"
-population: 3222
+state: "mi"
+town_data: "comins-mi"
 ---

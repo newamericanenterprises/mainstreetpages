@@ -1,9 +1,7 @@
 ---
-title: "Rockford, Michigan Business Directory"
+title: "Rockford, MI Business Directory"
+type: "towns"
 slug: "rockford-mi"
-town: "Rockford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 2653
+state: "mi"
+town_data: "rockford-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Willisburg, Kentucky Business Directory"
+title: "Willisburg, KY Business Directory"
+type: "towns"
 slug: "willisburg-ky"
-town: "Willisburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Washington"
-population: 1623
+state: "ky"
+town_data: "willisburg-ky"
 ---

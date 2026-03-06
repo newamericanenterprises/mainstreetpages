@@ -1,7 +1,7 @@
 ---
-title: "Bowling Green, Missouri Business Directory"
+title: "Bowling Green, MO Business Directory"
+type: "towns"
 slug: "bowling-green-mo"
-state: "MO"
-county: "Pike"
-population: 5280
+state: "mo"
+town_data: "bowling-green-mo"
 ---

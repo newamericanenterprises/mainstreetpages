@@ -1,9 +1,7 @@
 ---
-title: "Ironwood, Michigan Business Directory"
+title: "Ironwood, MI Business Directory"
+type: "towns"
 slug: "ironwood-mi"
-town: "Ironwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gogebic"
-population: 4749
+state: "mi"
+town_data: "ironwood-mi"
 ---

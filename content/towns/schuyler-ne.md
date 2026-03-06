@@ -1,7 +1,7 @@
 ---
-title: "Schuyler, Nebraska Business Directory"
+title: "Schuyler, NE Business Directory"
+type: "towns"
 slug: "schuyler-ne"
-state: "NE"
-county: "Colfax"
-population: 6211
+state: "ne"
+town_data: "schuyler-ne"
 ---

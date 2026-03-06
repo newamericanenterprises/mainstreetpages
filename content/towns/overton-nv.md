@@ -1,7 +1,7 @@
 ---
-title: "Overton, Nevada Business Directory"
+title: "Overton, NV Business Directory"
+type: "towns"
 slug: "overton-nv"
-state: "NV"
-county: "Clark"
-population: 1845
+state: "nv"
+town_data: "overton-nv"
 ---

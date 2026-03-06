@@ -1,9 +1,7 @@
 ---
-title: "Mackinaw City, Michigan Business Directory"
+title: "Mackinaw City, MI Business Directory"
+type: "towns"
 slug: "mackinaw-city-mi"
-town: "Mackinaw City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 4996
+state: "mi"
+town_data: "mackinaw-city-mi"
 ---

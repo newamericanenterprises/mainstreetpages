@@ -1,9 +1,7 @@
 ---
-title: "Houghton Lake, Michigan Business Directory"
+title: "Houghton Lake, MI Business Directory"
+type: "towns"
 slug: "houghton-lake-mi"
-town: "Houghton Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Roscommon"
-population: 3989
+state: "mi"
+town_data: "houghton-lake-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Battle Creek, Iowa Business Directory"
+title: "Battle Creek, IA Business Directory"
+type: "towns"
 slug: "battle-creek-ia"
-town: "Battle Creek"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ida"
-population: 1796
+state: "ia"
+town_data: "battle-creek-ia"
 ---

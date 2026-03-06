@@ -1,7 +1,7 @@
 ---
-title: "Lindsay, Montana Business Directory"
+title: "Lindsay, MT Business Directory"
+type: "towns"
 slug: "lindsay-mt"
-state: "MT"
-county: "Dawson"
-population: 500
+state: "mt"
+town_data: "lindsay-mt"
 ---

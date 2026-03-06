@@ -1,7 +1,7 @@
 ---
-title: "Bruce, Mississippi Business Directory"
+title: "Bruce, MS Business Directory"
+type: "towns"
 slug: "bruce-ms"
-state: "MS"
-county: "Calhoun"
-population: 1897
+state: "ms"
+town_data: "bruce-ms"
 ---

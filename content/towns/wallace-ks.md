@@ -1,9 +1,7 @@
 ---
-title: "Wallace, Kansas Business Directory"
+title: "Wallace, KS Business Directory"
+type: "towns"
 slug: "wallace-ks"
-town: "Wallace"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wallace"
-population: 1890
+state: "ks"
+town_data: "wallace-ks"
 ---

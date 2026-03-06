@@ -1,7 +1,7 @@
 ---
-title: "Orchard, Nebraska Business Directory"
+title: "Orchard, NE Business Directory"
+type: "towns"
 slug: "orchard-ne"
-state: "NE"
-county: "Antelope"
-population: 500
+state: "ne"
+town_data: "orchard-ne"
 ---

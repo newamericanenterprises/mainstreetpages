@@ -1,7 +1,7 @@
 ---
-title: "Crow Agency, Montana Business Directory"
+title: "Crow Agency, MT Business Directory"
+type: "towns"
 slug: "crow-agency-mt"
-state: "MT"
-county: "Big Horn"
-population: 1616
+state: "mt"
+town_data: "crow-agency-mt"
 ---

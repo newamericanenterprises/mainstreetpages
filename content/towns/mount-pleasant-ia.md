@@ -1,9 +1,7 @@
 ---
-title: "Mount Pleasant, Iowa Business Directory"
+title: "Mount Pleasant, IA Business Directory"
+type: "towns"
 slug: "mount-pleasant-ia"
-town: "Mount Pleasant"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 8668
+state: "ia"
+town_data: "mount-pleasant-ia"
 ---

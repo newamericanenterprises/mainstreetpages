@@ -1,9 +1,7 @@
 ---
-title: "Brainerd, Minnesota Business Directory"
+title: "Brainerd, MN Business Directory"
+type: "towns"
 slug: "brainerd-mn"
-town: "Brainerd"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 14395
+state: "mn"
+town_data: "brainerd-mn"
 ---

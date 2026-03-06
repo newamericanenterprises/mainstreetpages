@@ -1,9 +1,7 @@
 ---
-title: "Hackberry, Louisiana Business Directory"
+title: "Hackberry, LA Business Directory"
+type: "towns"
 slug: "hackberry-la"
-town: "Hackberry"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 1540
+state: "la"
+town_data: "hackberry-la"
 ---

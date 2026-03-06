@@ -1,9 +1,7 @@
 ---
-title: "Belleville, Michigan Business Directory"
+title: "Belleville, MI Business Directory"
+type: "towns"
 slug: "belleville-mi"
-town: "Belleville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2571
+state: "mi"
+town_data: "belleville-mi"
 ---

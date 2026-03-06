@@ -1,9 +1,7 @@
 ---
-title: "Pawnee Rock, Kansas Business Directory"
+title: "Pawnee Rock, KS Business Directory"
+type: "towns"
 slug: "pawnee-rock-ks"
-town: "Pawnee Rock"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 2412
+state: "ks"
+town_data: "pawnee-rock-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kinross, Michigan Business Directory"
+title: "Kinross, MI Business Directory"
+type: "towns"
 slug: "kinross-mi"
-town: "Kinross"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 5442
+state: "mi"
+town_data: "kinross-mi"
 ---

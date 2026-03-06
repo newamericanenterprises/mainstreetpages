@@ -1,9 +1,7 @@
 ---
-title: "Tullos, Louisiana Business Directory"
+title: "Tullos, LA Business Directory"
+type: "towns"
 slug: "tullos-la"
-town: "Tullos"
-state: "Louisiana"
-state_abbr: "LA"
-county: "LaSalle"
-population: 3237
+state: "la"
+town_data: "tullos-la"
 ---

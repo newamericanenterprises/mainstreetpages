@@ -1,9 +1,7 @@
 ---
-title: "Laurium, Michigan Business Directory"
+title: "Laurium, MI Business Directory"
+type: "towns"
 slug: "laurium-mi"
-town: "Laurium"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 3224
+state: "mi"
+town_data: "laurium-mi"
 ---

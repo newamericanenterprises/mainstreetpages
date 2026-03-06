@@ -1,9 +1,7 @@
 ---
-title: "Scottsburg, Indiana Business Directory"
+title: "Scottsburg, IN Business Directory"
+type: "towns"
 slug: "scottsburg-in"
-town: "Scottsburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Scott"
-population: 6747
+state: "in"
+town_data: "scottsburg-in"
 ---

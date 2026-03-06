@@ -1,9 +1,7 @@
 ---
-title: "North English, Iowa Business Directory"
+title: "North English, IA Business Directory"
+type: "towns"
 slug: "north-english-ia"
-town: "North English"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 552
+state: "ia"
+town_data: "north-english-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hopkins, Missouri Business Directory"
+title: "Hopkins, MO Business Directory"
+type: "towns"
 slug: "hopkins-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "hopkins-mo"
 ---

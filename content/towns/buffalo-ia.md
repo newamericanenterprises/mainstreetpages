@@ -1,9 +1,7 @@
 ---
-title: "Buffalo, Iowa Business Directory"
+title: "Buffalo, IA Business Directory"
+type: "towns"
 slug: "buffalo-ia"
-town: "Buffalo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 3322
+state: "ia"
+town_data: "buffalo-ia"
 ---

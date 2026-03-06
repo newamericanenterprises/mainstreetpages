@@ -1,9 +1,7 @@
 ---
-title: "Lyons, Michigan Business Directory"
+title: "Lyons, MI Business Directory"
+type: "towns"
 slug: "lyons-mi"
-town: "Lyons"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 3301
+state: "mi"
+town_data: "lyons-mi"
 ---

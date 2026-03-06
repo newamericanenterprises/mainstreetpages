@@ -1,9 +1,7 @@
 ---
-title: "Millersburg, Kentucky Business Directory"
+title: "Millersburg, KY Business Directory"
+type: "towns"
 slug: "millersburg-ky"
-town: "Millersburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bourbon"
-population: 1259
+state: "ky"
+town_data: "millersburg-ky"
 ---

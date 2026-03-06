@@ -1,7 +1,7 @@
 ---
-title: "Glasgow, Missouri Business Directory"
+title: "Glasgow, MO Business Directory"
+type: "towns"
 slug: "glasgow-mo"
-state: "MO"
-county: "Howard"
-population: 1106
+state: "mo"
+town_data: "glasgow-mo"
 ---

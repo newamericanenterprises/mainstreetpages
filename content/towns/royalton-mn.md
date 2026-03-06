@@ -1,9 +1,7 @@
 ---
-title: "Royalton, Minnesota Business Directory"
+title: "Royalton, MN Business Directory"
+type: "towns"
 slug: "royalton-mn"
-town: "Royalton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Benton"
-population: 2450
+state: "mn"
+town_data: "royalton-mn"
 ---

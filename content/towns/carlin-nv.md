@@ -1,7 +1,7 @@
 ---
-title: "Carlin, Nevada Business Directory"
+title: "Carlin, NV Business Directory"
+type: "towns"
 slug: "carlin-nv"
-state: "NV"
-county: "Elko"
-population: 2367
+state: "nv"
+town_data: "carlin-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sandisfield, Massachusetts Business Directory"
+title: "Sandisfield, MA Business Directory"
+type: "towns"
 slug: "sandisfield-ma"
-town: "Sandisfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 5501
+state: "ma"
+town_data: "sandisfield-ma"
 ---

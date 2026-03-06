@@ -1,9 +1,7 @@
 ---
-title: "Ada, Michigan Business Directory"
+title: "Ada, MI Business Directory"
+type: "towns"
 slug: "ada-mi"
-town: "Ada"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 3900
+state: "mi"
+town_data: "ada-mi"
 ---

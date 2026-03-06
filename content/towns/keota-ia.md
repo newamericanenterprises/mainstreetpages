@@ -1,9 +1,7 @@
 ---
-title: "Keota, Iowa Business Directory"
+title: "Keota, IA Business Directory"
+type: "towns"
 slug: "keota-ia"
-town: "Keota"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 3344
+state: "ia"
+town_data: "keota-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Homer, Nebraska Business Directory"
+title: "Homer, NE Business Directory"
+type: "towns"
 slug: "homer-ne"
-state: "NE"
-county: "Dakota"
-population: 546
+state: "ne"
+town_data: "homer-ne"
 ---

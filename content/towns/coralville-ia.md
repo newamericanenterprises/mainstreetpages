@@ -1,9 +1,7 @@
 ---
-title: "Coralville, Iowa Business Directory"
+title: "Coralville, IA Business Directory"
+type: "towns"
 slug: "coralville-ia"
-town: "Coralville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 21182
+state: "ia"
+town_data: "coralville-ia"
 ---

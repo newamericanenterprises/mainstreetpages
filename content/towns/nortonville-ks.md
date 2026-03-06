@@ -1,9 +1,7 @@
 ---
-title: "Nortonville, Kansas Business Directory"
+title: "Nortonville, KS Business Directory"
+type: "towns"
 slug: "nortonville-ks"
-town: "Nortonville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 1171
+state: "ks"
+town_data: "nortonville-ks"
 ---

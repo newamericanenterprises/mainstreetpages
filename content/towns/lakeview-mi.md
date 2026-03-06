@@ -1,9 +1,7 @@
 ---
-title: "Lakeview, Michigan Business Directory"
+title: "Lakeview, MI Business Directory"
+type: "towns"
 slug: "lakeview-mi"
-town: "Lakeview"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 2411
+state: "mi"
+town_data: "lakeview-mi"
 ---

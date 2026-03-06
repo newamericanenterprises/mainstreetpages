@@ -1,9 +1,7 @@
 ---
-title: "Kinbrae, Minnesota Business Directory"
+title: "Kinbrae, MN Business Directory"
+type: "towns"
 slug: "kinbrae-mn"
-town: "Kinbrae"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 2831
+state: "mn"
+town_data: "kinbrae-mn"
 ---

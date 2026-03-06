@@ -1,9 +1,7 @@
 ---
-title: "Murray, Iowa Business Directory"
+title: "Murray, IA Business Directory"
+type: "towns"
 slug: "murray-ia"
-town: "Murray"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clarke"
-population: 2810
+state: "ia"
+town_data: "murray-ia"
 ---

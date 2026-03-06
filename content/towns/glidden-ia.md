@@ -1,9 +1,7 @@
 ---
-title: "Glidden, Iowa Business Directory"
+title: "Glidden, IA Business Directory"
+type: "towns"
 slug: "glidden-ia"
-town: "Glidden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 3062
+state: "ia"
+town_data: "glidden-ia"
 ---

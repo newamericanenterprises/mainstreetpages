@@ -1,7 +1,7 @@
 ---
-title: "Dakota City, Nebraska Business Directory"
+title: "Dakota City, NE Business Directory"
+type: "towns"
 slug: "dakota-city-ne"
-state: "NE"
-county: "Dakota"
-population: 500
+state: "ne"
+town_data: "dakota-city-ne"
 ---

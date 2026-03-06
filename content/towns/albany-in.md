@@ -1,9 +1,7 @@
 ---
-title: "Albany, Indiana Business Directory"
+title: "Albany, IN Business Directory"
+type: "towns"
 slug: "albany-in"
-town: "Albany"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 3913
+state: "in"
+town_data: "albany-in"
 ---

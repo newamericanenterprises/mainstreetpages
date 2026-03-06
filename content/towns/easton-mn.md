@@ -1,9 +1,7 @@
 ---
-title: "Easton, Minnesota Business Directory"
+title: "Easton, MN Business Directory"
+type: "towns"
 slug: "easton-mn"
-town: "Easton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 1606
+state: "mn"
+town_data: "easton-mn"
 ---

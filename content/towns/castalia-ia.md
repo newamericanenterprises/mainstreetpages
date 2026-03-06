@@ -1,9 +1,7 @@
 ---
-title: "Castalia, Iowa Business Directory"
+title: "Castalia, IA Business Directory"
+type: "towns"
 slug: "castalia-ia"
-town: "Castalia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 3273
+state: "ia"
+town_data: "castalia-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "East Chicago, Indiana Business Directory"
+title: "East Chicago, IN Business Directory"
+type: "towns"
 slug: "east-chicago-in"
-town: "East Chicago"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 26904
+state: "in"
+town_data: "east-chicago-in"
 ---

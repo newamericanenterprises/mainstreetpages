@@ -1,9 +1,7 @@
 ---
-title: "Minnetrista, Minnesota Business Directory"
+title: "Minnetrista, MN Business Directory"
+type: "towns"
 slug: "minnetrista-mn"
-town: "Minnetrista"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1304
+state: "mn"
+town_data: "minnetrista-mn"
 ---

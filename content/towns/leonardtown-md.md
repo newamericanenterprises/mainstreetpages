@@ -1,9 +1,7 @@
 ---
-title: "Leonardtown, Maryland Business Directory"
+title: "Leonardtown, MD Business Directory"
+type: "towns"
 slug: "leonardtown-md"
-town: "Leonardtown"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 3448
+state: "md"
+town_data: "leonardtown-md"
 ---

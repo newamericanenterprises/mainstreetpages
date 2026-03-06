@@ -1,9 +1,7 @@
 ---
-title: "Gilman, Minnesota Business Directory"
+title: "Gilman, MN Business Directory"
+type: "towns"
 slug: "gilman-mn"
-town: "Gilman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Benton"
-population: 1089
+state: "mn"
+town_data: "gilman-mn"
 ---

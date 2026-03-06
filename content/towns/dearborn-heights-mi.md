@@ -1,9 +1,7 @@
 ---
-title: "Dearborn Heights, Michigan Business Directory"
+title: "Dearborn Heights, MI Business Directory"
+type: "towns"
 slug: "dearborn-heights-mi"
-town: "Dearborn Heights"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 55630
+state: "mi"
+town_data: "dearborn-heights-mi"
 ---

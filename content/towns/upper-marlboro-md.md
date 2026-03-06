@@ -1,9 +1,7 @@
 ---
-title: "Upper Marlboro, Maryland Business Directory"
+title: "Upper Marlboro, MD Business Directory"
+type: "towns"
 slug: "upper-marlboro-md"
-town: "Upper Marlboro"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1709
+state: "md"
+town_data: "upper-marlboro-md"
 ---

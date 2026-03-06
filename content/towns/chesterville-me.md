@@ -1,9 +1,7 @@
 ---
-title: "Chesterville, Maine Business Directory"
+title: "Chesterville, ME Business Directory"
+type: "towns"
 slug: "chesterville-me"
-town: "Chesterville"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1680
+state: "me"
+town_data: "chesterville-me"
 ---

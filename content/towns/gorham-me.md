@@ -1,9 +1,7 @@
 ---
-title: "Gorham, Maine Business Directory"
+title: "Gorham, ME Business Directory"
+type: "towns"
 slug: "gorham-me"
-town: "Gorham"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 18232
+state: "me"
+town_data: "gorham-me"
 ---

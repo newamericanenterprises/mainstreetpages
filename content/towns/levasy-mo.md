@@ -1,7 +1,7 @@
 ---
-title: "Levasy, Missouri Business Directory"
+title: "Levasy, MO Business Directory"
+type: "towns"
 slug: "levasy-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "levasy-mo"
 ---

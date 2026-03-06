@@ -1,9 +1,7 @@
 ---
-title: "Clarkson, Kentucky Business Directory"
+title: "Clarkson, KY Business Directory"
+type: "towns"
 slug: "clarkson-ky"
-town: "Clarkson"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grayson"
-population: 2070
+state: "ky"
+town_data: "clarkson-ky"
 ---

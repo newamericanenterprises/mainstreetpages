@@ -1,9 +1,7 @@
 ---
-title: "Peabody, Kansas Business Directory"
+title: "Peabody, KS Business Directory"
+type: "towns"
 slug: "peabody-ks"
-town: "Peabody"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 934
+state: "ks"
+town_data: "peabody-ks"
 ---

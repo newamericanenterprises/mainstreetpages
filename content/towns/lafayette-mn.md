@@ -1,9 +1,7 @@
 ---
-title: "Lafayette, Minnesota Business Directory"
+title: "Lafayette, MN Business Directory"
+type: "towns"
 slug: "lafayette-mn"
-town: "Lafayette"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nicollet"
-population: 326
+state: "mn"
+town_data: "lafayette-mn"
 ---

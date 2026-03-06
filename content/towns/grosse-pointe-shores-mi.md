@@ -1,9 +1,7 @@
 ---
-title: "Grosse Pointe Shores, Michigan Business Directory"
+title: "Grosse Pointe Shores, MI Business Directory"
+type: "towns"
 slug: "grosse-pointe-shores-mi"
-town: "Grosse Pointe Shores"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 4313
+state: "mi"
+town_data: "grosse-pointe-shores-mi"
 ---

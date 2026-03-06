@@ -1,9 +1,7 @@
 ---
-title: "West Liberty, Iowa Business Directory"
+title: "West Liberty, IA Business Directory"
+type: "towns"
 slug: "west-liberty-ia"
-town: "West Liberty"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 1234
+state: "ia"
+town_data: "west-liberty-ia"
 ---

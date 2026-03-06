@@ -1,7 +1,7 @@
 ---
-title: "Wardsville, Missouri Business Directory"
+title: "Wardsville, MO Business Directory"
+type: "towns"
 slug: "wardsville-mo"
-state: "MO"
-county: "Cole"
-population: 1500
+state: "mo"
+town_data: "wardsville-mo"
 ---

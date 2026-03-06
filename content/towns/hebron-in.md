@@ -1,9 +1,7 @@
 ---
-title: "Hebron, Indiana Business Directory"
+title: "Hebron, IN Business Directory"
+type: "towns"
 slug: "hebron-in"
-town: "Hebron"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 3465
+state: "in"
+town_data: "hebron-in"
 ---

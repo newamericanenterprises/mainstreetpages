@@ -1,9 +1,7 @@
 ---
-title: "Pomona, Kansas Business Directory"
+title: "Pomona, KS Business Directory"
+type: "towns"
 slug: "pomona-ks"
-town: "Pomona"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 1415
+state: "ks"
+town_data: "pomona-ks"
 ---

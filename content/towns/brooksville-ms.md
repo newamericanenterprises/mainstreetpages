@@ -1,7 +1,7 @@
 ---
-title: "Brooksville, Mississippi Business Directory"
+title: "Brooksville, MS Business Directory"
+type: "towns"
 slug: "brooksville-ms"
-state: "MS"
-county: "Noxubee"
-population: 1089
+state: "ms"
+town_data: "brooksville-ms"
 ---

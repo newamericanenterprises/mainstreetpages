@@ -1,9 +1,7 @@
 ---
-title: "Bad Axe, Michigan Business Directory"
+title: "Bad Axe, MI Business Directory"
+type: "towns"
 slug: "bad-axe-mi"
-town: "Bad Axe"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 2531
+state: "mi"
+town_data: "bad-axe-mi"
 ---

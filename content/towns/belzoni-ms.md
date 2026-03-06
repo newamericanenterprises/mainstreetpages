@@ -1,7 +1,7 @@
 ---
-title: "Belzoni, Mississippi Business Directory"
+title: "Belzoni, MS Business Directory"
+type: "towns"
 slug: "belzoni-ms"
-state: "MS"
-county: "Humphreys"
-population: 2235
+state: "ms"
+town_data: "belzoni-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Williamstown, Missouri Business Directory"
+title: "Williamstown, MO Business Directory"
+type: "towns"
 slug: "williamstown-mo"
-state: "MO"
-county: "Lewis"
-population: 1500
+state: "mo"
+town_data: "williamstown-mo"
 ---

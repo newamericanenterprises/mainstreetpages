@@ -1,9 +1,7 @@
 ---
-title: "Massena, Iowa Business Directory"
+title: "Massena, IA Business Directory"
+type: "towns"
 slug: "massena-ia"
-town: "Massena"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 1874
+state: "ia"
+town_data: "massena-ia"
 ---

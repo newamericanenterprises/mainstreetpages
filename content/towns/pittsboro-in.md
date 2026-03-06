@@ -1,9 +1,7 @@
 ---
-title: "Pittsboro, Indiana Business Directory"
+title: "Pittsboro, IN Business Directory"
+type: "towns"
 slug: "pittsboro-in"
-town: "Pittsboro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 1763
+state: "in"
+town_data: "pittsboro-in"
 ---

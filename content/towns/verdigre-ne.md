@@ -1,7 +1,7 @@
 ---
-title: "Verdigre, Nebraska Business Directory"
+title: "Verdigre, NE Business Directory"
+type: "towns"
 slug: "verdigre-ne"
-state: "NE"
-county: "Knox"
-population: 557
+state: "ne"
+town_data: "verdigre-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Isle au Haut, Maine Business Directory"
+title: "Isle au Haut, ME Business Directory"
+type: "towns"
 slug: "isle-au-haut-me"
-town: "Isle au Haut"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 672
+state: "me"
+town_data: "isle-au-haut-me"
 ---

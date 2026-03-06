@@ -1,7 +1,7 @@
 ---
-title: "West, Mississippi Business Directory"
+title: "West, MS Business Directory"
+type: "towns"
 slug: "west-ms"
-state: "MS"
-county: "Holmes"
-population: 168
+state: "ms"
+town_data: "west-ms"
 ---

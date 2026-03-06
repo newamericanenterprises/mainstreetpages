@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Minnesota Business Directory"
+title: "Manchester, MN Business Directory"
+type: "towns"
 slug: "manchester-mn"
-town: "Manchester"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 2578
+state: "mn"
+town_data: "manchester-mn"
 ---

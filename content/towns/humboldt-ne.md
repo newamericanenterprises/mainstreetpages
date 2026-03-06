@@ -1,7 +1,7 @@
 ---
-title: "Humboldt, Nebraska Business Directory"
+title: "Humboldt, NE Business Directory"
+type: "towns"
 slug: "humboldt-ne"
-state: "NE"
-county: "Richardson"
-population: 870
+state: "ne"
+town_data: "humboldt-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Melrose, Montana Business Directory"
+title: "Melrose, MT Business Directory"
+type: "towns"
 slug: "melrose-mt"
-state: "MT"
-county: "Silver Bow"
-population: 500
+state: "mt"
+town_data: "melrose-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pine City, Minnesota Business Directory"
+title: "Pine City, MN Business Directory"
+type: "towns"
 slug: "pine-city-mn"
-town: "Pine City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 3167
+state: "mn"
+town_data: "pine-city-mn"
 ---

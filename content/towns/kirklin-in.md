@@ -1,9 +1,7 @@
 ---
-title: "Kirklin, Indiana Business Directory"
+title: "Kirklin, IN Business Directory"
+type: "towns"
 slug: "kirklin-in"
-town: "Kirklin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 1563
+state: "in"
+town_data: "kirklin-in"
 ---

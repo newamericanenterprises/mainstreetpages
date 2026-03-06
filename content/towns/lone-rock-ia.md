@@ -1,9 +1,7 @@
 ---
-title: "Lone Rock, Iowa Business Directory"
+title: "Lone Rock, IA Business Directory"
+type: "towns"
 slug: "lone-rock-ia"
-town: "Lone Rock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 711
+state: "ia"
+town_data: "lone-rock-ia"
 ---

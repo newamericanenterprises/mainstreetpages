@@ -1,9 +1,7 @@
 ---
-title: "Rockville, Minnesota Business Directory"
+title: "Rockville, MN Business Directory"
+type: "towns"
 slug: "rockville-mn"
-town: "Rockville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 570
+state: "mn"
+town_data: "rockville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Patriot, Indiana Business Directory"
+title: "Patriot, IN Business Directory"
+type: "towns"
 slug: "patriot-in"
-town: "Patriot"
-state: "Indiana"
-state_abbr: "IN"
-county: "Switzerland"
-population: 5404
+state: "in"
+town_data: "patriot-in"
 ---

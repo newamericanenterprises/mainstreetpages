@@ -1,9 +1,7 @@
 ---
-title: "St. Louis Park, Minnesota Business Directory"
+title: "St. Louis Park, MN Business Directory"
+type: "towns"
 slug: "st-louis-park-mn"
-town: "St. Louis Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 49858
+state: "mn"
+town_data: "st-louis-park-mn"
 ---

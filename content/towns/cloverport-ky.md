@@ -1,9 +1,7 @@
 ---
-title: "Cloverport, Kentucky Business Directory"
+title: "Cloverport, KY Business Directory"
+type: "towns"
 slug: "cloverport-ky"
-town: "Cloverport"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Breckinridge"
-population: 839
+state: "ky"
+town_data: "cloverport-ky"
 ---

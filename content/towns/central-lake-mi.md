@@ -1,9 +1,7 @@
 ---
-title: "Central Lake, Michigan Business Directory"
+title: "Central Lake, MI Business Directory"
+type: "towns"
 slug: "central-lake-mi"
-town: "Central Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 1522
+state: "mi"
+town_data: "central-lake-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Petoskey, Michigan Business Directory"
+title: "Petoskey, MI Business Directory"
+type: "towns"
 slug: "petoskey-mi"
-town: "Petoskey"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 5705
+state: "mi"
+town_data: "petoskey-mi"
 ---

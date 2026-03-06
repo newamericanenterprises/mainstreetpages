@@ -1,9 +1,7 @@
 ---
-title: "Millington, Maryland Business Directory"
+title: "Millington, MD Business Directory"
+type: "towns"
 slug: "millington-md"
-town: "Millington"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 3355
+state: "md"
+town_data: "millington-md"
 ---

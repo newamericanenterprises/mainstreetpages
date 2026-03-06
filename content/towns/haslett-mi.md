@@ -1,9 +1,7 @@
 ---
-title: "Haslett, Michigan Business Directory"
+title: "Haslett, MI Business Directory"
+type: "towns"
 slug: "haslett-mi"
-town: "Haslett"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 2951
+state: "mi"
+town_data: "haslett-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Garnavillo, Iowa Business Directory"
+title: "Garnavillo, IA Business Directory"
+type: "towns"
 slug: "garnavillo-ia"
-town: "Garnavillo"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 2825
+state: "ia"
+town_data: "garnavillo-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Neligh, Nebraska Business Directory"
+title: "Neligh, NE Business Directory"
+type: "towns"
 slug: "neligh-ne"
-state: "NE"
-county: "Antelope"
-population: 1599
+state: "ne"
+town_data: "neligh-ne"
 ---

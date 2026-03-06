@@ -1,9 +1,7 @@
 ---
-title: "Wamego, Kansas Business Directory"
+title: "Wamego, KS Business Directory"
+type: "towns"
 slug: "wamego-ks"
-town: "Wamego"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 2543
+state: "ks"
+town_data: "wamego-ks"
 ---

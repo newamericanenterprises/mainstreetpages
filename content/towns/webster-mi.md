@@ -1,9 +1,7 @@
 ---
-title: "Webster, Michigan Business Directory"
+title: "Webster, MI Business Directory"
+type: "towns"
 slug: "webster-mi"
-town: "Webster"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 5346
+state: "mi"
+town_data: "webster-mi"
 ---

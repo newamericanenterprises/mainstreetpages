@@ -1,9 +1,7 @@
 ---
-title: "Bern, Kansas Business Directory"
+title: "Bern, KS Business Directory"
+type: "towns"
 slug: "bern-ks"
-town: "Bern"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 3116
+state: "ks"
+town_data: "bern-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Morton, Mississippi Business Directory"
+title: "Morton, MS Business Directory"
+type: "towns"
 slug: "morton-ms"
-state: "MS"
-county: "Scott"
-population: 3482
+state: "ms"
+town_data: "morton-ms"
 ---

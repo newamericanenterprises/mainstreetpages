@@ -1,9 +1,7 @@
 ---
-title: "Echo, Minnesota Business Directory"
+title: "Echo, MN Business Directory"
+type: "towns"
 slug: "echo-mn"
-town: "Echo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 2541
+state: "mn"
+town_data: "echo-mn"
 ---

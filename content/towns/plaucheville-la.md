@@ -1,9 +1,7 @@
 ---
-title: "Plaucheville, Louisiana Business Directory"
+title: "Plaucheville, LA Business Directory"
+type: "towns"
 slug: "plaucheville-la"
-town: "Plaucheville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 2796
+state: "la"
+town_data: "plaucheville-la"
 ---

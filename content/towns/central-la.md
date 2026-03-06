@@ -1,9 +1,7 @@
 ---
-title: "Central, Louisiana Business Directory"
+title: "Central, LA Business Directory"
+type: "towns"
 slug: "central-la"
-town: "Central"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Baton Rouge"
-population: 29787
+state: "la"
+town_data: "central-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Charlemont, Massachusetts Business Directory"
+title: "Charlemont, MA Business Directory"
+type: "towns"
 slug: "charlemont-ma"
-town: "Charlemont"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 1718
+state: "ma"
+town_data: "charlemont-ma"
 ---

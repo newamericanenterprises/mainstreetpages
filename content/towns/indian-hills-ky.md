@@ -1,9 +1,7 @@
 ---
-title: "Indian Hills, Kentucky Business Directory"
+title: "Indian Hills, KY Business Directory"
+type: "towns"
 slug: "indian-hills-ky"
-town: "Indian Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 2157
+state: "ky"
+town_data: "indian-hills-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Crab Orchard, Nebraska Business Directory"
+title: "Crab Orchard, NE Business Directory"
+type: "towns"
 slug: "crab-orchard-ne"
-state: "NE"
-county: "Johnson"
-population: 500
+state: "ne"
+town_data: "crab-orchard-ne"
 ---

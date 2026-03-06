@@ -1,9 +1,7 @@
 ---
-title: "Funkstown, Maryland Business Directory"
+title: "Funkstown, MD Business Directory"
+type: "towns"
 slug: "funkstown-md"
-town: "Funkstown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 2278
+state: "md"
+town_data: "funkstown-md"
 ---

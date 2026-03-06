@@ -1,9 +1,7 @@
 ---
-title: "New Auburn, Minnesota Business Directory"
+title: "New Auburn, MN Business Directory"
+type: "towns"
 slug: "new-auburn-mn"
-town: "New Auburn"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 3272
+state: "mn"
+town_data: "new-auburn-mn"
 ---

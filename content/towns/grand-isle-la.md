@@ -1,9 +1,7 @@
 ---
-title: "Grand Isle, Louisiana Business Directory"
+title: "Grand Isle, LA Business Directory"
+type: "towns"
 slug: "grand-isle-la"
-town: "Grand Isle"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 451
+state: "la"
+town_data: "grand-isle-la"
 ---

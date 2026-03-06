@@ -1,7 +1,7 @@
 ---
-title: "Diamondhead, Mississippi Business Directory"
+title: "Diamondhead, MS Business Directory"
+type: "towns"
 slug: "diamondhead-ms"
-state: "MS"
-county: "Hancock"
-population: 9027
+state: "ms"
+town_data: "diamondhead-ms"
 ---

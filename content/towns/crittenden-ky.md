@@ -1,9 +1,7 @@
 ---
-title: "Crittenden, Kentucky Business Directory"
+title: "Crittenden, KY Business Directory"
+type: "towns"
 slug: "crittenden-ky"
-town: "Crittenden"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grant"
-population: 639
+state: "ky"
+town_data: "crittenden-ky"
 ---

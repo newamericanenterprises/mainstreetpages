@@ -1,9 +1,7 @@
 ---
-title: "Andrew, Iowa Business Directory"
+title: "Andrew, IA Business Directory"
+type: "towns"
 slug: "andrew-ia"
-town: "Andrew"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 1196
+state: "ia"
+town_data: "andrew-ia"
 ---

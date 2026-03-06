@@ -1,7 +1,7 @@
 ---
-title: "De Soto, Missouri Business Directory"
+title: "De Soto, MO Business Directory"
+type: "towns"
 slug: "de-soto-mo"
-state: "MO"
-county: "Jefferson"
-population: 6400
+state: "mo"
+town_data: "de-soto-mo"
 ---

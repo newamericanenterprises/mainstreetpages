@@ -1,9 +1,7 @@
 ---
-title: "Midway, Kentucky Business Directory"
+title: "Midway, KY Business Directory"
+type: "towns"
 slug: "midway-ky"
-town: "Midway"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Woodford"
-population: 1703
+state: "ky"
+town_data: "midway-ky"
 ---

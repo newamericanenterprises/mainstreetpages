@@ -1,9 +1,7 @@
 ---
-title: "Flensburg, Minnesota Business Directory"
+title: "Flensburg, MN Business Directory"
+type: "towns"
 slug: "flensburg-mn"
-town: "Flensburg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 1610
+state: "mn"
+town_data: "flensburg-mn"
 ---

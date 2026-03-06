@@ -1,9 +1,7 @@
 ---
-title: "Plano, Kentucky Business Directory"
+title: "Plano, KY Business Directory"
+type: "towns"
 slug: "plano-ky"
-town: "Plano"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Warren"
-population: 2258
+state: "ky"
+town_data: "plano-ky"
 ---

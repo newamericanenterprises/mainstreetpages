@@ -1,7 +1,7 @@
 ---
-title: "Imperial, Nebraska Business Directory"
+title: "Imperial, NE Business Directory"
+type: "towns"
 slug: "imperial-ne"
-state: "NE"
-county: "Chase"
-population: 2071
+state: "ne"
+town_data: "imperial-ne"
 ---

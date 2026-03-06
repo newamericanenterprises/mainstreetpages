@@ -1,9 +1,7 @@
 ---
-title: "Port Tobacco, Maryland Business Directory"
+title: "Port Tobacco, MD Business Directory"
+type: "towns"
 slug: "port-tobacco-md"
-town: "Port Tobacco"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 5215
+state: "md"
+town_data: "port-tobacco-md"
 ---

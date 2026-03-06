@@ -1,9 +1,7 @@
 ---
-title: "Cambridge, Iowa Business Directory"
+title: "Cambridge, IA Business Directory"
+type: "towns"
 slug: "cambridge-ia"
-town: "Cambridge"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 3262
+state: "ia"
+town_data: "cambridge-ia"
 ---

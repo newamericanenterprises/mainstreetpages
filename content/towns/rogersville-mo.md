@@ -1,7 +1,7 @@
 ---
-title: "Rogersville, Missouri Business Directory"
+title: "Rogersville, MO Business Directory"
+type: "towns"
 slug: "rogersville-mo"
-state: "MO"
-county: "Webster"
-population: 1500
+state: "mo"
+town_data: "rogersville-mo"
 ---

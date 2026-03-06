@@ -1,9 +1,7 @@
 ---
-title: "Churubusco, Indiana Business Directory"
+title: "Churubusco, IN Business Directory"
+type: "towns"
 slug: "churubusco-in"
-town: "Churubusco"
-state: "Indiana"
-state_abbr: "IN"
-county: "Whitley"
-population: 4669
+state: "in"
+town_data: "churubusco-in"
 ---

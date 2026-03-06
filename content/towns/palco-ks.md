@@ -1,9 +1,7 @@
 ---
-title: "Palco, Kansas Business Directory"
+title: "Palco, KS Business Directory"
+type: "towns"
 slug: "palco-ks"
-town: "Palco"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 2664
+state: "ks"
+town_data: "palco-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Clearwater, Kansas Business Directory"
+title: "Clearwater, KS Business Directory"
+type: "towns"
 slug: "clearwater-ks"
-town: "Clearwater"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 1646
+state: "ks"
+town_data: "clearwater-ks"
 ---

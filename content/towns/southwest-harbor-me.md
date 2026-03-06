@@ -1,9 +1,7 @@
 ---
-title: "Southwest Harbor, Maine Business Directory"
+title: "Southwest Harbor, ME Business Directory"
+type: "towns"
 slug: "southwest-harbor-me"
-town: "Southwest Harbor"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1757
+state: "me"
+town_data: "southwest-harbor-me"
 ---

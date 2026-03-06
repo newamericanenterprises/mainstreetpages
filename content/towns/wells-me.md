@@ -1,9 +1,7 @@
 ---
-title: "Wells, Maine Business Directory"
+title: "Wells, ME Business Directory"
+type: "towns"
 slug: "wells-me"
-town: "Wells"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 10965
+state: "me"
+town_data: "wells-me"
 ---

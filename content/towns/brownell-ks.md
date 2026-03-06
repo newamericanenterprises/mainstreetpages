@@ -1,9 +1,7 @@
 ---
-title: "Brownell, Kansas Business Directory"
+title: "Brownell, KS Business Directory"
+type: "towns"
 slug: "brownell-ks"
-town: "Brownell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ness"
-population: 518
+state: "ks"
+town_data: "brownell-ks"
 ---

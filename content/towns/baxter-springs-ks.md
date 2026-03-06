@@ -1,9 +1,7 @@
 ---
-title: "Baxter Springs, Kansas Business Directory"
+title: "Baxter Springs, KS Business Directory"
+type: "towns"
 slug: "baxter-springs-ks"
-town: "Baxter Springs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 2783
+state: "ks"
+town_data: "baxter-springs-ks"
 ---

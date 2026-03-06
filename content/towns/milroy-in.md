@@ -1,9 +1,7 @@
 ---
-title: "Milroy, Indiana Business Directory"
+title: "Milroy, IN Business Directory"
+type: "towns"
 slug: "milroy-in"
-town: "Milroy"
-state: "Indiana"
-state_abbr: "IN"
-county: "Rush"
-population: 1106
+state: "in"
+town_data: "milroy-in"
 ---

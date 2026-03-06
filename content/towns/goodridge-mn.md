@@ -1,9 +1,7 @@
 ---
-title: "Goodridge, Minnesota Business Directory"
+title: "Goodridge, MN Business Directory"
+type: "towns"
 slug: "goodridge-mn"
-town: "Goodridge"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pennington"
-population: 467
+state: "mn"
+town_data: "goodridge-mn"
 ---

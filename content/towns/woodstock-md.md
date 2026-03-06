@@ -1,9 +1,7 @@
 ---
-title: "Woodstock, Maryland Business Directory"
+title: "Woodstock, MD Business Directory"
+type: "towns"
 slug: "woodstock-md"
-town: "Woodstock"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 1753
+state: "md"
+town_data: "woodstock-md"
 ---

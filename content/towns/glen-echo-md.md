@@ -1,9 +1,7 @@
 ---
-title: "Glen Echo, Maryland Business Directory"
+title: "Glen Echo, MD Business Directory"
+type: "towns"
 slug: "glen-echo-md"
-town: "Glen Echo"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3138
+state: "md"
+town_data: "glen-echo-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Stewartsville, Missouri Business Directory"
+title: "Stewartsville, MO Business Directory"
+type: "towns"
 slug: "stewartsville-mo"
-state: "MO"
-county: "DeKalb"
-population: 1500
+state: "mo"
+town_data: "stewartsville-mo"
 ---

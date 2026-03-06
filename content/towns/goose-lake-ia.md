@@ -1,9 +1,7 @@
 ---
-title: "Goose Lake, Iowa Business Directory"
+title: "Goose Lake, IA Business Directory"
+type: "towns"
 slug: "goose-lake-ia"
-town: "Goose Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 3150
+state: "ia"
+town_data: "goose-lake-ia"
 ---

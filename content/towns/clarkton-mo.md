@@ -1,7 +1,7 @@
 ---
-title: "Clarkton, Missouri Business Directory"
+title: "Clarkton, MO Business Directory"
+type: "towns"
 slug: "clarkton-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "clarkton-mo"
 ---

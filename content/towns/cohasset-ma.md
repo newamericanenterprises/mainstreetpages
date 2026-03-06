@@ -1,9 +1,7 @@
 ---
-title: "Cohasset, Massachusetts Business Directory"
+title: "Cohasset, MA Business Directory"
+type: "towns"
 slug: "cohasset-ma"
-town: "Cohasset"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 2807
+state: "ma"
+town_data: "cohasset-ma"
 ---

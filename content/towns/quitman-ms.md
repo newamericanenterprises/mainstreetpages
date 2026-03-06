@@ -1,7 +1,7 @@
 ---
-title: "Quitman, Mississippi Business Directory"
+title: "Quitman, MS Business Directory"
+type: "towns"
 slug: "quitman-ms"
-state: "MS"
-county: "Clarke"
-population: 2355
+state: "ms"
+town_data: "quitman-ms"
 ---

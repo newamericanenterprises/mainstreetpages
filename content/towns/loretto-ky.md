@@ -1,9 +1,7 @@
 ---
-title: "Loretto, Kentucky Business Directory"
+title: "Loretto, KY Business Directory"
+type: "towns"
 slug: "loretto-ky"
-town: "Loretto"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marion"
-population: 1316
+state: "ky"
+town_data: "loretto-ky"
 ---

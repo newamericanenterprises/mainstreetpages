@@ -1,9 +1,7 @@
 ---
-title: "Pride, Louisiana Business Directory"
+title: "Pride, LA Business Directory"
+type: "towns"
 slug: "pride-la"
-town: "Pride"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Baton Rouge"
-population: 2001
+state: "la"
+town_data: "pride-la"
 ---

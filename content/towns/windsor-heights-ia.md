@@ -1,9 +1,7 @@
 ---
-title: "Windsor Heights, Iowa Business Directory"
+title: "Windsor Heights, IA Business Directory"
+type: "towns"
 slug: "windsor-heights-ia"
-town: "Windsor Heights"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 2036
+state: "ia"
+town_data: "windsor-heights-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Yeoman, Indiana Business Directory"
+title: "Yeoman, IN Business Directory"
+type: "towns"
 slug: "yeoman-in"
-town: "Yeoman"
-state: "Indiana"
-state_abbr: "IN"
-county: "Carroll"
-population: 4255
+state: "in"
+town_data: "yeoman-in"
 ---

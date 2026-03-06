@@ -1,7 +1,7 @@
 ---
-title: "Town and Country, Missouri Business Directory"
+title: "Town And Country, MO Business Directory"
+type: "towns"
 slug: "town-and-country-mo"
-state: "MO"
-county: "St. Louis"
-population: 11113
+state: "mo"
+town_data: "town-and-country-mo"
 ---

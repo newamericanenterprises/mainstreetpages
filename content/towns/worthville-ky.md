@@ -1,9 +1,7 @@
 ---
-title: "Worthville, Kentucky Business Directory"
+title: "Worthville, KY Business Directory"
+type: "towns"
 slug: "worthville-ky"
-town: "Worthville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 2704
+state: "ky"
+town_data: "worthville-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Monon, Indiana Business Directory"
+title: "Monon, IN Business Directory"
+type: "towns"
 slug: "monon-in"
-town: "Monon"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 3772
+state: "in"
+town_data: "monon-in"
 ---

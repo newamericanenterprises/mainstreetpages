@@ -1,9 +1,7 @@
 ---
-title: "St. Joseph, Michigan Business Directory"
+title: "St. Joseph, MI Business Directory"
+type: "towns"
 slug: "st-joseph-mi"
-town: "St. Joseph"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 8365
+state: "mi"
+town_data: "st-joseph-mi"
 ---

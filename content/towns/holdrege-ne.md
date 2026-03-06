@@ -1,7 +1,7 @@
 ---
-title: "Holdrege, Nebraska Business Directory"
+title: "Holdrege, NE Business Directory"
+type: "towns"
 slug: "holdrege-ne"
-state: "NE"
-county: "Phelps"
-population: 5406
+state: "ne"
+town_data: "holdrege-ne"
 ---

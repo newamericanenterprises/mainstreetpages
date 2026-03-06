@@ -1,9 +1,7 @@
 ---
-title: "Benton, Kansas Business Directory"
+title: "Benton, KS Business Directory"
+type: "towns"
 slug: "benton-ks"
-town: "Benton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 1273
+state: "ks"
+town_data: "benton-ks"
 ---

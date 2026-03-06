@@ -1,9 +1,7 @@
 ---
-title: "Muir, Michigan Business Directory"
+title: "Muir, MI Business Directory"
+type: "towns"
 slug: "muir-mi"
-town: "Muir"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 4278
+state: "mi"
+town_data: "muir-mi"
 ---

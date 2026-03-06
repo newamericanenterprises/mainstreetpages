@@ -1,7 +1,7 @@
 ---
-title: "Raymond, Nebraska Business Directory"
+title: "Raymond, NE Business Directory"
+type: "towns"
 slug: "raymond-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "raymond-ne"
 ---

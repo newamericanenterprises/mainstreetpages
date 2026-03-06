@@ -1,9 +1,7 @@
 ---
-title: "Silver Lake, Indiana Business Directory"
+title: "Silver Lake, IN Business Directory"
+type: "towns"
 slug: "silver-lake-in"
-town: "Silver Lake"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 4543
+state: "in"
+town_data: "silver-lake-in"
 ---

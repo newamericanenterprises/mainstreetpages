@@ -1,7 +1,7 @@
 ---
-title: "Miller, Missouri Business Directory"
+title: "Miller, MO Business Directory"
+type: "towns"
 slug: "miller-mo"
-state: "MO"
-county: "Lawrence"
-population: 1500
+state: "mo"
+town_data: "miller-mo"
 ---

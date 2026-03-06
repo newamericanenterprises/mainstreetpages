@@ -1,9 +1,7 @@
 ---
-title: "Alma, Kansas Business Directory"
+title: "Alma, KS Business Directory"
+type: "towns"
 slug: "alma-ks"
-town: "Alma"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 2261
+state: "ks"
+town_data: "alma-ks"
 ---

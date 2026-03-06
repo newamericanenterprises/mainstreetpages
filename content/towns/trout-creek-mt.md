@@ -1,7 +1,7 @@
 ---
-title: "Trout Creek, Montana Business Directory"
+title: "Trout Creek, MT Business Directory"
+type: "towns"
 slug: "trout-creek-mt"
-state: "MT"
-county: "Sanders"
-population: 500
+state: "mt"
+town_data: "trout-creek-mt"
 ---

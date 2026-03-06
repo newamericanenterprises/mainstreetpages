@@ -1,9 +1,7 @@
 ---
-title: "Slater, Iowa Business Directory"
+title: "Slater, IA Business Directory"
+type: "towns"
 slug: "slater-ia"
-town: "Slater"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 1226
+state: "ia"
+town_data: "slater-ia"
 ---

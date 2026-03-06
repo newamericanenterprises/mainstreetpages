@@ -1,9 +1,7 @@
 ---
-title: "Anita, Iowa Business Directory"
+title: "Anita, IA Business Directory"
+type: "towns"
 slug: "anita-ia"
-town: "Anita"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cass"
-population: 2604
+state: "ia"
+town_data: "anita-ia"
 ---

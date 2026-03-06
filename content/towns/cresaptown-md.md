@@ -1,9 +1,7 @@
 ---
-title: "Cresaptown, Maryland Business Directory"
+title: "Cresaptown, MD Business Directory"
+type: "towns"
 slug: "cresaptown-md"
-town: "Cresaptown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 944
+state: "md"
+town_data: "cresaptown-md"
 ---

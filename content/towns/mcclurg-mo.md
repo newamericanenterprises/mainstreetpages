@@ -1,7 +1,7 @@
 ---
-title: "McClurg, Missouri Business Directory"
+title: "Mcclurg, MO Business Directory"
+type: "towns"
 slug: "mcclurg-mo"
-state: "MO"
-county: "Taney"
-population: 1500
+state: "mo"
+town_data: "mcclurg-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Calvin, Louisiana Business Directory"
+title: "Calvin, LA Business Directory"
+type: "towns"
 slug: "calvin-la"
-town: "Calvin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Winn"
-population: 329
+state: "la"
+town_data: "calvin-la"
 ---

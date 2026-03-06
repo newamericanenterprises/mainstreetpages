@@ -1,9 +1,7 @@
 ---
-title: "Gary, Minnesota Business Directory"
+title: "Gary, MN Business Directory"
+type: "towns"
 slug: "gary-mn"
-town: "Gary"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 3024
+state: "mn"
+town_data: "gary-mn"
 ---

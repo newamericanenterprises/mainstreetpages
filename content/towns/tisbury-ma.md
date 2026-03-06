@@ -1,9 +1,7 @@
 ---
-title: "Tisbury, Massachusetts Business Directory"
+title: "Tisbury, MA Business Directory"
+type: "towns"
 slug: "tisbury-ma"
-town: "Tisbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Dukes"
-population: 4108
+state: "ma"
+town_data: "tisbury-ma"
 ---

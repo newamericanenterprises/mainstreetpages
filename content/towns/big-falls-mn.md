@@ -1,9 +1,7 @@
 ---
-title: "Big Falls, Minnesota Business Directory"
+title: "Big Falls, MN Business Directory"
+type: "towns"
 slug: "big-falls-mn"
-town: "Big Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Koochiching"
-population: 1702
+state: "mn"
+town_data: "big-falls-mn"
 ---

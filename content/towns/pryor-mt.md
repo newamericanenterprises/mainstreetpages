@@ -1,7 +1,7 @@
 ---
-title: "Pryor, Montana Business Directory"
+title: "Pryor, MT Business Directory"
+type: "towns"
 slug: "pryor-mt"
-state: "MT"
-county: "Big Horn"
-population: 628
+state: "mt"
+town_data: "pryor-mt"
 ---

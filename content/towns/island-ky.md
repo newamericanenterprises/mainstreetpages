@@ -1,9 +1,7 @@
 ---
-title: "Island, Kentucky Business Directory"
+title: "Island, KY Business Directory"
+type: "towns"
 slug: "island-ky"
-town: "Island"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McLean"
-population: 735
+state: "ky"
+town_data: "island-ky"
 ---

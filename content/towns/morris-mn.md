@@ -1,9 +1,7 @@
 ---
-title: "Morris, Minnesota Business Directory"
+title: "Morris, MN Business Directory"
+type: "towns"
 slug: "morris-mn"
-town: "Morris"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stevens"
-population: 5286
+state: "mn"
+town_data: "morris-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Buffalo, Kansas Business Directory"
+title: "Buffalo, KS Business Directory"
+type: "towns"
 slug: "buffalo-ks"
-town: "Buffalo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 3091
+state: "ks"
+town_data: "buffalo-ks"
 ---

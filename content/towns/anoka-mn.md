@@ -1,9 +1,7 @@
 ---
-title: "Anoka, Minnesota Business Directory"
+title: "Anoka, MN Business Directory"
+type: "towns"
 slug: "anoka-mn"
-town: "Anoka"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2946
+state: "mn"
+town_data: "anoka-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Chamois, Missouri Business Directory"
+title: "Chamois, MO Business Directory"
+type: "towns"
 slug: "chamois-mo"
-state: "MO"
-county: "Osage"
-population: 1500
+state: "mo"
+town_data: "chamois-mo"
 ---

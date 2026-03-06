@@ -1,9 +1,7 @@
 ---
-title: "Welton, Iowa Business Directory"
+title: "Welton, IA Business Directory"
+type: "towns"
 slug: "welton-ia"
-town: "Welton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 1487
+state: "ia"
+town_data: "welton-ia"
 ---

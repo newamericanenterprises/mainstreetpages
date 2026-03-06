@@ -1,7 +1,7 @@
 ---
-title: "Virginia City, Montana Business Directory"
+title: "Virginia City, MT Business Directory"
+type: "towns"
 slug: "virginia-city-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "virginia-city-mt"
 ---

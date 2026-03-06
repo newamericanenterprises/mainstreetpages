@@ -1,7 +1,7 @@
 ---
-title: "Pearlington, Mississippi Business Directory"
+title: "Pearlington, MS Business Directory"
+type: "towns"
 slug: "pearlington-ms"
-state: "MS"
-county: "Hancock"
-population: 1500
+state: "ms"
+town_data: "pearlington-ms"
 ---

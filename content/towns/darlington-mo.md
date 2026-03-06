@@ -1,7 +1,7 @@
 ---
-title: "Darlington, Missouri Business Directory"
+title: "Darlington, MO Business Directory"
+type: "towns"
 slug: "darlington-mo"
-state: "MO"
-county: "Gentry"
-population: 1500
+state: "mo"
+town_data: "darlington-mo"
 ---

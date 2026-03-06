@@ -1,9 +1,7 @@
 ---
-title: "Hastings, Michigan Business Directory"
+title: "Hastings, MI Business Directory"
+type: "towns"
 slug: "hastings-mi"
-town: "Hastings"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 7350
+state: "mi"
+town_data: "hastings-mi"
 ---

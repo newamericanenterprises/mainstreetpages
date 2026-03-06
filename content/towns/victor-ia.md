@@ -1,9 +1,7 @@
 ---
-title: "Victor, Iowa Business Directory"
+title: "Victor, IA Business Directory"
+type: "towns"
 slug: "victor-ia"
-town: "Victor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Iowa"
-population: 2760
+state: "ia"
+town_data: "victor-ia"
 ---

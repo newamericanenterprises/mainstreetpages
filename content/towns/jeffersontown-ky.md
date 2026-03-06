@@ -1,9 +1,7 @@
 ---
-title: "Jeffersontown, Kentucky Business Directory"
+title: "Jeffersontown, KY Business Directory"
+type: "towns"
 slug: "jeffersontown-ky"
-town: "Jeffersontown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 27715
+state: "ky"
+town_data: "jeffersontown-ky"
 ---

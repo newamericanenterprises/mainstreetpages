@@ -1,9 +1,7 @@
 ---
-title: "Martinsville, Indiana Business Directory"
+title: "Martinsville, IN Business Directory"
+type: "towns"
 slug: "martinsville-in"
-town: "Martinsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 11828
+state: "in"
+town_data: "martinsville-in"
 ---

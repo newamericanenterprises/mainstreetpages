@@ -1,7 +1,7 @@
 ---
-title: "Newport, Nebraska Business Directory"
+title: "Newport, NE Business Directory"
+type: "towns"
 slug: "newport-ne"
-state: "NE"
-county: "Rock"
-population: 500
+state: "ne"
+town_data: "newport-ne"
 ---

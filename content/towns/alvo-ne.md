@@ -1,7 +1,7 @@
 ---
-title: "Alvo, Nebraska Business Directory"
+title: "Alvo, NE Business Directory"
+type: "towns"
 slug: "alvo-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "alvo-ne"
 ---

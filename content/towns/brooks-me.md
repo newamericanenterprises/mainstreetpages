@@ -1,9 +1,7 @@
 ---
-title: "Brooks, Maine Business Directory"
+title: "Brooks, ME Business Directory"
+type: "towns"
 slug: "brooks-me"
-town: "Brooks"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2723
+state: "me"
+town_data: "brooks-me"
 ---

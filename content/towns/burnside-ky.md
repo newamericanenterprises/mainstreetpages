@@ -1,9 +1,7 @@
 ---
-title: "Burnside, Kentucky Business Directory"
+title: "Burnside, KY Business Directory"
+type: "towns"
 slug: "burnside-ky"
-town: "Burnside"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pulaski"
-population: 1155
+state: "ky"
+town_data: "burnside-ky"
 ---

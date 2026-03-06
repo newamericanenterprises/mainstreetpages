@@ -1,7 +1,7 @@
 ---
-title: "Fillmore, Missouri Business Directory"
+title: "Fillmore, MO Business Directory"
+type: "towns"
 slug: "fillmore-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "fillmore-mo"
 ---

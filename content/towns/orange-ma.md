@@ -1,9 +1,7 @@
 ---
-title: "Orange, Massachusetts Business Directory"
+title: "Orange, MA Business Directory"
+type: "towns"
 slug: "orange-ma"
-town: "Orange"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 5497
+state: "ma"
+town_data: "orange-ma"
 ---

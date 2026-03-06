@@ -1,7 +1,7 @@
 ---
-title: "Tightwad, Missouri Business Directory"
+title: "Tightwad, MO Business Directory"
+type: "towns"
 slug: "tightwad-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "tightwad-mo"
 ---

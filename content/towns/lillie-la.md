@@ -1,9 +1,7 @@
 ---
-title: "Lillie, Louisiana Business Directory"
+title: "Lillie, LA Business Directory"
+type: "towns"
 slug: "lillie-la"
-town: "Lillie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 2010
+state: "la"
+town_data: "lillie-la"
 ---

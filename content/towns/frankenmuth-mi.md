@@ -1,9 +1,7 @@
 ---
-title: "Frankenmuth, Michigan Business Directory"
+title: "Frankenmuth, MI Business Directory"
+type: "towns"
 slug: "frankenmuth-mi"
-town: "Frankenmuth"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 5105
+state: "mi"
+town_data: "frankenmuth-mi"
 ---

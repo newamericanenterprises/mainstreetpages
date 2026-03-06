@@ -1,9 +1,7 @@
 ---
-title: "Grand Mound, Iowa Business Directory"
+title: "Grand Mound, IA Business Directory"
+type: "towns"
 slug: "grand-mound-ia"
-town: "Grand Mound"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 899
+state: "ia"
+town_data: "grand-mound-ia"
 ---

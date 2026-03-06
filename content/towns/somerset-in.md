@@ -1,9 +1,7 @@
 ---
-title: "Somerset, Indiana Business Directory"
+title: "Somerset, IN Business Directory"
+type: "towns"
 slug: "somerset-in"
-town: "Somerset"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 989
+state: "in"
+town_data: "somerset-in"
 ---

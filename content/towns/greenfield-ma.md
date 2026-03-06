@@ -1,9 +1,7 @@
 ---
-title: "Greenfield, Massachusetts Business Directory"
+title: "Greenfield, MA Business Directory"
+type: "towns"
 slug: "greenfield-ma"
-town: "Greenfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 17707
+state: "ma"
+town_data: "greenfield-ma"
 ---

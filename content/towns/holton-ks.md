@@ -1,9 +1,7 @@
 ---
-title: "Holton, Kansas Business Directory"
+title: "Holton, KS Business Directory"
+type: "towns"
 slug: "holton-ks"
-town: "Holton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 3299
+state: "ks"
+town_data: "holton-ks"
 ---

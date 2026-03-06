@@ -1,9 +1,7 @@
 ---
-title: "Bayard, Iowa Business Directory"
+title: "Bayard, IA Business Directory"
+type: "towns"
 slug: "bayard-ia"
-town: "Bayard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 2763
+state: "ia"
+town_data: "bayard-ia"
 ---

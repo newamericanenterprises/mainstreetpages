@@ -1,9 +1,7 @@
 ---
-title: "Delta, Iowa Business Directory"
+title: "Delta, IA Business Directory"
+type: "towns"
 slug: "delta-ia"
-town: "Delta"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 1091
+state: "ia"
+town_data: "delta-ia"
 ---

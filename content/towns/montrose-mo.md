@@ -1,7 +1,7 @@
 ---
-title: "Montrose, Missouri Business Directory"
+title: "Montrose, MO Business Directory"
+type: "towns"
 slug: "montrose-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "montrose-mo"
 ---

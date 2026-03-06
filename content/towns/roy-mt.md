@@ -1,7 +1,7 @@
 ---
-title: "Roy, Montana Business Directory"
+title: "Roy, MT Business Directory"
+type: "towns"
 slug: "roy-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "roy-mt"
 ---

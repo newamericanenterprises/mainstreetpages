@@ -1,7 +1,7 @@
 ---
-title: "South Greenfield, Missouri Business Directory"
+title: "South Greenfield, MO Business Directory"
+type: "towns"
 slug: "south-greenfield-mo"
-state: "MO"
-county: "Dade"
-population: 1500
+state: "mo"
+town_data: "south-greenfield-mo"
 ---

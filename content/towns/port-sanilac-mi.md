@@ -1,9 +1,7 @@
 ---
-title: "Port Sanilac, Michigan Business Directory"
+title: "Port Sanilac, MI Business Directory"
+type: "towns"
 slug: "port-sanilac-mi"
-town: "Port Sanilac"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 1186
+state: "mi"
+town_data: "port-sanilac-mi"
 ---

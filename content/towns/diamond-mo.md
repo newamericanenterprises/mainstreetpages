@@ -1,7 +1,7 @@
 ---
-title: "Diamond, Missouri Business Directory"
+title: "Diamond, MO Business Directory"
+type: "towns"
 slug: "diamond-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "diamond-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shelby, Nebraska Business Directory"
+title: "Shelby, NE Business Directory"
+type: "towns"
 slug: "shelby-ne"
-state: "NE"
-county: "Polk"
-population: 500
+state: "ne"
+town_data: "shelby-ne"
 ---

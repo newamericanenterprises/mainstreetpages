@@ -1,9 +1,7 @@
 ---
-title: "North Liberty, Iowa Business Directory"
+title: "North Liberty, IA Business Directory"
+type: "towns"
 slug: "north-liberty-ia"
-town: "North Liberty"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 19640
+state: "ia"
+town_data: "north-liberty-ia"
 ---

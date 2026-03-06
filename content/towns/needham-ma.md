@@ -1,9 +1,7 @@
 ---
-title: "Needham, Massachusetts Business Directory"
+title: "Needham, MA Business Directory"
+type: "towns"
 slug: "needham-ma"
-town: "Needham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 31177
+state: "ma"
+town_data: "needham-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Kirbyville, Missouri Business Directory"
+title: "Kirbyville, MO Business Directory"
+type: "towns"
 slug: "kirbyville-mo"
-state: "MO"
-county: "Taney"
-population: 1500
+state: "mo"
+town_data: "kirbyville-mo"
 ---

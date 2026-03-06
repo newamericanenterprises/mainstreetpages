@@ -1,7 +1,7 @@
 ---
-title: "Lamar Heights, Missouri Business Directory"
+title: "Lamar Heights, MO Business Directory"
+type: "towns"
 slug: "lamar-heights-mo"
-state: "MO"
-county: "Barton"
-population: 1500
+state: "mo"
+town_data: "lamar-heights-mo"
 ---

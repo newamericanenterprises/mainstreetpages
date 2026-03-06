@@ -1,9 +1,7 @@
 ---
-title: "Marion, Michigan Business Directory"
+title: "Marion, MI Business Directory"
+type: "towns"
 slug: "marion-mi"
-town: "Marion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 4837
+state: "mi"
+town_data: "marion-mi"
 ---

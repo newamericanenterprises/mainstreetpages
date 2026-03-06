@@ -1,9 +1,7 @@
 ---
-title: "Hampton, Iowa Business Directory"
+title: "Hampton, IA Business Directory"
+type: "towns"
 slug: "hampton-ia"
-town: "Hampton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 4461
+state: "ia"
+town_data: "hampton-ia"
 ---

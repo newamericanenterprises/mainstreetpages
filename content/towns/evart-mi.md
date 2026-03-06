@@ -1,9 +1,7 @@
 ---
-title: "Evart, Michigan Business Directory"
+title: "Evart, MI Business Directory"
+type: "towns"
 slug: "evart-mi"
-town: "Evart"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 1943
+state: "mi"
+town_data: "evart-mi"
 ---

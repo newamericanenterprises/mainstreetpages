@@ -1,7 +1,7 @@
 ---
-title: "Marysville, Montana Business Directory"
+title: "Marysville, MT Business Directory"
+type: "towns"
 slug: "marysville-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "marysville-mt"
 ---

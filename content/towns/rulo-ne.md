@@ -1,7 +1,7 @@
 ---
-title: "Rulo, Nebraska Business Directory"
+title: "Rulo, NE Business Directory"
+type: "towns"
 slug: "rulo-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "rulo-ne"
 ---

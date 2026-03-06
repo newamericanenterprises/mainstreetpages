@@ -1,9 +1,7 @@
 ---
-title: "WaKeeney, Kansas Business Directory"
+title: "WaKeeney, KS Business Directory"
+type: "towns"
 slug: "wakeeney-ks"
-town: "WaKeeney"
-state: "Kansas"
-state_abbr: "KS"
-county: "Trego"
-population: 1862
+state: "ks"
+town_data: "wakeeney-ks"
 ---

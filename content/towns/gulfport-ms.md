@@ -1,7 +1,7 @@
 ---
-title: "Gulfport, Mississippi Business Directory"
+title: "Gulfport, MS Business Directory"
+type: "towns"
 slug: "gulfport-ms"
-state: "MS"
-county: "Harrison"
-population: 72926
+state: "ms"
+town_data: "gulfport-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Holly, Michigan Business Directory"
+title: "Holly, MI Business Directory"
+type: "towns"
 slug: "holly-mi"
-town: "Holly"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 6086
+state: "mi"
+town_data: "holly-mi"
 ---

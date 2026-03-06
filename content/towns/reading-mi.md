@@ -1,9 +1,7 @@
 ---
-title: "Reading, Michigan Business Directory"
+title: "Reading, MI Business Directory"
+type: "towns"
 slug: "reading-mi"
-town: "Reading"
-state: "Michigan"
-state_abbr: "MI"
-county: "Hillsdale"
-population: 2111
+state: "mi"
+town_data: "reading-mi"
 ---

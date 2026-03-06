@@ -1,7 +1,7 @@
 ---
-title: "Cave, Missouri Business Directory"
+title: "Cave, MO Business Directory"
+type: "towns"
 slug: "cave-mo"
-state: "MO"
-county: "Camden"
-population: 1500
+state: "mo"
+town_data: "cave-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Colfax, Iowa Business Directory"
+title: "Colfax, IA Business Directory"
+type: "towns"
 slug: "colfax-ia"
-town: "Colfax"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 2581
+state: "ia"
+town_data: "colfax-ia"
 ---

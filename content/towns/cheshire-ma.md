@@ -1,9 +1,7 @@
 ---
-title: "Cheshire, Massachusetts Business Directory"
+title: "Cheshire, MA Business Directory"
+type: "towns"
 slug: "cheshire-ma"
-town: "Cheshire"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 1313
+state: "ma"
+town_data: "cheshire-ma"
 ---

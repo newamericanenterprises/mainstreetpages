@@ -1,7 +1,7 @@
 ---
-title: "Gildford, Montana Business Directory"
+title: "Gildford, MT Business Directory"
+type: "towns"
 slug: "gildford-mt"
-state: "MT"
-county: "Hill"
-population: 500
+state: "mt"
+town_data: "gildford-mt"
 ---

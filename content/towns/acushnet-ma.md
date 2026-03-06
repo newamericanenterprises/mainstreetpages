@@ -1,9 +1,7 @@
 ---
-title: "Acushnet, Massachusetts Business Directory"
+title: "Acushnet, MA Business Directory"
+type: "towns"
 slug: "acushnet-ma"
-town: "Acushnet"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 2554
+state: "ma"
+town_data: "acushnet-ma"
 ---

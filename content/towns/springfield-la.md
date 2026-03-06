@@ -1,9 +1,7 @@
 ---
-title: "Springfield, Louisiana Business Directory"
+title: "Springfield, LA Business Directory"
+type: "towns"
 slug: "springfield-la"
-town: "Springfield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 1490
+state: "la"
+town_data: "springfield-la"
 ---

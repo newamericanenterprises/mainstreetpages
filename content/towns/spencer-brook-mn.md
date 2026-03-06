@@ -1,9 +1,7 @@
 ---
-title: "Spencer Brook, Minnesota Business Directory"
+title: "Spencer Brook, MN Business Directory"
+type: "towns"
 slug: "spencer-brook-mn"
-town: "Spencer Brook"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 1125
+state: "mn"
+town_data: "spencer-brook-mn"
 ---

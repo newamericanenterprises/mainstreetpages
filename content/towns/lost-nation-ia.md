@@ -1,9 +1,7 @@
 ---
-title: "Lost Nation, Iowa Business Directory"
+title: "Lost Nation, IA Business Directory"
+type: "towns"
 slug: "lost-nation-ia"
-town: "Lost Nation"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 3185
+state: "ia"
+town_data: "lost-nation-ia"
 ---

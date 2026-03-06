@@ -1,9 +1,7 @@
 ---
-title: "Nelson, Minnesota Business Directory"
+title: "Nelson, MN Business Directory"
+type: "towns"
 slug: "nelson-mn"
-town: "Nelson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 1949
+state: "mn"
+town_data: "nelson-mn"
 ---

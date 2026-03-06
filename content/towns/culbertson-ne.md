@@ -1,7 +1,7 @@
 ---
-title: "Culbertson, Nebraska Business Directory"
+title: "Culbertson, NE Business Directory"
+type: "towns"
 slug: "culbertson-ne"
-state: "NE"
-county: "Hitchcock"
-population: 500
+state: "ne"
+town_data: "culbertson-ne"
 ---

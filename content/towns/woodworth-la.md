@@ -1,9 +1,7 @@
 ---
-title: "Woodworth, Louisiana Business Directory"
+title: "Woodworth, LA Business Directory"
+type: "towns"
 slug: "woodworth-la"
-town: "Woodworth"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 568
+state: "la"
+town_data: "woodworth-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Affton, Missouri Business Directory"
+title: "Affton, MO Business Directory"
+type: "towns"
 slug: "affton-mo"
-state: "MO"
-county: "St. Louis"
-population: 20307
+state: "mo"
+town_data: "affton-mo"
 ---

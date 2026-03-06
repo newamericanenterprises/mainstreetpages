@@ -1,9 +1,7 @@
 ---
-title: "Losantville, Indiana Business Directory"
+title: "Losantville, IN Business Directory"
+type: "towns"
 slug: "losantville-in"
-town: "Losantville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 2968
+state: "in"
+town_data: "losantville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "South Paris, Maine Business Directory"
+title: "South Paris, ME Business Directory"
+type: "towns"
 slug: "south-paris-me"
-town: "South Paris"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2361
+state: "me"
+town_data: "south-paris-me"
 ---

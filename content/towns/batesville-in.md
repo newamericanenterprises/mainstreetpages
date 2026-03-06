@@ -1,9 +1,7 @@
 ---
-title: "Batesville, Indiana Business Directory"
+title: "Batesville, IN Business Directory"
+type: "towns"
 slug: "batesville-in"
-town: "Batesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Franklin"
-population: 6958
+state: "in"
+town_data: "batesville-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Loreauville, Louisiana Business Directory"
+title: "Loreauville, LA Business Directory"
+type: "towns"
 slug: "loreauville-la"
-town: "Loreauville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberia"
-population: 2339
+state: "la"
+town_data: "loreauville-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fredonia, Kansas Business Directory"
+title: "Fredonia, KS Business Directory"
+type: "towns"
 slug: "fredonia-ks"
-town: "Fredonia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 2284
+state: "ks"
+town_data: "fredonia-ks"
 ---

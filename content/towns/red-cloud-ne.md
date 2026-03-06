@@ -1,7 +1,7 @@
 ---
-title: "Red Cloud, Nebraska Business Directory"
+title: "Red Cloud, NE Business Directory"
+type: "towns"
 slug: "red-cloud-ne"
-state: "NE"
-county: "Webster"
-population: 1020
+state: "ne"
+town_data: "red-cloud-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Leitchfield, Kentucky Business Directory"
+title: "Leitchfield, KY Business Directory"
+type: "towns"
 slug: "leitchfield-ky"
-town: "Leitchfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grayson"
-population: 6783
+state: "ky"
+town_data: "leitchfield-ky"
 ---

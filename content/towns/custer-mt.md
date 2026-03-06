@@ -1,7 +1,7 @@
 ---
-title: "Custer, Montana Business Directory"
+title: "Custer, MT Business Directory"
+type: "towns"
 slug: "custer-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "custer-mt"
 ---

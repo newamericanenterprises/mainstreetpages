@@ -1,9 +1,7 @@
 ---
-title: "Holy Cross, Iowa Business Directory"
+title: "Holy Cross, IA Business Directory"
+type: "towns"
 slug: "holy-cross-ia"
-town: "Holy Cross"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 3488
+state: "ia"
+town_data: "holy-cross-ia"
 ---

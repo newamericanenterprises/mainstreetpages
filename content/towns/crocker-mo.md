@@ -1,7 +1,7 @@
 ---
-title: "Crocker, Missouri Business Directory"
+title: "Crocker, MO Business Directory"
+type: "towns"
 slug: "crocker-mo"
-state: "MO"
-county: "Pulaski"
-population: 1069
+state: "mo"
+town_data: "crocker-mo"
 ---

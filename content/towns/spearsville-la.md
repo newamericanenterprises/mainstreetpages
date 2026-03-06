@@ -1,9 +1,7 @@
 ---
-title: "Spearsville, Louisiana Business Directory"
+title: "Spearsville, LA Business Directory"
+type: "towns"
 slug: "spearsville-la"
-town: "Spearsville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 2348
+state: "la"
+town_data: "spearsville-la"
 ---

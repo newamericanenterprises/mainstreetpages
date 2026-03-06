@@ -1,9 +1,7 @@
 ---
-title: "Spring Lake Park, Minnesota Business Directory"
+title: "Spring Lake Park, MN Business Directory"
+type: "towns"
 slug: "spring-lake-park-mn"
-town: "Spring Lake Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2469
+state: "mn"
+town_data: "spring-lake-park-mn"
 ---

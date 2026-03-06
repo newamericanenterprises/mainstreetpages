@@ -1,7 +1,7 @@
 ---
-title: "Charleston, Mississippi Business Directory"
+title: "Charleston, MS Business Directory"
+type: "towns"
 slug: "charleston-ms"
-state: "MS"
-county: "Tallahatchie"
-population: 2198
+state: "ms"
+town_data: "charleston-ms"
 ---

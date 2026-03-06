@@ -1,9 +1,7 @@
 ---
-title: "South Deerfield, Massachusetts Business Directory"
+title: "South Deerfield, MA Business Directory"
+type: "towns"
 slug: "south-deerfield-ma"
-town: "South Deerfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 3352
+state: "ma"
+town_data: "south-deerfield-ma"
 ---

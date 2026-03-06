@@ -1,7 +1,7 @@
 ---
-title: "Peerless, Montana Business Directory"
+title: "Peerless, MT Business Directory"
+type: "towns"
 slug: "peerless-mt"
-state: "MT"
-county: "Daniels"
-population: 500
+state: "mt"
+town_data: "peerless-mt"
 ---

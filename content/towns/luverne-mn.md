@@ -1,9 +1,7 @@
 ---
-title: "Luverne, Minnesota Business Directory"
+title: "Luverne, MN Business Directory"
+type: "towns"
 slug: "luverne-mn"
-town: "Luverne"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 4745
+state: "mn"
+town_data: "luverne-mn"
 ---

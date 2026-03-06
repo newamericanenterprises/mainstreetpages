@@ -1,9 +1,7 @@
 ---
-title: "Cameron, Louisiana Business Directory"
+title: "Cameron, LA Business Directory"
+type: "towns"
 slug: "cameron-la"
-town: "Cameron"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 3090
+state: "la"
+town_data: "cameron-la"
 ---

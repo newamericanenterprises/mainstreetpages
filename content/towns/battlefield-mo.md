@@ -1,7 +1,7 @@
 ---
-title: "Battlefield, Missouri Business Directory"
+title: "Battlefield, MO Business Directory"
+type: "towns"
 slug: "battlefield-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "battlefield-mo"
 ---

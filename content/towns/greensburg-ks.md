@@ -1,9 +1,7 @@
 ---
-title: "Greensburg, Kansas Business Directory"
+title: "Greensburg, KS Business Directory"
+type: "towns"
 slug: "greensburg-ks"
-town: "Greensburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kiowa"
-population: 777
+state: "ks"
+town_data: "greensburg-ks"
 ---

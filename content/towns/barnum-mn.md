@@ -1,9 +1,7 @@
 ---
-title: "Barnum, Minnesota Business Directory"
+title: "Barnum, MN Business Directory"
+type: "towns"
 slug: "barnum-mn"
-town: "Barnum"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 2494
+state: "mn"
+town_data: "barnum-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Columbiaville, Michigan Business Directory"
+title: "Columbiaville, MI Business Directory"
+type: "towns"
 slug: "columbiaville-mi"
-town: "Columbiaville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 2344
+state: "mi"
+town_data: "columbiaville-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lewisport, Kentucky Business Directory"
+title: "Lewisport, KY Business Directory"
+type: "towns"
 slug: "lewisport-ky"
-town: "Lewisport"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hancock"
-population: 2904
+state: "ky"
+town_data: "lewisport-ky"
 ---

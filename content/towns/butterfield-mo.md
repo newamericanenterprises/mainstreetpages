@@ -1,7 +1,7 @@
 ---
-title: "Butterfield, Missouri Business Directory"
+title: "Butterfield, MO Business Directory"
+type: "towns"
 slug: "butterfield-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "butterfield-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Yates Center, Kansas Business Directory"
+title: "Yates Center, KS Business Directory"
+type: "towns"
 slug: "yates-center-ks"
-town: "Yates Center"
-state: "Kansas"
-state_abbr: "KS"
-county: "Woodson"
-population: 1364
+state: "ks"
+town_data: "yates-center-ks"
 ---

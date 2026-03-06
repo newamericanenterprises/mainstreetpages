@@ -1,7 +1,7 @@
 ---
-title: "Bennet, Nebraska Business Directory"
+title: "Bennet, NE Business Directory"
+type: "towns"
 slug: "bennet-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "bennet-ne"
 ---

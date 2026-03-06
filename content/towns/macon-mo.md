@@ -1,7 +1,7 @@
 ---
-title: "Macon, Missouri Business Directory"
+title: "Macon, MO Business Directory"
+type: "towns"
 slug: "macon-mo"
-state: "MO"
-county: "Macon"
-population: 5471
+state: "mo"
+town_data: "macon-mo"
 ---

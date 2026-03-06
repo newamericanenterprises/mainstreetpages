@@ -1,9 +1,7 @@
 ---
-title: "Lowden, Iowa Business Directory"
+title: "Lowden, IA Business Directory"
+type: "towns"
 slug: "lowden-ia"
-town: "Lowden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 1227
+state: "ia"
+town_data: "lowden-ia"
 ---

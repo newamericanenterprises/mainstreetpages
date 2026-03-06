@@ -1,9 +1,7 @@
 ---
-title: "Madisonville, Kentucky Business Directory"
+title: "Madisonville, KY Business Directory"
+type: "towns"
 slug: "madisonville-ky"
-town: "Madisonville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 18797
+state: "ky"
+town_data: "madisonville-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lame Deer, Montana Business Directory"
+title: "Lame Deer, MT Business Directory"
+type: "towns"
 slug: "lame-deer-mt"
-state: "MT"
-county: "Rosebud"
-population: 2052
+state: "mt"
+town_data: "lame-deer-mt"
 ---

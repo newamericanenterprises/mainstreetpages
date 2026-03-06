@@ -1,9 +1,7 @@
 ---
-title: "Independence, Kansas Business Directory"
+title: "Independence, KS Business Directory"
+type: "towns"
 slug: "independence-ks"
-town: "Independence"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 8920
+state: "ks"
+town_data: "independence-ks"
 ---

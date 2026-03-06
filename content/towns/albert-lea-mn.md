@@ -1,9 +1,7 @@
 ---
-title: "Albert Lea, Minnesota Business Directory"
+title: "Albert Lea, MN Business Directory"
+type: "towns"
 slug: "albert-lea-mn"
-town: "Albert Lea"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 17902
+state: "mn"
+town_data: "albert-lea-mn"
 ---

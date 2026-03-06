@@ -1,7 +1,7 @@
 ---
-title: "Lavina, Montana Business Directory"
+title: "Lavina, MT Business Directory"
+type: "towns"
 slug: "lavina-mt"
-state: "MT"
-county: "Golden Valley"
-population: 500
+state: "mt"
+town_data: "lavina-mt"
 ---

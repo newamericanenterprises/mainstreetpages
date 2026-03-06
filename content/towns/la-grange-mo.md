@@ -1,7 +1,7 @@
 ---
-title: "La Grange, Missouri Business Directory"
+title: "La Grange, MO Business Directory"
+type: "towns"
 slug: "la-grange-mo"
-state: "MO"
-county: "Lewis"
-population: 1500
+state: "mo"
+town_data: "la-grange-mo"
 ---

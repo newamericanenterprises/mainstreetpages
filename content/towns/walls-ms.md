@@ -1,7 +1,7 @@
 ---
-title: "Walls, Mississippi Business Directory"
+title: "Walls, MS Business Directory"
+type: "towns"
 slug: "walls-ms"
-state: "MS"
-county: "DeSoto"
-population: 1500
+state: "ms"
+town_data: "walls-ms"
 ---

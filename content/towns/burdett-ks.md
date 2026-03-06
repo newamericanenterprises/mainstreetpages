@@ -1,9 +1,7 @@
 ---
-title: "Burdett, Kansas Business Directory"
+title: "Burdett, KS Business Directory"
+type: "towns"
 slug: "burdett-ks"
-town: "Burdett"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pawnee"
-population: 2997
+state: "ks"
+town_data: "burdett-ks"
 ---

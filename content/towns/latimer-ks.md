@@ -1,9 +1,7 @@
 ---
-title: "Latimer, Kansas Business Directory"
+title: "Latimer, KS Business Directory"
+type: "towns"
 slug: "latimer-ks"
-town: "Latimer"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 1570
+state: "ks"
+town_data: "latimer-ks"
 ---

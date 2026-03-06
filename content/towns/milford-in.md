@@ -1,9 +1,7 @@
 ---
-title: "Milford, Indiana Business Directory"
+title: "Milford, IN Business Directory"
+type: "towns"
 slug: "milford-in"
-town: "Milford"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 4134
+state: "in"
+town_data: "milford-in"
 ---

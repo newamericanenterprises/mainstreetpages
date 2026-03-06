@@ -1,9 +1,7 @@
 ---
-title: "Columbia Falls, Maine Business Directory"
+title: "Columbia Falls, ME Business Directory"
+type: "towns"
 slug: "columbia-falls-me"
-town: "Columbia Falls"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2619
+state: "me"
+town_data: "columbia-falls-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Venango, Nebraska Business Directory"
+title: "Venango, NE Business Directory"
+type: "towns"
 slug: "venango-ne"
-state: "NE"
-county: "Perkins"
-population: 500
+state: "ne"
+town_data: "venango-ne"
 ---

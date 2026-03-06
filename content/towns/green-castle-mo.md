@@ -1,7 +1,7 @@
 ---
-title: "Green Castle, Missouri Business Directory"
+title: "Green Castle, MO Business Directory"
+type: "towns"
 slug: "green-castle-mo"
-state: "MO"
-county: "Sullivan"
-population: 1500
+state: "mo"
+town_data: "green-castle-mo"
 ---

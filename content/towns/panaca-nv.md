@@ -1,7 +1,7 @@
 ---
-title: "Panaca, Nevada Business Directory"
+title: "Panaca, NV Business Directory"
+type: "towns"
 slug: "panaca-nv"
-state: "NV"
-county: "Lincoln"
-population: 963
+state: "nv"
+town_data: "panaca-nv"
 ---

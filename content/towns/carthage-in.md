@@ -1,9 +1,7 @@
 ---
-title: "Carthage, Indiana Business Directory"
+title: "Carthage, IN Business Directory"
+type: "towns"
 slug: "carthage-in"
-town: "Carthage"
-state: "Indiana"
-state_abbr: "IN"
-county: "Rush"
-population: 2420
+state: "in"
+town_data: "carthage-in"
 ---

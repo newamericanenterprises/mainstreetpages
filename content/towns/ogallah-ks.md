@@ -1,9 +1,7 @@
 ---
-title: "Ogallah, Kansas Business Directory"
+title: "Ogallah, KS Business Directory"
+type: "towns"
 slug: "ogallah-ks"
-town: "Ogallah"
-state: "Kansas"
-state_abbr: "KS"
-county: "Trego"
-population: 2086
+state: "ks"
+town_data: "ogallah-ks"
 ---

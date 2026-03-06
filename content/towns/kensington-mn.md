@@ -1,9 +1,7 @@
 ---
-title: "Kensington, Minnesota Business Directory"
+title: "Kensington, MN Business Directory"
+type: "towns"
 slug: "kensington-mn"
-town: "Kensington"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 673
+state: "mn"
+town_data: "kensington-mn"
 ---

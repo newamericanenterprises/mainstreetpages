@@ -1,9 +1,7 @@
 ---
-title: "Brooksburg, Indiana Business Directory"
+title: "Brooksburg, IN Business Directory"
+type: "towns"
 slug: "brooksburg-in"
-town: "Brooksburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jefferson"
-population: 4109
+state: "in"
+town_data: "brooksburg-in"
 ---

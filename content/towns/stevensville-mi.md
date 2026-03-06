@@ -1,9 +1,7 @@
 ---
-title: "Stevensville, Michigan Business Directory"
+title: "Stevensville, MI Business Directory"
+type: "towns"
 slug: "stevensville-mi"
-town: "Stevensville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 3097
+state: "mi"
+town_data: "stevensville-mi"
 ---

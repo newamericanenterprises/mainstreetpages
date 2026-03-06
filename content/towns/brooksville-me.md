@@ -1,9 +1,7 @@
 ---
-title: "Brooksville, Maine Business Directory"
+title: "Brooksville, ME Business Directory"
+type: "towns"
 slug: "brooksville-me"
-town: "Brooksville"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 933
+state: "me"
+town_data: "brooksville-me"
 ---

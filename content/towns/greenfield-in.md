@@ -1,9 +1,7 @@
 ---
-title: "Greenfield, Indiana Business Directory"
+title: "Greenfield, IN Business Directory"
+type: "towns"
 slug: "greenfield-in"
-town: "Greenfield"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 22521
+state: "in"
+town_data: "greenfield-in"
 ---

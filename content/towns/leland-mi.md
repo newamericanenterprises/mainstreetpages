@@ -1,9 +1,7 @@
 ---
-title: "Leland, Michigan Business Directory"
+title: "Leland, MI Business Directory"
+type: "towns"
 slug: "leland-mi"
-town: "Leland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 3177
+state: "mi"
+town_data: "leland-mi"
 ---

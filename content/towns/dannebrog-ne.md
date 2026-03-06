@@ -1,7 +1,7 @@
 ---
-title: "Dannebrog, Nebraska Business Directory"
+title: "Dannebrog, NE Business Directory"
+type: "towns"
 slug: "dannebrog-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "dannebrog-ne"
 ---

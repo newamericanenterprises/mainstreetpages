@@ -1,9 +1,7 @@
 ---
-title: "Stonewall, Louisiana Business Directory"
+title: "Stonewall, LA Business Directory"
+type: "towns"
 slug: "stonewall-la"
-town: "Stonewall"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 1640
+state: "la"
+town_data: "stonewall-la"
 ---

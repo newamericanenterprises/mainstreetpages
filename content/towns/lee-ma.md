@@ -1,9 +1,7 @@
 ---
-title: "Lee, Massachusetts Business Directory"
+title: "Lee, MA Business Directory"
+type: "towns"
 slug: "lee-ma"
-town: "Lee"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 5788
+state: "ma"
+town_data: "lee-ma"
 ---

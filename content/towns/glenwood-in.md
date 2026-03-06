@@ -1,9 +1,7 @@
 ---
-title: "Glenwood, Indiana Business Directory"
+title: "Glenwood, IN Business Directory"
+type: "towns"
 slug: "glenwood-in"
-town: "Glenwood"
-state: "Indiana"
-state_abbr: "IN"
-county: "Rush"
-population: 579
+state: "in"
+town_data: "glenwood-in"
 ---

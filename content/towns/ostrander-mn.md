@@ -1,9 +1,7 @@
 ---
-title: "Ostrander, Minnesota Business Directory"
+title: "Ostrander, MN Business Directory"
+type: "towns"
 slug: "ostrander-mn"
-town: "Ostrander"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 780
+state: "mn"
+town_data: "ostrander-mn"
 ---

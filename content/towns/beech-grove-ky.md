@@ -1,9 +1,7 @@
 ---
-title: "Beech Grove, Kentucky Business Directory"
+title: "Beech Grove, KY Business Directory"
+type: "towns"
 slug: "beech-grove-ky"
-town: "Beech Grove"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McLean"
-population: 1752
+state: "ky"
+town_data: "beech-grove-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Iberia, Louisiana Business Directory"
+title: "New Iberia, LA Business Directory"
+type: "towns"
 slug: "new-iberia-la"
-town: "New Iberia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberia"
-population: 30617
+state: "la"
+town_data: "new-iberia-la"
 ---

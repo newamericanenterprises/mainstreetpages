@@ -1,9 +1,7 @@
 ---
-title: "Akeley, Minnesota Business Directory"
+title: "Akeley, MN Business Directory"
+type: "towns"
 slug: "akeley-mn"
-town: "Akeley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hubbard"
-population: 1781
+state: "mn"
+town_data: "akeley-mn"
 ---

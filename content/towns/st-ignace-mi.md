@@ -1,9 +1,7 @@
 ---
-title: "St. Ignace, Michigan Business Directory"
+title: "St. Ignace, MI Business Directory"
+type: "towns"
 slug: "st-ignace-mi"
-town: "St. Ignace"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 3287
+state: "mi"
+town_data: "st-ignace-mi"
 ---

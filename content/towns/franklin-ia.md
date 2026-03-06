@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Iowa Business Directory"
+title: "Franklin, IA Business Directory"
+type: "towns"
 slug: "franklin-ia"
-town: "Franklin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lee"
-population: 868
+state: "ia"
+town_data: "franklin-ia"
 ---

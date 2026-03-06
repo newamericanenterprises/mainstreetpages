@@ -1,7 +1,7 @@
 ---
-title: "Geraldine, Montana Business Directory"
+title: "Geraldine, MT Business Directory"
+type: "towns"
 slug: "geraldine-mt"
-state: "MT"
-county: "Chouteau"
-population: 500
+state: "mt"
+town_data: "geraldine-mt"
 ---

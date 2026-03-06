@@ -1,9 +1,7 @@
 ---
-title: "Glencoe, Minnesota Business Directory"
+title: "Glencoe, MN Business Directory"
+type: "towns"
 slug: "glencoe-mn"
-town: "Glencoe"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 1953
+state: "mn"
+town_data: "glencoe-mn"
 ---

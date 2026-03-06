@@ -1,9 +1,7 @@
 ---
-title: "Overlea, Maryland Business Directory"
+title: "Overlea, MD Business Directory"
+type: "towns"
 slug: "overlea-md"
-town: "Overlea"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 4502
+state: "md"
+town_data: "overlea-md"
 ---

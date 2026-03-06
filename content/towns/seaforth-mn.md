@@ -1,9 +1,7 @@
 ---
-title: "Seaforth, Minnesota Business Directory"
+title: "Seaforth, MN Business Directory"
+type: "towns"
 slug: "seaforth-mn"
-town: "Seaforth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 3024
+state: "mn"
+town_data: "seaforth-mn"
 ---

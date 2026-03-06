@@ -1,9 +1,7 @@
 ---
-title: "Tell City, Indiana Business Directory"
+title: "Tell City, IN Business Directory"
+type: "towns"
 slug: "tell-city-in"
-town: "Tell City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Perry"
-population: 7272
+state: "in"
+town_data: "tell-city-in"
 ---

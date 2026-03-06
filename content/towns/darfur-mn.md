@@ -1,9 +1,7 @@
 ---
-title: "Darfur, Minnesota Business Directory"
+title: "Darfur, MN Business Directory"
+type: "towns"
 slug: "darfur-mn"
-town: "Darfur"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Watonwan"
-population: 883
+state: "mn"
+town_data: "darfur-mn"
 ---

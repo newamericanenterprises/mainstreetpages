@@ -1,7 +1,7 @@
 ---
-title: "Rienzi, Mississippi Business Directory"
+title: "Rienzi, MS Business Directory"
+type: "towns"
 slug: "rienzi-ms"
-state: "MS"
-county: "Alcorn"
-population: 299
+state: "ms"
+town_data: "rienzi-ms"
 ---

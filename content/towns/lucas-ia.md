@@ -1,9 +1,7 @@
 ---
-title: "Lucas, Iowa Business Directory"
+title: "Lucas, IA Business Directory"
+type: "towns"
 slug: "lucas-ia"
-town: "Lucas"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lucas"
-population: 2136
+state: "ia"
+town_data: "lucas-ia"
 ---

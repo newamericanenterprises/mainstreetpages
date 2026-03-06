@@ -1,7 +1,7 @@
 ---
-title: "Stockett, Montana Business Directory"
+title: "Stockett, MT Business Directory"
+type: "towns"
 slug: "stockett-mt"
-state: "MT"
-county: "Cascade"
-population: 203
+state: "mt"
+town_data: "stockett-mt"
 ---

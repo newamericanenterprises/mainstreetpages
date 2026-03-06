@@ -1,9 +1,7 @@
 ---
-title: "Conway, Massachusetts Business Directory"
+title: "Conway, MA Business Directory"
+type: "towns"
 slug: "conway-ma"
-town: "Conway"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 5160
+state: "ma"
+town_data: "conway-ma"
 ---

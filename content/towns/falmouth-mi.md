@@ -1,9 +1,7 @@
 ---
-title: "Falmouth, Michigan Business Directory"
+title: "Falmouth, MI Business Directory"
+type: "towns"
 slug: "falmouth-mi"
-town: "Falmouth"
-state: "Michigan"
-state_abbr: "MI"
-county: "Missaukee"
-population: 623
+state: "mi"
+town_data: "falmouth-mi"
 ---

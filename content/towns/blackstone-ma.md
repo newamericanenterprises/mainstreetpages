@@ -1,9 +1,7 @@
 ---
-title: "Blackstone, Massachusetts Business Directory"
+title: "Blackstone, MA Business Directory"
+type: "towns"
 slug: "blackstone-ma"
-town: "Blackstone"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1007
+state: "ma"
+town_data: "blackstone-ma"
 ---

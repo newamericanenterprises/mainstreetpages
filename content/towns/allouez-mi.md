@@ -1,9 +1,7 @@
 ---
-title: "Allouez, Michigan Business Directory"
+title: "Allouez, MI Business Directory"
+type: "towns"
 slug: "allouez-mi"
-town: "Allouez"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 3395
+state: "mi"
+town_data: "allouez-mi"
 ---

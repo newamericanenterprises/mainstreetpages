@@ -1,9 +1,7 @@
 ---
-title: "Roachdale, Indiana Business Directory"
+title: "Roachdale, IN Business Directory"
+type: "towns"
 slug: "roachdale-in"
-town: "Roachdale"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 3895
+state: "in"
+town_data: "roachdale-in"
 ---

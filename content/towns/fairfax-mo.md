@@ -1,7 +1,7 @@
 ---
-title: "Fairfax, Missouri Business Directory"
+title: "Fairfax, MO Business Directory"
+type: "towns"
 slug: "fairfax-mo"
-state: "MO"
-county: "Atchison"
-population: 1500
+state: "mo"
+town_data: "fairfax-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Worden, Montana Business Directory"
+title: "Worden, MT Business Directory"
+type: "towns"
 slug: "worden-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "worden-mt"
 ---

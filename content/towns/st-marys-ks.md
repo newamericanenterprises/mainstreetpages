@@ -1,9 +1,7 @@
 ---
-title: "St. Marys, Kansas Business Directory"
+title: "St. Marys, KS Business Directory"
+type: "towns"
 slug: "st-marys-ks"
-town: "St. Marys"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 2335
+state: "ks"
+town_data: "st-marys-ks"
 ---

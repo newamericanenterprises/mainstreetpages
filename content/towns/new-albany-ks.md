@@ -1,9 +1,7 @@
 ---
-title: "New Albany, Kansas Business Directory"
+title: "New Albany, KS Business Directory"
+type: "towns"
 slug: "new-albany-ks"
-town: "New Albany"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 418
+state: "ks"
+town_data: "new-albany-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rock Valley, Iowa Business Directory"
+title: "Rock Valley, IA Business Directory"
+type: "towns"
 slug: "rock-valley-ia"
-town: "Rock Valley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 961
+state: "ia"
+town_data: "rock-valley-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hardyville, Kentucky Business Directory"
+title: "Hardyville, KY Business Directory"
+type: "towns"
 slug: "hardyville-ky"
-town: "Hardyville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hart"
-population: 1113
+state: "ky"
+town_data: "hardyville-ky"
 ---

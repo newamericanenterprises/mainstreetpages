@@ -1,9 +1,7 @@
 ---
-title: "West Paris, Maine Business Directory"
+title: "West Paris, ME Business Directory"
+type: "towns"
 slug: "west-paris-me"
-town: "West Paris"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 1049
+state: "me"
+town_data: "west-paris-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Drexel, Missouri Business Directory"
+title: "Drexel, MO Business Directory"
+type: "towns"
 slug: "drexel-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "drexel-mo"
 ---

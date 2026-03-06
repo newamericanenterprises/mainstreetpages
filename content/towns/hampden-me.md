@@ -1,9 +1,7 @@
 ---
-title: "Hampden, Maine Business Directory"
+title: "Hampden, ME Business Directory"
+type: "towns"
 slug: "hampden-me"
-town: "Hampden"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 7525
+state: "me"
+town_data: "hampden-me"
 ---

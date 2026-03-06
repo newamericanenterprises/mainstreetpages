@@ -1,7 +1,7 @@
 ---
-title: "Ravalli, Montana Business Directory"
+title: "Ravalli, MT Business Directory"
+type: "towns"
 slug: "ravalli-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "ravalli-mt"
 ---

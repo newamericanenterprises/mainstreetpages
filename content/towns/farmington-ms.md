@@ -1,7 +1,7 @@
 ---
-title: "Farmington, Mississippi Business Directory"
+title: "Farmington, MS Business Directory"
+type: "towns"
 slug: "farmington-ms"
-state: "MS"
-county: "Alcorn"
-population: 2626
+state: "ms"
+town_data: "farmington-ms"
 ---

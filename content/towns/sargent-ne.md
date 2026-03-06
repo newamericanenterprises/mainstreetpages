@@ -1,7 +1,7 @@
 ---
-title: "Sargent, Nebraska Business Directory"
+title: "Sargent, NE Business Directory"
+type: "towns"
 slug: "sargent-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "sargent-ne"
 ---

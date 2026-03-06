@@ -1,9 +1,7 @@
 ---
-title: "Oceola, Michigan Business Directory"
+title: "Oceola, MI Business Directory"
+type: "towns"
 slug: "oceola-mi"
-town: "Oceola"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 2109
+state: "mi"
+town_data: "oceola-mi"
 ---

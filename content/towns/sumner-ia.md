@@ -1,9 +1,7 @@
 ---
-title: "Sumner, Iowa Business Directory"
+title: "Sumner, IA Business Directory"
+type: "towns"
 slug: "sumner-ia"
-town: "Sumner"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 2151
+state: "ia"
+town_data: "sumner-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bucklin, Kansas Business Directory"
+title: "Bucklin, KS Business Directory"
+type: "towns"
 slug: "bucklin-ks"
-town: "Bucklin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ford"
-population: 2441
+state: "ks"
+town_data: "bucklin-ks"
 ---

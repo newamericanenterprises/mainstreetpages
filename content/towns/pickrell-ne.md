@@ -1,7 +1,7 @@
 ---
-title: "Pickrell, Nebraska Business Directory"
+title: "Pickrell, NE Business Directory"
+type: "towns"
 slug: "pickrell-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "pickrell-ne"
 ---

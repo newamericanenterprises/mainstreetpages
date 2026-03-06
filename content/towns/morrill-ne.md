@@ -1,7 +1,7 @@
 ---
-title: "Morrill, Nebraska Business Directory"
+title: "Morrill, NE Business Directory"
+type: "towns"
 slug: "morrill-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "morrill-ne"
 ---

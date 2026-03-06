@@ -1,9 +1,7 @@
 ---
-title: "Homer, Louisiana Business Directory"
+title: "Homer, LA Business Directory"
+type: "towns"
 slug: "homer-la"
-town: "Homer"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Claiborne"
-population: 2987
+state: "la"
+town_data: "homer-la"
 ---

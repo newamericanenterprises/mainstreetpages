@@ -1,9 +1,7 @@
 ---
-title: "Eden Valley, Minnesota Business Directory"
+title: "Eden Valley, MN Business Directory"
+type: "towns"
 slug: "eden-valley-mn"
-town: "Eden Valley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 1007
+state: "mn"
+town_data: "eden-valley-mn"
 ---

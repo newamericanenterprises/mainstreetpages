@@ -1,9 +1,7 @@
 ---
-title: "Gray, Iowa Business Directory"
+title: "Gray, IA Business Directory"
+type: "towns"
 slug: "gray-ia"
-town: "Gray"
-state: "Iowa"
-state_abbr: "IA"
-county: "Audubon"
-population: 2370
+state: "ia"
+town_data: "gray-ia"
 ---

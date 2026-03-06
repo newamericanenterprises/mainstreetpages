@@ -1,9 +1,7 @@
 ---
-title: "Avilla, Indiana Business Directory"
+title: "Avilla, IN Business Directory"
+type: "towns"
 slug: "avilla-in"
-town: "Avilla"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 4922
+state: "in"
+town_data: "avilla-in"
 ---

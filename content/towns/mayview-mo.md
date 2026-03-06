@@ -1,7 +1,7 @@
 ---
-title: "Mayview, Missouri Business Directory"
+title: "Mayview, MO Business Directory"
+type: "towns"
 slug: "mayview-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "mayview-mo"
 ---

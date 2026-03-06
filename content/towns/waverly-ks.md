@@ -1,9 +1,7 @@
 ---
-title: "Waverly, Kansas Business Directory"
+title: "Waverly, KS Business Directory"
+type: "towns"
 slug: "waverly-ks"
-town: "Waverly"
-state: "Kansas"
-state_abbr: "KS"
-county: "Coffey"
-population: 1680
+state: "ks"
+town_data: "waverly-ks"
 ---

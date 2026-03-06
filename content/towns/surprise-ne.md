@@ -1,7 +1,7 @@
 ---
-title: "Surprise, Nebraska Business Directory"
+title: "Surprise, NE Business Directory"
+type: "towns"
 slug: "surprise-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "surprise-ne"
 ---

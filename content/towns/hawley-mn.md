@@ -1,9 +1,7 @@
 ---
-title: "Hawley, Minnesota Business Directory"
+title: "Hawley, MN Business Directory"
+type: "towns"
 slug: "hawley-mn"
-town: "Hawley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 1517
+state: "mn"
+town_data: "hawley-mn"
 ---

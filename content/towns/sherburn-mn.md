@@ -1,9 +1,7 @@
 ---
-title: "Sherburn, Minnesota Business Directory"
+title: "Sherburn, MN Business Directory"
+type: "towns"
 slug: "sherburn-mn"
-town: "Sherburn"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 3117
+state: "mn"
+town_data: "sherburn-mn"
 ---

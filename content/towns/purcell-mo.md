@@ -1,7 +1,7 @@
 ---
-title: "Purcell, Missouri Business Directory"
+title: "Purcell, MO Business Directory"
+type: "towns"
 slug: "purcell-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "purcell-mo"
 ---

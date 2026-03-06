@@ -1,7 +1,7 @@
 ---
-title: "Iuka, Mississippi Business Directory"
+title: "Iuka, MS Business Directory"
+type: "towns"
 slug: "iuka-ms"
-state: "MS"
-county: "Tishomingo"
-population: 3028
+state: "ms"
+town_data: "iuka-ms"
 ---

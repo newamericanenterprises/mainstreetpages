@@ -1,9 +1,7 @@
 ---
-title: "Taylors Falls, Minnesota Business Directory"
+title: "Taylors Falls, MN Business Directory"
+type: "towns"
 slug: "taylors-falls-mn"
-town: "Taylors Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 2527
+state: "mn"
+town_data: "taylors-falls-mn"
 ---

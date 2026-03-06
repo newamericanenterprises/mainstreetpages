@@ -1,7 +1,7 @@
 ---
-title: "Boelus, Nebraska Business Directory"
+title: "Boelus, NE Business Directory"
+type: "towns"
 slug: "boelus-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "boelus-ne"
 ---

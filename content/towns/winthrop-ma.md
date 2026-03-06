@@ -1,9 +1,7 @@
 ---
-title: "Winthrop, Massachusetts Business Directory"
+title: "Winthrop, MA Business Directory"
+type: "towns"
 slug: "winthrop-ma"
-town: "Winthrop"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Suffolk"
-population: 18688
+state: "ma"
+town_data: "winthrop-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lexington, Michigan Business Directory"
+title: "Lexington, MI Business Directory"
+type: "towns"
 slug: "lexington-mi"
-town: "Lexington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 5144
+state: "mi"
+town_data: "lexington-mi"
 ---

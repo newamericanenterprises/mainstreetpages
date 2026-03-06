@@ -1,9 +1,7 @@
 ---
-title: "Kirkville, Iowa Business Directory"
+title: "Kirkville, IA Business Directory"
+type: "towns"
 slug: "kirkville-ia"
-town: "Kirkville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 2843
+state: "ia"
+town_data: "kirkville-ia"
 ---

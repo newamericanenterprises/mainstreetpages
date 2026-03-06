@@ -1,9 +1,7 @@
 ---
-title: "Freeport, Kansas Business Directory"
+title: "Freeport, KS Business Directory"
+type: "towns"
 slug: "freeport-ks"
-town: "Freeport"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 357
+state: "ks"
+town_data: "freeport-ks"
 ---

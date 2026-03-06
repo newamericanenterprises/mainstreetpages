@@ -1,9 +1,7 @@
 ---
-title: "Elizabeth, Minnesota Business Directory"
+title: "Elizabeth, MN Business Directory"
+type: "towns"
 slug: "elizabeth-mn"
-town: "Elizabeth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1310
+state: "mn"
+town_data: "elizabeth-mn"
 ---

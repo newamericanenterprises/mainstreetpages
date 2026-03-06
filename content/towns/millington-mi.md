@@ -1,9 +1,7 @@
 ---
-title: "Millington, Michigan Business Directory"
+title: "Millington, MI Business Directory"
+type: "towns"
 slug: "millington-mi"
-town: "Millington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 3507
+state: "mi"
+town_data: "millington-mi"
 ---

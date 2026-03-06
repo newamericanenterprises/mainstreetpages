@@ -1,9 +1,7 @@
 ---
-title: "Duncombe, Iowa Business Directory"
+title: "Duncombe, IA Business Directory"
+type: "towns"
 slug: "duncombe-ia"
-town: "Duncombe"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 2016
+state: "ia"
+town_data: "duncombe-ia"
 ---

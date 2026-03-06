@@ -1,9 +1,7 @@
 ---
-title: "Akron, Iowa Business Directory"
+title: "Akron, IA Business Directory"
+type: "towns"
 slug: "akron-ia"
-town: "Akron"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 1796
+state: "ia"
+town_data: "akron-ia"
 ---

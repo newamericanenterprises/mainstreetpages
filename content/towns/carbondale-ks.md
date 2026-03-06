@@ -1,9 +1,7 @@
 ---
-title: "Carbondale, Kansas Business Directory"
+title: "Carbondale, KS Business Directory"
+type: "towns"
 slug: "carbondale-ks"
-town: "Carbondale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 787
+state: "ks"
+town_data: "carbondale-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bridgeton, Missouri Business Directory"
+title: "Bridgeton, MO Business Directory"
+type: "towns"
 slug: "bridgeton-mo"
-state: "MO"
-county: "St. Louis"
-population: 11550
+state: "mo"
+town_data: "bridgeton-mo"
 ---

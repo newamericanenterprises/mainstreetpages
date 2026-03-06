@@ -1,9 +1,7 @@
 ---
-title: "Haysville, Kansas Business Directory"
+title: "Haysville, KS Business Directory"
+type: "towns"
 slug: "haysville-ks"
-town: "Haysville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 11340
+state: "ks"
+town_data: "haysville-ks"
 ---

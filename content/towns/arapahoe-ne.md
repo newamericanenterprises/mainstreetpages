@@ -1,7 +1,7 @@
 ---
-title: "Arapahoe, Nebraska Business Directory"
+title: "Arapahoe, NE Business Directory"
+type: "towns"
 slug: "arapahoe-ne"
-state: "NE"
-county: "Furnas"
-population: 1026
+state: "ne"
+town_data: "arapahoe-ne"
 ---

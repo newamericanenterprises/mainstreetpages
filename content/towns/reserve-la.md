@@ -1,9 +1,7 @@
 ---
-title: "Reserve, Louisiana Business Directory"
+title: "Reserve, LA Business Directory"
+type: "towns"
 slug: "reserve-la"
-town: "Reserve"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. John the Baptist"
-population: 3074
+state: "la"
+town_data: "reserve-la"
 ---

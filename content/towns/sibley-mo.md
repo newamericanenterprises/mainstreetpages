@@ -1,7 +1,7 @@
 ---
-title: "Sibley, Missouri Business Directory"
+title: "Sibley, MO Business Directory"
+type: "towns"
 slug: "sibley-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "sibley-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Riverdale Park, Maryland Business Directory"
+title: "Riverdale Park, MD Business Directory"
+type: "towns"
 slug: "riverdale-park-md"
-town: "Riverdale Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 3140
+state: "md"
+town_data: "riverdale-park-md"
 ---

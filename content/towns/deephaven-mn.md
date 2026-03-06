@@ -1,9 +1,7 @@
 ---
-title: "Deephaven, Minnesota Business Directory"
+title: "Deephaven, MN Business Directory"
+type: "towns"
 slug: "deephaven-mn"
-town: "Deephaven"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2730
+state: "mn"
+town_data: "deephaven-mn"
 ---

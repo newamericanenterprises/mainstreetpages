@@ -1,7 +1,7 @@
 ---
-title: "Roaring River, Missouri Business Directory"
+title: "Roaring River, MO Business Directory"
+type: "towns"
 slug: "roaring-river-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "roaring-river-mo"
 ---

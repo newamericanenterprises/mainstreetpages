@@ -1,9 +1,7 @@
 ---
-title: "Summit, Michigan Business Directory"
+title: "Summit, MI Business Directory"
+type: "towns"
 slug: "summit-mi"
-town: "Summit"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 3066
+state: "mi"
+town_data: "summit-mi"
 ---

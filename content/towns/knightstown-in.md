@@ -1,9 +1,7 @@
 ---
-title: "Knightstown, Indiana Business Directory"
+title: "Knightstown, IN Business Directory"
+type: "towns"
 slug: "knightstown-in"
-town: "Knightstown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 3224
+state: "in"
+town_data: "knightstown-in"
 ---

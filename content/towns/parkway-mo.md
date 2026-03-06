@@ -1,7 +1,7 @@
 ---
-title: "Parkway, Missouri Business Directory"
+title: "Parkway, MO Business Directory"
+type: "towns"
 slug: "parkway-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "parkway-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Coram, Montana Business Directory"
+title: "Coram, MT Business Directory"
+type: "towns"
 slug: "coram-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "coram-mt"
 ---

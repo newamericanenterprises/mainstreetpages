@@ -1,9 +1,7 @@
 ---
-title: "Abbeville, Louisiana Business Directory"
+title: "Abbeville, LA Business Directory"
+type: "towns"
 slug: "abbeville-la"
-town: "Abbeville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vermilion"
-population: 12257
+state: "la"
+town_data: "abbeville-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gueydan, Louisiana Business Directory"
+title: "Gueydan, LA Business Directory"
+type: "towns"
 slug: "gueydan-la"
-town: "Gueydan"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vermilion"
-population: 1714
+state: "la"
+town_data: "gueydan-la"
 ---

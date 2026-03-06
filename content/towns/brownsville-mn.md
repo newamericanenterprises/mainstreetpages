@@ -1,9 +1,7 @@
 ---
-title: "Brownsville, Minnesota Business Directory"
+title: "Brownsville, MN Business Directory"
+type: "towns"
 slug: "brownsville-mn"
-town: "Brownsville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 1357
+state: "mn"
+town_data: "brownsville-mn"
 ---

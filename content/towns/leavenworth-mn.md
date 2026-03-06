@@ -1,9 +1,7 @@
 ---
-title: "Leavenworth, Minnesota Business Directory"
+title: "Leavenworth, MN Business Directory"
+type: "towns"
 slug: "leavenworth-mn"
-town: "Leavenworth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 376
+state: "mn"
+town_data: "leavenworth-mn"
 ---

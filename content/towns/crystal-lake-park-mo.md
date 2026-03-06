@@ -1,7 +1,7 @@
 ---
-title: "Crystal Lake Park, Missouri Business Directory"
+title: "Crystal Lake Park, MO Business Directory"
+type: "towns"
 slug: "crystal-lake-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "crystal-lake-park-mo"
 ---

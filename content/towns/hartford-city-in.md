@@ -1,9 +1,7 @@
 ---
-title: "Hartford City, Indiana Business Directory"
+title: "Hartford City, IN Business Directory"
+type: "towns"
 slug: "hartford-city-in"
-town: "Hartford City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Blackford"
-population: 5965
+state: "in"
+town_data: "hartford-city-in"
 ---

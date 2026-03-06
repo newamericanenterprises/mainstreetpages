@@ -1,7 +1,7 @@
 ---
-title: "Winchester, Nevada Business Directory"
+title: "Winchester, NV Business Directory"
+type: "towns"
 slug: "winchester-nv"
-state: "NV"
-county: "Clark"
-population: 28568
+state: "nv"
+town_data: "winchester-nv"
 ---

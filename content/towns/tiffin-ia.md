@@ -1,9 +1,7 @@
 ---
-title: "Tiffin, Iowa Business Directory"
+title: "Tiffin, IA Business Directory"
+type: "towns"
 slug: "tiffin-ia"
-town: "Tiffin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2315
+state: "ia"
+town_data: "tiffin-ia"
 ---

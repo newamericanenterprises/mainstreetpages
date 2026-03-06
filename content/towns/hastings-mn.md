@@ -1,9 +1,7 @@
 ---
-title: "Hastings, Minnesota Business Directory"
+title: "Hastings, MN Business Directory"
+type: "towns"
 slug: "hastings-mn"
-town: "Hastings"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 22895
+state: "mn"
+town_data: "hastings-mn"
 ---

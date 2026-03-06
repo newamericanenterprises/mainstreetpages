@@ -1,9 +1,7 @@
 ---
-title: "Morrill, Kansas Business Directory"
+title: "Morrill, KS Business Directory"
+type: "towns"
 slug: "morrill-ks"
-town: "Morrill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 1797
+state: "ks"
+town_data: "morrill-ks"
 ---

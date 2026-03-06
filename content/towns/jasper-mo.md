@@ -1,7 +1,7 @@
 ---
-title: "Jasper, Missouri Business Directory"
+title: "Jasper, MO Business Directory"
+type: "towns"
 slug: "jasper-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "jasper-mo"
 ---

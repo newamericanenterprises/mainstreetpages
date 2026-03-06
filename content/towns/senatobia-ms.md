@@ -1,7 +1,7 @@
 ---
-title: "Senatobia, Mississippi Business Directory"
+title: "Senatobia, MS Business Directory"
+type: "towns"
 slug: "senatobia-ms"
-state: "MS"
-county: "Tate"
-population: 8465
+state: "ms"
+town_data: "senatobia-ms"
 ---

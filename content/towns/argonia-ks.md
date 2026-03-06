@@ -1,9 +1,7 @@
 ---
-title: "Argonia, Kansas Business Directory"
+title: "Argonia, KS Business Directory"
+type: "towns"
 slug: "argonia-ks"
-town: "Argonia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 801
+state: "ks"
+town_data: "argonia-ks"
 ---

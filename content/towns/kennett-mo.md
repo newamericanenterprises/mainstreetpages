@@ -1,7 +1,7 @@
 ---
-title: "Kennett, Missouri Business Directory"
+title: "Kennett, MO Business Directory"
+type: "towns"
 slug: "kennett-mo"
-state: "MO"
-county: "Dunklin"
-population: 10932
+state: "mo"
+town_data: "kennett-mo"
 ---

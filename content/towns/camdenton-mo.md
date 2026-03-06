@@ -1,7 +1,7 @@
 ---
-title: "Camdenton, Missouri Business Directory"
+title: "Camdenton, MO Business Directory"
+type: "towns"
 slug: "camdenton-mo"
-state: "MO"
-county: "Camden"
-population: 4008
+state: "mo"
+town_data: "camdenton-mo"
 ---

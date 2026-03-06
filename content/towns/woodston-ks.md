@@ -1,9 +1,7 @@
 ---
-title: "Woodston, Kansas Business Directory"
+title: "Woodston, KS Business Directory"
+type: "towns"
 slug: "woodston-ks"
-town: "Woodston"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 1170
+state: "ks"
+town_data: "woodston-ks"
 ---

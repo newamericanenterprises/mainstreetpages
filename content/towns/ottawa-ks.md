@@ -1,9 +1,7 @@
 ---
-title: "Ottawa, Kansas Business Directory"
+title: "Ottawa, KS Business Directory"
+type: "towns"
 slug: "ottawa-ks"
-town: "Ottawa"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 12649
+state: "ks"
+town_data: "ottawa-ks"
 ---

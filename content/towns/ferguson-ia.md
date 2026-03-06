@@ -1,9 +1,7 @@
 ---
-title: "Ferguson, Iowa Business Directory"
+title: "Ferguson, IA Business Directory"
+type: "towns"
 slug: "ferguson-ia"
-town: "Ferguson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 1094
+state: "ia"
+town_data: "ferguson-ia"
 ---

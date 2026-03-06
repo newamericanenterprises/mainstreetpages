@@ -1,9 +1,7 @@
 ---
-title: "Plymouth, Massachusetts Business Directory"
+title: "Plymouth, MA Business Directory"
+type: "towns"
 slug: "plymouth-ma"
-town: "Plymouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 61217
+state: "ma"
+town_data: "plymouth-ma"
 ---

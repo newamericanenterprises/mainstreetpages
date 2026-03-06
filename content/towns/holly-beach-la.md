@@ -1,9 +1,7 @@
 ---
-title: "Holly Beach, Louisiana Business Directory"
+title: "Holly Beach, LA Business Directory"
+type: "towns"
 slug: "holly-beach-la"
-town: "Holly Beach"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 333
+state: "la"
+town_data: "holly-beach-la"
 ---

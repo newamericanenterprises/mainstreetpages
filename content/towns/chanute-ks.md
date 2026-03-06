@@ -1,9 +1,7 @@
 ---
-title: "Chanute, Kansas Business Directory"
+title: "Chanute, KS Business Directory"
+type: "towns"
 slug: "chanute-ks"
-town: "Chanute"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 9025
+state: "ks"
+town_data: "chanute-ks"
 ---

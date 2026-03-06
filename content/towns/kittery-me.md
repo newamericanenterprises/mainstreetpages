@@ -1,9 +1,7 @@
 ---
-title: "Kittery, Maine Business Directory"
+title: "Kittery, ME Business Directory"
+type: "towns"
 slug: "kittery-me"
-town: "Kittery"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 9707
+state: "me"
+town_data: "kittery-me"
 ---

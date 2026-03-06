@@ -1,9 +1,7 @@
 ---
-title: "Mayfield, Kentucky Business Directory"
+title: "Mayfield, KY Business Directory"
+type: "towns"
 slug: "mayfield-ky"
-town: "Mayfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Graves"
-population: 9981
+state: "ky"
+town_data: "mayfield-ky"
 ---

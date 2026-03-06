@@ -1,9 +1,7 @@
 ---
-title: "Wilder, Kentucky Business Directory"
+title: "Wilder, KY Business Directory"
+type: "towns"
 slug: "wilder-ky"
-town: "Wilder"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 2977
+state: "ky"
+town_data: "wilder-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Pioche, Nevada Business Directory"
+title: "Pioche, NV Business Directory"
+type: "towns"
 slug: "pioche-nv"
-state: "NV"
-county: "Lincoln"
-population: 956
+state: "nv"
+town_data: "pioche-nv"
 ---

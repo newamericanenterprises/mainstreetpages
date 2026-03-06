@@ -1,9 +1,7 @@
 ---
-title: "Chelsea, Iowa Business Directory"
+title: "Chelsea, IA Business Directory"
+type: "towns"
 slug: "chelsea-ia"
-town: "Chelsea"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2931
+state: "ia"
+town_data: "chelsea-ia"
 ---

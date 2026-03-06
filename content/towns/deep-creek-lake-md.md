@@ -1,9 +1,7 @@
 ---
-title: "Deep Creek Lake, Maryland Business Directory"
+title: "Deep Creek Lake, MD Business Directory"
+type: "towns"
 slug: "deep-creek-lake-md"
-town: "Deep Creek Lake"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 1869
+state: "md"
+town_data: "deep-creek-lake-md"
 ---

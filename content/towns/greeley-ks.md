@@ -1,9 +1,7 @@
 ---
-title: "Greeley, Kansas Business Directory"
+title: "Greeley, KS Business Directory"
+type: "towns"
 slug: "greeley-ks"
-town: "Greeley"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 1046
+state: "ks"
+town_data: "greeley-ks"
 ---

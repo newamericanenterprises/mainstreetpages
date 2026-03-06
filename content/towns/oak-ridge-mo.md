@@ -1,7 +1,7 @@
 ---
-title: "Oak Ridge, Missouri Business Directory"
+title: "Oak Ridge, MO Business Directory"
+type: "towns"
 slug: "oak-ridge-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 227
+state: "mo"
+town_data: "oak-ridge-mo"
 ---

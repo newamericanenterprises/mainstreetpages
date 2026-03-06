@@ -1,9 +1,7 @@
 ---
-title: "Rush City, Minnesota Business Directory"
+title: "Rush City, MN Business Directory"
+type: "towns"
 slug: "rush-city-mn"
-town: "Rush City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 2113
+state: "mn"
+town_data: "rush-city-mn"
 ---

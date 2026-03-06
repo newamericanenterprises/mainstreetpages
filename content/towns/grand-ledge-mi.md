@@ -1,9 +1,7 @@
 ---
-title: "Grand Ledge, Michigan Business Directory"
+title: "Grand Ledge, MI Business Directory"
+type: "towns"
 slug: "grand-ledge-mi"
-town: "Grand Ledge"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 578
+state: "mi"
+town_data: "grand-ledge-mi"
 ---

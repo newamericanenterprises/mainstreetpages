@@ -1,9 +1,7 @@
 ---
-title: "Black River, Michigan Business Directory"
+title: "Black River, MI Business Directory"
+type: "towns"
 slug: "black-river-mi"
-town: "Black River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alcona"
-population: 5408
+state: "mi"
+town_data: "black-river-mi"
 ---

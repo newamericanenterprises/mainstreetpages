@@ -1,9 +1,7 @@
 ---
-title: "Palmer, Kansas Business Directory"
+title: "Palmer, KS Business Directory"
+type: "towns"
 slug: "palmer-ks"
-town: "Palmer"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 439
+state: "ks"
+town_data: "palmer-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Morley, Iowa Business Directory"
+title: "Morley, IA Business Directory"
+type: "towns"
 slug: "morley-ia"
-town: "Morley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 1425
+state: "ia"
+town_data: "morley-ia"
 ---

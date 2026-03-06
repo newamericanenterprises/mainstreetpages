@@ -1,9 +1,7 @@
 ---
-title: "Macksville, Kansas Business Directory"
+title: "Macksville, KS Business Directory"
+type: "towns"
 slug: "macksville-ks"
-town: "Macksville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 1630
+state: "ks"
+town_data: "macksville-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Easton, Maine Business Directory"
+title: "Easton, ME Business Directory"
+type: "towns"
 slug: "easton-me"
-town: "Easton"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1089
+state: "me"
+town_data: "easton-me"
 ---

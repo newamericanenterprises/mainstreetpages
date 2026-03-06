@@ -1,9 +1,7 @@
 ---
-title: "Moorhead, Minnesota Business Directory"
+title: "Moorhead, MN Business Directory"
+type: "towns"
 slug: "moorhead-mn"
-town: "Moorhead"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 44505
+state: "mn"
+town_data: "moorhead-mn"
 ---

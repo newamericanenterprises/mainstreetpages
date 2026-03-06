@@ -1,9 +1,7 @@
 ---
-title: "Henderson, Maryland Business Directory"
+title: "Henderson, MD Business Directory"
+type: "towns"
 slug: "henderson-md"
-town: "Henderson"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 4334
+state: "md"
+town_data: "henderson-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "El Dorado, Kansas Business Directory"
+title: "El Dorado, KS Business Directory"
+type: "towns"
 slug: "el-dorado-ks"
-town: "El Dorado"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 12869
+state: "ks"
+town_data: "el-dorado-ks"
 ---

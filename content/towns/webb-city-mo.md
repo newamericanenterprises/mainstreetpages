@@ -1,7 +1,7 @@
 ---
-title: "Webb City, Missouri Business Directory"
+title: "Webb City, MO Business Directory"
+type: "towns"
 slug: "webb-city-mo"
-state: "MO"
-county: "Jasper"
-population: 11120
+state: "mo"
+town_data: "webb-city-mo"
 ---

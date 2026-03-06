@@ -1,7 +1,7 @@
 ---
-title: "Four Corners, Montana Business Directory"
+title: "Four Corners, MT Business Directory"
+type: "towns"
 slug: "four-corners-mt"
-state: "MT"
-county: "Gallatin"
-population: 4690
+state: "mt"
+town_data: "four-corners-mt"
 ---

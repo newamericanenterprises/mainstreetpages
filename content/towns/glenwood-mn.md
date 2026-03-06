@@ -1,9 +1,7 @@
 ---
-title: "Glenwood, Minnesota Business Directory"
+title: "Glenwood, MN Business Directory"
+type: "towns"
 slug: "glenwood-mn"
-town: "Glenwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 2564
+state: "mn"
+town_data: "glenwood-mn"
 ---

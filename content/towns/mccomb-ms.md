@@ -1,7 +1,7 @@
 ---
-title: "McComb, Mississippi Business Directory"
+title: "Mccomb, MS Business Directory"
+type: "towns"
 slug: "mccomb-ms"
-state: "MS"
-county: "Pike"
-population: 12790
+state: "ms"
+town_data: "mccomb-ms"
 ---

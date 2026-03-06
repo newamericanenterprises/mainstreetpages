@@ -1,9 +1,7 @@
 ---
-title: "New Baltimore, Michigan Business Directory"
+title: "New Baltimore, MI Business Directory"
+type: "towns"
 slug: "new-baltimore-mi"
-town: "New Baltimore"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 4352
+state: "mi"
+town_data: "new-baltimore-mi"
 ---

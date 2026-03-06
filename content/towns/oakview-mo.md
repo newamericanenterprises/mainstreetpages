@@ -1,7 +1,7 @@
 ---
-title: "Oakview, Missouri Business Directory"
+title: "Oakview, MO Business Directory"
+type: "towns"
 slug: "oakview-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "oakview-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Westport Island, Maine Business Directory"
+title: "Westport Island, ME Business Directory"
+type: "towns"
 slug: "westport-island-me"
-town: "Westport Island"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2440
+state: "me"
+town_data: "westport-island-me"
 ---

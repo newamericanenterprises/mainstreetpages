@@ -1,9 +1,7 @@
 ---
-title: "Peterson, Iowa Business Directory"
+title: "Peterson, IA Business Directory"
+type: "towns"
 slug: "peterson-ia"
-town: "Peterson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 1028
+state: "ia"
+town_data: "peterson-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Creighton, Missouri Business Directory"
+title: "Creighton, MO Business Directory"
+type: "towns"
 slug: "creighton-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "creighton-mo"
 ---

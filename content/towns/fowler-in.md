@@ -1,9 +1,7 @@
 ---
-title: "Fowler, Indiana Business Directory"
+title: "Fowler, IN Business Directory"
+type: "towns"
 slug: "fowler-in"
-town: "Fowler"
-state: "Indiana"
-state_abbr: "IN"
-county: "Benton"
-population: 2349
+state: "in"
+town_data: "fowler-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Doolittle, Missouri Business Directory"
+title: "Doolittle, MO Business Directory"
+type: "towns"
 slug: "doolittle-mo"
-state: "MO"
-county: "Phelps"
-population: 1500
+state: "mo"
+town_data: "doolittle-mo"
 ---

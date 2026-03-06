@@ -1,9 +1,7 @@
 ---
-title: "Lawrenceburg, Indiana Business Directory"
+title: "Lawrenceburg, IN Business Directory"
+type: "towns"
 slug: "lawrenceburg-in"
-town: "Lawrenceburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dearborn"
-population: 5042
+state: "in"
+town_data: "lawrenceburg-in"
 ---

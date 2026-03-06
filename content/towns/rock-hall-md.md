@@ -1,9 +1,7 @@
 ---
-title: "Rock Hall, Maryland Business Directory"
+title: "Rock Hall, MD Business Directory"
+type: "towns"
 slug: "rock-hall-md"
-town: "Rock Hall"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 787
+state: "md"
+town_data: "rock-hall-md"
 ---

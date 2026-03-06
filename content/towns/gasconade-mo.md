@@ -1,7 +1,7 @@
 ---
-title: "Gasconade, Missouri Business Directory"
+title: "Gasconade, MO Business Directory"
+type: "towns"
 slug: "gasconade-mo"
-state: "MO"
-county: "Gasconade"
-population: 1500
+state: "mo"
+town_data: "gasconade-mo"
 ---

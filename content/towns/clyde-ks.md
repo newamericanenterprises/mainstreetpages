@@ -1,9 +1,7 @@
 ---
-title: "Clyde, Kansas Business Directory"
+title: "Clyde, KS Business Directory"
+type: "towns"
 slug: "clyde-ks"
-town: "Clyde"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 2980
+state: "ks"
+town_data: "clyde-ks"
 ---

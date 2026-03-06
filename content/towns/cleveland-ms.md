@@ -1,7 +1,7 @@
 ---
-title: "Cleveland, Mississippi Business Directory"
+title: "Cleveland, MS Business Directory"
+type: "towns"
 slug: "cleveland-ms"
-state: "MS"
-county: "Bolivar"
-population: 11357
+state: "ms"
+town_data: "cleveland-ms"
 ---

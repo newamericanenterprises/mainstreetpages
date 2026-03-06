@@ -1,7 +1,7 @@
 ---
-title: "Lilbourn, Missouri Business Directory"
+title: "Lilbourn, MO Business Directory"
+type: "towns"
 slug: "lilbourn-mo"
-state: "MO"
-county: "New Madrid"
-population: 1108
+state: "mo"
+town_data: "lilbourn-mo"
 ---

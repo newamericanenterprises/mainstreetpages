@@ -1,9 +1,7 @@
 ---
-title: "Mount Ayr, Indiana Business Directory"
+title: "Mount Ayr, IN Business Directory"
+type: "towns"
 slug: "mount-ayr-in"
-town: "Mount Ayr"
-state: "Indiana"
-state_abbr: "IN"
-county: "Newton"
-population: 4420
+state: "in"
+town_data: "mount-ayr-in"
 ---

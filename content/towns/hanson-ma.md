@@ -1,9 +1,7 @@
 ---
-title: "Hanson, Massachusetts Business Directory"
+title: "Hanson, MA Business Directory"
+type: "towns"
 slug: "hanson-ma"
-town: "Hanson"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 5073
+state: "ma"
+town_data: "hanson-ma"
 ---

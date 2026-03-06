@@ -1,9 +1,7 @@
 ---
-title: "Andover, Minnesota Business Directory"
+title: "Andover, MN Business Directory"
+type: "towns"
 slug: "andover-mn"
-town: "Andover"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 36393
+state: "mn"
+town_data: "andover-mn"
 ---

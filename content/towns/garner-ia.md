@@ -1,9 +1,7 @@
 ---
-title: "Garner, Iowa Business Directory"
+title: "Garner, IA Business Directory"
+type: "towns"
 slug: "garner-ia"
-town: "Garner"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 3129
+state: "ia"
+town_data: "garner-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mount Olive, Mississippi Business Directory"
+title: "Mount Olive, MS Business Directory"
+type: "towns"
 slug: "mount-olive-ms"
-state: "MS"
-county: "Covington"
-population: 963
+state: "ms"
+town_data: "mount-olive-ms"
 ---

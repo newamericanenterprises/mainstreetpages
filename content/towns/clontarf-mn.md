@@ -1,9 +1,7 @@
 ---
-title: "Clontarf, Minnesota Business Directory"
+title: "Clontarf, MN Business Directory"
+type: "towns"
 slug: "clontarf-mn"
-town: "Clontarf"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 883
+state: "mn"
+town_data: "clontarf-mn"
 ---

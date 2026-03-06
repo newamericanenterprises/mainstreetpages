@@ -1,9 +1,7 @@
 ---
-title: "Randolph, Minnesota Business Directory"
+title: "Randolph, MN Business Directory"
+type: "towns"
 slug: "randolph-mn"
-town: "Randolph"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 3264
+state: "mn"
+town_data: "randolph-mn"
 ---

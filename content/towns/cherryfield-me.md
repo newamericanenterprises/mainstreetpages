@@ -1,9 +1,7 @@
 ---
-title: "Cherryfield, Maine Business Directory"
+title: "Cherryfield, ME Business Directory"
+type: "towns"
 slug: "cherryfield-me"
-town: "Cherryfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 643
+state: "me"
+town_data: "cherryfield-me"
 ---

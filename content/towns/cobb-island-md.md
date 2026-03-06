@@ -1,9 +1,7 @@
 ---
-title: "Cobb Island, Maryland Business Directory"
+title: "Cobb Island, MD Business Directory"
+type: "towns"
 slug: "cobb-island-md"
-town: "Cobb Island"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 616
+state: "md"
+town_data: "cobb-island-md"
 ---

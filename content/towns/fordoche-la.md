@@ -1,9 +1,7 @@
 ---
-title: "Fordoche, Louisiana Business Directory"
+title: "Fordoche, LA Business Directory"
+type: "towns"
 slug: "fordoche-la"
-town: "Fordoche"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 2009
+state: "la"
+town_data: "fordoche-la"
 ---

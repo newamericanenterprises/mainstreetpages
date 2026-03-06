@@ -1,9 +1,7 @@
 ---
-title: "Fall River, Kansas Business Directory"
+title: "Fall River, KS Business Directory"
+type: "towns"
 slug: "fall-river-ks"
-town: "Fall River"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 765
+state: "ks"
+town_data: "fall-river-ks"
 ---

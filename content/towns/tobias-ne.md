@@ -1,7 +1,7 @@
 ---
-title: "Tobias, Nebraska Business Directory"
+title: "Tobias, NE Business Directory"
+type: "towns"
 slug: "tobias-ne"
-state: "NE"
-county: "Saline"
-population: 500
+state: "ne"
+town_data: "tobias-ne"
 ---

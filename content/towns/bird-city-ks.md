@@ -1,9 +1,7 @@
 ---
-title: "Bird City, Kansas Business Directory"
+title: "Bird City, KS Business Directory"
+type: "towns"
 slug: "bird-city-ks"
-town: "Bird City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cheyenne"
-population: 1934
+state: "ks"
+town_data: "bird-city-ks"
 ---

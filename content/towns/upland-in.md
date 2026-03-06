@@ -1,9 +1,7 @@
 ---
-title: "Upland, Indiana Business Directory"
+title: "Upland, IN Business Directory"
+type: "towns"
 slug: "upland-in"
-town: "Upland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 3845
+state: "in"
+town_data: "upland-in"
 ---

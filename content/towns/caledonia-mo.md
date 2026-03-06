@@ -1,7 +1,7 @@
 ---
-title: "Caledonia, Missouri Business Directory"
+title: "Caledonia, MO Business Directory"
+type: "towns"
 slug: "caledonia-mo"
-state: "MO"
-county: "Washington"
-population: 1500
+state: "mo"
+town_data: "caledonia-mo"
 ---

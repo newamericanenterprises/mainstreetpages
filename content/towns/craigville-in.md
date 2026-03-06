@@ -1,9 +1,7 @@
 ---
-title: "Craigville, Indiana Business Directory"
+title: "Craigville, IN Business Directory"
+type: "towns"
 slug: "craigville-in"
-town: "Craigville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 3270
+state: "in"
+town_data: "craigville-in"
 ---

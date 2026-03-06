@@ -1,9 +1,7 @@
 ---
-title: "Red Wing, Minnesota Business Directory"
+title: "Red Wing, MN Business Directory"
+type: "towns"
 slug: "red-wing-mn"
-town: "Red Wing"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 16459
+state: "mn"
+town_data: "red-wing-mn"
 ---

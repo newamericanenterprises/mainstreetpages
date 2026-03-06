@@ -1,9 +1,7 @@
 ---
-title: "Mermentau, Louisiana Business Directory"
+title: "Mermentau, LA Business Directory"
+type: "towns"
 slug: "mermentau-la"
-town: "Mermentau"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 610
+state: "la"
+town_data: "mermentau-la"
 ---

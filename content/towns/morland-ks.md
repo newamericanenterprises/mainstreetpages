@@ -1,9 +1,7 @@
 ---
-title: "Morland, Kansas Business Directory"
+title: "Morland, KS Business Directory"
+type: "towns"
 slug: "morland-ks"
-town: "Morland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Graham"
-population: 1189
+state: "ks"
+town_data: "morland-ks"
 ---

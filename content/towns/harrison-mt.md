@@ -1,7 +1,7 @@
 ---
-title: "Harrison, Montana Business Directory"
+title: "Harrison, MT Business Directory"
+type: "towns"
 slug: "harrison-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "harrison-mt"
 ---

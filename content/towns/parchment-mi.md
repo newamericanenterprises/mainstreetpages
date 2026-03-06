@@ -1,9 +1,7 @@
 ---
-title: "Parchment, Michigan Business Directory"
+title: "Parchment, MI Business Directory"
+type: "towns"
 slug: "parchment-mi"
-town: "Parchment"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 3791
+state: "mi"
+town_data: "parchment-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Nassau, Minnesota Business Directory"
+title: "Nassau, MN Business Directory"
+type: "towns"
 slug: "nassau-mn"
-town: "Nassau"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 2060
+state: "mn"
+town_data: "nassau-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Louise, Mississippi Business Directory"
+title: "Louise, MS Business Directory"
+type: "towns"
 slug: "louise-ms"
-state: "MS"
-county: "Humphreys"
-population: 246
+state: "ms"
+town_data: "louise-ms"
 ---

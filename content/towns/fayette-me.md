@@ -1,9 +1,7 @@
 ---
-title: "Fayette, Maine Business Directory"
+title: "Fayette, ME Business Directory"
+type: "towns"
 slug: "fayette-me"
-town: "Fayette"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2608
+state: "me"
+town_data: "fayette-me"
 ---

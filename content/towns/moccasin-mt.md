@@ -1,7 +1,7 @@
 ---
-title: "Moccasin, Montana Business Directory"
+title: "Moccasin, MT Business Directory"
+type: "towns"
 slug: "moccasin-mt"
-state: "MT"
-county: "Judith Basin"
-population: 500
+state: "mt"
+town_data: "moccasin-mt"
 ---

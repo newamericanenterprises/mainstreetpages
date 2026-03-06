@@ -1,7 +1,7 @@
 ---
-title: "Como, Mississippi Business Directory"
+title: "Como, MS Business Directory"
+type: "towns"
 slug: "como-ms"
-state: "MS"
-county: "Panola"
-population: 1279
+state: "ms"
+town_data: "como-ms"
 ---

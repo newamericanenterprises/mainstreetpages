@@ -1,9 +1,7 @@
 ---
-title: "Rockport, Massachusetts Business Directory"
+title: "Rockport, MA Business Directory"
+type: "towns"
 slug: "rockport-ma"
-town: "Rockport"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 5556
+state: "ma"
+town_data: "rockport-ma"
 ---

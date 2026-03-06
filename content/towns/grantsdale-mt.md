@@ -1,7 +1,7 @@
 ---
-title: "Grantsdale, Montana Business Directory"
+title: "Grantsdale, MT Business Directory"
+type: "towns"
 slug: "grantsdale-mt"
-state: "MT"
-county: "Ravalli"
-population: 500
+state: "mt"
+town_data: "grantsdale-mt"
 ---

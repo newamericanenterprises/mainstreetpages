@@ -1,7 +1,7 @@
 ---
-title: "Piedmont, Missouri Business Directory"
+title: "Piedmont, MO Business Directory"
+type: "towns"
 slug: "piedmont-mo"
-state: "MO"
-county: "Wayne"
-population: 1970
+state: "mo"
+town_data: "piedmont-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mentone, Indiana Business Directory"
+title: "Mentone, IN Business Directory"
+type: "towns"
 slug: "mentone-in"
-town: "Mentone"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 568
+state: "in"
+town_data: "mentone-in"
 ---

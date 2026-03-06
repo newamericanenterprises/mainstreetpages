@@ -1,9 +1,7 @@
 ---
-title: "Wellman, Iowa Business Directory"
+title: "Wellman, IA Business Directory"
+type: "towns"
 slug: "wellman-ia"
-town: "Wellman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 3079
+state: "ia"
+town_data: "wellman-ia"
 ---

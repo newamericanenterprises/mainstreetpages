@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Louisiana Business Directory"
+title: "Richmond, LA Business Directory"
+type: "towns"
 slug: "richmond-la"
-town: "Richmond"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Madison"
-population: 2995
+state: "la"
+town_data: "richmond-la"
 ---

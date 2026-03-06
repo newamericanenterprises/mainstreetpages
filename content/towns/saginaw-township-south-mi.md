@@ -1,9 +1,7 @@
 ---
-title: "Saginaw Township South, Michigan Business Directory"
+title: "Saginaw Township South, MI Business Directory"
+type: "towns"
 slug: "saginaw-township-south-mi"
-town: "Saginaw Township South"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 4502
+state: "mi"
+town_data: "saginaw-township-south-mi"
 ---

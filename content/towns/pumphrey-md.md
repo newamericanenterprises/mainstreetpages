@@ -1,9 +1,7 @@
 ---
-title: "Pumphrey, Maryland Business Directory"
+title: "Pumphrey, MD Business Directory"
+type: "towns"
 slug: "pumphrey-md"
-town: "Pumphrey"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 3768
+state: "md"
+town_data: "pumphrey-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sonora, Kentucky Business Directory"
+title: "Sonora, KY Business Directory"
+type: "towns"
 slug: "sonora-ky"
-town: "Sonora"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 2895
+state: "ky"
+town_data: "sonora-ky"
 ---

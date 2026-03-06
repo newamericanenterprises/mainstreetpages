@@ -1,9 +1,7 @@
 ---
-title: "McKee, Kentucky Business Directory"
+title: "McKee, KY Business Directory"
+type: "towns"
 slug: "mckee-ky"
-town: "McKee"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jackson"
-population: 826
+state: "ky"
+town_data: "mckee-ky"
 ---

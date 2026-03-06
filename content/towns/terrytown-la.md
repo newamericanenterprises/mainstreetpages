@@ -1,9 +1,7 @@
 ---
-title: "Terrytown, Louisiana Business Directory"
+title: "Terrytown, LA Business Directory"
+type: "towns"
 slug: "terrytown-la"
-town: "Terrytown"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 24866
+state: "la"
+town_data: "terrytown-la"
 ---

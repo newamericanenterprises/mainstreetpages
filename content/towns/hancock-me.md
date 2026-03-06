@@ -1,9 +1,7 @@
 ---
-title: "Hancock, Maine Business Directory"
+title: "Hancock, ME Business Directory"
+type: "towns"
 slug: "hancock-me"
-town: "Hancock"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1533
+state: "me"
+town_data: "hancock-me"
 ---

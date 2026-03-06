@@ -1,9 +1,7 @@
 ---
-title: "Elba, Minnesota Business Directory"
+title: "Elba, MN Business Directory"
+type: "towns"
 slug: "elba-mn"
-town: "Elba"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 2951
+state: "mn"
+town_data: "elba-mn"
 ---

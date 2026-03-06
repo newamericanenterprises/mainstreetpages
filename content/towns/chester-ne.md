@@ -1,7 +1,7 @@
 ---
-title: "Chester, Nebraska Business Directory"
+title: "Chester, NE Business Directory"
+type: "towns"
 slug: "chester-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "chester-ne"
 ---

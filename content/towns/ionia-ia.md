@@ -1,9 +1,7 @@
 ---
-title: "Ionia, Iowa Business Directory"
+title: "Ionia, IA Business Directory"
+type: "towns"
 slug: "ionia-ia"
-town: "Ionia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 1332
+state: "ia"
+town_data: "ionia-ia"
 ---

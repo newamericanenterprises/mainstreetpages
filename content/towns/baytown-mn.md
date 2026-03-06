@@ -1,9 +1,7 @@
 ---
-title: "Baytown, Minnesota Business Directory"
+title: "Baytown, MN Business Directory"
+type: "towns"
 slug: "baytown-mn"
-town: "Baytown"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1290
+state: "mn"
+town_data: "baytown-mn"
 ---

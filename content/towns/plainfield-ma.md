@@ -1,9 +1,7 @@
 ---
-title: "Plainfield, Massachusetts Business Directory"
+title: "Plainfield, MA Business Directory"
+type: "towns"
 slug: "plainfield-ma"
-town: "Plainfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 7249
+state: "ma"
+town_data: "plainfield-ma"
 ---

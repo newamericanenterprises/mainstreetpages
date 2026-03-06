@@ -1,9 +1,7 @@
 ---
-title: "Lohrville, Iowa Business Directory"
+title: "Lohrville, IA Business Directory"
+type: "towns"
 slug: "lohrville-ia"
-town: "Lohrville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 3083
+state: "ia"
+town_data: "lohrville-ia"
 ---

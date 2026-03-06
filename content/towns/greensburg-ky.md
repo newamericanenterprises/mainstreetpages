@@ -1,9 +1,7 @@
 ---
-title: "Greensburg, Kentucky Business Directory"
+title: "Greensburg, KY Business Directory"
+type: "towns"
 slug: "greensburg-ky"
-town: "Greensburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Green"
-population: 2162
+state: "ky"
+town_data: "greensburg-ky"
 ---

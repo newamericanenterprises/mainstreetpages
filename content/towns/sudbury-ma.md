@@ -1,9 +1,7 @@
 ---
-title: "Sudbury, Massachusetts Business Directory"
+title: "Sudbury, MA Business Directory"
+type: "towns"
 slug: "sudbury-ma"
-town: "Sudbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 3136
+state: "ma"
+town_data: "sudbury-ma"
 ---

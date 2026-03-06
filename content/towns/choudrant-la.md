@@ -1,9 +1,7 @@
 ---
-title: "Choudrant, Louisiana Business Directory"
+title: "Choudrant, LA Business Directory"
+type: "towns"
 slug: "choudrant-la"
-town: "Choudrant"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 1023
+state: "la"
+town_data: "choudrant-la"
 ---

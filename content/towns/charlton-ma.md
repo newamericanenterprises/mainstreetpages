@@ -1,9 +1,7 @@
 ---
-title: "Charlton, Massachusetts Business Directory"
+title: "Charlton, MA Business Directory"
+type: "towns"
 slug: "charlton-ma"
-town: "Charlton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1600
+state: "ma"
+town_data: "charlton-ma"
 ---

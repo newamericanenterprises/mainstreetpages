@@ -1,9 +1,7 @@
 ---
-title: "Little Lake, Michigan Business Directory"
+title: "Little Lake, MI Business Directory"
+type: "towns"
 slug: "little-lake-mi"
-town: "Little Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 5328
+state: "mi"
+town_data: "little-lake-mi"
 ---

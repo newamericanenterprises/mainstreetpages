@@ -1,7 +1,7 @@
 ---
-title: "Lund, Nevada Business Directory"
+title: "Lund, NV Business Directory"
+type: "towns"
 slug: "lund-nv"
-state: "NV"
-county: "White Pine"
-population: 207
+state: "nv"
+town_data: "lund-nv"
 ---

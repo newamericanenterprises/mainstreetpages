@@ -1,9 +1,7 @@
 ---
-title: "Beltrami, Minnesota Business Directory"
+title: "Beltrami, MN Business Directory"
+type: "towns"
 slug: "beltrami-mn"
-town: "Beltrami"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 495
+state: "mn"
+town_data: "beltrami-mn"
 ---

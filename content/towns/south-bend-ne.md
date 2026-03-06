@@ -1,7 +1,7 @@
 ---
-title: "South Bend, Nebraska Business Directory"
+title: "South Bend, NE Business Directory"
+type: "towns"
 slug: "south-bend-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "south-bend-ne"
 ---

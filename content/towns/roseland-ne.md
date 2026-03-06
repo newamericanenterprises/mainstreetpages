@@ -1,7 +1,7 @@
 ---
-title: "Roseland, Nebraska Business Directory"
+title: "Roseland, NE Business Directory"
+type: "towns"
 slug: "roseland-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "roseland-ne"
 ---

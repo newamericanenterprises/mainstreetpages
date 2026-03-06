@@ -1,9 +1,7 @@
 ---
-title: "Highland, Kansas Business Directory"
+title: "Highland, KS Business Directory"
+type: "towns"
 slug: "highland-ks"
-town: "Highland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 1115
+state: "ks"
+town_data: "highland-ks"
 ---

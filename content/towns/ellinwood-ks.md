@@ -1,9 +1,7 @@
 ---
-title: "Ellinwood, Kansas Business Directory"
+title: "Ellinwood, KS Business Directory"
+type: "towns"
 slug: "ellinwood-ks"
-town: "Ellinwood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 1612
+state: "ks"
+town_data: "ellinwood-ks"
 ---

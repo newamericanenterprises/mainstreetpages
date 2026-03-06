@@ -1,7 +1,7 @@
 ---
-title: "Moapa, Nevada Business Directory"
+title: "Moapa, NV Business Directory"
+type: "towns"
 slug: "moapa-nv"
-state: "NV"
-county: "Clark"
-population: 995
+state: "nv"
+town_data: "moapa-nv"
 ---

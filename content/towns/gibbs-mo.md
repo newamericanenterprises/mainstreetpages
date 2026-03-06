@@ -1,7 +1,7 @@
 ---
-title: "Gibbs, Missouri Business Directory"
+title: "Gibbs, MO Business Directory"
+type: "towns"
 slug: "gibbs-mo"
-state: "MO"
-county: "Adair"
-population: 1500
+state: "mo"
+town_data: "gibbs-mo"
 ---

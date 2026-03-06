@@ -1,9 +1,7 @@
 ---
-title: "Coushatta, Louisiana Business Directory"
+title: "Coushatta, LA Business Directory"
+type: "towns"
 slug: "coushatta-la"
-town: "Coushatta"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Red River"
-population: 1967
+state: "la"
+town_data: "coushatta-la"
 ---

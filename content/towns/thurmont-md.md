@@ -1,9 +1,7 @@
 ---
-title: "Thurmont, Maryland Business Directory"
+title: "Thurmont, MD Business Directory"
+type: "towns"
 slug: "thurmont-md"
-town: "Thurmont"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 6744
+state: "md"
+town_data: "thurmont-md"
 ---

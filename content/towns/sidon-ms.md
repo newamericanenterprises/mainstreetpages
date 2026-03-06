@@ -1,7 +1,7 @@
 ---
-title: "Sidon, Mississippi Business Directory"
+title: "Sidon, MS Business Directory"
+type: "towns"
 slug: "sidon-ms"
-state: "MS"
-county: "Leflore"
-population: 520
+state: "ms"
+town_data: "sidon-ms"
 ---

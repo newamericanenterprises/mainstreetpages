@@ -1,7 +1,7 @@
 ---
-title: "Leakesville, Mississippi Business Directory"
+title: "Leakesville, MS Business Directory"
+type: "towns"
 slug: "leakesville-ms"
-state: "MS"
-county: "Greene"
-population: 916
+state: "ms"
+town_data: "leakesville-ms"
 ---

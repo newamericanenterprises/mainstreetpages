@@ -1,7 +1,7 @@
 ---
-title: "Atkinson, Nebraska Business Directory"
+title: "Atkinson, NE Business Directory"
+type: "towns"
 slug: "atkinson-ne"
-state: "NE"
-county: "Holt"
-population: 1245
+state: "ne"
+town_data: "atkinson-ne"
 ---

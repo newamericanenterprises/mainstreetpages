@@ -1,9 +1,7 @@
 ---
-title: "Revere, Minnesota Business Directory"
+title: "Revere, MN Business Directory"
+type: "towns"
 slug: "revere-mn"
-town: "Revere"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 3047
+state: "mn"
+town_data: "revere-mn"
 ---

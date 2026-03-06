@@ -1,7 +1,7 @@
 ---
-title: "Purvis, Mississippi Business Directory"
+title: "Purvis, MS Business Directory"
+type: "towns"
 slug: "purvis-ms"
-state: "MS"
-county: "Lamar"
-population: 2167
+state: "ms"
+town_data: "purvis-ms"
 ---

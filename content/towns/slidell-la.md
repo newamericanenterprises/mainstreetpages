@@ -1,9 +1,7 @@
 ---
-title: "Slidell, Louisiana Business Directory"
+title: "Slidell, LA Business Directory"
+type: "towns"
 slug: "slidell-la"
-town: "Slidell"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 28198
+state: "la"
+town_data: "slidell-la"
 ---

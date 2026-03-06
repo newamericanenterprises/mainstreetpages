@@ -1,9 +1,7 @@
 ---
-title: "Geneva, Indiana Business Directory"
+title: "Geneva, IN Business Directory"
+type: "towns"
 slug: "geneva-in"
-town: "Geneva"
-state: "Indiana"
-state_abbr: "IN"
-county: "Adams"
-population: 2194
+state: "in"
+town_data: "geneva-in"
 ---

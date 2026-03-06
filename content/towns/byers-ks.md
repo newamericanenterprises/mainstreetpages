@@ -1,9 +1,7 @@
 ---
-title: "Byers, Kansas Business Directory"
+title: "Byers, KS Business Directory"
+type: "towns"
 slug: "byers-ks"
-town: "Byers"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 1287
+state: "ks"
+town_data: "byers-ks"
 ---

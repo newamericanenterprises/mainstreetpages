@@ -1,9 +1,7 @@
 ---
-title: "Temperance, Michigan Business Directory"
+title: "Temperance, MI Business Directory"
+type: "towns"
 slug: "temperance-mi"
-town: "Temperance"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 1263
+state: "mi"
+town_data: "temperance-mi"
 ---

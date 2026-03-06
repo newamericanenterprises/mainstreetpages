@@ -1,9 +1,7 @@
 ---
-title: "Edna, Kansas Business Directory"
+title: "Edna, KS Business Directory"
+type: "towns"
 slug: "edna-ks"
-town: "Edna"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 1304
+state: "ks"
+town_data: "edna-ks"
 ---

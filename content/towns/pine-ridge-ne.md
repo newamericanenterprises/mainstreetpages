@@ -1,7 +1,7 @@
 ---
-title: "Pine Ridge, Nebraska Business Directory"
+title: "Pine Ridge, NE Business Directory"
+type: "towns"
 slug: "pine-ridge-ne"
-state: "NE"
-county: "Dawes"
-population: 500
+state: "ne"
+town_data: "pine-ridge-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mechanic Falls, Maine Business Directory"
+title: "Mechanic Falls, ME Business Directory"
+type: "towns"
 slug: "mechanic-falls-me"
-town: "Mechanic Falls"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 1202
+state: "me"
+town_data: "mechanic-falls-me"
 ---

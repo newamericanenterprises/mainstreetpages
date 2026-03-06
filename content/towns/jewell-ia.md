@@ -1,9 +1,7 @@
 ---
-title: "Jewell, Iowa Business Directory"
+title: "Jewell, IA Business Directory"
+type: "towns"
 slug: "jewell-ia"
-town: "Jewell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 1901
+state: "ia"
+town_data: "jewell-ia"
 ---

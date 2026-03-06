@@ -1,9 +1,7 @@
 ---
-title: "Atwater, Minnesota Business Directory"
+title: "Atwater, MN Business Directory"
+type: "towns"
 slug: "atwater-mn"
-town: "Atwater"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1751
+state: "mn"
+town_data: "atwater-mn"
 ---

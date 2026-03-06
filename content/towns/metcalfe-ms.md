@@ -1,7 +1,7 @@
 ---
-title: "Metcalfe, Mississippi Business Directory"
+title: "Metcalfe, MS Business Directory"
+type: "towns"
 slug: "metcalfe-ms"
-state: "MS"
-county: "Washington"
-population: 1029
+state: "ms"
+town_data: "metcalfe-ms"
 ---

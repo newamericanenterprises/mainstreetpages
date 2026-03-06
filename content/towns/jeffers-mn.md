@@ -1,9 +1,7 @@
 ---
-title: "Jeffers, Minnesota Business Directory"
+title: "Jeffers, MN Business Directory"
+type: "towns"
 slug: "jeffers-mn"
-town: "Jeffers"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cottonwood"
-population: 1118
+state: "mn"
+town_data: "jeffers-mn"
 ---

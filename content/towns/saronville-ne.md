@@ -1,7 +1,7 @@
 ---
-title: "Saronville, Nebraska Business Directory"
+title: "Saronville, NE Business Directory"
+type: "towns"
 slug: "saronville-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "saronville-ne"
 ---

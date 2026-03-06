@@ -1,7 +1,7 @@
 ---
-title: "Glenvil, Nebraska Business Directory"
+title: "Glenvil, NE Business Directory"
+type: "towns"
 slug: "glenvil-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "glenvil-ne"
 ---

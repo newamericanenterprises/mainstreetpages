@@ -1,9 +1,7 @@
 ---
-title: "Arco, Minnesota Business Directory"
+title: "Arco, MN Business Directory"
+type: "towns"
 slug: "arco-mn"
-town: "Arco"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lincoln"
-population: 1359
+state: "mn"
+town_data: "arco-mn"
 ---

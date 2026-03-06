@@ -1,9 +1,7 @@
 ---
-title: "Pennfield, Michigan Business Directory"
+title: "Pennfield, MI Business Directory"
+type: "towns"
 slug: "pennfield-mi"
-town: "Pennfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 1934
+state: "mi"
+town_data: "pennfield-mi"
 ---

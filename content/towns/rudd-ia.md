@@ -1,9 +1,7 @@
 ---
-title: "Rudd, Iowa Business Directory"
+title: "Rudd, IA Business Directory"
+type: "towns"
 slug: "rudd-ia"
-town: "Rudd"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 3043
+state: "ia"
+town_data: "rudd-ia"
 ---

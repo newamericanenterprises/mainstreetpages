@@ -1,7 +1,7 @@
 ---
-title: "Livingston, Montana Business Directory"
+title: "Livingston, MT Business Directory"
+type: "towns"
 slug: "livingston-mt"
-state: "MT"
-county: "Park"
-population: 8370
+state: "mt"
+town_data: "livingston-mt"
 ---

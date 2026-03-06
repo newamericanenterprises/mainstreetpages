@@ -1,9 +1,7 @@
 ---
-title: "Wakefield, Massachusetts Business Directory"
+title: "Wakefield, MA Business Directory"
+type: "towns"
 slug: "wakefield-ma"
-town: "Wakefield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 27045
+state: "ma"
+town_data: "wakefield-ma"
 ---

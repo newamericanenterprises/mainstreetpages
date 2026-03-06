@@ -1,9 +1,7 @@
 ---
-title: "Russellville, Indiana Business Directory"
+title: "Russellville, IN Business Directory"
+type: "towns"
 slug: "russellville-in"
-town: "Russellville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 3418
+state: "in"
+town_data: "russellville-in"
 ---

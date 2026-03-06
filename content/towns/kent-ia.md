@@ -1,9 +1,7 @@
 ---
-title: "Kent, Iowa Business Directory"
+title: "Kent, IA Business Directory"
+type: "towns"
 slug: "kent-ia"
-town: "Kent"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 576
+state: "ia"
+town_data: "kent-ia"
 ---

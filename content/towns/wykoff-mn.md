@@ -1,9 +1,7 @@
 ---
-title: "Wykoff, Minnesota Business Directory"
+title: "Wykoff, MN Business Directory"
+type: "towns"
 slug: "wykoff-mn"
-town: "Wykoff"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 1880
+state: "mn"
+town_data: "wykoff-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Middletown, Kentucky Business Directory"
+title: "Middletown, KY Business Directory"
+type: "towns"
 slug: "middletown-ky"
-town: "Middletown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1905
+state: "ky"
+town_data: "middletown-ky"
 ---

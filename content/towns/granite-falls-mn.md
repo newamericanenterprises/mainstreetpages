@@ -1,9 +1,7 @@
 ---
-title: "Granite Falls, Minnesota Business Directory"
+title: "Granite Falls, MN Business Directory"
+type: "towns"
 slug: "granite-falls-mn"
-town: "Granite Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 3242
+state: "mn"
+town_data: "granite-falls-mn"
 ---

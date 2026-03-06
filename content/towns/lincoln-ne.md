@@ -1,7 +1,7 @@
 ---
-title: "Lincoln, Nebraska Business Directory"
+title: "Lincoln, NE Business Directory"
+type: "towns"
 slug: "lincoln-ne"
-state: "NE"
-county: "Lancaster"
-population: 291082
+state: "ne"
+town_data: "lincoln-ne"
 ---

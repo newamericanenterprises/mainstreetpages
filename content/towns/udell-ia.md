@@ -1,9 +1,7 @@
 ---
-title: "Udell, Iowa Business Directory"
+title: "Udell, IA Business Directory"
+type: "towns"
 slug: "udell-ia"
-town: "Udell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 824
+state: "ia"
+town_data: "udell-ia"
 ---

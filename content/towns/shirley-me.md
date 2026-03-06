@@ -1,9 +1,7 @@
 ---
-title: "Shirley, Maine Business Directory"
+title: "Shirley, ME Business Directory"
+type: "towns"
 slug: "shirley-me"
-town: "Shirley"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 939
+state: "me"
+town_data: "shirley-me"
 ---

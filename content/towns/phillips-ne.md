@@ -1,7 +1,7 @@
 ---
-title: "Phillips, Nebraska Business Directory"
+title: "Phillips, NE Business Directory"
+type: "towns"
 slug: "phillips-ne"
-state: "NE"
-county: "Hamilton"
-population: 500
+state: "ne"
+town_data: "phillips-ne"
 ---

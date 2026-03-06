@@ -1,9 +1,7 @@
 ---
-title: "Big Rapids, Michigan Business Directory"
+title: "Big Rapids, MI Business Directory"
+type: "towns"
 slug: "big-rapids-mi"
-town: "Big Rapids"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mecosta"
-population: 10601
+state: "mi"
+town_data: "big-rapids-mi"
 ---

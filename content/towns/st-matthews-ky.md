@@ -1,9 +1,7 @@
 ---
-title: "St. Matthews, Kentucky Business Directory"
+title: "St. Matthews, KY Business Directory"
+type: "towns"
 slug: "st-matthews-ky"
-town: "St. Matthews"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 18215
+state: "ky"
+town_data: "st-matthews-ky"
 ---

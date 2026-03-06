@@ -1,9 +1,7 @@
 ---
-title: "Pleasant Hill, Louisiana Business Directory"
+title: "Pleasant Hill, LA Business Directory"
+type: "towns"
 slug: "pleasant-hill-la"
-town: "Pleasant Hill"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 2015
+state: "la"
+town_data: "pleasant-hill-la"
 ---

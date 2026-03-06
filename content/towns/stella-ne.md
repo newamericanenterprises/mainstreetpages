@@ -1,7 +1,7 @@
 ---
-title: "Stella, Nebraska Business Directory"
+title: "Stella, NE Business Directory"
+type: "towns"
 slug: "stella-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "stella-ne"
 ---

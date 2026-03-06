@@ -1,9 +1,7 @@
 ---
-title: "Cheboygan, Michigan Business Directory"
+title: "Cheboygan, MI Business Directory"
+type: "towns"
 slug: "cheboygan-mi"
-town: "Cheboygan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 2242
+state: "mi"
+town_data: "cheboygan-mi"
 ---

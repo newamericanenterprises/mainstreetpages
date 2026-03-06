@@ -1,9 +1,7 @@
 ---
-title: "De Graff, Minnesota Business Directory"
+title: "De Graff, MN Business Directory"
+type: "towns"
 slug: "de-graff-mn"
-town: "De Graff"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 2955
+state: "mn"
+town_data: "de-graff-mn"
 ---

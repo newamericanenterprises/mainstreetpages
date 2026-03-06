@@ -1,9 +1,7 @@
 ---
-title: "Booneville, Kentucky Business Directory"
+title: "Booneville, KY Business Directory"
+type: "towns"
 slug: "booneville-ky"
-town: "Booneville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Owsley"
-population: 75
+state: "ky"
+town_data: "booneville-ky"
 ---

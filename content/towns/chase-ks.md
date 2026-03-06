@@ -1,9 +1,7 @@
 ---
-title: "Chase, Kansas Business Directory"
+title: "Chase, KS Business Directory"
+type: "towns"
 slug: "chase-ks"
-town: "Chase"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 2539
+state: "ks"
+town_data: "chase-ks"
 ---

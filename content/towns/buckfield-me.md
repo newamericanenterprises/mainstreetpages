@@ -1,9 +1,7 @@
 ---
-title: "Buckfield, Maine Business Directory"
+title: "Buckfield, ME Business Directory"
+type: "towns"
 slug: "buckfield-me"
-town: "Buckfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2461
+state: "me"
+town_data: "buckfield-me"
 ---

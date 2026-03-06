@@ -1,9 +1,7 @@
 ---
-title: "Livingston, Kentucky Business Directory"
+title: "Livingston, KY Business Directory"
+type: "towns"
 slug: "livingston-ky"
-town: "Livingston"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Rockcastle"
-population: 771
+state: "ky"
+town_data: "livingston-ky"
 ---

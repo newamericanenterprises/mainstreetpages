@@ -1,9 +1,7 @@
 ---
-title: "Calvert City, Kentucky Business Directory"
+title: "Calvert City, KY Business Directory"
+type: "towns"
 slug: "calvert-city-ky"
-town: "Calvert City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marshall"
-population: 2135
+state: "ky"
+town_data: "calvert-city-ky"
 ---

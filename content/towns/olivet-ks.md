@@ -1,9 +1,7 @@
 ---
-title: "Olivet, Kansas Business Directory"
+title: "Olivet, KS Business Directory"
+type: "towns"
 slug: "olivet-ks"
-town: "Olivet"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osage"
-population: 2129
+state: "ks"
+town_data: "olivet-ks"
 ---

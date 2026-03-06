@@ -1,9 +1,7 @@
 ---
-title: "New Era, Michigan Business Directory"
+title: "New Era, MI Business Directory"
+type: "towns"
 slug: "new-era-mi"
-town: "New Era"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oceana"
-population: 4312
+state: "mi"
+town_data: "new-era-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Northfield, Minnesota Business Directory"
+title: "Northfield, MN Business Directory"
+type: "towns"
 slug: "northfield-mn"
-town: "Northfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 20598
+state: "mn"
+town_data: "northfield-mn"
 ---

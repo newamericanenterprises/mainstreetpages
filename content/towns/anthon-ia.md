@@ -1,9 +1,7 @@
 ---
-title: "Anthon, Iowa Business Directory"
+title: "Anthon, IA Business Directory"
+type: "towns"
 slug: "anthon-ia"
-town: "Anthon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 1954
+state: "ia"
+town_data: "anthon-ia"
 ---

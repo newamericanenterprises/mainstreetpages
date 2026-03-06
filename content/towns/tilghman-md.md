@@ -1,9 +1,7 @@
 ---
-title: "Tilghman, Maryland Business Directory"
+title: "Tilghman, MD Business Directory"
+type: "towns"
 slug: "tilghman-md"
-town: "Tilghman"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 4078
+state: "md"
+town_data: "tilghman-md"
 ---

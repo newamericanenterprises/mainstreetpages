@@ -1,9 +1,7 @@
 ---
-title: "Fowler, Kansas Business Directory"
+title: "Fowler, KS Business Directory"
+type: "towns"
 slug: "fowler-ks"
-town: "Fowler"
-state: "Kansas"
-state_abbr: "KS"
-county: "Meade"
-population: 868
+state: "ks"
+town_data: "fowler-ks"
 ---

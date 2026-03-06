@@ -1,7 +1,7 @@
 ---
-title: "Edwards, Mississippi Business Directory"
+title: "Edwards, MS Business Directory"
+type: "towns"
 slug: "edwards-ms"
-state: "MS"
-county: "Hinds"
-population: 1015
+state: "ms"
+town_data: "edwards-ms"
 ---

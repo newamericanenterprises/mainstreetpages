@@ -1,9 +1,7 @@
 ---
-title: "Rhodes, Iowa Business Directory"
+title: "Rhodes, IA Business Directory"
+type: "towns"
 slug: "rhodes-ia"
-town: "Rhodes"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 2210
+state: "ia"
+town_data: "rhodes-ia"
 ---

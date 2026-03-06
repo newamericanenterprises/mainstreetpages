@@ -1,9 +1,7 @@
 ---
-title: "Cutler, Maine Business Directory"
+title: "Cutler, ME Business Directory"
+type: "towns"
 slug: "cutler-me"
-town: "Cutler"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 2437
+state: "me"
+town_data: "cutler-me"
 ---

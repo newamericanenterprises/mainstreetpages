@@ -1,9 +1,7 @@
 ---
-title: "Avon, Massachusetts Business Directory"
+title: "Avon, MA Business Directory"
+type: "towns"
 slug: "avon-ma"
-town: "Avon"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 1632
+state: "ma"
+town_data: "avon-ma"
 ---

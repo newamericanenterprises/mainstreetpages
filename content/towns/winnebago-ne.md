@@ -1,7 +1,7 @@
 ---
-title: "Winnebago, Nebraska Business Directory"
+title: "Winnebago, NE Business Directory"
+type: "towns"
 slug: "winnebago-ne"
-state: "NE"
-county: "Thurston"
-population: 780
+state: "ne"
+town_data: "winnebago-ne"
 ---

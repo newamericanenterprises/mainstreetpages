@@ -1,9 +1,7 @@
 ---
-title: "Folsom, Louisiana Business Directory"
+title: "Folsom, LA Business Directory"
+type: "towns"
 slug: "folsom-la"
-town: "Folsom"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Tammany"
-population: 1626
+state: "la"
+town_data: "folsom-la"
 ---

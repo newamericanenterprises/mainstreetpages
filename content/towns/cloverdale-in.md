@@ -1,9 +1,7 @@
 ---
-title: "Cloverdale, Indiana Business Directory"
+title: "Cloverdale, IN Business Directory"
+type: "towns"
 slug: "cloverdale-in"
-town: "Cloverdale"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 734
+state: "in"
+town_data: "cloverdale-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Port Vincent, Louisiana Business Directory"
+title: "Port Vincent, LA Business Directory"
+type: "towns"
 slug: "port-vincent-la"
-town: "Port Vincent"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 2664
+state: "la"
+town_data: "port-vincent-la"
 ---

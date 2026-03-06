@@ -1,9 +1,7 @@
 ---
-title: "Arlington, Iowa Business Directory"
+title: "Arlington, IA Business Directory"
+type: "towns"
 slug: "arlington-ia"
-town: "Arlington"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 2855
+state: "ia"
+town_data: "arlington-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Aitkin, Minnesota Business Directory"
+title: "Aitkin, MN Business Directory"
+type: "towns"
 slug: "aitkin-mn"
-town: "Aitkin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Aitkin"
-population: 2165
+state: "mn"
+town_data: "aitkin-mn"
 ---

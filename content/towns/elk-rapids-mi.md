@@ -1,9 +1,7 @@
 ---
-title: "Elk Rapids, Michigan Business Directory"
+title: "Elk Rapids, MI Business Directory"
+type: "towns"
 slug: "elk-rapids-mi"
-town: "Elk Rapids"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 1598
+state: "mi"
+town_data: "elk-rapids-mi"
 ---

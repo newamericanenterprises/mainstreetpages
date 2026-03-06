@@ -1,7 +1,7 @@
 ---
-title: "Martinsburg, Missouri Business Directory"
+title: "Martinsburg, MO Business Directory"
+type: "towns"
 slug: "martinsburg-mo"
-state: "MO"
-county: "Audrain"
-population: 1500
+state: "mo"
+town_data: "martinsburg-mo"
 ---

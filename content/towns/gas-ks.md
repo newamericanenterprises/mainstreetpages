@@ -1,9 +1,7 @@
 ---
-title: "Gas, Kansas Business Directory"
+title: "Gas, KS Business Directory"
+type: "towns"
 slug: "gas-ks"
-town: "Gas"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 2681
+state: "ks"
+town_data: "gas-ks"
 ---

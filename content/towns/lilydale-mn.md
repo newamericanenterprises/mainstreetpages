@@ -1,9 +1,7 @@
 ---
-title: "Lilydale, Minnesota Business Directory"
+title: "Lilydale, MN Business Directory"
+type: "towns"
 slug: "lilydale-mn"
-town: "Lilydale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 634
+state: "mn"
+town_data: "lilydale-mn"
 ---

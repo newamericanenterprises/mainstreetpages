@@ -1,9 +1,7 @@
 ---
-title: "Scarborough, Maine Business Directory"
+title: "Scarborough, ME Business Directory"
+type: "towns"
 slug: "scarborough-me"
-town: "Scarborough"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 20920
+state: "me"
+town_data: "scarborough-me"
 ---

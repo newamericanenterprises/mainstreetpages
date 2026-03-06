@@ -1,9 +1,7 @@
 ---
-title: "White Cloud, Michigan Business Directory"
+title: "White Cloud, MI Business Directory"
+type: "towns"
 slug: "white-cloud-mi"
-town: "White Cloud"
-state: "Michigan"
-state_abbr: "MI"
-county: "Newaygo"
-population: 2562
+state: "mi"
+town_data: "white-cloud-mi"
 ---

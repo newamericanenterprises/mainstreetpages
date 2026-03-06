@@ -1,9 +1,7 @@
 ---
-title: "Galvez, Louisiana Business Directory"
+title: "Galvez, LA Business Directory"
+type: "towns"
 slug: "galvez-la"
-town: "Galvez"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 344
+state: "la"
+town_data: "galvez-la"
 ---

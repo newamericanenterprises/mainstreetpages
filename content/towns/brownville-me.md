@@ -1,9 +1,7 @@
 ---
-title: "Brownville, Maine Business Directory"
+title: "Brownville, ME Business Directory"
+type: "towns"
 slug: "brownville-me"
-town: "Brownville"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 471
+state: "me"
+town_data: "brownville-me"
 ---

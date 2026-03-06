@@ -1,7 +1,7 @@
 ---
-title: "Johnson, Nebraska Business Directory"
+title: "Johnson, NE Business Directory"
+type: "towns"
 slug: "johnson-ne"
-state: "NE"
-county: "Nemaha"
-population: 311
+state: "ne"
+town_data: "johnson-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Stotesbury, Missouri Business Directory"
+title: "Stotesbury, MO Business Directory"
+type: "towns"
 slug: "stotesbury-mo"
-state: "MO"
-county: "Vernon"
-population: 1500
+state: "mo"
+town_data: "stotesbury-mo"
 ---

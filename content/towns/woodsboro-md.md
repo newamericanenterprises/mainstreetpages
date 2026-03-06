@@ -1,9 +1,7 @@
 ---
-title: "Woodsboro, Maryland Business Directory"
+title: "Woodsboro, MD Business Directory"
+type: "towns"
 slug: "woodsboro-md"
-town: "Woodsboro"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 1882
+state: "md"
+town_data: "woodsboro-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Market, Iowa Business Directory"
+title: "New Market, IA Business Directory"
+type: "towns"
 slug: "new-market-ia"
-town: "New Market"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 546
+state: "ia"
+town_data: "new-market-ia"
 ---

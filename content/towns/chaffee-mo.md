@@ -1,7 +1,7 @@
 ---
-title: "Chaffee, Missouri Business Directory"
+title: "Chaffee, MO Business Directory"
+type: "towns"
 slug: "chaffee-mo"
-state: "MO"
-county: "Scott"
-population: 3001
+state: "mo"
+town_data: "chaffee-mo"
 ---

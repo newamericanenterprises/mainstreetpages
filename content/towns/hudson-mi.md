@@ -1,9 +1,7 @@
 ---
-title: "Hudson, Michigan Business Directory"
+title: "Hudson, MI Business Directory"
+type: "towns"
 slug: "hudson-mi"
-town: "Hudson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 1010
+state: "mi"
+town_data: "hudson-mi"
 ---

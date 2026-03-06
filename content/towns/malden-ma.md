@@ -1,9 +1,7 @@
 ---
-title: "Malden, Massachusetts Business Directory"
+title: "Malden, MA Business Directory"
+type: "towns"
 slug: "malden-ma"
-town: "Malden"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 66263
+state: "ma"
+town_data: "malden-ma"
 ---

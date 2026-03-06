@@ -1,9 +1,7 @@
 ---
-title: "Spencer, Indiana Business Directory"
+title: "Spencer, IN Business Directory"
+type: "towns"
 slug: "spencer-in"
-town: "Spencer"
-state: "Indiana"
-state_abbr: "IN"
-county: "Owen"
-population: 2217
+state: "in"
+town_data: "spencer-in"
 ---

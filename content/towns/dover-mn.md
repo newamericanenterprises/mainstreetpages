@@ -1,9 +1,7 @@
 ---
-title: "Dover, Minnesota Business Directory"
+title: "Dover, MN Business Directory"
+type: "towns"
 slug: "dover-mn"
-town: "Dover"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Olmsted"
-population: 1993
+state: "mn"
+town_data: "dover-mn"
 ---

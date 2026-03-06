@@ -1,9 +1,7 @@
 ---
-title: "Kellerton, Iowa Business Directory"
+title: "Kellerton, IA Business Directory"
+type: "towns"
 slug: "kellerton-ia"
-town: "Kellerton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 1271
+state: "ia"
+town_data: "kellerton-ia"
 ---

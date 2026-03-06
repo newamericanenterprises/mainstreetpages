@@ -1,9 +1,7 @@
 ---
-title: "Waukee, Iowa Business Directory"
+title: "Waukee, IA Business Directory"
+type: "towns"
 slug: "waukee-ia"
-town: "Waukee"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 21457
+state: "ia"
+town_data: "waukee-ia"
 ---

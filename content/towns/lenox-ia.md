@@ -1,9 +1,7 @@
 ---
-title: "Lenox, Iowa Business Directory"
+title: "Lenox, IA Business Directory"
+type: "towns"
 slug: "lenox-ia"
-town: "Lenox"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 637
+state: "ia"
+town_data: "lenox-ia"
 ---

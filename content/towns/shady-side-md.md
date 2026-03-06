@@ -1,9 +1,7 @@
 ---
-title: "Shady Side, Maryland Business Directory"
+title: "Shady Side, MD Business Directory"
+type: "towns"
 slug: "shady-side-md"
-town: "Shady Side"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 2180
+state: "md"
+town_data: "shady-side-md"
 ---

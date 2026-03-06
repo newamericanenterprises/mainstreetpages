@@ -1,7 +1,7 @@
 ---
-title: "Burwell, Nebraska Business Directory"
+title: "Burwell, NE Business Directory"
+type: "towns"
 slug: "burwell-ne"
-state: "NE"
-county: "Garfield"
-population: 1210
+state: "ne"
+town_data: "burwell-ne"
 ---

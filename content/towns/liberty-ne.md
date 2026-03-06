@@ -1,7 +1,7 @@
 ---
-title: "Liberty, Nebraska Business Directory"
+title: "Liberty, NE Business Directory"
+type: "towns"
 slug: "liberty-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "liberty-ne"
 ---

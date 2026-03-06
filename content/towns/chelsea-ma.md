@@ -1,9 +1,7 @@
 ---
-title: "Chelsea, Massachusetts Business Directory"
+title: "Chelsea, MA Business Directory"
+type: "towns"
 slug: "chelsea-ma"
-town: "Chelsea"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Suffolk"
-population: 40115
+state: "ma"
+town_data: "chelsea-ma"
 ---

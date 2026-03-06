@@ -1,9 +1,7 @@
 ---
-title: "Britt, Iowa Business Directory"
+title: "Britt, IA Business Directory"
+type: "towns"
 slug: "britt-ia"
-town: "Britt"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 1445
+state: "ia"
+town_data: "britt-ia"
 ---

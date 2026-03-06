@@ -1,9 +1,7 @@
 ---
-title: "Horace, Kansas Business Directory"
+title: "Horace, KS Business Directory"
+type: "towns"
 slug: "horace-ks"
-town: "Horace"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greeley"
-population: 1192
+state: "ks"
+town_data: "horace-ks"
 ---

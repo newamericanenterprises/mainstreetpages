@@ -1,7 +1,7 @@
 ---
-title: "Dix, Nebraska Business Directory"
+title: "Dix, NE Business Directory"
+type: "towns"
 slug: "dix-ne"
-state: "NE"
-county: "Kimball"
-population: 500
+state: "ne"
+town_data: "dix-ne"
 ---

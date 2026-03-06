@@ -1,7 +1,7 @@
 ---
-title: "Creston, Nebraska Business Directory"
+title: "Creston, NE Business Directory"
+type: "towns"
 slug: "creston-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "creston-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Scio, Michigan Business Directory"
+title: "Scio, MI Business Directory"
+type: "towns"
 slug: "scio-mi"
-town: "Scio"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4284
+state: "mi"
+town_data: "scio-mi"
 ---

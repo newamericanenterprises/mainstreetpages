@@ -1,9 +1,7 @@
 ---
-title: "Muscatine, Iowa Business Directory"
+title: "Muscatine, IA Business Directory"
+type: "towns"
 slug: "muscatine-ia"
-town: "Muscatine"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 23819
+state: "ia"
+town_data: "muscatine-ia"
 ---

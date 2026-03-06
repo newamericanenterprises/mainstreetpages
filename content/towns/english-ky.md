@@ -1,9 +1,7 @@
 ---
-title: "English, Kentucky Business Directory"
+title: "English, KY Business Directory"
+type: "towns"
 slug: "english-ky"
-town: "English"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 1774
+state: "ky"
+town_data: "english-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clarksdale, Mississippi Business Directory"
+title: "Clarksdale, MS Business Directory"
+type: "towns"
 slug: "clarksdale-ms"
-state: "MS"
-county: "Coahoma"
-population: 15939
+state: "ms"
+town_data: "clarksdale-ms"
 ---

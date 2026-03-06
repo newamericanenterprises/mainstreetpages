@@ -1,9 +1,7 @@
 ---
-title: "Peru, Massachusetts Business Directory"
+title: "Peru, MA Business Directory"
+type: "towns"
 slug: "peru-ma"
-town: "Peru"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 4656
+state: "ma"
+town_data: "peru-ma"
 ---

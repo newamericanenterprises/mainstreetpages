@@ -1,7 +1,7 @@
 ---
-title: "Winstonville, Mississippi Business Directory"
+title: "Winstonville, MS Business Directory"
+type: "towns"
 slug: "winstonville-ms"
-state: "MS"
-county: "Bolivar"
-population: 133
+state: "ms"
+town_data: "winstonville-ms"
 ---

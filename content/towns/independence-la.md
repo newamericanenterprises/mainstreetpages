@@ -1,9 +1,7 @@
 ---
-title: "Independence, Louisiana Business Directory"
+title: "Independence, LA Business Directory"
+type: "towns"
 slug: "independence-la"
-town: "Independence"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 1553
+state: "la"
+town_data: "independence-la"
 ---

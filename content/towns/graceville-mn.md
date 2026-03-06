@@ -1,9 +1,7 @@
 ---
-title: "Graceville, Minnesota Business Directory"
+title: "Graceville, MN Business Directory"
+type: "towns"
 slug: "graceville-mn"
-town: "Graceville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 2089
+state: "mn"
+town_data: "graceville-mn"
 ---

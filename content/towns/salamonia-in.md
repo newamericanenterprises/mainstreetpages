@@ -1,9 +1,7 @@
 ---
-title: "Salamonia, Indiana Business Directory"
+title: "Salamonia, IN Business Directory"
+type: "towns"
 slug: "salamonia-in"
-town: "Salamonia"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 2742
+state: "in"
+town_data: "salamonia-in"
 ---

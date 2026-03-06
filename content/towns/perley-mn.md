@@ -1,9 +1,7 @@
 ---
-title: "Perley, Minnesota Business Directory"
+title: "Perley, MN Business Directory"
+type: "towns"
 slug: "perley-mn"
-town: "Perley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 2608
+state: "mn"
+town_data: "perley-mn"
 ---

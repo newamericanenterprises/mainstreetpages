@@ -1,9 +1,7 @@
 ---
-title: "Grayling, Michigan Business Directory"
+title: "Grayling, MI Business Directory"
+type: "towns"
 slug: "grayling-mi"
-town: "Grayling"
-state: "Michigan"
-state_abbr: "MI"
-county: "Crawford"
-population: 4494
+state: "mi"
+town_data: "grayling-mi"
 ---

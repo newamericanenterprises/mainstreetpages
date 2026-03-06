@@ -1,9 +1,7 @@
 ---
-title: "Harding, Minnesota Business Directory"
+title: "Harding, MN Business Directory"
+type: "towns"
 slug: "harding-mn"
-town: "Harding"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 624
+state: "mn"
+town_data: "harding-mn"
 ---

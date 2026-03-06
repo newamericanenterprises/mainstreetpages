@@ -1,7 +1,7 @@
 ---
-title: "Hardy, Nebraska Business Directory"
+title: "Hardy, NE Business Directory"
+type: "towns"
 slug: "hardy-ne"
-state: "NE"
-county: "Nuckolls"
-population: 500
+state: "ne"
+town_data: "hardy-ne"
 ---

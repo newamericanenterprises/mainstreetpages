@@ -1,9 +1,7 @@
 ---
-title: "Cornish, Maine Business Directory"
+title: "Cornish, ME Business Directory"
+type: "towns"
 slug: "cornish-me"
-town: "Cornish"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2241
+state: "me"
+town_data: "cornish-me"
 ---

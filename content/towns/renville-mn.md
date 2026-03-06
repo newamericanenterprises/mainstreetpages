@@ -1,9 +1,7 @@
 ---
-title: "Renville, Minnesota Business Directory"
+title: "Renville, MN Business Directory"
+type: "towns"
 slug: "renville-mn"
-town: "Renville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 1152
+state: "mn"
+town_data: "renville-mn"
 ---

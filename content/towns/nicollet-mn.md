@@ -1,9 +1,7 @@
 ---
-title: "Nicollet, Minnesota Business Directory"
+title: "Nicollet, MN Business Directory"
+type: "towns"
 slug: "nicollet-mn"
-town: "Nicollet"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nicollet"
-population: 694
+state: "mn"
+town_data: "nicollet-mn"
 ---

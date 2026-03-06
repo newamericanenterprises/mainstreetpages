@@ -1,9 +1,7 @@
 ---
-title: "Protection, Kansas Business Directory"
+title: "Protection, KS Business Directory"
+type: "towns"
 slug: "protection-ks"
-town: "Protection"
-state: "Kansas"
-state_abbr: "KS"
-county: "Comanche"
-population: 1341
+state: "ks"
+town_data: "protection-ks"
 ---

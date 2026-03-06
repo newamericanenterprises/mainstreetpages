@@ -1,9 +1,7 @@
 ---
-title: "Ledyard, Iowa Business Directory"
+title: "Ledyard, IA Business Directory"
+type: "towns"
 slug: "ledyard-ia"
-town: "Ledyard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 2906
+state: "ia"
+town_data: "ledyard-ia"
 ---

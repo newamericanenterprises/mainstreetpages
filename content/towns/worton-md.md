@@ -1,9 +1,7 @@
 ---
-title: "Worton, Maryland Business Directory"
+title: "Worton, MD Business Directory"
+type: "towns"
 slug: "worton-md"
-town: "Worton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 5004
+state: "md"
+town_data: "worton-md"
 ---

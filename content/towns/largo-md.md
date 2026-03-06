@@ -1,9 +1,7 @@
 ---
-title: "Largo, Maryland Business Directory"
+title: "Largo, MD Business Directory"
+type: "towns"
 slug: "largo-md"
-town: "Largo"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1476
+state: "md"
+town_data: "largo-md"
 ---

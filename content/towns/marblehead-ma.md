@@ -1,9 +1,7 @@
 ---
-title: "Marblehead, Massachusetts Business Directory"
+title: "Marblehead, MA Business Directory"
+type: "towns"
 slug: "marblehead-ma"
-town: "Marblehead"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 8431
+state: "ma"
+town_data: "marblehead-ma"
 ---

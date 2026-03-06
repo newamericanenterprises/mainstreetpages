@@ -1,9 +1,7 @@
 ---
-title: "Ingalls, Indiana Business Directory"
+title: "Ingalls, IN Business Directory"
+type: "towns"
 slug: "ingalls-in"
-town: "Ingalls"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 3417
+state: "in"
+town_data: "ingalls-in"
 ---

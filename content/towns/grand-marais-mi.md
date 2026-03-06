@@ -1,9 +1,7 @@
 ---
-title: "Grand Marais, Michigan Business Directory"
+title: "Grand Marais, MI Business Directory"
+type: "towns"
 slug: "grand-marais-mi"
-town: "Grand Marais"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 4960
+state: "mi"
+town_data: "grand-marais-mi"
 ---

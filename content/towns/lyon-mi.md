@@ -1,9 +1,7 @@
 ---
-title: "Lyon, Michigan Business Directory"
+title: "Lyon, MI Business Directory"
+type: "towns"
 slug: "lyon-mi"
-town: "Lyon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 3008
+state: "mi"
+town_data: "lyon-mi"
 ---

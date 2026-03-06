@@ -1,9 +1,7 @@
 ---
-title: "Mooresville, Indiana Business Directory"
+title: "Mooresville, IN Business Directory"
+type: "towns"
 slug: "mooresville-in"
-town: "Mooresville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Morgan"
-population: 9840
+state: "in"
+town_data: "mooresville-in"
 ---

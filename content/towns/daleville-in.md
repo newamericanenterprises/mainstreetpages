@@ -1,9 +1,7 @@
 ---
-title: "Daleville, Indiana Business Directory"
+title: "Daleville, IN Business Directory"
+type: "towns"
 slug: "daleville-in"
-town: "Daleville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 3197
+state: "in"
+town_data: "daleville-in"
 ---

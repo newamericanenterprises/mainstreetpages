@@ -1,9 +1,7 @@
 ---
-title: "Newark, Maryland Business Directory"
+title: "Newark, MD Business Directory"
+type: "towns"
 slug: "newark-md"
-town: "Newark"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 2742
+state: "md"
+town_data: "newark-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grand River, Iowa Business Directory"
+title: "Grand River, IA Business Directory"
+type: "towns"
 slug: "grand-river-ia"
-town: "Grand River"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 3043
+state: "ia"
+town_data: "grand-river-ia"
 ---

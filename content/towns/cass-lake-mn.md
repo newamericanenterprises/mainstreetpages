@@ -1,9 +1,7 @@
 ---
-title: "Cass Lake, Minnesota Business Directory"
+title: "Cass Lake, MN Business Directory"
+type: "towns"
 slug: "cass-lake-mn"
-town: "Cass Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Cass"
-population: 2468
+state: "mn"
+town_data: "cass-lake-mn"
 ---

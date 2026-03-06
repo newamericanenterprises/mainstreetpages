@@ -1,9 +1,7 @@
 ---
-title: "Decatur City, Iowa Business Directory"
+title: "Decatur City, IA Business Directory"
+type: "towns"
 slug: "decatur-city-ia"
-town: "Decatur City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 1844
+state: "ia"
+town_data: "decatur-city-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sabula, Iowa Business Directory"
+title: "Sabula, IA Business Directory"
+type: "towns"
 slug: "sabula-ia"
-town: "Sabula"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 1801
+state: "ia"
+town_data: "sabula-ia"
 ---

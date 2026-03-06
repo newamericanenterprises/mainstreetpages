@@ -1,9 +1,7 @@
 ---
-title: "Myrtle, Minnesota Business Directory"
+title: "Myrtle, MN Business Directory"
+type: "towns"
 slug: "myrtle-mn"
-town: "Myrtle"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 2421
+state: "mn"
+town_data: "myrtle-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Freedom, Maine Business Directory"
+title: "Freedom, ME Business Directory"
+type: "towns"
 slug: "freedom-me"
-town: "Freedom"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2202
+state: "me"
+town_data: "freedom-me"
 ---

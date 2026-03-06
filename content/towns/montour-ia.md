@@ -1,9 +1,7 @@
 ---
-title: "Montour, Iowa Business Directory"
+title: "Montour, IA Business Directory"
+type: "towns"
 slug: "montour-ia"
-town: "Montour"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2832
+state: "ia"
+town_data: "montour-ia"
 ---

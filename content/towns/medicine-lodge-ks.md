@@ -1,9 +1,7 @@
 ---
-title: "Medicine Lodge, Kansas Business Directory"
+title: "Medicine Lodge, KS Business Directory"
+type: "towns"
 slug: "medicine-lodge-ks"
-town: "Medicine Lodge"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barber"
-population: 1876
+state: "ks"
+town_data: "medicine-lodge-ks"
 ---

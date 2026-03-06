@@ -1,9 +1,7 @@
 ---
-title: "Millbury, Massachusetts Business Directory"
+title: "Millbury, MA Business Directory"
+type: "towns"
 slug: "millbury-ma"
-town: "Millbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1237
+state: "ma"
+town_data: "millbury-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Moran, Kansas Business Directory"
+title: "Moran, KS Business Directory"
+type: "towns"
 slug: "moran-ks"
-town: "Moran"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 1105
+state: "ks"
+town_data: "moran-ks"
 ---

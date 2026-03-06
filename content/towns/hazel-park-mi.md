@@ -1,9 +1,7 @@
 ---
-title: "Hazel Park, Michigan Business Directory"
+title: "Hazel Park, MI Business Directory"
+type: "towns"
 slug: "hazel-park-mi"
-town: "Hazel Park"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 16405
+state: "mi"
+town_data: "hazel-park-mi"
 ---

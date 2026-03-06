@@ -1,9 +1,7 @@
 ---
-title: "Ovid, Michigan Business Directory"
+title: "Ovid, MI Business Directory"
+type: "towns"
 slug: "ovid-mi"
-town: "Ovid"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 3363
+state: "mi"
+town_data: "ovid-mi"
 ---

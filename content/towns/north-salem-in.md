@@ -1,9 +1,7 @@
 ---
-title: "North Salem, Indiana Business Directory"
+title: "North Salem, IN Business Directory"
+type: "towns"
 slug: "north-salem-in"
-town: "North Salem"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 2021
+state: "in"
+town_data: "north-salem-in"
 ---

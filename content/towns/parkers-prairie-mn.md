@@ -1,9 +1,7 @@
 ---
-title: "Parkers Prairie, Minnesota Business Directory"
+title: "Parkers Prairie, MN Business Directory"
+type: "towns"
 slug: "parkers-prairie-mn"
-town: "Parkers Prairie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 2191
+state: "mn"
+town_data: "parkers-prairie-mn"
 ---

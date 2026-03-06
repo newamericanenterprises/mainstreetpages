@@ -1,9 +1,7 @@
 ---
-title: "Danville, Indiana Business Directory"
+title: "Danville, IN Business Directory"
+type: "towns"
 slug: "danville-in"
-town: "Danville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 1580
+state: "in"
+town_data: "danville-in"
 ---

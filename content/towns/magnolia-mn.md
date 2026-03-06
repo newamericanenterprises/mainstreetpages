@@ -1,9 +1,7 @@
 ---
-title: "Magnolia, Minnesota Business Directory"
+title: "Magnolia, MN Business Directory"
+type: "towns"
 slug: "magnolia-mn"
-town: "Magnolia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 2206
+state: "mn"
+town_data: "magnolia-mn"
 ---

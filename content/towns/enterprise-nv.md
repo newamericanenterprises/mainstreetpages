@@ -1,7 +1,7 @@
 ---
-title: "Enterprise, Nevada Business Directory"
+title: "Enterprise, NV Business Directory"
+type: "towns"
 slug: "enterprise-nv"
-state: "NV"
-county: "Clark"
-population: 228259
+state: "nv"
+town_data: "enterprise-nv"
 ---

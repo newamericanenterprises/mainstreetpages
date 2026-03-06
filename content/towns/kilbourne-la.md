@@ -1,9 +1,7 @@
 ---
-title: "Kilbourne, Louisiana Business Directory"
+title: "Kilbourne, LA Business Directory"
+type: "towns"
 slug: "kilbourne-la"
-town: "Kilbourne"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Carroll"
-population: 2484
+state: "la"
+town_data: "kilbourne-la"
 ---

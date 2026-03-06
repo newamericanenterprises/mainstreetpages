@@ -1,9 +1,7 @@
 ---
-title: "Berlin, Maryland Business Directory"
+title: "Berlin, MD Business Directory"
+type: "towns"
 slug: "berlin-md"
-town: "Berlin"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 5053
+state: "md"
+town_data: "berlin-md"
 ---

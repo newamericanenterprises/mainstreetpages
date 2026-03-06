@@ -1,7 +1,7 @@
 ---
-title: "Harrisville, Mississippi Business Directory"
+title: "Harrisville, MS Business Directory"
+type: "towns"
 slug: "harrisville-ms"
-state: "MS"
-county: "Simpson"
-population: 447
+state: "ms"
+town_data: "harrisville-ms"
 ---

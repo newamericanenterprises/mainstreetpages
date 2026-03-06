@@ -1,9 +1,7 @@
 ---
-title: "Attleboro, Massachusetts Business Directory"
+title: "Attleboro, MA Business Directory"
+type: "towns"
 slug: "attleboro-ma"
-town: "Attleboro"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 45237
+state: "ma"
+town_data: "attleboro-ma"
 ---

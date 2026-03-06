@@ -1,9 +1,7 @@
 ---
-title: "Hiram, Maine Business Directory"
+title: "Hiram, ME Business Directory"
+type: "towns"
 slug: "hiram-me"
-town: "Hiram"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2618
+state: "me"
+town_data: "hiram-me"
 ---

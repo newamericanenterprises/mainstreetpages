@@ -1,9 +1,7 @@
 ---
-title: "Symsonia, Kentucky Business Directory"
+title: "Symsonia, KY Business Directory"
+type: "towns"
 slug: "symsonia-ky"
-town: "Symsonia"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Graves"
-population: 720
+state: "ky"
+town_data: "symsonia-ky"
 ---

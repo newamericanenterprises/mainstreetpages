@@ -1,9 +1,7 @@
 ---
-title: "Morrowville, Kansas Business Directory"
+title: "Morrowville, KS Business Directory"
+type: "towns"
 slug: "morrowville-ks"
-town: "Morrowville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 3277
+state: "ks"
+town_data: "morrowville-ks"
 ---

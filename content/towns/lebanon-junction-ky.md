@@ -1,9 +1,7 @@
 ---
-title: "Lebanon Junction, Kentucky Business Directory"
+title: "Lebanon Junction, KY Business Directory"
+type: "towns"
 slug: "lebanon-junction-ky"
-town: "Lebanon Junction"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bullitt"
-population: 1982
+state: "ky"
+town_data: "lebanon-junction-ky"
 ---

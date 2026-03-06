@@ -1,7 +1,7 @@
 ---
-title: "Cornlea, Nebraska Business Directory"
+title: "Cornlea, NE Business Directory"
+type: "towns"
 slug: "cornlea-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "cornlea-ne"
 ---

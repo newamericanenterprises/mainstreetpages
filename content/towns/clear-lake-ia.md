@@ -1,9 +1,7 @@
 ---
-title: "Clear Lake, Iowa Business Directory"
+title: "Clear Lake, IA Business Directory"
+type: "towns"
 slug: "clear-lake-ia"
-town: "Clear Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 7462
+state: "ia"
+town_data: "clear-lake-ia"
 ---

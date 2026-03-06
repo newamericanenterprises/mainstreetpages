@@ -1,9 +1,7 @@
 ---
-title: "Green Mountain, Iowa Business Directory"
+title: "Green Mountain, IA Business Directory"
+type: "towns"
 slug: "green-mountain-ia"
-town: "Green Mountain"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 3402
+state: "ia"
+town_data: "green-mountain-ia"
 ---

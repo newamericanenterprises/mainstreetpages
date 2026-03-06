@@ -1,7 +1,7 @@
 ---
-title: "Brinktown, Missouri Business Directory"
+title: "Brinktown, MO Business Directory"
+type: "towns"
 slug: "brinktown-mo"
-state: "MO"
-county: "Maries"
-population: 1500
+state: "mo"
+town_data: "brinktown-mo"
 ---

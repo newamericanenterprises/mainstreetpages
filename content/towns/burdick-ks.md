@@ -1,9 +1,7 @@
 ---
-title: "Burdick, Kansas Business Directory"
+title: "Burdick, KS Business Directory"
+type: "towns"
 slug: "burdick-ks"
-town: "Burdick"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 2242
+state: "ks"
+town_data: "burdick-ks"
 ---

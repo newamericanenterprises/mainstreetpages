@@ -1,9 +1,7 @@
 ---
-title: "Phippsburg, Maine Business Directory"
+title: "Phippsburg, ME Business Directory"
+type: "towns"
 slug: "phippsburg-me"
-town: "Phippsburg"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 2368
+state: "me"
+town_data: "phippsburg-me"
 ---

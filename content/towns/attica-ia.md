@@ -1,9 +1,7 @@
 ---
-title: "Attica, Iowa Business Directory"
+title: "Attica, IA Business Directory"
+type: "towns"
 slug: "attica-ia"
-town: "Attica"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 2552
+state: "ia"
+town_data: "attica-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Plevna, Montana Business Directory"
+title: "Plevna, MT Business Directory"
+type: "towns"
 slug: "plevna-mt"
-state: "MT"
-county: "Fallon"
-population: 500
+state: "mt"
+town_data: "plevna-mt"
 ---

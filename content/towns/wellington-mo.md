@@ -1,7 +1,7 @@
 ---
-title: "Wellington, Missouri Business Directory"
+title: "Wellington, MO Business Directory"
+type: "towns"
 slug: "wellington-mo"
-state: "MO"
-county: "Lafayette"
-population: 1500
+state: "mo"
+town_data: "wellington-mo"
 ---

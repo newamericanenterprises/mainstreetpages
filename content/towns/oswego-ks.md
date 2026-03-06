@@ -1,9 +1,7 @@
 ---
-title: "Oswego, Kansas Business Directory"
+title: "Oswego, KS Business Directory"
+type: "towns"
 slug: "oswego-ks"
-town: "Oswego"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 750
+state: "ks"
+town_data: "oswego-ks"
 ---

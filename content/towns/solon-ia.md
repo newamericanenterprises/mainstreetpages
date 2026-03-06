@@ -1,9 +1,7 @@
 ---
-title: "Solon, Iowa Business Directory"
+title: "Solon, IA Business Directory"
+type: "towns"
 slug: "solon-ia"
-town: "Solon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 551
+state: "ia"
+town_data: "solon-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Louisburg, Kansas Business Directory"
+title: "Louisburg, KS Business Directory"
+type: "towns"
 slug: "louisburg-ks"
-town: "Louisburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Miami"
-population: 750
+state: "ks"
+town_data: "louisburg-ks"
 ---

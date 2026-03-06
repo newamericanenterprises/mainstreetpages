@@ -1,9 +1,7 @@
 ---
-title: "Buckner, Kentucky Business Directory"
+title: "Buckner, KY Business Directory"
+type: "towns"
 slug: "buckner-ky"
-town: "Buckner"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 2479
+state: "ky"
+town_data: "buckner-ky"
 ---

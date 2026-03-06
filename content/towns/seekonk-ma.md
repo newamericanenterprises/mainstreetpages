@@ -1,9 +1,7 @@
 ---
-title: "Seekonk, Massachusetts Business Directory"
+title: "Seekonk, MA Business Directory"
+type: "towns"
 slug: "seekonk-ma"
-town: "Seekonk"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 8560
+state: "ma"
+town_data: "seekonk-ma"
 ---

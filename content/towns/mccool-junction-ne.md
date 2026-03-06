@@ -1,7 +1,7 @@
 ---
-title: "McCool Junction, Nebraska Business Directory"
+title: "Mccool Junction, NE Business Directory"
+type: "towns"
 slug: "mccool-junction-ne"
-state: "NE"
-county: "York"
-population: 500
+state: "ne"
+town_data: "mccool-junction-ne"
 ---

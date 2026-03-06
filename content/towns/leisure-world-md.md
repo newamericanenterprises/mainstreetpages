@@ -1,9 +1,7 @@
 ---
-title: "Leisure World, Maryland Business Directory"
+title: "Leisure World, MD Business Directory"
+type: "towns"
 slug: "leisure-world-md"
-town: "Leisure World"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 1456
+state: "md"
+town_data: "leisure-world-md"
 ---

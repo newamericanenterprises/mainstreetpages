@@ -1,9 +1,7 @@
 ---
-title: "Armada, Michigan Business Directory"
+title: "Armada, MI Business Directory"
+type: "towns"
 slug: "armada-mi"
-town: "Armada"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 1257
+state: "mi"
+town_data: "armada-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "LeClaire, Iowa Business Directory"
+title: "LeClaire, IA Business Directory"
+type: "towns"
 slug: "leclaire-ia"
-town: "LeClaire"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 1782
+state: "ia"
+town_data: "leclaire-ia"
 ---

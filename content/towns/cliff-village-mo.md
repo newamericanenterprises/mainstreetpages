@@ -1,7 +1,7 @@
 ---
-title: "Cliff Village, Missouri Business Directory"
+title: "Cliff Village, MO Business Directory"
+type: "towns"
 slug: "cliff-village-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "cliff-village-mo"
 ---

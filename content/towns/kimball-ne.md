@@ -1,7 +1,7 @@
 ---
-title: "Kimball, Nebraska Business Directory"
+title: "Kimball, NE Business Directory"
+type: "towns"
 slug: "kimball-ne"
-state: "NE"
-county: "Kimball"
-population: 2432
+state: "ne"
+town_data: "kimball-ne"
 ---

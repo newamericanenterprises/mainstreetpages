@@ -1,9 +1,7 @@
 ---
-title: "Topinabee, Michigan Business Directory"
+title: "Topinabee, MI Business Directory"
+type: "towns"
 slug: "topinabee-mi"
-town: "Topinabee"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 999
+state: "mi"
+town_data: "topinabee-mi"
 ---

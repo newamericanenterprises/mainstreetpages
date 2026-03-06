@@ -1,9 +1,7 @@
 ---
-title: "Farmingdale, Maine Business Directory"
+title: "Farmingdale, ME Business Directory"
+type: "towns"
 slug: "farmingdale-me"
-town: "Farmingdale"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2528
+state: "me"
+town_data: "farmingdale-me"
 ---

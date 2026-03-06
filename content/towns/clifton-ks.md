@@ -1,9 +1,7 @@
 ---
-title: "Clifton, Kansas Business Directory"
+title: "Clifton, KS Business Directory"
+type: "towns"
 slug: "clifton-ks"
-town: "Clifton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 2633
+state: "ks"
+town_data: "clifton-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bryant Pond, Maine Business Directory"
+title: "Bryant Pond, ME Business Directory"
+type: "towns"
 slug: "bryant-pond-me"
-town: "Bryant Pond"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2621
+state: "me"
+town_data: "bryant-pond-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pittsfield, Maine Business Directory"
+title: "Pittsfield, ME Business Directory"
+type: "towns"
 slug: "pittsfield-me"
-town: "Pittsfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 4121
+state: "me"
+town_data: "pittsfield-me"
 ---

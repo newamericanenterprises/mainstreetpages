@@ -1,7 +1,7 @@
 ---
-title: "Hardin, Montana Business Directory"
+title: "Hardin, MT Business Directory"
+type: "towns"
 slug: "hardin-mt"
-state: "MT"
-county: "Big Horn"
-population: 3818
+state: "mt"
+town_data: "hardin-mt"
 ---

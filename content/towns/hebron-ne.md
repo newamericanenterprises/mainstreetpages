@@ -1,7 +1,7 @@
 ---
-title: "Hebron, Nebraska Business Directory"
+title: "Hebron, NE Business Directory"
+type: "towns"
 slug: "hebron-ne"
-state: "NE"
-county: "Thayer"
-population: 1579
+state: "ne"
+town_data: "hebron-ne"
 ---

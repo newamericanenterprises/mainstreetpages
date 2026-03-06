@@ -1,7 +1,7 @@
 ---
-title: "Florence, Mississippi Business Directory"
+title: "Florence, MS Business Directory"
+type: "towns"
 slug: "florence-ms"
-state: "MS"
-county: "Rankin"
-population: 4155
+state: "ms"
+town_data: "florence-ms"
 ---

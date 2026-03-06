@@ -1,9 +1,7 @@
 ---
-title: "Leonardville, Kansas Business Directory"
+title: "Leonardville, KS Business Directory"
+type: "towns"
 slug: "leonardville-ks"
-town: "Leonardville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Riley"
-population: 1136
+state: "ks"
+town_data: "leonardville-ks"
 ---

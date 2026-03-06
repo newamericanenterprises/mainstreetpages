@@ -1,9 +1,7 @@
 ---
-title: "Owings, Maryland Business Directory"
+title: "Owings, MD Business Directory"
+type: "towns"
 slug: "owings-md"
-town: "Owings"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 3651
+state: "md"
+town_data: "owings-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Prentiss, Mississippi Business Directory"
+title: "Prentiss, MS Business Directory"
+type: "towns"
 slug: "prentiss-ms"
-state: "MS"
-county: "Jefferson Davis"
-population: 1058
+state: "ms"
+town_data: "prentiss-ms"
 ---

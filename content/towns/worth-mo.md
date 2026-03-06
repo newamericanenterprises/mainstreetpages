@@ -1,7 +1,7 @@
 ---
-title: "Worth, Missouri Business Directory"
+title: "Worth, MO Business Directory"
+type: "towns"
 slug: "worth-mo"
-state: "MO"
-county: "Worth"
-population: 1500
+state: "mo"
+town_data: "worth-mo"
 ---

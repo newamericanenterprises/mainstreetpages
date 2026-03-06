@@ -1,7 +1,7 @@
 ---
-title: "Wheeling, Missouri Business Directory"
+title: "Wheeling, MO Business Directory"
+type: "towns"
 slug: "wheeling-mo"
-state: "MO"
-county: "Livingston"
-population: 1500
+state: "mo"
+town_data: "wheeling-mo"
 ---

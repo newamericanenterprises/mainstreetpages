@@ -1,7 +1,7 @@
 ---
-title: "Ashland, Missouri Business Directory"
+title: "Ashland, MO Business Directory"
+type: "towns"
 slug: "ashland-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "ashland-mo"
 ---

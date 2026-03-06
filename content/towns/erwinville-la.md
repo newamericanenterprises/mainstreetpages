@@ -1,9 +1,7 @@
 ---
-title: "Erwinville, Louisiana Business Directory"
+title: "Erwinville, LA Business Directory"
+type: "towns"
 slug: "erwinville-la"
-town: "Erwinville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Baton Rouge"
-population: 2701
+state: "la"
+town_data: "erwinville-la"
 ---

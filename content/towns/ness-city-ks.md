@@ -1,9 +1,7 @@
 ---
-title: "Ness City, Kansas Business Directory"
+title: "Ness City, KS Business Directory"
+type: "towns"
 slug: "ness-city-ks"
-town: "Ness City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ness"
-population: 1405
+state: "ks"
+town_data: "ness-city-ks"
 ---

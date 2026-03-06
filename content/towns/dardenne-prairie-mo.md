@@ -1,7 +1,7 @@
 ---
-title: "Dardenne Prairie, Missouri Business Directory"
+title: "Dardenne Prairie, MO Business Directory"
+type: "towns"
 slug: "dardenne-prairie-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "dardenne-prairie-mo"
 ---

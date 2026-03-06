@@ -1,9 +1,7 @@
 ---
-title: "North Chatham, Massachusetts Business Directory"
+title: "North Chatham, MA Business Directory"
+type: "towns"
 slug: "north-chatham-ma"
-town: "North Chatham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 2714
+state: "ma"
+town_data: "north-chatham-ma"
 ---

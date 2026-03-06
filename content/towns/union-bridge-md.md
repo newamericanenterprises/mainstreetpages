@@ -1,9 +1,7 @@
 ---
-title: "Union Bridge, Maryland Business Directory"
+title: "Union Bridge, MD Business Directory"
+type: "towns"
 slug: "union-bridge-md"
-town: "Union Bridge"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 1257
+state: "md"
+town_data: "union-bridge-md"
 ---

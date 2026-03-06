@@ -1,9 +1,7 @@
 ---
-title: "Milltown, Indiana Business Directory"
+title: "Milltown, IN Business Directory"
+type: "towns"
 slug: "milltown-in"
-town: "Milltown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Crawford"
-population: 938
+state: "in"
+town_data: "milltown-in"
 ---

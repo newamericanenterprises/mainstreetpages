@@ -1,9 +1,7 @@
 ---
-title: "Benton, Minnesota Business Directory"
+title: "Benton, MN Business Directory"
+type: "towns"
 slug: "benton-mn"
-town: "Benton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 2705
+state: "mn"
+town_data: "benton-mn"
 ---

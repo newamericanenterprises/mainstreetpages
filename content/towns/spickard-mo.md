@@ -1,7 +1,7 @@
 ---
-title: "Spickard, Missouri Business Directory"
+title: "Spickard, MO Business Directory"
+type: "towns"
 slug: "spickard-mo"
-state: "MO"
-county: "Grundy"
-population: 1500
+state: "mo"
+town_data: "spickard-mo"
 ---

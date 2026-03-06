@@ -1,7 +1,7 @@
 ---
-title: "Clark, Missouri Business Directory"
+title: "Clark, MO Business Directory"
+type: "towns"
 slug: "clark-mo"
-state: "MO"
-county: "Randolph"
-population: 1500
+state: "mo"
+town_data: "clark-mo"
 ---

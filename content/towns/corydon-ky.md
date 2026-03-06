@@ -1,9 +1,7 @@
 ---
-title: "Corydon, Kentucky Business Directory"
+title: "Corydon, KY Business Directory"
+type: "towns"
 slug: "corydon-ky"
-town: "Corydon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henderson"
-population: 1445
+state: "ky"
+town_data: "corydon-ky"
 ---

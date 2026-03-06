@@ -1,9 +1,7 @@
 ---
-title: "Saltillo, Indiana Business Directory"
+title: "Saltillo, IN Business Directory"
+type: "towns"
 slug: "saltillo-in"
-town: "Saltillo"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 514
+state: "in"
+town_data: "saltillo-in"
 ---

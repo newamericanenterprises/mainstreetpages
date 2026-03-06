@@ -1,9 +1,7 @@
 ---
-title: "Lovilia, Iowa Business Directory"
+title: "Lovilia, IA Business Directory"
+type: "towns"
 slug: "lovilia-ia"
-town: "Lovilia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Monroe"
-population: 1204
+state: "ia"
+town_data: "lovilia-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Marshalltown, Iowa Business Directory"
+title: "Marshalltown, IA Business Directory"
+type: "towns"
 slug: "marshalltown-ia"
-town: "Marshalltown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 27431
+state: "ia"
+town_data: "marshalltown-ia"
 ---

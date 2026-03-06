@@ -1,9 +1,7 @@
 ---
-title: "Gwinn, Michigan Business Directory"
+title: "Gwinn, MI Business Directory"
+type: "towns"
 slug: "gwinn-mi"
-town: "Gwinn"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 2787
+state: "mi"
+town_data: "gwinn-mi"
 ---

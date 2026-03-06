@@ -1,9 +1,7 @@
 ---
-title: "Grand Rivers, Kentucky Business Directory"
+title: "Grand Rivers, KY Business Directory"
+type: "towns"
 slug: "grand-rivers-ky"
-town: "Grand Rivers"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Livingston"
-population: 1264
+state: "ky"
+town_data: "grand-rivers-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Haddam, Kansas Business Directory"
+title: "Haddam, KS Business Directory"
+type: "towns"
 slug: "haddam-ks"
-town: "Haddam"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 1961
+state: "ks"
+town_data: "haddam-ks"
 ---

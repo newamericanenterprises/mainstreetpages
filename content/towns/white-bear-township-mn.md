@@ -1,9 +1,7 @@
 ---
-title: "White Bear Township, Minnesota Business Directory"
+title: "White Bear Township, MN Business Directory"
+type: "towns"
 slug: "white-bear-township-mn"
-town: "White Bear Township"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 2680
+state: "mn"
+town_data: "white-bear-township-mn"
 ---

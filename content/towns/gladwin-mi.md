@@ -1,9 +1,7 @@
 ---
-title: "Gladwin, Michigan Business Directory"
+title: "Gladwin, MI Business Directory"
+type: "towns"
 slug: "gladwin-mi"
-town: "Gladwin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gladwin"
-population: 4503
+state: "mi"
+town_data: "gladwin-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Vinita Terrace, Missouri Business Directory"
+title: "Vinita Terrace, MO Business Directory"
+type: "towns"
 slug: "vinita-terrace-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "vinita-terrace-mo"
 ---

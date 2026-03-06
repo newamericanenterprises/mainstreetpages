@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Michigan Business Directory"
+title: "Manchester, MI Business Directory"
+type: "towns"
 slug: "manchester-mi"
-town: "Manchester"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4178
+state: "mi"
+town_data: "manchester-mi"
 ---

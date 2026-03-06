@@ -1,7 +1,7 @@
 ---
-title: "Uplands Park, Missouri Business Directory"
+title: "Uplands Park, MO Business Directory"
+type: "towns"
 slug: "uplands-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "uplands-park-mo"
 ---

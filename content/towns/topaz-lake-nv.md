@@ -1,7 +1,7 @@
 ---
-title: "Topaz Lake, Nevada Business Directory"
+title: "Topaz Lake, NV Business Directory"
+type: "towns"
 slug: "topaz-lake-nv"
-state: "NV"
-county: "Douglas"
-population: 1326
+state: "nv"
+town_data: "topaz-lake-nv"
 ---

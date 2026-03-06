@@ -1,9 +1,7 @@
 ---
-title: "Prestonville, Kentucky Business Directory"
+title: "Prestonville, KY Business Directory"
+type: "towns"
 slug: "prestonville-ky"
-town: "Prestonville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 1738
+state: "ky"
+town_data: "prestonville-ky"
 ---

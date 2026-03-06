@@ -1,7 +1,7 @@
 ---
-title: "Franklin, Nebraska Business Directory"
+title: "Franklin, NE Business Directory"
+type: "towns"
 slug: "franklin-ne"
-state: "NE"
-county: "Franklin"
-population: 1019
+state: "ne"
+town_data: "franklin-ne"
 ---

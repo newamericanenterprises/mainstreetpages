@@ -1,9 +1,7 @@
 ---
-title: "Hebron, Maine Business Directory"
+title: "Hebron, ME Business Directory"
+type: "towns"
 slug: "hebron-me"
-town: "Hebron"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 589
+state: "me"
+town_data: "hebron-me"
 ---

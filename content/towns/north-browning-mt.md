@@ -1,7 +1,7 @@
 ---
-title: "North Browning, Montana Business Directory"
+title: "North Browning, MT Business Directory"
+type: "towns"
 slug: "north-browning-mt"
-state: "MT"
-county: "Glacier"
-population: 500
+state: "mt"
+town_data: "north-browning-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Otsego, Michigan Business Directory"
+title: "Otsego, MI Business Directory"
+type: "towns"
 slug: "otsego-mi"
-town: "Otsego"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 5269
+state: "mi"
+town_data: "otsego-mi"
 ---

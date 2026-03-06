@@ -1,9 +1,7 @@
 ---
-title: "Mulberry, Kansas Business Directory"
+title: "Mulberry, KS Business Directory"
+type: "towns"
 slug: "mulberry-ks"
-town: "Mulberry"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 758
+state: "ks"
+town_data: "mulberry-ks"
 ---

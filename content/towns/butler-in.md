@@ -1,9 +1,7 @@
 ---
-title: "Butler, Indiana Business Directory"
+title: "Butler, IN Business Directory"
+type: "towns"
 slug: "butler-in"
-town: "Butler"
-state: "Indiana"
-state_abbr: "IN"
-county: "DeKalb"
-population: 3547
+state: "in"
+town_data: "butler-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vassalboro, Maine Business Directory"
+title: "Vassalboro, ME Business Directory"
+type: "towns"
 slug: "vassalboro-me"
-town: "Vassalboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 309
+state: "me"
+town_data: "vassalboro-me"
 ---

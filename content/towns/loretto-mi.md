@@ -1,9 +1,7 @@
 ---
-title: "Loretto, Michigan Business Directory"
+title: "Loretto, MI Business Directory"
+type: "towns"
 slug: "loretto-mi"
-town: "Loretto"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 5247
+state: "mi"
+town_data: "loretto-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Tripoli, Iowa Business Directory"
+title: "Tripoli, IA Business Directory"
+type: "towns"
 slug: "tripoli-ia"
-town: "Tripoli"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 3153
+state: "ia"
+town_data: "tripoli-ia"
 ---

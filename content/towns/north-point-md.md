@@ -1,9 +1,7 @@
 ---
-title: "North Point, Maryland Business Directory"
+title: "North Point, MD Business Directory"
+type: "towns"
 slug: "north-point-md"
-town: "North Point"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 1845
+state: "md"
+town_data: "north-point-md"
 ---

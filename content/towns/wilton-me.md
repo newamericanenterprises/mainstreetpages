@@ -1,9 +1,7 @@
 ---
-title: "Wilton, Maine Business Directory"
+title: "Wilton, ME Business Directory"
+type: "towns"
 slug: "wilton-me"
-town: "Wilton"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 4116
+state: "me"
+town_data: "wilton-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hampton, Michigan Business Directory"
+title: "Hampton, MI Business Directory"
+type: "towns"
 slug: "hampton-mi"
-town: "Hampton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 1005
+state: "mi"
+town_data: "hampton-mi"
 ---

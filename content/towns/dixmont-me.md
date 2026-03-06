@@ -1,9 +1,7 @@
 ---
-title: "Dixmont, Maine Business Directory"
+title: "Dixmont, ME Business Directory"
+type: "towns"
 slug: "dixmont-me"
-town: "Dixmont"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2785
+state: "me"
+town_data: "dixmont-me"
 ---

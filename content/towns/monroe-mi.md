@@ -1,9 +1,7 @@
 ---
-title: "Monroe, Michigan Business Directory"
+title: "Monroe, MI Business Directory"
+type: "towns"
 slug: "monroe-mi"
-town: "Monroe"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 19659
+state: "mi"
+town_data: "monroe-mi"
 ---

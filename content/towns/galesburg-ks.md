@@ -1,9 +1,7 @@
 ---
-title: "Galesburg, Kansas Business Directory"
+title: "Galesburg, KS Business Directory"
+type: "towns"
 slug: "galesburg-ks"
-town: "Galesburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 1264
+state: "ks"
+town_data: "galesburg-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Market, Maryland Business Directory"
+title: "New Market, MD Business Directory"
+type: "towns"
 slug: "new-market-md"
-town: "New Market"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 3716
+state: "md"
+town_data: "new-market-md"
 ---

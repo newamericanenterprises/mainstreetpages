@@ -1,7 +1,7 @@
 ---
-title: "Holstein, Nebraska Business Directory"
+title: "Holstein, NE Business Directory"
+type: "towns"
 slug: "holstein-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "holstein-ne"
 ---

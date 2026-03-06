@@ -1,9 +1,7 @@
 ---
-title: "Chauvin, Louisiana Business Directory"
+title: "Chauvin, LA Business Directory"
+type: "towns"
 slug: "chauvin-la"
-town: "Chauvin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 2348
+state: "la"
+town_data: "chauvin-la"
 ---

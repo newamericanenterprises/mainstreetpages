@@ -1,9 +1,7 @@
 ---
-title: "Albert, Kansas Business Directory"
+title: "Albert, KS Business Directory"
+type: "towns"
 slug: "albert-ks"
-town: "Albert"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 2834
+state: "ks"
+town_data: "albert-ks"
 ---

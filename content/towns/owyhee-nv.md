@@ -1,7 +1,7 @@
 ---
-title: "Owyhee, Nevada Business Directory"
+title: "Owyhee, NV Business Directory"
+type: "towns"
 slug: "owyhee-nv"
-state: "NV"
-county: "Elko"
-population: 1054
+state: "nv"
+town_data: "owyhee-nv"
 ---

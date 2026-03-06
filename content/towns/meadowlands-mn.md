@@ -1,9 +1,7 @@
 ---
-title: "Meadowlands, Minnesota Business Directory"
+title: "Meadowlands, MN Business Directory"
+type: "towns"
 slug: "meadowlands-mn"
-town: "Meadowlands"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 2796
+state: "mn"
+town_data: "meadowlands-mn"
 ---

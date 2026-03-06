@@ -1,9 +1,7 @@
 ---
-title: "Offerle, Kansas Business Directory"
+title: "Offerle, KS Business Directory"
+type: "towns"
 slug: "offerle-ks"
-town: "Offerle"
-state: "Kansas"
-state_abbr: "KS"
-county: "Edwards"
-population: 436
+state: "ks"
+town_data: "offerle-ks"
 ---

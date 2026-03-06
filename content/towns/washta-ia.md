@@ -1,9 +1,7 @@
 ---
-title: "Washta, Iowa Business Directory"
+title: "Washta, IA Business Directory"
+type: "towns"
 slug: "washta-ia"
-town: "Washta"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 3167
+state: "ia"
+town_data: "washta-ia"
 ---

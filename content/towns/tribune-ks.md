@@ -1,9 +1,7 @@
 ---
-title: "Tribune, Kansas Business Directory"
+title: "Tribune, KS Business Directory"
+type: "towns"
 slug: "tribune-ks"
-town: "Tribune"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greeley"
-population: 742
+state: "ks"
+town_data: "tribune-ks"
 ---

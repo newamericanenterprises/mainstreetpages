@@ -1,9 +1,7 @@
 ---
-title: "Elnora, Indiana Business Directory"
+title: "Elnora, IN Business Directory"
+type: "towns"
 slug: "elnora-in"
-town: "Elnora"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 1352
+state: "in"
+town_data: "elnora-in"
 ---

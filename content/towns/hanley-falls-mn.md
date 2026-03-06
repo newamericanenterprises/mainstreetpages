@@ -1,9 +1,7 @@
 ---
-title: "Hanley Falls, Minnesota Business Directory"
+title: "Hanley Falls, MN Business Directory"
+type: "towns"
 slug: "hanley-falls-mn"
-town: "Hanley Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Yellow Medicine"
-population: 2365
+state: "mn"
+town_data: "hanley-falls-mn"
 ---

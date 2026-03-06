@@ -1,7 +1,7 @@
 ---
-title: "Mullen, Nebraska Business Directory"
+title: "Mullen, NE Business Directory"
+type: "towns"
 slug: "mullen-ne"
-state: "NE"
-county: "Hooker"
-population: 500
+state: "ne"
+town_data: "mullen-ne"
 ---

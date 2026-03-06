@@ -1,9 +1,7 @@
 ---
-title: "Mapleton, Minnesota Business Directory"
+title: "Mapleton, MN Business Directory"
+type: "towns"
 slug: "mapleton-mn"
-town: "Mapleton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 1893
+state: "mn"
+town_data: "mapleton-mn"
 ---

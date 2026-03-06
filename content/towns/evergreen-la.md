@@ -1,9 +1,7 @@
 ---
-title: "Evergreen, Louisiana Business Directory"
+title: "Evergreen, LA Business Directory"
+type: "towns"
 slug: "evergreen-la"
-town: "Evergreen"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 3284
+state: "la"
+town_data: "evergreen-la"
 ---

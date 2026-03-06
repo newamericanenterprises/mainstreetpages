@@ -1,9 +1,7 @@
 ---
-title: "Eureka, Kansas Business Directory"
+title: "Eureka, KS Business Directory"
+type: "towns"
 slug: "eureka-ks"
-town: "Eureka"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 2379
+state: "ks"
+town_data: "eureka-ks"
 ---

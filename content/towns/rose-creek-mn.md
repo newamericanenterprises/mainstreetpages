@@ -1,9 +1,7 @@
 ---
-title: "Rose Creek, Minnesota Business Directory"
+title: "Rose Creek, MN Business Directory"
+type: "towns"
 slug: "rose-creek-mn"
-town: "Rose Creek"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 1601
+state: "mn"
+town_data: "rose-creek-mn"
 ---

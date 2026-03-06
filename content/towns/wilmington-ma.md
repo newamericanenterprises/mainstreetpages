@@ -1,9 +1,7 @@
 ---
-title: "Wilmington, Massachusetts Business Directory"
+title: "Wilmington, MA Business Directory"
+type: "towns"
 slug: "wilmington-ma"
-town: "Wilmington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 2002
+state: "ma"
+town_data: "wilmington-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hollandale, Mississippi Business Directory"
+title: "Hollandale, MS Business Directory"
+type: "towns"
 slug: "hollandale-ms"
-state: "MS"
-county: "Washington"
-population: 2300
+state: "ms"
+town_data: "hollandale-ms"
 ---

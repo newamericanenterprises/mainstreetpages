@@ -1,9 +1,7 @@
 ---
-title: "Simpsonville, Kentucky Business Directory"
+title: "Simpsonville, KY Business Directory"
+type: "towns"
 slug: "simpsonville-ky"
-town: "Simpsonville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Shelby"
-population: 1052
+state: "ky"
+town_data: "simpsonville-ky"
 ---

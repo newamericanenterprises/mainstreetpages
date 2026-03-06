@@ -1,9 +1,7 @@
 ---
-title: "Watertown, Minnesota Business Directory"
+title: "Watertown, MN Business Directory"
+type: "towns"
 slug: "watertown-mn"
-town: "Watertown"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 2016
+state: "mn"
+town_data: "watertown-mn"
 ---

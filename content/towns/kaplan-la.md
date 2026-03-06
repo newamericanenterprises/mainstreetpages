@@ -1,9 +1,7 @@
 ---
-title: "Kaplan, Louisiana Business Directory"
+title: "Kaplan, LA Business Directory"
+type: "towns"
 slug: "kaplan-la"
-town: "Kaplan"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vermilion"
-population: 4466
+state: "la"
+town_data: "kaplan-la"
 ---

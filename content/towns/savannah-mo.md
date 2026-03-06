@@ -1,7 +1,7 @@
 ---
-title: "Savannah, Missouri Business Directory"
+title: "Savannah, MO Business Directory"
+type: "towns"
 slug: "savannah-mo"
-state: "MO"
-county: "Andrew"
-population: 5239
+state: "mo"
+town_data: "savannah-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brookville, Kansas Business Directory"
+title: "Brookville, KS Business Directory"
+type: "towns"
 slug: "brookville-ks"
-town: "Brookville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Saline"
-population: 2940
+state: "ks"
+town_data: "brookville-ks"
 ---

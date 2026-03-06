@@ -1,7 +1,7 @@
 ---
-title: "Green Park, Missouri Business Directory"
+title: "Green Park, MO Business Directory"
+type: "towns"
 slug: "green-park-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "green-park-mo"
 ---

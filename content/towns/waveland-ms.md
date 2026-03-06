@@ -1,7 +1,7 @@
 ---
-title: "Waveland, Mississippi Business Directory"
+title: "Waveland, MS Business Directory"
+type: "towns"
 slug: "waveland-ms"
-state: "MS"
-county: "Hancock"
-population: 6435
+state: "ms"
+town_data: "waveland-ms"
 ---

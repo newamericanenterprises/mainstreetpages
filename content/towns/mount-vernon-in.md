@@ -1,9 +1,7 @@
 ---
-title: "Mount Vernon, Indiana Business Directory"
+title: "Mount Vernon, IN Business Directory"
+type: "towns"
 slug: "mount-vernon-in"
-town: "Mount Vernon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Posey"
-population: 6587
+state: "in"
+town_data: "mount-vernon-in"
 ---

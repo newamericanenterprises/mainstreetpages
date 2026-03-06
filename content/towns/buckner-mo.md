@@ -1,7 +1,7 @@
 ---
-title: "Buckner, Missouri Business Directory"
+title: "Buckner, MO Business Directory"
+type: "towns"
 slug: "buckner-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "buckner-mo"
 ---

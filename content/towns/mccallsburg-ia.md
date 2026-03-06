@@ -1,9 +1,7 @@
 ---
-title: "McCallsburg, Iowa Business Directory"
+title: "McCallsburg, IA Business Directory"
+type: "towns"
 slug: "mccallsburg-ia"
-town: "McCallsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 2120
+state: "ia"
+town_data: "mccallsburg-ia"
 ---

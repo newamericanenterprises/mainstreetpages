@@ -1,9 +1,7 @@
 ---
-title: "Frankfort, Kansas Business Directory"
+title: "Frankfort, KS Business Directory"
+type: "towns"
 slug: "frankfort-ks"
-town: "Frankfort"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 2850
+state: "ks"
+town_data: "frankfort-ks"
 ---

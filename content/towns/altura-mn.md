@@ -1,9 +1,7 @@
 ---
-title: "Altura, Minnesota Business Directory"
+title: "Altura, MN Business Directory"
+type: "towns"
 slug: "altura-mn"
-town: "Altura"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 2013
+state: "mn"
+town_data: "altura-mn"
 ---

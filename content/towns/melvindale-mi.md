@@ -1,9 +1,7 @@
 ---
-title: "Melvindale, Michigan Business Directory"
+title: "Melvindale, MI Business Directory"
+type: "towns"
 slug: "melvindale-mi"
-town: "Melvindale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 5280
+state: "mi"
+town_data: "melvindale-mi"
 ---

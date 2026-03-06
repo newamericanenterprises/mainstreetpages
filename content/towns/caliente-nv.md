@@ -1,7 +1,7 @@
 ---
-title: "Caliente, Nevada Business Directory"
+title: "Caliente, NV Business Directory"
+type: "towns"
 slug: "caliente-nv"
-state: "NV"
-county: "Lincoln"
-population: 1040
+state: "nv"
+town_data: "caliente-nv"
 ---

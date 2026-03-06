@@ -1,9 +1,7 @@
 ---
-title: "LeRoy, Michigan Business Directory"
+title: "LeRoy, MI Business Directory"
+type: "towns"
 slug: "leroy-mi"
-town: "LeRoy"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 4583
+state: "mi"
+town_data: "leroy-mi"
 ---

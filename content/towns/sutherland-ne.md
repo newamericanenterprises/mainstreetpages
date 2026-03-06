@@ -1,7 +1,7 @@
 ---
-title: "Sutherland, Nebraska Business Directory"
+title: "Sutherland, NE Business Directory"
+type: "towns"
 slug: "sutherland-ne"
-state: "NE"
-county: "Lincoln"
-population: 500
+state: "ne"
+town_data: "sutherland-ne"
 ---

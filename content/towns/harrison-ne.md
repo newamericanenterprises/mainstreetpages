@@ -1,7 +1,7 @@
 ---
-title: "Harrison, Nebraska Business Directory"
+title: "Harrison, NE Business Directory"
+type: "towns"
 slug: "harrison-ne"
-state: "NE"
-county: "Sioux"
-population: 500
+state: "ne"
+town_data: "harrison-ne"
 ---

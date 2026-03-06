@@ -1,9 +1,7 @@
 ---
-title: "Leland, Iowa Business Directory"
+title: "Leland, IA Business Directory"
+type: "towns"
 slug: "leland-ia"
-town: "Leland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 2524
+state: "ia"
+town_data: "leland-ia"
 ---

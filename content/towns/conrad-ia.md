@@ -1,9 +1,7 @@
 ---
-title: "Conrad, Iowa Business Directory"
+title: "Conrad, IA Business Directory"
+type: "towns"
 slug: "conrad-ia"
-town: "Conrad"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 2134
+state: "ia"
+town_data: "conrad-ia"
 ---

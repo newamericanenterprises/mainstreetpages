@@ -1,9 +1,7 @@
 ---
-title: "Winona Lake, Indiana Business Directory"
+title: "Winona Lake, IN Business Directory"
+type: "towns"
 slug: "winona-lake-in"
-town: "Winona Lake"
-state: "Indiana"
-state_abbr: "IN"
-county: "Kosciusko"
-population: 963
+state: "in"
+town_data: "winona-lake-in"
 ---

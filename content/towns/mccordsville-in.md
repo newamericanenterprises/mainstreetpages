@@ -1,9 +1,7 @@
 ---
-title: "McCordsville, Indiana Business Directory"
+title: "McCordsville, IN Business Directory"
+type: "towns"
 slug: "mccordsville-in"
-town: "McCordsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 603
+state: "in"
+town_data: "mccordsville-in"
 ---

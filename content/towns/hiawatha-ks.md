@@ -1,9 +1,7 @@
 ---
-title: "Hiawatha, Kansas Business Directory"
+title: "Hiawatha, KS Business Directory"
+type: "towns"
 slug: "hiawatha-ks"
-town: "Hiawatha"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 3172
+state: "ks"
+town_data: "hiawatha-ks"
 ---

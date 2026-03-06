@@ -1,9 +1,7 @@
 ---
-title: "Stone City, Iowa Business Directory"
+title: "Stone City, IA Business Directory"
+type: "towns"
 slug: "stone-city-ia"
-town: "Stone City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 1504
+state: "ia"
+town_data: "stone-city-ia"
 ---

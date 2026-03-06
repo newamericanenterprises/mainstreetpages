@@ -1,9 +1,7 @@
 ---
-title: "Brownstown, Michigan Business Directory"
+title: "Brownstown, MI Business Directory"
+type: "towns"
 slug: "brownstown-mi"
-town: "Brownstown"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 4427
+state: "mi"
+town_data: "brownstown-mi"
 ---

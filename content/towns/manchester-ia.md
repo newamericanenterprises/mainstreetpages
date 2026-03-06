@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Iowa Business Directory"
+title: "Manchester, IA Business Directory"
+type: "towns"
 slug: "manchester-ia"
-town: "Manchester"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 5179
+state: "ia"
+town_data: "manchester-ia"
 ---

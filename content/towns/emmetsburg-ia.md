@@ -1,9 +1,7 @@
 ---
-title: "Emmetsburg, Iowa Business Directory"
+title: "Emmetsburg, IA Business Directory"
+type: "towns"
 slug: "emmetsburg-ia"
-town: "Emmetsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 3904
+state: "ia"
+town_data: "emmetsburg-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ravenwood, Missouri Business Directory"
+title: "Ravenwood, MO Business Directory"
+type: "towns"
 slug: "ravenwood-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "ravenwood-mo"
 ---

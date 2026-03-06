@@ -1,9 +1,7 @@
 ---
-title: "Zurich, Kansas Business Directory"
+title: "Zurich, KS Business Directory"
+type: "towns"
 slug: "zurich-ks"
-town: "Zurich"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 1409
+state: "ks"
+town_data: "zurich-ks"
 ---

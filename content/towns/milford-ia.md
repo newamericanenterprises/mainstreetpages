@@ -1,9 +1,7 @@
 ---
-title: "Milford, Iowa Business Directory"
+title: "Milford, IA Business Directory"
+type: "towns"
 slug: "milford-ia"
-town: "Milford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 1479
+state: "ia"
+town_data: "milford-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gilbert, Louisiana Business Directory"
+title: "Gilbert, LA Business Directory"
+type: "towns"
 slug: "gilbert-la"
-town: "Gilbert"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Franklin"
-population: 1663
+state: "la"
+town_data: "gilbert-la"
 ---

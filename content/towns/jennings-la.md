@@ -1,9 +1,7 @@
 ---
-title: "Jennings, Louisiana Business Directory"
+title: "Jennings, LA Business Directory"
+type: "towns"
 slug: "jennings-la"
-town: "Jennings"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson Davis"
-population: 9874
+state: "la"
+town_data: "jennings-la"
 ---

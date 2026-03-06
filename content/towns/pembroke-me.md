@@ -1,9 +1,7 @@
 ---
-title: "Pembroke, Maine Business Directory"
+title: "Pembroke, ME Business Directory"
+type: "towns"
 slug: "pembroke-me"
-town: "Pembroke"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 532
+state: "me"
+town_data: "pembroke-me"
 ---

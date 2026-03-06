@@ -1,9 +1,7 @@
 ---
-title: "Port Austin, Michigan Business Directory"
+title: "Port Austin, MI Business Directory"
+type: "towns"
 slug: "port-austin-mi"
-town: "Port Austin"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 5145
+state: "mi"
+town_data: "port-austin-mi"
 ---

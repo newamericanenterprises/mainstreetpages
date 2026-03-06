@@ -1,9 +1,7 @@
 ---
-title: "Denmark, Minnesota Business Directory"
+title: "Denmark, MN Business Directory"
+type: "towns"
 slug: "denmark-mn"
-town: "Denmark"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2567
+state: "mn"
+town_data: "denmark-mn"
 ---

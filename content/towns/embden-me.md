@@ -1,9 +1,7 @@
 ---
-title: "Embden, Maine Business Directory"
+title: "Embden, ME Business Directory"
+type: "towns"
 slug: "embden-me"
-town: "Embden"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2361
+state: "me"
+town_data: "embden-me"
 ---

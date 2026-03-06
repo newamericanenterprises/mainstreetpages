@@ -1,7 +1,7 @@
 ---
-title: "Grenada, Mississippi Business Directory"
+title: "Grenada, MS Business Directory"
+type: "towns"
 slug: "grenada-ms"
-state: "MS"
-county: "Grenada"
-population: 12876
+state: "ms"
+town_data: "grenada-ms"
 ---

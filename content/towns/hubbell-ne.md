@@ -1,7 +1,7 @@
 ---
-title: "Hubbell, Nebraska Business Directory"
+title: "Hubbell, NE Business Directory"
+type: "towns"
 slug: "hubbell-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "hubbell-ne"
 ---

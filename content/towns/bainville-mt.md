@@ -1,7 +1,7 @@
 ---
-title: "Bainville, Montana Business Directory"
+title: "Bainville, MT Business Directory"
+type: "towns"
 slug: "bainville-mt"
-state: "MT"
-county: "Roosevelt"
-population: 500
+state: "mt"
+town_data: "bainville-mt"
 ---

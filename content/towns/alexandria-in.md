@@ -1,9 +1,7 @@
 ---
-title: "Alexandria, Indiana Business Directory"
+title: "Alexandria, IN Business Directory"
+type: "towns"
 slug: "alexandria-in"
-town: "Alexandria"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 4991
+state: "in"
+town_data: "alexandria-in"
 ---

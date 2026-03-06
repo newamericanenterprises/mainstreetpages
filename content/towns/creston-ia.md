@@ -1,9 +1,7 @@
 ---
-title: "Creston, Iowa Business Directory"
+title: "Creston, IA Business Directory"
+type: "towns"
 slug: "creston-ia"
-town: "Creston"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 7857
+state: "ia"
+town_data: "creston-ia"
 ---

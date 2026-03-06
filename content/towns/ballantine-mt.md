@@ -1,7 +1,7 @@
 ---
-title: "Ballantine, Montana Business Directory"
+title: "Ballantine, MT Business Directory"
+type: "towns"
 slug: "ballantine-mt"
-state: "MT"
-county: "Yellowstone"
-population: 500
+state: "mt"
+town_data: "ballantine-mt"
 ---

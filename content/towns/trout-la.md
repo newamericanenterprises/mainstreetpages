@@ -1,9 +1,7 @@
 ---
-title: "Trout, Louisiana Business Directory"
+title: "Trout, LA Business Directory"
+type: "towns"
 slug: "trout-la"
-town: "Trout"
-state: "Louisiana"
-state_abbr: "LA"
-county: "LaSalle"
-population: 1694
+state: "la"
+town_data: "trout-la"
 ---

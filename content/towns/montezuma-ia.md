@@ -1,9 +1,7 @@
 ---
-title: "Montezuma, Iowa Business Directory"
+title: "Montezuma, IA Business Directory"
+type: "towns"
 slug: "montezuma-ia"
-town: "Montezuma"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 1677
+state: "ia"
+town_data: "montezuma-ia"
 ---

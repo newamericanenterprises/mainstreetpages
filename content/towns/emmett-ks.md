@@ -1,9 +1,7 @@
 ---
-title: "Emmett, Kansas Business Directory"
+title: "Emmett, KS Business Directory"
+type: "towns"
 slug: "emmett-ks"
-town: "Emmett"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 3133
+state: "ks"
+town_data: "emmett-ks"
 ---

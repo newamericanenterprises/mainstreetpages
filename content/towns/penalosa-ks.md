@@ -1,9 +1,7 @@
 ---
-title: "Penalosa, Kansas Business Directory"
+title: "Penalosa, KS Business Directory"
+type: "towns"
 slug: "penalosa-ks"
-town: "Penalosa"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 881
+state: "ks"
+town_data: "penalosa-ks"
 ---

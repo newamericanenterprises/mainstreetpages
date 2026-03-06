@@ -1,7 +1,7 @@
 ---
-title: "Battle Mountain, Nevada Business Directory"
+title: "Battle Mountain, NV Business Directory"
+type: "towns"
 slug: "battle-mountain-nv"
-state: "NV"
-county: "Lander"
-population: 3635
+state: "nv"
+town_data: "battle-mountain-nv"
 ---

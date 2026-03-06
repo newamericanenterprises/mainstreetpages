@@ -1,7 +1,7 @@
 ---
-title: "Dwight, Nebraska Business Directory"
+title: "Dwight, NE Business Directory"
+type: "towns"
 slug: "dwight-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "dwight-ne"
 ---

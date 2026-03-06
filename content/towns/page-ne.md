@@ -1,7 +1,7 @@
 ---
-title: "Page, Nebraska Business Directory"
+title: "Page, NE Business Directory"
+type: "towns"
 slug: "page-ne"
-state: "NE"
-county: "Holt"
-population: 500
+state: "ne"
+town_data: "page-ne"
 ---

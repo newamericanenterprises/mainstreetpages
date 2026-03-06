@@ -1,9 +1,7 @@
 ---
-title: "Many, Louisiana Business Directory"
+title: "Many, LA Business Directory"
+type: "towns"
 slug: "many-la"
-town: "Many"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Sabine"
-population: 2686
+state: "la"
+town_data: "many-la"
 ---

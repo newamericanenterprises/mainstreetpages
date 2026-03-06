@@ -1,7 +1,7 @@
 ---
-title: "Whitney, Nevada Business Directory"
+title: "Whitney, NV Business Directory"
+type: "towns"
 slug: "whitney-nv"
-state: "NV"
-county: "Clark"
-population: 44488
+state: "nv"
+town_data: "whitney-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Eagle Lake, Minnesota Business Directory"
+title: "Eagle Lake, MN Business Directory"
+type: "towns"
 slug: "eagle-lake-mn"
-town: "Eagle Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 1251
+state: "mn"
+town_data: "eagle-lake-mn"
 ---

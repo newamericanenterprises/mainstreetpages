@@ -1,9 +1,7 @@
 ---
-title: "Brooklyn Park, Maryland Business Directory"
+title: "Brooklyn Park, MD Business Directory"
+type: "towns"
 slug: "brooklyn-park-md"
-town: "Brooklyn Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 4846
+state: "md"
+town_data: "brooklyn-park-md"
 ---

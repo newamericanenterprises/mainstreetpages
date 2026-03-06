@@ -1,9 +1,7 @@
 ---
-title: "Neosho Falls, Kansas Business Directory"
+title: "Neosho Falls, KS Business Directory"
+type: "towns"
 slug: "neosho-falls-ks"
-town: "Neosho Falls"
-state: "Kansas"
-state_abbr: "KS"
-county: "Woodson"
-population: 676
+state: "ks"
+town_data: "neosho-falls-ks"
 ---

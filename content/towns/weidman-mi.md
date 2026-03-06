@@ -1,9 +1,7 @@
 ---
-title: "Weidman, Michigan Business Directory"
+title: "Weidman, MI Business Directory"
+type: "towns"
 slug: "weidman-mi"
-town: "Weidman"
-state: "Michigan"
-state_abbr: "MI"
-county: "Isabella"
-population: 2837
+state: "mi"
+town_data: "weidman-mi"
 ---

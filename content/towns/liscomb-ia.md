@@ -1,9 +1,7 @@
 ---
-title: "Liscomb, Iowa Business Directory"
+title: "Liscomb, IA Business Directory"
+type: "towns"
 slug: "liscomb-ia"
-town: "Liscomb"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 2036
+state: "ia"
+town_data: "liscomb-ia"
 ---

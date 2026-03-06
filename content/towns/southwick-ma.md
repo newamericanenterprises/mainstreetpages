@@ -1,9 +1,7 @@
 ---
-title: "Southwick, Massachusetts Business Directory"
+title: "Southwick, MA Business Directory"
+type: "towns"
 slug: "southwick-ma"
-town: "Southwick"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 3656
+state: "ma"
+town_data: "southwick-ma"
 ---

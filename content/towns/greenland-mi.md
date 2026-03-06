@@ -1,9 +1,7 @@
 ---
-title: "Greenland, Michigan Business Directory"
+title: "Greenland, MI Business Directory"
+type: "towns"
 slug: "greenland-mi"
-town: "Greenland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ontonagon"
-population: 621
+state: "mi"
+town_data: "greenland-mi"
 ---

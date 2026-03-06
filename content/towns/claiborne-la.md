@@ -1,9 +1,7 @@
 ---
-title: "Claiborne, Louisiana Business Directory"
+title: "Claiborne, LA Business Directory"
+type: "towns"
 slug: "claiborne-la"
-town: "Claiborne"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 1564
+state: "la"
+town_data: "claiborne-la"
 ---

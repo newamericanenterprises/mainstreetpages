@@ -1,9 +1,7 @@
 ---
-title: "Brazil, Indiana Business Directory"
+title: "Brazil, IN Business Directory"
+type: "towns"
 slug: "brazil-in"
-town: "Brazil"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 8129
+state: "in"
+town_data: "brazil-in"
 ---

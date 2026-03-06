@@ -1,7 +1,7 @@
 ---
-title: "Hobson, Montana Business Directory"
+title: "Hobson, MT Business Directory"
+type: "towns"
 slug: "hobson-mt"
-state: "MT"
-county: "Judith Basin"
-population: 500
+state: "mt"
+town_data: "hobson-mt"
 ---

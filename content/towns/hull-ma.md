@@ -1,9 +1,7 @@
 ---
-title: "Hull, Massachusetts Business Directory"
+title: "Hull, MA Business Directory"
+type: "towns"
 slug: "hull-ma"
-town: "Hull"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 4013
+state: "ma"
+town_data: "hull-ma"
 ---

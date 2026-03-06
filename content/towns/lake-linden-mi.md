@@ -1,9 +1,7 @@
 ---
-title: "Lake Linden, Michigan Business Directory"
+title: "Lake Linden, MI Business Directory"
+type: "towns"
 slug: "lake-linden-mi"
-town: "Lake Linden"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 4980
+state: "mi"
+town_data: "lake-linden-mi"
 ---

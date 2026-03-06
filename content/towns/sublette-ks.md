@@ -1,9 +1,7 @@
 ---
-title: "Sublette, Kansas Business Directory"
+title: "Sublette, KS Business Directory"
+type: "towns"
 slug: "sublette-ks"
-town: "Sublette"
-state: "Kansas"
-state_abbr: "KS"
-county: "Haskell"
-population: 1453
+state: "ks"
+town_data: "sublette-ks"
 ---

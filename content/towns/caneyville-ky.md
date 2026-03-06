@@ -1,9 +1,7 @@
 ---
-title: "Caneyville, Kentucky Business Directory"
+title: "Caneyville, KY Business Directory"
+type: "towns"
 slug: "caneyville-ky"
-town: "Caneyville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grayson"
-population: 2691
+state: "ky"
+town_data: "caneyville-ky"
 ---

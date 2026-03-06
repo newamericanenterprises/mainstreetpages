@@ -1,9 +1,7 @@
 ---
-title: "Litchfield, Maine Business Directory"
+title: "Litchfield, ME Business Directory"
+type: "towns"
 slug: "litchfield-me"
-town: "Litchfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1775
+state: "me"
+town_data: "litchfield-me"
 ---

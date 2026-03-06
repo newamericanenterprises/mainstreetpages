@@ -1,9 +1,7 @@
 ---
-title: "Hudson, Kansas Business Directory"
+title: "Hudson, KS Business Directory"
+type: "towns"
 slug: "hudson-ks"
-town: "Hudson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 1722
+state: "ks"
+town_data: "hudson-ks"
 ---

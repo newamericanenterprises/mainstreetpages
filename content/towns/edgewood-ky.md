@@ -1,9 +1,7 @@
 ---
-title: "Edgewood, Kentucky Business Directory"
+title: "Edgewood, KY Business Directory"
+type: "towns"
 slug: "edgewood-ky"
-town: "Edgewood"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2594
+state: "ky"
+town_data: "edgewood-ky"
 ---

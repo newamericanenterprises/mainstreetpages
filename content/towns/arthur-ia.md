@@ -1,9 +1,7 @@
 ---
-title: "Arthur, Iowa Business Directory"
+title: "Arthur, IA Business Directory"
+type: "towns"
 slug: "arthur-ia"
-town: "Arthur"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ida"
-population: 3193
+state: "ia"
+town_data: "arthur-ia"
 ---

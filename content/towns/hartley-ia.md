@@ -1,9 +1,7 @@
 ---
-title: "Hartley, Iowa Business Directory"
+title: "Hartley, IA Business Directory"
+type: "towns"
 slug: "hartley-ia"
-town: "Hartley"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 993
+state: "ia"
+town_data: "hartley-ia"
 ---

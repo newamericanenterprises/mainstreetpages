@@ -1,7 +1,7 @@
 ---
-title: "Iberia, Missouri Business Directory"
+title: "Iberia, MO Business Directory"
+type: "towns"
 slug: "iberia-mo"
-state: "MO"
-county: "Miller"
-population: 730
+state: "mo"
+town_data: "iberia-mo"
 ---

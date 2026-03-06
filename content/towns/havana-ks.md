@@ -1,9 +1,7 @@
 ---
-title: "Havana, Kansas Business Directory"
+title: "Havana, KS Business Directory"
+type: "towns"
 slug: "havana-ks"
-town: "Havana"
-state: "Kansas"
-state_abbr: "KS"
-county: "Montgomery"
-population: 1691
+state: "ks"
+town_data: "havana-ks"
 ---

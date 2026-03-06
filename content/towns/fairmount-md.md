@@ -1,9 +1,7 @@
 ---
-title: "Fairmount, Maryland Business Directory"
+title: "Fairmount, MD Business Directory"
+type: "towns"
 slug: "fairmount-md"
-town: "Fairmount"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 4599
+state: "md"
+town_data: "fairmount-md"
 ---

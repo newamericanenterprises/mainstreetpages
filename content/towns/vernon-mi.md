@@ -1,9 +1,7 @@
 ---
-title: "Vernon, Michigan Business Directory"
+title: "Vernon, MI Business Directory"
+type: "towns"
 slug: "vernon-mi"
-town: "Vernon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Shiawassee"
-population: 4793
+state: "mi"
+town_data: "vernon-mi"
 ---

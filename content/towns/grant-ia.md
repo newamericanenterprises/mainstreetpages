@@ -1,9 +1,7 @@
 ---
-title: "Grant, Iowa Business Directory"
+title: "Grant, IA Business Directory"
+type: "towns"
 slug: "grant-ia"
-town: "Grant"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 2541
+state: "ia"
+town_data: "grant-ia"
 ---

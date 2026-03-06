@@ -1,9 +1,7 @@
 ---
-title: "Fort Washington, Maryland Business Directory"
+title: "Fort Washington, MD Business Directory"
+type: "towns"
 slug: "fort-washington-md"
-town: "Fort Washington"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4331
+state: "md"
+town_data: "fort-washington-md"
 ---

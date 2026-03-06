@@ -1,9 +1,7 @@
 ---
-title: "Leoville, Kansas Business Directory"
+title: "Leoville, KS Business Directory"
+type: "towns"
 slug: "leoville-ks"
-town: "Leoville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Decatur"
-population: 1906
+state: "ks"
+town_data: "leoville-ks"
 ---

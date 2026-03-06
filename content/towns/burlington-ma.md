@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Massachusetts Business Directory"
+title: "Burlington, MA Business Directory"
+type: "towns"
 slug: "burlington-ma"
-town: "Burlington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 28503
+state: "ma"
+town_data: "burlington-ma"
 ---

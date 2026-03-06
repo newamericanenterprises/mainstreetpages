@@ -1,7 +1,7 @@
 ---
-title: "Jansen, Nebraska Business Directory"
+title: "Jansen, NE Business Directory"
+type: "towns"
 slug: "jansen-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "jansen-ne"
 ---

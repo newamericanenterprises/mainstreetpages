@@ -1,9 +1,7 @@
 ---
-title: "Pavilion, Michigan Business Directory"
+title: "Pavilion, MI Business Directory"
+type: "towns"
 slug: "pavilion-mi"
-town: "Pavilion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 3858
+state: "mi"
+town_data: "pavilion-mi"
 ---

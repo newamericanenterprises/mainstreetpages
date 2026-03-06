@@ -1,9 +1,7 @@
 ---
-title: "Monroe, Iowa Business Directory"
+title: "Monroe, IA Business Directory"
+type: "towns"
 slug: "monroe-ia"
-town: "Monroe"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jasper"
-population: 1832
+state: "ia"
+town_data: "monroe-ia"
 ---

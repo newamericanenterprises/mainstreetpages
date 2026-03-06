@@ -1,9 +1,7 @@
 ---
-title: "Milford, Kansas Business Directory"
+title: "Milford, KS Business Directory"
+type: "towns"
 slug: "milford-ks"
-town: "Milford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Geary"
-population: 1742
+state: "ks"
+town_data: "milford-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Derby, Kansas Business Directory"
+title: "Derby, KS Business Directory"
+type: "towns"
 slug: "derby-ks"
-town: "Derby"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 25161
+state: "ks"
+town_data: "derby-ks"
 ---

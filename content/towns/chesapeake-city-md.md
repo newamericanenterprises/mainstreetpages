@@ -1,9 +1,7 @@
 ---
-title: "Chesapeake City, Maryland Business Directory"
+title: "Chesapeake City, MD Business Directory"
+type: "towns"
 slug: "chesapeake-city-md"
-town: "Chesapeake City"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 945
+state: "md"
+town_data: "chesapeake-city-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Drew, Mississippi Business Directory"
+title: "Drew, MS Business Directory"
+type: "towns"
 slug: "drew-ms"
-state: "MS"
-county: "Sunflower"
-population: 1846
+state: "ms"
+town_data: "drew-ms"
 ---

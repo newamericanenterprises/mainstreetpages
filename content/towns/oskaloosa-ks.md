@@ -1,9 +1,7 @@
 ---
-title: "Oskaloosa, Kansas Business Directory"
+title: "Oskaloosa, KS Business Directory"
+type: "towns"
 slug: "oskaloosa-ks"
-town: "Oskaloosa"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 1687
+state: "ks"
+town_data: "oskaloosa-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bendena, Kansas Business Directory"
+title: "Bendena, KS Business Directory"
+type: "towns"
 slug: "bendena-ks"
-town: "Bendena"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 2595
+state: "ks"
+town_data: "bendena-ks"
 ---

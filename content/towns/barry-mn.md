@@ -1,9 +1,7 @@
 ---
-title: "Barry, Minnesota Business Directory"
+title: "Barry, MN Business Directory"
+type: "towns"
 slug: "barry-mn"
-town: "Barry"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 3288
+state: "mn"
+town_data: "barry-mn"
 ---

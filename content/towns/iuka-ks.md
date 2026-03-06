@@ -1,9 +1,7 @@
 ---
-title: "Iuka, Kansas Business Directory"
+title: "Iuka, KS Business Directory"
+type: "towns"
 slug: "iuka-ks"
-town: "Iuka"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pratt"
-population: 1847
+state: "ks"
+town_data: "iuka-ks"
 ---

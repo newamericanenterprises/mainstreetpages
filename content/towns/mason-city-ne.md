@@ -1,7 +1,7 @@
 ---
-title: "Mason City, Nebraska Business Directory"
+title: "Mason City, NE Business Directory"
+type: "towns"
 slug: "mason-city-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "mason-city-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Arrowsic, Maine Business Directory"
+title: "Arrowsic, ME Business Directory"
+type: "towns"
 slug: "arrowsic-me"
-town: "Arrowsic"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 887
+state: "me"
+town_data: "arrowsic-me"
 ---

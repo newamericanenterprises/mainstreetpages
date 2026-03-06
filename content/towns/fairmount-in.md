@@ -1,9 +1,7 @@
 ---
-title: "Fairmount, Indiana Business Directory"
+title: "Fairmount, IN Business Directory"
+type: "towns"
 slug: "fairmount-in"
-town: "Fairmount"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 2766
+state: "in"
+town_data: "fairmount-in"
 ---

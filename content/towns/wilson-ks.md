@@ -1,9 +1,7 @@
 ---
-title: "Wilson, Kansas Business Directory"
+title: "Wilson, KS Business Directory"
+type: "towns"
 slug: "wilson-ks"
-town: "Wilson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellsworth"
-population: 860
+state: "ks"
+town_data: "wilson-ks"
 ---

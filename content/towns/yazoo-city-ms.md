@@ -1,7 +1,7 @@
 ---
-title: "Yazoo City, Mississippi Business Directory"
+title: "Yazoo City, MS Business Directory"
+type: "towns"
 slug: "yazoo-city-ms"
-state: "MS"
-county: "Yazoo"
-population: 10461
+state: "ms"
+town_data: "yazoo-city-ms"
 ---

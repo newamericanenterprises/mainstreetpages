@@ -1,9 +1,7 @@
 ---
-title: "Palmer, Minnesota Business Directory"
+title: "Palmer, MN Business Directory"
+type: "towns"
 slug: "palmer-mn"
-town: "Palmer"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 1468
+state: "mn"
+town_data: "palmer-mn"
 ---

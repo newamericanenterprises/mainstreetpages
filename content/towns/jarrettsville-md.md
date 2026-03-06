@@ -1,9 +1,7 @@
 ---
-title: "Jarrettsville, Maryland Business Directory"
+title: "Jarrettsville, MD Business Directory"
+type: "towns"
 slug: "jarrettsville-md"
-town: "Jarrettsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 4340
+state: "md"
+town_data: "jarrettsville-md"
 ---

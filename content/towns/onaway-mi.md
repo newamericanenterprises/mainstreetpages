@@ -1,9 +1,7 @@
 ---
-title: "Onaway, Michigan Business Directory"
+title: "Onaway, MI Business Directory"
+type: "towns"
 slug: "onaway-mi"
-town: "Onaway"
-state: "Michigan"
-state_abbr: "MI"
-county: "Presque Isle"
-population: 845
+state: "mi"
+town_data: "onaway-mi"
 ---

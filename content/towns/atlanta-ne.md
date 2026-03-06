@@ -1,7 +1,7 @@
 ---
-title: "Atlanta, Nebraska Business Directory"
+title: "Atlanta, NE Business Directory"
+type: "towns"
 slug: "atlanta-ne"
-state: "NE"
-county: "Phelps"
-population: 500
+state: "ne"
+town_data: "atlanta-ne"
 ---

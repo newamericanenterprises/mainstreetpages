@@ -1,9 +1,7 @@
 ---
-title: "Greenfield, Iowa Business Directory"
+title: "Greenfield, IA Business Directory"
+type: "towns"
 slug: "greenfield-ia"
-town: "Greenfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 1982
+state: "ia"
+town_data: "greenfield-ia"
 ---

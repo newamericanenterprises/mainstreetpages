@@ -1,9 +1,7 @@
 ---
-title: "Brunsville, Iowa Business Directory"
+title: "Brunsville, IA Business Directory"
+type: "towns"
 slug: "brunsville-ia"
-town: "Brunsville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 1074
+state: "ia"
+town_data: "brunsville-ia"
 ---

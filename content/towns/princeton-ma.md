@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Massachusetts Business Directory"
+title: "Princeton, MA Business Directory"
+type: "towns"
 slug: "princeton-ma"
-town: "Princeton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2495
+state: "ma"
+town_data: "princeton-ma"
 ---

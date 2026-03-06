@@ -1,9 +1,7 @@
 ---
-title: "Brook Park, Minnesota Business Directory"
+title: "Brook Park, MN Business Directory"
+type: "towns"
 slug: "brook-park-mn"
-town: "Brook Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 2262
+state: "mn"
+town_data: "brook-park-mn"
 ---

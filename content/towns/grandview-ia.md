@@ -1,9 +1,7 @@
 ---
-title: "Grandview, Iowa Business Directory"
+title: "Grandview, IA Business Directory"
+type: "towns"
 slug: "grandview-ia"
-town: "Grandview"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 2660
+state: "ia"
+town_data: "grandview-ia"
 ---

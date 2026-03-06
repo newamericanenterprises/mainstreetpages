@@ -1,9 +1,7 @@
 ---
-title: "Jenkins, Kentucky Business Directory"
+title: "Jenkins, KY Business Directory"
+type: "towns"
 slug: "jenkins-ky"
-town: "Jenkins"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Letcher"
-population: 2082
+state: "ky"
+town_data: "jenkins-ky"
 ---

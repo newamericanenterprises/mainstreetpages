@@ -1,9 +1,7 @@
 ---
-title: "Fort Gratiot, Michigan Business Directory"
+title: "Fort Gratiot, MI Business Directory"
+type: "towns"
 slug: "fort-gratiot-mi"
-town: "Fort Gratiot"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 3809
+state: "mi"
+town_data: "fort-gratiot-mi"
 ---

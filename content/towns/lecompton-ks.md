@@ -1,9 +1,7 @@
 ---
-title: "Lecompton, Kansas Business Directory"
+title: "Lecompton, KS Business Directory"
+type: "towns"
 slug: "lecompton-ks"
-town: "Lecompton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Douglas"
-population: 2690
+state: "ks"
+town_data: "lecompton-ks"
 ---

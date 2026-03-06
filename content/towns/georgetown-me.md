@@ -1,9 +1,7 @@
 ---
-title: "Georgetown, Maine Business Directory"
+title: "Georgetown, ME Business Directory"
+type: "towns"
 slug: "georgetown-me"
-town: "Georgetown"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 1400
+state: "me"
+town_data: "georgetown-me"
 ---

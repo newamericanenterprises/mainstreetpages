@@ -1,7 +1,7 @@
 ---
-title: "Murdock, Nebraska Business Directory"
+title: "Murdock, NE Business Directory"
+type: "towns"
 slug: "murdock-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "murdock-ne"
 ---

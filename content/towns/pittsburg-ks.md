@@ -1,9 +1,7 @@
 ---
-title: "Pittsburg, Kansas Business Directory"
+title: "Pittsburg, KS Business Directory"
+type: "towns"
 slug: "pittsburg-ks"
-town: "Pittsburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 20216
+state: "ks"
+town_data: "pittsburg-ks"
 ---

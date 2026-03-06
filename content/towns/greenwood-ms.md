@@ -1,7 +1,7 @@
 ---
-title: "Greenwood, Mississippi Business Directory"
+title: "Greenwood, MS Business Directory"
+type: "towns"
 slug: "greenwood-ms"
-state: "MS"
-county: "Leflore"
-population: 13544
+state: "ms"
+town_data: "greenwood-ms"
 ---

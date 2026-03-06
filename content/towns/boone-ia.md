@@ -1,9 +1,7 @@
 ---
-title: "Boone, Iowa Business Directory"
+title: "Boone, IA Business Directory"
+type: "towns"
 slug: "boone-ia"
-town: "Boone"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 12439
+state: "ia"
+town_data: "boone-ia"
 ---

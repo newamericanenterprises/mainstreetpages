@@ -1,9 +1,7 @@
 ---
-title: "North Newton, Kansas Business Directory"
+title: "North Newton, KS Business Directory"
+type: "towns"
 slug: "north-newton-ks"
-town: "North Newton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 2348
+state: "ks"
+town_data: "north-newton-ks"
 ---

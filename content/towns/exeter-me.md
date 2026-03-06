@@ -1,9 +1,7 @@
 ---
-title: "Exeter, Maine Business Directory"
+title: "Exeter, ME Business Directory"
+type: "towns"
 slug: "exeter-me"
-town: "Exeter"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2226
+state: "me"
+town_data: "exeter-me"
 ---

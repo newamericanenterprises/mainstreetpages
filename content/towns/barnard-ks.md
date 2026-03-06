@@ -1,9 +1,7 @@
 ---
-title: "Barnard, Kansas Business Directory"
+title: "Barnard, KS Business Directory"
+type: "towns"
 slug: "barnard-ks"
-town: "Barnard"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lincoln"
-population: 1921
+state: "ks"
+town_data: "barnard-ks"
 ---

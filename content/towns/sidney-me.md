@@ -1,9 +1,7 @@
 ---
-title: "Sidney, Maine Business Directory"
+title: "Sidney, ME Business Directory"
+type: "towns"
 slug: "sidney-me"
-town: "Sidney"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 2206
+state: "me"
+town_data: "sidney-me"
 ---

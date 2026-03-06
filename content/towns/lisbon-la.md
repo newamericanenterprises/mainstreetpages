@@ -1,9 +1,7 @@
 ---
-title: "Lisbon, Louisiana Business Directory"
+title: "Lisbon, LA Business Directory"
+type: "towns"
 slug: "lisbon-la"
-town: "Lisbon"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Claiborne"
-population: 793
+state: "la"
+town_data: "lisbon-la"
 ---

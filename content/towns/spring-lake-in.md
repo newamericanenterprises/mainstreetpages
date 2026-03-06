@@ -1,9 +1,7 @@
 ---
-title: "Spring Lake, Indiana Business Directory"
+title: "Spring Lake, IN Business Directory"
+type: "towns"
 slug: "spring-lake-in"
-town: "Spring Lake"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 5003
+state: "in"
+town_data: "spring-lake-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vergas, Minnesota Business Directory"
+title: "Vergas, MN Business Directory"
+type: "towns"
 slug: "vergas-mn"
-town: "Vergas"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 930
+state: "mn"
+town_data: "vergas-mn"
 ---

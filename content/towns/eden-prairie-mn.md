@@ -1,9 +1,7 @@
 ---
-title: "Eden Prairie, Minnesota Business Directory"
+title: "Eden Prairie, MN Business Directory"
+type: "towns"
 slug: "eden-prairie-mn"
-town: "Eden Prairie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 64198
+state: "mn"
+town_data: "eden-prairie-mn"
 ---

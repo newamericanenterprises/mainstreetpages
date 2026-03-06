@@ -1,7 +1,7 @@
 ---
-title: "Blue Springs, Missouri Business Directory"
+title: "Blue Springs, MO Business Directory"
+type: "towns"
 slug: "blue-springs-mo"
-state: "MO"
-county: "Jackson"
-population: 56838
+state: "mo"
+town_data: "blue-springs-mo"
 ---

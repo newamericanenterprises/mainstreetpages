@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Michigan Business Directory"
+title: "Burlington, MI Business Directory"
+type: "towns"
 slug: "burlington-mi"
-town: "Burlington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 3028
+state: "mi"
+town_data: "burlington-mi"
 ---

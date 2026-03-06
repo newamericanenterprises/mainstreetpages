@@ -1,9 +1,7 @@
 ---
-title: "Scranton, Iowa Business Directory"
+title: "Scranton, IA Business Directory"
+type: "towns"
 slug: "scranton-ia"
-town: "Scranton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 3141
+state: "ia"
+town_data: "scranton-ia"
 ---

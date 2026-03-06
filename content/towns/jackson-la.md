@@ -1,9 +1,7 @@
 ---
-title: "Jackson, Louisiana Business Directory"
+title: "Jackson, LA Business Directory"
+type: "towns"
 slug: "jackson-la"
-town: "Jackson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Feliciana"
-population: 1892
+state: "la"
+town_data: "jackson-la"
 ---

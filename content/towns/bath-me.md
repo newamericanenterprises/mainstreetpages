@@ -1,9 +1,7 @@
 ---
-title: "Bath, Maine Business Directory"
+title: "Bath, ME Business Directory"
+type: "towns"
 slug: "bath-me"
-town: "Bath"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 8333
+state: "me"
+town_data: "bath-me"
 ---

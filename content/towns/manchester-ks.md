@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Kansas Business Directory"
+title: "Manchester, KS Business Directory"
+type: "towns"
 slug: "manchester-ks"
-town: "Manchester"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 2990
+state: "ks"
+town_data: "manchester-ks"
 ---

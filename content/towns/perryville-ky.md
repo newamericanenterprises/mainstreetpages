@@ -1,9 +1,7 @@
 ---
-title: "Perryville, Kentucky Business Directory"
+title: "Perryville, KY Business Directory"
+type: "towns"
 slug: "perryville-ky"
-town: "Perryville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyle"
-population: 1454
+state: "ky"
+town_data: "perryville-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clarksville, Missouri Business Directory"
+title: "Clarksville, MO Business Directory"
+type: "towns"
 slug: "clarksville-mo"
-state: "MO"
-county: "Pike"
-population: 442
+state: "mo"
+town_data: "clarksville-mo"
 ---

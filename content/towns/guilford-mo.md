@@ -1,7 +1,7 @@
 ---
-title: "Guilford, Missouri Business Directory"
+title: "Guilford, MO Business Directory"
+type: "towns"
 slug: "guilford-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "guilford-mo"
 ---

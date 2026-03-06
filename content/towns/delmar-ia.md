@@ -1,9 +1,7 @@
 ---
-title: "Delmar, Iowa Business Directory"
+title: "Delmar, IA Business Directory"
+type: "towns"
 slug: "delmar-ia"
-town: "Delmar"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clinton"
-population: 1828
+state: "ia"
+town_data: "delmar-ia"
 ---

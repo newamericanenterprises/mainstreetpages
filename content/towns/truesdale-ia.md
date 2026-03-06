@@ -1,9 +1,7 @@
 ---
-title: "Truesdale, Iowa Business Directory"
+title: "Truesdale, IA Business Directory"
+type: "towns"
 slug: "truesdale-ia"
-town: "Truesdale"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 1155
+state: "ia"
+town_data: "truesdale-ia"
 ---

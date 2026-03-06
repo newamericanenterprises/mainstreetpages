@@ -1,9 +1,7 @@
 ---
-title: "Truro, Iowa Business Directory"
+title: "Truro, IA Business Directory"
+type: "towns"
 slug: "truro-ia"
-town: "Truro"
-state: "Iowa"
-state_abbr: "IA"
-county: "Madison"
-population: 646
+state: "ia"
+town_data: "truro-ia"
 ---

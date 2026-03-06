@@ -1,9 +1,7 @@
 ---
-title: "Interlochen, Michigan Business Directory"
+title: "Interlochen, MI Business Directory"
+type: "towns"
 slug: "interlochen-mi"
-town: "Interlochen"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 1027
+state: "mi"
+town_data: "interlochen-mi"
 ---

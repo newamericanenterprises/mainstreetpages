@@ -1,9 +1,7 @@
 ---
-title: "Kensington, Maryland Business Directory"
+title: "Kensington, MD Business Directory"
+type: "towns"
 slug: "kensington-md"
-town: "Kensington"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3482
+state: "md"
+town_data: "kensington-md"
 ---

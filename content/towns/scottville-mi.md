@@ -1,9 +1,7 @@
 ---
-title: "Scottville, Michigan Business Directory"
+title: "Scottville, MI Business Directory"
+type: "towns"
 slug: "scottville-mi"
-town: "Scottville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mason"
-population: 1607
+state: "mi"
+town_data: "scottville-mi"
 ---

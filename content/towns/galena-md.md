@@ -1,9 +1,7 @@
 ---
-title: "Galena, Maryland Business Directory"
+title: "Galena, MD Business Directory"
+type: "towns"
 slug: "galena-md"
-town: "Galena"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 1860
+state: "md"
+town_data: "galena-md"
 ---

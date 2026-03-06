@@ -1,9 +1,7 @@
 ---
-title: "St. Paul, Kansas Business Directory"
+title: "St. Paul, KS Business Directory"
+type: "towns"
 slug: "st-paul-ks"
-town: "St. Paul"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 1120
+state: "ks"
+town_data: "st-paul-ks"
 ---

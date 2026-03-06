@@ -1,9 +1,7 @@
 ---
-title: "Colwell, Iowa Business Directory"
+title: "Colwell, IA Business Directory"
+type: "towns"
 slug: "colwell-ia"
-town: "Colwell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 3471
+state: "ia"
+town_data: "colwell-ia"
 ---

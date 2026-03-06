@@ -1,7 +1,7 @@
 ---
-title: "Thayer, Missouri Business Directory"
+title: "Thayer, MO Business Directory"
+type: "towns"
 slug: "thayer-mo"
-state: "MO"
-county: "Oregon"
-population: 2288
+state: "mo"
+town_data: "thayer-mo"
 ---

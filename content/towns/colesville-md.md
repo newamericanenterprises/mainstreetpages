@@ -1,9 +1,7 @@
 ---
-title: "Colesville, Maryland Business Directory"
+title: "Colesville, MD Business Directory"
+type: "towns"
 slug: "colesville-md"
-town: "Colesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 4366
+state: "md"
+town_data: "colesville-md"
 ---

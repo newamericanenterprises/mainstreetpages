@@ -1,9 +1,7 @@
 ---
-title: "North Middletown, Kentucky Business Directory"
+title: "North Middletown, KY Business Directory"
+type: "towns"
 slug: "north-middletown-ky"
-town: "North Middletown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bourbon"
-population: 2420
+state: "ky"
+town_data: "north-middletown-ky"
 ---

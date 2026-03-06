@@ -1,9 +1,7 @@
 ---
-title: "Stanwood, Michigan Business Directory"
+title: "Stanwood, MI Business Directory"
+type: "towns"
 slug: "stanwood-mi"
-town: "Stanwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mecosta"
-population: 2017
+state: "mi"
+town_data: "stanwood-mi"
 ---

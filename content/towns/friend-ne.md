@@ -1,7 +1,7 @@
 ---
-title: "Friend, Nebraska Business Directory"
+title: "Friend, NE Business Directory"
+type: "towns"
 slug: "friend-ne"
-state: "NE"
-county: "Saline"
-population: 1030
+state: "ne"
+town_data: "friend-ne"
 ---

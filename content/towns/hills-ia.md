@@ -1,9 +1,7 @@
 ---
-title: "Hills, Iowa Business Directory"
+title: "Hills, IA Business Directory"
+type: "towns"
 slug: "hills-ia"
-town: "Hills"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2264
+state: "ia"
+town_data: "hills-ia"
 ---

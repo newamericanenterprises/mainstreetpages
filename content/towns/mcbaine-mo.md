@@ -1,7 +1,7 @@
 ---
-title: "McBaine, Missouri Business Directory"
+title: "Mcbaine, MO Business Directory"
+type: "towns"
 slug: "mcbaine-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "mcbaine-mo"
 ---

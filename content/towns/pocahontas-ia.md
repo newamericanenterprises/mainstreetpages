@@ -1,9 +1,7 @@
 ---
-title: "Pocahontas, Iowa Business Directory"
+title: "Pocahontas, IA Business Directory"
+type: "towns"
 slug: "pocahontas-ia"
-town: "Pocahontas"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1789
+state: "ia"
+town_data: "pocahontas-ia"
 ---

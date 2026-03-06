@@ -1,9 +1,7 @@
 ---
-title: "Miltonvale, Kansas Business Directory"
+title: "Miltonvale, KS Business Directory"
+type: "towns"
 slug: "miltonvale-ks"
-town: "Miltonvale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 1475
+state: "ks"
+town_data: "miltonvale-ks"
 ---

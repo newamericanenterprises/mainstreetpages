@@ -1,9 +1,7 @@
 ---
-title: "Maugansville, Maryland Business Directory"
+title: "Maugansville, MD Business Directory"
+type: "towns"
 slug: "maugansville-md"
-town: "Maugansville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Washington"
-population: 5467
+state: "md"
+town_data: "maugansville-md"
 ---

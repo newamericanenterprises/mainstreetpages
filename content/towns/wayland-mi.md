@@ -1,9 +1,7 @@
 ---
-title: "Wayland, Michigan Business Directory"
+title: "Wayland, MI Business Directory"
+type: "towns"
 slug: "wayland-mi"
-town: "Wayland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 762
+state: "mi"
+town_data: "wayland-mi"
 ---

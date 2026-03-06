@@ -1,9 +1,7 @@
 ---
-title: "Matthews, Indiana Business Directory"
+title: "Matthews, IN Business Directory"
+type: "towns"
 slug: "matthews-in"
-town: "Matthews"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 2481
+state: "in"
+town_data: "matthews-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Scott City, Kansas Business Directory"
+title: "Scott City, KS Business Directory"
+type: "towns"
 slug: "scott-city-ks"
-town: "Scott City"
-state: "Kansas"
-state_abbr: "KS"
-county: "Scott"
-population: 3765
+state: "ks"
+town_data: "scott-city-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Baskin, Louisiana Business Directory"
+title: "Baskin, LA Business Directory"
+type: "towns"
 slug: "baskin-la"
-town: "Baskin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Franklin"
-population: 2215
+state: "la"
+town_data: "baskin-la"
 ---

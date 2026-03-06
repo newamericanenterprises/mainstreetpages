@@ -1,9 +1,7 @@
 ---
-title: "Great Bend, Kansas Business Directory"
+title: "Great Bend, KS Business Directory"
+type: "towns"
 slug: "great-bend-ks"
-town: "Great Bend"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 15004
+state: "ks"
+town_data: "great-bend-ks"
 ---

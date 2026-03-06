@@ -1,9 +1,7 @@
 ---
-title: "Morenci, Michigan Business Directory"
+title: "Morenci, MI Business Directory"
+type: "towns"
 slug: "morenci-mi"
-town: "Morenci"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lenawee"
-population: 1086
+state: "mi"
+town_data: "morenci-mi"
 ---

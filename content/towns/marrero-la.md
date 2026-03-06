@@ -1,9 +1,7 @@
 ---
-title: "Marrero, Louisiana Business Directory"
+title: "Marrero, LA Business Directory"
+type: "towns"
 slug: "marrero-la"
-town: "Marrero"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 31692
+state: "la"
+town_data: "marrero-la"
 ---

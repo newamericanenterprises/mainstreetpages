@@ -1,7 +1,7 @@
 ---
-title: "Mount Sterling, Missouri Business Directory"
+title: "Mount Sterling, MO Business Directory"
+type: "towns"
 slug: "mount-sterling-mo"
-state: "MO"
-county: "Gasconade"
-population: 1500
+state: "mo"
+town_data: "mount-sterling-mo"
 ---

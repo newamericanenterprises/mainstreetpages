@@ -1,7 +1,7 @@
 ---
-title: "Decatur, Nebraska Business Directory"
+title: "Decatur, NE Business Directory"
+type: "towns"
 slug: "decatur-ne"
-state: "NE"
-county: "Burt"
-population: 481
+state: "ne"
+town_data: "decatur-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Caledonia, Mississippi Business Directory"
+title: "Caledonia, MS Business Directory"
+type: "towns"
 slug: "caledonia-ms"
-state: "MS"
-county: "Lowndes"
-population: 1073
+state: "ms"
+town_data: "caledonia-ms"
 ---

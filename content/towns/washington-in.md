@@ -1,9 +1,7 @@
 ---
-title: "Washington, Indiana Business Directory"
+title: "Washington, IN Business Directory"
+type: "towns"
 slug: "washington-in"
-town: "Washington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 11861
+state: "in"
+town_data: "washington-in"
 ---

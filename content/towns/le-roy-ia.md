@@ -1,9 +1,7 @@
 ---
-title: "Le Roy, Iowa Business Directory"
+title: "Le Roy, IA Business Directory"
+type: "towns"
 slug: "le-roy-ia"
-town: "Le Roy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 3269
+state: "ia"
+town_data: "le-roy-ia"
 ---

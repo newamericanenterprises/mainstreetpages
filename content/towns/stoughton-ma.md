@@ -1,9 +1,7 @@
 ---
-title: "Stoughton, Massachusetts Business Directory"
+title: "Stoughton, MA Business Directory"
+type: "towns"
 slug: "stoughton-ma"
-town: "Stoughton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 29314
+state: "ma"
+town_data: "stoughton-ma"
 ---

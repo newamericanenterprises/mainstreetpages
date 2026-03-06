@@ -1,7 +1,7 @@
 ---
-title: "Huson, Montana Business Directory"
+title: "Huson, MT Business Directory"
+type: "towns"
 slug: "huson-mt"
-state: "MT"
-county: "Missoula"
-population: 500
+state: "mt"
+town_data: "huson-mt"
 ---

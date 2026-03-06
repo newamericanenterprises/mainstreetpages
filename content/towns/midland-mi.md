@@ -1,9 +1,7 @@
 ---
-title: "Midland, Michigan Business Directory"
+title: "Midland, MI Business Directory"
+type: "towns"
 slug: "midland-mi"
-town: "Midland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Midland"
-population: 42181
+state: "mi"
+town_data: "midland-mi"
 ---

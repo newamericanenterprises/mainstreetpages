@@ -1,9 +1,7 @@
 ---
-title: "Frenchburg, Kentucky Business Directory"
+title: "Frenchburg, KY Business Directory"
+type: "towns"
 slug: "frenchburg-ky"
-town: "Frenchburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Menifee"
-population: 2396
+state: "ky"
+town_data: "frenchburg-ky"
 ---

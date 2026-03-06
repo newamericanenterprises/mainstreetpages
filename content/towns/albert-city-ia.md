@@ -1,9 +1,7 @@
 ---
-title: "Albert City, Iowa Business Directory"
+title: "Albert City, IA Business Directory"
+type: "towns"
 slug: "albert-city-ia"
-town: "Albert City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 3207
+state: "ia"
+town_data: "albert-city-ia"
 ---

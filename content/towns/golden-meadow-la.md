@@ -1,9 +1,7 @@
 ---
-title: "Golden Meadow, Louisiana Business Directory"
+title: "Golden Meadow, LA Business Directory"
+type: "towns"
 slug: "golden-meadow-la"
-town: "Golden Meadow"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafourche"
-population: 969
+state: "la"
+town_data: "golden-meadow-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Darby, Montana Business Directory"
+title: "Darby, MT Business Directory"
+type: "towns"
 slug: "darby-mt"
-state: "MT"
-county: "Ravalli"
-population: 754
+state: "mt"
+town_data: "darby-mt"
 ---

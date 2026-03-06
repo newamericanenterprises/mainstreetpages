@@ -1,7 +1,7 @@
 ---
-title: "Rollins, Montana Business Directory"
+title: "Rollins, MT Business Directory"
+type: "towns"
 slug: "rollins-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "rollins-mt"
 ---

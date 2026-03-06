@@ -1,9 +1,7 @@
 ---
-title: "Ellicott City, Maryland Business Directory"
+title: "Ellicott City, MD Business Directory"
+type: "towns"
 slug: "ellicott-city-md"
-town: "Ellicott City"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 73272
+state: "md"
+town_data: "ellicott-city-md"
 ---

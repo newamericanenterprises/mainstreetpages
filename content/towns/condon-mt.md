@@ -1,7 +1,7 @@
 ---
-title: "Condon, Montana Business Directory"
+title: "Condon, MT Business Directory"
+type: "towns"
 slug: "condon-mt"
-state: "MT"
-county: "Missoula"
-population: 500
+state: "mt"
+town_data: "condon-mt"
 ---

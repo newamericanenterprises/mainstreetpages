@@ -1,9 +1,7 @@
 ---
-title: "Wheatland, Indiana Business Directory"
+title: "Wheatland, IN Business Directory"
+type: "towns"
 slug: "wheatland-in"
-town: "Wheatland"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 5213
+state: "in"
+town_data: "wheatland-in"
 ---

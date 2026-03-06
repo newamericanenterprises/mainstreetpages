@@ -1,9 +1,7 @@
 ---
-title: "Plain Dealing, Louisiana Business Directory"
+title: "Plain Dealing, LA Business Directory"
+type: "towns"
 slug: "plain-dealing-la"
-town: "Plain Dealing"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bossier"
-population: 928
+state: "la"
+town_data: "plain-dealing-la"
 ---

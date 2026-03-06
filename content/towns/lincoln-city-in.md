@@ -1,9 +1,7 @@
 ---
-title: "Lincoln City, Indiana Business Directory"
+title: "Lincoln City, IN Business Directory"
+type: "towns"
 slug: "lincoln-city-in"
-town: "Lincoln City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 5210
+state: "in"
+town_data: "lincoln-city-in"
 ---

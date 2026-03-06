@@ -1,9 +1,7 @@
 ---
-title: "Manchester-by-the-Sea, Massachusetts Business Directory"
+title: "Manchester-by-the-Sea, MA Business Directory"
+type: "towns"
 slug: "manchester-by-the-sea-ma"
-town: "Manchester-by-the-Sea"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 6306
+state: "ma"
+town_data: "manchester-by-the-sea-ma"
 ---

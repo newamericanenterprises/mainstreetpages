@@ -1,9 +1,7 @@
 ---
-title: "Smith Center, Kansas Business Directory"
+title: "Smith Center, KS Business Directory"
+type: "towns"
 slug: "smith-center-ks"
-town: "Smith Center"
-state: "Kansas"
-state_abbr: "KS"
-county: "Smith"
-population: 1600
+state: "ks"
+town_data: "smith-center-ks"
 ---

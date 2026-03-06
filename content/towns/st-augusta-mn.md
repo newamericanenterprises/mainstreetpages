@@ -1,9 +1,7 @@
 ---
-title: "St. Augusta, Minnesota Business Directory"
+title: "St. Augusta, MN Business Directory"
+type: "towns"
 slug: "st-augusta-mn"
-town: "St. Augusta"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 2395
+state: "mn"
+town_data: "st-augusta-mn"
 ---

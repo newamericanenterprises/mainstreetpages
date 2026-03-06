@@ -1,9 +1,7 @@
 ---
-title: "Southgate, Michigan Business Directory"
+title: "Southgate, MI Business Directory"
+type: "towns"
 slug: "southgate-mi"
-town: "Southgate"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1021
+state: "mi"
+town_data: "southgate-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vanceburg, Kentucky Business Directory"
+title: "Vanceburg, KY Business Directory"
+type: "towns"
 slug: "vanceburg-ky"
-town: "Vanceburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lewis"
-population: 1381
+state: "ky"
+town_data: "vanceburg-ky"
 ---

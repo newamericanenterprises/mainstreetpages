@@ -1,9 +1,7 @@
 ---
-title: "Wellesley, Massachusetts Business Directory"
+title: "Wellesley, MA Business Directory"
+type: "towns"
 slug: "wellesley-ma"
-town: "Wellesley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 29673
+state: "ma"
+town_data: "wellesley-ma"
 ---

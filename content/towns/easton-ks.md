@@ -1,9 +1,7 @@
 ---
-title: "Easton, Kansas Business Directory"
+title: "Easton, KS Business Directory"
+type: "towns"
 slug: "easton-ks"
-town: "Easton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 2588
+state: "ks"
+town_data: "easton-ks"
 ---

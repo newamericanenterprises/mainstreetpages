@@ -1,7 +1,7 @@
 ---
-title: "Hemingford, Nebraska Business Directory"
+title: "Hemingford, NE Business Directory"
+type: "towns"
 slug: "hemingford-ne"
-state: "NE"
-county: "Box Butte"
-population: 500
+state: "ne"
+town_data: "hemingford-ne"
 ---

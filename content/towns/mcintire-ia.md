@@ -1,9 +1,7 @@
 ---
-title: "McIntire, Iowa Business Directory"
+title: "McIntire, IA Business Directory"
+type: "towns"
 slug: "mcintire-ia"
-town: "McIntire"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 1857
+state: "ia"
+town_data: "mcintire-ia"
 ---

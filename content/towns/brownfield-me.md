@@ -1,9 +1,7 @@
 ---
-title: "Brownfield, Maine Business Directory"
+title: "Brownfield, ME Business Directory"
+type: "towns"
 slug: "brownfield-me"
-town: "Brownfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 444
+state: "me"
+town_data: "brownfield-me"
 ---

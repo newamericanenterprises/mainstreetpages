@@ -1,7 +1,7 @@
 ---
-title: "Hornersville, Missouri Business Directory"
+title: "Hornersville, MO Business Directory"
+type: "towns"
 slug: "hornersville-mo"
-state: "MO"
-county: "Dunklin"
-population: 1500
+state: "mo"
+town_data: "hornersville-mo"
 ---

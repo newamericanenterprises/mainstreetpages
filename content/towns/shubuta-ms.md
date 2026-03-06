@@ -1,7 +1,7 @@
 ---
-title: "Shubuta, Mississippi Business Directory"
+title: "Shubuta, MS Business Directory"
+type: "towns"
 slug: "shubuta-ms"
-state: "MS"
-county: "Clarke"
-population: 448
+state: "ms"
+town_data: "shubuta-ms"
 ---

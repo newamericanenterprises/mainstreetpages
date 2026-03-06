@@ -1,7 +1,7 @@
 ---
-title: "Bay St. Louis, Mississippi Business Directory"
+title: "Bay St Louis, MS Business Directory"
+type: "towns"
 slug: "bay-st-louis-ms"
-state: "MS"
-county: "Hancock"
-population: 13206
+state: "ms"
+town_data: "bay-st-louis-ms"
 ---

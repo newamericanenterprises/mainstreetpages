@@ -1,9 +1,7 @@
 ---
-title: "Tawas City, Michigan Business Directory"
+title: "Tawas City, MI Business Directory"
+type: "towns"
 slug: "tawas-city-mi"
-town: "Tawas City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iosco"
-population: 1822
+state: "mi"
+town_data: "tawas-city-mi"
 ---

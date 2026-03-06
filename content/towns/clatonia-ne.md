@@ -1,7 +1,7 @@
 ---
-title: "Clatonia, Nebraska Business Directory"
+title: "Clatonia, NE Business Directory"
+type: "towns"
 slug: "clatonia-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "clatonia-ne"
 ---

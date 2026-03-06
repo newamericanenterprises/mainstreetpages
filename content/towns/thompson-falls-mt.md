@@ -1,7 +1,7 @@
 ---
-title: "Thompson Falls, Montana Business Directory"
+title: "Thompson Falls, MT Business Directory"
+type: "towns"
 slug: "thompson-falls-mt"
-state: "MT"
-county: "Sanders"
-population: 1313
+state: "mt"
+town_data: "thompson-falls-mt"
 ---

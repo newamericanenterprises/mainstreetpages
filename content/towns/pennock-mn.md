@@ -1,9 +1,7 @@
 ---
-title: "Pennock, Minnesota Business Directory"
+title: "Pennock, MN Business Directory"
+type: "towns"
 slug: "pennock-mn"
-town: "Pennock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1711
+state: "mn"
+town_data: "pennock-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Campbell, Nebraska Business Directory"
+title: "Campbell, NE Business Directory"
+type: "towns"
 slug: "campbell-ne"
-state: "NE"
-county: "Franklin"
-population: 500
+state: "ne"
+town_data: "campbell-ne"
 ---

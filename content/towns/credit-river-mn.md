@@ -1,9 +1,7 @@
 ---
-title: "Credit River, Minnesota Business Directory"
+title: "Credit River, MN Business Directory"
+type: "towns"
 slug: "credit-river-mn"
-town: "Credit River"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 334
+state: "mn"
+town_data: "credit-river-mn"
 ---

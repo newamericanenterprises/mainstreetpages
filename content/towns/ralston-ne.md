@@ -1,7 +1,7 @@
 ---
-title: "Ralston, Nebraska Business Directory"
+title: "Ralston, NE Business Directory"
+type: "towns"
 slug: "ralston-ne"
-state: "NE"
-county: "Douglas"
-population: 7305
+state: "ne"
+town_data: "ralston-ne"
 ---

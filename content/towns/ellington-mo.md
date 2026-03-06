@@ -1,7 +1,7 @@
 ---
-title: "Ellington, Missouri Business Directory"
+title: "Ellington, MO Business Directory"
+type: "towns"
 slug: "ellington-mo"
-state: "MO"
-county: "Reynolds"
-population: 1009
+state: "mo"
+town_data: "ellington-mo"
 ---

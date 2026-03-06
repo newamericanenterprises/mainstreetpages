@@ -1,9 +1,7 @@
 ---
-title: "St. Ansgar, Iowa Business Directory"
+title: "St. Ansgar, IA Business Directory"
+type: "towns"
 slug: "st-ansgar-ia"
-town: "St. Ansgar"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 1234
+state: "ia"
+town_data: "st-ansgar-ia"
 ---

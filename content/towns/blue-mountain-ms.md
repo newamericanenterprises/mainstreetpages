@@ -1,7 +1,7 @@
 ---
-title: "Blue Mountain, Mississippi Business Directory"
+title: "Blue Mountain, MS Business Directory"
+type: "towns"
 slug: "blue-mountain-ms"
-state: "MS"
-county: "Tippah"
-population: 858
+state: "ms"
+town_data: "blue-mountain-ms"
 ---

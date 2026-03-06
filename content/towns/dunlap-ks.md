@@ -1,9 +1,7 @@
 ---
-title: "Dunlap, Kansas Business Directory"
+title: "Dunlap, KS Business Directory"
+type: "towns"
 slug: "dunlap-ks"
-town: "Dunlap"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 3136
+state: "ks"
+town_data: "dunlap-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lock Springs, Missouri Business Directory"
+title: "Lock Springs, MO Business Directory"
+type: "towns"
 slug: "lock-springs-mo"
-state: "MO"
-county: "Daviess"
-population: 1500
+state: "mo"
+town_data: "lock-springs-mo"
 ---

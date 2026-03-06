@@ -1,7 +1,7 @@
 ---
-title: "Madison, Nebraska Business Directory"
+title: "Madison, NE Business Directory"
+type: "towns"
 slug: "madison-ne"
-state: "NE"
-county: "Madison"
-population: 2438
+state: "ne"
+town_data: "madison-ne"
 ---

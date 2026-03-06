@@ -1,7 +1,7 @@
 ---
-title: "Velda Village Hills, Missouri Business Directory"
+title: "Velda Village Hills, MO Business Directory"
+type: "towns"
 slug: "velda-village-hills-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "velda-village-hills-mo"
 ---

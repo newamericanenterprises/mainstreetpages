@@ -1,9 +1,7 @@
 ---
-title: "Atlanta, Kansas Business Directory"
+title: "Atlanta, KS Business Directory"
+type: "towns"
 slug: "atlanta-ks"
-town: "Atlanta"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 2322
+state: "ks"
+town_data: "atlanta-ks"
 ---

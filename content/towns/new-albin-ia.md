@@ -1,9 +1,7 @@
 ---
-title: "New Albin, Iowa Business Directory"
+title: "New Albin, IA Business Directory"
+type: "towns"
 slug: "new-albin-ia"
-town: "New Albin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Allamakee"
-population: 1108
+state: "ia"
+town_data: "new-albin-ia"
 ---

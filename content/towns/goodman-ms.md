@@ -1,7 +1,7 @@
 ---
-title: "Goodman, Mississippi Business Directory"
+title: "Goodman, MS Business Directory"
+type: "towns"
 slug: "goodman-ms"
-state: "MS"
-county: "Holmes"
-population: 1295
+state: "ms"
+town_data: "goodman-ms"
 ---

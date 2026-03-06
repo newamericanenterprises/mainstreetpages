@@ -1,9 +1,7 @@
 ---
-title: "Tewksbury, Massachusetts Business Directory"
+title: "Tewksbury, MA Business Directory"
+type: "towns"
 slug: "tewksbury-ma"
-town: "Tewksbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 5970
+state: "ma"
+town_data: "tewksbury-ma"
 ---

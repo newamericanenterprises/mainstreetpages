@@ -1,9 +1,7 @@
 ---
-title: "Millinocket, Maine Business Directory"
+title: "Millinocket, ME Business Directory"
+type: "towns"
 slug: "millinocket-me"
-town: "Millinocket"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 4119
+state: "me"
+town_data: "millinocket-me"
 ---

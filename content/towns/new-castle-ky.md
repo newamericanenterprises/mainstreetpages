@@ -1,9 +1,7 @@
 ---
-title: "New Castle, Kentucky Business Directory"
+title: "New Castle, KY Business Directory"
+type: "towns"
 slug: "new-castle-ky"
-town: "New Castle"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henry"
-population: 917
+state: "ky"
+town_data: "new-castle-ky"
 ---

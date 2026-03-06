@@ -1,9 +1,7 @@
 ---
-title: "Prairie View, Kansas Business Directory"
+title: "Prairie View, KS Business Directory"
+type: "towns"
 slug: "prairie-view-ks"
-town: "Prairie View"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 2726
+state: "ks"
+town_data: "prairie-view-ks"
 ---

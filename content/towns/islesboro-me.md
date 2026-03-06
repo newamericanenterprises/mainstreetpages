@@ -1,9 +1,7 @@
 ---
-title: "Islesboro, Maine Business Directory"
+title: "Islesboro, ME Business Directory"
+type: "towns"
 slug: "islesboro-me"
-town: "Islesboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 621
+state: "me"
+town_data: "islesboro-me"
 ---

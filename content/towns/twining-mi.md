@@ -1,9 +1,7 @@
 ---
-title: "Twining, Michigan Business Directory"
+title: "Twining, MI Business Directory"
+type: "towns"
 slug: "twining-mi"
-town: "Twining"
-state: "Michigan"
-state_abbr: "MI"
-county: "Arenac"
-population: 1541
+state: "mi"
+town_data: "twining-mi"
 ---

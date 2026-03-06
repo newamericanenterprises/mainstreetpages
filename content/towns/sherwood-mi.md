@@ -1,9 +1,7 @@
 ---
-title: "Sherwood, Michigan Business Directory"
+title: "Sherwood, MI Business Directory"
+type: "towns"
 slug: "sherwood-mi"
-town: "Sherwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Branch"
-population: 3944
+state: "mi"
+town_data: "sherwood-mi"
 ---

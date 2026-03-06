@@ -1,9 +1,7 @@
 ---
-title: "Middletown, Maryland Business Directory"
+title: "Middletown, MD Business Directory"
+type: "towns"
 slug: "middletown-md"
-town: "Middletown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 3522
+state: "md"
+town_data: "middletown-md"
 ---

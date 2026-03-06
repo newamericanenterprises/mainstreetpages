@@ -1,9 +1,7 @@
 ---
-title: "Yale, Iowa Business Directory"
+title: "Yale, IA Business Directory"
+type: "towns"
 slug: "yale-ia"
-town: "Yale"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 1837
+state: "ia"
+town_data: "yale-ia"
 ---

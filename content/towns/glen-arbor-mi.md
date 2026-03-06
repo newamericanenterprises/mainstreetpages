@@ -1,9 +1,7 @@
 ---
-title: "Glen Arbor, Michigan Business Directory"
+title: "Glen Arbor, MI Business Directory"
+type: "towns"
 slug: "glen-arbor-mi"
-town: "Glen Arbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 1425
+state: "mi"
+town_data: "glen-arbor-mi"
 ---

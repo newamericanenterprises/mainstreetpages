@@ -1,7 +1,7 @@
 ---
-title: "Juniata, Nebraska Business Directory"
+title: "Juniata, NE Business Directory"
+type: "towns"
 slug: "juniata-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "juniata-ne"
 ---

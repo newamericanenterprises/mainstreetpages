@@ -1,7 +1,7 @@
 ---
-title: "Bellerive, Missouri Business Directory"
+title: "Bellerive, MO Business Directory"
+type: "towns"
 slug: "bellerive-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "bellerive-mo"
 ---

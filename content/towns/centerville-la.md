@@ -1,9 +1,7 @@
 ---
-title: "Centerville, Louisiana Business Directory"
+title: "Centerville, LA Business Directory"
+type: "towns"
 slug: "centerville-la"
-town: "Centerville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 3290
+state: "la"
+town_data: "centerville-la"
 ---

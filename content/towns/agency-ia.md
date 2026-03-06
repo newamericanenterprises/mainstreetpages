@@ -1,9 +1,7 @@
 ---
-title: "Agency, Iowa Business Directory"
+title: "Agency, IA Business Directory"
+type: "towns"
 slug: "agency-ia"
-town: "Agency"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 2913
+state: "ia"
+town_data: "agency-ia"
 ---

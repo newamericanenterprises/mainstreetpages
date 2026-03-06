@@ -1,9 +1,7 @@
 ---
-title: "Cambridge, Kansas Business Directory"
+title: "Cambridge, KS Business Directory"
+type: "towns"
 slug: "cambridge-ks"
-town: "Cambridge"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 1482
+state: "ks"
+town_data: "cambridge-ks"
 ---

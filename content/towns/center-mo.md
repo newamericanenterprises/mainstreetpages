@@ -1,7 +1,7 @@
 ---
-title: "Center, Missouri Business Directory"
+title: "Center, MO Business Directory"
+type: "towns"
 slug: "center-mo"
-state: "MO"
-county: "Ralls"
-population: 1500
+state: "mo"
+town_data: "center-mo"
 ---

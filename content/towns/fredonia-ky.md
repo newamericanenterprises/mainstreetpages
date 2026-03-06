@@ -1,9 +1,7 @@
 ---
-title: "Fredonia, Kentucky Business Directory"
+title: "Fredonia, KY Business Directory"
+type: "towns"
 slug: "fredonia-ky"
-town: "Fredonia"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Caldwell"
-population: 2515
+state: "ky"
+town_data: "fredonia-ky"
 ---

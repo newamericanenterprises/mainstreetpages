@@ -1,9 +1,7 @@
 ---
-title: "Somerville, Maine Business Directory"
+title: "Somerville, ME Business Directory"
+type: "towns"
 slug: "somerville-me"
-town: "Somerville"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 1935
+state: "me"
+town_data: "somerville-me"
 ---

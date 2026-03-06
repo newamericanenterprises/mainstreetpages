@@ -1,9 +1,7 @@
 ---
-title: "Halbur, Iowa Business Directory"
+title: "Halbur, IA Business Directory"
+type: "towns"
 slug: "halbur-ia"
-town: "Halbur"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 2361
+state: "ia"
+town_data: "halbur-ia"
 ---

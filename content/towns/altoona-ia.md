@@ -1,9 +1,7 @@
 ---
-title: "Altoona, Iowa Business Directory"
+title: "Altoona, IA Business Directory"
+type: "towns"
 slug: "altoona-ia"
-town: "Altoona"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 18817
+state: "ia"
+town_data: "altoona-ia"
 ---

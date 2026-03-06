@@ -1,9 +1,7 @@
 ---
-title: "Sanborn, Minnesota Business Directory"
+title: "Sanborn, MN Business Directory"
+type: "towns"
 slug: "sanborn-mn"
-town: "Sanborn"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2002
+state: "mn"
+town_data: "sanborn-mn"
 ---

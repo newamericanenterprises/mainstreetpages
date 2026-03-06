@@ -1,7 +1,7 @@
 ---
-title: "Morrison, Missouri Business Directory"
+title: "Morrison, MO Business Directory"
+type: "towns"
 slug: "morrison-mo"
-state: "MO"
-county: "Gasconade"
-population: 1500
+state: "mo"
+town_data: "morrison-mo"
 ---

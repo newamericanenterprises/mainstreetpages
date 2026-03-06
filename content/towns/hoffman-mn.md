@@ -1,9 +1,7 @@
 ---
-title: "Hoffman, Minnesota Business Directory"
+title: "Hoffman, MN Business Directory"
+type: "towns"
 slug: "hoffman-mn"
-town: "Hoffman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 2458
+state: "mn"
+town_data: "hoffman-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bridgton, Maine Business Directory"
+title: "Bridgton, ME Business Directory"
+type: "towns"
 slug: "bridgton-me"
-town: "Bridgton"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2114
+state: "me"
+town_data: "bridgton-me"
 ---

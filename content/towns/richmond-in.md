@@ -1,9 +1,7 @@
 ---
-title: "Richmond, Indiana Business Directory"
+title: "Richmond, IN Business Directory"
+type: "towns"
 slug: "richmond-in"
-town: "Richmond"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 35372
+state: "in"
+town_data: "richmond-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hollandale, Minnesota Business Directory"
+title: "Hollandale, MN Business Directory"
+type: "towns"
 slug: "hollandale-mn"
-town: "Hollandale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 1353
+state: "mn"
+town_data: "hollandale-mn"
 ---

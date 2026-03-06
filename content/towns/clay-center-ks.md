@@ -1,9 +1,7 @@
 ---
-title: "Clay Center, Kansas Business Directory"
+title: "Clay Center, KS Business Directory"
+type: "towns"
 slug: "clay-center-ks"
-town: "Clay Center"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 4048
+state: "ks"
+town_data: "clay-center-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Churchton, Maryland Business Directory"
+title: "Churchton, MD Business Directory"
+type: "towns"
 slug: "churchton-md"
-town: "Churchton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 2220
+state: "md"
+town_data: "churchton-md"
 ---

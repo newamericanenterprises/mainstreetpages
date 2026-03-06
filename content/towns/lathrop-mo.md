@@ -1,7 +1,7 @@
 ---
-title: "Lathrop, Missouri Business Directory"
+title: "Lathrop, MO Business Directory"
+type: "towns"
 slug: "lathrop-mo"
-state: "MO"
-county: "Clinton"
-population: 1500
+state: "mo"
+town_data: "lathrop-mo"
 ---

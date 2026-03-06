@@ -1,9 +1,7 @@
 ---
-title: "Royal, Iowa Business Directory"
+title: "Royal, IA Business Directory"
+type: "towns"
 slug: "royal-ia"
-town: "Royal"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 1855
+state: "ia"
+town_data: "royal-ia"
 ---

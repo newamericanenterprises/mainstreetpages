@@ -1,9 +1,7 @@
 ---
-title: "St. Martin, Minnesota Business Directory"
+title: "St. Martin, MN Business Directory"
+type: "towns"
 slug: "st-martin-mn"
-town: "St. Martin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1006
+state: "mn"
+town_data: "st-martin-mn"
 ---

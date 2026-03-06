@@ -1,7 +1,7 @@
 ---
-title: "Tishomingo, Mississippi Business Directory"
+title: "Tishomingo, MS Business Directory"
+type: "towns"
 slug: "tishomingo-ms"
-state: "MS"
-county: "Tishomingo"
-population: 358
+state: "ms"
+town_data: "tishomingo-ms"
 ---

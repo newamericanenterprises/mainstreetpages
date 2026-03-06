@@ -1,9 +1,7 @@
 ---
-title: "Hillsboro, Kansas Business Directory"
+title: "Hillsboro, KS Business Directory"
+type: "towns"
 slug: "hillsboro-ks"
-town: "Hillsboro"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 2993
+state: "ks"
+town_data: "hillsboro-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Union, Kentucky Business Directory"
+title: "Union, KY Business Directory"
+type: "towns"
 slug: "union-ky"
-town: "Union"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 3030
+state: "ky"
+town_data: "union-ky"
 ---

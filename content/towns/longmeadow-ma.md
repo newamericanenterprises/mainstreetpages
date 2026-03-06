@@ -1,9 +1,7 @@
 ---
-title: "Longmeadow, Massachusetts Business Directory"
+title: "Longmeadow, MA Business Directory"
+type: "towns"
 slug: "longmeadow-ma"
-town: "Longmeadow"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 15902
+state: "ma"
+town_data: "longmeadow-ma"
 ---

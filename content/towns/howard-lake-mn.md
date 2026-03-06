@@ -1,9 +1,7 @@
 ---
-title: "Howard Lake, Minnesota Business Directory"
+title: "Howard Lake, MN Business Directory"
+type: "towns"
 slug: "howard-lake-mn"
-town: "Howard Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 662
+state: "mn"
+town_data: "howard-lake-mn"
 ---

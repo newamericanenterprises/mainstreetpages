@@ -1,9 +1,7 @@
 ---
-title: "Sunset, Louisiana Business Directory"
+title: "Sunset, LA Business Directory"
+type: "towns"
 slug: "sunset-la"
-town: "Sunset"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 487
+state: "la"
+town_data: "sunset-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hancock, Massachusetts Business Directory"
+title: "Hancock, MA Business Directory"
+type: "towns"
 slug: "hancock-ma"
-town: "Hancock"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 7469
+state: "ma"
+town_data: "hancock-ma"
 ---

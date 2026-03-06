@@ -1,9 +1,7 @@
 ---
-title: "Willard, Kansas Business Directory"
+title: "Willard, KS Business Directory"
+type: "towns"
 slug: "willard-ks"
-town: "Willard"
-state: "Kansas"
-state_abbr: "KS"
-county: "Shawnee"
-population: 3261
+state: "ks"
+town_data: "willard-ks"
 ---

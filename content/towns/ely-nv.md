@@ -1,7 +1,7 @@
 ---
-title: "Ely, Nevada Business Directory"
+title: "Ely, NV Business Directory"
+type: "towns"
 slug: "ely-nv"
-state: "NV"
-county: "White Pine"
-population: 4045
+state: "nv"
+town_data: "ely-nv"
 ---

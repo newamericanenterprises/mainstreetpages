@@ -1,9 +1,7 @@
 ---
-title: "Fairfield, Iowa Business Directory"
+title: "Fairfield, IA Business Directory"
+type: "towns"
 slug: "fairfield-ia"
-town: "Fairfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jefferson"
-population: 9464
+state: "ia"
+town_data: "fairfield-ia"
 ---

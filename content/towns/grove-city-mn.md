@@ -1,9 +1,7 @@
 ---
-title: "Grove City, Minnesota Business Directory"
+title: "Grove City, MN Business Directory"
+type: "towns"
 slug: "grove-city-mn"
-town: "Grove City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 2319
+state: "mn"
+town_data: "grove-city-mn"
 ---

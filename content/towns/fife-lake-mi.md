@@ -1,9 +1,7 @@
 ---
-title: "Fife Lake, Michigan Business Directory"
+title: "Fife Lake, MI Business Directory"
+type: "towns"
 slug: "fife-lake-mi"
-town: "Fife Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Grand Traverse"
-population: 3710
+state: "mi"
+town_data: "fife-lake-mi"
 ---

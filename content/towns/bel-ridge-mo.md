@@ -1,7 +1,7 @@
 ---
-title: "Bel-Ridge, Missouri Business Directory"
+title: "Bel Ridge, MO Business Directory"
+type: "towns"
 slug: "bel-ridge-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "bel-ridge-mo"
 ---

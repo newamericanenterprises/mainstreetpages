@@ -1,7 +1,7 @@
 ---
-title: "Emigrant, Montana Business Directory"
+title: "Emigrant, MT Business Directory"
+type: "towns"
 slug: "emigrant-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "emigrant-mt"
 ---

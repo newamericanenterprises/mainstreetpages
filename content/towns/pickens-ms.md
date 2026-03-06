@@ -1,7 +1,7 @@
 ---
-title: "Pickens, Mississippi Business Directory"
+title: "Pickens, MS Business Directory"
+type: "towns"
 slug: "pickens-ms"
-state: "MS"
-county: "Holmes"
-population: 1026
+state: "ms"
+town_data: "pickens-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Emmett, Michigan Business Directory"
+title: "Emmett, MI Business Directory"
+type: "towns"
 slug: "emmett-mi"
-town: "Emmett"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 3026
+state: "mi"
+town_data: "emmett-mi"
 ---

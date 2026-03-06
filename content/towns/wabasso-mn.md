@@ -1,9 +1,7 @@
 ---
-title: "Wabasso, Minnesota Business Directory"
+title: "Wabasso, MN Business Directory"
+type: "towns"
 slug: "wabasso-mn"
-town: "Wabasso"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2424
+state: "mn"
+town_data: "wabasso-mn"
 ---

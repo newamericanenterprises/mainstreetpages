@@ -1,7 +1,7 @@
 ---
-title: "Sturgis, Mississippi Business Directory"
+title: "Sturgis, MS Business Directory"
+type: "towns"
 slug: "sturgis-ms"
-state: "MS"
-county: "Oktibbeha"
-population: 287
+state: "ms"
+town_data: "sturgis-ms"
 ---

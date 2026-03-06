@@ -1,9 +1,7 @@
 ---
-title: "Lauderdale, Minnesota Business Directory"
+title: "Lauderdale, MN Business Directory"
+type: "towns"
 slug: "lauderdale-mn"
-town: "Lauderdale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 2152
+state: "mn"
+town_data: "lauderdale-mn"
 ---

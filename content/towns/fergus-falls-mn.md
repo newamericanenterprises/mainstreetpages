@@ -1,9 +1,7 @@
 ---
-title: "Fergus Falls, Minnesota Business Directory"
+title: "Fergus Falls, MN Business Directory"
+type: "towns"
 slug: "fergus-falls-mn"
-town: "Fergus Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 14055
+state: "mn"
+town_data: "fergus-falls-mn"
 ---

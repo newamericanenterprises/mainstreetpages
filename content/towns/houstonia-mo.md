@@ -1,7 +1,7 @@
 ---
-title: "Houstonia, Missouri Business Directory"
+title: "Houstonia, MO Business Directory"
+type: "towns"
 slug: "houstonia-mo"
-state: "MO"
-county: "Pettis"
-population: 1500
+state: "mo"
+town_data: "houstonia-mo"
 ---

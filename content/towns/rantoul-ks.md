@@ -1,9 +1,7 @@
 ---
-title: "Rantoul, Kansas Business Directory"
+title: "Rantoul, KS Business Directory"
+type: "towns"
 slug: "rantoul-ks"
-town: "Rantoul"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 405
+state: "ks"
+town_data: "rantoul-ks"
 ---

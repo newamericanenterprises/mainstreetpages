@@ -1,9 +1,7 @@
 ---
-title: "Empire, Louisiana Business Directory"
+title: "Empire, LA Business Directory"
+type: "towns"
 slug: "empire-la"
-town: "Empire"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 1506
+state: "la"
+town_data: "empire-la"
 ---

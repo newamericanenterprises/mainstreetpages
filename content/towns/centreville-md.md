@@ -1,9 +1,7 @@
 ---
-title: "Centreville, Maryland Business Directory"
+title: "Centreville, MD Business Directory"
+type: "towns"
 slug: "centreville-md"
-town: "Centreville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 4285
+state: "md"
+town_data: "centreville-md"
 ---

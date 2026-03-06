@@ -1,9 +1,7 @@
 ---
-title: "Parsonsburg, Maryland Business Directory"
+title: "Parsonsburg, MD Business Directory"
+type: "towns"
 slug: "parsonsburg-md"
-town: "Parsonsburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 1733
+state: "md"
+town_data: "parsonsburg-md"
 ---

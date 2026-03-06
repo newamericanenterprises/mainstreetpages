@@ -1,9 +1,7 @@
 ---
-title: "Wapello, Iowa Business Directory"
+title: "Wapello, IA Business Directory"
+type: "towns"
 slug: "wapello-ia"
-town: "Wapello"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 2067
+state: "ia"
+town_data: "wapello-ia"
 ---

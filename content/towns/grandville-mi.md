@@ -1,9 +1,7 @@
 ---
-title: "Grandville, Michigan Business Directory"
+title: "Grandville, MI Business Directory"
+type: "towns"
 slug: "grandville-mi"
-town: "Grandville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 16263
+state: "mi"
+town_data: "grandville-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dike, Iowa Business Directory"
+title: "Dike, IA Business Directory"
+type: "towns"
 slug: "dike-ia"
-town: "Dike"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 2667
+state: "ia"
+town_data: "dike-ia"
 ---

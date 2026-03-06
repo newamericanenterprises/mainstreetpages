@@ -1,9 +1,7 @@
 ---
-title: "Lakewood Club, Michigan Business Directory"
+title: "Lakewood Club, MI Business Directory"
+type: "towns"
 slug: "lakewood-club-mi"
-town: "Lakewood Club"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 3580
+state: "mi"
+town_data: "lakewood-club-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Houlton, Maine Business Directory"
+title: "Houlton, ME Business Directory"
+type: "towns"
 slug: "houlton-me"
-town: "Houlton"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 5959
+state: "me"
+town_data: "houlton-me"
 ---

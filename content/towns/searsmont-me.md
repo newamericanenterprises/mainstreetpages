@@ -1,9 +1,7 @@
 ---
-title: "Searsmont, Maine Business Directory"
+title: "Searsmont, ME Business Directory"
+type: "towns"
 slug: "searsmont-me"
-town: "Searsmont"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2221
+state: "me"
+town_data: "searsmont-me"
 ---

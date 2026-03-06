@@ -1,9 +1,7 @@
 ---
-title: "Winger, Minnesota Business Directory"
+title: "Winger, MN Business Directory"
+type: "towns"
 slug: "winger-mn"
-town: "Winger"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 916
+state: "mn"
+town_data: "winger-mn"
 ---

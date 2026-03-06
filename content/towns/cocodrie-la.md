@@ -1,9 +1,7 @@
 ---
-title: "Cocodrie, Louisiana Business Directory"
+title: "Cocodrie, LA Business Directory"
+type: "towns"
 slug: "cocodrie-la"
-town: "Cocodrie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 2092
+state: "la"
+town_data: "cocodrie-la"
 ---

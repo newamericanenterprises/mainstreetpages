@@ -1,9 +1,7 @@
 ---
-title: "Rolling Prairie, Indiana Business Directory"
+title: "Rolling Prairie, IN Business Directory"
+type: "towns"
 slug: "rolling-prairie-in"
-town: "Rolling Prairie"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 2468
+state: "in"
+town_data: "rolling-prairie-in"
 ---

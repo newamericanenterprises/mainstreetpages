@@ -1,7 +1,7 @@
 ---
-title: "Shelby, Mississippi Business Directory"
+title: "Shelby, MS Business Directory"
+type: "towns"
 slug: "shelby-ms"
-state: "MS"
-county: "Bolivar"
-population: 2152
+state: "ms"
+town_data: "shelby-ms"
 ---

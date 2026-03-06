@@ -1,7 +1,7 @@
 ---
-title: "Richards, Missouri Business Directory"
+title: "Richards, MO Business Directory"
+type: "towns"
 slug: "richards-mo"
-state: "MO"
-county: "Vernon"
-population: 1500
+state: "mo"
+town_data: "richards-mo"
 ---

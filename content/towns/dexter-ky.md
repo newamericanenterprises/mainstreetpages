@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Kentucky Business Directory"
+title: "Dexter, KY Business Directory"
+type: "towns"
 slug: "dexter-ky"
-town: "Dexter"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Calloway"
-population: 2460
+state: "ky"
+town_data: "dexter-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Park City, Kentucky Business Directory"
+title: "Park City, KY Business Directory"
+type: "towns"
 slug: "park-city-ky"
-town: "Park City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Barren"
-population: 2904
+state: "ky"
+town_data: "park-city-ky"
 ---

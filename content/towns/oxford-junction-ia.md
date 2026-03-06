@@ -1,9 +1,7 @@
 ---
-title: "Oxford Junction, Iowa Business Directory"
+title: "Oxford Junction, IA Business Directory"
+type: "towns"
 slug: "oxford-junction-ia"
-town: "Oxford Junction"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 905
+state: "ia"
+town_data: "oxford-junction-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "East Grand Forks, Minnesota Business Directory"
+title: "East Grand Forks, MN Business Directory"
+type: "towns"
 slug: "east-grand-forks-mn"
-town: "East Grand Forks"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 565
+state: "mn"
+town_data: "east-grand-forks-mn"
 ---

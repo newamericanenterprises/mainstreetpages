@@ -1,9 +1,7 @@
 ---
-title: "Delmar, Maryland Business Directory"
+title: "Delmar, MD Business Directory"
+type: "towns"
 slug: "delmar-md"
-town: "Delmar"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 3678
+state: "md"
+town_data: "delmar-md"
 ---

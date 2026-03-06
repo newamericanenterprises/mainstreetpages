@@ -1,9 +1,7 @@
 ---
-title: "Cannonsburg, Kentucky Business Directory"
+title: "Cannonsburg, KY Business Directory"
+type: "towns"
 slug: "cannonsburg-ky"
-town: "Cannonsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyd"
-population: 1326
+state: "ky"
+town_data: "cannonsburg-ky"
 ---

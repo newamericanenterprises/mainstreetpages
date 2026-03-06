@@ -1,9 +1,7 @@
 ---
-title: "Paoli, Indiana Business Directory"
+title: "Paoli, IN Business Directory"
+type: "towns"
 slug: "paoli-in"
-town: "Paoli"
-state: "Indiana"
-state_abbr: "IN"
-county: "Orange"
-population: 3692
+state: "in"
+town_data: "paoli-in"
 ---

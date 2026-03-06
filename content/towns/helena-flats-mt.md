@@ -1,7 +1,7 @@
 ---
-title: "Helena Flats, Montana Business Directory"
+title: "Helena Flats, MT Business Directory"
+type: "towns"
 slug: "helena-flats-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "helena-flats-mt"
 ---

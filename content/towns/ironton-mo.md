@@ -1,7 +1,7 @@
 ---
-title: "Ironton, Missouri Business Directory"
+title: "Ironton, MO Business Directory"
+type: "towns"
 slug: "ironton-mo"
-state: "MO"
-county: "Iron"
-population: 1430
+state: "mo"
+town_data: "ironton-mo"
 ---

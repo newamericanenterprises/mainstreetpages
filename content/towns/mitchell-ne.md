@@ -1,7 +1,7 @@
 ---
-title: "Mitchell, Nebraska Business Directory"
+title: "Mitchell, NE Business Directory"
+type: "towns"
 slug: "mitchell-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 1702
+state: "ne"
+town_data: "mitchell-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Asbury, Iowa Business Directory"
+title: "Asbury, IA Business Directory"
+type: "towns"
 slug: "asbury-ia"
-town: "Asbury"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 2126
+state: "ia"
+town_data: "asbury-ia"
 ---

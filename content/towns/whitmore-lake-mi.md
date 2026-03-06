@@ -1,9 +1,7 @@
 ---
-title: "Whitmore Lake, Michigan Business Directory"
+title: "Whitmore Lake, MI Business Directory"
+type: "towns"
 slug: "whitmore-lake-mi"
-town: "Whitmore Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 1739
+state: "mi"
+town_data: "whitmore-lake-mi"
 ---

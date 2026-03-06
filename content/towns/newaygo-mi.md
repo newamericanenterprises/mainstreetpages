@@ -1,9 +1,7 @@
 ---
-title: "Newaygo, Michigan Business Directory"
+title: "Newaygo, MI Business Directory"
+type: "towns"
 slug: "newaygo-mi"
-town: "Newaygo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Newaygo"
-population: 4439
+state: "mi"
+town_data: "newaygo-mi"
 ---

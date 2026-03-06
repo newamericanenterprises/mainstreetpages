@@ -1,9 +1,7 @@
 ---
-title: "Junction City, Louisiana Business Directory"
+title: "Junction City, LA Business Directory"
+type: "towns"
 slug: "junction-city-la"
-town: "Junction City"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 647
+state: "la"
+town_data: "junction-city-la"
 ---

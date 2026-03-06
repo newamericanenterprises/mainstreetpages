@@ -1,9 +1,7 @@
 ---
-title: "Admire, Kansas Business Directory"
+title: "Admire, KS Business Directory"
+type: "towns"
 slug: "admire-ks"
-town: "Admire"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 1967
+state: "ks"
+town_data: "admire-ks"
 ---

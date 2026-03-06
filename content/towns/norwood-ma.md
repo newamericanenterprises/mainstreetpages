@@ -1,9 +1,7 @@
 ---
-title: "Norwood, Massachusetts Business Directory"
+title: "Norwood, MA Business Directory"
+type: "towns"
 slug: "norwood-ma"
-town: "Norwood"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 30007
+state: "ma"
+town_data: "norwood-ma"
 ---

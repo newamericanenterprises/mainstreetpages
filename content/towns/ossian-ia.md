@@ -1,9 +1,7 @@
 ---
-title: "Ossian, Iowa Business Directory"
+title: "Ossian, IA Business Directory"
+type: "towns"
 slug: "ossian-ia"
-town: "Ossian"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winneshiek"
-population: 777
+state: "ia"
+town_data: "ossian-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fairmont, Nebraska Business Directory"
+title: "Fairmont, NE Business Directory"
+type: "towns"
 slug: "fairmont-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "fairmont-ne"
 ---

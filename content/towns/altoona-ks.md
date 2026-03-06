@@ -1,9 +1,7 @@
 ---
-title: "Altoona, Kansas Business Directory"
+title: "Altoona, KS Business Directory"
+type: "towns"
 slug: "altoona-ks"
-town: "Altoona"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wilson"
-population: 1876
+state: "ks"
+town_data: "altoona-ks"
 ---

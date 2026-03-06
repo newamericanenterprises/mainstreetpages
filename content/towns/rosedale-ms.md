@@ -1,7 +1,7 @@
 ---
-title: "Rosedale, Mississippi Business Directory"
+title: "Rosedale, MS Business Directory"
+type: "towns"
 slug: "rosedale-ms"
-state: "MS"
-county: "Bolivar"
-population: 1873
+state: "ms"
+town_data: "rosedale-ms"
 ---

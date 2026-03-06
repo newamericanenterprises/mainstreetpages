@@ -1,9 +1,7 @@
 ---
-title: "Francisville, Kentucky Business Directory"
+title: "Francisville, KY Business Directory"
+type: "towns"
 slug: "francisville-ky"
-town: "Francisville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 1493
+state: "ky"
+town_data: "francisville-ky"
 ---

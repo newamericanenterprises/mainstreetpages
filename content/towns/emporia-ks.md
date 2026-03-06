@@ -1,9 +1,7 @@
 ---
-title: "Emporia, Kansas Business Directory"
+title: "Emporia, KS Business Directory"
+type: "towns"
 slug: "emporia-ks"
-town: "Emporia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lyon"
-population: 24724
+state: "ks"
+town_data: "emporia-ks"
 ---

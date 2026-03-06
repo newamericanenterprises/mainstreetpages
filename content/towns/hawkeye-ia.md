@@ -1,9 +1,7 @@
 ---
-title: "Hawkeye, Iowa Business Directory"
+title: "Hawkeye, IA Business Directory"
+type: "towns"
 slug: "hawkeye-ia"
-town: "Hawkeye"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 1071
+state: "ia"
+town_data: "hawkeye-ia"
 ---

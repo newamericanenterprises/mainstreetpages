@@ -1,9 +1,7 @@
 ---
-title: "Gladbrook, Iowa Business Directory"
+title: "Gladbrook, IA Business Directory"
+type: "towns"
 slug: "gladbrook-ia"
-town: "Gladbrook"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2579
+state: "ia"
+town_data: "gladbrook-ia"
 ---

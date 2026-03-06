@@ -1,7 +1,7 @@
 ---
-title: "Carthage, Mississippi Business Directory"
+title: "Carthage, MS Business Directory"
+type: "towns"
 slug: "carthage-ms"
-state: "MS"
-county: "Leake"
-population: 5132
+state: "ms"
+town_data: "carthage-ms"
 ---

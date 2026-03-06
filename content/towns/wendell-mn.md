@@ -1,9 +1,7 @@
 ---
-title: "Wendell, Minnesota Business Directory"
+title: "Wendell, MN Business Directory"
+type: "towns"
 slug: "wendell-mn"
-town: "Wendell"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Grant"
-population: 617
+state: "mn"
+town_data: "wendell-mn"
 ---

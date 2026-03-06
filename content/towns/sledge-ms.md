@@ -1,7 +1,7 @@
 ---
-title: "Sledge, Mississippi Business Directory"
+title: "Sledge, MS Business Directory"
+type: "towns"
 slug: "sledge-ms"
-state: "MS"
-county: "Quitman"
-population: 415
+state: "ms"
+town_data: "sledge-ms"
 ---

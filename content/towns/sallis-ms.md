@@ -1,7 +1,7 @@
 ---
-title: "Sallis, Mississippi Business Directory"
+title: "Sallis, MS Business Directory"
+type: "towns"
 slug: "sallis-ms"
-state: "MS"
-county: "Attala"
-population: 136
+state: "ms"
+town_data: "sallis-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wingo, Kentucky Business Directory"
+title: "Wingo, KY Business Directory"
+type: "towns"
 slug: "wingo-ky"
-town: "Wingo"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Graves"
-population: 2781
+state: "ky"
+town_data: "wingo-ky"
 ---

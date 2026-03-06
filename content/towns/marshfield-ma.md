@@ -1,9 +1,7 @@
 ---
-title: "Marshfield, Massachusetts Business Directory"
+title: "Marshfield, MA Business Directory"
+type: "towns"
 slug: "marshfield-ma"
-town: "Marshfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 26531
+state: "ma"
+town_data: "marshfield-ma"
 ---

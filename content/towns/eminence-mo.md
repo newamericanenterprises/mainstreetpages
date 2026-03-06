@@ -1,7 +1,7 @@
 ---
-title: "Eminence, Missouri Business Directory"
+title: "Eminence, MO Business Directory"
+type: "towns"
 slug: "eminence-mo"
-state: "MO"
-county: "Shannon"
-population: 548
+state: "mo"
+town_data: "eminence-mo"
 ---

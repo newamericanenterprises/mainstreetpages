@@ -1,7 +1,7 @@
 ---
-title: "Townsend, Montana Business Directory"
+title: "Townsend, MT Business Directory"
+type: "towns"
 slug: "townsend-mt"
-state: "MT"
-county: "Broadwater"
-population: 2003
+state: "mt"
+town_data: "townsend-mt"
 ---

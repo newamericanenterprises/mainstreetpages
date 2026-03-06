@@ -1,9 +1,7 @@
 ---
-title: "Alden, Michigan Business Directory"
+title: "Alden, MI Business Directory"
+type: "towns"
 slug: "alden-mi"
-town: "Alden"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 3970
+state: "mi"
+town_data: "alden-mi"
 ---

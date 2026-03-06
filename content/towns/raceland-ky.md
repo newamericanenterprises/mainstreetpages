@@ -1,9 +1,7 @@
 ---
-title: "Raceland, Kentucky Business Directory"
+title: "Raceland, KY Business Directory"
+type: "towns"
 slug: "raceland-ky"
-town: "Raceland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 2524
+state: "ky"
+town_data: "raceland-ky"
 ---

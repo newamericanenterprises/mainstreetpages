@@ -1,9 +1,7 @@
 ---
-title: "Swartz, Louisiana Business Directory"
+title: "Swartz, LA Business Directory"
+type: "towns"
 slug: "swartz-la"
-town: "Swartz"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ouachita"
-population: 1231
+state: "la"
+town_data: "swartz-la"
 ---

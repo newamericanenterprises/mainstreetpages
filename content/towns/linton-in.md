@@ -1,9 +1,7 @@
 ---
-title: "Linton, Indiana Business Directory"
+title: "Linton, IN Business Directory"
+type: "towns"
 slug: "linton-in"
-town: "Linton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 5393
+state: "in"
+town_data: "linton-in"
 ---

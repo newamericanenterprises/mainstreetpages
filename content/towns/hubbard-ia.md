@@ -1,9 +1,7 @@
 ---
-title: "Hubbard, Iowa Business Directory"
+title: "Hubbard, IA Business Directory"
+type: "towns"
 slug: "hubbard-ia"
-town: "Hubbard"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 3497
+state: "ia"
+town_data: "hubbard-ia"
 ---

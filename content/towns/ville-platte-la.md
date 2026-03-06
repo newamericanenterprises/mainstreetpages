@@ -1,9 +1,7 @@
 ---
-title: "Ville Platte, Louisiana Business Directory"
+title: "Ville Platte, LA Business Directory"
+type: "towns"
 slug: "ville-platte-la"
-town: "Ville Platte"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Evangeline"
-population: 7255
+state: "la"
+town_data: "ville-platte-la"
 ---

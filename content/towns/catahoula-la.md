@@ -1,9 +1,7 @@
 ---
-title: "Catahoula, Louisiana Business Directory"
+title: "Catahoula, LA Business Directory"
+type: "towns"
 slug: "catahoula-la"
-town: "Catahoula"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 659
+state: "la"
+town_data: "catahoula-la"
 ---

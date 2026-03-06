@@ -1,9 +1,7 @@
 ---
-title: "Waynetown, Indiana Business Directory"
+title: "Waynetown, IN Business Directory"
+type: "towns"
 slug: "waynetown-in"
-town: "Waynetown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 3036
+state: "in"
+town_data: "waynetown-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Bloomsdale, Missouri Business Directory"
+title: "Bloomsdale, MO Business Directory"
+type: "towns"
 slug: "bloomsdale-mo"
-state: "MO"
-county: "Ste. Genevieve"
-population: 315
+state: "mo"
+town_data: "bloomsdale-mo"
 ---

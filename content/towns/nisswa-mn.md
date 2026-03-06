@@ -1,9 +1,7 @@
 ---
-title: "Nisswa, Minnesota Business Directory"
+title: "Nisswa, MN Business Directory"
+type: "towns"
 slug: "nisswa-mn"
-town: "Nisswa"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1345
+state: "mn"
+town_data: "nisswa-mn"
 ---

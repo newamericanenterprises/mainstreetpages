@@ -1,7 +1,7 @@
 ---
-title: "Ogallala, Nebraska Business Directory"
+title: "Ogallala, NE Business Directory"
+type: "towns"
 slug: "ogallala-ne"
-state: "NE"
-county: "Keith"
-population: 4568
+state: "ne"
+town_data: "ogallala-ne"
 ---

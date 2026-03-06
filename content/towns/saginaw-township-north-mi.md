@@ -1,9 +1,7 @@
 ---
-title: "Saginaw Township North, Michigan Business Directory"
+title: "Saginaw Township North, MI Business Directory"
+type: "towns"
 slug: "saginaw-township-north-mi"
-town: "Saginaw Township North"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 3333
+state: "mi"
+town_data: "saginaw-township-north-mi"
 ---

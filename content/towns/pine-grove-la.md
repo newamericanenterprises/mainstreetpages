@@ -1,9 +1,7 @@
 ---
-title: "Pine Grove, Louisiana Business Directory"
+title: "Pine Grove, LA Business Directory"
+type: "towns"
 slug: "pine-grove-la"
-town: "Pine Grove"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Helena"
-population: 732
+state: "la"
+town_data: "pine-grove-la"
 ---

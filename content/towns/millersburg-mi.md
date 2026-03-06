@@ -1,9 +1,7 @@
 ---
-title: "Millersburg, Michigan Business Directory"
+title: "Millersburg, MI Business Directory"
+type: "towns"
 slug: "millersburg-mi"
-town: "Millersburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Presque Isle"
-population: 3942
+state: "mi"
+town_data: "millersburg-mi"
 ---

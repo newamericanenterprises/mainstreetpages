@@ -1,9 +1,7 @@
 ---
-title: "Warwick, Massachusetts Business Directory"
+title: "Warwick, MA Business Directory"
+type: "towns"
 slug: "warwick-ma"
-town: "Warwick"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 8782
+state: "ma"
+town_data: "warwick-ma"
 ---

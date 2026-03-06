@@ -1,9 +1,7 @@
 ---
-title: "Bedford, Michigan Business Directory"
+title: "Bedford, MI Business Directory"
+type: "towns"
 slug: "bedford-mi"
-town: "Bedford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 2093
+state: "mi"
+town_data: "bedford-mi"
 ---

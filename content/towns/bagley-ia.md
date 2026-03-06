@@ -1,9 +1,7 @@
 ---
-title: "Bagley, Iowa Business Directory"
+title: "Bagley, IA Business Directory"
+type: "towns"
 slug: "bagley-ia"
-town: "Bagley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 3126
+state: "ia"
+town_data: "bagley-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Alma, Nebraska Business Directory"
+title: "Alma, NE Business Directory"
+type: "towns"
 slug: "alma-ne"
-state: "NE"
-county: "Harlan"
-population: 1132
+state: "ne"
+town_data: "alma-ne"
 ---

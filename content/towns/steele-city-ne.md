@@ -1,7 +1,7 @@
 ---
-title: "Steele City, Nebraska Business Directory"
+title: "Steele City, NE Business Directory"
+type: "towns"
 slug: "steele-city-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "steele-city-ne"
 ---

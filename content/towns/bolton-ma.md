@@ -1,9 +1,7 @@
 ---
-title: "Bolton, Massachusetts Business Directory"
+title: "Bolton, MA Business Directory"
+type: "towns"
 slug: "bolton-ma"
-town: "Bolton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4878
+state: "ma"
+town_data: "bolton-ma"
 ---

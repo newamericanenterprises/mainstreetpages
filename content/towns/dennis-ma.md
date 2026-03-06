@@ -1,9 +1,7 @@
 ---
-title: "Dennis, Massachusetts Business Directory"
+title: "Dennis, MA Business Directory"
+type: "towns"
 slug: "dennis-ma"
-town: "Dennis"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 13990
+state: "ma"
+town_data: "dennis-ma"
 ---

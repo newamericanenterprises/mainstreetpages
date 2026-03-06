@@ -1,9 +1,7 @@
 ---
-title: "Dunkerton, Iowa Business Directory"
+title: "Dunkerton, IA Business Directory"
+type: "towns"
 slug: "dunkerton-ia"
-town: "Dunkerton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Black Hawk"
-population: 1093
+state: "ia"
+town_data: "dunkerton-ia"
 ---

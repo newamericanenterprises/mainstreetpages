@@ -1,9 +1,7 @@
 ---
-title: "South Range, Michigan Business Directory"
+title: "South Range, MI Business Directory"
+type: "towns"
 slug: "south-range-mi"
-town: "South Range"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 4144
+state: "mi"
+town_data: "south-range-mi"
 ---

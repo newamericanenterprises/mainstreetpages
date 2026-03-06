@@ -1,9 +1,7 @@
 ---
-title: "Cohoctah, Michigan Business Directory"
+title: "Cohoctah, MI Business Directory"
+type: "towns"
 slug: "cohoctah-mi"
-town: "Cohoctah"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 1201
+state: "mi"
+town_data: "cohoctah-mi"
 ---

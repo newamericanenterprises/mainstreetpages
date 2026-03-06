@@ -1,7 +1,7 @@
 ---
-title: "Leland, Mississippi Business Directory"
+title: "Leland, MS Business Directory"
+type: "towns"
 slug: "leland-ms"
-state: "MS"
-county: "Washington"
-population: 4481
+state: "ms"
+town_data: "leland-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Morristown, Indiana Business Directory"
+title: "Morristown, IN Business Directory"
+type: "towns"
 slug: "morristown-in"
-town: "Morristown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Shelby"
-population: 864
+state: "in"
+town_data: "morristown-in"
 ---

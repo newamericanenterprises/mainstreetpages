@@ -1,7 +1,7 @@
 ---
-title: "Wisner, Nebraska Business Directory"
+title: "Wisner, NE Business Directory"
+type: "towns"
 slug: "wisner-ne"
-state: "NE"
-county: "Cuming"
-population: 1170
+state: "ne"
+town_data: "wisner-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Palermo, Maine Business Directory"
+title: "Palermo, ME Business Directory"
+type: "towns"
 slug: "palermo-me"
-town: "Palermo"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 950
+state: "me"
+town_data: "palermo-me"
 ---

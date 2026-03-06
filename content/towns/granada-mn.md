@@ -1,9 +1,7 @@
 ---
-title: "Granada, Minnesota Business Directory"
+title: "Granada, MN Business Directory"
+type: "towns"
 slug: "granada-mn"
-town: "Granada"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 2617
+state: "mn"
+town_data: "granada-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Funk, Nebraska Business Directory"
+title: "Funk, NE Business Directory"
+type: "towns"
 slug: "funk-ne"
-state: "NE"
-county: "Phelps"
-population: 500
+state: "ne"
+town_data: "funk-ne"
 ---

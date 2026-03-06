@@ -1,7 +1,7 @@
 ---
-title: "Burr, Nebraska Business Directory"
+title: "Burr, NE Business Directory"
+type: "towns"
 slug: "burr-ne"
-state: "NE"
-county: "Otoe"
-population: 500
+state: "ne"
+town_data: "burr-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Maryland Business Directory"
+title: "Manchester, MD Business Directory"
+type: "towns"
 slug: "manchester-md"
-town: "Manchester"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 4365
+state: "md"
+town_data: "manchester-md"
 ---

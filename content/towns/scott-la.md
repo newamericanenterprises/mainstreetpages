@@ -1,9 +1,7 @@
 ---
-title: "Scott, Louisiana Business Directory"
+title: "Scott, LA Business Directory"
+type: "towns"
 slug: "scott-la"
-town: "Scott"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 8614
+state: "la"
+town_data: "scott-la"
 ---

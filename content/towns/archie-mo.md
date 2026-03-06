@@ -1,7 +1,7 @@
 ---
-title: "Archie, Missouri Business Directory"
+title: "Archie, MO Business Directory"
+type: "towns"
 slug: "archie-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "archie-mo"
 ---

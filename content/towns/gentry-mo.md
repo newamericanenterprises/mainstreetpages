@@ -1,7 +1,7 @@
 ---
-title: "Gentry, Missouri Business Directory"
+title: "Gentry, MO Business Directory"
+type: "towns"
 slug: "gentry-mo"
-state: "MO"
-county: "Gentry"
-population: 1500
+state: "mo"
+town_data: "gentry-mo"
 ---

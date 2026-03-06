@@ -1,9 +1,7 @@
 ---
-title: "Chrisney, Indiana Business Directory"
+title: "Chrisney, IN Business Directory"
+type: "towns"
 slug: "chrisney-in"
-town: "Chrisney"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 3074
+state: "in"
+town_data: "chrisney-in"
 ---

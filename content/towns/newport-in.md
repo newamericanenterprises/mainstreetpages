@@ -1,9 +1,7 @@
 ---
-title: "Newport, Indiana Business Directory"
+title: "Newport, IN Business Directory"
+type: "towns"
 slug: "newport-in"
-town: "Newport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 5178
+state: "in"
+town_data: "newport-in"
 ---

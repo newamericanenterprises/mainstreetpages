@@ -1,9 +1,7 @@
 ---
-title: "Pickford, Michigan Business Directory"
+title: "Pickford, MI Business Directory"
+type: "towns"
 slug: "pickford-mi"
-town: "Pickford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 2847
+state: "mi"
+town_data: "pickford-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Maurice, Iowa Business Directory"
+title: "Maurice, IA Business Directory"
+type: "towns"
 slug: "maurice-ia"
-town: "Maurice"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 3451
+state: "ia"
+town_data: "maurice-ia"
 ---

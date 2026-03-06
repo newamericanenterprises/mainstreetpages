@@ -1,9 +1,7 @@
 ---
-title: "West Friendship, Maryland Business Directory"
+title: "West Friendship, MD Business Directory"
+type: "towns"
 slug: "west-friendship-md"
-town: "West Friendship"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 1074
+state: "md"
+town_data: "west-friendship-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dayton, Iowa Business Directory"
+title: "Dayton, IA Business Directory"
+type: "towns"
 slug: "dayton-ia"
-town: "Dayton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1894
+state: "ia"
+town_data: "dayton-ia"
 ---

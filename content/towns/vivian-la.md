@@ -1,9 +1,7 @@
 ---
-title: "Vivian, Louisiana Business Directory"
+title: "Vivian, LA Business Directory"
+type: "towns"
 slug: "vivian-la"
-town: "Vivian"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 535
+state: "la"
+town_data: "vivian-la"
 ---

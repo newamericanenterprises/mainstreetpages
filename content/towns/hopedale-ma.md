@@ -1,9 +1,7 @@
 ---
-title: "Hopedale, Massachusetts Business Directory"
+title: "Hopedale, MA Business Directory"
+type: "towns"
 slug: "hopedale-ma"
-town: "Hopedale"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5063
+state: "ma"
+town_data: "hopedale-ma"
 ---

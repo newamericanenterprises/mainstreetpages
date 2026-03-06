@@ -1,9 +1,7 @@
 ---
-title: "Wrenshall, Minnesota Business Directory"
+title: "Wrenshall, MN Business Directory"
+type: "towns"
 slug: "wrenshall-mn"
-town: "Wrenshall"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 1773
+state: "mn"
+town_data: "wrenshall-mn"
 ---

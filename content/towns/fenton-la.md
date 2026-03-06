@@ -1,9 +1,7 @@
 ---
-title: "Fenton, Louisiana Business Directory"
+title: "Fenton, LA Business Directory"
+type: "towns"
 slug: "fenton-la"
-town: "Fenton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson Davis"
-population: 2270
+state: "la"
+town_data: "fenton-la"
 ---

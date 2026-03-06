@@ -1,7 +1,7 @@
 ---
-title: "Wolf Creek, Montana Business Directory"
+title: "Wolf Creek, MT Business Directory"
+type: "towns"
 slug: "wolf-creek-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "wolf-creek-mt"
 ---

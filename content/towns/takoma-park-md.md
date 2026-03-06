@@ -1,9 +1,7 @@
 ---
-title: "Takoma Park, Maryland Business Directory"
+title: "Takoma Park, MD Business Directory"
+type: "towns"
 slug: "takoma-park-md"
-town: "Takoma Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 17703
+state: "md"
+town_data: "takoma-park-md"
 ---

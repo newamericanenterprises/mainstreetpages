@@ -1,9 +1,7 @@
 ---
-title: "Westlake, Louisiana Business Directory"
+title: "Westlake, LA Business Directory"
+type: "towns"
 slug: "westlake-la"
-town: "Westlake"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 691
+state: "la"
+town_data: "westlake-la"
 ---

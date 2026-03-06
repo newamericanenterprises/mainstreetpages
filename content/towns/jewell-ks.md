@@ -1,9 +1,7 @@
 ---
-title: "Jewell, Kansas Business Directory"
+title: "Jewell, KS Business Directory"
+type: "towns"
 slug: "jewell-ks"
-town: "Jewell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 1819
+state: "ks"
+town_data: "jewell-ks"
 ---

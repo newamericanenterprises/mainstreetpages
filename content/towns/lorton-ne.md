@@ -1,7 +1,7 @@
 ---
-title: "Lorton, Nebraska Business Directory"
+title: "Lorton, NE Business Directory"
+type: "towns"
 slug: "lorton-ne"
-state: "NE"
-county: "Otoe"
-population: 500
+state: "ne"
+town_data: "lorton-ne"
 ---

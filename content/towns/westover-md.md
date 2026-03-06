@@ -1,9 +1,7 @@
 ---
-title: "Westover, Maryland Business Directory"
+title: "Westover, MD Business Directory"
+type: "towns"
 slug: "westover-md"
-town: "Westover"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 3649
+state: "md"
+town_data: "westover-md"
 ---

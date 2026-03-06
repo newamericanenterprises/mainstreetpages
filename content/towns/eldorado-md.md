@@ -1,9 +1,7 @@
 ---
-title: "Eldorado, Maryland Business Directory"
+title: "Eldorado, MD Business Directory"
+type: "towns"
 slug: "eldorado-md"
-town: "Eldorado"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 1257
+state: "md"
+town_data: "eldorado-md"
 ---

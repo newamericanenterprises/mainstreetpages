@@ -1,7 +1,7 @@
 ---
-title: "Nelson, Missouri Business Directory"
+title: "Nelson, MO Business Directory"
+type: "towns"
 slug: "nelson-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "nelson-mo"
 ---

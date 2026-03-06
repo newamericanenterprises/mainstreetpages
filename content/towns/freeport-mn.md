@@ -1,9 +1,7 @@
 ---
-title: "Freeport, Minnesota Business Directory"
+title: "Freeport, MN Business Directory"
+type: "towns"
 slug: "freeport-mn"
-town: "Freeport"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 2430
+state: "mn"
+town_data: "freeport-mn"
 ---

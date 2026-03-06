@@ -1,9 +1,7 @@
 ---
-title: "Ceylon, Minnesota Business Directory"
+title: "Ceylon, MN Business Directory"
+type: "towns"
 slug: "ceylon-mn"
-town: "Ceylon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Martin"
-population: 665
+state: "mn"
+town_data: "ceylon-mn"
 ---

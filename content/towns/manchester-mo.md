@@ -1,7 +1,7 @@
 ---
-title: "Manchester, Missouri Business Directory"
+title: "Manchester, MO Business Directory"
+type: "towns"
 slug: "manchester-mo"
-state: "MO"
-county: "St. Louis"
-population: 18094
+state: "mo"
+town_data: "manchester-mo"
 ---

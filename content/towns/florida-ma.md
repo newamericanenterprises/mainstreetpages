@@ -1,9 +1,7 @@
 ---
-title: "Florida, Massachusetts Business Directory"
+title: "Florida, MA Business Directory"
+type: "towns"
 slug: "florida-ma"
-town: "Florida"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 5318
+state: "ma"
+town_data: "florida-ma"
 ---

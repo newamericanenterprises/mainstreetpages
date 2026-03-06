@@ -1,9 +1,7 @@
 ---
-title: "Sykesville, Maryland Business Directory"
+title: "Sykesville, MD Business Directory"
+type: "towns"
 slug: "sykesville-md"
-town: "Sykesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 2370
+state: "md"
+town_data: "sykesville-md"
 ---

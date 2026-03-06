@@ -1,7 +1,7 @@
 ---
-title: "Pace, Mississippi Business Directory"
+title: "Pace, MS Business Directory"
+type: "towns"
 slug: "pace-ms"
-state: "MS"
-county: "Bolivar"
-population: 405
+state: "ms"
+town_data: "pace-ms"
 ---

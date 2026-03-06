@@ -1,7 +1,7 @@
 ---
-title: "Taylorsville, Mississippi Business Directory"
+title: "Taylorsville, MS Business Directory"
+type: "towns"
 slug: "taylorsville-ms"
-state: "MS"
-county: "Smith"
-population: 1725
+state: "ms"
+town_data: "taylorsville-ms"
 ---

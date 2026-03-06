@@ -1,9 +1,7 @@
 ---
-title: "Milton, Louisiana Business Directory"
+title: "Milton, LA Business Directory"
+type: "towns"
 slug: "milton-la"
-town: "Milton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lafayette"
-population: 2903
+state: "la"
+town_data: "milton-la"
 ---

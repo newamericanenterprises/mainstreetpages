@@ -1,9 +1,7 @@
 ---
-title: "Okemos, Michigan Business Directory"
+title: "Okemos, MI Business Directory"
+type: "towns"
 slug: "okemos-mi"
-town: "Okemos"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 3964
+state: "mi"
+town_data: "okemos-mi"
 ---

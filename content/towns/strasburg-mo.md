@@ -1,7 +1,7 @@
 ---
-title: "Strasburg, Missouri Business Directory"
+title: "Strasburg, MO Business Directory"
+type: "towns"
 slug: "strasburg-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "strasburg-mo"
 ---

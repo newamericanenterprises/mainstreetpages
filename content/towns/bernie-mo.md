@@ -1,7 +1,7 @@
 ---
-title: "Bernie, Missouri Business Directory"
+title: "Bernie, MO Business Directory"
+type: "towns"
 slug: "bernie-mo"
-state: "MO"
-county: "Stoddard"
-population: 1875
+state: "mo"
+town_data: "bernie-mo"
 ---

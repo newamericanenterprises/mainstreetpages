@@ -1,7 +1,7 @@
 ---
-title: "Mountain Grove, Missouri Business Directory"
+title: "Mountain Grove, MO Business Directory"
+type: "towns"
 slug: "mountain-grove-mo"
-state: "MO"
-county: "Wright"
-population: 4789
+state: "mo"
+town_data: "mountain-grove-mo"
 ---

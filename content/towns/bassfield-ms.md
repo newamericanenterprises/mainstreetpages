@@ -1,7 +1,7 @@
 ---
-title: "Bassfield, Mississippi Business Directory"
+title: "Bassfield, MS Business Directory"
+type: "towns"
 slug: "bassfield-ms"
-state: "MS"
-county: "Jefferson Davis"
-population: 1500
+state: "ms"
+town_data: "bassfield-ms"
 ---

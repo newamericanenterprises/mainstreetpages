@@ -1,9 +1,7 @@
 ---
-title: "Bunker Hill, Kansas Business Directory"
+title: "Bunker Hill, KS Business Directory"
+type: "towns"
 slug: "bunker-hill-ks"
-town: "Bunker Hill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 3211
+state: "ks"
+town_data: "bunker-hill-ks"
 ---

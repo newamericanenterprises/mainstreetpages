@@ -1,9 +1,7 @@
 ---
-title: "Mentor, Minnesota Business Directory"
+title: "Mentor, MN Business Directory"
+type: "towns"
 slug: "mentor-mn"
-town: "Mentor"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 906
+state: "mn"
+town_data: "mentor-mn"
 ---

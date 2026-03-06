@@ -1,9 +1,7 @@
 ---
-title: "Newtown, Indiana Business Directory"
+title: "Newtown, IN Business Directory"
+type: "towns"
 slug: "newtown-in"
-town: "Newtown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fountain"
-population: 1217
+state: "in"
+town_data: "newtown-in"
 ---

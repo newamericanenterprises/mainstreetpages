@@ -1,7 +1,7 @@
 ---
-title: "Clearmont, Missouri Business Directory"
+title: "Clearmont, MO Business Directory"
+type: "towns"
 slug: "clearmont-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "clearmont-mo"
 ---

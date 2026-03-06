@@ -1,9 +1,7 @@
 ---
-title: "Farmington, Minnesota Business Directory"
+title: "Farmington, MN Business Directory"
+type: "towns"
 slug: "farmington-mn"
-town: "Farmington"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 588
+state: "mn"
+town_data: "farmington-mn"
 ---

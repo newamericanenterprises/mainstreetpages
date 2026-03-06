@@ -1,9 +1,7 @@
 ---
-title: "Hawks, Michigan Business Directory"
+title: "Hawks, MI Business Directory"
+type: "towns"
 slug: "hawks-mi"
-town: "Hawks"
-state: "Michigan"
-state_abbr: "MI"
-county: "Presque Isle"
-population: 5117
+state: "mi"
+town_data: "hawks-mi"
 ---

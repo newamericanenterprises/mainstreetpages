@@ -1,9 +1,7 @@
 ---
-title: "Conesville, Iowa Business Directory"
+title: "Conesville, IA Business Directory"
+type: "towns"
 slug: "conesville-ia"
-town: "Conesville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Muscatine"
-population: 1407
+state: "ia"
+town_data: "conesville-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Belle Chasse, Louisiana Business Directory"
+title: "Belle Chasse, LA Business Directory"
+type: "towns"
 slug: "belle-chasse-la"
-town: "Belle Chasse"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 12679
+state: "la"
+town_data: "belle-chasse-la"
 ---

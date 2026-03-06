@@ -1,9 +1,7 @@
 ---
-title: "Accokeek, Maryland Business Directory"
+title: "Accokeek, MD Business Directory"
+type: "towns"
 slug: "accokeek-md"
-town: "Accokeek"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 1512
+state: "md"
+town_data: "accokeek-md"
 ---

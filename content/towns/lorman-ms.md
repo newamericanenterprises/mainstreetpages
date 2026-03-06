@@ -1,7 +1,7 @@
 ---
-title: "Lorman, Mississippi Business Directory"
+title: "Lorman, MS Business Directory"
+type: "towns"
 slug: "lorman-ms"
-state: "MS"
-county: "Jefferson"
-population: 1500
+state: "ms"
+town_data: "lorman-ms"
 ---

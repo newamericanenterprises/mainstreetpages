@@ -1,9 +1,7 @@
 ---
-title: "Sullivan, Indiana Business Directory"
+title: "Sullivan, IN Business Directory"
+type: "towns"
 slug: "sullivan-in"
-town: "Sullivan"
-state: "Indiana"
-state_abbr: "IN"
-county: "Sullivan"
-population: 4249
+state: "in"
+town_data: "sullivan-in"
 ---

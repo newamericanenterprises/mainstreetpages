@@ -1,9 +1,7 @@
 ---
-title: "Landover Hills, Maryland Business Directory"
+title: "Landover Hills, MD Business Directory"
+type: "towns"
 slug: "landover-hills-md"
-town: "Landover Hills"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5294
+state: "md"
+town_data: "landover-hills-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Northampton, Massachusetts Business Directory"
+title: "Northampton, MA Business Directory"
+type: "towns"
 slug: "northampton-ma"
-town: "Northampton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 28549
+state: "ma"
+town_data: "northampton-ma"
 ---

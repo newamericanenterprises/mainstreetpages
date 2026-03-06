@@ -1,9 +1,7 @@
 ---
-title: "Frontenac, Minnesota Business Directory"
+title: "Frontenac, MN Business Directory"
+type: "towns"
 slug: "frontenac-mn"
-town: "Frontenac"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 1306
+state: "mn"
+town_data: "frontenac-mn"
 ---

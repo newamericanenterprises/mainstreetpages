@@ -1,9 +1,7 @@
 ---
-title: "Kempton, Indiana Business Directory"
+title: "Kempton, IN Business Directory"
+type: "towns"
 slug: "kempton-in"
-town: "Kempton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Tipton"
-population: 3565
+state: "in"
+town_data: "kempton-in"
 ---

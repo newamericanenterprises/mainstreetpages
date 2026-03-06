@@ -1,9 +1,7 @@
 ---
-title: "Fleming-Neon, Kentucky Business Directory"
+title: "Fleming-Neon, KY Business Directory"
+type: "towns"
 slug: "fleming-neon-ky"
-town: "Fleming-Neon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Letcher"
-population: 1427
+state: "ky"
+town_data: "fleming-neon-ky"
 ---

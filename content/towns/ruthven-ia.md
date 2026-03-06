@@ -1,9 +1,7 @@
 ---
-title: "Ruthven, Iowa Business Directory"
+title: "Ruthven, IA Business Directory"
+type: "towns"
 slug: "ruthven-ia"
-town: "Ruthven"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 1632
+state: "ia"
+town_data: "ruthven-ia"
 ---

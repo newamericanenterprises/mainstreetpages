@@ -1,9 +1,7 @@
 ---
-title: "Stanhope, Iowa Business Directory"
+title: "Stanhope, IA Business Directory"
+type: "towns"
 slug: "stanhope-ia"
-town: "Stanhope"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hamilton"
-population: 614
+state: "ia"
+town_data: "stanhope-ia"
 ---

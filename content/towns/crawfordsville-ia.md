@@ -1,9 +1,7 @@
 ---
-title: "Crawfordsville, Iowa Business Directory"
+title: "Crawfordsville, IA Business Directory"
+type: "towns"
 slug: "crawfordsville-ia"
-town: "Crawfordsville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 2010
+state: "ia"
+town_data: "crawfordsville-ia"
 ---

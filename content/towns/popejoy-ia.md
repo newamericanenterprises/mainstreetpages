@@ -1,9 +1,7 @@
 ---
-title: "Popejoy, Iowa Business Directory"
+title: "Popejoy, IA Business Directory"
+type: "towns"
 slug: "popejoy-ia"
-town: "Popejoy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Franklin"
-population: 1368
+state: "ia"
+town_data: "popejoy-ia"
 ---

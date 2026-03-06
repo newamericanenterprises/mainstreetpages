@@ -1,9 +1,7 @@
 ---
-title: "Birdseye, Indiana Business Directory"
+title: "Birdseye, IN Business Directory"
+type: "towns"
 slug: "birdseye-in"
-town: "Birdseye"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dubois"
-population: 1846
+state: "in"
+town_data: "birdseye-in"
 ---

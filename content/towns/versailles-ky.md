@@ -1,9 +1,7 @@
 ---
-title: "Versailles, Kentucky Business Directory"
+title: "Versailles, KY Business Directory"
+type: "towns"
 slug: "versailles-ky"
-town: "Versailles"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Woodford"
-population: 9321
+state: "ky"
+town_data: "versailles-ky"
 ---

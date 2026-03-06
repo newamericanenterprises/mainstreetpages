@@ -1,9 +1,7 @@
 ---
-title: "Atlanta, Indiana Business Directory"
+title: "Atlanta, IN Business Directory"
+type: "towns"
 slug: "atlanta-in"
-town: "Atlanta"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hamilton"
-population: 1305
+state: "in"
+town_data: "atlanta-in"
 ---

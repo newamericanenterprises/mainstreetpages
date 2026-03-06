@@ -1,7 +1,7 @@
 ---
-title: "Deweese, Nebraska Business Directory"
+title: "Deweese, NE Business Directory"
+type: "towns"
 slug: "deweese-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "deweese-ne"
 ---

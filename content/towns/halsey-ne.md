@@ -1,7 +1,7 @@
 ---
-title: "Halsey, Nebraska Business Directory"
+title: "Halsey, NE Business Directory"
+type: "towns"
 slug: "halsey-ne"
-state: "NE"
-county: "Thomas"
-population: 500
+state: "ne"
+town_data: "halsey-ne"
 ---

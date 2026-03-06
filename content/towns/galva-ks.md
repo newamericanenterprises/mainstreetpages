@@ -1,9 +1,7 @@
 ---
-title: "Galva, Kansas Business Directory"
+title: "Galva, KS Business Directory"
+type: "towns"
 slug: "galva-ks"
-town: "Galva"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 2194
+state: "ks"
+town_data: "galva-ks"
 ---

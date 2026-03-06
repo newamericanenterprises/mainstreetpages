@@ -1,7 +1,7 @@
 ---
-title: "Sedalia, Missouri Business Directory"
+title: "Sedalia, MO Business Directory"
+type: "towns"
 slug: "sedalia-mo"
-state: "MO"
-county: "Pettis"
-population: 21685
+state: "mo"
+town_data: "sedalia-mo"
 ---

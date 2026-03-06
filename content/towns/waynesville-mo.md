@@ -1,7 +1,7 @@
 ---
-title: "Waynesville, Missouri Business Directory"
+title: "Waynesville, MO Business Directory"
+type: "towns"
 slug: "waynesville-mo"
-state: "MO"
-county: "Pulaski"
-population: 5259
+state: "mo"
+town_data: "waynesville-mo"
 ---

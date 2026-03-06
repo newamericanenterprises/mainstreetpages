@@ -1,7 +1,7 @@
 ---
-title: "Falls City, Nebraska Business Directory"
+title: "Falls City, NE Business Directory"
+type: "towns"
 slug: "falls-city-ne"
-state: "NE"
-county: "Richardson"
-population: 4171
+state: "ne"
+town_data: "falls-city-ne"
 ---

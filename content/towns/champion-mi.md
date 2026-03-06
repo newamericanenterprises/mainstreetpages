@@ -1,9 +1,7 @@
 ---
-title: "Champion, Michigan Business Directory"
+title: "Champion, MI Business Directory"
+type: "towns"
 slug: "champion-mi"
-town: "Champion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 3672
+state: "mi"
+town_data: "champion-mi"
 ---

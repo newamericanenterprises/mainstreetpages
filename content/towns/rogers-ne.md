@@ -1,7 +1,7 @@
 ---
-title: "Rogers, Nebraska Business Directory"
+title: "Rogers, NE Business Directory"
+type: "towns"
 slug: "rogers-ne"
-state: "NE"
-county: "Colfax"
-population: 500
+state: "ne"
+town_data: "rogers-ne"
 ---

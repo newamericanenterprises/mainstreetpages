@@ -1,9 +1,7 @@
 ---
-title: "Stanley, Iowa Business Directory"
+title: "Stanley, IA Business Directory"
+type: "towns"
 slug: "stanley-ia"
-town: "Stanley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 1362
+state: "ia"
+town_data: "stanley-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Webb, Iowa Business Directory"
+title: "Webb, IA Business Directory"
+type: "towns"
 slug: "webb-ia"
-town: "Webb"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 2410
+state: "ia"
+town_data: "webb-ia"
 ---

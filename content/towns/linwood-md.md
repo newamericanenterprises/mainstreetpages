@@ -1,9 +1,7 @@
 ---
-title: "Linwood, Maryland Business Directory"
+title: "Linwood, MD Business Directory"
+type: "towns"
 slug: "linwood-md"
-town: "Linwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 4867
+state: "md"
+town_data: "linwood-md"
 ---

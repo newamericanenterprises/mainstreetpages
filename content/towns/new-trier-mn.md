@@ -1,9 +1,7 @@
 ---
-title: "New Trier, Minnesota Business Directory"
+title: "New Trier, MN Business Directory"
+type: "towns"
 slug: "new-trier-mn"
-town: "New Trier"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 2023
+state: "mn"
+town_data: "new-trier-mn"
 ---

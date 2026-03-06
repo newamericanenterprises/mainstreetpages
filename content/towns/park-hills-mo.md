@@ -1,7 +1,7 @@
 ---
-title: "Park Hills, Missouri Business Directory"
+title: "Park Hills, MO Business Directory"
+type: "towns"
 slug: "park-hills-mo"
-state: "MO"
-county: "St. Francois"
-population: 8692
+state: "mo"
+town_data: "park-hills-mo"
 ---

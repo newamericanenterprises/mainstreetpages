@@ -1,9 +1,7 @@
 ---
-title: "Kingston, Massachusetts Business Directory"
+title: "Kingston, MA Business Directory"
+type: "towns"
 slug: "kingston-ma"
-town: "Kingston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 5714
+state: "ma"
+town_data: "kingston-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Thayer, Iowa Business Directory"
+title: "Thayer, IA Business Directory"
+type: "towns"
 slug: "thayer-ia"
-town: "Thayer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 733
+state: "ia"
+town_data: "thayer-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Northboro, Iowa Business Directory"
+title: "Northboro, IA Business Directory"
+type: "towns"
 slug: "northboro-ia"
-town: "Northboro"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 1775
+state: "ia"
+town_data: "northboro-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beloit, Kansas Business Directory"
+title: "Beloit, KS Business Directory"
+type: "towns"
 slug: "beloit-ks"
-town: "Beloit"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 3571
+state: "ks"
+town_data: "beloit-ks"
 ---

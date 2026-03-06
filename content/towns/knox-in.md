@@ -1,9 +1,7 @@
 ---
-title: "Knox, Indiana Business Directory"
+title: "Knox, IN Business Directory"
+type: "towns"
 slug: "knox-in"
-town: "Knox"
-state: "Indiana"
-state_abbr: "IN"
-county: "Starke"
-population: 3521
+state: "in"
+town_data: "knox-in"
 ---

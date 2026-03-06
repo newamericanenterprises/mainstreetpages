@@ -1,7 +1,7 @@
 ---
-title: "Union, Mississippi Business Directory"
+title: "Union, MS Business Directory"
+type: "towns"
 slug: "union-ms"
-state: "MS"
-county: "Newton"
-population: 2029
+state: "ms"
+town_data: "union-ms"
 ---

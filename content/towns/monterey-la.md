@@ -1,9 +1,7 @@
 ---
-title: "Monterey, Louisiana Business Directory"
+title: "Monterey, LA Business Directory"
+type: "towns"
 slug: "monterey-la"
-town: "Monterey"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Concordia"
-population: 1372
+state: "la"
+town_data: "monterey-la"
 ---

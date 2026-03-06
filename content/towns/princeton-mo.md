@@ -1,7 +1,7 @@
 ---
-title: "Princeton, Missouri Business Directory"
+title: "Princeton, MO Business Directory"
+type: "towns"
 slug: "princeton-mo"
-state: "MO"
-county: "Mercer"
-population: 1167
+state: "mo"
+town_data: "princeton-mo"
 ---

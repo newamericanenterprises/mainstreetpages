@@ -1,9 +1,7 @@
 ---
-title: "Ypsilanti, Michigan Business Directory"
+title: "Ypsilanti, MI Business Directory"
+type: "towns"
 slug: "ypsilanti-mi"
-town: "Ypsilanti"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 21018
+state: "mi"
+town_data: "ypsilanti-mi"
 ---

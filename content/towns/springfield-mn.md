@@ -1,9 +1,7 @@
 ---
-title: "Springfield, Minnesota Business Directory"
+title: "Springfield, MN Business Directory"
+type: "towns"
 slug: "springfield-mn"
-town: "Springfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 2212
+state: "mn"
+town_data: "springfield-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hazleton, Iowa Business Directory"
+title: "Hazleton, IA Business Directory"
+type: "towns"
 slug: "hazleton-ia"
-town: "Hazleton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 1200
+state: "ia"
+town_data: "hazleton-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Elkhart, Indiana Business Directory"
+title: "Elkhart, IN Business Directory"
+type: "towns"
 slug: "elkhart-in"
-town: "Elkhart"
-state: "Indiana"
-state_abbr: "IN"
-county: "Elkhart"
-population: 52752
+state: "in"
+town_data: "elkhart-in"
 ---

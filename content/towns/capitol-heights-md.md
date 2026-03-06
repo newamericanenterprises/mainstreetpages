@@ -1,9 +1,7 @@
 ---
-title: "Capitol Heights, Maryland Business Directory"
+title: "Capitol Heights, MD Business Directory"
+type: "towns"
 slug: "capitol-heights-md"
-town: "Capitol Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2102
+state: "md"
+town_data: "capitol-heights-md"
 ---

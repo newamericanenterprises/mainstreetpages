@@ -1,7 +1,7 @@
 ---
-title: "Peculiar, Missouri Business Directory"
+title: "Peculiar, MO Business Directory"
+type: "towns"
 slug: "peculiar-mo"
-state: "MO"
-county: "Cass"
-population: 1500
+state: "mo"
+town_data: "peculiar-mo"
 ---

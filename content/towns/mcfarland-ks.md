@@ -1,9 +1,7 @@
 ---
-title: "McFarland, Kansas Business Directory"
+title: "McFarland, KS Business Directory"
+type: "towns"
 slug: "mcfarland-ks"
-town: "McFarland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 785
+state: "ks"
+town_data: "mcfarland-ks"
 ---

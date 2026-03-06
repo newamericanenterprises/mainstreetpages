@@ -1,7 +1,7 @@
 ---
-title: "Old Monroe, Missouri Business Directory"
+title: "Oldnroe Mo, MO Business Directory"
+type: "towns"
 slug: "old-monroe-mo"
-state: "MO"
-county: "Lincoln"
-population: 1500
+state: "mo"
+town_data: "old-monroe-mo"
 ---

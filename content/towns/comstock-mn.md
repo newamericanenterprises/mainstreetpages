@@ -1,9 +1,7 @@
 ---
-title: "Comstock, Minnesota Business Directory"
+title: "Comstock, MN Business Directory"
+type: "towns"
 slug: "comstock-mn"
-town: "Comstock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 2265
+state: "mn"
+town_data: "comstock-mn"
 ---

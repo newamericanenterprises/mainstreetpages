@@ -1,9 +1,7 @@
 ---
-title: "Shelly, Minnesota Business Directory"
+title: "Shelly, MN Business Directory"
+type: "towns"
 slug: "shelly-mn"
-town: "Shelly"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Norman"
-population: 1105
+state: "mn"
+town_data: "shelly-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dixon, Missouri Business Directory"
+title: "Dixon, MO Business Directory"
+type: "towns"
 slug: "dixon-mo"
-state: "MO"
-county: "Pulaski"
-population: 1587
+state: "mo"
+town_data: "dixon-mo"
 ---

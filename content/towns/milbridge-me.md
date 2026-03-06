@@ -1,9 +1,7 @@
 ---
-title: "Milbridge, Maine Business Directory"
+title: "Milbridge, ME Business Directory"
+type: "towns"
 slug: "milbridge-me"
-town: "Milbridge"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 428
+state: "me"
+town_data: "milbridge-me"
 ---

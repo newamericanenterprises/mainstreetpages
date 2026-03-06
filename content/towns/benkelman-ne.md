@@ -1,7 +1,7 @@
 ---
-title: "Benkelman, Nebraska Business Directory"
+title: "Benkelman, NE Business Directory"
+type: "towns"
 slug: "benkelman-ne"
-state: "NE"
-county: "Dundy"
-population: 914
+state: "ne"
+town_data: "benkelman-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Eureka, Nevada Business Directory"
+title: "Eureka, NV Business Directory"
+type: "towns"
 slug: "eureka-nv"
-state: "NV"
-county: "Eureka"
-population: 1987
+state: "nv"
+town_data: "eureka-nv"
 ---

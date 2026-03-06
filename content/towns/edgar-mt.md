@@ -1,7 +1,7 @@
 ---
-title: "Edgar, Montana Business Directory"
+title: "Edgar, MT Business Directory"
+type: "towns"
 slug: "edgar-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "edgar-mt"
 ---

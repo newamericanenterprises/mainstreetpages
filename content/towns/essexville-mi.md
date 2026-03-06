@@ -1,9 +1,7 @@
 ---
-title: "Essexville, Michigan Business Directory"
+title: "Essexville, MI Business Directory"
+type: "towns"
 slug: "essexville-mi"
-town: "Essexville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 2213
+state: "mi"
+town_data: "essexville-mi"
 ---

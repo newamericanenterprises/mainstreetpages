@@ -1,7 +1,7 @@
 ---
-title: "Richmond, Missouri Business Directory"
+title: "Richmond, MO Business Directory"
+type: "towns"
 slug: "richmond-mo"
-state: "MO"
-county: "Ray"
-population: 5797
+state: "mo"
+town_data: "richmond-mo"
 ---

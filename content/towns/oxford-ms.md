@@ -1,7 +1,7 @@
 ---
-title: "Oxford, Mississippi Business Directory"
+title: "Oxford, MS Business Directory"
+type: "towns"
 slug: "oxford-ms"
-state: "MS"
-county: "Lafayette"
-population: 28122
+state: "ms"
+town_data: "oxford-ms"
 ---

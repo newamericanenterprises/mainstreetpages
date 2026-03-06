@@ -1,9 +1,7 @@
 ---
-title: "Newport, Minnesota Business Directory"
+title: "Newport, MN Business Directory"
+type: "towns"
 slug: "newport-mn"
-town: "Newport"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 493
+state: "mn"
+town_data: "newport-mn"
 ---

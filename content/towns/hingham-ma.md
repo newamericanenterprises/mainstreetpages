@@ -1,9 +1,7 @@
 ---
-title: "Hingham, Massachusetts Business Directory"
+title: "Hingham, MA Business Directory"
+type: "towns"
 slug: "hingham-ma"
-town: "Hingham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 24913
+state: "ma"
+town_data: "hingham-ma"
 ---

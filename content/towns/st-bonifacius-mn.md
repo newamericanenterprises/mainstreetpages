@@ -1,9 +1,7 @@
 ---
-title: "St. Bonifacius, Minnesota Business Directory"
+title: "St. Bonifacius, MN Business Directory"
+type: "towns"
 slug: "st-bonifacius-mn"
-town: "St. Bonifacius"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 520
+state: "mn"
+town_data: "st-bonifacius-mn"
 ---

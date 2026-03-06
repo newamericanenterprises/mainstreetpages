@@ -1,9 +1,7 @@
 ---
-title: "Southfield, Michigan Business Directory"
+title: "Southfield, MI Business Directory"
+type: "towns"
 slug: "southfield-mi"
-town: "Southfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 72498
+state: "mi"
+town_data: "southfield-mi"
 ---

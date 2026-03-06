@@ -1,7 +1,7 @@
 ---
-title: "Finley Point, Montana Business Directory"
+title: "Finley Point, MT Business Directory"
+type: "towns"
 slug: "finley-point-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "finley-point-mt"
 ---

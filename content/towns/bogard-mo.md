@@ -1,7 +1,7 @@
 ---
-title: "Bogard, Missouri Business Directory"
+title: "Bogard, MO Business Directory"
+type: "towns"
 slug: "bogard-mo"
-state: "MO"
-county: "Carroll"
-population: 1500
+state: "mo"
+town_data: "bogard-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Duncan, Mississippi Business Directory"
+title: "Duncan, MS Business Directory"
+type: "towns"
 slug: "duncan-ms"
-state: "MS"
-county: "Bolivar"
-population: 382
+state: "ms"
+town_data: "duncan-ms"
 ---

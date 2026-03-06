@@ -1,9 +1,7 @@
 ---
-title: "Woden, Iowa Business Directory"
+title: "Woden, IA Business Directory"
+type: "towns"
 slug: "woden-ia"
-town: "Woden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hancock"
-population: 969
+state: "ia"
+town_data: "woden-ia"
 ---

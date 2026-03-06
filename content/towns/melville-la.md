@@ -1,9 +1,7 @@
 ---
-title: "Melville, Louisiana Business Directory"
+title: "Melville, LA Business Directory"
+type: "towns"
 slug: "melville-la"
-town: "Melville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 2625
+state: "la"
+town_data: "melville-la"
 ---

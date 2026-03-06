@@ -1,9 +1,7 @@
 ---
-title: "Lawler, Iowa Business Directory"
+title: "Lawler, IA Business Directory"
+type: "towns"
 slug: "lawler-ia"
-town: "Lawler"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 2845
+state: "ia"
+town_data: "lawler-ia"
 ---

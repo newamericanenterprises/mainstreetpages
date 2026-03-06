@@ -1,9 +1,7 @@
 ---
-title: "Beattie, Kansas Business Directory"
+title: "Beattie, KS Business Directory"
+type: "towns"
 slug: "beattie-ks"
-town: "Beattie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 1344
+state: "ks"
+town_data: "beattie-ks"
 ---

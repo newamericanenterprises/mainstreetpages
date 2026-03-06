@@ -1,9 +1,7 @@
 ---
-title: "Olla, Louisiana Business Directory"
+title: "Olla, LA Business Directory"
+type: "towns"
 slug: "olla-la"
-town: "Olla"
-state: "Louisiana"
-state_abbr: "LA"
-county: "LaSalle"
-population: 2516
+state: "la"
+town_data: "olla-la"
 ---

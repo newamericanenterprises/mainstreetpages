@@ -1,7 +1,7 @@
 ---
-title: "Daykin, Nebraska Business Directory"
+title: "Daykin, NE Business Directory"
+type: "towns"
 slug: "daykin-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "daykin-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Romulus, Michigan Business Directory"
+title: "Romulus, MI Business Directory"
+type: "towns"
 slug: "romulus-mi"
-town: "Romulus"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1152
+state: "mi"
+town_data: "romulus-mi"
 ---

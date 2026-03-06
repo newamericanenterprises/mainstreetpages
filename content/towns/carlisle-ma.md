@@ -1,9 +1,7 @@
 ---
-title: "Carlisle, Massachusetts Business Directory"
+title: "Carlisle, MA Business Directory"
+type: "towns"
 slug: "carlisle-ma"
-town: "Carlisle"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 1093
+state: "ma"
+town_data: "carlisle-ma"
 ---

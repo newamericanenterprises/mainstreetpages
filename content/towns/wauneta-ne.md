@@ -1,7 +1,7 @@
 ---
-title: "Wauneta, Nebraska Business Directory"
+title: "Wauneta, NE Business Directory"
+type: "towns"
 slug: "wauneta-ne"
-state: "NE"
-county: "Chase"
-population: 500
+state: "ne"
+town_data: "wauneta-ne"
 ---

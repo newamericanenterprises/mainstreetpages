@@ -1,7 +1,7 @@
 ---
-title: "Tylertown, Mississippi Business Directory"
+title: "Tylertown, MS Business Directory"
+type: "towns"
 slug: "tylertown-ms"
-state: "MS"
-county: "Walthall"
-population: 1558
+state: "ms"
+town_data: "tylertown-ms"
 ---

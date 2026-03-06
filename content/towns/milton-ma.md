@@ -1,9 +1,7 @@
 ---
-title: "Milton, Massachusetts Business Directory"
+title: "Milton, MA Business Directory"
+type: "towns"
 slug: "milton-ma"
-town: "Milton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 28254
+state: "ma"
+town_data: "milton-ma"
 ---

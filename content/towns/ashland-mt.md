@@ -1,7 +1,7 @@
 ---
-title: "Ashland, Montana Business Directory"
+title: "Ashland, MT Business Directory"
+type: "towns"
 slug: "ashland-mt"
-state: "MT"
-county: "Rosebud"
-population: 500
+state: "mt"
+town_data: "ashland-mt"
 ---

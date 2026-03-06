@@ -1,9 +1,7 @@
 ---
-title: "Farragut, Iowa Business Directory"
+title: "Farragut, IA Business Directory"
+type: "towns"
 slug: "farragut-ia"
-town: "Farragut"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 1417
+state: "ia"
+town_data: "farragut-ia"
 ---

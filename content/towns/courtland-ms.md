@@ -1,7 +1,7 @@
 ---
-title: "Courtland, Mississippi Business Directory"
+title: "Courtland, MS Business Directory"
+type: "towns"
 slug: "courtland-ms"
-state: "MS"
-county: "Panola"
-population: 454
+state: "ms"
+town_data: "courtland-ms"
 ---

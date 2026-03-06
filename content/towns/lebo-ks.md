@@ -1,9 +1,7 @@
 ---
-title: "Lebo, Kansas Business Directory"
+title: "Lebo, KS Business Directory"
+type: "towns"
 slug: "lebo-ks"
-town: "Lebo"
-state: "Kansas"
-state_abbr: "KS"
-county: "Coffey"
-population: 377
+state: "ks"
+town_data: "lebo-ks"
 ---

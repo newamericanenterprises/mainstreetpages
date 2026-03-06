@@ -1,9 +1,7 @@
 ---
-title: "Craig, Iowa Business Directory"
+title: "Craig, IA Business Directory"
+type: "towns"
 slug: "craig-ia"
-town: "Craig"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 2762
+state: "ia"
+town_data: "craig-ia"
 ---

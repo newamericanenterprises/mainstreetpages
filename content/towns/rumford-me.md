@@ -1,9 +1,7 @@
 ---
-title: "Rumford, Maine Business Directory"
+title: "Rumford, ME Business Directory"
+type: "towns"
 slug: "rumford-me"
-town: "Rumford"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 5841
+state: "me"
+town_data: "rumford-me"
 ---

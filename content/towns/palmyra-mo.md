@@ -1,7 +1,7 @@
 ---
-title: "Palmyra, Missouri Business Directory"
+title: "Palmyra, MO Business Directory"
+type: "towns"
 slug: "palmyra-mo"
-state: "MO"
-county: "Marion"
-population: 3629
+state: "mo"
+town_data: "palmyra-mo"
 ---

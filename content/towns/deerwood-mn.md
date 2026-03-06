@@ -1,9 +1,7 @@
 ---
-title: "Deerwood, Minnesota Business Directory"
+title: "Deerwood, MN Business Directory"
+type: "towns"
 slug: "deerwood-mn"
-town: "Deerwood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1265
+state: "mn"
+town_data: "deerwood-mn"
 ---

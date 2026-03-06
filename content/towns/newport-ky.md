@@ -1,9 +1,7 @@
 ---
-title: "Newport, Kentucky Business Directory"
+title: "Newport, KY Business Directory"
+type: "towns"
 slug: "newport-ky"
-town: "Newport"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 14991
+state: "ky"
+town_data: "newport-ky"
 ---

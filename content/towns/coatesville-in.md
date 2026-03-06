@@ -1,9 +1,7 @@
 ---
-title: "Coatesville, Indiana Business Directory"
+title: "Coatesville, IN Business Directory"
+type: "towns"
 slug: "coatesville-in"
-town: "Coatesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 4018
+state: "in"
+town_data: "coatesville-in"
 ---

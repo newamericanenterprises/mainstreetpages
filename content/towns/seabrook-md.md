@@ -1,9 +1,7 @@
 ---
-title: "Seabrook, Maryland Business Directory"
+title: "Seabrook, MD Business Directory"
+type: "towns"
 slug: "seabrook-md"
-town: "Seabrook"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 3891
+state: "md"
+town_data: "seabrook-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fort Wright, Kentucky Business Directory"
+title: "Fort Wright, KY Business Directory"
+type: "towns"
 slug: "fort-wright-ky"
-town: "Fort Wright"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 2494
+state: "ky"
+town_data: "fort-wright-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Clever, Missouri Business Directory"
+title: "Clever, MO Business Directory"
+type: "towns"
 slug: "clever-mo"
-state: "MO"
-county: "Christian"
-population: 1500
+state: "mo"
+town_data: "clever-mo"
 ---

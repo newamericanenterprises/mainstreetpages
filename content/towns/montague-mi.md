@@ -1,9 +1,7 @@
 ---
-title: "Montague, Michigan Business Directory"
+title: "Montague, MI Business Directory"
+type: "towns"
 slug: "montague-mi"
-town: "Montague"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 596
+state: "mi"
+town_data: "montague-mi"
 ---

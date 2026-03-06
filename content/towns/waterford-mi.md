@@ -1,9 +1,7 @@
 ---
-title: "Waterford, Michigan Business Directory"
+title: "Waterford, MI Business Directory"
+type: "towns"
 slug: "waterford-mi"
-town: "Waterford"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 72166
+state: "mi"
+town_data: "waterford-mi"
 ---

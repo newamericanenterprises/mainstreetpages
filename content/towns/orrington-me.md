@@ -1,9 +1,7 @@
 ---
-title: "Orrington, Maine Business Directory"
+title: "Orrington, ME Business Directory"
+type: "towns"
 slug: "orrington-me"
-town: "Orrington"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2776
+state: "me"
+town_data: "orrington-me"
 ---

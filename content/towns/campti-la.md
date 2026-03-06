@@ -1,9 +1,7 @@
 ---
-title: "Campti, Louisiana Business Directory"
+title: "Campti, LA Business Directory"
+type: "towns"
 slug: "campti-la"
-town: "Campti"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Natchitoches"
-population: 1913
+state: "la"
+town_data: "campti-la"
 ---

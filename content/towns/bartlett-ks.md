@@ -1,9 +1,7 @@
 ---
-title: "Bartlett, Kansas Business Directory"
+title: "Bartlett, KS Business Directory"
+type: "towns"
 slug: "bartlett-ks"
-town: "Bartlett"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 1322
+state: "ks"
+town_data: "bartlett-ks"
 ---

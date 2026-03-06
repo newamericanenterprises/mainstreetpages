@@ -1,9 +1,7 @@
 ---
-title: "Crofton, Kentucky Business Directory"
+title: "Crofton, KY Business Directory"
+type: "towns"
 slug: "crofton-ky"
-town: "Crofton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Christian"
-population: 2394
+state: "ky"
+town_data: "crofton-ky"
 ---

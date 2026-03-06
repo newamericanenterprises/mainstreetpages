@@ -1,7 +1,7 @@
 ---
-title: "Fishtail, Montana Business Directory"
+title: "Fishtail, MT Business Directory"
+type: "towns"
 slug: "fishtail-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "fishtail-mt"
 ---

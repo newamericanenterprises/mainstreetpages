@@ -1,9 +1,7 @@
 ---
-title: "North Adams, Massachusetts Business Directory"
+title: "North Adams, MA Business Directory"
+type: "towns"
 slug: "north-adams-ma"
-town: "North Adams"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 12961
+state: "ma"
+town_data: "north-adams-ma"
 ---

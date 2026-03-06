@@ -1,9 +1,7 @@
 ---
-title: "Levering, Michigan Business Directory"
+title: "Levering, MI Business Directory"
+type: "towns"
 slug: "levering-mi"
-town: "Levering"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 1832
+state: "mi"
+town_data: "levering-mi"
 ---

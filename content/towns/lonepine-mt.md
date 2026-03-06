@@ -1,7 +1,7 @@
 ---
-title: "Lonepine, Montana Business Directory"
+title: "Lonepine, MT Business Directory"
+type: "towns"
 slug: "lonepine-mt"
-state: "MT"
-county: "Sanders"
-population: 500
+state: "mt"
+town_data: "lonepine-mt"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Columbia, Mississippi Business Directory"
+title: "Columbia, MS Business Directory"
+type: "towns"
 slug: "columbia-ms"
-state: "MS"
-county: "Marion"
-population: 6582
+state: "ms"
+town_data: "columbia-ms"
 ---

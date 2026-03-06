@@ -1,9 +1,7 @@
 ---
-title: "Somerset, Massachusetts Business Directory"
+title: "Somerset, MA Business Directory"
+type: "towns"
 slug: "somerset-ma"
-town: "Somerset"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 6565
+state: "ma"
+town_data: "somerset-ma"
 ---

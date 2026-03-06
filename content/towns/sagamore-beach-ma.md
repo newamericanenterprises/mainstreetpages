@@ -1,9 +1,7 @@
 ---
-title: "Sagamore Beach, Massachusetts Business Directory"
+title: "Sagamore Beach, MA Business Directory"
+type: "towns"
 slug: "sagamore-beach-ma"
-town: "Sagamore Beach"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 8969
+state: "ma"
+town_data: "sagamore-beach-ma"
 ---

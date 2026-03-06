@@ -1,9 +1,7 @@
 ---
-title: "Ozawkie, Kansas Business Directory"
+title: "Ozawkie, KS Business Directory"
+type: "towns"
 slug: "ozawkie-ks"
-town: "Ozawkie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 1129
+state: "ks"
+town_data: "ozawkie-ks"
 ---

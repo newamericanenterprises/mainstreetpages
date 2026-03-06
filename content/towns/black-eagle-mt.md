@@ -1,7 +1,7 @@
 ---
-title: "Black Eagle, Montana Business Directory"
+title: "Black Eagle, MT Business Directory"
+type: "towns"
 slug: "black-eagle-mt"
-state: "MT"
-county: "Cascade"
-population: 994
+state: "mt"
+town_data: "black-eagle-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sebree, Kentucky Business Directory"
+title: "Sebree, KY Business Directory"
+type: "towns"
 slug: "sebree-ky"
-town: "Sebree"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Webster"
-population: 3045
+state: "ky"
+town_data: "sebree-ky"
 ---

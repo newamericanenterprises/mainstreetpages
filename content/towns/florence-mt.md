@@ -1,7 +1,7 @@
 ---
-title: "Florence, Montana Business Directory"
+title: "Florence, MT Business Directory"
+type: "towns"
 slug: "florence-mt"
-state: "MT"
-county: "Ravalli"
-population: 804
+state: "mt"
+town_data: "florence-mt"
 ---

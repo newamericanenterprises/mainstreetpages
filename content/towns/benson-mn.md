@@ -1,9 +1,7 @@
 ---
-title: "Benson, Minnesota Business Directory"
+title: "Benson, MN Business Directory"
+type: "towns"
 slug: "benson-mn"
-town: "Benson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Swift"
-population: 3199
+state: "mn"
+town_data: "benson-mn"
 ---

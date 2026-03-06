@@ -1,9 +1,7 @@
 ---
-title: "Hendricks, Minnesota Business Directory"
+title: "Hendricks, MN Business Directory"
+type: "towns"
 slug: "hendricks-mn"
-town: "Hendricks"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lincoln"
-population: 1003
+state: "mn"
+town_data: "hendricks-mn"
 ---

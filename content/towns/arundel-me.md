@@ -1,9 +1,7 @@
 ---
-title: "Arundel, Maine Business Directory"
+title: "Arundel, ME Business Directory"
+type: "towns"
 slug: "arundel-me"
-town: "Arundel"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 569
+state: "me"
+town_data: "arundel-me"
 ---

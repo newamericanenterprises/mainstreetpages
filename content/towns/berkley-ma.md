@@ -1,9 +1,7 @@
 ---
-title: "Berkley, Massachusetts Business Directory"
+title: "Berkley, MA Business Directory"
+type: "towns"
 slug: "berkley-ma"
-town: "Berkley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 2389
+state: "ma"
+town_data: "berkley-ma"
 ---

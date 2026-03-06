@@ -1,9 +1,7 @@
 ---
-title: "Fancy Farm, Kentucky Business Directory"
+title: "Fancy Farm, KY Business Directory"
+type: "towns"
 slug: "fancy-farm-ky"
-town: "Fancy Farm"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Graves"
-population: 3170
+state: "ky"
+town_data: "fancy-farm-ky"
 ---

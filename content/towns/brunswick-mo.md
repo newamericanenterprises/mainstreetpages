@@ -1,7 +1,7 @@
 ---
-title: "Brunswick, Missouri Business Directory"
+title: "Brunswick, MO Business Directory"
+type: "towns"
 slug: "brunswick-mo"
-state: "MO"
-county: "Chariton"
-population: 1500
+state: "mo"
+town_data: "brunswick-mo"
 ---

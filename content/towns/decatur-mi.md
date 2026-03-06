@@ -1,9 +1,7 @@
 ---
-title: "Decatur, Michigan Business Directory"
+title: "Decatur, MI Business Directory"
+type: "towns"
 slug: "decatur-mi"
-town: "Decatur"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 3739
+state: "mi"
+town_data: "decatur-mi"
 ---

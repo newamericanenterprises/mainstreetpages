@@ -1,9 +1,7 @@
 ---
-title: "White Pine, Michigan Business Directory"
+title: "White Pine, MI Business Directory"
+type: "towns"
 slug: "white-pine-mi"
-town: "White Pine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ontonagon"
-population: 4575
+state: "mi"
+town_data: "white-pine-mi"
 ---

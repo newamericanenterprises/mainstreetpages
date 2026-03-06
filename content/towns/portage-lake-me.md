@@ -1,9 +1,7 @@
 ---
-title: "Portage Lake, Maine Business Directory"
+title: "Portage Lake, ME Business Directory"
+type: "towns"
 slug: "portage-lake-me"
-town: "Portage Lake"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 775
+state: "me"
+town_data: "portage-lake-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mazeppa, Minnesota Business Directory"
+title: "Mazeppa, MN Business Directory"
+type: "towns"
 slug: "mazeppa-mn"
-town: "Mazeppa"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 3135
+state: "mn"
+town_data: "mazeppa-mn"
 ---

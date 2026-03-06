@@ -1,9 +1,7 @@
 ---
-title: "Windy Hills, Kentucky Business Directory"
+title: "Windy Hills, KY Business Directory"
+type: "towns"
 slug: "windy-hills-ky"
-town: "Windy Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1542
+state: "ky"
+town_data: "windy-hills-ky"
 ---

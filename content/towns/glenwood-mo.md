@@ -1,7 +1,7 @@
 ---
-title: "Glenwood, Missouri Business Directory"
+title: "Glenwood, MO Business Directory"
+type: "towns"
 slug: "glenwood-mo"
-state: "MO"
-county: "Schuyler"
-population: 1500
+state: "mo"
+town_data: "glenwood-mo"
 ---

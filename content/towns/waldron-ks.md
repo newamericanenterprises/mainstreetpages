@@ -1,9 +1,7 @@
 ---
-title: "Waldron, Kansas Business Directory"
+title: "Waldron, KS Business Directory"
+type: "towns"
 slug: "waldron-ks"
-town: "Waldron"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 1819
+state: "ks"
+town_data: "waldron-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Trenton, Nebraska Business Directory"
+title: "Trenton, NE Business Directory"
+type: "towns"
 slug: "trenton-ne"
-state: "NE"
-county: "Hitchcock"
-population: 500
+state: "ne"
+town_data: "trenton-ne"
 ---

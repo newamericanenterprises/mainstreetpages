@@ -1,7 +1,7 @@
 ---
-title: "Lyon, Mississippi Business Directory"
+title: "Lyon, MS Business Directory"
+type: "towns"
 slug: "lyon-ms"
-state: "MS"
-county: "Coahoma"
-population: 303
+state: "ms"
+town_data: "lyon-ms"
 ---

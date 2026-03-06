@@ -1,7 +1,7 @@
 ---
-title: "York, Nebraska Business Directory"
+title: "York, NE Business Directory"
+type: "towns"
 slug: "york-ne"
-state: "NE"
-county: "York"
-population: 7766
+state: "ne"
+town_data: "york-ne"
 ---

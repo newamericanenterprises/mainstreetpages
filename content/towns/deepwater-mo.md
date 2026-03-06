@@ -1,7 +1,7 @@
 ---
-title: "Deepwater, Missouri Business Directory"
+title: "Deepwater, MO Business Directory"
+type: "towns"
 slug: "deepwater-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "deepwater-mo"
 ---

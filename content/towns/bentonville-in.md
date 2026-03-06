@@ -1,9 +1,7 @@
 ---
-title: "Bentonville, Indiana Business Directory"
+title: "Bentonville, IN Business Directory"
+type: "towns"
 slug: "bentonville-in"
-town: "Bentonville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fayette"
-population: 2685
+state: "in"
+town_data: "bentonville-in"
 ---

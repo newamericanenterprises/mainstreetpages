@@ -1,9 +1,7 @@
 ---
-title: "Boyd, Minnesota Business Directory"
+title: "Boyd, MN Business Directory"
+type: "towns"
 slug: "boyd-mn"
-town: "Boyd"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lac qui Parle"
-population: 3292
+state: "mn"
+town_data: "boyd-mn"
 ---

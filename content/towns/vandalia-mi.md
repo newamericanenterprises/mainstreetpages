@@ -1,9 +1,7 @@
 ---
-title: "Vandalia, Michigan Business Directory"
+title: "Vandalia, MI Business Directory"
+type: "towns"
 slug: "vandalia-mi"
-town: "Vandalia"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cass"
-population: 3323
+state: "mi"
+town_data: "vandalia-mi"
 ---

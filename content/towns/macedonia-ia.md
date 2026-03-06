@@ -1,9 +1,7 @@
 ---
-title: "Macedonia, Iowa Business Directory"
+title: "Macedonia, IA Business Directory"
+type: "towns"
 slug: "macedonia-ia"
-town: "Macedonia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 923
+state: "ia"
+town_data: "macedonia-ia"
 ---

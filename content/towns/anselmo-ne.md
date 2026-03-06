@@ -1,7 +1,7 @@
 ---
-title: "Anselmo, Nebraska Business Directory"
+title: "Anselmo, NE Business Directory"
+type: "towns"
 slug: "anselmo-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "anselmo-ne"
 ---

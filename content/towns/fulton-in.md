@@ -1,9 +1,7 @@
 ---
-title: "Fulton, Indiana Business Directory"
+title: "Fulton, IN Business Directory"
+type: "towns"
 slug: "fulton-in"
-town: "Fulton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fulton"
-population: 3165
+state: "in"
+town_data: "fulton-in"
 ---

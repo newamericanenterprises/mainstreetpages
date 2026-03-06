@@ -1,7 +1,7 @@
 ---
-title: "Harbine, Nebraska Business Directory"
+title: "Harbine, NE Business Directory"
+type: "towns"
 slug: "harbine-ne"
-state: "NE"
-county: "Jefferson"
-population: 500
+state: "ne"
+town_data: "harbine-ne"
 ---

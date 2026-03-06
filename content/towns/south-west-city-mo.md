@@ -1,7 +1,7 @@
 ---
-title: "South West City, Missouri Business Directory"
+title: "South West City, MO Business Directory"
+type: "towns"
 slug: "south-west-city-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "south-west-city-mo"
 ---

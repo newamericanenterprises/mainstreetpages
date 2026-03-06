@@ -1,9 +1,7 @@
 ---
-title: "Gobles, Michigan Business Directory"
+title: "Gobles, MI Business Directory"
+type: "towns"
 slug: "gobles-mi"
-town: "Gobles"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 1099
+state: "mi"
+town_data: "gobles-mi"
 ---

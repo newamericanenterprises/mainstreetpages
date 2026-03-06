@@ -1,9 +1,7 @@
 ---
-title: "Elkton, Kentucky Business Directory"
+title: "Elkton, KY Business Directory"
+type: "towns"
 slug: "elkton-ky"
-town: "Elkton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Todd"
-population: 2058
+state: "ky"
+town_data: "elkton-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Unionville, Nevada Business Directory"
+title: "Unionville, NV Business Directory"
+type: "towns"
 slug: "unionville-nv"
-state: "NV"
-county: "Pershing"
-population: 26
+state: "nv"
+town_data: "unionville-nv"
 ---

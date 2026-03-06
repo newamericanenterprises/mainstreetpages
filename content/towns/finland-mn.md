@@ -1,9 +1,7 @@
 ---
-title: "Finland, Minnesota Business Directory"
+title: "Finland, MN Business Directory"
+type: "towns"
 slug: "finland-mn"
-town: "Finland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lake"
-population: 712
+state: "mn"
+town_data: "finland-mn"
 ---

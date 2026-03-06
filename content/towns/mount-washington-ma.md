@@ -1,9 +1,7 @@
 ---
-title: "Mount Washington, Massachusetts Business Directory"
+title: "Mount Washington, MA Business Directory"
+type: "towns"
 slug: "mount-washington-ma"
-town: "Mount Washington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8230
+state: "ma"
+town_data: "mount-washington-ma"
 ---

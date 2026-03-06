@@ -1,9 +1,7 @@
 ---
-title: "Hugoton, Kansas Business Directory"
+title: "Hugoton, KS Business Directory"
+type: "towns"
 slug: "hugoton-ks"
-town: "Hugoton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stevens"
-population: 3904
+state: "ks"
+town_data: "hugoton-ks"
 ---

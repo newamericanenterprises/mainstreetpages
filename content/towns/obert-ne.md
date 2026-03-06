@@ -1,7 +1,7 @@
 ---
-title: "Obert, Nebraska Business Directory"
+title: "Obert, NE Business Directory"
+type: "towns"
 slug: "obert-ne"
-state: "NE"
-county: "Cedar"
-population: 32
+state: "ne"
+town_data: "obert-ne"
 ---

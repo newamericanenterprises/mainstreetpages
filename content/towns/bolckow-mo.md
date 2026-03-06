@@ -1,7 +1,7 @@
 ---
-title: "Bolckow, Missouri Business Directory"
+title: "Bolckow, MO Business Directory"
+type: "towns"
 slug: "bolckow-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "bolckow-mo"
 ---

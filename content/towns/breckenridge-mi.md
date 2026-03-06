@@ -1,9 +1,7 @@
 ---
-title: "Breckenridge, Michigan Business Directory"
+title: "Breckenridge, MI Business Directory"
+type: "towns"
 slug: "breckenridge-mi"
-town: "Breckenridge"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 3769
+state: "mi"
+town_data: "breckenridge-mi"
 ---

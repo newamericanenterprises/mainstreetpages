@@ -1,9 +1,7 @@
 ---
-title: "New Sweden, Maine Business Directory"
+title: "New Sweden, ME Business Directory"
+type: "towns"
 slug: "new-sweden-me"
-town: "New Sweden"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 2060
+state: "me"
+town_data: "new-sweden-me"
 ---

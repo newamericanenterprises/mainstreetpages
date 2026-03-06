@@ -1,9 +1,7 @@
 ---
-title: "Ellettsville, Indiana Business Directory"
+title: "Ellettsville, IN Business Directory"
+type: "towns"
 slug: "ellettsville-in"
-town: "Ellettsville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Monroe"
-population: 614
+state: "in"
+town_data: "ellettsville-in"
 ---

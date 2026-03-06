@@ -1,7 +1,7 @@
 ---
-title: "Pagedale, Missouri Business Directory"
+title: "Pagedale, MO Business Directory"
+type: "towns"
 slug: "pagedale-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "pagedale-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Nevis, Minnesota Business Directory"
+title: "Nevis, MN Business Directory"
+type: "towns"
 slug: "nevis-mn"
-town: "Nevis"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hubbard"
-population: 1738
+state: "mn"
+town_data: "nevis-mn"
 ---

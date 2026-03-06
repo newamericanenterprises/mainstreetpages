@@ -1,9 +1,7 @@
 ---
-title: "Colwich, Kansas Business Directory"
+title: "Colwich, KS Business Directory"
+type: "towns"
 slug: "colwich-ks"
-town: "Colwich"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 1077
+state: "ks"
+town_data: "colwich-ks"
 ---

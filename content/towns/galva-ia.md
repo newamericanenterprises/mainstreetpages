@@ -1,9 +1,7 @@
 ---
-title: "Galva, Iowa Business Directory"
+title: "Galva, IA Business Directory"
+type: "towns"
 slug: "galva-ia"
-town: "Galva"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ida"
-population: 2480
+state: "ia"
+town_data: "galva-ia"
 ---

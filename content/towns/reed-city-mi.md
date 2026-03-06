@@ -1,9 +1,7 @@
 ---
-title: "Reed City, Michigan Business Directory"
+title: "Reed City, MI Business Directory"
+type: "towns"
 slug: "reed-city-mi"
-town: "Reed City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Osceola"
-population: 2614
+state: "mi"
+town_data: "reed-city-mi"
 ---

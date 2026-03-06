@@ -1,9 +1,7 @@
 ---
-title: "Cayuga, Indiana Business Directory"
+title: "Cayuga, IN Business Directory"
+type: "towns"
 slug: "cayuga-in"
-town: "Cayuga"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vermillion"
-population: 2967
+state: "in"
+town_data: "cayuga-in"
 ---

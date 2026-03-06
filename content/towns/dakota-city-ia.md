@@ -1,9 +1,7 @@
 ---
-title: "Dakota City, Iowa Business Directory"
+title: "Dakota City, IA Business Directory"
+type: "towns"
 slug: "dakota-city-ia"
-town: "Dakota City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 2276
+state: "ia"
+town_data: "dakota-city-ia"
 ---

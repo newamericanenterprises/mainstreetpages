@@ -1,9 +1,7 @@
 ---
-title: "Ulen, Indiana Business Directory"
+title: "Ulen, IN Business Directory"
+type: "towns"
 slug: "ulen-in"
-town: "Ulen"
-state: "Indiana"
-state_abbr: "IN"
-county: "Boone"
-population: 1485
+state: "in"
+town_data: "ulen-in"
 ---

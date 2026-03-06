@@ -1,9 +1,7 @@
 ---
-title: "Smithland, Kentucky Business Directory"
+title: "Smithland, KY Business Directory"
+type: "towns"
 slug: "smithland-ky"
-town: "Smithland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Livingston"
-population: 959
+state: "ky"
+town_data: "smithland-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mercer, Maine Business Directory"
+title: "Mercer, ME Business Directory"
+type: "towns"
 slug: "mercer-me"
-town: "Mercer"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 1782
+state: "me"
+town_data: "mercer-me"
 ---

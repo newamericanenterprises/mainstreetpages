@@ -1,7 +1,7 @@
 ---
-title: "Inman, Nebraska Business Directory"
+title: "Inman, NE Business Directory"
+type: "towns"
 slug: "inman-ne"
-state: "NE"
-county: "Holt"
-population: 126
+state: "ne"
+town_data: "inman-ne"
 ---

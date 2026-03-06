@@ -1,9 +1,7 @@
 ---
-title: "Cottonport, Louisiana Business Directory"
+title: "Cottonport, LA Business Directory"
+type: "towns"
 slug: "cottonport-la"
-town: "Cottonport"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 1317
+state: "la"
+town_data: "cottonport-la"
 ---

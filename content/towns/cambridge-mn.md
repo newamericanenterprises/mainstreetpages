@@ -1,9 +1,7 @@
 ---
-title: "Cambridge, Minnesota Business Directory"
+title: "Cambridge, MN Business Directory"
+type: "towns"
 slug: "cambridge-mn"
-town: "Cambridge"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 9244
+state: "mn"
+town_data: "cambridge-mn"
 ---

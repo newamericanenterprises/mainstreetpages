@@ -1,9 +1,7 @@
 ---
-title: "Chestertown, Maryland Business Directory"
+title: "Chestertown, MD Business Directory"
+type: "towns"
 slug: "chestertown-md"
-town: "Chestertown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 5252
+state: "md"
+town_data: "chestertown-md"
 ---

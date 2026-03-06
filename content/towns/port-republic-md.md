@@ -1,9 +1,7 @@
 ---
-title: "Port Republic, Maryland Business Directory"
+title: "Port Republic, MD Business Directory"
+type: "towns"
 slug: "port-republic-md"
-town: "Port Republic"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 1129
+state: "md"
+town_data: "port-republic-md"
 ---

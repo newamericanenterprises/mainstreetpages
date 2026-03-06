@@ -1,9 +1,7 @@
 ---
-title: "Alanson, Michigan Business Directory"
+title: "Alanson, MI Business Directory"
+type: "towns"
 slug: "alanson-mi"
-town: "Alanson"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 5260
+state: "mi"
+town_data: "alanson-mi"
 ---

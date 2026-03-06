@@ -1,9 +1,7 @@
 ---
-title: "Monitor, Michigan Business Directory"
+title: "Monitor, MI Business Directory"
+type: "towns"
 slug: "monitor-mi"
-town: "Monitor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Bay"
-population: 5428
+state: "mi"
+town_data: "monitor-mi"
 ---

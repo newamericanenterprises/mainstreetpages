@@ -1,9 +1,7 @@
 ---
-title: "Santa Claus, Indiana Business Directory"
+title: "Santa Claus, IN Business Directory"
+type: "towns"
 slug: "santa-claus-in"
-town: "Santa Claus"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 2481
+state: "in"
+town_data: "santa-claus-in"
 ---

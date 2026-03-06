@@ -1,9 +1,7 @@
 ---
-title: "Clearfield, Iowa Business Directory"
+title: "Clearfield, IA Business Directory"
+type: "towns"
 slug: "clearfield-ia"
-town: "Clearfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Taylor"
-population: 3015
+state: "ia"
+town_data: "clearfield-ia"
 ---

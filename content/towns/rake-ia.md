@@ -1,9 +1,7 @@
 ---
-title: "Rake, Iowa Business Directory"
+title: "Rake, IA Business Directory"
+type: "towns"
 slug: "rake-ia"
-town: "Rake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 1842
+state: "ia"
+town_data: "rake-ia"
 ---

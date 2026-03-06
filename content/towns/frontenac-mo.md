@@ -1,7 +1,7 @@
 ---
-title: "Frontenac, Missouri Business Directory"
+title: "Frontenac, MO Business Directory"
+type: "towns"
 slug: "frontenac-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "frontenac-mo"
 ---

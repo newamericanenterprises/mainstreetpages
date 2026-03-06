@@ -1,9 +1,7 @@
 ---
-title: "Hanston, Kansas Business Directory"
+title: "Hanston, KS Business Directory"
+type: "towns"
 slug: "hanston-ks"
-town: "Hanston"
-state: "Kansas"
-state_abbr: "KS"
-county: "Hodgeman"
-population: 1954
+state: "ks"
+town_data: "hanston-ks"
 ---

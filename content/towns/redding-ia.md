@@ -1,9 +1,7 @@
 ---
-title: "Redding, Iowa Business Directory"
+title: "Redding, IA Business Directory"
+type: "towns"
 slug: "redding-ia"
-town: "Redding"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 1934
+state: "ia"
+town_data: "redding-ia"
 ---

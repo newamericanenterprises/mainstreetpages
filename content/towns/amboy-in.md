@@ -1,9 +1,7 @@
 ---
-title: "Amboy, Indiana Business Directory"
+title: "Amboy, IN Business Directory"
+type: "towns"
 slug: "amboy-in"
-town: "Amboy"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 2821
+state: "in"
+town_data: "amboy-in"
 ---

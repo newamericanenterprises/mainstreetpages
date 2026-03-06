@@ -1,9 +1,7 @@
 ---
-title: "Ellston, Iowa Business Directory"
+title: "Ellston, IA Business Directory"
+type: "towns"
 slug: "ellston-ia"
-town: "Ellston"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 3435
+state: "ia"
+town_data: "ellston-ia"
 ---

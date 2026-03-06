@@ -1,9 +1,7 @@
 ---
-title: "North Manchester, Indiana Business Directory"
+title: "North Manchester, IN Business Directory"
+type: "towns"
 slug: "north-manchester-in"
-town: "North Manchester"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 3532
+state: "in"
+town_data: "north-manchester-in"
 ---

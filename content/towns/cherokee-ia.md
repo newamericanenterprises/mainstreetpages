@@ -1,9 +1,7 @@
 ---
-title: "Cherokee, Iowa Business Directory"
+title: "Cherokee, IA Business Directory"
+type: "towns"
 slug: "cherokee-ia"
-town: "Cherokee"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cherokee"
-population: 4995
+state: "ia"
+town_data: "cherokee-ia"
 ---

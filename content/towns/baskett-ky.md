@@ -1,9 +1,7 @@
 ---
-title: "Baskett, Kentucky Business Directory"
+title: "Baskett, KY Business Directory"
+type: "towns"
 slug: "baskett-ky"
-town: "Baskett"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henderson"
-population: 2307
+state: "ky"
+town_data: "baskett-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Absarokee, Montana Business Directory"
+title: "Absarokee, MT Business Directory"
+type: "towns"
 slug: "absarokee-mt"
-state: "MT"
-county: "Stillwater"
-population: 500
+state: "mt"
+town_data: "absarokee-mt"
 ---

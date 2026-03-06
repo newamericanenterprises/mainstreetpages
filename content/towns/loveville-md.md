@@ -1,9 +1,7 @@
 ---
-title: "Loveville, Maryland Business Directory"
+title: "Loveville, MD Business Directory"
+type: "towns"
 slug: "loveville-md"
-town: "Loveville"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 2657
+state: "md"
+town_data: "loveville-md"
 ---

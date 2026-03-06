@@ -1,9 +1,7 @@
 ---
-title: "Marshall, Indiana Business Directory"
+title: "Marshall, IN Business Directory"
+type: "towns"
 slug: "marshall-in"
-town: "Marshall"
-state: "Indiana"
-state_abbr: "IN"
-county: "Parke"
-population: 2948
+state: "in"
+town_data: "marshall-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Nicodemus, Kansas Business Directory"
+title: "Nicodemus, KS Business Directory"
+type: "towns"
 slug: "nicodemus-ks"
-town: "Nicodemus"
-state: "Kansas"
-state_abbr: "KS"
-county: "Graham"
-population: 1723
+state: "ks"
+town_data: "nicodemus-ks"
 ---

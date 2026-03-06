@@ -1,7 +1,7 @@
 ---
-title: "Lyons, Nebraska Business Directory"
+title: "Lyons, NE Business Directory"
+type: "towns"
 slug: "lyons-ne"
-state: "NE"
-county: "Burt"
-population: 851
+state: "ne"
+town_data: "lyons-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Shelton, Nebraska Business Directory"
+title: "Shelton, NE Business Directory"
+type: "towns"
 slug: "shelton-ne"
-state: "NE"
-county: "Buffalo"
-population: 1059
+state: "ne"
+town_data: "shelton-ne"
 ---

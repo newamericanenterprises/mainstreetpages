@@ -1,9 +1,7 @@
 ---
-title: "Townsend, Massachusetts Business Directory"
+title: "Townsend, MA Business Directory"
+type: "towns"
 slug: "townsend-ma"
-town: "Townsend"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 2632
+state: "ma"
+town_data: "townsend-ma"
 ---

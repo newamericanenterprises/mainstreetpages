@@ -1,9 +1,7 @@
 ---
-title: "Napoleon, Indiana Business Directory"
+title: "Napoleon, IN Business Directory"
+type: "towns"
 slug: "napoleon-in"
-town: "Napoleon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 3985
+state: "in"
+town_data: "napoleon-in"
 ---

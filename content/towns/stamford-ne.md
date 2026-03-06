@@ -1,7 +1,7 @@
 ---
-title: "Stamford, Nebraska Business Directory"
+title: "Stamford, NE Business Directory"
+type: "towns"
 slug: "stamford-ne"
-state: "NE"
-county: "Harlan"
-population: 500
+state: "ne"
+town_data: "stamford-ne"
 ---

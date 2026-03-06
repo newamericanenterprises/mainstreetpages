@@ -1,9 +1,7 @@
 ---
-title: "New Hampton, Iowa Business Directory"
+title: "New Hampton, IA Business Directory"
+type: "towns"
 slug: "new-hampton-ia"
-town: "New Hampton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 3592
+state: "ia"
+town_data: "new-hampton-ia"
 ---

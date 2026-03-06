@@ -1,9 +1,7 @@
 ---
-title: "Goddard, Kansas Business Directory"
+title: "Goddard, KS Business Directory"
+type: "towns"
 slug: "goddard-ks"
-town: "Goddard"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 5107
+state: "ks"
+town_data: "goddard-ks"
 ---

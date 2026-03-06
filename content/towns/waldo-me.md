@@ -1,9 +1,7 @@
 ---
-title: "Waldo, Maine Business Directory"
+title: "Waldo, ME Business Directory"
+type: "towns"
 slug: "waldo-me"
-town: "Waldo"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2284
+state: "me"
+town_data: "waldo-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brewster, Kansas Business Directory"
+title: "Brewster, KS Business Directory"
+type: "towns"
 slug: "brewster-ks"
-town: "Brewster"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 3191
+state: "ks"
+town_data: "brewster-ks"
 ---

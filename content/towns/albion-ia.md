@@ -1,9 +1,7 @@
 ---
-title: "Albion, Iowa Business Directory"
+title: "Albion, IA Business Directory"
+type: "towns"
 slug: "albion-ia"
-town: "Albion"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marshall"
-population: 2727
+state: "ia"
+town_data: "albion-ia"
 ---

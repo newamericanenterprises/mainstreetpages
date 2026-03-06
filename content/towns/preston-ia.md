@@ -1,9 +1,7 @@
 ---
-title: "Preston, Iowa Business Directory"
+title: "Preston, IA Business Directory"
+type: "towns"
 slug: "preston-ia"
-town: "Preston"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 3470
+state: "ia"
+town_data: "preston-ia"
 ---

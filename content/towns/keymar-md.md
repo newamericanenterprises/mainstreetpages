@@ -1,9 +1,7 @@
 ---
-title: "Keymar, Maryland Business Directory"
+title: "Keymar, MD Business Directory"
+type: "towns"
 slug: "keymar-md"
-town: "Keymar"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 2913
+state: "md"
+town_data: "keymar-md"
 ---

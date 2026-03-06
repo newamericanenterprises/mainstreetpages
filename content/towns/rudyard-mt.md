@@ -1,7 +1,7 @@
 ---
-title: "Rudyard, Montana Business Directory"
+title: "Rudyard, MT Business Directory"
+type: "towns"
 slug: "rudyard-mt"
-state: "MT"
-county: "Hill"
-population: 500
+state: "mt"
+town_data: "rudyard-mt"
 ---

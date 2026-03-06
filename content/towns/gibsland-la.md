@@ -1,9 +1,7 @@
 ---
-title: "Gibsland, Louisiana Business Directory"
+title: "Gibsland, LA Business Directory"
+type: "towns"
 slug: "gibsland-la"
-town: "Gibsland"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 1113
+state: "la"
+town_data: "gibsland-la"
 ---

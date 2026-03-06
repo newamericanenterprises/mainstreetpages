@@ -1,7 +1,7 @@
 ---
-title: "Tutwiler, Mississippi Business Directory"
+title: "Tutwiler, MS Business Directory"
+type: "towns"
 slug: "tutwiler-ms"
-state: "MS"
-county: "Tallahatchie"
-population: 745
+state: "ms"
+town_data: "tutwiler-ms"
 ---

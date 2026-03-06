@@ -1,9 +1,7 @@
 ---
-title: "Waco, Kentucky Business Directory"
+title: "Waco, KY Business Directory"
+type: "towns"
 slug: "waco-ky"
-town: "Waco"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Madison"
-population: 526
+state: "ky"
+town_data: "waco-ky"
 ---

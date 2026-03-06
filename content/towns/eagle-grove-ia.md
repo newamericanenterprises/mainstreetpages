@@ -1,9 +1,7 @@
 ---
-title: "Eagle Grove, Iowa Business Directory"
+title: "Eagle Grove, IA Business Directory"
+type: "towns"
 slug: "eagle-grove-ia"
-town: "Eagle Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wright"
-population: 3583
+state: "ia"
+town_data: "eagle-grove-ia"
 ---

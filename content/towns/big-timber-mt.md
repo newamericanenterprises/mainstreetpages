@@ -1,7 +1,7 @@
 ---
-title: "Big Timber, Montana Business Directory"
+title: "Big Timber, MT Business Directory"
+type: "towns"
 slug: "big-timber-mt"
-state: "MT"
-county: "Sweet Grass"
-population: 1716
+state: "mt"
+town_data: "big-timber-mt"
 ---

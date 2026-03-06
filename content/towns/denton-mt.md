@@ -1,7 +1,7 @@
 ---
-title: "Denton, Montana Business Directory"
+title: "Denton, MT Business Directory"
+type: "towns"
 slug: "denton-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "denton-mt"
 ---

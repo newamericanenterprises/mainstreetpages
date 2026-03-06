@@ -1,7 +1,7 @@
 ---
-title: "Flemington, Missouri Business Directory"
+title: "Flemington, MO Business Directory"
+type: "towns"
 slug: "flemington-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "flemington-mo"
 ---

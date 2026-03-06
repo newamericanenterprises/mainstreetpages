@@ -1,9 +1,7 @@
 ---
-title: "Newton, Massachusetts Business Directory"
+title: "Newton, MA Business Directory"
+type: "towns"
 slug: "newton-ma"
-town: "Newton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 88923
+state: "ma"
+town_data: "newton-ma"
 ---

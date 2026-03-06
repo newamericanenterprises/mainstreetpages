@@ -1,9 +1,7 @@
 ---
-title: "Bassett, Kansas Business Directory"
+title: "Bassett, KS Business Directory"
+type: "towns"
 slug: "bassett-ks"
-town: "Bassett"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 1871
+state: "ks"
+town_data: "bassett-ks"
 ---

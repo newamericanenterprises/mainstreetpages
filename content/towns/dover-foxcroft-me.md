@@ -1,9 +1,7 @@
 ---
-title: "Dover-Foxcroft, Maine Business Directory"
+title: "Dover-Foxcroft, ME Business Directory"
+type: "towns"
 slug: "dover-foxcroft-me"
-town: "Dover-Foxcroft"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 4278
+state: "me"
+town_data: "dover-foxcroft-me"
 ---

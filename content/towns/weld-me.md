@@ -1,9 +1,7 @@
 ---
-title: "Weld, Maine Business Directory"
+title: "Weld, ME Business Directory"
+type: "towns"
 slug: "weld-me"
-town: "Weld"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 649
+state: "me"
+town_data: "weld-me"
 ---

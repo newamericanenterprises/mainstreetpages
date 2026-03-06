@@ -1,7 +1,7 @@
 ---
-title: "Hoskins, Nebraska Business Directory"
+title: "Hoskins, NE Business Directory"
+type: "towns"
 slug: "hoskins-ne"
-state: "NE"
-county: "Wayne"
-population: 500
+state: "ne"
+town_data: "hoskins-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Colby, Kansas Business Directory"
+title: "Colby, KS Business Directory"
+type: "towns"
 slug: "colby-ks"
-town: "Colby"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 5387
+state: "ks"
+town_data: "colby-ks"
 ---

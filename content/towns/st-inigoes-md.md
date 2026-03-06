@@ -1,9 +1,7 @@
 ---
-title: "St. Inigoes, Maryland Business Directory"
+title: "St. Inigoes, MD Business Directory"
+type: "towns"
 slug: "st-inigoes-md"
-town: "St. Inigoes"
-state: "Maryland"
-state_abbr: "MD"
-county: "St. Mary's"
-population: 4184
+state: "md"
+town_data: "st-inigoes-md"
 ---

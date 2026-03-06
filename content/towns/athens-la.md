@@ -1,9 +1,7 @@
 ---
-title: "Athens, Louisiana Business Directory"
+title: "Athens, LA Business Directory"
+type: "towns"
 slug: "athens-la"
-town: "Athens"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Claiborne"
-population: 2988
+state: "la"
+town_data: "athens-la"
 ---

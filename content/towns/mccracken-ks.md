@@ -1,9 +1,7 @@
 ---
-title: "McCracken, Kansas Business Directory"
+title: "McCracken, KS Business Directory"
+type: "towns"
 slug: "mccracken-ks"
-town: "McCracken"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 1446
+state: "ks"
+town_data: "mccracken-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Junction City, Kentucky Business Directory"
+title: "Junction City, KY Business Directory"
+type: "towns"
 slug: "junction-city-ky"
-town: "Junction City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyle"
-population: 1668
+state: "ky"
+town_data: "junction-city-ky"
 ---

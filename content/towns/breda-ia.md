@@ -1,9 +1,7 @@
 ---
-title: "Breda, Iowa Business Directory"
+title: "Breda, IA Business Directory"
+type: "towns"
 slug: "breda-ia"
-town: "Breda"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 1737
+state: "ia"
+town_data: "breda-ia"
 ---

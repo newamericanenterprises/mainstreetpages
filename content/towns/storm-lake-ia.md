@@ -1,9 +1,7 @@
 ---
-title: "Storm Lake, Iowa Business Directory"
+title: "Storm Lake, IA Business Directory"
+type: "towns"
 slug: "storm-lake-ia"
-town: "Storm Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 10600
+state: "ia"
+town_data: "storm-lake-ia"
 ---

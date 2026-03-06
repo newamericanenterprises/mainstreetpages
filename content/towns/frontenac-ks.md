@@ -1,9 +1,7 @@
 ---
-title: "Frontenac, Kansas Business Directory"
+title: "Frontenac, KS Business Directory"
+type: "towns"
 slug: "frontenac-ks"
-town: "Frontenac"
-state: "Kansas"
-state_abbr: "KS"
-county: "Crawford"
-population: 1539
+state: "ks"
+town_data: "frontenac-ks"
 ---

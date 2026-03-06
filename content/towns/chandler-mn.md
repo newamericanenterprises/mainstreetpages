@@ -1,9 +1,7 @@
 ---
-title: "Chandler, Minnesota Business Directory"
+title: "Chandler, MN Business Directory"
+type: "towns"
 slug: "chandler-mn"
-town: "Chandler"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 2599
+state: "mn"
+town_data: "chandler-mn"
 ---

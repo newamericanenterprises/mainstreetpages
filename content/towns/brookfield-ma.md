@@ -1,9 +1,7 @@
 ---
-title: "Brookfield, Massachusetts Business Directory"
+title: "Brookfield, MA Business Directory"
+type: "towns"
 slug: "brookfield-ma"
-town: "Brookfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8570
+state: "ma"
+town_data: "brookfield-ma"
 ---

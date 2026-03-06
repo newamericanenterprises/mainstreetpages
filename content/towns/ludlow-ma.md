@@ -1,9 +1,7 @@
 ---
-title: "Ludlow, Massachusetts Business Directory"
+title: "Ludlow, MA Business Directory"
+type: "towns"
 slug: "ludlow-ma"
-town: "Ludlow"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 21496
+state: "ma"
+town_data: "ludlow-ma"
 ---

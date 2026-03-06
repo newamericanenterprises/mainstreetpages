@@ -1,7 +1,7 @@
 ---
-title: "Lexington, Missouri Business Directory"
+title: "Lexington, MO Business Directory"
+type: "towns"
 slug: "lexington-mo"
-state: "MO"
-county: "Lafayette"
-population: 4726
+state: "mo"
+town_data: "lexington-mo"
 ---

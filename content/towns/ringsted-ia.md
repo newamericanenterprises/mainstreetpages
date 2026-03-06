@@ -1,9 +1,7 @@
 ---
-title: "Ringsted, Iowa Business Directory"
+title: "Ringsted, IA Business Directory"
+type: "towns"
 slug: "ringsted-ia"
-town: "Ringsted"
-state: "Iowa"
-state_abbr: "IA"
-county: "Emmet"
-population: 3160
+state: "ia"
+town_data: "ringsted-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Welcome, Maryland Business Directory"
+title: "Welcome, MD Business Directory"
+type: "towns"
 slug: "welcome-md"
-town: "Welcome"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 4746
+state: "md"
+town_data: "welcome-md"
 ---

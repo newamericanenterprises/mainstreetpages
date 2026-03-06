@@ -1,9 +1,7 @@
 ---
-title: "Earlham, Iowa Business Directory"
+title: "Earlham, IA Business Directory"
+type: "towns"
 slug: "earlham-ia"
-town: "Earlham"
-state: "Iowa"
-state_abbr: "IA"
-county: "Madison"
-population: 1849
+state: "ia"
+town_data: "earlham-ia"
 ---

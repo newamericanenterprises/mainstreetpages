@@ -1,7 +1,7 @@
 ---
-title: "Gower, Missouri Business Directory"
+title: "Gower, MO Business Directory"
+type: "towns"
 slug: "gower-mo"
-state: "MO"
-county: "Clinton"
-population: 1500
+state: "mo"
+town_data: "gower-mo"
 ---

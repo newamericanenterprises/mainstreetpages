@@ -1,7 +1,7 @@
 ---
-title: "Dellwood, Missouri Business Directory"
+title: "Dellwood, MO Business Directory"
+type: "towns"
 slug: "dellwood-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "dellwood-mo"
 ---

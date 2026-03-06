@@ -1,9 +1,7 @@
 ---
-title: "Guttenberg, Iowa Business Directory"
+title: "Guttenberg, IA Business Directory"
+type: "towns"
 slug: "guttenberg-ia"
-town: "Guttenberg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 3123
+state: "ia"
+town_data: "guttenberg-ia"
 ---

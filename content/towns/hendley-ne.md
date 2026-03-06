@@ -1,7 +1,7 @@
 ---
-title: "Hendley, Nebraska Business Directory"
+title: "Hendley, NE Business Directory"
+type: "towns"
 slug: "hendley-ne"
-state: "NE"
-county: "Furnas"
-population: 500
+state: "ne"
+town_data: "hendley-ne"
 ---

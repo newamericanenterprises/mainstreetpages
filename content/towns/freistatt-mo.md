@@ -1,7 +1,7 @@
 ---
-title: "Freistatt, Missouri Business Directory"
+title: "Freistatt, MO Business Directory"
+type: "towns"
 slug: "freistatt-mo"
-state: "MO"
-county: "Lawrence"
-population: 1500
+state: "mo"
+town_data: "freistatt-mo"
 ---

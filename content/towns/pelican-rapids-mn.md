@@ -1,9 +1,7 @@
 ---
-title: "Pelican Rapids, Minnesota Business Directory"
+title: "Pelican Rapids, MN Business Directory"
+type: "towns"
 slug: "pelican-rapids-mn"
-town: "Pelican Rapids"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1684
+state: "mn"
+town_data: "pelican-rapids-mn"
 ---

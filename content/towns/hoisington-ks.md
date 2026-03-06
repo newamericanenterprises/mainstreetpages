@@ -1,9 +1,7 @@
 ---
-title: "Hoisington, Kansas Business Directory"
+title: "Hoisington, KS Business Directory"
+type: "towns"
 slug: "hoisington-ks"
-town: "Hoisington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 1664
+state: "ks"
+town_data: "hoisington-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Clayton, Kansas Business Directory"
+title: "Clayton, KS Business Directory"
+type: "towns"
 slug: "clayton-ks"
-town: "Clayton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Norton"
-population: 1184
+state: "ks"
+town_data: "clayton-ks"
 ---

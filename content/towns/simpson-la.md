@@ -1,9 +1,7 @@
 ---
-title: "Simpson, Louisiana Business Directory"
+title: "Simpson, LA Business Directory"
+type: "towns"
 slug: "simpson-la"
-town: "Simpson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 697
+state: "la"
+town_data: "simpson-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vergennes, Michigan Business Directory"
+title: "Vergennes, MI Business Directory"
+type: "towns"
 slug: "vergennes-mi"
-town: "Vergennes"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 4923
+state: "mi"
+town_data: "vergennes-mi"
 ---

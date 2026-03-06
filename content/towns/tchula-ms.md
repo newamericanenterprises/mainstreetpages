@@ -1,7 +1,7 @@
 ---
-title: "Tchula, Mississippi Business Directory"
+title: "Tchula, MS Business Directory"
+type: "towns"
 slug: "tchula-ms"
-state: "MS"
-county: "Holmes"
-population: 2040
+state: "ms"
+town_data: "tchula-ms"
 ---

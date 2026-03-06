@@ -1,7 +1,7 @@
 ---
-title: "Elm Creek, Nebraska Business Directory"
+title: "Elm Creek, NE Business Directory"
+type: "towns"
 slug: "elm-creek-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "elm-creek-ne"
 ---

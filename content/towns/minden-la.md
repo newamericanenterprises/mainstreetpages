@@ -1,9 +1,7 @@
 ---
-title: "Minden, Louisiana Business Directory"
+title: "Minden, LA Business Directory"
+type: "towns"
 slug: "minden-la"
-town: "Minden"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 12477
+state: "la"
+town_data: "minden-la"
 ---

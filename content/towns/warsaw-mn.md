@@ -1,9 +1,7 @@
 ---
-title: "Warsaw, Minnesota Business Directory"
+title: "Warsaw, MN Business Directory"
+type: "towns"
 slug: "warsaw-mn"
-town: "Warsaw"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 520
+state: "mn"
+town_data: "warsaw-mn"
 ---

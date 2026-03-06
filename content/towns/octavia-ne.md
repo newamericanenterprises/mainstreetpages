@@ -1,7 +1,7 @@
 ---
-title: "Octavia, Nebraska Business Directory"
+title: "Octavia, NE Business Directory"
+type: "towns"
 slug: "octavia-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "octavia-ne"
 ---

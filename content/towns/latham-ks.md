@@ -1,9 +1,7 @@
 ---
-title: "Latham, Kansas Business Directory"
+title: "Latham, KS Business Directory"
+type: "towns"
 slug: "latham-ks"
-town: "Latham"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 3102
+state: "ks"
+town_data: "latham-ks"
 ---

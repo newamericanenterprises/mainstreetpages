@@ -1,9 +1,7 @@
 ---
-title: "Halstead, Kansas Business Directory"
+title: "Halstead, KS Business Directory"
+type: "towns"
 slug: "halstead-ks"
-town: "Halstead"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 2767
+state: "ks"
+town_data: "halstead-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mediapolis, Iowa Business Directory"
+title: "Mediapolis, IA Business Directory"
+type: "towns"
 slug: "mediapolis-ia"
-town: "Mediapolis"
-state: "Iowa"
-state_abbr: "IA"
-county: "Des Moines"
-population: 1098
+state: "ia"
+town_data: "mediapolis-ia"
 ---

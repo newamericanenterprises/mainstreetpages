@@ -1,9 +1,7 @@
 ---
-title: "Naubinway, Michigan Business Directory"
+title: "Naubinway, MI Business Directory"
+type: "towns"
 slug: "naubinway-mi"
-town: "Naubinway"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 5327
+state: "mi"
+town_data: "naubinway-mi"
 ---

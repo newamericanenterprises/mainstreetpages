@@ -1,7 +1,7 @@
 ---
-title: "Saginaw, Missouri Business Directory"
+title: "Saginaw, MO Business Directory"
+type: "towns"
 slug: "saginaw-mo"
-state: "MO"
-county: "Newton"
-population: 1500
+state: "mo"
+town_data: "saginaw-mo"
 ---

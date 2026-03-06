@@ -1,7 +1,7 @@
 ---
-title: "Prosser, Nebraska Business Directory"
+title: "Prosser, NE Business Directory"
+type: "towns"
 slug: "prosser-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "prosser-ne"
 ---

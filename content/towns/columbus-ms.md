@@ -1,7 +1,7 @@
 ---
-title: "Columbus, Mississippi Business Directory"
+title: "Columbus, MS Business Directory"
+type: "towns"
 slug: "columbus-ms"
-state: "MS"
-county: "Lowndes"
-population: 23640
+state: "ms"
+town_data: "columbus-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Boxholm, Iowa Business Directory"
+title: "Boxholm, IA Business Directory"
+type: "towns"
 slug: "boxholm-ia"
-town: "Boxholm"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 1571
+state: "ia"
+town_data: "boxholm-ia"
 ---

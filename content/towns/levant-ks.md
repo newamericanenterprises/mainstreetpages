@@ -1,9 +1,7 @@
 ---
-title: "Levant, Kansas Business Directory"
+title: "Levant, KS Business Directory"
+type: "towns"
 slug: "levant-ks"
-town: "Levant"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 2200
+state: "ks"
+town_data: "levant-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Landover, Maryland Business Directory"
+title: "Landover, MD Business Directory"
+type: "towns"
 slug: "landover-md"
-town: "Landover"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 1185
+state: "md"
+town_data: "landover-md"
 ---

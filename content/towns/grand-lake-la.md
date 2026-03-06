@@ -1,9 +1,7 @@
 ---
-title: "Grand Lake, Louisiana Business Directory"
+title: "Grand Lake, LA Business Directory"
+type: "towns"
 slug: "grand-lake-la"
-town: "Grand Lake"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 2366
+state: "la"
+town_data: "grand-lake-la"
 ---

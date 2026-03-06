@@ -1,9 +1,7 @@
 ---
-title: "Atkins, Iowa Business Directory"
+title: "Atkins, IA Business Directory"
+type: "towns"
 slug: "atkins-ia"
-town: "Atkins"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 855
+state: "ia"
+town_data: "atkins-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Carbon, Indiana Business Directory"
+title: "Carbon, IN Business Directory"
+type: "towns"
 slug: "carbon-in"
-town: "Carbon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clay"
-population: 2553
+state: "in"
+town_data: "carbon-in"
 ---

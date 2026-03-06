@@ -1,9 +1,7 @@
 ---
-title: "Burtonsville, Maryland Business Directory"
+title: "Burtonsville, MD Business Directory"
+type: "towns"
 slug: "burtonsville-md"
-town: "Burtonsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 10119
+state: "md"
+town_data: "burtonsville-md"
 ---

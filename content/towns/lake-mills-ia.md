@@ -1,9 +1,7 @@
 ---
-title: "Lake Mills, Iowa Business Directory"
+title: "Lake Mills, IA Business Directory"
+type: "towns"
 slug: "lake-mills-ia"
-town: "Lake Mills"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 3252
+state: "ia"
+town_data: "lake-mills-ia"
 ---

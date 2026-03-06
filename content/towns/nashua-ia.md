@@ -1,9 +1,7 @@
 ---
-title: "Nashua, Iowa Business Directory"
+title: "Nashua, IA Business Directory"
+type: "towns"
 slug: "nashua-ia"
-town: "Nashua"
-state: "Iowa"
-state_abbr: "IA"
-county: "Chickasaw"
-population: 1276
+state: "ia"
+town_data: "nashua-ia"
 ---

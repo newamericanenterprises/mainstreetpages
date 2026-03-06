@@ -1,9 +1,7 @@
 ---
-title: "Northfield, Kentucky Business Directory"
+title: "Northfield, KY Business Directory"
+type: "towns"
 slug: "northfield-ky"
-town: "Northfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 2391
+state: "ky"
+town_data: "northfield-ky"
 ---

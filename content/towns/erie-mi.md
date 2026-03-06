@@ -1,9 +1,7 @@
 ---
-title: "Erie, Michigan Business Directory"
+title: "Erie, MI Business Directory"
+type: "towns"
 slug: "erie-mi"
-town: "Erie"
-state: "Michigan"
-state_abbr: "MI"
-county: "Monroe"
-population: 4273
+state: "mi"
+town_data: "erie-mi"
 ---

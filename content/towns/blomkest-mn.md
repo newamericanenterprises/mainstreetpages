@@ -1,9 +1,7 @@
 ---
-title: "Blomkest, Minnesota Business Directory"
+title: "Blomkest, MN Business Directory"
+type: "towns"
 slug: "blomkest-mn"
-town: "Blomkest"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 2124
+state: "mn"
+town_data: "blomkest-mn"
 ---

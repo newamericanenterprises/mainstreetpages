@@ -1,9 +1,7 @@
 ---
-title: "Eagle River, Michigan Business Directory"
+title: "Eagle River, MI Business Directory"
+type: "towns"
 slug: "eagle-river-mi"
-town: "Eagle River"
-state: "Michigan"
-state_abbr: "MI"
-county: "Keweenaw"
-population: 2565
+state: "mi"
+town_data: "eagle-river-mi"
 ---

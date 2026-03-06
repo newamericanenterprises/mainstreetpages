@@ -1,9 +1,7 @@
 ---
-title: "Buffalo, Minnesota Business Directory"
+title: "Buffalo, MN Business Directory"
+type: "towns"
 slug: "buffalo-mn"
-town: "Buffalo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 618
+state: "mn"
+town_data: "buffalo-mn"
 ---

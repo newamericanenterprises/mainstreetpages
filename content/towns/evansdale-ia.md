@@ -1,9 +1,7 @@
 ---
-title: "Evansdale, Iowa Business Directory"
+title: "Evansdale, IA Business Directory"
+type: "towns"
 slug: "evansdale-ia"
-town: "Evansdale"
-state: "Iowa"
-state_abbr: "IA"
-county: "Black Hawk"
-population: 2437
+state: "ia"
+town_data: "evansdale-ia"
 ---

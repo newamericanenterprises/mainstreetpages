@@ -1,7 +1,7 @@
 ---
-title: "Columbia, Missouri Business Directory"
+title: "Columbia, MO Business Directory"
+type: "towns"
 slug: "columbia-mo"
-state: "MO"
-county: "Boone"
-population: 126254
+state: "mo"
+town_data: "columbia-mo"
 ---

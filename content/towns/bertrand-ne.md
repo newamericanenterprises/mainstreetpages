@@ -1,7 +1,7 @@
 ---
-title: "Bertrand, Nebraska Business Directory"
+title: "Bertrand, NE Business Directory"
+type: "towns"
 slug: "bertrand-ne"
-state: "NE"
-county: "Phelps"
-population: 500
+state: "ne"
+town_data: "bertrand-ne"
 ---

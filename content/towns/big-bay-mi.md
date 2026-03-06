@@ -1,9 +1,7 @@
 ---
-title: "Big Bay, Michigan Business Directory"
+title: "Big Bay, MI Business Directory"
+type: "towns"
 slug: "big-bay-mi"
-town: "Big Bay"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 5063
+state: "mi"
+town_data: "big-bay-mi"
 ---

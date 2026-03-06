@@ -1,9 +1,7 @@
 ---
-title: "Atlanta, Louisiana Business Directory"
+title: "Atlanta, LA Business Directory"
+type: "towns"
 slug: "atlanta-la"
-town: "Atlanta"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Winn"
-population: 898
+state: "la"
+town_data: "atlanta-la"
 ---

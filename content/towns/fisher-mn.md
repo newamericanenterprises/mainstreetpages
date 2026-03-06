@@ -1,9 +1,7 @@
 ---
-title: "Fisher, Minnesota Business Directory"
+title: "Fisher, MN Business Directory"
+type: "towns"
 slug: "fisher-mn"
-town: "Fisher"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Polk"
-population: 1583
+state: "mn"
+town_data: "fisher-mn"
 ---

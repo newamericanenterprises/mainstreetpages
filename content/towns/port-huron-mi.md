@@ -1,9 +1,7 @@
 ---
-title: "Port Huron, Michigan Business Directory"
+title: "Port Huron, MI Business Directory"
+type: "towns"
 slug: "port-huron-mi"
-town: "Port Huron"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 29447
+state: "mi"
+town_data: "port-huron-mi"
 ---

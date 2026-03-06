@@ -1,9 +1,7 @@
 ---
-title: "Askov, Minnesota Business Directory"
+title: "Askov, MN Business Directory"
+type: "towns"
 slug: "askov-mn"
-town: "Askov"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 428
+state: "mn"
+town_data: "askov-mn"
 ---

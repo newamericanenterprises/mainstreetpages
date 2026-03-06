@@ -1,9 +1,7 @@
 ---
-title: "Savage, Maryland Business Directory"
+title: "Savage, MD Business Directory"
+type: "towns"
 slug: "savage-md"
-town: "Savage"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 3220
+state: "md"
+town_data: "savage-md"
 ---

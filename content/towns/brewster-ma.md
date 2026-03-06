@@ -1,9 +1,7 @@
 ---
-title: "Brewster, Massachusetts Business Directory"
+title: "Brewster, MA Business Directory"
+type: "towns"
 slug: "brewster-ma"
-town: "Brewster"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 9950
+state: "ma"
+town_data: "brewster-ma"
 ---

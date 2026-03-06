@@ -1,9 +1,7 @@
 ---
-title: "Selma, Indiana Business Directory"
+title: "Selma, IN Business Directory"
+type: "towns"
 slug: "selma-in"
-town: "Selma"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 4578
+state: "in"
+town_data: "selma-in"
 ---

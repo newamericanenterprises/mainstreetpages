@@ -1,9 +1,7 @@
 ---
-title: "Rodman, Iowa Business Directory"
+title: "Rodman, IA Business Directory"
+type: "towns"
 slug: "rodman-ia"
-town: "Rodman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 937
+state: "ia"
+town_data: "rodman-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dawson, Nebraska Business Directory"
+title: "Dawson, NE Business Directory"
+type: "towns"
 slug: "dawson-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "dawson-ne"
 ---

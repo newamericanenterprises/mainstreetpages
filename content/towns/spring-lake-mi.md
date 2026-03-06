@@ -1,9 +1,7 @@
 ---
-title: "Spring Lake, Michigan Business Directory"
+title: "Spring Lake, MI Business Directory"
+type: "towns"
 slug: "spring-lake-mi"
-town: "Spring Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 3924
+state: "mi"
+town_data: "spring-lake-mi"
 ---

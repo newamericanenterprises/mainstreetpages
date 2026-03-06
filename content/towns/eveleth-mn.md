@@ -1,9 +1,7 @@
 ---
-title: "Eveleth, Minnesota Business Directory"
+title: "Eveleth, MN Business Directory"
+type: "towns"
 slug: "eveleth-mn"
-town: "Eveleth"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 725
+state: "mn"
+town_data: "eveleth-mn"
 ---

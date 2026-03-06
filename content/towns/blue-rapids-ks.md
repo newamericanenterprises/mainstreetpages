@@ -1,9 +1,7 @@
 ---
-title: "Blue Rapids, Kansas Business Directory"
+title: "Blue Rapids, KS Business Directory"
+type: "towns"
 slug: "blue-rapids-ks"
-town: "Blue Rapids"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 1747
+state: "ks"
+town_data: "blue-rapids-ks"
 ---

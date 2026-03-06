@@ -1,7 +1,7 @@
 ---
-title: "Tunica, Mississippi Business Directory"
+title: "Tunica, MS Business Directory"
+type: "towns"
 slug: "tunica-ms"
-state: "MS"
-county: "Tunica"
-population: 988
+state: "ms"
+town_data: "tunica-ms"
 ---

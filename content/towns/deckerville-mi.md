@@ -1,9 +1,7 @@
 ---
-title: "Deckerville, Michigan Business Directory"
+title: "Deckerville, MI Business Directory"
+type: "towns"
 slug: "deckerville-mi"
-town: "Deckerville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 801
+state: "mi"
+town_data: "deckerville-mi"
 ---

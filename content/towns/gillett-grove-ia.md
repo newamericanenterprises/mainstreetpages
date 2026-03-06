@@ -1,9 +1,7 @@
 ---
-title: "Gillett Grove, Iowa Business Directory"
+title: "Gillett Grove, IA Business Directory"
+type: "towns"
 slug: "gillett-grove-ia"
-town: "Gillett Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 2138
+state: "ia"
+town_data: "gillett-grove-ia"
 ---

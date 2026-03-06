@@ -1,9 +1,7 @@
 ---
-title: "Reidland, Kentucky Business Directory"
+title: "Reidland, KY Business Directory"
+type: "towns"
 slug: "reidland-ky"
-town: "Reidland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "McCracken"
-population: 1029
+state: "ky"
+town_data: "reidland-ky"
 ---

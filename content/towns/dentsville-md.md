@@ -1,9 +1,7 @@
 ---
-title: "Dentsville, Maryland Business Directory"
+title: "Dentsville, MD Business Directory"
+type: "towns"
 slug: "dentsville-md"
-town: "Dentsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 2219
+state: "md"
+town_data: "dentsville-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mahnomen, Minnesota Business Directory"
+title: "Mahnomen, MN Business Directory"
+type: "towns"
 slug: "mahnomen-mn"
-town: "Mahnomen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mahnomen"
-population: 818
+state: "mn"
+town_data: "mahnomen-mn"
 ---

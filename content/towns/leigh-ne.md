@@ -1,7 +1,7 @@
 ---
-title: "Leigh, Nebraska Business Directory"
+title: "Leigh, NE Business Directory"
+type: "towns"
 slug: "leigh-ne"
-state: "NE"
-county: "Colfax"
-population: 500
+state: "ne"
+town_data: "leigh-ne"
 ---

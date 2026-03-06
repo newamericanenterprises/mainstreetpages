@@ -1,9 +1,7 @@
 ---
-title: "Marion, Massachusetts Business Directory"
+title: "Marion, MA Business Directory"
+type: "towns"
 slug: "marion-ma"
-town: "Marion"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 3970
+state: "ma"
+town_data: "marion-ma"
 ---

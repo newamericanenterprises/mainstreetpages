@@ -1,9 +1,7 @@
 ---
-title: "Oxford, Iowa Business Directory"
+title: "Oxford, IA Business Directory"
+type: "towns"
 slug: "oxford-ia"
-town: "Oxford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 758
+state: "ia"
+town_data: "oxford-ia"
 ---

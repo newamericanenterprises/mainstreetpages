@@ -1,9 +1,7 @@
 ---
-title: "Ridgeville, Indiana Business Directory"
+title: "Ridgeville, IN Business Directory"
+type: "towns"
 slug: "ridgeville-in"
-town: "Ridgeville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Randolph"
-population: 1172
+state: "in"
+town_data: "ridgeville-in"
 ---

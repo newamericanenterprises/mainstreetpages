@@ -1,9 +1,7 @@
 ---
-title: "Carbon, Iowa Business Directory"
+title: "Carbon, IA Business Directory"
+type: "towns"
 slug: "carbon-ia"
-town: "Carbon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adams"
-population: 2536
+state: "ia"
+town_data: "carbon-ia"
 ---

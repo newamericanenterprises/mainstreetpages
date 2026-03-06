@@ -1,9 +1,7 @@
 ---
-title: "Hutchinson, Kansas Business Directory"
+title: "Hutchinson, KS Business Directory"
+type: "towns"
 slug: "hutchinson-ks"
-town: "Hutchinson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 40623
+state: "ks"
+town_data: "hutchinson-ks"
 ---

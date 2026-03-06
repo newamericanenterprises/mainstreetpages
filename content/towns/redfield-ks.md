@@ -1,9 +1,7 @@
 ---
-title: "Redfield, Kansas Business Directory"
+title: "Redfield, KS Business Directory"
+type: "towns"
 slug: "redfield-ks"
-town: "Redfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Bourbon"
-population: 1300
+state: "ks"
+town_data: "redfield-ks"
 ---

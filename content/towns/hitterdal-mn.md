@@ -1,9 +1,7 @@
 ---
-title: "Hitterdal, Minnesota Business Directory"
+title: "Hitterdal, MN Business Directory"
+type: "towns"
 slug: "hitterdal-mn"
-town: "Hitterdal"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 655
+state: "mn"
+town_data: "hitterdal-mn"
 ---

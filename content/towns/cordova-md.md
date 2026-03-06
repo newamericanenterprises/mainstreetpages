@@ -1,9 +1,7 @@
 ---
-title: "Cordova, Maryland Business Directory"
+title: "Cordova, MD Business Directory"
+type: "towns"
 slug: "cordova-md"
-town: "Cordova"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 3972
+state: "md"
+town_data: "cordova-md"
 ---

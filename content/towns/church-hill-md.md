@@ -1,9 +1,7 @@
 ---
-title: "Church Hill, Maryland Business Directory"
+title: "Church Hill, MD Business Directory"
+type: "towns"
 slug: "church-hill-md"
-town: "Church Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Queen Anne's"
-population: 5400
+state: "md"
+town_data: "church-hill-md"
 ---

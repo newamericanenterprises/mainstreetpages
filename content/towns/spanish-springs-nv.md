@@ -1,7 +1,7 @@
 ---
-title: "Spanish Springs, Nevada Business Directory"
+title: "Spanish Springs, NV Business Directory"
+type: "towns"
 slug: "spanish-springs-nv"
-state: "NV"
-county: "Washoe"
-population: 19285
+state: "nv"
+town_data: "spanish-springs-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Kentucky Business Directory"
+title: "Auburn, KY Business Directory"
+type: "towns"
 slug: "auburn-ky"
-town: "Auburn"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Logan"
-population: 1486
+state: "ky"
+town_data: "auburn-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Guntown, Mississippi Business Directory"
+title: "Guntown, MS Business Directory"
+type: "towns"
 slug: "guntown-ms"
-state: "MS"
-county: "Lee"
-population: 2763
+state: "ms"
+town_data: "guntown-ms"
 ---

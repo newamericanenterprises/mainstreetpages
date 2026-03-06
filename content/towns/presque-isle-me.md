@@ -1,9 +1,7 @@
 ---
-title: "Presque Isle, Maine Business Directory"
+title: "Presque Isle, ME Business Directory"
+type: "towns"
 slug: "presque-isle-me"
-town: "Presque Isle"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 9078
+state: "me"
+town_data: "presque-isle-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Greenleaf, Kansas Business Directory"
+title: "Greenleaf, KS Business Directory"
+type: "towns"
 slug: "greenleaf-ks"
-town: "Greenleaf"
-state: "Kansas"
-state_abbr: "KS"
-county: "Washington"
-population: 1413
+state: "ks"
+town_data: "greenleaf-ks"
 ---

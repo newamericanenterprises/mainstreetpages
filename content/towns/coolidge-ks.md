@@ -1,9 +1,7 @@
 ---
-title: "Coolidge, Kansas Business Directory"
+title: "Coolidge, KS Business Directory"
+type: "towns"
 slug: "coolidge-ks"
-town: "Coolidge"
-state: "Kansas"
-state_abbr: "KS"
-county: "Hamilton"
-population: 906
+state: "ks"
+town_data: "coolidge-ks"
 ---

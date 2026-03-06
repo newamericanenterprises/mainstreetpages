@@ -1,9 +1,7 @@
 ---
-title: "Bruno, Minnesota Business Directory"
+title: "Bruno, MN Business Directory"
+type: "towns"
 slug: "bruno-mn"
-town: "Bruno"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 2961
+state: "mn"
+town_data: "bruno-mn"
 ---

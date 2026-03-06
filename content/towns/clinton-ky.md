@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Kentucky Business Directory"
+title: "Clinton, KY Business Directory"
+type: "towns"
 slug: "clinton-ky"
-town: "Clinton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hickman"
-population: 1351
+state: "ky"
+town_data: "clinton-ky"
 ---

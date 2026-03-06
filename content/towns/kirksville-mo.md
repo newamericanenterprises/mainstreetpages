@@ -1,7 +1,7 @@
 ---
-title: "Kirksville, Missouri Business Directory"
+title: "Kirksville, MO Business Directory"
+type: "towns"
 slug: "kirksville-mo"
-state: "MO"
-county: "Adair"
-population: 17505
+state: "mo"
+town_data: "kirksville-mo"
 ---

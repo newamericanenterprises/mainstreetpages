@@ -1,9 +1,7 @@
 ---
-title: "Erath, Louisiana Business Directory"
+title: "Erath, LA Business Directory"
+type: "towns"
 slug: "erath-la"
-town: "Erath"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vermilion"
-population: 2482
+state: "la"
+town_data: "erath-la"
 ---

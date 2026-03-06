@@ -1,9 +1,7 @@
 ---
-title: "Corydon, Indiana Business Directory"
+title: "Corydon, IN Business Directory"
+type: "towns"
 slug: "corydon-in"
-town: "Corydon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 3078
+state: "in"
+town_data: "corydon-in"
 ---

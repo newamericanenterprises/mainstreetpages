@@ -1,9 +1,7 @@
 ---
-title: "Wales, Maine Business Directory"
+title: "Wales, ME Business Directory"
+type: "towns"
 slug: "wales-me"
-town: "Wales"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 316
+state: "me"
+town_data: "wales-me"
 ---

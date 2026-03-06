@@ -1,9 +1,7 @@
 ---
-title: "Easton, Maryland Business Directory"
+title: "Easton, MD Business Directory"
+type: "towns"
 slug: "easton-md"
-town: "Easton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Talbot"
-population: 16871
+state: "md"
+town_data: "easton-md"
 ---

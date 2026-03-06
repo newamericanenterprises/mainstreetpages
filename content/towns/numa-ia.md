@@ -1,9 +1,7 @@
 ---
-title: "Numa, Iowa Business Directory"
+title: "Numa, IA Business Directory"
+type: "towns"
 slug: "numa-ia"
-town: "Numa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Appanoose"
-population: 3495
+state: "ia"
+town_data: "numa-ia"
 ---

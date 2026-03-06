@@ -1,9 +1,7 @@
 ---
-title: "Elkhorn City, Kentucky Business Directory"
+title: "Elkhorn City, KY Business Directory"
+type: "towns"
 slug: "elkhorn-city-ky"
-town: "Elkhorn City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pike"
-population: 2298
+state: "ky"
+town_data: "elkhorn-city-ky"
 ---

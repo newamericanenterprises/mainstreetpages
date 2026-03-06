@@ -1,9 +1,7 @@
 ---
-title: "Dixie Inn, Louisiana Business Directory"
+title: "Dixie Inn, LA Business Directory"
+type: "towns"
 slug: "dixie-inn-la"
-town: "Dixie Inn"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 2626
+state: "la"
+town_data: "dixie-inn-la"
 ---

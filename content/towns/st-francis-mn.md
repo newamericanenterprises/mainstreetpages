@@ -1,9 +1,7 @@
 ---
-title: "St. Francis, Minnesota Business Directory"
+title: "St. Francis, MN Business Directory"
+type: "towns"
 slug: "st-francis-mn"
-town: "St. Francis"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2340
+state: "mn"
+town_data: "st-francis-mn"
 ---

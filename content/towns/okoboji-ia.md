@@ -1,9 +1,7 @@
 ---
-title: "Okoboji, Iowa Business Directory"
+title: "Okoboji, IA Business Directory"
+type: "towns"
 slug: "okoboji-ia"
-town: "Okoboji"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 2334
+state: "ia"
+town_data: "okoboji-ia"
 ---

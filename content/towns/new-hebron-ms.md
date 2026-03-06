@@ -1,7 +1,7 @@
 ---
-title: "New Hebron, Mississippi Business Directory"
+title: "New Hebron, MS Business Directory"
+type: "towns"
 slug: "new-hebron-ms"
-state: "MS"
-county: "Lawrence"
-population: 448
+state: "ms"
+town_data: "new-hebron-ms"
 ---

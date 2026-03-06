@@ -1,7 +1,7 @@
 ---
-title: "Arcadia, Nebraska Business Directory"
+title: "Arcadia, NE Business Directory"
+type: "towns"
 slug: "arcadia-ne"
-state: "NE"
-county: "Valley"
-population: 500
+state: "ne"
+town_data: "arcadia-ne"
 ---

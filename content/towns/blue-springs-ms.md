@@ -1,7 +1,7 @@
 ---
-title: "Blue Springs, Mississippi Business Directory"
+title: "Blue Springs, MS Business Directory"
+type: "towns"
 slug: "blue-springs-ms"
-state: "MS"
-county: "Union"
-population: 304
+state: "ms"
+town_data: "blue-springs-ms"
 ---

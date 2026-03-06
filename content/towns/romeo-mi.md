@@ -1,9 +1,7 @@
 ---
-title: "Romeo, Michigan Business Directory"
+title: "Romeo, MI Business Directory"
+type: "towns"
 slug: "romeo-mi"
-town: "Romeo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 3985
+state: "mi"
+town_data: "romeo-mi"
 ---

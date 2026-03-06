@@ -1,9 +1,7 @@
 ---
-title: "Chassell, Michigan Business Directory"
+title: "Chassell, MI Business Directory"
+type: "towns"
 slug: "chassell-mi"
-town: "Chassell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Houghton"
-population: 3301
+state: "mi"
+town_data: "chassell-mi"
 ---

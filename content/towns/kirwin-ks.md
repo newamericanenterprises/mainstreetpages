@@ -1,9 +1,7 @@
 ---
-title: "Kirwin, Kansas Business Directory"
+title: "Kirwin, KS Business Directory"
+type: "towns"
 slug: "kirwin-ks"
-town: "Kirwin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 1186
+state: "ks"
+town_data: "kirwin-ks"
 ---

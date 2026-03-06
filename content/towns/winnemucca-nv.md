@@ -1,7 +1,7 @@
 ---
-title: "Winnemucca, Nevada Business Directory"
+title: "Winnemucca, NV Business Directory"
+type: "towns"
 slug: "winnemucca-nv"
-state: "NV"
-county: "Humboldt"
-population: 7902
+state: "nv"
+town_data: "winnemucca-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Shelby, Iowa Business Directory"
+title: "Shelby, IA Business Directory"
+type: "towns"
 slug: "shelby-ia"
-town: "Shelby"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 2733
+state: "ia"
+town_data: "shelby-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Monroe, Nebraska Business Directory"
+title: "Monroe, NE Business Directory"
+type: "towns"
 slug: "monroe-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "monroe-ne"
 ---

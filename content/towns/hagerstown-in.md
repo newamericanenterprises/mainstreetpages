@@ -1,9 +1,7 @@
 ---
-title: "Hagerstown, Indiana Business Directory"
+title: "Hagerstown, IN Business Directory"
+type: "towns"
 slug: "hagerstown-in"
-town: "Hagerstown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 830
+state: "in"
+town_data: "hagerstown-in"
 ---

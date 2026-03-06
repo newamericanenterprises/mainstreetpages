@@ -1,7 +1,7 @@
 ---
-title: "Dumas, Mississippi Business Directory"
+title: "Dumas, MS Business Directory"
+type: "towns"
 slug: "dumas-ms"
-state: "MS"
-county: "Tippah"
-population: 345
+state: "ms"
+town_data: "dumas-ms"
 ---

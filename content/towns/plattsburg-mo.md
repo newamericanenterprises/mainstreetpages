@@ -1,7 +1,7 @@
 ---
-title: "Plattsburg, Missouri Business Directory"
+title: "Plattsburg, MO Business Directory"
+type: "towns"
 slug: "plattsburg-mo"
-state: "MO"
-county: "Clinton"
-population: 2328
+state: "mo"
+town_data: "plattsburg-mo"
 ---

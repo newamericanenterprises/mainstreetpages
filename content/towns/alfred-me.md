@@ -1,9 +1,7 @@
 ---
-title: "Alfred, Maine Business Directory"
+title: "Alfred, ME Business Directory"
+type: "towns"
 slug: "alfred-me"
-town: "Alfred"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2240
+state: "me"
+town_data: "alfred-me"
 ---

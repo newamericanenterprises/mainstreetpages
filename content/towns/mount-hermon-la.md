@@ -1,9 +1,7 @@
 ---
-title: "Mount Hermon, Louisiana Business Directory"
+title: "Mount Hermon, LA Business Directory"
+type: "towns"
 slug: "mount-hermon-la"
-town: "Mount Hermon"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Washington"
-population: 2822
+state: "la"
+town_data: "mount-hermon-la"
 ---

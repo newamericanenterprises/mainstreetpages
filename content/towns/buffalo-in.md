@@ -1,9 +1,7 @@
 ---
-title: "Buffalo, Indiana Business Directory"
+title: "Buffalo, IN Business Directory"
+type: "towns"
 slug: "buffalo-in"
-town: "Buffalo"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 2646
+state: "in"
+town_data: "buffalo-in"
 ---

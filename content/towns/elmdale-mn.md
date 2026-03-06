@@ -1,9 +1,7 @@
 ---
-title: "Elmdale, Minnesota Business Directory"
+title: "Elmdale, MN Business Directory"
+type: "towns"
 slug: "elmdale-mn"
-town: "Elmdale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 438
+state: "mn"
+town_data: "elmdale-mn"
 ---

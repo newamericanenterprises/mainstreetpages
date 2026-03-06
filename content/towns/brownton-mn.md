@@ -1,9 +1,7 @@
 ---
-title: "Brownton, Minnesota Business Directory"
+title: "Brownton, MN Business Directory"
+type: "towns"
 slug: "brownton-mn"
-town: "Brownton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 2406
+state: "mn"
+town_data: "brownton-mn"
 ---

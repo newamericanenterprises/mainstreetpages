@@ -1,7 +1,7 @@
 ---
-title: "Heartwell, Nebraska Business Directory"
+title: "Heartwell, NE Business Directory"
+type: "towns"
 slug: "heartwell-ne"
-state: "NE"
-county: "Kearney"
-population: 500
+state: "ne"
+town_data: "heartwell-ne"
 ---

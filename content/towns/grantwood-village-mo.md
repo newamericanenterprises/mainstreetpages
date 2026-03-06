@@ -1,7 +1,7 @@
 ---
-title: "Grantwood Village, Missouri Business Directory"
+title: "Grantwood Village, MO Business Directory"
+type: "towns"
 slug: "grantwood-village-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "grantwood-village-mo"
 ---

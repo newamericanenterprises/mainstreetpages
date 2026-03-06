@@ -1,9 +1,7 @@
 ---
-title: "Crosby, Minnesota Business Directory"
+title: "Crosby, MN Business Directory"
+type: "towns"
 slug: "crosby-mn"
-town: "Crosby"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 1090
+state: "mn"
+town_data: "crosby-mn"
 ---

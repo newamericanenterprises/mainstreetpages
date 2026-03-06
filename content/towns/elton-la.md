@@ -1,9 +1,7 @@
 ---
-title: "Elton, Louisiana Business Directory"
+title: "Elton, LA Business Directory"
+type: "towns"
 slug: "elton-la"
-town: "Elton"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson Davis"
-population: 2775
+state: "la"
+town_data: "elton-la"
 ---

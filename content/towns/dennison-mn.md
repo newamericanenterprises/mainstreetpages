@@ -1,9 +1,7 @@
 ---
-title: "Dennison, Minnesota Business Directory"
+title: "Dennison, MN Business Directory"
+type: "towns"
 slug: "dennison-mn"
-town: "Dennison"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Goodhue"
-population: 1817
+state: "mn"
+town_data: "dennison-mn"
 ---

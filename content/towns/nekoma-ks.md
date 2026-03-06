@@ -1,9 +1,7 @@
 ---
-title: "Nekoma, Kansas Business Directory"
+title: "Nekoma, KS Business Directory"
+type: "towns"
 slug: "nekoma-ks"
-town: "Nekoma"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 2492
+state: "ks"
+town_data: "nekoma-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Liberty, Missouri Business Directory"
+title: "Liberty, MO Business Directory"
+type: "towns"
 slug: "liberty-mo"
-state: "MO"
-county: "Clay"
-population: 31507
+state: "mo"
+town_data: "liberty-mo"
 ---

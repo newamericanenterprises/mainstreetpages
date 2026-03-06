@@ -1,9 +1,7 @@
 ---
-title: "Long Island, Maine Business Directory"
+title: "Long Island, ME Business Directory"
+type: "towns"
 slug: "long-island-me"
-town: "Long Island"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 432
+state: "me"
+town_data: "long-island-me"
 ---

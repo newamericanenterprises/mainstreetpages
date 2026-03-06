@@ -1,9 +1,7 @@
 ---
-title: "Cimarron, Kansas Business Directory"
+title: "Cimarron, KS Business Directory"
+type: "towns"
 slug: "cimarron-ks"
-town: "Cimarron"
-state: "Kansas"
-state_abbr: "KS"
-county: "Gray"
-population: 3030
+state: "ks"
+town_data: "cimarron-ks"
 ---

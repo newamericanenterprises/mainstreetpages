@@ -1,7 +1,7 @@
 ---
-title: "Knob Noster, Missouri Business Directory"
+title: "Knob Noster, MO Business Directory"
+type: "towns"
 slug: "knob-noster-mo"
-state: "MO"
-county: "Johnson"
-population: 1500
+state: "mo"
+town_data: "knob-noster-mo"
 ---

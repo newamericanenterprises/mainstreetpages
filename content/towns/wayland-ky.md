@@ -1,9 +1,7 @@
 ---
-title: "Wayland, Kentucky Business Directory"
+title: "Wayland, KY Business Directory"
+type: "towns"
 slug: "wayland-ky"
-town: "Wayland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Floyd"
-population: 3196
+state: "ky"
+town_data: "wayland-ky"
 ---

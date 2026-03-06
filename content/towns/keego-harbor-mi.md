@@ -1,9 +1,7 @@
 ---
-title: "Keego Harbor, Michigan Business Directory"
+title: "Keego Harbor, MI Business Directory"
+type: "towns"
 slug: "keego-harbor-mi"
-town: "Keego Harbor"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 5140
+state: "mi"
+town_data: "keego-harbor-mi"
 ---

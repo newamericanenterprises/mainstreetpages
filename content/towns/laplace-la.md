@@ -1,9 +1,7 @@
 ---
-title: "LaPlace, Louisiana Business Directory"
+title: "LaPlace, LA Business Directory"
+type: "towns"
 slug: "laplace-la"
-town: "LaPlace"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. John the Baptist"
-population: 32147
+state: "la"
+town_data: "laplace-la"
 ---

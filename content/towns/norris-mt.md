@@ -1,7 +1,7 @@
 ---
-title: "Norris, Montana Business Directory"
+title: "Norris, MT Business Directory"
+type: "towns"
 slug: "norris-mt"
-state: "MT"
-county: "Madison"
-population: 500
+state: "mt"
+town_data: "norris-mt"
 ---

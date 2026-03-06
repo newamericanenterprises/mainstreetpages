@@ -1,9 +1,7 @@
 ---
-title: "Westmoreland, Kansas Business Directory"
+title: "Westmoreland, KS Business Directory"
+type: "towns"
 slug: "westmoreland-ks"
-town: "Westmoreland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 1114
+state: "ks"
+town_data: "westmoreland-ks"
 ---

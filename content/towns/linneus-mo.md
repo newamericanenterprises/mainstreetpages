@@ -1,7 +1,7 @@
 ---
-title: "Linneus, Missouri Business Directory"
+title: "Linneus, MO Business Directory"
+type: "towns"
 slug: "linneus-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "linneus-mo"
 ---

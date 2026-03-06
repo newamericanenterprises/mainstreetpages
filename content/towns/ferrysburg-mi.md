@@ -1,9 +1,7 @@
 ---
-title: "Ferrysburg, Michigan Business Directory"
+title: "Ferrysburg, MI Business Directory"
+type: "towns"
 slug: "ferrysburg-mi"
-town: "Ferrysburg"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 809
+state: "mi"
+town_data: "ferrysburg-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Joppa, Maryland Business Directory"
+title: "Joppa, MD Business Directory"
+type: "towns"
 slug: "joppa-md"
-town: "Joppa"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 3776
+state: "md"
+town_data: "joppa-md"
 ---

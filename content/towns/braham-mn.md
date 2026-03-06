@@ -1,9 +1,7 @@
 ---
-title: "Braham, Minnesota Business Directory"
+title: "Braham, MN Business Directory"
+type: "towns"
 slug: "braham-mn"
-town: "Braham"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 1146
+state: "mn"
+town_data: "braham-mn"
 ---

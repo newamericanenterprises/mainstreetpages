@@ -1,9 +1,7 @@
 ---
-title: "Schleswig, Iowa Business Directory"
+title: "Schleswig, IA Business Directory"
+type: "towns"
 slug: "schleswig-ia"
-town: "Schleswig"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 2202
+state: "ia"
+town_data: "schleswig-ia"
 ---

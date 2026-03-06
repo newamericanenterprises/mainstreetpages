@@ -1,9 +1,7 @@
 ---
-title: "Rockwood, Michigan Business Directory"
+title: "Rockwood, MI Business Directory"
+type: "towns"
 slug: "rockwood-mi"
-town: "Rockwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3726
+state: "mi"
+town_data: "rockwood-mi"
 ---

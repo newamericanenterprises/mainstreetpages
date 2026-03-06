@@ -1,9 +1,7 @@
 ---
-title: "Lake Wilson, Minnesota Business Directory"
+title: "Lake Wilson, MN Business Directory"
+type: "towns"
 slug: "lake-wilson-mn"
-town: "Lake Wilson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 1117
+state: "mn"
+town_data: "lake-wilson-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Oscoda, Michigan Business Directory"
+title: "Oscoda, MI Business Directory"
+type: "towns"
 slug: "oscoda-mi"
-town: "Oscoda"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iosco"
-population: 576
+state: "mi"
+town_data: "oscoda-mi"
 ---

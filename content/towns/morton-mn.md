@@ -1,9 +1,7 @@
 ---
-title: "Morton, Minnesota Business Directory"
+title: "Morton, MN Business Directory"
+type: "towns"
 slug: "morton-mn"
-town: "Morton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Renville"
-population: 1326
+state: "mn"
+town_data: "morton-mn"
 ---

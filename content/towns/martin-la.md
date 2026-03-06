@@ -1,9 +1,7 @@
 ---
-title: "Martin, Louisiana Business Directory"
+title: "Martin, LA Business Directory"
+type: "towns"
 slug: "martin-la"
-town: "Martin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Red River"
-population: 2240
+state: "la"
+town_data: "martin-la"
 ---

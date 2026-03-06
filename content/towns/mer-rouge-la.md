@@ -1,9 +1,7 @@
 ---
-title: "Mer Rouge, Louisiana Business Directory"
+title: "Mer Rouge, LA Business Directory"
+type: "towns"
 slug: "mer-rouge-la"
-town: "Mer Rouge"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Morehouse"
-population: 1888
+state: "la"
+town_data: "mer-rouge-la"
 ---

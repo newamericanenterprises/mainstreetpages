@@ -1,7 +1,7 @@
 ---
-title: "Springfield, Nebraska Business Directory"
+title: "Springfield, NE Business Directory"
+type: "towns"
 slug: "springfield-ne"
-state: "NE"
-county: "Sarpy"
-population: 1529
+state: "ne"
+town_data: "springfield-ne"
 ---

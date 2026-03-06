@@ -1,9 +1,7 @@
 ---
-title: "Stockbridge, Michigan Business Directory"
+title: "Stockbridge, MI Business Directory"
+type: "towns"
 slug: "stockbridge-mi"
-town: "Stockbridge"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 4129
+state: "mi"
+town_data: "stockbridge-mi"
 ---

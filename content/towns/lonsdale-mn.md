@@ -1,9 +1,7 @@
 ---
-title: "Lonsdale, Minnesota Business Directory"
+title: "Lonsdale, MN Business Directory"
+type: "towns"
 slug: "lonsdale-mn"
-town: "Lonsdale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rice"
-population: 3046
+state: "mn"
+town_data: "lonsdale-mn"
 ---

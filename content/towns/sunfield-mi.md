@@ -1,9 +1,7 @@
 ---
-title: "Sunfield, Michigan Business Directory"
+title: "Sunfield, MI Business Directory"
+type: "towns"
 slug: "sunfield-mi"
-town: "Sunfield"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 3961
+state: "mi"
+town_data: "sunfield-mi"
 ---

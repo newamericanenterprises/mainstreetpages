@@ -1,7 +1,7 @@
 ---
-title: "Sweet Springs, Missouri Business Directory"
+title: "Sweet Springs, MO Business Directory"
+type: "towns"
 slug: "sweet-springs-mo"
-state: "MO"
-county: "Saline"
-population: 1554
+state: "mo"
+town_data: "sweet-springs-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hayes Center, Nebraska Business Directory"
+title: "Hayes Center, NE Business Directory"
+type: "towns"
 slug: "hayes-center-ne"
-state: "NE"
-county: "Hayes"
-population: 500
+state: "ne"
+town_data: "hayes-center-ne"
 ---

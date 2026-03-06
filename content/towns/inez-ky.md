@@ -1,9 +1,7 @@
 ---
-title: "Inez, Kentucky Business Directory"
+title: "Inez, KY Business Directory"
+type: "towns"
 slug: "inez-ky"
-town: "Inez"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Martin"
-population: 511
+state: "ky"
+town_data: "inez-ky"
 ---

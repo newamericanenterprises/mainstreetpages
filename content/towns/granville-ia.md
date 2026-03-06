@@ -1,9 +1,7 @@
 ---
-title: "Granville, Iowa Business Directory"
+title: "Granville, IA Business Directory"
+type: "towns"
 slug: "granville-ia"
-town: "Granville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 3100
+state: "ia"
+town_data: "granville-ia"
 ---

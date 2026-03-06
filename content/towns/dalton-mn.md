@@ -1,9 +1,7 @@
 ---
-title: "Dalton, Minnesota Business Directory"
+title: "Dalton, MN Business Directory"
+type: "towns"
 slug: "dalton-mn"
-town: "Dalton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1368
+state: "mn"
+town_data: "dalton-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Harahan, Louisiana Business Directory"
+title: "Harahan, LA Business Directory"
+type: "towns"
 slug: "harahan-la"
-town: "Harahan"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 9277
+state: "la"
+town_data: "harahan-la"
 ---

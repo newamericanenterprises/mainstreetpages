@@ -1,7 +1,7 @@
 ---
-title: "Tracy, Missouri Business Directory"
+title: "Tracy, MO Business Directory"
+type: "towns"
 slug: "tracy-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "tracy-mo"
 ---

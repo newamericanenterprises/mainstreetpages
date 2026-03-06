@@ -1,7 +1,7 @@
 ---
-title: "Carleton, Nebraska Business Directory"
+title: "Carleton, NE Business Directory"
+type: "towns"
 slug: "carleton-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "carleton-ne"
 ---

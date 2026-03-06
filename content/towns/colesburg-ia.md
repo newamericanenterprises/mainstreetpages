@@ -1,9 +1,7 @@
 ---
-title: "Colesburg, Iowa Business Directory"
+title: "Colesburg, IA Business Directory"
+type: "towns"
 slug: "colesburg-ia"
-town: "Colesburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Delaware"
-population: 2751
+state: "ia"
+town_data: "colesburg-ia"
 ---

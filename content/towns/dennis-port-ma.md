@@ -1,9 +1,7 @@
 ---
-title: "Dennis Port, Massachusetts Business Directory"
+title: "Dennis Port, MA Business Directory"
+type: "towns"
 slug: "dennis-port-ma"
-town: "Dennis Port"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 6558
+state: "ma"
+town_data: "dennis-port-ma"
 ---

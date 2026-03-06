@@ -1,9 +1,7 @@
 ---
-title: "Otterbein, Indiana Business Directory"
+title: "Otterbein, IN Business Directory"
+type: "towns"
 slug: "otterbein-in"
-town: "Otterbein"
-state: "Indiana"
-state_abbr: "IN"
-county: "Benton"
-population: 1361
+state: "in"
+town_data: "otterbein-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Liebenthal, Kansas Business Directory"
+title: "Liebenthal, KS Business Directory"
+type: "towns"
 slug: "liebenthal-ks"
-town: "Liebenthal"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 617
+state: "ks"
+town_data: "liebenthal-ks"
 ---

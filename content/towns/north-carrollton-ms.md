@@ -1,7 +1,7 @@
 ---
-title: "North Carrollton, Mississippi Business Directory"
+title: "North Carrollton, MS Business Directory"
+type: "towns"
 slug: "north-carrollton-ms"
-state: "MS"
-county: "Carroll"
-population: 1500
+state: "ms"
+town_data: "north-carrollton-ms"
 ---

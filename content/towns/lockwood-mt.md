@@ -1,7 +1,7 @@
 ---
-title: "Lockwood, Montana Business Directory"
+title: "Lockwood, MT Business Directory"
+type: "towns"
 slug: "lockwood-mt"
-state: "MT"
-county: "Yellowstone"
-population: 8888
+state: "mt"
+town_data: "lockwood-mt"
 ---

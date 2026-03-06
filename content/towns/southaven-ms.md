@@ -1,7 +1,7 @@
 ---
-title: "Southaven, Mississippi Business Directory"
+title: "Southaven, MS Business Directory"
+type: "towns"
 slug: "southaven-ms"
-state: "MS"
-county: "DeSoto"
-population: 55026
+state: "ms"
+town_data: "southaven-ms"
 ---

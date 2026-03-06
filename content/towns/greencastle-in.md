@@ -1,9 +1,7 @@
 ---
-title: "Greencastle, Indiana Business Directory"
+title: "Greencastle, IN Business Directory"
+type: "towns"
 slug: "greencastle-in"
-town: "Greencastle"
-state: "Indiana"
-state_abbr: "IN"
-county: "Putnam"
-population: 10326
+state: "in"
+town_data: "greencastle-in"
 ---

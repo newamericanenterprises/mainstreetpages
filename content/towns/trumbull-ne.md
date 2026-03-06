@@ -1,7 +1,7 @@
 ---
-title: "Trumbull, Nebraska Business Directory"
+title: "Trumbull, NE Business Directory"
+type: "towns"
 slug: "trumbull-ne"
-state: "NE"
-county: "Clay"
-population: 500
+state: "ne"
+town_data: "trumbull-ne"
 ---

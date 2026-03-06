@@ -1,7 +1,7 @@
 ---
-title: "Plains, Montana Business Directory"
+title: "Plains, MT Business Directory"
+type: "towns"
 slug: "plains-mt"
-state: "MT"
-county: "Sanders"
-population: 1048
+state: "mt"
+town_data: "plains-mt"
 ---

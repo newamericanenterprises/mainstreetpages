@@ -1,7 +1,7 @@
 ---
-title: "East Helena, Montana Business Directory"
+title: "East Helena, MT Business Directory"
+type: "towns"
 slug: "east-helena-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 2070
+state: "mt"
+town_data: "east-helena-mt"
 ---

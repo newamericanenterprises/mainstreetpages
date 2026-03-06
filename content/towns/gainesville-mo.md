@@ -1,7 +1,7 @@
 ---
-title: "Gainesville, Missouri Business Directory"
+title: "Gainesville, MO Business Directory"
+type: "towns"
 slug: "gainesville-mo"
-state: "MO"
-county: "Ozark"
-population: 712
+state: "mo"
+town_data: "gainesville-mo"
 ---

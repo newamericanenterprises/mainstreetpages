@@ -1,9 +1,7 @@
 ---
-title: "Prospect, Kentucky Business Directory"
+title: "Prospect, KY Business Directory"
+type: "towns"
 slug: "prospect-ky"
-town: "Prospect"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Oldham"
-population: 2459
+state: "ky"
+town_data: "prospect-ky"
 ---

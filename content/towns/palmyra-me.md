@@ -1,9 +1,7 @@
 ---
-title: "Palmyra, Maine Business Directory"
+title: "Palmyra, ME Business Directory"
+type: "towns"
 slug: "palmyra-me"
-town: "Palmyra"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 952
+state: "me"
+town_data: "palmyra-me"
 ---

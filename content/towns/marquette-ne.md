@@ -1,7 +1,7 @@
 ---
-title: "Marquette, Nebraska Business Directory"
+title: "Marquette, NE Business Directory"
+type: "towns"
 slug: "marquette-ne"
-state: "NE"
-county: "Hamilton"
-population: 500
+state: "ne"
+town_data: "marquette-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fredericktown, Missouri Business Directory"
+title: "Fredericktown, MO Business Directory"
+type: "towns"
 slug: "fredericktown-mo"
-state: "MO"
-county: "Madison"
-population: 4012
+state: "mo"
+town_data: "fredericktown-mo"
 ---

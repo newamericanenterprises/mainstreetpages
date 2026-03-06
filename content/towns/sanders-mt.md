@@ -1,7 +1,7 @@
 ---
-title: "Sanders, Montana Business Directory"
+title: "Sanders, MT Business Directory"
+type: "towns"
 slug: "sanders-mt"
-state: "MT"
-county: "Treasure"
-population: 500
+state: "mt"
+town_data: "sanders-mt"
 ---

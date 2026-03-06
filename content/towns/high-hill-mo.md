@@ -1,7 +1,7 @@
 ---
-title: "High Hill, Missouri Business Directory"
+title: "High Hill, MO Business Directory"
+type: "towns"
 slug: "high-hill-mo"
-state: "MO"
-county: "Montgomery"
-population: 1500
+state: "mo"
+town_data: "high-hill-mo"
 ---

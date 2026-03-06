@@ -1,9 +1,7 @@
 ---
-title: "Earlington, Kentucky Business Directory"
+title: "Earlington, KY Business Directory"
+type: "towns"
 slug: "earlington-ky"
-town: "Earlington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 3160
+state: "ky"
+town_data: "earlington-ky"
 ---

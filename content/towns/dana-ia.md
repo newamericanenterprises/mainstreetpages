@@ -1,9 +1,7 @@
 ---
-title: "Dana, Iowa Business Directory"
+title: "Dana, IA Business Directory"
+type: "towns"
 slug: "dana-ia"
-town: "Dana"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 557
+state: "ia"
+town_data: "dana-ia"
 ---

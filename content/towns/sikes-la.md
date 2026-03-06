@@ -1,9 +1,7 @@
 ---
-title: "Sikes, Louisiana Business Directory"
+title: "Sikes, LA Business Directory"
+type: "towns"
 slug: "sikes-la"
-town: "Sikes"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Winn"
-population: 1807
+state: "la"
+town_data: "sikes-la"
 ---

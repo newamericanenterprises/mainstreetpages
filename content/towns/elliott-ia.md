@@ -1,9 +1,7 @@
 ---
-title: "Elliott, Iowa Business Directory"
+title: "Elliott, IA Business Directory"
+type: "towns"
 slug: "elliott-ia"
-town: "Elliott"
-state: "Iowa"
-state_abbr: "IA"
-county: "Montgomery"
-population: 1236
+state: "ia"
+town_data: "elliott-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lakeside, Montana Business Directory"
+title: "Lakeside, MT Business Directory"
+type: "towns"
 slug: "lakeside-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "lakeside-mt"
 ---

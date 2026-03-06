@@ -1,7 +1,7 @@
 ---
-title: "Clarkson, Nebraska Business Directory"
+title: "Clarkson, NE Business Directory"
+type: "towns"
 slug: "clarkson-ne"
-state: "NE"
-county: "Colfax"
-population: 500
+state: "ne"
+town_data: "clarkson-ne"
 ---

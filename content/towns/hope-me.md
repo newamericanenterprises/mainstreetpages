@@ -1,9 +1,7 @@
 ---
-title: "Hope, Maine Business Directory"
+title: "Hope, ME Business Directory"
+type: "towns"
 slug: "hope-me"
-town: "Hope"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 2208
+state: "me"
+town_data: "hope-me"
 ---

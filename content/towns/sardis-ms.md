@@ -1,7 +1,7 @@
 ---
-title: "Sardis, Mississippi Business Directory"
+title: "Sardis, MS Business Directory"
+type: "towns"
 slug: "sardis-ms"
-state: "MS"
-county: "Panola"
-population: 1744
+state: "ms"
+town_data: "sardis-ms"
 ---

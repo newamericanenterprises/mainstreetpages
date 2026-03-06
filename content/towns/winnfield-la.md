@@ -1,9 +1,7 @@
 ---
-title: "Winnfield, Louisiana Business Directory"
+title: "Winnfield, LA Business Directory"
+type: "towns"
 slug: "winnfield-la"
-town: "Winnfield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Winn"
-population: 4405
+state: "la"
+town_data: "winnfield-la"
 ---

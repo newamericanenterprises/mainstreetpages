@@ -1,9 +1,7 @@
 ---
-title: "Swartz Creek, Michigan Business Directory"
+title: "Swartz Creek, MI Business Directory"
+type: "towns"
 slug: "swartz-creek-mi"
-town: "Swartz Creek"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 4440
+state: "mi"
+town_data: "swartz-creek-mi"
 ---

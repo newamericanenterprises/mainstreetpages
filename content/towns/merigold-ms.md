@@ -1,7 +1,7 @@
 ---
-title: "Merigold, Mississippi Business Directory"
+title: "Merigold, MS Business Directory"
+type: "towns"
 slug: "merigold-ms"
-state: "MS"
-county: "Bolivar"
-population: 424
+state: "ms"
+town_data: "merigold-ms"
 ---

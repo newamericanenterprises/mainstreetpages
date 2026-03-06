@@ -1,9 +1,7 @@
 ---
-title: "Harveyville, Kansas Business Directory"
+title: "Harveyville, KS Business Directory"
+type: "towns"
 slug: "harveyville-ks"
-town: "Harveyville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 3152
+state: "ks"
+town_data: "harveyville-ks"
 ---

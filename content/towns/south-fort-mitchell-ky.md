@@ -1,9 +1,7 @@
 ---
-title: "South Fort Mitchell, Kentucky Business Directory"
+title: "South Fort Mitchell, KY Business Directory"
+type: "towns"
 slug: "south-fort-mitchell-ky"
-town: "South Fort Mitchell"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Kenton"
-population: 1903
+state: "ky"
+town_data: "south-fort-mitchell-ky"
 ---

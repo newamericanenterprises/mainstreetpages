@@ -1,7 +1,7 @@
 ---
-title: "Stuart, Nebraska Business Directory"
+title: "Stuart, NE Business Directory"
+type: "towns"
 slug: "stuart-ne"
-state: "NE"
-county: "Holt"
-population: 588
+state: "ne"
+town_data: "stuart-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lakeville, Massachusetts Business Directory"
+title: "Lakeville, MA Business Directory"
+type: "towns"
 slug: "lakeville-ma"
-town: "Lakeville"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 1808
+state: "ma"
+town_data: "lakeville-ma"
 ---

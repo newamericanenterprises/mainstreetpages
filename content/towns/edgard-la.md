@@ -1,9 +1,7 @@
 ---
-title: "Edgard, Louisiana Business Directory"
+title: "Edgard, LA Business Directory"
+type: "towns"
 slug: "edgard-la"
-town: "Edgard"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. John the Baptist"
-population: 3045
+state: "la"
+town_data: "edgard-la"
 ---

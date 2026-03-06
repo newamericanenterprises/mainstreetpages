@@ -1,7 +1,7 @@
 ---
-title: "Hickory, Mississippi Business Directory"
+title: "Hickory, MS Business Directory"
+type: "towns"
 slug: "hickory-ms"
-state: "MS"
-county: "Newton"
-population: 629
+state: "ms"
+town_data: "hickory-ms"
 ---

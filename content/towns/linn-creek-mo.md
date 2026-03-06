@@ -1,7 +1,7 @@
 ---
-title: "Linn Creek, Missouri Business Directory"
+title: "Linn Creek, MO Business Directory"
+type: "towns"
 slug: "linn-creek-mo"
-state: "MO"
-county: "Camden"
-population: 1500
+state: "mo"
+town_data: "linn-creek-mo"
 ---

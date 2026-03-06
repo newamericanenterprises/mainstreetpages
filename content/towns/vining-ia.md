@@ -1,9 +1,7 @@
 ---
-title: "Vining, Iowa Business Directory"
+title: "Vining, IA Business Directory"
+type: "towns"
 slug: "vining-ia"
-town: "Vining"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 1237
+state: "ia"
+town_data: "vining-ia"
 ---

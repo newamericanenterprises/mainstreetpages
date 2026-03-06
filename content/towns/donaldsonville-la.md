@@ -1,9 +1,7 @@
 ---
-title: "Donaldsonville, Louisiana Business Directory"
+title: "Donaldsonville, LA Business Directory"
+type: "towns"
 slug: "donaldsonville-la"
-town: "Donaldsonville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 7091
+state: "la"
+town_data: "donaldsonville-la"
 ---

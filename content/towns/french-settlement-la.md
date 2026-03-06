@@ -1,9 +1,7 @@
 ---
-title: "French Settlement, Louisiana Business Directory"
+title: "French Settlement, LA Business Directory"
+type: "towns"
 slug: "french-settlement-la"
-town: "French Settlement"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 2003
+state: "la"
+town_data: "french-settlement-la"
 ---

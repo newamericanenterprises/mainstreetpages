@@ -1,9 +1,7 @@
 ---
-title: "Defiance, Iowa Business Directory"
+title: "Defiance, IA Business Directory"
+type: "towns"
 slug: "defiance-ia"
-town: "Defiance"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 2946
+state: "ia"
+town_data: "defiance-ia"
 ---

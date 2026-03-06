@@ -1,9 +1,7 @@
 ---
-title: "Tower, Michigan Business Directory"
+title: "Tower, MI Business Directory"
+type: "towns"
 slug: "tower-mi"
-town: "Tower"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 2123
+state: "mi"
+town_data: "tower-mi"
 ---

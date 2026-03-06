@@ -1,9 +1,7 @@
 ---
-title: "Long Island, Kansas Business Directory"
+title: "Long Island, KS Business Directory"
+type: "towns"
 slug: "long-island-ks"
-town: "Long Island"
-state: "Kansas"
-state_abbr: "KS"
-county: "Phillips"
-population: 3159
+state: "ks"
+town_data: "long-island-ks"
 ---

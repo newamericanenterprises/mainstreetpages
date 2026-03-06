@@ -1,9 +1,7 @@
 ---
-title: "Lincolnville, Kansas Business Directory"
+title: "Lincolnville, KS Business Directory"
+type: "towns"
 slug: "lincolnville-ks"
-town: "Lincolnville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 2345
+state: "ks"
+town_data: "lincolnville-ks"
 ---

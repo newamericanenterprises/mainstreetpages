@@ -1,9 +1,7 @@
 ---
-title: "Campbellsburg, Indiana Business Directory"
+title: "Campbellsburg, IN Business Directory"
+type: "towns"
 slug: "campbellsburg-in"
-town: "Campbellsburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 3858
+state: "in"
+town_data: "campbellsburg-in"
 ---

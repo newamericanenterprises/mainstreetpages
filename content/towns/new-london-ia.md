@@ -1,9 +1,7 @@
 ---
-title: "New London, Iowa Business Directory"
+title: "New London, IA Business Directory"
+type: "towns"
 slug: "new-london-ia"
-town: "New London"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 660
+state: "ia"
+town_data: "new-london-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Smolan, Kansas Business Directory"
+title: "Smolan, KS Business Directory"
+type: "towns"
 slug: "smolan-ks"
-town: "Smolan"
-state: "Kansas"
-state_abbr: "KS"
-county: "Saline"
-population: 1644
+state: "ks"
+town_data: "smolan-ks"
 ---

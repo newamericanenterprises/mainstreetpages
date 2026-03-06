@@ -1,9 +1,7 @@
 ---
-title: "Orleans, Iowa Business Directory"
+title: "Orleans, IA Business Directory"
+type: "towns"
 slug: "orleans-ia"
-town: "Orleans"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 1162
+state: "ia"
+town_data: "orleans-ia"
 ---

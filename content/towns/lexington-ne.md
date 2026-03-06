@@ -1,7 +1,7 @@
 ---
-title: "Lexington, Nebraska Business Directory"
+title: "Lexington, NE Business Directory"
+type: "towns"
 slug: "lexington-ne"
-state: "NE"
-county: "Dawson"
-population: 10273
+state: "ne"
+town_data: "lexington-ne"
 ---

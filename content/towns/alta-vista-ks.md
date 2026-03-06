@@ -1,9 +1,7 @@
 ---
-title: "Alta Vista, Kansas Business Directory"
+title: "Alta Vista, KS Business Directory"
+type: "towns"
 slug: "alta-vista-ks"
-town: "Alta Vista"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 2668
+state: "ks"
+town_data: "alta-vista-ks"
 ---

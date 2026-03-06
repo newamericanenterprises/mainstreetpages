@@ -1,9 +1,7 @@
 ---
-title: "Brownsburg, Indiana Business Directory"
+title: "Brownsburg, IN Business Directory"
+type: "towns"
 slug: "brownsburg-in"
-town: "Brownsburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 28068
+state: "in"
+town_data: "brownsburg-in"
 ---

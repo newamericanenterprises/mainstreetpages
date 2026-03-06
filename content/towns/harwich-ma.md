@@ -1,9 +1,7 @@
 ---
-title: "Harwich, Massachusetts Business Directory"
+title: "Harwich, MA Business Directory"
+type: "towns"
 slug: "harwich-ma"
-town: "Harwich"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 12338
+state: "ma"
+town_data: "harwich-ma"
 ---

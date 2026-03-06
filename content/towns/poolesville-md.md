@@ -1,9 +1,7 @@
 ---
-title: "Poolesville, Maryland Business Directory"
+title: "Poolesville, MD Business Directory"
+type: "towns"
 slug: "poolesville-md"
-town: "Poolesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 5359
+state: "md"
+town_data: "poolesville-md"
 ---

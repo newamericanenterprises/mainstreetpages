@@ -1,9 +1,7 @@
 ---
-title: "Allegan, Michigan Business Directory"
+title: "Allegan, MI Business Directory"
+type: "towns"
 slug: "allegan-mi"
-town: "Allegan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 5117
+state: "mi"
+town_data: "allegan-mi"
 ---

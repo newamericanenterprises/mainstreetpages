@@ -1,9 +1,7 @@
 ---
-title: "University Park, Iowa Business Directory"
+title: "University Park, IA Business Directory"
+type: "towns"
 slug: "university-park-ia"
-town: "University Park"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 2291
+state: "ia"
+town_data: "university-park-ia"
 ---

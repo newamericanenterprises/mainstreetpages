@@ -1,7 +1,7 @@
 ---
-title: "Sheridan, Missouri Business Directory"
+title: "Sheridan, MO Business Directory"
+type: "towns"
 slug: "sheridan-mo"
-state: "MO"
-county: "Worth"
-population: 1500
+state: "mo"
+town_data: "sheridan-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Providence, Iowa Business Directory"
+title: "New Providence, IA Business Directory"
+type: "towns"
 slug: "new-providence-ia"
-town: "New Providence"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 2481
+state: "ia"
+town_data: "new-providence-ia"
 ---

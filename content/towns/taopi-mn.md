@@ -1,9 +1,7 @@
 ---
-title: "Taopi, Minnesota Business Directory"
+title: "Taopi, MN Business Directory"
+type: "towns"
 slug: "taopi-mn"
-town: "Taopi"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 998
+state: "mn"
+town_data: "taopi-mn"
 ---

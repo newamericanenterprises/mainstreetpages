@@ -1,9 +1,7 @@
 ---
-title: "Nora Springs, Iowa Business Directory"
+title: "Nora Springs, IA Business Directory"
+type: "towns"
 slug: "nora-springs-ia"
-town: "Nora Springs"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 3356
+state: "ia"
+town_data: "nora-springs-ia"
 ---

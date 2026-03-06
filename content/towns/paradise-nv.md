@@ -1,7 +1,7 @@
 ---
-title: "Paradise, Nevada Business Directory"
+title: "Paradise, NV Business Directory"
+type: "towns"
 slug: "paradise-nv"
-state: "NV"
-county: "Clark"
-population: 193150
+state: "nv"
+town_data: "paradise-nv"
 ---

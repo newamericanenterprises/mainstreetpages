@@ -1,9 +1,7 @@
 ---
-title: "West Bend, Iowa Business Directory"
+title: "West Bend, IA Business Directory"
+type: "towns"
 slug: "west-bend-ia"
-town: "West Bend"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 2659
+state: "ia"
+town_data: "west-bend-ia"
 ---

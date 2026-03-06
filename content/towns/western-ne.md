@@ -1,7 +1,7 @@
 ---
-title: "Western, Nebraska Business Directory"
+title: "Western, NE Business Directory"
+type: "towns"
 slug: "western-ne"
-state: "NE"
-county: "Saline"
-population: 500
+state: "ne"
+town_data: "western-ne"
 ---

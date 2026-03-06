@@ -1,7 +1,7 @@
 ---
-title: "Waverly, Nebraska Business Directory"
+title: "Waverly, NE Business Directory"
+type: "towns"
 slug: "waverly-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "waverly-ne"
 ---

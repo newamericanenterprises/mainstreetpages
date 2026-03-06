@@ -1,7 +1,7 @@
 ---
-title: "Grafton, Nebraska Business Directory"
+title: "Grafton, NE Business Directory"
+type: "towns"
 slug: "grafton-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "grafton-ne"
 ---

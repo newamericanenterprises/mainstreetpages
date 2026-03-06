@@ -1,9 +1,7 @@
 ---
-title: "Denham, Minnesota Business Directory"
+title: "Denham, MN Business Directory"
+type: "towns"
 slug: "denham-mn"
-town: "Denham"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 2009
+state: "mn"
+town_data: "denham-mn"
 ---

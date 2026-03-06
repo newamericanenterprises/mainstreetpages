@@ -1,7 +1,7 @@
 ---
-title: "Saint Edward, Nebraska Business Directory"
+title: "Saint Edward, NE Business Directory"
+type: "towns"
 slug: "saint-edward-ne"
-state: "NE"
-county: "Boone"
-population: 500
+state: "ne"
+town_data: "saint-edward-ne"
 ---

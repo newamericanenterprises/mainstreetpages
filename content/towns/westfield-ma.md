@@ -1,9 +1,7 @@
 ---
-title: "Westfield, Massachusetts Business Directory"
+title: "Westfield, MA Business Directory"
+type: "towns"
 slug: "westfield-ma"
-town: "Westfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 41680
+state: "ma"
+town_data: "westfield-ma"
 ---

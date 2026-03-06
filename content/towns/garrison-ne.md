@@ -1,7 +1,7 @@
 ---
-title: "Garrison, Nebraska Business Directory"
+title: "Garrison, NE Business Directory"
+type: "towns"
 slug: "garrison-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "garrison-ne"
 ---

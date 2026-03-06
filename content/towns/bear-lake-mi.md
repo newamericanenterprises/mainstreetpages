@@ -1,9 +1,7 @@
 ---
-title: "Bear Lake, Michigan Business Directory"
+title: "Bear Lake, MI Business Directory"
+type: "towns"
 slug: "bear-lake-mi"
-town: "Bear Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 735
+state: "mi"
+town_data: "bear-lake-mi"
 ---

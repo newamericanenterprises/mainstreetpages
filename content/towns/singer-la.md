@@ -1,9 +1,7 @@
 ---
-title: "Singer, Louisiana Business Directory"
+title: "Singer, LA Business Directory"
+type: "towns"
 slug: "singer-la"
-town: "Singer"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Beauregard"
-population: 702
+state: "la"
+town_data: "singer-la"
 ---

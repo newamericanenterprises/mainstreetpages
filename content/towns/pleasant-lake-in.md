@@ -1,9 +1,7 @@
 ---
-title: "Pleasant Lake, Indiana Business Directory"
+title: "Pleasant Lake, IN Business Directory"
+type: "towns"
 slug: "pleasant-lake-in"
-town: "Pleasant Lake"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 862
+state: "in"
+town_data: "pleasant-lake-in"
 ---

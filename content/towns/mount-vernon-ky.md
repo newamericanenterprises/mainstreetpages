@@ -1,9 +1,7 @@
 ---
-title: "Mount Vernon, Kentucky Business Directory"
+title: "Mount Vernon, KY Business Directory"
+type: "towns"
 slug: "mount-vernon-ky"
-town: "Mount Vernon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Rockcastle"
-population: 2487
+state: "ky"
+town_data: "mount-vernon-ky"
 ---

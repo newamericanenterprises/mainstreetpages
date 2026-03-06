@@ -1,7 +1,7 @@
 ---
-title: "Brockton, Montana Business Directory"
+title: "Brockton, MT Business Directory"
+type: "towns"
 slug: "brockton-mt"
-state: "MT"
-county: "Roosevelt"
-population: 500
+state: "mt"
+town_data: "brockton-mt"
 ---

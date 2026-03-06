@@ -1,9 +1,7 @@
 ---
-title: "Destrehan, Louisiana Business Directory"
+title: "Destrehan, LA Business Directory"
+type: "towns"
 slug: "destrehan-la"
-town: "Destrehan"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Charles"
-population: 768
+state: "la"
+town_data: "destrehan-la"
 ---

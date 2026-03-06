@@ -1,9 +1,7 @@
 ---
-title: "Bruceville, Indiana Business Directory"
+title: "Bruceville, IN Business Directory"
+type: "towns"
 slug: "bruceville-in"
-town: "Bruceville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 1404
+state: "in"
+town_data: "bruceville-in"
 ---

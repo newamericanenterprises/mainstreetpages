@@ -1,9 +1,7 @@
 ---
-title: "Colora, Maryland Business Directory"
+title: "Colora, MD Business Directory"
+type: "towns"
 slug: "colora-md"
-town: "Colora"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 4091
+state: "md"
+town_data: "colora-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Forsyth, Montana Business Directory"
+title: "Forsyth, MT Business Directory"
+type: "towns"
 slug: "forsyth-mt"
-state: "MT"
-county: "Rosebud"
-population: 1777
+state: "mt"
+town_data: "forsyth-mt"
 ---

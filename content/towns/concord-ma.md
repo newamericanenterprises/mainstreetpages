@@ -1,9 +1,7 @@
 ---
-title: "Concord, Massachusetts Business Directory"
+title: "Concord, MA Business Directory"
+type: "towns"
 slug: "concord-ma"
-town: "Concord"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 19979
+state: "ma"
+town_data: "concord-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lake City, Minnesota Business Directory"
+title: "Lake City, MN Business Directory"
+type: "towns"
 slug: "lake-city-mn"
-town: "Lake City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 1054
+state: "mn"
+town_data: "lake-city-mn"
 ---

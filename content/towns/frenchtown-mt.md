@@ -1,7 +1,7 @@
 ---
-title: "Frenchtown, Montana Business Directory"
+title: "Frenchtown, MT Business Directory"
+type: "towns"
 slug: "frenchtown-mt"
-state: "MT"
-county: "Missoula"
-population: 1900
+state: "mt"
+town_data: "frenchtown-mt"
 ---

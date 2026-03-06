@@ -1,9 +1,7 @@
 ---
-title: "Uxbridge, Massachusetts Business Directory"
+title: "Uxbridge, MA Business Directory"
+type: "towns"
 slug: "uxbridge-ma"
-town: "Uxbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2605
+state: "ma"
+town_data: "uxbridge-ma"
 ---

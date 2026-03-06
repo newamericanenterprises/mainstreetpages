@@ -1,9 +1,7 @@
 ---
-title: "Rising Sun, Indiana Business Directory"
+title: "Rising Sun, IN Business Directory"
+type: "towns"
 slug: "rising-sun-in"
-town: "Rising Sun"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ohio"
-population: 2304
+state: "in"
+town_data: "rising-sun-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kennebunkport, Maine Business Directory"
+title: "Kennebunkport, ME Business Directory"
+type: "towns"
 slug: "kennebunkport-me"
-town: "Kennebunkport"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 862
+state: "me"
+town_data: "kennebunkport-me"
 ---

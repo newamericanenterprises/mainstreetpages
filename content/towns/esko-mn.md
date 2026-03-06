@@ -1,9 +1,7 @@
 ---
-title: "Esko, Minnesota Business Directory"
+title: "Esko, MN Business Directory"
+type: "towns"
 slug: "esko-mn"
-town: "Esko"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 2817
+state: "mn"
+town_data: "esko-mn"
 ---

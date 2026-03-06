@@ -1,7 +1,7 @@
 ---
-title: "Culbertson, Montana Business Directory"
+title: "Culbertson, MT Business Directory"
+type: "towns"
 slug: "culbertson-mt"
-state: "MT"
-county: "Roosevelt"
-population: 714
+state: "mt"
+town_data: "culbertson-mt"
 ---

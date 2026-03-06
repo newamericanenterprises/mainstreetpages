@@ -1,9 +1,7 @@
 ---
-title: "Pelham, Massachusetts Business Directory"
+title: "Pelham, MA Business Directory"
+type: "towns"
 slug: "pelham-ma"
-town: "Pelham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 8693
+state: "ma"
+town_data: "pelham-ma"
 ---

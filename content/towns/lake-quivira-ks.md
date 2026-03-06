@@ -1,9 +1,7 @@
 ---
-title: "Lake Quivira, Kansas Business Directory"
+title: "Lake Quivira, KS Business Directory"
+type: "towns"
 slug: "lake-quivira-ks"
-town: "Lake Quivira"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wyandotte"
-population: 1901
+state: "ks"
+town_data: "lake-quivira-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Pengilly, Minnesota Business Directory"
+title: "Pengilly, MN Business Directory"
+type: "towns"
 slug: "pengilly-mn"
-town: "Pengilly"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 404
+state: "mn"
+town_data: "pengilly-mn"
 ---

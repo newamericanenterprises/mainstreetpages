@@ -1,9 +1,7 @@
 ---
-title: "Hodge, Louisiana Business Directory"
+title: "Hodge, LA Business Directory"
+type: "towns"
 slug: "hodge-la"
-town: "Hodge"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 2441
+state: "la"
+town_data: "hodge-la"
 ---

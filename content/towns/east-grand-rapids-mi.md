@@ -1,9 +1,7 @@
 ---
-title: "East Grand Rapids, Michigan Business Directory"
+title: "East Grand Rapids, MI Business Directory"
+type: "towns"
 slug: "east-grand-rapids-mi"
-town: "East Grand Rapids"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 1607
+state: "mi"
+town_data: "east-grand-rapids-mi"
 ---

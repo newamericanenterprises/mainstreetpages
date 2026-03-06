@@ -1,7 +1,7 @@
 ---
-title: "Raytown, Missouri Business Directory"
+title: "Raytown, MO Business Directory"
+type: "towns"
 slug: "raytown-mo"
-state: "MO"
-county: "Jackson"
-population: 29176
+state: "mo"
+town_data: "raytown-mo"
 ---

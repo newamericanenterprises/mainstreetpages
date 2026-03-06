@@ -1,9 +1,7 @@
 ---
-title: "Ayer, Massachusetts Business Directory"
+title: "Ayer, MA Business Directory"
+type: "towns"
 slug: "ayer-ma"
-town: "Ayer"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 4213
+state: "ma"
+town_data: "ayer-ma"
 ---

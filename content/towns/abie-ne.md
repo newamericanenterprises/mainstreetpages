@@ -1,7 +1,7 @@
 ---
-title: "Abie, Nebraska Business Directory"
+title: "Abie, NE Business Directory"
+type: "towns"
 slug: "abie-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "abie-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Hope, Minnesota Business Directory"
+title: "New Hope, MN Business Directory"
+type: "towns"
 slug: "new-hope-mn"
-town: "New Hope"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1471
+state: "mn"
+town_data: "new-hope-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Taneytown, Maryland Business Directory"
+title: "Taneytown, MD Business Directory"
+type: "towns"
 slug: "taneytown-md"
-town: "Taneytown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 7036
+state: "md"
+town_data: "taneytown-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Treynor, Iowa Business Directory"
+title: "Treynor, IA Business Directory"
+type: "towns"
 slug: "treynor-ia"
-town: "Treynor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 1373
+state: "ia"
+town_data: "treynor-ia"
 ---

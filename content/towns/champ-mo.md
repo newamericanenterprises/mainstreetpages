@@ -1,7 +1,7 @@
 ---
-title: "Champ, Missouri Business Directory"
+title: "Champ, MO Business Directory"
+type: "towns"
 slug: "champ-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "champ-mo"
 ---

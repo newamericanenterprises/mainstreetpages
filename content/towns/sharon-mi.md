@@ -1,9 +1,7 @@
 ---
-title: "Sharon, Michigan Business Directory"
+title: "Sharon, MI Business Directory"
+type: "towns"
 slug: "sharon-mi"
-town: "Sharon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 1981
+state: "mi"
+town_data: "sharon-mi"
 ---

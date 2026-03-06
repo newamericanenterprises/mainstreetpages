@@ -1,7 +1,7 @@
 ---
-title: "Gross, Nebraska Business Directory"
+title: "Gross, NE Business Directory"
+type: "towns"
 slug: "gross-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "gross-ne"
 ---

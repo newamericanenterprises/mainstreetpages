@@ -1,7 +1,7 @@
 ---
-title: "Dixon, Nebraska Business Directory"
+title: "Dixon, NE Business Directory"
+type: "towns"
 slug: "dixon-ne"
-state: "NE"
-county: "Dixon"
-population: 78
+state: "ne"
+town_data: "dixon-ne"
 ---

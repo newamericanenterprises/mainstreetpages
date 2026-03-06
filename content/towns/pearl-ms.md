@@ -1,7 +1,7 @@
 ---
-title: "Pearl, Mississippi Business Directory"
+title: "Pearl, MS Business Directory"
+type: "towns"
 slug: "pearl-ms"
-state: "MS"
-county: "Rankin"
-population: 27115
+state: "ms"
+town_data: "pearl-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Huron, Kansas Business Directory"
+title: "Huron, KS Business Directory"
+type: "towns"
 slug: "huron-ks"
-town: "Huron"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 435
+state: "ks"
+town_data: "huron-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beaman, Iowa Business Directory"
+title: "Beaman, IA Business Directory"
+type: "towns"
 slug: "beaman-ia"
-town: "Beaman"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 1804
+state: "ia"
+town_data: "beaman-ia"
 ---

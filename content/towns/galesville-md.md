@@ -1,9 +1,7 @@
 ---
-title: "Galesville, Maryland Business Directory"
+title: "Galesville, MD Business Directory"
+type: "towns"
 slug: "galesville-md"
-town: "Galesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 2814
+state: "md"
+town_data: "galesville-md"
 ---

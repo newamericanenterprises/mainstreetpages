@@ -1,7 +1,7 @@
 ---
-title: "Pelahatchie, Mississippi Business Directory"
+title: "Pelahatchie, MS Business Directory"
+type: "towns"
 slug: "pelahatchie-ms"
-state: "MS"
-county: "Rankin"
-population: 1504
+state: "ms"
+town_data: "pelahatchie-ms"
 ---

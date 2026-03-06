@@ -1,9 +1,7 @@
 ---
-title: "Salem, Iowa Business Directory"
+title: "Salem, IA Business Directory"
+type: "towns"
 slug: "salem-ia"
-town: "Salem"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 1906
+state: "ia"
+town_data: "salem-ia"
 ---

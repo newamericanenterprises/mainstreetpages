@@ -1,9 +1,7 @@
 ---
-title: "Chevy Chase, Maryland Business Directory"
+title: "Chevy Chase, MD Business Directory"
+type: "towns"
 slug: "chevy-chase-md"
-town: "Chevy Chase"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3598
+state: "md"
+town_data: "chevy-chase-md"
 ---

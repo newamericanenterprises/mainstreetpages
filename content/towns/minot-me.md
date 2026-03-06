@@ -1,9 +1,7 @@
 ---
-title: "Minot, Maine Business Directory"
+title: "Minot, ME Business Directory"
+type: "towns"
 slug: "minot-me"
-town: "Minot"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 891
+state: "me"
+town_data: "minot-me"
 ---

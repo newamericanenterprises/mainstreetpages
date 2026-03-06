@@ -1,7 +1,7 @@
 ---
-title: "Brownville, Nebraska Business Directory"
+title: "Brownville, NE Business Directory"
+type: "towns"
 slug: "brownville-ne"
-state: "NE"
-county: "Nemaha"
-population: 500
+state: "ne"
+town_data: "brownville-ne"
 ---

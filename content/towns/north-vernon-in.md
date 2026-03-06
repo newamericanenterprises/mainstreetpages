@@ -1,9 +1,7 @@
 ---
-title: "North Vernon, Indiana Business Directory"
+title: "North Vernon, IN Business Directory"
+type: "towns"
 slug: "north-vernon-in"
-town: "North Vernon"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jennings"
-population: 7135
+state: "in"
+town_data: "north-vernon-in"
 ---

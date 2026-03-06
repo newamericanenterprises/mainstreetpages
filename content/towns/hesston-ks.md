@@ -1,9 +1,7 @@
 ---
-title: "Hesston, Kansas Business Directory"
+title: "Hesston, KS Business Directory"
+type: "towns"
 slug: "hesston-ks"
-town: "Hesston"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 1963
+state: "ks"
+town_data: "hesston-ks"
 ---

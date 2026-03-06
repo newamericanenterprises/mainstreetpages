@@ -1,9 +1,7 @@
 ---
-title: "Iola, Kansas Business Directory"
+title: "Iola, KS Business Directory"
+type: "towns"
 slug: "iola-ks"
-town: "Iola"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 5312
+state: "ks"
+town_data: "iola-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bridgewater, Michigan Business Directory"
+title: "Bridgewater, MI Business Directory"
+type: "towns"
 slug: "bridgewater-mi"
-town: "Bridgewater"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 5077
+state: "mi"
+town_data: "bridgewater-mi"
 ---

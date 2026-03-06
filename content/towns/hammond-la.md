@@ -1,9 +1,7 @@
 ---
-title: "Hammond, Louisiana Business Directory"
+title: "Hammond, LA Business Directory"
+type: "towns"
 slug: "hammond-la"
-town: "Hammond"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 20019
+state: "la"
+town_data: "hammond-la"
 ---

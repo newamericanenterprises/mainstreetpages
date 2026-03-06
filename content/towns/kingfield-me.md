@@ -1,9 +1,7 @@
 ---
-title: "Kingfield, Maine Business Directory"
+title: "Kingfield, ME Business Directory"
+type: "towns"
 slug: "kingfield-me"
-town: "Kingfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1057
+state: "me"
+town_data: "kingfield-me"
 ---

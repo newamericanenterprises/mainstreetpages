@@ -1,9 +1,7 @@
 ---
-title: "Riverside, Iowa Business Directory"
+title: "Riverside, IA Business Directory"
+type: "towns"
 slug: "riverside-ia"
-town: "Riverside"
-state: "Iowa"
-state_abbr: "IA"
-county: "Washington"
-population: 1575
+state: "ia"
+town_data: "riverside-ia"
 ---

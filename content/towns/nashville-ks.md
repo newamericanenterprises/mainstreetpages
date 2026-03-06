@@ -1,9 +1,7 @@
 ---
-title: "Nashville, Kansas Business Directory"
+title: "Nashville, KS Business Directory"
+type: "towns"
 slug: "nashville-ks"
-town: "Nashville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 1129
+state: "ks"
+town_data: "nashville-ks"
 ---

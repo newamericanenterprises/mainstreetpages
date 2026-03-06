@@ -1,9 +1,7 @@
 ---
-title: "Switz City, Indiana Business Directory"
+title: "Switz City, IN Business Directory"
+type: "towns"
 slug: "switz-city-in"
-town: "Switz City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Greene"
-population: 517
+state: "in"
+town_data: "switz-city-in"
 ---

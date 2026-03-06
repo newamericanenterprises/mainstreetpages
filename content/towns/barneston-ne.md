@@ -1,7 +1,7 @@
 ---
-title: "Barneston, Nebraska Business Directory"
+title: "Barneston, NE Business Directory"
+type: "towns"
 slug: "barneston-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "barneston-ne"
 ---

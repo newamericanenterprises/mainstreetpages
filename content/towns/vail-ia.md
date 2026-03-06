@@ -1,9 +1,7 @@
 ---
-title: "Vail, Iowa Business Directory"
+title: "Vail, IA Business Directory"
+type: "towns"
 slug: "vail-ia"
-town: "Vail"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 2775
+state: "ia"
+town_data: "vail-ia"
 ---

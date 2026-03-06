@@ -1,9 +1,7 @@
 ---
-title: "Brimley, Michigan Business Directory"
+title: "Brimley, MI Business Directory"
+type: "towns"
 slug: "brimley-mi"
-town: "Brimley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 4623
+state: "mi"
+town_data: "brimley-mi"
 ---

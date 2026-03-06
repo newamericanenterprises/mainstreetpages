@@ -1,9 +1,7 @@
 ---
-title: "Campton, Kentucky Business Directory"
+title: "Campton, KY Business Directory"
+type: "towns"
 slug: "campton-ky"
-town: "Campton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Wolfe"
-population: 425
+state: "ky"
+town_data: "campton-ky"
 ---

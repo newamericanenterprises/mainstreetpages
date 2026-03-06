@@ -1,9 +1,7 @@
 ---
-title: "Netawaka, Kansas Business Directory"
+title: "Netawaka, KS Business Directory"
+type: "towns"
 slug: "netawaka-ks"
-town: "Netawaka"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 1949
+state: "ks"
+town_data: "netawaka-ks"
 ---

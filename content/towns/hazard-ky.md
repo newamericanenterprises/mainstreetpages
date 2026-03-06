@@ -1,9 +1,7 @@
 ---
-title: "Hazard, Kentucky Business Directory"
+title: "Hazard, KY Business Directory"
+type: "towns"
 slug: "hazard-ky"
-town: "Hazard"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Perry"
-population: 5044
+state: "ky"
+town_data: "hazard-ky"
 ---

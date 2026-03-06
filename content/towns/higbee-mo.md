@@ -1,7 +1,7 @@
 ---
-title: "Higbee, Missouri Business Directory"
+title: "Higbee, MO Business Directory"
+type: "towns"
 slug: "higbee-mo"
-state: "MO"
-county: "Randolph"
-population: 1500
+state: "mo"
+town_data: "higbee-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Indian Springs, Nevada Business Directory"
+title: "Indian Springs, NV Business Directory"
+type: "towns"
 slug: "indian-springs-nv"
-state: "NV"
-county: "Clark"
-population: 1029
+state: "nv"
+town_data: "indian-springs-nv"
 ---

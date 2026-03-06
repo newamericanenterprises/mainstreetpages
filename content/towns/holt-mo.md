@@ -1,7 +1,7 @@
 ---
-title: "Holt, Missouri Business Directory"
+title: "Holt, MO Business Directory"
+type: "towns"
 slug: "holt-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "holt-mo"
 ---

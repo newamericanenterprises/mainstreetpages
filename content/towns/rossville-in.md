@@ -1,9 +1,7 @@
 ---
-title: "Rossville, Indiana Business Directory"
+title: "Rossville, IN Business Directory"
+type: "towns"
 slug: "rossville-in"
-town: "Rossville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 1236
+state: "in"
+town_data: "rossville-in"
 ---

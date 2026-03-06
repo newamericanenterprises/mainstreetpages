@@ -1,9 +1,7 @@
 ---
-title: "Grand Chenier, Louisiana Business Directory"
+title: "Grand Chenier, LA Business Directory"
+type: "towns"
 slug: "grand-chenier-la"
-town: "Grand Chenier"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Cameron"
-population: 2323
+state: "la"
+town_data: "grand-chenier-la"
 ---

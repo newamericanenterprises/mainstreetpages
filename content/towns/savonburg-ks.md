@@ -1,9 +1,7 @@
 ---
-title: "Savonburg, Kansas Business Directory"
+title: "Savonburg, KS Business Directory"
+type: "towns"
 slug: "savonburg-ks"
-town: "Savonburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Allen"
-population: 1992
+state: "ks"
+town_data: "savonburg-ks"
 ---

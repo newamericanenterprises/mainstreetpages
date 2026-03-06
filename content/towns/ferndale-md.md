@@ -1,9 +1,7 @@
 ---
-title: "Ferndale, Maryland Business Directory"
+title: "Ferndale, MD Business Directory"
+type: "towns"
 slug: "ferndale-md"
-town: "Ferndale"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 5424
+state: "md"
+town_data: "ferndale-md"
 ---

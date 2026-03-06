@@ -1,9 +1,7 @@
 ---
-title: "DeMotte, Indiana Business Directory"
+title: "DeMotte, IN Business Directory"
+type: "towns"
 slug: "demotte-in"
-town: "DeMotte"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jasper"
-population: 3713
+state: "in"
+town_data: "demotte-in"
 ---

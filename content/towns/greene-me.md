@@ -1,9 +1,7 @@
 ---
-title: "Greene, Maine Business Directory"
+title: "Greene, ME Business Directory"
+type: "towns"
 slug: "greene-me"
-town: "Greene"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 2486
+state: "me"
+town_data: "greene-me"
 ---

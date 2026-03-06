@@ -1,7 +1,7 @@
 ---
-title: "Carrollton, Missouri Business Directory"
+title: "Carrollton, MO Business Directory"
+type: "towns"
 slug: "carrollton-mo"
-state: "MO"
-county: "Carroll"
-population: 3772
+state: "mo"
+town_data: "carrollton-mo"
 ---

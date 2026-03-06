@@ -1,9 +1,7 @@
 ---
-title: "Labadieville, Louisiana Business Directory"
+title: "Labadieville, LA Business Directory"
+type: "towns"
 slug: "labadieville-la"
-town: "Labadieville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Assumption"
-population: 2999
+state: "la"
+town_data: "labadieville-la"
 ---

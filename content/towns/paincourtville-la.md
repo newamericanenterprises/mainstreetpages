@@ -1,9 +1,7 @@
 ---
-title: "Paincourtville, Louisiana Business Directory"
+title: "Paincourtville, LA Business Directory"
+type: "towns"
 slug: "paincourtville-la"
-town: "Paincourtville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Assumption"
-population: 1752
+state: "la"
+town_data: "paincourtville-la"
 ---

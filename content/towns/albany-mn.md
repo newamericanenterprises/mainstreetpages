@@ -1,9 +1,7 @@
 ---
-title: "Albany, Minnesota Business Directory"
+title: "Albany, MN Business Directory"
+type: "towns"
 slug: "albany-mn"
-town: "Albany"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1038
+state: "mn"
+town_data: "albany-mn"
 ---

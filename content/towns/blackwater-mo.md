@@ -1,7 +1,7 @@
 ---
-title: "Blackwater, Missouri Business Directory"
+title: "Blackwater, MO Business Directory"
+type: "towns"
 slug: "blackwater-mo"
-state: "MO"
-county: "Cooper"
-population: 1500
+state: "mo"
+town_data: "blackwater-mo"
 ---

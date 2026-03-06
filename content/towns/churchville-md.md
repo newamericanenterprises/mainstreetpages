@@ -1,9 +1,7 @@
 ---
-title: "Churchville, Maryland Business Directory"
+title: "Churchville, MD Business Directory"
+type: "towns"
 slug: "churchville-md"
-town: "Churchville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 2030
+state: "md"
+town_data: "churchville-md"
 ---

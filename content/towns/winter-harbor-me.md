@@ -1,9 +1,7 @@
 ---
-title: "Winter Harbor, Maine Business Directory"
+title: "Winter Harbor, ME Business Directory"
+type: "towns"
 slug: "winter-harbor-me"
-town: "Winter Harbor"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1801
+state: "me"
+town_data: "winter-harbor-me"
 ---

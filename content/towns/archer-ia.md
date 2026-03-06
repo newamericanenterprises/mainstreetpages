@@ -1,9 +1,7 @@
 ---
-title: "Archer, Iowa Business Directory"
+title: "Archer, IA Business Directory"
+type: "towns"
 slug: "archer-ia"
-town: "Archer"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 1625
+state: "ia"
+town_data: "archer-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Osborne, Kansas Business Directory"
+title: "Osborne, KS Business Directory"
+type: "towns"
 slug: "osborne-ks"
-town: "Osborne"
-state: "Kansas"
-state_abbr: "KS"
-county: "Osborne"
-population: 1377
+state: "ks"
+town_data: "osborne-ks"
 ---

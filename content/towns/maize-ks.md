@@ -1,9 +1,7 @@
 ---
-title: "Maize, Kansas Business Directory"
+title: "Maize, KS Business Directory"
+type: "towns"
 slug: "maize-ks"
-town: "Maize"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 5488
+state: "ks"
+town_data: "maize-ks"
 ---

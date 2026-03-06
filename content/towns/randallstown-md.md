@@ -1,9 +1,7 @@
 ---
-title: "Randallstown, Maryland Business Directory"
+title: "Randallstown, MD Business Directory"
+type: "towns"
 slug: "randallstown-md"
-town: "Randallstown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 35055
+state: "md"
+town_data: "randallstown-md"
 ---

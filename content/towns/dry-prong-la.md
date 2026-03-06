@@ -1,9 +1,7 @@
 ---
-title: "Dry Prong, Louisiana Business Directory"
+title: "Dry Prong, LA Business Directory"
+type: "towns"
 slug: "dry-prong-la"
-town: "Dry Prong"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Grant"
-population: 1127
+state: "la"
+town_data: "dry-prong-la"
 ---

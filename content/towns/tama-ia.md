@@ -1,9 +1,7 @@
 ---
-title: "Tama, Iowa Business Directory"
+title: "Tama, IA Business Directory"
+type: "towns"
 slug: "tama-ia"
-town: "Tama"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 1494
+state: "ia"
+town_data: "tama-ia"
 ---

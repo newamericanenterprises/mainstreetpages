@@ -1,9 +1,7 @@
 ---
-title: "Cynthiana, Kentucky Business Directory"
+title: "Cynthiana, KY Business Directory"
+type: "towns"
 slug: "cynthiana-ky"
-town: "Cynthiana"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Harrison"
-population: 6327
+state: "ky"
+town_data: "cynthiana-ky"
 ---

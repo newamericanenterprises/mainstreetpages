@@ -1,9 +1,7 @@
 ---
-title: "Gosport, Indiana Business Directory"
+title: "Gosport, IN Business Directory"
+type: "towns"
 slug: "gosport-in"
-town: "Gosport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Owen"
-population: 1957
+state: "in"
+town_data: "gosport-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hodgdon, Maine Business Directory"
+title: "Hodgdon, ME Business Directory"
+type: "towns"
 slug: "hodgdon-me"
-town: "Hodgdon"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 2573
+state: "me"
+town_data: "hodgdon-me"
 ---

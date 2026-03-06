@@ -1,9 +1,7 @@
 ---
-title: "White Plains, Maryland Business Directory"
+title: "White Plains, MD Business Directory"
+type: "towns"
 slug: "white-plains-md"
-town: "White Plains"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 3177
+state: "md"
+town_data: "white-plains-md"
 ---

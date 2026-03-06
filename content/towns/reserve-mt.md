@@ -1,7 +1,7 @@
 ---
-title: "Reserve, Montana Business Directory"
+title: "Reserve, MT Business Directory"
+type: "towns"
 slug: "reserve-mt"
-state: "MT"
-county: "Sheridan"
-population: 500
+state: "mt"
+town_data: "reserve-mt"
 ---

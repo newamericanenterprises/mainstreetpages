@@ -1,7 +1,7 @@
 ---
-title: "La Russell, Missouri Business Directory"
+title: "La Russell, MO Business Directory"
+type: "towns"
 slug: "la-russell-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "la-russell-mo"
 ---

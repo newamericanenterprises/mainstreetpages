@@ -1,9 +1,7 @@
 ---
-title: "South English, Iowa Business Directory"
+title: "South English, IA Business Directory"
+type: "towns"
 slug: "south-english-ia"
-town: "South English"
-state: "Iowa"
-state_abbr: "IA"
-county: "Keokuk"
-population: 2133
+state: "ia"
+town_data: "south-english-ia"
 ---

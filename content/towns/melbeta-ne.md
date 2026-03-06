@@ -1,7 +1,7 @@
 ---
-title: "Melbeta, Nebraska Business Directory"
+title: "Melbeta, NE Business Directory"
+type: "towns"
 slug: "melbeta-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "melbeta-ne"
 ---

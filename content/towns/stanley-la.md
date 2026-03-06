@@ -1,9 +1,7 @@
 ---
-title: "Stanley, Louisiana Business Directory"
+title: "Stanley, LA Business Directory"
+type: "towns"
 slug: "stanley-la"
-town: "Stanley"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 1731
+state: "la"
+town_data: "stanley-la"
 ---

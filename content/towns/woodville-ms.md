@@ -1,7 +1,7 @@
 ---
-title: "Woodville, Mississippi Business Directory"
+title: "Woodville, MS Business Directory"
+type: "towns"
 slug: "woodville-ms"
-state: "MS"
-county: "Wilkinson"
-population: 1096
+state: "ms"
+town_data: "woodville-ms"
 ---

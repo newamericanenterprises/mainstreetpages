@@ -1,9 +1,7 @@
 ---
-title: "Leonard, Minnesota Business Directory"
+title: "Leonard, MN Business Directory"
+type: "towns"
 slug: "leonard-mn"
-town: "Leonard"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clearwater"
-population: 3140
+state: "mn"
+town_data: "leonard-mn"
 ---

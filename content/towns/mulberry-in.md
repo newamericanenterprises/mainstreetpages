@@ -1,9 +1,7 @@
 ---
-title: "Mulberry, Indiana Business Directory"
+title: "Mulberry, IN Business Directory"
+type: "towns"
 slug: "mulberry-in"
-town: "Mulberry"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clinton"
-population: 3211
+state: "in"
+town_data: "mulberry-in"
 ---

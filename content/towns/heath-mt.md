@@ -1,7 +1,7 @@
 ---
-title: "Heath, Montana Business Directory"
+title: "Heath, MT Business Directory"
+type: "towns"
 slug: "heath-mt"
-state: "MT"
-county: "Fergus"
-population: 500
+state: "mt"
+town_data: "heath-mt"
 ---

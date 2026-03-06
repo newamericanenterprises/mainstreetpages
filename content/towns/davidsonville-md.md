@@ -1,9 +1,7 @@
 ---
-title: "Davidsonville, Maryland Business Directory"
+title: "Davidsonville, MD Business Directory"
+type: "towns"
 slug: "davidsonville-md"
-town: "Davidsonville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 853
+state: "md"
+town_data: "davidsonville-md"
 ---

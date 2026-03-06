@@ -1,9 +1,7 @@
 ---
-title: "Jamestown, Kentucky Business Directory"
+title: "Jamestown, KY Business Directory"
+type: "towns"
 slug: "jamestown-ky"
-town: "Jamestown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Russell"
-population: 1734
+state: "ky"
+town_data: "jamestown-ky"
 ---

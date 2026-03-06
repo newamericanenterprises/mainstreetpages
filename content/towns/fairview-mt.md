@@ -1,7 +1,7 @@
 ---
-title: "Fairview, Montana Business Directory"
+title: "Fairview, MT Business Directory"
+type: "towns"
 slug: "fairview-mt"
-state: "MT"
-county: "Richland"
-population: 840
+state: "mt"
+town_data: "fairview-mt"
 ---

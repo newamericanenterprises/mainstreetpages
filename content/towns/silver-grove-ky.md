@@ -1,9 +1,7 @@
 ---
-title: "Silver Grove, Kentucky Business Directory"
+title: "Silver Grove, KY Business Directory"
+type: "towns"
 slug: "silver-grove-ky"
-town: "Silver Grove"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Campbell"
-population: 1715
+state: "ky"
+town_data: "silver-grove-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wadena, Iowa Business Directory"
+title: "Wadena, IA Business Directory"
+type: "towns"
 slug: "wadena-ia"
-town: "Wadena"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 2458
+state: "ia"
+town_data: "wadena-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "St. Johns, Michigan Business Directory"
+title: "St. Johns, MI Business Directory"
+type: "towns"
 slug: "st-johns-mi"
-town: "St. Johns"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 1445
+state: "mi"
+town_data: "st-johns-mi"
 ---

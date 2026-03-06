@@ -1,9 +1,7 @@
 ---
-title: "Easton, Massachusetts Business Directory"
+title: "Easton, MA Business Directory"
+type: "towns"
 slug: "easton-ma"
-town: "Easton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 25203
+state: "ma"
+town_data: "easton-ma"
 ---

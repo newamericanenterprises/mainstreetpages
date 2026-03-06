@@ -1,9 +1,7 @@
 ---
-title: "Start, Louisiana Business Directory"
+title: "Start, LA Business Directory"
+type: "towns"
 slug: "start-la"
-town: "Start"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Richland"
-population: 1516
+state: "la"
+town_data: "start-la"
 ---

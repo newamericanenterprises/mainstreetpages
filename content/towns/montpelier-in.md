@@ -1,9 +1,7 @@
 ---
-title: "Montpelier, Indiana Business Directory"
+title: "Montpelier, IN Business Directory"
+type: "towns"
 slug: "montpelier-in"
-town: "Montpelier"
-state: "Indiana"
-state_abbr: "IN"
-county: "Blackford"
-population: 666
+state: "in"
+town_data: "montpelier-in"
 ---

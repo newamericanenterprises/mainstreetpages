@@ -1,9 +1,7 @@
 ---
-title: "River Rouge, Michigan Business Directory"
+title: "River Rouge, MI Business Directory"
+type: "towns"
 slug: "river-rouge-mi"
-town: "River Rouge"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 3851
+state: "mi"
+town_data: "river-rouge-mi"
 ---

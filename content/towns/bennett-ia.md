@@ -1,9 +1,7 @@
 ---
-title: "Bennett, Iowa Business Directory"
+title: "Bennett, IA Business Directory"
+type: "towns"
 slug: "bennett-ia"
-town: "Bennett"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 3120
+state: "ia"
+town_data: "bennett-ia"
 ---

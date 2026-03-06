@@ -1,7 +1,7 @@
 ---
-title: "McLean, Nebraska Business Directory"
+title: "Mclean, NE Business Directory"
+type: "towns"
 slug: "mclean-ne"
-state: "NE"
-county: "Pierce"
-population: 500
+state: "ne"
+town_data: "mclean-ne"
 ---

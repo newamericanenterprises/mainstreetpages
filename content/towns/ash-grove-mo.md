@@ -1,7 +1,7 @@
 ---
-title: "Ash Grove, Missouri Business Directory"
+title: "Ash Grove, MO Business Directory"
+type: "towns"
 slug: "ash-grove-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "ash-grove-mo"
 ---

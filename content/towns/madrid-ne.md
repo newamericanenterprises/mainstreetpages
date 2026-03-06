@@ -1,7 +1,7 @@
 ---
-title: "Madrid, Nebraska Business Directory"
+title: "Madrid, NE Business Directory"
+type: "towns"
 slug: "madrid-ne"
-state: "NE"
-county: "Perkins"
-population: 500
+state: "ne"
+town_data: "madrid-ne"
 ---

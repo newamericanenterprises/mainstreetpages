@@ -1,7 +1,7 @@
 ---
-title: "Stockton, Missouri Business Directory"
+title: "Stockton, MO Business Directory"
+type: "towns"
 slug: "stockton-mo"
-state: "MO"
-county: "Cedar"
-population: 1996
+state: "mo"
+town_data: "stockton-mo"
 ---

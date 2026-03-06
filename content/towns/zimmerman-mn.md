@@ -1,9 +1,7 @@
 ---
-title: "Zimmerman, Minnesota Business Directory"
+title: "Zimmerman, MN Business Directory"
+type: "towns"
 slug: "zimmerman-mn"
-town: "Zimmerman"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 846
+state: "mn"
+town_data: "zimmerman-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Morganza, Louisiana Business Directory"
+title: "Morganza, LA Business Directory"
+type: "towns"
 slug: "morganza-la"
-town: "Morganza"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 1687
+state: "la"
+town_data: "morganza-la"
 ---

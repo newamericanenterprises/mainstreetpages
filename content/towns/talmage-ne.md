@@ -1,7 +1,7 @@
 ---
-title: "Talmage, Nebraska Business Directory"
+title: "Talmage, NE Business Directory"
+type: "towns"
 slug: "talmage-ne"
-state: "NE"
-county: "Otoe"
-population: 500
+state: "ne"
+town_data: "talmage-ne"
 ---

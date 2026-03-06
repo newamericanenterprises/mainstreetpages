@@ -1,7 +1,7 @@
 ---
-title: "Laddonia, Missouri Business Directory"
+title: "Laddonia, MO Business Directory"
+type: "towns"
 slug: "laddonia-mo"
-state: "MO"
-county: "Audrain"
-population: 1500
+state: "mo"
+town_data: "laddonia-mo"
 ---

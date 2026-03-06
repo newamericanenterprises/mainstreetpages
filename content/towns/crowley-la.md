@@ -1,9 +1,7 @@
 ---
-title: "Crowley, Louisiana Business Directory"
+title: "Crowley, LA Business Directory"
+type: "towns"
 slug: "crowley-la"
-town: "Crowley"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 12689
+state: "la"
+town_data: "crowley-la"
 ---

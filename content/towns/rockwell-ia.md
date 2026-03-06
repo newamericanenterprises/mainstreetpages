@@ -1,9 +1,7 @@
 ---
-title: "Rockwell, Iowa Business Directory"
+title: "Rockwell, IA Business Directory"
+type: "towns"
 slug: "rockwell-ia"
-town: "Rockwell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cerro Gordo"
-population: 833
+state: "ia"
+town_data: "rockwell-ia"
 ---

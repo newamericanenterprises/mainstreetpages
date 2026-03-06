@@ -1,7 +1,7 @@
 ---
-title: "Alamo, Nevada Business Directory"
+title: "Alamo, NV Business Directory"
+type: "towns"
 slug: "alamo-nv"
-state: "NV"
-county: "Lincoln"
-population: 1080
+state: "nv"
+town_data: "alamo-nv"
 ---

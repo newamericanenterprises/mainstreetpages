@@ -1,9 +1,7 @@
 ---
-title: "Pease, Minnesota Business Directory"
+title: "Pease, MN Business Directory"
+type: "towns"
 slug: "pease-mn"
-town: "Pease"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 1340
+state: "mn"
+town_data: "pease-mn"
 ---

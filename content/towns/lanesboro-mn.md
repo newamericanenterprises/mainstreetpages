@@ -1,9 +1,7 @@
 ---
-title: "Lanesboro, Minnesota Business Directory"
+title: "Lanesboro, MN Business Directory"
+type: "towns"
 slug: "lanesboro-mn"
-town: "Lanesboro"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 2401
+state: "mn"
+town_data: "lanesboro-mn"
 ---

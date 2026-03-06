@@ -1,7 +1,7 @@
 ---
-title: "New Hampton, Missouri Business Directory"
+title: "New Hampton, MO Business Directory"
+type: "towns"
 slug: "new-hampton-mo"
-state: "MO"
-county: "Harrison"
-population: 1500
+state: "mo"
+town_data: "new-hampton-mo"
 ---

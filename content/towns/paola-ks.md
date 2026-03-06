@@ -1,9 +1,7 @@
 ---
-title: "Paola, Kansas Business Directory"
+title: "Paola, KS Business Directory"
+type: "towns"
 slug: "paola-ks"
-town: "Paola"
-state: "Kansas"
-state_abbr: "KS"
-county: "Miami"
-population: 1765
+state: "ks"
+town_data: "paola-ks"
 ---

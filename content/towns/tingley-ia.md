@@ -1,9 +1,7 @@
 ---
-title: "Tingley, Iowa Business Directory"
+title: "Tingley, IA Business Directory"
+type: "towns"
 slug: "tingley-ia"
-town: "Tingley"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 1601
+state: "ia"
+town_data: "tingley-ia"
 ---

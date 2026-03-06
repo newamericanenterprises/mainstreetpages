@@ -1,9 +1,7 @@
 ---
-title: "Gem, Kansas Business Directory"
+title: "Gem, KS Business Directory"
+type: "towns"
 slug: "gem-ks"
-town: "Gem"
-state: "Kansas"
-state_abbr: "KS"
-county: "Thomas"
-population: 2955
+state: "ks"
+town_data: "gem-ks"
 ---

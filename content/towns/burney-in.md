@@ -1,9 +1,7 @@
 ---
-title: "Burney, Indiana Business Directory"
+title: "Burney, IN Business Directory"
+type: "towns"
 slug: "burney-in"
-town: "Burney"
-state: "Indiana"
-state_abbr: "IN"
-county: "Decatur"
-population: 1812
+state: "in"
+town_data: "burney-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Greenville, Maine Business Directory"
+title: "Greenville, ME Business Directory"
+type: "towns"
 slug: "greenville-me"
-town: "Greenville"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1512
+state: "me"
+town_data: "greenville-me"
 ---

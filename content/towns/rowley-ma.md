@@ -1,9 +1,7 @@
 ---
-title: "Rowley, Massachusetts Business Directory"
+title: "Rowley, MA Business Directory"
+type: "towns"
 slug: "rowley-ma"
-town: "Rowley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 6703
+state: "ma"
+town_data: "rowley-ma"
 ---

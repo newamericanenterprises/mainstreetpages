@@ -1,7 +1,7 @@
 ---
-title: "Aldrich, Missouri Business Directory"
+title: "Aldrich, MO Business Directory"
+type: "towns"
 slug: "aldrich-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "aldrich-mo"
 ---

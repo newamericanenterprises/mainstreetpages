@@ -1,9 +1,7 @@
 ---
-title: "St. Francis, Kansas Business Directory"
+title: "St. Francis, KS Business Directory"
+type: "towns"
 slug: "st-francis-ks"
-town: "St. Francis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cheyenne"
-population: 1292
+state: "ks"
+town_data: "st-francis-ks"
 ---

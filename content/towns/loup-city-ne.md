@@ -1,7 +1,7 @@
 ---
-title: "Loup City, Nebraska Business Directory"
+title: "Loup City, NE Business Directory"
+type: "towns"
 slug: "loup-city-ne"
-state: "NE"
-county: "Sherman"
-population: 1029
+state: "ne"
+town_data: "loup-city-ne"
 ---

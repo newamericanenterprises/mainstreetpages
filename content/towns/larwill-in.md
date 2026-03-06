@@ -1,9 +1,7 @@
 ---
-title: "Larwill, Indiana Business Directory"
+title: "Larwill, IN Business Directory"
+type: "towns"
 slug: "larwill-in"
-town: "Larwill"
-state: "Indiana"
-state_abbr: "IN"
-county: "Whitley"
-population: 4879
+state: "in"
+town_data: "larwill-in"
 ---

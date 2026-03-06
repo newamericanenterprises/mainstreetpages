@@ -1,7 +1,7 @@
 ---
-title: "Forest, Mississippi Business Directory"
+title: "Forest, MS Business Directory"
+type: "towns"
 slug: "forest-ms"
-state: "MS"
-county: "Scott"
-population: 5887
+state: "ms"
+town_data: "forest-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Halifax, Massachusetts Business Directory"
+title: "Halifax, MA Business Directory"
+type: "towns"
 slug: "halifax-ma"
-town: "Halifax"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 3277
+state: "ma"
+town_data: "halifax-ma"
 ---

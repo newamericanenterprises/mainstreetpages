@@ -1,9 +1,7 @@
 ---
-title: "Paw Paw, Michigan Business Directory"
+title: "Paw Paw, MI Business Directory"
+type: "towns"
 slug: "paw-paw-mi"
-town: "Paw Paw"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 822
+state: "mi"
+town_data: "paw-paw-mi"
 ---

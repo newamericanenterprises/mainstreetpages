@@ -1,9 +1,7 @@
 ---
-title: "Davison, Michigan Business Directory"
+title: "Davison, MI Business Directory"
+type: "towns"
 slug: "davison-mi"
-town: "Davison"
-state: "Michigan"
-state_abbr: "MI"
-county: "Genesee"
-population: 4378
+state: "mi"
+town_data: "davison-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wellington, Kansas Business Directory"
+title: "Wellington, KS Business Directory"
+type: "towns"
 slug: "wellington-ks"
-town: "Wellington"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 7694
+state: "ks"
+town_data: "wellington-ks"
 ---

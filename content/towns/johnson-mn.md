@@ -1,9 +1,7 @@
 ---
-title: "Johnson, Minnesota Business Directory"
+title: "Johnson, MN Business Directory"
+type: "towns"
 slug: "johnson-mn"
-town: "Johnson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 504
+state: "mn"
+town_data: "johnson-mn"
 ---

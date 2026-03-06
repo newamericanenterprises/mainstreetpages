@@ -1,9 +1,7 @@
 ---
-title: "Moores Hill, Indiana Business Directory"
+title: "Moores Hill, IN Business Directory"
+type: "towns"
 slug: "moores-hill-in"
-town: "Moores Hill"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dearborn"
-population: 698
+state: "in"
+town_data: "moores-hill-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sergeant Bluff, Iowa Business Directory"
+title: "Sergeant Bluff, IA Business Directory"
+type: "towns"
 slug: "sergeant-bluff-ia"
-town: "Sergeant Bluff"
-state: "Iowa"
-state_abbr: "IA"
-county: "Woodbury"
-population: 2223
+state: "ia"
+town_data: "sergeant-bluff-ia"
 ---

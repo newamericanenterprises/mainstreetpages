@@ -1,7 +1,7 @@
 ---
-title: "Stagecoach, Nevada Business Directory"
+title: "Stagecoach, NV Business Directory"
+type: "towns"
 slug: "stagecoach-nv"
-state: "NV"
-county: "Lyon"
-population: 2760
+state: "nv"
+town_data: "stagecoach-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lake Park, Minnesota Business Directory"
+title: "Lake Park, MN Business Directory"
+type: "towns"
 slug: "lake-park-mn"
-town: "Lake Park"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Becker"
-population: 2612
+state: "mn"
+town_data: "lake-park-mn"
 ---

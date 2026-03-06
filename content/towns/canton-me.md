@@ -1,9 +1,7 @@
 ---
-title: "Canton, Maine Business Directory"
+title: "Canton, ME Business Directory"
+type: "towns"
 slug: "canton-me"
-town: "Canton"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2715
+state: "me"
+town_data: "canton-me"
 ---

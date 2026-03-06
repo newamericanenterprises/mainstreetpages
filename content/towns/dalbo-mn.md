@@ -1,9 +1,7 @@
 ---
-title: "Dalbo, Minnesota Business Directory"
+title: "Dalbo, MN Business Directory"
+type: "towns"
 slug: "dalbo-mn"
-town: "Dalbo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 3006
+state: "mn"
+town_data: "dalbo-mn"
 ---

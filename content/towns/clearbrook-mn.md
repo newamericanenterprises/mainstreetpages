@@ -1,9 +1,7 @@
 ---
-title: "Clearbrook, Minnesota Business Directory"
+title: "Clearbrook, MN Business Directory"
+type: "towns"
 slug: "clearbrook-mn"
-town: "Clearbrook"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clearwater"
-population: 2787
+state: "mn"
+town_data: "clearbrook-mn"
 ---

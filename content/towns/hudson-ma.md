@@ -1,9 +1,7 @@
 ---
-title: "Hudson, Massachusetts Business Directory"
+title: "Hudson, MA Business Directory"
+type: "towns"
 slug: "hudson-ma"
-town: "Hudson"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 6356
+state: "ma"
+town_data: "hudson-ma"
 ---

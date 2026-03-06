@@ -1,7 +1,7 @@
 ---
-title: "Branson West, Missouri Business Directory"
+title: "Branson West, MO Business Directory"
+type: "towns"
 slug: "branson-west-mo"
-state: "MO"
-county: "Stone"
-population: 1500
+state: "mo"
+town_data: "branson-west-mo"
 ---

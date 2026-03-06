@@ -1,7 +1,7 @@
 ---
-title: "Kimmswick, Missouri Business Directory"
+title: "Kimmswick, MO Business Directory"
+type: "towns"
 slug: "kimmswick-mo"
-state: "MO"
-county: "Jefferson"
-population: 1500
+state: "mo"
+town_data: "kimmswick-mo"
 ---

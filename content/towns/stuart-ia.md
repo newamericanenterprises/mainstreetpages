@@ -1,9 +1,7 @@
 ---
-title: "Stuart, Iowa Business Directory"
+title: "Stuart, IA Business Directory"
+type: "towns"
 slug: "stuart-ia"
-town: "Stuart"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 1842
+state: "ia"
+town_data: "stuart-ia"
 ---

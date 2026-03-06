@@ -1,9 +1,7 @@
 ---
-title: "Crosslake, Minnesota Business Directory"
+title: "Crosslake, MN Business Directory"
+type: "towns"
 slug: "crosslake-mn"
-town: "Crosslake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Crow Wing"
-population: 2647
+state: "mn"
+town_data: "crosslake-mn"
 ---

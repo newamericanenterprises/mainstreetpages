@@ -1,7 +1,7 @@
 ---
-title: "Wise River, Montana Business Directory"
+title: "Wise River, MT Business Directory"
+type: "towns"
 slug: "wise-river-mt"
-state: "MT"
-county: "Beaverhead"
-population: 500
+state: "mt"
+town_data: "wise-river-mt"
 ---

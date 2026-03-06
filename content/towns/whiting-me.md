@@ -1,9 +1,7 @@
 ---
-title: "Whiting, Maine Business Directory"
+title: "Whiting, ME Business Directory"
+type: "towns"
 slug: "whiting-me"
-town: "Whiting"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 374
+state: "me"
+town_data: "whiting-me"
 ---

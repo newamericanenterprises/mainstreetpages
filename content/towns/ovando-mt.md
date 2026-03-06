@@ -1,7 +1,7 @@
 ---
-title: "Ovando, Montana Business Directory"
+title: "Ovando, MT Business Directory"
+type: "towns"
 slug: "ovando-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "ovando-mt"
 ---

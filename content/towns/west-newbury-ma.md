@@ -1,9 +1,7 @@
 ---
-title: "West Newbury, Massachusetts Business Directory"
+title: "West Newbury, MA Business Directory"
+type: "towns"
 slug: "west-newbury-ma"
-town: "West Newbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 4425
+state: "ma"
+town_data: "west-newbury-ma"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Florissant, Missouri Business Directory"
+title: "Florissant, MO Business Directory"
+type: "towns"
 slug: "florissant-mo"
-state: "MO"
-county: "St. Louis"
-population: 52158
+state: "mo"
+town_data: "florissant-mo"
 ---

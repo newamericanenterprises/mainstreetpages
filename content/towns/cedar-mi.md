@@ -1,9 +1,7 @@
 ---
-title: "Cedar, Michigan Business Directory"
+title: "Cedar, MI Business Directory"
+type: "towns"
 slug: "cedar-mi"
-town: "Cedar"
-state: "Michigan"
-state_abbr: "MI"
-county: "Leelanau"
-population: 1284
+state: "mi"
+town_data: "cedar-mi"
 ---

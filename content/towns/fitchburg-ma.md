@@ -1,9 +1,7 @@
 ---
-title: "Fitchburg, Massachusetts Business Directory"
+title: "Fitchburg, MA Business Directory"
+type: "towns"
 slug: "fitchburg-ma"
-town: "Fitchburg"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 40898
+state: "ma"
+town_data: "fitchburg-ma"
 ---

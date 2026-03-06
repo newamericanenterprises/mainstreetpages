@@ -1,9 +1,7 @@
 ---
-title: "Brown City, Michigan Business Directory"
+title: "Brown City, MI Business Directory"
+type: "towns"
 slug: "brown-city-mi"
-town: "Brown City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 3349
+state: "mi"
+town_data: "brown-city-mi"
 ---

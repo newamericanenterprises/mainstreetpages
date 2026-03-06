@@ -1,9 +1,7 @@
 ---
-title: "Grayson, Louisiana Business Directory"
+title: "Grayson, LA Business Directory"
+type: "towns"
 slug: "grayson-la"
-town: "Grayson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caldwell"
-population: 788
+state: "la"
+town_data: "grayson-la"
 ---

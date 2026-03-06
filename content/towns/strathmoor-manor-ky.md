@@ -1,9 +1,7 @@
 ---
-title: "Strathmoor Manor, Kentucky Business Directory"
+title: "Strathmoor Manor, KY Business Directory"
+type: "towns"
 slug: "strathmoor-manor-ky"
-town: "Strathmoor Manor"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1852
+state: "ky"
+town_data: "strathmoor-manor-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Essex, Massachusetts Business Directory"
+title: "Essex, MA Business Directory"
+type: "towns"
 slug: "essex-ma"
-town: "Essex"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 4819
+state: "ma"
+town_data: "essex-ma"
 ---

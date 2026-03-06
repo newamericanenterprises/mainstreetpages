@@ -1,9 +1,7 @@
 ---
-title: "Prinsburg, Minnesota Business Directory"
+title: "Prinsburg, MN Business Directory"
+type: "towns"
 slug: "prinsburg-mn"
-town: "Prinsburg"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 2947
+state: "mn"
+town_data: "prinsburg-mn"
 ---

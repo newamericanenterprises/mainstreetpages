@@ -1,7 +1,7 @@
 ---
-title: "Kansas City, Missouri Business Directory"
+title: "Kansas City, MO Business Directory"
+type: "towns"
 slug: "kansas-city-mo"
-state: "MO"
-county: "Jackson"
-population: 508090
+state: "mo"
+town_data: "kansas-city-mo"
 ---

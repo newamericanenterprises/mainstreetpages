@@ -1,7 +1,7 @@
 ---
-title: "Hayti, Missouri Business Directory"
+title: "Hayti, MO Business Directory"
+type: "towns"
 slug: "hayti-mo"
-state: "MO"
-county: "Pemiscot"
-population: 2939
+state: "mo"
+town_data: "hayti-mo"
 ---

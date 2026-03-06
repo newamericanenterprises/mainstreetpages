@@ -1,9 +1,7 @@
 ---
-title: "Randolph, Iowa Business Directory"
+title: "Randolph, IA Business Directory"
+type: "towns"
 slug: "randolph-ia"
-town: "Randolph"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 2795
+state: "ia"
+town_data: "randolph-ia"
 ---

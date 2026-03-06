@@ -1,9 +1,7 @@
 ---
-title: "Rice, Minnesota Business Directory"
+title: "Rice, MN Business Directory"
+type: "towns"
 slug: "rice-mn"
-town: "Rice"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Benton"
-population: 2726
+state: "mn"
+town_data: "rice-mn"
 ---

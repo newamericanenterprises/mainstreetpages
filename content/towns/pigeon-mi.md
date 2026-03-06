@@ -1,9 +1,7 @@
 ---
-title: "Pigeon, Michigan Business Directory"
+title: "Pigeon, MI Business Directory"
+type: "towns"
 slug: "pigeon-mi"
-town: "Pigeon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 1242
+state: "mi"
+town_data: "pigeon-mi"
 ---

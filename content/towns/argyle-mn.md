@@ -1,9 +1,7 @@
 ---
-title: "Argyle, Minnesota Business Directory"
+title: "Argyle, MN Business Directory"
+type: "towns"
 slug: "argyle-mn"
-town: "Argyle"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Marshall"
-population: 1756
+state: "mn"
+town_data: "argyle-mn"
 ---

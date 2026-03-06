@@ -1,9 +1,7 @@
 ---
-title: "Douds, Iowa Business Directory"
+title: "Douds, IA Business Directory"
+type: "towns"
 slug: "douds-ia"
-town: "Douds"
-state: "Iowa"
-state_abbr: "IA"
-county: "Van Buren"
-population: 3480
+state: "ia"
+town_data: "douds-ia"
 ---

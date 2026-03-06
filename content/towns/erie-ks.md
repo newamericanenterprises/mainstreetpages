@@ -1,9 +1,7 @@
 ---
-title: "Erie, Kansas Business Directory"
+title: "Erie, KS Business Directory"
+type: "towns"
 slug: "erie-ks"
-town: "Erie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Neosho"
-population: 696
+state: "ks"
+town_data: "erie-ks"
 ---

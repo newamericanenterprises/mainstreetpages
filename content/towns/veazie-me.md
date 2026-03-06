@@ -1,9 +1,7 @@
 ---
-title: "Veazie, Maine Business Directory"
+title: "Veazie, ME Business Directory"
+type: "towns"
 slug: "veazie-me"
-town: "Veazie"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2457
+state: "me"
+town_data: "veazie-me"
 ---

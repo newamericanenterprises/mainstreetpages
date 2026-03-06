@@ -1,7 +1,7 @@
 ---
-title: "Perryville, Missouri Business Directory"
+title: "Perryville, MO Business Directory"
+type: "towns"
 slug: "perryville-mo"
-state: "MO"
-county: "Perry"
-population: 8225
+state: "mo"
+town_data: "perryville-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Bedford, Indiana Business Directory"
+title: "Bedford, IN Business Directory"
+type: "towns"
 slug: "bedford-in"
-town: "Bedford"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lawrence"
-population: 13237
+state: "in"
+town_data: "bedford-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Norton, Massachusetts Business Directory"
+title: "Norton, MA Business Directory"
+type: "towns"
 slug: "norton-ma"
-town: "Norton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Bristol"
-population: 3822
+state: "ma"
+town_data: "norton-ma"
 ---

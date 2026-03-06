@@ -1,7 +1,7 @@
 ---
-title: "Fulton, Mississippi Business Directory"
+title: "Fulton, MS Business Directory"
+type: "towns"
 slug: "fulton-ms"
-state: "MS"
-county: "Itawamba"
-population: 4065
+state: "ms"
+town_data: "fulton-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Biloxi, Mississippi Business Directory"
+title: "Biloxi, MS Business Directory"
+type: "towns"
 slug: "biloxi-ms"
-state: "MS"
-county: "Harrison"
-population: 47021
+state: "ms"
+town_data: "biloxi-ms"
 ---

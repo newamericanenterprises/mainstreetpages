@@ -1,9 +1,7 @@
 ---
-title: "Badger, Minnesota Business Directory"
+title: "Badger, MN Business Directory"
+type: "towns"
 slug: "badger-mn"
-town: "Badger"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Roseau"
-population: 2078
+state: "mn"
+town_data: "badger-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Monona, Iowa Business Directory"
+title: "Monona, IA Business Directory"
+type: "towns"
 slug: "monona-ia"
-town: "Monona"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clayton"
-population: 3405
+state: "ia"
+town_data: "monona-ia"
 ---

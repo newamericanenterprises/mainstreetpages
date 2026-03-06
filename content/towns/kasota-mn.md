@@ -1,9 +1,7 @@
 ---
-title: "Kasota, Minnesota Business Directory"
+title: "Kasota, MN Business Directory"
+type: "towns"
 slug: "kasota-mn"
-town: "Kasota"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Le Sueur"
-population: 1041
+state: "mn"
+town_data: "kasota-mn"
 ---

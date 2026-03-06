@@ -1,7 +1,7 @@
 ---
-title: "Washington, Missouri Business Directory"
+title: "Washington, MO Business Directory"
+type: "towns"
 slug: "washington-mo"
-state: "MO"
-county: "Franklin"
-population: 14092
+state: "mo"
+town_data: "washington-mo"
 ---

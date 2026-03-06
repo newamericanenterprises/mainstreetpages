@@ -1,9 +1,7 @@
 ---
-title: "Collins, Iowa Business Directory"
+title: "Collins, IA Business Directory"
+type: "towns"
 slug: "collins-ia"
-town: "Collins"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 2206
+state: "ia"
+town_data: "collins-ia"
 ---

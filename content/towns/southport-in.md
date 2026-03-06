@@ -1,9 +1,7 @@
 ---
-title: "Southport, Indiana Business Directory"
+title: "Southport, IN Business Directory"
+type: "towns"
 slug: "southport-in"
-town: "Southport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marion"
-population: 2786
+state: "in"
+town_data: "southport-in"
 ---

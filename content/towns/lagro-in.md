@@ -1,9 +1,7 @@
 ---
-title: "Lagro, Indiana Business Directory"
+title: "Lagro, IN Business Directory"
+type: "towns"
 slug: "lagro-in"
-town: "Lagro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 1254
+state: "in"
+town_data: "lagro-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Scribner, Nebraska Business Directory"
+title: "Scribner, NE Business Directory"
+type: "towns"
 slug: "scribner-ne"
-state: "NE"
-county: "Dodge"
-population: 857
+state: "ne"
+town_data: "scribner-ne"
 ---

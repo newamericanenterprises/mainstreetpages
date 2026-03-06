@@ -1,9 +1,7 @@
 ---
-title: "Cooper, Iowa Business Directory"
+title: "Cooper, IA Business Directory"
+type: "towns"
 slug: "cooper-ia"
-town: "Cooper"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 1682
+state: "ia"
+town_data: "cooper-ia"
 ---

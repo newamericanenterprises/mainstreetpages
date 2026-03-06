@@ -1,9 +1,7 @@
 ---
-title: "Primghar, Iowa Business Directory"
+title: "Primghar, IA Business Directory"
+type: "towns"
 slug: "primghar-ia"
-town: "Primghar"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 1728
+state: "ia"
+town_data: "primghar-ia"
 ---

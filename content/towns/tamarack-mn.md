@@ -1,9 +1,7 @@
 ---
-title: "Tamarack, Minnesota Business Directory"
+title: "Tamarack, MN Business Directory"
+type: "towns"
 slug: "tamarack-mn"
-town: "Tamarack"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Aitkin"
-population: 2282
+state: "mn"
+town_data: "tamarack-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Elk Horn, Iowa Business Directory"
+title: "Elk Horn, IA Business Directory"
+type: "towns"
 slug: "elk-horn-ia"
-town: "Elk Horn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Shelby"
-population: 1492
+state: "ia"
+town_data: "elk-horn-ia"
 ---

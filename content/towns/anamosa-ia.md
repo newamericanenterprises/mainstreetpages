@@ -1,9 +1,7 @@
 ---
-title: "Anamosa, Iowa Business Directory"
+title: "Anamosa, IA Business Directory"
+type: "towns"
 slug: "anamosa-ia"
-town: "Anamosa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jones"
-population: 5533
+state: "ia"
+town_data: "anamosa-ia"
 ---

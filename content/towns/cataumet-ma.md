@@ -1,9 +1,7 @@
 ---
-title: "Cataumet, Massachusetts Business Directory"
+title: "Cataumet, MA Business Directory"
+type: "towns"
 slug: "cataumet-ma"
-town: "Cataumet"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 2894
+state: "ma"
+town_data: "cataumet-ma"
 ---

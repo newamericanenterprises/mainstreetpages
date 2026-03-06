@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Kentucky Business Directory"
+title: "Manchester, KY Business Directory"
+type: "towns"
 slug: "manchester-ky"
-town: "Manchester"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Clay"
-population: 1468
+state: "ky"
+town_data: "manchester-ky"
 ---

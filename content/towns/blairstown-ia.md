@@ -1,9 +1,7 @@
 ---
-title: "Blairstown, Iowa Business Directory"
+title: "Blairstown, IA Business Directory"
+type: "towns"
 slug: "blairstown-ia"
-town: "Blairstown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 1037
+state: "ia"
+town_data: "blairstown-ia"
 ---

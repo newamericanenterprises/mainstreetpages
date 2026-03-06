@@ -1,9 +1,7 @@
 ---
-title: "Belleville, Kansas Business Directory"
+title: "Belleville, KS Business Directory"
+type: "towns"
 slug: "belleville-ks"
-town: "Belleville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 1876
+state: "ks"
+town_data: "belleville-ks"
 ---

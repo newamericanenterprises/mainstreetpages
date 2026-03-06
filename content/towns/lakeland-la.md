@@ -1,9 +1,7 @@
 ---
-title: "Lakeland, Louisiana Business Directory"
+title: "Lakeland, LA Business Directory"
+type: "towns"
 slug: "lakeland-la"
-town: "Lakeland"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Pointe Coupee"
-population: 805
+state: "la"
+town_data: "lakeland-la"
 ---

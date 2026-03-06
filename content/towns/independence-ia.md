@@ -1,9 +1,7 @@
 ---
-title: "Independence, Iowa Business Directory"
+title: "Independence, IA Business Directory"
+type: "towns"
 slug: "independence-ia"
-town: "Independence"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 6033
+state: "ia"
+town_data: "independence-ia"
 ---

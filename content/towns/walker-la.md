@@ -1,9 +1,7 @@
 ---
-title: "Walker, Louisiana Business Directory"
+title: "Walker, LA Business Directory"
+type: "towns"
 slug: "walker-la"
-town: "Walker"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 6623
+state: "la"
+town_data: "walker-la"
 ---

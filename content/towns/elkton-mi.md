@@ -1,9 +1,7 @@
 ---
-title: "Elkton, Michigan Business Directory"
+title: "Elkton, MI Business Directory"
+type: "towns"
 slug: "elkton-mi"
-town: "Elkton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 1017
+state: "mi"
+town_data: "elkton-mi"
 ---

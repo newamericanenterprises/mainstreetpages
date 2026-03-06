@@ -1,9 +1,7 @@
 ---
-title: "Kinney, Minnesota Business Directory"
+title: "Kinney, MN Business Directory"
+type: "towns"
 slug: "kinney-mn"
-town: "Kinney"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 1285
+state: "mn"
+town_data: "kinney-mn"
 ---

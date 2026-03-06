@@ -1,7 +1,7 @@
 ---
-title: "Lodge Grass, Montana Business Directory"
+title: "Lodge Grass, MT Business Directory"
+type: "towns"
 slug: "lodge-grass-mt"
-state: "MT"
-county: "Big Horn"
-population: 428
+state: "mt"
+town_data: "lodge-grass-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Denham Springs, Louisiana Business Directory"
+title: "Denham Springs, LA Business Directory"
+type: "towns"
 slug: "denham-springs-la"
-town: "Denham Springs"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 10629
+state: "la"
+town_data: "denham-springs-la"
 ---

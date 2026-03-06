@@ -1,9 +1,7 @@
 ---
-title: "Winchester, Kansas Business Directory"
+title: "Winchester, KS Business Directory"
+type: "towns"
 slug: "winchester-ks"
-town: "Winchester"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 640
+state: "ks"
+town_data: "winchester-ks"
 ---

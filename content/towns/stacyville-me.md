@@ -1,9 +1,7 @@
 ---
-title: "Stacyville, Maine Business Directory"
+title: "Stacyville, ME Business Directory"
+type: "towns"
 slug: "stacyville-me"
-town: "Stacyville"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 796
+state: "me"
+town_data: "stacyville-me"
 ---

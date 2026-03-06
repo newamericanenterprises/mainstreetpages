@@ -1,9 +1,7 @@
 ---
-title: "Hornbeck, Louisiana Business Directory"
+title: "Hornbeck, LA Business Directory"
+type: "towns"
 slug: "hornbeck-la"
-town: "Hornbeck"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 2638
+state: "la"
+town_data: "hornbeck-la"
 ---

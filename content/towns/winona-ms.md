@@ -1,7 +1,7 @@
 ---
-title: "Winona, Mississippi Business Directory"
+title: "Winona, MS Business Directory"
+type: "towns"
 slug: "winona-ms"
-state: "MS"
-county: "Montgomery"
-population: 4607
+state: "ms"
+town_data: "winona-ms"
 ---

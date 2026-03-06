@@ -1,9 +1,7 @@
 ---
-title: "Duxbury, Massachusetts Business Directory"
+title: "Duxbury, MA Business Directory"
+type: "towns"
 slug: "duxbury-ma"
-town: "Duxbury"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 6382
+state: "ma"
+town_data: "duxbury-ma"
 ---

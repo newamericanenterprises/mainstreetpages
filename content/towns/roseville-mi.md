@@ -1,9 +1,7 @@
 ---
-title: "Roseville, Michigan Business Directory"
+title: "Roseville, MI Business Directory"
+type: "towns"
 slug: "roseville-mi"
-town: "Roseville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 47427
+state: "mi"
+town_data: "roseville-mi"
 ---

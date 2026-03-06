@@ -1,9 +1,7 @@
 ---
-title: "Roscommon, Michigan Business Directory"
+title: "Roscommon, MI Business Directory"
+type: "towns"
 slug: "roscommon-mi"
-town: "Roscommon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Roscommon"
-population: 3967
+state: "mi"
+town_data: "roscommon-mi"
 ---

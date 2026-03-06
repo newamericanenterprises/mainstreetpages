@@ -1,9 +1,7 @@
 ---
-title: "McLouth, Kansas Business Directory"
+title: "McLouth, KS Business Directory"
+type: "towns"
 slug: "mclouth-ks"
-town: "McLouth"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 1357
+state: "ks"
+town_data: "mclouth-ks"
 ---

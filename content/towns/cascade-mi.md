@@ -1,9 +1,7 @@
 ---
-title: "Cascade, Michigan Business Directory"
+title: "Cascade, MI Business Directory"
+type: "towns"
 slug: "cascade-mi"
-town: "Cascade"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 2996
+state: "mi"
+town_data: "cascade-mi"
 ---

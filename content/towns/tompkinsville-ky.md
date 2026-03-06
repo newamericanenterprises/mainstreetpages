@@ -1,9 +1,7 @@
 ---
-title: "Tompkinsville, Kentucky Business Directory"
+title: "Tompkinsville, KY Business Directory"
+type: "towns"
 slug: "tompkinsville-ky"
-town: "Tompkinsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Monroe"
-population: 2266
+state: "ky"
+town_data: "tompkinsville-ky"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Peru, Nebraska Business Directory"
+title: "Peru, NE Business Directory"
+type: "towns"
 slug: "peru-ne"
-state: "NE"
-county: "Nemaha"
-population: 500
+state: "ne"
+town_data: "peru-ne"
 ---

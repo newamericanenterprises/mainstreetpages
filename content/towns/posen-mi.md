@@ -1,9 +1,7 @@
 ---
-title: "Posen, Michigan Business Directory"
+title: "Posen, MI Business Directory"
+type: "towns"
 slug: "posen-mi"
-town: "Posen"
-state: "Michigan"
-state_abbr: "MI"
-county: "Presque Isle"
-population: 5250
+state: "mi"
+town_data: "posen-mi"
 ---

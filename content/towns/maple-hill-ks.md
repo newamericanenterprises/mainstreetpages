@@ -1,9 +1,7 @@
 ---
-title: "Maple Hill, Kansas Business Directory"
+title: "Maple Hill, KS Business Directory"
+type: "towns"
 slug: "maple-hill-ks"
-town: "Maple Hill"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wabaunsee"
-population: 609
+state: "ks"
+town_data: "maple-hill-ks"
 ---

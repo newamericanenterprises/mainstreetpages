@@ -1,9 +1,7 @@
 ---
-title: "Brownstown, Indiana Business Directory"
+title: "Brownstown, IN Business Directory"
+type: "towns"
 slug: "brownstown-in"
-town: "Brownstown"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jackson"
-population: 808
+state: "in"
+town_data: "brownstown-in"
 ---

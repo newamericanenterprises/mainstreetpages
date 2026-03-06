@@ -1,7 +1,7 @@
 ---
-title: "Viola, Missouri Business Directory"
+title: "Viola, MO Business Directory"
+type: "towns"
 slug: "viola-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "viola-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ravenna, Minnesota Business Directory"
+title: "Ravenna, MN Business Directory"
+type: "towns"
 slug: "ravenna-mn"
-town: "Ravenna"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 663
+state: "mn"
+town_data: "ravenna-mn"
 ---

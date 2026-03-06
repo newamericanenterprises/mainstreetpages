@@ -1,7 +1,7 @@
 ---
-title: "Superior, Montana Business Directory"
+title: "Superior, MT Business Directory"
+type: "towns"
 slug: "superior-mt"
-state: "MT"
-county: "Mineral"
-population: 812
+state: "mt"
+town_data: "superior-mt"
 ---

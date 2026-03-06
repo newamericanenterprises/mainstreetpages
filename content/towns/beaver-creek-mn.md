@@ -1,9 +1,7 @@
 ---
-title: "Beaver Creek, Minnesota Business Directory"
+title: "Beaver Creek, MN Business Directory"
+type: "towns"
 slug: "beaver-creek-mn"
-town: "Beaver Creek"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 2468
+state: "mn"
+town_data: "beaver-creek-mn"
 ---

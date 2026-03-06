@@ -1,9 +1,7 @@
 ---
-title: "Sioux Center, Iowa Business Directory"
+title: "Sioux Center, IA Business Directory"
+type: "towns"
 slug: "sioux-center-ia"
-town: "Sioux Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sioux"
-population: 7605
+state: "ia"
+town_data: "sioux-center-ia"
 ---

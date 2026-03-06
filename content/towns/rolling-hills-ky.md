@@ -1,9 +1,7 @@
 ---
-title: "Rolling Hills, Kentucky Business Directory"
+title: "Rolling Hills, KY Business Directory"
+type: "towns"
 slug: "rolling-hills-ky"
-town: "Rolling Hills"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Jefferson"
-population: 1965
+state: "ky"
+town_data: "rolling-hills-ky"
 ---

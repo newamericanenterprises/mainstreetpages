@@ -1,9 +1,7 @@
 ---
-title: "Pewamo, Michigan Business Directory"
+title: "Pewamo, MI Business Directory"
+type: "towns"
 slug: "pewamo-mi"
-town: "Pewamo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 1139
+state: "mi"
+town_data: "pewamo-mi"
 ---

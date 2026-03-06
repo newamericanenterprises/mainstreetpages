@@ -1,7 +1,7 @@
 ---
-title: "Potosi, Missouri Business Directory"
+title: "Potosi, MO Business Directory"
+type: "towns"
 slug: "potosi-mo"
-state: "MO"
-county: "Washington"
-population: 2660
+state: "mo"
+town_data: "potosi-mo"
 ---

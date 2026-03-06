@@ -1,7 +1,7 @@
 ---
-title: "Collinsville, Mississippi Business Directory"
+title: "Collinsville, MS Business Directory"
+type: "towns"
 slug: "collinsville-ms"
-state: "MS"
-county: "Lauderdale"
-population: 1500
+state: "ms"
+town_data: "collinsville-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lehigh, Kansas Business Directory"
+title: "Lehigh, KS Business Directory"
+type: "towns"
 slug: "lehigh-ks"
-town: "Lehigh"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 2647
+state: "ks"
+town_data: "lehigh-ks"
 ---

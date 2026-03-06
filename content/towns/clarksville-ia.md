@@ -1,9 +1,7 @@
 ---
-title: "Clarksville, Iowa Business Directory"
+title: "Clarksville, IA Business Directory"
+type: "towns"
 slug: "clarksville-ia"
-town: "Clarksville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2322
+state: "ia"
+town_data: "clarksville-ia"
 ---

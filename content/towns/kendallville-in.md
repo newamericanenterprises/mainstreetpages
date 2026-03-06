@@ -1,9 +1,7 @@
 ---
-title: "Kendallville, Indiana Business Directory"
+title: "Kendallville, IN Business Directory"
+type: "towns"
 slug: "kendallville-in"
-town: "Kendallville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 9928
+state: "in"
+town_data: "kendallville-in"
 ---

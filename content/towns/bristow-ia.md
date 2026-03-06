@@ -1,9 +1,7 @@
 ---
-title: "Bristow, Iowa Business Directory"
+title: "Bristow, IA Business Directory"
+type: "towns"
 slug: "bristow-ia"
-town: "Bristow"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2237
+state: "ia"
+town_data: "bristow-ia"
 ---

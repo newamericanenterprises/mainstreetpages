@@ -1,9 +1,7 @@
 ---
-title: "Middlebury, Indiana Business Directory"
+title: "Middlebury, IN Business Directory"
+type: "towns"
 slug: "middlebury-in"
-town: "Middlebury"
-state: "Indiana"
-state_abbr: "IN"
-county: "Elkhart"
-population: 5268
+state: "in"
+town_data: "middlebury-in"
 ---

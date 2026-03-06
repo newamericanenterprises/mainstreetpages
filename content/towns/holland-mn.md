@@ -1,9 +1,7 @@
 ---
-title: "Holland, Minnesota Business Directory"
+title: "Holland, MN Business Directory"
+type: "towns"
 slug: "holland-mn"
-town: "Holland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 1350
+state: "mn"
+town_data: "holland-mn"
 ---

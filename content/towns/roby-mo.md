@@ -1,7 +1,7 @@
 ---
-title: "Roby, Missouri Business Directory"
+title: "Roby, MO Business Directory"
+type: "towns"
 slug: "roby-mo"
-state: "MO"
-county: "Texas"
-population: 1500
+state: "mo"
+town_data: "roby-mo"
 ---

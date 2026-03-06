@@ -1,9 +1,7 @@
 ---
-title: "Mount Sterling, Kentucky Business Directory"
+title: "Mount Sterling, KY Business Directory"
+type: "towns"
 slug: "mount-sterling-ky"
-town: "Mount Sterling"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Montgomery"
-population: 7569
+state: "ky"
+town_data: "mount-sterling-ky"
 ---

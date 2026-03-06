@@ -1,9 +1,7 @@
 ---
-title: "Hoxie, Kansas Business Directory"
+title: "Hoxie, KS Business Directory"
+type: "towns"
 slug: "hoxie-ks"
-town: "Hoxie"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sheridan"
-population: 1171
+state: "ks"
+town_data: "hoxie-ks"
 ---

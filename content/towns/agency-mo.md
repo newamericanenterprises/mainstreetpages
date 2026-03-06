@@ -1,7 +1,7 @@
 ---
-title: "Agency, Missouri Business Directory"
+title: "Agency, MO Business Directory"
+type: "towns"
 slug: "agency-mo"
-state: "MO"
-county: "Buchanan"
-population: 1500
+state: "mo"
+town_data: "agency-mo"
 ---

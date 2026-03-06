@@ -1,7 +1,7 @@
 ---
-title: "Kosciusko, Mississippi Business Directory"
+title: "Kosciusko, MS Business Directory"
+type: "towns"
 slug: "kosciusko-ms"
-state: "MS"
-county: "Attala"
-population: 7402
+state: "ms"
+town_data: "kosciusko-ms"
 ---

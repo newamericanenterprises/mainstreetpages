@@ -1,9 +1,7 @@
 ---
-title: "Hillsboro, Iowa Business Directory"
+title: "Hillsboro, IA Business Directory"
+type: "towns"
 slug: "hillsboro-ia"
-town: "Hillsboro"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 637
+state: "ia"
+town_data: "hillsboro-ia"
 ---

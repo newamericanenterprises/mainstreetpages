@@ -1,9 +1,7 @@
 ---
-title: "Gouldsboro, Maine Business Directory"
+title: "Gouldsboro, ME Business Directory"
+type: "towns"
 slug: "gouldsboro-me"
-town: "Gouldsboro"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 456
+state: "me"
+town_data: "gouldsboro-me"
 ---

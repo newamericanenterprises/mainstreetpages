@@ -1,7 +1,7 @@
 ---
-title: "Sontag, Mississippi Business Directory"
+title: "Sontag, MS Business Directory"
+type: "towns"
 slug: "sontag-ms"
-state: "MS"
-county: "Lawrence"
-population: 74
+state: "ms"
+town_data: "sontag-ms"
 ---

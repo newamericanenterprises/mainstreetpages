@@ -1,9 +1,7 @@
 ---
-title: "Strong, Maine Business Directory"
+title: "Strong, ME Business Directory"
+type: "towns"
 slug: "strong-me"
-town: "Strong"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 2531
+state: "me"
+town_data: "strong-me"
 ---

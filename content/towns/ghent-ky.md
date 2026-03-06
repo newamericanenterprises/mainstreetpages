@@ -1,9 +1,7 @@
 ---
-title: "Ghent, Kentucky Business Directory"
+title: "Ghent, KY Business Directory"
+type: "towns"
 slug: "ghent-ky"
-town: "Ghent"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carroll"
-population: 2217
+state: "ky"
+town_data: "ghent-ky"
 ---

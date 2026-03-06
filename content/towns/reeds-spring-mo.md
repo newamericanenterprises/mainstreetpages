@@ -1,7 +1,7 @@
 ---
-title: "Reeds Spring, Missouri Business Directory"
+title: "Reeds Spring, MO Business Directory"
+type: "towns"
 slug: "reeds-spring-mo"
-state: "MO"
-county: "Stone"
-population: 1500
+state: "mo"
+town_data: "reeds-spring-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Blaine, Minnesota Business Directory"
+title: "Blaine, MN Business Directory"
+type: "towns"
 slug: "blaine-mn"
-town: "Blaine"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 70222
+state: "mn"
+town_data: "blaine-mn"
 ---

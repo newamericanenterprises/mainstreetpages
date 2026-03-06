@@ -1,9 +1,7 @@
 ---
-title: "Elwood, Kansas Business Directory"
+title: "Elwood, KS Business Directory"
+type: "towns"
 slug: "elwood-ks"
-town: "Elwood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 3039
+state: "ks"
+town_data: "elwood-ks"
 ---

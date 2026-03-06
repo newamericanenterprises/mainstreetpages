@@ -1,9 +1,7 @@
 ---
-title: "Marion, Indiana Business Directory"
+title: "Marion, IN Business Directory"
+type: "towns"
 slug: "marion-in"
-town: "Marion"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 28619
+state: "in"
+town_data: "marion-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hardy, Iowa Business Directory"
+title: "Hardy, IA Business Directory"
+type: "towns"
 slug: "hardy-ia"
-town: "Hardy"
-state: "Iowa"
-state_abbr: "IA"
-county: "Humboldt"
-population: 767
+state: "ia"
+town_data: "hardy-ia"
 ---

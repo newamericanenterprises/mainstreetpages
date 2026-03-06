@@ -1,9 +1,7 @@
 ---
-title: "Owingsville, Kentucky Business Directory"
+title: "Owingsville, KY Business Directory"
+type: "towns"
 slug: "owingsville-ky"
-town: "Owingsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bath"
-population: 1535
+state: "ky"
+town_data: "owingsville-ky"
 ---

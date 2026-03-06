@@ -1,9 +1,7 @@
 ---
-title: "Dulac, Louisiana Business Directory"
+title: "Dulac, LA Business Directory"
+type: "towns"
 slug: "dulac-la"
-town: "Dulac"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 610
+state: "la"
+town_data: "dulac-la"
 ---

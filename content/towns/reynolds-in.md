@@ -1,9 +1,7 @@
 ---
-title: "Reynolds, Indiana Business Directory"
+title: "Reynolds, IN Business Directory"
+type: "towns"
 slug: "reynolds-in"
-town: "Reynolds"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 3951
+state: "in"
+town_data: "reynolds-in"
 ---

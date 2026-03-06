@@ -1,7 +1,7 @@
 ---
-title: "Marston, Missouri Business Directory"
+title: "Marston, MO Business Directory"
+type: "towns"
 slug: "marston-mo"
-state: "MO"
-county: "New Madrid"
-population: 453
+state: "mo"
+town_data: "marston-mo"
 ---

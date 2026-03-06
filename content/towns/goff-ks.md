@@ -1,9 +1,7 @@
 ---
-title: "Goff, Kansas Business Directory"
+title: "Goff, KS Business Directory"
+type: "towns"
 slug: "goff-ks"
-town: "Goff"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 1810
+state: "ks"
+town_data: "goff-ks"
 ---

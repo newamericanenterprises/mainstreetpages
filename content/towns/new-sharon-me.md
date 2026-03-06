@@ -1,9 +1,7 @@
 ---
-title: "New Sharon, Maine Business Directory"
+title: "New Sharon, ME Business Directory"
+type: "towns"
 slug: "new-sharon-me"
-town: "New Sharon"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 893
+state: "me"
+town_data: "new-sharon-me"
 ---

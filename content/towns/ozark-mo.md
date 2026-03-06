@@ -1,7 +1,7 @@
 ---
-title: "Ozark, Missouri Business Directory"
+title: "Ozark, MO Business Directory"
+type: "towns"
 slug: "ozark-mo"
-state: "MO"
-county: "Christian"
-population: 21238
+state: "mo"
+town_data: "ozark-mo"
 ---

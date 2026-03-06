@@ -1,7 +1,7 @@
 ---
-title: "Boyd, Montana Business Directory"
+title: "Boyd, MT Business Directory"
+type: "towns"
 slug: "boyd-mt"
-state: "MT"
-county: "Carbon"
-population: 500
+state: "mt"
+town_data: "boyd-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Elkton, Maryland Business Directory"
+title: "Elkton, MD Business Directory"
+type: "towns"
 slug: "elkton-md"
-town: "Elkton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 15803
+state: "md"
+town_data: "elkton-md"
 ---

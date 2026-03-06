@@ -1,9 +1,7 @@
 ---
-title: "Bath, Michigan Business Directory"
+title: "Bath, MI Business Directory"
+type: "towns"
 slug: "bath-mi"
-town: "Bath"
-state: "Michigan"
-state_abbr: "MI"
-county: "Clinton"
-population: 2802
+state: "mi"
+town_data: "bath-mi"
 ---

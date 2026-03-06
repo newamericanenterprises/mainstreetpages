@@ -1,7 +1,7 @@
 ---
-title: "Wellsville, Missouri Business Directory"
+title: "Wellsville, MO Business Directory"
+type: "towns"
 slug: "wellsville-mo"
-state: "MO"
-county: "Montgomery"
-population: 1500
+state: "mo"
+town_data: "wellsville-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ashland, Kentucky Business Directory"
+title: "Ashland, KY Business Directory"
+type: "towns"
 slug: "ashland-ky"
-town: "Ashland"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boyd"
-population: 20082
+state: "ky"
+town_data: "ashland-ky"
 ---

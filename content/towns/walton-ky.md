@@ -1,9 +1,7 @@
 ---
-title: "Walton, Kentucky Business Directory"
+title: "Walton, KY Business Directory"
+type: "towns"
 slug: "walton-ky"
-town: "Walton"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 1806
+state: "ky"
+town_data: "walton-ky"
 ---

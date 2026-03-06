@@ -1,7 +1,7 @@
 ---
-title: "Lyman, Nebraska Business Directory"
+title: "Lyman, NE Business Directory"
+type: "towns"
 slug: "lyman-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 500
+state: "ne"
+town_data: "lyman-ne"
 ---

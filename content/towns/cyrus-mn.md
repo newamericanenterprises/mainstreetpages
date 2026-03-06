@@ -1,9 +1,7 @@
 ---
-title: "Cyrus, Minnesota Business Directory"
+title: "Cyrus, MN Business Directory"
+type: "towns"
 slug: "cyrus-mn"
-town: "Cyrus"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pope"
-population: 2898
+state: "mn"
+town_data: "cyrus-mn"
 ---

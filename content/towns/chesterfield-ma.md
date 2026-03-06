@@ -1,9 +1,7 @@
 ---
-title: "Chesterfield, Massachusetts Business Directory"
+title: "Chesterfield, MA Business Directory"
+type: "towns"
 slug: "chesterfield-ma"
-town: "Chesterfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 3208
+state: "ma"
+town_data: "chesterfield-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Osceola, Iowa Business Directory"
+title: "Osceola, IA Business Directory"
+type: "towns"
 slug: "osceola-ia"
-town: "Osceola"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clarke"
-population: 5048
+state: "ia"
+town_data: "osceola-ia"
 ---

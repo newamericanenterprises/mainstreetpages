@@ -1,7 +1,7 @@
 ---
-title: "King City, Missouri Business Directory"
+title: "King City, MO Business Directory"
+type: "towns"
 slug: "king-city-mo"
-state: "MO"
-county: "Gentry"
-population: 1038
+state: "mo"
+town_data: "king-city-mo"
 ---

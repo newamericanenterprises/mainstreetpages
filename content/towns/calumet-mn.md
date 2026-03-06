@@ -1,9 +1,7 @@
 ---
-title: "Calumet, Minnesota Business Directory"
+title: "Calumet, MN Business Directory"
+type: "towns"
 slug: "calumet-mn"
-town: "Calumet"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 1357
+state: "mn"
+town_data: "calumet-mn"
 ---

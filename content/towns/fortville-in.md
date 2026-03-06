@@ -1,9 +1,7 @@
 ---
-title: "Fortville, Indiana Business Directory"
+title: "Fortville, IN Business Directory"
+type: "towns"
 slug: "fortville-in"
-town: "Fortville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 4429
+state: "in"
+town_data: "fortville-in"
 ---

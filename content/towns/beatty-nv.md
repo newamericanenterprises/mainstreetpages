@@ -1,7 +1,7 @@
 ---
-title: "Beatty, Nevada Business Directory"
+title: "Beatty, NV Business Directory"
+type: "towns"
 slug: "beatty-nv"
-state: "NV"
-county: "Nye"
-population: 854
+state: "nv"
+town_data: "beatty-nv"
 ---

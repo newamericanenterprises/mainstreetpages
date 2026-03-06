@@ -1,9 +1,7 @@
 ---
-title: "Gruver, Iowa Business Directory"
+title: "Gruver, IA Business Directory"
+type: "towns"
 slug: "gruver-ia"
-town: "Gruver"
-state: "Iowa"
-state_abbr: "IA"
-county: "Emmet"
-population: 2797
+state: "ia"
+town_data: "gruver-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Smithfield, Maine Business Directory"
+title: "Smithfield, ME Business Directory"
+type: "towns"
 slug: "smithfield-me"
-town: "Smithfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2728
+state: "me"
+town_data: "smithfield-me"
 ---

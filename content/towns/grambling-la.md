@@ -1,9 +1,7 @@
 ---
-title: "Grambling, Louisiana Business Directory"
+title: "Grambling, LA Business Directory"
+type: "towns"
 slug: "grambling-la"
-town: "Grambling"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 1917
+state: "la"
+town_data: "grambling-la"
 ---

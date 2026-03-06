@@ -1,9 +1,7 @@
 ---
-title: "Lake Elmo, Minnesota Business Directory"
+title: "Lake Elmo, MN Business Directory"
+type: "towns"
 slug: "lake-elmo-mn"
-town: "Lake Elmo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 789
+state: "mn"
+town_data: "lake-elmo-mn"
 ---

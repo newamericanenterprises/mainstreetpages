@@ -1,9 +1,7 @@
 ---
-title: "Haubstadt, Indiana Business Directory"
+title: "Haubstadt, IN Business Directory"
+type: "towns"
 slug: "haubstadt-in"
-town: "Haubstadt"
-state: "Indiana"
-state_abbr: "IN"
-county: "Gibson"
-population: 5194
+state: "in"
+town_data: "haubstadt-in"
 ---

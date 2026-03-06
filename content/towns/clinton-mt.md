@@ -1,7 +1,7 @@
 ---
-title: "Clinton, Montana Business Directory"
+title: "Clinton, MT Business Directory"
+type: "towns"
 slug: "clinton-mt"
-state: "MT"
-county: "Missoula"
-population: 500
+state: "mt"
+town_data: "clinton-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Alto, Louisiana Business Directory"
+title: "Alto, LA Business Directory"
+type: "towns"
 slug: "alto-la"
-town: "Alto"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Richland"
-population: 3034
+state: "la"
+town_data: "alto-la"
 ---

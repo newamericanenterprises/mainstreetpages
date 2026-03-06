@@ -1,7 +1,7 @@
 ---
-title: "Wynot, Nebraska Business Directory"
+title: "Wynot, NE Business Directory"
+type: "towns"
 slug: "wynot-ne"
-state: "NE"
-county: "Cedar"
-population: 157
+state: "ne"
+town_data: "wynot-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Roland, Iowa Business Directory"
+title: "Roland, IA Business Directory"
+type: "towns"
 slug: "roland-ia"
-town: "Roland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Story"
-population: 1764
+state: "ia"
+town_data: "roland-ia"
 ---

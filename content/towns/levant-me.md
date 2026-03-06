@@ -1,9 +1,7 @@
 ---
-title: "Levant, Maine Business Directory"
+title: "Levant, ME Business Directory"
+type: "towns"
 slug: "levant-me"
-town: "Levant"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2224
+state: "me"
+town_data: "levant-me"
 ---

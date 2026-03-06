@@ -1,9 +1,7 @@
 ---
-title: "Patterson, Louisiana Business Directory"
+title: "Patterson, LA Business Directory"
+type: "towns"
 slug: "patterson-la"
-town: "Patterson"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 5952
+state: "la"
+town_data: "patterson-la"
 ---

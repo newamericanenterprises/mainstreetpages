@@ -1,9 +1,7 @@
 ---
-title: "Boylston, Massachusetts Business Directory"
+title: "Boylston, MA Business Directory"
+type: "towns"
 slug: "boylston-ma"
-town: "Boylston"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4035
+state: "ma"
+town_data: "boylston-ma"
 ---

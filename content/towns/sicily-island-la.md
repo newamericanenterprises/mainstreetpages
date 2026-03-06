@@ -1,9 +1,7 @@
 ---
-title: "Sicily Island, Louisiana Business Directory"
+title: "Sicily Island, LA Business Directory"
+type: "towns"
 slug: "sicily-island-la"
-town: "Sicily Island"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Catahoula"
-population: 3140
+state: "la"
+town_data: "sicily-island-la"
 ---

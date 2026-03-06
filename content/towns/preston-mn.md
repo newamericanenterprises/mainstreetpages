@@ -1,9 +1,7 @@
 ---
-title: "Preston, Minnesota Business Directory"
+title: "Preston, MN Business Directory"
+type: "towns"
 slug: "preston-mn"
-town: "Preston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Fillmore"
-population: 1302
+state: "mn"
+town_data: "preston-mn"
 ---

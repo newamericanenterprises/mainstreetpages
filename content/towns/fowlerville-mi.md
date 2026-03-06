@@ -1,9 +1,7 @@
 ---
-title: "Fowlerville, Michigan Business Directory"
+title: "Fowlerville, MI Business Directory"
+type: "towns"
 slug: "fowlerville-mi"
-town: "Fowlerville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 2309
+state: "mi"
+town_data: "fowlerville-mi"
 ---

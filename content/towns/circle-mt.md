@@ -1,7 +1,7 @@
 ---
-title: "Circle, Montana Business Directory"
+title: "Circle, MT Business Directory"
+type: "towns"
 slug: "circle-mt"
-state: "MT"
-county: "McCone"
-population: 615
+state: "mt"
+town_data: "circle-mt"
 ---

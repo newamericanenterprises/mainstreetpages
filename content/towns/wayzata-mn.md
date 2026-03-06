@@ -1,9 +1,7 @@
 ---
-title: "Wayzata, Minnesota Business Directory"
+title: "Wayzata, MN Business Directory"
+type: "towns"
 slug: "wayzata-mn"
-town: "Wayzata"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 3012
+state: "mn"
+town_data: "wayzata-mn"
 ---

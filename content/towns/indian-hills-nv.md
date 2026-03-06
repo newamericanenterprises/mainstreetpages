@@ -1,7 +1,7 @@
 ---
-title: "Indian Hills, Nevada Business Directory"
+title: "Indian Hills, NV Business Directory"
+type: "towns"
 slug: "indian-hills-nv"
-state: "NV"
-county: "Douglas"
-population: 6139
+state: "nv"
+town_data: "indian-hills-nv"
 ---

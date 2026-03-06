@@ -1,9 +1,7 @@
 ---
-title: "Downsville, Louisiana Business Directory"
+title: "Downsville, LA Business Directory"
+type: "towns"
 slug: "downsville-la"
-town: "Downsville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 1988
+state: "la"
+town_data: "downsville-la"
 ---

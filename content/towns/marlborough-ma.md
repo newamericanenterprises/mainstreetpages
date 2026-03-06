@@ -1,9 +1,7 @@
 ---
-title: "Marlborough, Massachusetts Business Directory"
+title: "Marlborough, MA Business Directory"
+type: "towns"
 slug: "marlborough-ma"
-town: "Marlborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 41793
+state: "ma"
+town_data: "marlborough-ma"
 ---

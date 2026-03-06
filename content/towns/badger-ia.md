@@ -1,9 +1,7 @@
 ---
-title: "Badger, Iowa Business Directory"
+title: "Badger, IA Business Directory"
+type: "towns"
 slug: "badger-ia"
-town: "Badger"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 1090
+state: "ia"
+town_data: "badger-ia"
 ---

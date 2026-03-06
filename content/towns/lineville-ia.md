@@ -1,9 +1,7 @@
 ---
-title: "Lineville, Iowa Business Directory"
+title: "Lineville, IA Business Directory"
+type: "towns"
 slug: "lineville-ia"
-town: "Lineville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wayne"
-population: 890
+state: "ia"
+town_data: "lineville-ia"
 ---

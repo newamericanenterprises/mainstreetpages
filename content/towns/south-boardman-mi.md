@@ -1,9 +1,7 @@
 ---
-title: "South Boardman, Michigan Business Directory"
+title: "South Boardman, MI Business Directory"
+type: "towns"
 slug: "south-boardman-mi"
-town: "South Boardman"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalkaska"
-population: 2672
+state: "mi"
+town_data: "south-boardman-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fairway, Kansas Business Directory"
+title: "Fairway, KS Business Directory"
+type: "towns"
 slug: "fairway-ks"
-town: "Fairway"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 499
+state: "ks"
+town_data: "fairway-ks"
 ---

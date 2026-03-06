@@ -1,9 +1,7 @@
 ---
-title: "Columbus, Kansas Business Directory"
+title: "Columbus, KS Business Directory"
+type: "towns"
 slug: "columbus-ks"
-town: "Columbus"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 2277
+state: "ks"
+town_data: "columbus-ks"
 ---

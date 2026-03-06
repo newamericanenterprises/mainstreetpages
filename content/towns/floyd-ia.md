@@ -1,9 +1,7 @@
 ---
-title: "Floyd, Iowa Business Directory"
+title: "Floyd, IA Business Directory"
+type: "towns"
 slug: "floyd-ia"
-town: "Floyd"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 2227
+state: "ia"
+town_data: "floyd-ia"
 ---

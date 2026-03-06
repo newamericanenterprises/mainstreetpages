@@ -1,9 +1,7 @@
 ---
-title: "Reserve, Kansas Business Directory"
+title: "Reserve, KS Business Directory"
+type: "towns"
 slug: "reserve-ks"
-town: "Reserve"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 1650
+state: "ks"
+town_data: "reserve-ks"
 ---

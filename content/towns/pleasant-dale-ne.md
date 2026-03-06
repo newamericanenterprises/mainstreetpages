@@ -1,7 +1,7 @@
 ---
-title: "Pleasant Dale, Nebraska Business Directory"
+title: "Pleasant Dale, NE Business Directory"
+type: "towns"
 slug: "pleasant-dale-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "pleasant-dale-ne"
 ---

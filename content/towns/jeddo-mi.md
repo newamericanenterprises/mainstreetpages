@@ -1,9 +1,7 @@
 ---
-title: "Jeddo, Michigan Business Directory"
+title: "Jeddo, MI Business Directory"
+type: "towns"
 slug: "jeddo-mi"
-town: "Jeddo"
-state: "Michigan"
-state_abbr: "MI"
-county: "St. Clair"
-population: 1310
+state: "mi"
+town_data: "jeddo-mi"
 ---

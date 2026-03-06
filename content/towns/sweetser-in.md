@@ -1,9 +1,7 @@
 ---
-title: "Sweetser, Indiana Business Directory"
+title: "Sweetser, IN Business Directory"
+type: "towns"
 slug: "sweetser-in"
-town: "Sweetser"
-state: "Indiana"
-state_abbr: "IN"
-county: "Grant"
-population: 3745
+state: "in"
+town_data: "sweetser-in"
 ---

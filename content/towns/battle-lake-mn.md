@@ -1,9 +1,7 @@
 ---
-title: "Battle Lake, Minnesota Business Directory"
+title: "Battle Lake, MN Business Directory"
+type: "towns"
 slug: "battle-lake-mn"
-town: "Battle Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Otter Tail"
-population: 1397
+state: "mn"
+town_data: "battle-lake-mn"
 ---

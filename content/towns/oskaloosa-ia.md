@@ -1,9 +1,7 @@
 ---
-title: "Oskaloosa, Iowa Business Directory"
+title: "Oskaloosa, IA Business Directory"
+type: "towns"
 slug: "oskaloosa-ia"
-town: "Oskaloosa"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 11463
+state: "ia"
+town_data: "oskaloosa-ia"
 ---

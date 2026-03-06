@@ -1,9 +1,7 @@
 ---
-title: "Carson, Iowa Business Directory"
+title: "Carson, IA Business Directory"
+type: "towns"
 slug: "carson-ia"
-town: "Carson"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pottawattamie"
-population: 2390
+state: "ia"
+town_data: "carson-ia"
 ---

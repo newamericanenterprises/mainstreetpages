@@ -1,9 +1,7 @@
 ---
-title: "Cannelburg, Indiana Business Directory"
+title: "Cannelburg, IN Business Directory"
+type: "towns"
 slug: "cannelburg-in"
-town: "Cannelburg"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 3969
+state: "in"
+town_data: "cannelburg-in"
 ---

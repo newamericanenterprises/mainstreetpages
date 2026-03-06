@@ -1,9 +1,7 @@
 ---
-title: "Ortonville, Minnesota Business Directory"
+title: "Ortonville, MN Business Directory"
+type: "towns"
 slug: "ortonville-mn"
-town: "Ortonville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 1916
+state: "mn"
+town_data: "ortonville-mn"
 ---

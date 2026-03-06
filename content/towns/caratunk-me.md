@@ -1,9 +1,7 @@
 ---
-title: "Caratunk, Maine Business Directory"
+title: "Caratunk, ME Business Directory"
+type: "towns"
 slug: "caratunk-me"
-town: "Caratunk"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 865
+state: "me"
+town_data: "caratunk-me"
 ---

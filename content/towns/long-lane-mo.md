@@ -1,7 +1,7 @@
 ---
-title: "Long Lane, Missouri Business Directory"
+title: "Long Lane, MO Business Directory"
+type: "towns"
 slug: "long-lane-mo"
-state: "MO"
-county: "Dallas"
-population: 1500
+state: "mo"
+town_data: "long-lane-mo"
 ---

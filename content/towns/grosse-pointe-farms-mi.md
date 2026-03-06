@@ -1,9 +1,7 @@
 ---
-title: "Grosse Pointe Farms, Michigan Business Directory"
+title: "Grosse Pointe Farms, MI Business Directory"
+type: "towns"
 slug: "grosse-pointe-farms-mi"
-town: "Grosse Pointe Farms"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 2752
+state: "mi"
+town_data: "grosse-pointe-farms-mi"
 ---

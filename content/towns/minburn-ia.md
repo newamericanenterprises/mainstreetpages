@@ -1,9 +1,7 @@
 ---
-title: "Minburn, Iowa Business Directory"
+title: "Minburn, IA Business Directory"
+type: "towns"
 slug: "minburn-ia"
-town: "Minburn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 789
+state: "ia"
+town_data: "minburn-ia"
 ---

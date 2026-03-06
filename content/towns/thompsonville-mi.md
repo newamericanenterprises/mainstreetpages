@@ -1,9 +1,7 @@
 ---
-title: "Thompsonville, Michigan Business Directory"
+title: "Thompsonville, MI Business Directory"
+type: "towns"
 slug: "thompsonville-mi"
-town: "Thompsonville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Benzie"
-population: 3328
+state: "mi"
+town_data: "thompsonville-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Beemer, Nebraska Business Directory"
+title: "Beemer, NE Business Directory"
+type: "towns"
 slug: "beemer-ne"
-state: "NE"
-county: "Cuming"
-population: 500
+state: "ne"
+town_data: "beemer-ne"
 ---

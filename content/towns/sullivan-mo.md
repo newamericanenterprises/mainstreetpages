@@ -1,7 +1,7 @@
 ---
-title: "Sullivan, Missouri Business Directory"
+title: "Sullivan, MO Business Directory"
+type: "towns"
 slug: "sullivan-mo"
-state: "MO"
-county: "Franklin"
-population: 7048
+state: "mo"
+town_data: "sullivan-mo"
 ---

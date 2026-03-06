@@ -1,7 +1,7 @@
 ---
-title: "Valier, Montana Business Directory"
+title: "Valier, MT Business Directory"
+type: "towns"
 slug: "valier-mt"
-state: "MT"
-county: "Pondera"
-population: 509
+state: "mt"
+town_data: "valier-mt"
 ---

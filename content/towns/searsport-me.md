@@ -1,9 +1,7 @@
 ---
-title: "Searsport, Maine Business Directory"
+title: "Searsport, ME Business Directory"
+type: "towns"
 slug: "searsport-me"
-town: "Searsport"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 2642
+state: "me"
+town_data: "searsport-me"
 ---

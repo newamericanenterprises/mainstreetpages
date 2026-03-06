@@ -1,7 +1,7 @@
 ---
-title: "Adrian, Missouri Business Directory"
+title: "Adrian, MO Business Directory"
+type: "towns"
 slug: "adrian-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "adrian-mo"
 ---

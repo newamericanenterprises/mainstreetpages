@@ -1,9 +1,7 @@
 ---
-title: "St. Francis, Maine Business Directory"
+title: "St. Francis, ME Business Directory"
+type: "towns"
 slug: "st-francis-me"
-town: "St. Francis"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1702
+state: "me"
+town_data: "st-francis-me"
 ---

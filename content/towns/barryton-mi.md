@@ -1,9 +1,7 @@
 ---
-title: "Barryton, Michigan Business Directory"
+title: "Barryton, MI Business Directory"
+type: "towns"
 slug: "barryton-mi"
-town: "Barryton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mecosta"
-population: 4288
+state: "mi"
+town_data: "barryton-mi"
 ---

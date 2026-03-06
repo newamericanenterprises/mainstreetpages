@@ -1,9 +1,7 @@
 ---
-title: "De Soto, Iowa Business Directory"
+title: "De Soto, IA Business Directory"
+type: "towns"
 slug: "de-soto-ia"
-town: "De Soto"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 2473
+state: "ia"
+town_data: "de-soto-ia"
 ---

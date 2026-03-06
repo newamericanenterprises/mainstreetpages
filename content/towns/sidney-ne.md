@@ -1,7 +1,7 @@
 ---
-title: "Sidney, Nebraska Business Directory"
+title: "Sidney, NE Business Directory"
+type: "towns"
 slug: "sidney-ne"
-state: "NE"
-county: "Cheyenne"
-population: 6757
+state: "ne"
+town_data: "sidney-ne"
 ---

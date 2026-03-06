@@ -1,9 +1,7 @@
 ---
-title: "Bazine, Kansas Business Directory"
+title: "Bazine, KS Business Directory"
+type: "towns"
 slug: "bazine-ks"
-town: "Bazine"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ness"
-population: 1327
+state: "ks"
+town_data: "bazine-ks"
 ---

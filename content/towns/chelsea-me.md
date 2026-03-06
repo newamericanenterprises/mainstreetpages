@@ -1,9 +1,7 @@
 ---
-title: "Chelsea, Maine Business Directory"
+title: "Chelsea, ME Business Directory"
+type: "towns"
 slug: "chelsea-me"
-town: "Chelsea"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 317
+state: "me"
+town_data: "chelsea-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Rabbit Hash, Kentucky Business Directory"
+title: "Rabbit Hash, KY Business Directory"
+type: "towns"
 slug: "rabbit-hash-ky"
-town: "Rabbit Hash"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 2749
+state: "ky"
+town_data: "rabbit-hash-ky"
 ---

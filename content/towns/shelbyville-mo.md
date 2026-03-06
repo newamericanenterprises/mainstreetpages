@@ -1,7 +1,7 @@
 ---
-title: "Shelbyville, Missouri Business Directory"
+title: "Shelbyville, MO Business Directory"
+type: "towns"
 slug: "shelbyville-mo"
-state: "MO"
-county: "Shelby"
-population: 1500
+state: "mo"
+town_data: "shelbyville-mo"
 ---

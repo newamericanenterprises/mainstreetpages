@@ -1,9 +1,7 @@
 ---
-title: "Cadiz, Indiana Business Directory"
+title: "Cadiz, IN Business Directory"
+type: "towns"
 slug: "cadiz-in"
-town: "Cadiz"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 2424
+state: "in"
+town_data: "cadiz-in"
 ---

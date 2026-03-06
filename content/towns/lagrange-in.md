@@ -1,9 +1,7 @@
 ---
-title: "LaGrange, Indiana Business Directory"
+title: "LaGrange, IN Business Directory"
+type: "towns"
 slug: "lagrange-in"
-town: "LaGrange"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaGrange"
-population: 5210
+state: "in"
+town_data: "lagrange-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gardnerville Ranchos, Nevada Business Directory"
+title: "Gardnerville Ranchos, NV Business Directory"
+type: "towns"
 slug: "gardnerville-ranchos-nv"
-state: "NV"
-county: "Douglas"
-population: 11760
+state: "nv"
+town_data: "gardnerville-ranchos-nv"
 ---

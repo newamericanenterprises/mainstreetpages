@@ -1,9 +1,7 @@
 ---
-title: "Douglass, Kansas Business Directory"
+title: "Douglass, KS Business Directory"
+type: "towns"
 slug: "douglass-ks"
-town: "Douglass"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 1865
+state: "ks"
+town_data: "douglass-ks"
 ---

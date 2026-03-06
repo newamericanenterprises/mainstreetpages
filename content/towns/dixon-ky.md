@@ -1,9 +1,7 @@
 ---
-title: "Dixon, Kentucky Business Directory"
+title: "Dixon, KY Business Directory"
+type: "towns"
 slug: "dixon-ky"
-town: "Dixon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Webster"
-population: 883
+state: "ky"
+town_data: "dixon-ky"
 ---

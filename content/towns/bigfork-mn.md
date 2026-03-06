@@ -1,9 +1,7 @@
 ---
-title: "Bigfork, Minnesota Business Directory"
+title: "Bigfork, MN Business Directory"
+type: "towns"
 slug: "bigfork-mn"
-town: "Bigfork"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 949
+state: "mn"
+town_data: "bigfork-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New London, Minnesota Business Directory"
+title: "New London, MN Business Directory"
+type: "towns"
 slug: "new-london-mn"
-town: "New London"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kandiyohi"
-population: 1964
+state: "mn"
+town_data: "new-london-mn"
 ---

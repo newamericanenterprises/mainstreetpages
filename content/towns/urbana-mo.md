@@ -1,7 +1,7 @@
 ---
-title: "Urbana, Missouri Business Directory"
+title: "Urbana, MO Business Directory"
+type: "towns"
 slug: "urbana-mo"
-state: "MO"
-county: "Dallas"
-population: 1500
+state: "mo"
+town_data: "urbana-mo"
 ---

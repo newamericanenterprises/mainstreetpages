@@ -1,9 +1,7 @@
 ---
-title: "Ogilvie, Minnesota Business Directory"
+title: "Ogilvie, MN Business Directory"
+type: "towns"
 slug: "ogilvie-mn"
-town: "Ogilvie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Kanabec"
-population: 2479
+state: "mn"
+town_data: "ogilvie-mn"
 ---

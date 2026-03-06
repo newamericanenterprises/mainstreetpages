@@ -1,9 +1,7 @@
 ---
-title: "Logansport, Indiana Business Directory"
+title: "Logansport, IN Business Directory"
+type: "towns"
 slug: "logansport-in"
-town: "Logansport"
-state: "Indiana"
-state_abbr: "IN"
-county: "Cass"
-population: 17968
+state: "in"
+town_data: "logansport-in"
 ---

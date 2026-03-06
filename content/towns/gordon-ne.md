@@ -1,7 +1,7 @@
 ---
-title: "Gordon, Nebraska Business Directory"
+title: "Gordon, NE Business Directory"
+type: "towns"
 slug: "gordon-ne"
-state: "NE"
-county: "Sheridan"
-population: 1612
+state: "ne"
+town_data: "gordon-ne"
 ---

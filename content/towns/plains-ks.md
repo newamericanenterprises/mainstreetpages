@@ -1,9 +1,7 @@
 ---
-title: "Plains, Kansas Business Directory"
+title: "Plains, KS Business Directory"
+type: "towns"
 slug: "plains-ks"
-town: "Plains"
-state: "Kansas"
-state_abbr: "KS"
-county: "Meade"
-population: 3105
+state: "ks"
+town_data: "plains-ks"
 ---

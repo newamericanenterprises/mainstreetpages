@@ -1,9 +1,7 @@
 ---
-title: "Estherwood, Louisiana Business Directory"
+title: "Estherwood, LA Business Directory"
+type: "towns"
 slug: "estherwood-la"
-town: "Estherwood"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 1660
+state: "la"
+town_data: "estherwood-la"
 ---

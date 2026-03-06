@@ -1,9 +1,7 @@
 ---
-title: "Shellsburg, Iowa Business Directory"
+title: "Shellsburg, IA Business Directory"
+type: "towns"
 slug: "shellsburg-ia"
-town: "Shellsburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 1024
+state: "ia"
+town_data: "shellsburg-ia"
 ---

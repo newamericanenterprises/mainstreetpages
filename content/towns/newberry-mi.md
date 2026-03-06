@@ -1,9 +1,7 @@
 ---
-title: "Newberry, Michigan Business Directory"
+title: "Newberry, MI Business Directory"
+type: "towns"
 slug: "newberry-mi"
-town: "Newberry"
-state: "Michigan"
-state_abbr: "MI"
-county: "Luce"
-population: 4117
+state: "mi"
+town_data: "newberry-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Taconite, Minnesota Business Directory"
+title: "Taconite, MN Business Directory"
+type: "towns"
 slug: "taconite-mn"
-town: "Taconite"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 2714
+state: "mn"
+town_data: "taconite-mn"
 ---

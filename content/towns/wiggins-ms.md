@@ -1,7 +1,7 @@
 ---
-title: "Wiggins, Mississippi Business Directory"
+title: "Wiggins, MS Business Directory"
+type: "towns"
 slug: "wiggins-ms"
-state: "MS"
-county: "Stone"
-population: 4709
+state: "ms"
+town_data: "wiggins-ms"
 ---

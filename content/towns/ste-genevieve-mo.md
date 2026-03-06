@@ -1,7 +1,7 @@
 ---
-title: "Ste. Genevieve, Missouri Business Directory"
+title: "Ste Genevieve, MO Business Directory"
+type: "towns"
 slug: "ste-genevieve-mo"
-state: "MO"
-county: "Ste. Genevieve"
-population: 4410
+state: "mo"
+town_data: "ste-genevieve-mo"
 ---

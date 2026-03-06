@@ -1,7 +1,7 @@
 ---
-title: "Marion, Montana Business Directory"
+title: "Marion, MT Business Directory"
+type: "towns"
 slug: "marion-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "marion-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Massachusetts Business Directory"
+title: "Hanover, MA Business Directory"
+type: "towns"
 slug: "hanover-ma"
-town: "Hanover"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 6628
+state: "ma"
+town_data: "hanover-ma"
 ---

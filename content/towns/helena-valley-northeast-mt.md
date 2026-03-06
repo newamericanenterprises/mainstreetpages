@@ -1,7 +1,7 @@
 ---
-title: "Helena Valley Northeast, Montana Business Directory"
+title: "Helena Valley Northeast, MT Business Directory"
+type: "towns"
 slug: "helena-valley-northeast-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 500
+state: "mt"
+town_data: "helena-valley-northeast-mt"
 ---

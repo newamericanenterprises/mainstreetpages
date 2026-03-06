@@ -1,9 +1,7 @@
 ---
-title: "Winfield, Iowa Business Directory"
+title: "Winfield, IA Business Directory"
+type: "towns"
 slug: "winfield-ia"
-town: "Winfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Henry"
-population: 642
+state: "ia"
+town_data: "winfield-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lutherville-Timonium, Maryland Business Directory"
+title: "Lutherville-Timonium, MD Business Directory"
+type: "towns"
 slug: "lutherville-timonium-md"
-town: "Lutherville-Timonium"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2977
+state: "md"
+town_data: "lutherville-timonium-md"
 ---

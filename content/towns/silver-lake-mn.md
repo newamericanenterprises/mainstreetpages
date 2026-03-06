@@ -1,9 +1,7 @@
 ---
-title: "Silver Lake, Minnesota Business Directory"
+title: "Silver Lake, MN Business Directory"
+type: "towns"
 slug: "silver-lake-mn"
-town: "Silver Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 563
+state: "mn"
+town_data: "silver-lake-mn"
 ---

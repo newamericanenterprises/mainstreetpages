@@ -1,9 +1,7 @@
 ---
-title: "Waterford, Minnesota Business Directory"
+title: "Waterford, MN Business Directory"
+type: "towns"
 slug: "waterford-mn"
-town: "Waterford"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 778
+state: "mn"
+town_data: "waterford-mn"
 ---

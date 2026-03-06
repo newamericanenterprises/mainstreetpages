@@ -1,9 +1,7 @@
 ---
-title: "Peosta, Iowa Business Directory"
+title: "Peosta, IA Business Directory"
+type: "towns"
 slug: "peosta-ia"
-town: "Peosta"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dubuque"
-population: 3115
+state: "ia"
+town_data: "peosta-ia"
 ---

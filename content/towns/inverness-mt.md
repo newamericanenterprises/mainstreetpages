@@ -1,7 +1,7 @@
 ---
-title: "Inverness, Montana Business Directory"
+title: "Inverness, MT Business Directory"
+type: "towns"
 slug: "inverness-mt"
-state: "MT"
-county: "Hill"
-population: 500
+state: "mt"
+town_data: "inverness-mt"
 ---

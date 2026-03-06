@@ -1,9 +1,7 @@
 ---
-title: "Edina, Minnesota Business Directory"
+title: "Edina, MN Business Directory"
+type: "towns"
 slug: "edina-mn"
-town: "Edina"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 53494
+state: "mn"
+town_data: "edina-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Angola, Indiana Business Directory"
+title: "Angola, IN Business Directory"
+type: "towns"
 slug: "angola-in"
-town: "Angola"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 8792
+state: "in"
+town_data: "angola-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Durant, Mississippi Business Directory"
+title: "Durant, MS Business Directory"
+type: "towns"
 slug: "durant-ms"
-state: "MS"
-county: "Holmes"
-population: 2685
+state: "ms"
+town_data: "durant-ms"
 ---

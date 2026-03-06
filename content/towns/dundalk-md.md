@@ -1,9 +1,7 @@
 ---
-title: "Dundalk, Maryland Business Directory"
+title: "Dundalk, MD Business Directory"
+type: "towns"
 slug: "dundalk-md"
-town: "Dundalk"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 62798
+state: "md"
+town_data: "dundalk-md"
 ---

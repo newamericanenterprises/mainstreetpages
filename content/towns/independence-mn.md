@@ -1,9 +1,7 @@
 ---
-title: "Independence, Minnesota Business Directory"
+title: "Independence, MN Business Directory"
+type: "towns"
 slug: "independence-mn"
-town: "Independence"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2396
+state: "mn"
+town_data: "independence-mn"
 ---

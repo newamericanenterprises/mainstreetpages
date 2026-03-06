@@ -1,9 +1,7 @@
 ---
-title: "Wheatfield, Indiana Business Directory"
+title: "Wheatfield, IN Business Directory"
+type: "towns"
 slug: "wheatfield-in"
-town: "Wheatfield"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jasper"
-population: 3717
+state: "in"
+town_data: "wheatfield-in"
 ---

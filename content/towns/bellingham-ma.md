@@ -1,9 +1,7 @@
 ---
-title: "Bellingham, Massachusetts Business Directory"
+title: "Bellingham, MA Business Directory"
+type: "towns"
 slug: "bellingham-ma"
-town: "Bellingham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 7202
+state: "ma"
+town_data: "bellingham-ma"
 ---

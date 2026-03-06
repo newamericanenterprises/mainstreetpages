@@ -1,9 +1,7 @@
 ---
-title: "Thomson, Minnesota Business Directory"
+title: "Thomson, MN Business Directory"
+type: "towns"
 slug: "thomson-mn"
-town: "Thomson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carlton"
-population: 1604
+state: "mn"
+town_data: "thomson-mn"
 ---

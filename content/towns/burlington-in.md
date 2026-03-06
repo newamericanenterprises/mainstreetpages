@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Indiana Business Directory"
+title: "Burlington, IN Business Directory"
+type: "towns"
 slug: "burlington-in"
-town: "Burlington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Carroll"
-population: 4092
+state: "in"
+town_data: "burlington-in"
 ---

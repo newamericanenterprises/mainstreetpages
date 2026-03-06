@@ -1,9 +1,7 @@
 ---
-title: "Ponchatoula, Louisiana Business Directory"
+title: "Ponchatoula, LA Business Directory"
+type: "towns"
 slug: "ponchatoula-la"
-town: "Ponchatoula"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 7209
+state: "la"
+town_data: "ponchatoula-la"
 ---

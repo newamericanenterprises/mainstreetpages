@@ -1,7 +1,7 @@
 ---
-title: "Marshall, Missouri Business Directory"
+title: "Marshall, MO Business Directory"
+type: "towns"
 slug: "marshall-mo"
-state: "MO"
-county: "Saline"
-population: 13065
+state: "mo"
+town_data: "marshall-mo"
 ---

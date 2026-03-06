@@ -1,9 +1,7 @@
 ---
-title: "Fair Hill, Maryland Business Directory"
+title: "Fair Hill, MD Business Directory"
+type: "towns"
 slug: "fair-hill-md"
-town: "Fair Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 4429
+state: "md"
+town_data: "fair-hill-md"
 ---

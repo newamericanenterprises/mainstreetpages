@@ -1,9 +1,7 @@
 ---
-title: "Castine, Maine Business Directory"
+title: "Castine, ME Business Directory"
+type: "towns"
 slug: "castine-me"
-town: "Castine"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1723
+state: "me"
+town_data: "castine-me"
 ---

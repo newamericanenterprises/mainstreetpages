@@ -1,7 +1,7 @@
 ---
-title: "Byram, Mississippi Business Directory"
+title: "Byram, MS Business Directory"
+type: "towns"
 slug: "byram-ms"
-state: "MS"
-county: "Hinds"
-population: 11785
+state: "ms"
+town_data: "byram-ms"
 ---

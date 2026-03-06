@@ -1,9 +1,7 @@
 ---
-title: "Oberlin, Louisiana Business Directory"
+title: "Oberlin, LA Business Directory"
+type: "towns"
 slug: "oberlin-la"
-town: "Oberlin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Allen"
-population: 1758
+state: "la"
+town_data: "oberlin-la"
 ---

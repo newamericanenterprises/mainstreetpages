@@ -1,9 +1,7 @@
 ---
-title: "Danvers, Massachusetts Business Directory"
+title: "Danvers, MA Business Directory"
+type: "towns"
 slug: "danvers-ma"
-town: "Danvers"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 28113
+state: "ma"
+town_data: "danvers-ma"
 ---

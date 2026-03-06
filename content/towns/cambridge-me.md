@@ -1,9 +1,7 @@
 ---
-title: "Cambridge, Maine Business Directory"
+title: "Cambridge, ME Business Directory"
+type: "towns"
 slug: "cambridge-me"
-town: "Cambridge"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 2511
+state: "me"
+town_data: "cambridge-me"
 ---

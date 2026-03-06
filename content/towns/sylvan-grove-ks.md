@@ -1,9 +1,7 @@
 ---
-title: "Sylvan Grove, Kansas Business Directory"
+title: "Sylvan Grove, KS Business Directory"
+type: "towns"
 slug: "sylvan-grove-ks"
-town: "Sylvan Grove"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lincoln"
-population: 690
+state: "ks"
+town_data: "sylvan-grove-ks"
 ---

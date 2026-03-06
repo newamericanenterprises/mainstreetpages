@@ -1,9 +1,7 @@
 ---
-title: "Springfield, Kentucky Business Directory"
+title: "Springfield, KY Business Directory"
+type: "towns"
 slug: "springfield-ky"
-town: "Springfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Washington"
-population: 2852
+state: "ky"
+town_data: "springfield-ky"
 ---

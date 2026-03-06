@@ -1,7 +1,7 @@
 ---
-title: "Wolbach, Nebraska Business Directory"
+title: "Wolbach, NE Business Directory"
+type: "towns"
 slug: "wolbach-ne"
-state: "NE"
-county: "Greeley"
-population: 500
+state: "ne"
+town_data: "wolbach-ne"
 ---

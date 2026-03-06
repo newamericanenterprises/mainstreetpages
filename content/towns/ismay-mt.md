@@ -1,7 +1,7 @@
 ---
-title: "Ismay, Montana Business Directory"
+title: "Ismay, MT Business Directory"
+type: "towns"
 slug: "ismay-mt"
-state: "MT"
-county: "Custer"
-population: 500
+state: "mt"
+town_data: "ismay-mt"
 ---

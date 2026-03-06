@@ -1,9 +1,7 @@
 ---
-title: "Henderson, Kentucky Business Directory"
+title: "Henderson, KY Business Directory"
+type: "towns"
 slug: "henderson-ky"
-town: "Henderson"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henderson"
-population: 28575
+state: "ky"
+town_data: "henderson-ky"
 ---

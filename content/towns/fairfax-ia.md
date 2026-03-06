@@ -1,9 +1,7 @@
 ---
-title: "Fairfax, Iowa Business Directory"
+title: "Fairfax, IA Business Directory"
+type: "towns"
 slug: "fairfax-ia"
-town: "Fairfax"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 1770
+state: "ia"
+town_data: "fairfax-ia"
 ---

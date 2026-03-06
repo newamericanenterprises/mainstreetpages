@@ -1,9 +1,7 @@
 ---
-title: "Camden, Michigan Business Directory"
+title: "Camden, MI Business Directory"
+type: "towns"
 slug: "camden-mi"
-town: "Camden"
-state: "Michigan"
-state_abbr: "MI"
-county: "Hillsdale"
-population: 1827
+state: "mi"
+town_data: "camden-mi"
 ---

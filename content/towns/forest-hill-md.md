@@ -1,9 +1,7 @@
 ---
-title: "Forest Hill, Maryland Business Directory"
+title: "Forest Hill, MD Business Directory"
+type: "towns"
 slug: "forest-hill-md"
-town: "Forest Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 5309
+state: "md"
+town_data: "forest-hill-md"
 ---

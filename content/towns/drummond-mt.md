@@ -1,7 +1,7 @@
 ---
-title: "Drummond, Montana Business Directory"
+title: "Drummond, MT Business Directory"
+type: "towns"
 slug: "drummond-mt"
-state: "MT"
-county: "Granite"
-population: 500
+state: "mt"
+town_data: "drummond-mt"
 ---

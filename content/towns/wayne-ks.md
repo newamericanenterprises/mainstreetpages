@@ -1,9 +1,7 @@
 ---
-title: "Wayne, Kansas Business Directory"
+title: "Wayne, KS Business Directory"
+type: "towns"
 slug: "wayne-ks"
-town: "Wayne"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 1678
+state: "ks"
+town_data: "wayne-ks"
 ---

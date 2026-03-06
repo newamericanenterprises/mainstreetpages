@@ -1,7 +1,7 @@
 ---
-title: "Toston, Montana Business Directory"
+title: "Toston, MT Business Directory"
+type: "towns"
 slug: "toston-mt"
-state: "MT"
-county: "Broadwater"
-population: 500
+state: "mt"
+town_data: "toston-mt"
 ---

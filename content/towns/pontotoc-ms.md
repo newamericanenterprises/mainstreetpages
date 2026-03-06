@@ -1,7 +1,7 @@
 ---
-title: "Pontotoc, Mississippi Business Directory"
+title: "Pontotoc, MS Business Directory"
+type: "towns"
 slug: "pontotoc-ms"
-state: "MS"
-county: "Pontotoc"
-population: 6100
+state: "ms"
+town_data: "pontotoc-ms"
 ---

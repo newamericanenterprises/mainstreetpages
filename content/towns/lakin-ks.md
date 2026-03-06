@@ -1,9 +1,7 @@
 ---
-title: "Lakin, Kansas Business Directory"
+title: "Lakin, KS Business Directory"
+type: "towns"
 slug: "lakin-ks"
-town: "Lakin"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kearny"
-population: 2146
+state: "ks"
+town_data: "lakin-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Walnut Grove, Missouri Business Directory"
+title: "Walnut Grove, MO Business Directory"
+type: "towns"
 slug: "walnut-grove-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "walnut-grove-mo"
 ---

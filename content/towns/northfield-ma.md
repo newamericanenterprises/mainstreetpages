@@ -1,9 +1,7 @@
 ---
-title: "Northfield, Massachusetts Business Directory"
+title: "Northfield, MA Business Directory"
+type: "towns"
 slug: "northfield-ma"
-town: "Northfield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 3089
+state: "ma"
+town_data: "northfield-ma"
 ---

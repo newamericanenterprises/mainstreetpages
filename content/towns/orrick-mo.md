@@ -1,7 +1,7 @@
 ---
-title: "Orrick, Missouri Business Directory"
+title: "Orrick, MO Business Directory"
+type: "towns"
 slug: "orrick-mo"
-state: "MO"
-county: "Ray"
-population: 1500
+state: "mo"
+town_data: "orrick-mo"
 ---

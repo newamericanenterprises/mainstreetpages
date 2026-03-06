@@ -1,9 +1,7 @@
 ---
-title: "Three Oaks, Michigan Business Directory"
+title: "Three Oaks, MI Business Directory"
+type: "towns"
 slug: "three-oaks-mi"
-town: "Three Oaks"
-state: "Michigan"
-state_abbr: "MI"
-county: "Berrien"
-population: 2114
+state: "mi"
+town_data: "three-oaks-mi"
 ---

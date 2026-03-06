@@ -1,9 +1,7 @@
 ---
-title: "Wellsville, Kansas Business Directory"
+title: "Wellsville, KS Business Directory"
+type: "towns"
 slug: "wellsville-ks"
-town: "Wellsville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 880
+state: "ks"
+town_data: "wellsville-ks"
 ---

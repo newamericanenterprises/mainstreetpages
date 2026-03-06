@@ -1,9 +1,7 @@
 ---
-title: "Powhattan, Kansas Business Directory"
+title: "Powhattan, KS Business Directory"
+type: "towns"
 slug: "powhattan-ks"
-town: "Powhattan"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 3086
+state: "ks"
+town_data: "powhattan-ks"
 ---

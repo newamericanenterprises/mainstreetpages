@@ -1,7 +1,7 @@
 ---
-title: "Ballwin, Missouri Business Directory"
+title: "Ballwin, MO Business Directory"
+type: "towns"
 slug: "ballwin-mo"
-state: "MO"
-county: "St. Louis"
-population: 30404
+state: "mo"
+town_data: "ballwin-mo"
 ---

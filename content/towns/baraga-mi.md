@@ -1,9 +1,7 @@
 ---
-title: "Baraga, Michigan Business Directory"
+title: "Baraga, MI Business Directory"
+type: "towns"
 slug: "baraga-mi"
-town: "Baraga"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 2024
+state: "mi"
+town_data: "baraga-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Middlesboro, Kentucky Business Directory"
+title: "Middlesboro, KY Business Directory"
+type: "towns"
 slug: "middlesboro-ky"
-town: "Middlesboro"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bell"
-population: 9426
+state: "ky"
+town_data: "middlesboro-ky"
 ---

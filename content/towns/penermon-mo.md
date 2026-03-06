@@ -1,7 +1,7 @@
 ---
-title: "Penermon, Missouri Business Directory"
+title: "Penermon, MO Business Directory"
+type: "towns"
 slug: "penermon-mo"
-state: "MO"
-county: "Pemiscot"
-population: 1500
+state: "mo"
+town_data: "penermon-mo"
 ---

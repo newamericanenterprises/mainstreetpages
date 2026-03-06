@@ -1,9 +1,7 @@
 ---
-title: "Bremen, Kentucky Business Directory"
+title: "Bremen, KY Business Directory"
+type: "towns"
 slug: "bremen-ky"
-town: "Bremen"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Muhlenberg"
-population: 1108
+state: "ky"
+town_data: "bremen-ky"
 ---

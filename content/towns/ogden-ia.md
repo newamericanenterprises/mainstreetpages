@@ -1,9 +1,7 @@
 ---
-title: "Ogden, Iowa Business Directory"
+title: "Ogden, IA Business Directory"
+type: "towns"
 slug: "ogden-ia"
-town: "Ogden"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 2942
+state: "ia"
+town_data: "ogden-ia"
 ---

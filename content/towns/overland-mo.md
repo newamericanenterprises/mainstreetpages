@@ -1,7 +1,7 @@
 ---
-title: "Overland, Missouri Business Directory"
+title: "Overland, MO Business Directory"
+type: "towns"
 slug: "overland-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "overland-mo"
 ---

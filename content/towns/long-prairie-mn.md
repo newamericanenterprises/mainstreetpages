@@ -1,9 +1,7 @@
 ---
-title: "Long Prairie, Minnesota Business Directory"
+title: "Long Prairie, MN Business Directory"
+type: "towns"
 slug: "long-prairie-mn"
-town: "Long Prairie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 1804
+state: "mn"
+town_data: "long-prairie-mn"
 ---

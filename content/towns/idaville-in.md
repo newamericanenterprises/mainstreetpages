@@ -1,9 +1,7 @@
 ---
-title: "Idaville, Indiana Business Directory"
+title: "Idaville, IN Business Directory"
+type: "towns"
 slug: "idaville-in"
-town: "Idaville"
-state: "Indiana"
-state_abbr: "IN"
-county: "White"
-population: 4881
+state: "in"
+town_data: "idaville-in"
 ---

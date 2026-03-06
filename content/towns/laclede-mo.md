@@ -1,7 +1,7 @@
 ---
-title: "Laclede, Missouri Business Directory"
+title: "Laclede, MO Business Directory"
+type: "towns"
 slug: "laclede-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "laclede-mo"
 ---

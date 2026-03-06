@@ -1,7 +1,7 @@
 ---
-title: "Marks, Mississippi Business Directory"
+title: "Marks, MS Business Directory"
+type: "towns"
 slug: "marks-ms"
-state: "MS"
-county: "Quitman"
-population: 1482
+state: "ms"
+town_data: "marks-ms"
 ---

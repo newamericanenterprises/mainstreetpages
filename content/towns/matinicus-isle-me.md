@@ -1,9 +1,7 @@
 ---
-title: "Matinicus Isle, Maine Business Directory"
+title: "Matinicus Isle, ME Business Directory"
+type: "towns"
 slug: "matinicus-isle-me"
-town: "Matinicus Isle"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 941
+state: "me"
+town_data: "matinicus-isle-me"
 ---

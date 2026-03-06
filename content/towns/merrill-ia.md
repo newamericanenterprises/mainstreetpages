@@ -1,9 +1,7 @@
 ---
-title: "Merrill, Iowa Business Directory"
+title: "Merrill, IA Business Directory"
+type: "towns"
 slug: "merrill-ia"
-town: "Merrill"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 2329
+state: "ia"
+town_data: "merrill-ia"
 ---

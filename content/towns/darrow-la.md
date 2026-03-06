@@ -1,9 +1,7 @@
 ---
-title: "Darrow, Louisiana Business Directory"
+title: "Darrow, LA Business Directory"
+type: "towns"
 slug: "darrow-la"
-town: "Darrow"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 3033
+state: "la"
+town_data: "darrow-la"
 ---

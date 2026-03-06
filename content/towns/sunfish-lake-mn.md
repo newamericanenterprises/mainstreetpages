@@ -1,9 +1,7 @@
 ---
-title: "Sunfish Lake, Minnesota Business Directory"
+title: "Sunfish Lake, MN Business Directory"
+type: "towns"
 slug: "sunfish-lake-mn"
-town: "Sunfish Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 908
+state: "mn"
+town_data: "sunfish-lake-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Eureka, Minnesota Business Directory"
+title: "Eureka, MN Business Directory"
+type: "towns"
 slug: "eureka-mn"
-town: "Eureka"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 1911
+state: "mn"
+town_data: "eureka-mn"
 ---

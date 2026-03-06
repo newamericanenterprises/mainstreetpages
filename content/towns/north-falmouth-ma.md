@@ -1,9 +1,7 @@
 ---
-title: "North Falmouth, Massachusetts Business Directory"
+title: "North Falmouth, MA Business Directory"
+type: "towns"
 slug: "north-falmouth-ma"
-town: "North Falmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 6335
+state: "ma"
+town_data: "north-falmouth-ma"
 ---

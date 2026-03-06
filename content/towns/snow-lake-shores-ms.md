@@ -1,7 +1,7 @@
 ---
-title: "Snow Lake Shores, Mississippi Business Directory"
+title: "Snow Lake Shores, MS Business Directory"
+type: "towns"
 slug: "snow-lake-shores-ms"
-state: "MS"
-county: "Tate"
-population: 1116
+state: "ms"
+town_data: "snow-lake-shores-ms"
 ---

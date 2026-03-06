@@ -1,7 +1,7 @@
 ---
-title: "Long Beach, Mississippi Business Directory"
+title: "Long Beach, MS Business Directory"
+type: "towns"
 slug: "long-beach-ms"
-state: "MS"
-county: "Harrison"
-population: 15907
+state: "ms"
+town_data: "long-beach-ms"
 ---

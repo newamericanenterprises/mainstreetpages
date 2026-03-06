@@ -1,9 +1,7 @@
 ---
-title: "Clarksville, Indiana Business Directory"
+title: "Clarksville, IN Business Directory"
+type: "towns"
 slug: "clarksville-in"
-town: "Clarksville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Clark"
-population: 21724
+state: "in"
+town_data: "clarksville-in"
 ---

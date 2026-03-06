@@ -1,7 +1,7 @@
 ---
-title: "Franklin, Missouri Business Directory"
+title: "Franklin, MO Business Directory"
+type: "towns"
 slug: "franklin-mo"
-state: "MO"
-county: "Howard"
-population: 1500
+state: "mo"
+town_data: "franklin-mo"
 ---

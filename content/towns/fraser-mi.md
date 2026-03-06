@@ -1,9 +1,7 @@
 ---
-title: "Fraser, Michigan Business Directory"
+title: "Fraser, MI Business Directory"
+type: "towns"
 slug: "fraser-mi"
-town: "Fraser"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 1111
+state: "mi"
+town_data: "fraser-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Charlestown, Maryland Business Directory"
+title: "Charlestown, MD Business Directory"
+type: "towns"
 slug: "charlestown-md"
-town: "Charlestown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Cecil"
-population: 2568
+state: "md"
+town_data: "charlestown-md"
 ---

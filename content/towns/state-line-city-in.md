@@ -1,9 +1,7 @@
 ---
-title: "State Line City, Indiana Business Directory"
+title: "State Line City, IN Business Directory"
+type: "towns"
 slug: "state-line-city-in"
-town: "State Line City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warren"
-population: 5463
+state: "in"
+town_data: "state-line-city-in"
 ---

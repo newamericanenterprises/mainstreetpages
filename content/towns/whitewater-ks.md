@@ -1,9 +1,7 @@
 ---
-title: "Whitewater, Kansas Business Directory"
+title: "Whitewater, KS Business Directory"
+type: "towns"
 slug: "whitewater-ks"
-town: "Whitewater"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 957
+state: "ks"
+town_data: "whitewater-ks"
 ---

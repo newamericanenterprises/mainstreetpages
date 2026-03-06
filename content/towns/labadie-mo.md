@@ -1,7 +1,7 @@
 ---
-title: "Labadie, Missouri Business Directory"
+title: "Labadie, MO Business Directory"
+type: "towns"
 slug: "labadie-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "labadie-mo"
 ---

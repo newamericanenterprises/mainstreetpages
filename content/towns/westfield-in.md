@@ -1,9 +1,7 @@
 ---
-title: "Westfield, Indiana Business Directory"
+title: "Westfield, IN Business Directory"
+type: "towns"
 slug: "westfield-in"
-town: "Westfield"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hamilton"
-population: 46028
+state: "in"
+town_data: "westfield-in"
 ---

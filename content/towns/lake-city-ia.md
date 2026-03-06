@@ -1,9 +1,7 @@
 ---
-title: "Lake City, Iowa Business Directory"
+title: "Lake City, IA Business Directory"
+type: "towns"
 slug: "lake-city-ia"
-town: "Lake City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Calhoun"
-population: 1727
+state: "ia"
+town_data: "lake-city-ia"
 ---

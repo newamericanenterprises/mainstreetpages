@@ -1,9 +1,7 @@
 ---
-title: "Highland, Michigan Business Directory"
+title: "Highland, MI Business Directory"
+type: "towns"
 slug: "highland-mi"
-town: "Highland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2317
+state: "mi"
+town_data: "highland-mi"
 ---

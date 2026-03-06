@@ -1,9 +1,7 @@
 ---
-title: "Maple Lake, Minnesota Business Directory"
+title: "Maple Lake, MN Business Directory"
+type: "towns"
 slug: "maple-lake-mn"
-town: "Maple Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 3091
+state: "mn"
+town_data: "maple-lake-mn"
 ---

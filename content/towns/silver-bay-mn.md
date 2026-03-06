@@ -1,9 +1,7 @@
 ---
-title: "Silver Bay, Minnesota Business Directory"
+title: "Silver Bay, MN Business Directory"
+type: "towns"
 slug: "silver-bay-mn"
-town: "Silver Bay"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lake"
-population: 1302
+state: "mn"
+town_data: "silver-bay-mn"
 ---

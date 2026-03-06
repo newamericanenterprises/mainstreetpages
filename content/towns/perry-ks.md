@@ -1,9 +1,7 @@
 ---
-title: "Perry, Kansas Business Directory"
+title: "Perry, KS Business Directory"
+type: "towns"
 slug: "perry-ks"
-town: "Perry"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 2381
+state: "ks"
+town_data: "perry-ks"
 ---

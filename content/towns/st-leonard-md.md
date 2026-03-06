@@ -1,9 +1,7 @@
 ---
-title: "St. Leonard, Maryland Business Directory"
+title: "St. Leonard, MD Business Directory"
+type: "towns"
 slug: "st-leonard-md"
-town: "St. Leonard"
-state: "Maryland"
-state_abbr: "MD"
-county: "Calvert"
-population: 1403
+state: "md"
+town_data: "st-leonard-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Redkey, Indiana Business Directory"
+title: "Redkey, IN Business Directory"
+type: "towns"
 slug: "redkey-in"
-town: "Redkey"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jay"
-population: 5070
+state: "in"
+town_data: "redkey-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lincoln, Kansas Business Directory"
+title: "Lincoln, KS Business Directory"
+type: "towns"
 slug: "lincoln-ks"
-town: "Lincoln"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lincoln"
-population: 1414
+state: "ks"
+town_data: "lincoln-ks"
 ---

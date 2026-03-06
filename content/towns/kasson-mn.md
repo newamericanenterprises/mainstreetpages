@@ -1,9 +1,7 @@
 ---
-title: "Kasson, Minnesota Business Directory"
+title: "Kasson, MN Business Directory"
+type: "towns"
 slug: "kasson-mn"
-town: "Kasson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dodge"
-population: 1928
+state: "mn"
+town_data: "kasson-mn"
 ---

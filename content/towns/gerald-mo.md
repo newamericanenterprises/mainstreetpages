@@ -1,7 +1,7 @@
 ---
-title: "Gerald, Missouri Business Directory"
+title: "Gerald, MO Business Directory"
+type: "towns"
 slug: "gerald-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "gerald-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Barnesville, Minnesota Business Directory"
+title: "Barnesville, MN Business Directory"
+type: "towns"
 slug: "barnesville-mn"
-town: "Barnesville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clay"
-population: 1335
+state: "mn"
+town_data: "barnesville-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lebanon, Kentucky Business Directory"
+title: "Lebanon, KY Business Directory"
+type: "towns"
 slug: "lebanon-ky"
-town: "Lebanon"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Marion"
-population: 5934
+state: "ky"
+town_data: "lebanon-ky"
 ---

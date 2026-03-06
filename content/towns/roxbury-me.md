@@ -1,9 +1,7 @@
 ---
-title: "Roxbury, Maine Business Directory"
+title: "Roxbury, ME Business Directory"
+type: "towns"
 slug: "roxbury-me"
-town: "Roxbury"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 1431
+state: "me"
+town_data: "roxbury-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Silver Gate, Montana Business Directory"
+title: "Silver Gate, MT Business Directory"
+type: "towns"
 slug: "silver-gate-mt"
-state: "MT"
-county: "Park"
-population: 500
+state: "mt"
+town_data: "silver-gate-mt"
 ---

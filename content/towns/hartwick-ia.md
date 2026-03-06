@@ -1,9 +1,7 @@
 ---
-title: "Hartwick, Iowa Business Directory"
+title: "Hartwick, IA Business Directory"
+type: "towns"
 slug: "hartwick-ia"
-town: "Hartwick"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 2614
+state: "ia"
+town_data: "hartwick-ia"
 ---

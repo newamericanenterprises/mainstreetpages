@@ -1,7 +1,7 @@
 ---
-title: "Boulder, Montana Business Directory"
+title: "Boulder, MT Business Directory"
+type: "towns"
 slug: "boulder-mt"
-state: "MT"
-county: "Jefferson"
-population: 1183
+state: "mt"
+town_data: "boulder-mt"
 ---

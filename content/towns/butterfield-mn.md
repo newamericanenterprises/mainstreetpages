@@ -1,9 +1,7 @@
 ---
-title: "Butterfield, Minnesota Business Directory"
+title: "Butterfield, MN Business Directory"
+type: "towns"
 slug: "butterfield-mn"
-town: "Butterfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Watonwan"
-population: 2570
+state: "mn"
+town_data: "butterfield-mn"
 ---

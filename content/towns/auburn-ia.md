@@ -1,9 +1,7 @@
 ---
-title: "Auburn, Iowa Business Directory"
+title: "Auburn, IA Business Directory"
+type: "towns"
 slug: "auburn-ia"
-town: "Auburn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 829
+state: "ia"
+town_data: "auburn-ia"
 ---

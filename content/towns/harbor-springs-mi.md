@@ -1,9 +1,7 @@
 ---
-title: "Harbor Springs, Michigan Business Directory"
+title: "Harbor Springs, MI Business Directory"
+type: "towns"
 slug: "harbor-springs-mi"
-town: "Harbor Springs"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 2064
+state: "mi"
+town_data: "harbor-springs-mi"
 ---

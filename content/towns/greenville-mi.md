@@ -1,9 +1,7 @@
 ---
-title: "Greenville, Michigan Business Directory"
+title: "Greenville, MI Business Directory"
+type: "towns"
 slug: "greenville-mi"
-town: "Greenville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Montcalm"
-population: 8366
+state: "mi"
+town_data: "greenville-mi"
 ---

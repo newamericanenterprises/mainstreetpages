@@ -1,9 +1,7 @@
 ---
-title: "Conway Springs, Kansas Business Directory"
+title: "Conway Springs, KS Business Directory"
+type: "towns"
 slug: "conway-springs-ks"
-town: "Conway Springs"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sumner"
-population: 1961
+state: "ks"
+town_data: "conway-springs-ks"
 ---

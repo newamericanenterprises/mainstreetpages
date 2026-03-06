@@ -1,9 +1,7 @@
 ---
-title: "Bargersville, Indiana Business Directory"
+title: "Bargersville, IN Business Directory"
+type: "towns"
 slug: "bargersville-in"
-town: "Bargersville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 1023
+state: "in"
+town_data: "bargersville-in"
 ---

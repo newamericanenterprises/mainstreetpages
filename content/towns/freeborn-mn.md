@@ -1,9 +1,7 @@
 ---
-title: "Freeborn, Minnesota Business Directory"
+title: "Freeborn, MN Business Directory"
+type: "towns"
 slug: "freeborn-mn"
-town: "Freeborn"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Freeborn"
-population: 1161
+state: "mn"
+town_data: "freeborn-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Camp Springs, Maryland Business Directory"
+title: "Camp Springs, MD Business Directory"
+type: "towns"
 slug: "camp-springs-md"
-town: "Camp Springs"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 2418
+state: "md"
+town_data: "camp-springs-md"
 ---

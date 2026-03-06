@@ -1,9 +1,7 @@
 ---
-title: "Vienna, Maine Business Directory"
+title: "Vienna, ME Business Directory"
+type: "towns"
 slug: "vienna-me"
-town: "Vienna"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 592
+state: "me"
+town_data: "vienna-me"
 ---

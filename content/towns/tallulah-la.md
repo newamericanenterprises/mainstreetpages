@@ -1,9 +1,7 @@
 ---
-title: "Tallulah, Louisiana Business Directory"
+title: "Tallulah, LA Business Directory"
+type: "towns"
 slug: "tallulah-la"
-town: "Tallulah"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Madison"
-population: 6758
+state: "la"
+town_data: "tallulah-la"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "West Yellowstone, Montana Business Directory"
+title: "West Yellowstone, MT Business Directory"
+type: "towns"
 slug: "west-yellowstone-mt"
-state: "MT"
-county: "Gallatin"
-population: 1353
+state: "mt"
+town_data: "west-yellowstone-mt"
 ---

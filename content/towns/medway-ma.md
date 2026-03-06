@@ -1,9 +1,7 @@
 ---
-title: "Medway, Massachusetts Business Directory"
+title: "Medway, MA Business Directory"
+type: "towns"
 slug: "medway-ma"
-town: "Medway"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 13345
+state: "ma"
+town_data: "medway-ma"
 ---

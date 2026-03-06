@@ -1,9 +1,7 @@
 ---
-title: "Searles, Minnesota Business Directory"
+title: "Searles, MN Business Directory"
+type: "towns"
 slug: "searles-mn"
-town: "Searles"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Brown"
-population: 3275
+state: "mn"
+town_data: "searles-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Iowa Business Directory"
+title: "Dexter, IA Business Directory"
+type: "towns"
 slug: "dexter-ia"
-town: "Dexter"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 2834
+state: "ia"
+town_data: "dexter-ia"
 ---

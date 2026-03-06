@@ -1,9 +1,7 @@
 ---
-title: "Clarksburg, Maryland Business Directory"
+title: "Clarksburg, MD Business Directory"
+type: "towns"
 slug: "clarksburg-md"
-town: "Clarksburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 4105
+state: "md"
+town_data: "clarksburg-md"
 ---

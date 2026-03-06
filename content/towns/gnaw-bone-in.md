@@ -1,9 +1,7 @@
 ---
-title: "Gnaw Bone, Indiana Business Directory"
+title: "Gnaw Bone, IN Business Directory"
+type: "towns"
 slug: "gnaw-bone-in"
-town: "Gnaw Bone"
-state: "Indiana"
-state_abbr: "IN"
-county: "Brown"
-population: 3963
+state: "in"
+town_data: "gnaw-bone-in"
 ---

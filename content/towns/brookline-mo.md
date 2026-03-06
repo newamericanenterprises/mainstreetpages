@@ -1,7 +1,7 @@
 ---
-title: "Brookline, Missouri Business Directory"
+title: "Brookline, MO Business Directory"
+type: "towns"
 slug: "brookline-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "brookline-mo"
 ---

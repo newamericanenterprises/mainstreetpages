@@ -1,9 +1,7 @@
 ---
-title: "Oakdale, Minnesota Business Directory"
+title: "Oakdale, MN Business Directory"
+type: "towns"
 slug: "oakdale-mn"
-town: "Oakdale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 3153
+state: "mn"
+town_data: "oakdale-mn"
 ---

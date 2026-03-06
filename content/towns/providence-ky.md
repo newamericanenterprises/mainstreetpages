@@ -1,9 +1,7 @@
 ---
-title: "Providence, Kentucky Business Directory"
+title: "Providence, KY Business Directory"
+type: "towns"
 slug: "providence-ky"
-town: "Providence"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Webster"
-population: 2972
+state: "ky"
+town_data: "providence-ky"
 ---

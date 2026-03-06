@@ -1,9 +1,7 @@
 ---
-title: "Morgan, Minnesota Business Directory"
+title: "Morgan, MN Business Directory"
+type: "towns"
 slug: "morgan-mn"
-town: "Morgan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Redwood"
-population: 2064
+state: "mn"
+town_data: "morgan-mn"
 ---

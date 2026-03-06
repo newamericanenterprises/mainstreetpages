@@ -1,9 +1,7 @@
 ---
-title: "Lorimor, Iowa Business Directory"
+title: "Lorimor, IA Business Directory"
+type: "towns"
 slug: "lorimor-ia"
-town: "Lorimor"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 886
+state: "ia"
+town_data: "lorimor-ia"
 ---

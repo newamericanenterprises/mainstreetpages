@@ -1,9 +1,7 @@
 ---
-title: "Francesville, Indiana Business Directory"
+title: "Francesville, IN Business Directory"
+type: "towns"
 slug: "francesville-in"
-town: "Francesville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Pulaski"
-population: 2442
+state: "in"
+town_data: "francesville-in"
 ---

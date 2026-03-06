@@ -1,9 +1,7 @@
 ---
-title: "Guthrie, Kentucky Business Directory"
+title: "Guthrie, KY Business Directory"
+type: "towns"
 slug: "guthrie-ky"
-town: "Guthrie"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Todd"
-population: 335
+state: "ky"
+town_data: "guthrie-ky"
 ---

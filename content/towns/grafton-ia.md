@@ -1,9 +1,7 @@
 ---
-title: "Grafton, Iowa Business Directory"
+title: "Grafton, IA Business Directory"
+type: "towns"
 slug: "grafton-ia"
-town: "Grafton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Worth"
-population: 1065
+state: "ia"
+town_data: "grafton-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Beltsville, Maryland Business Directory"
+title: "Beltsville, MD Business Directory"
+type: "towns"
 slug: "beltsville-md"
-town: "Beltsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5405
+state: "md"
+town_data: "beltsville-md"
 ---

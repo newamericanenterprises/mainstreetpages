@@ -1,7 +1,7 @@
 ---
-title: "Chester, Montana Business Directory"
+title: "Chester, MT Business Directory"
+type: "towns"
 slug: "chester-mt"
-state: "MT"
-county: "Liberty"
-population: 500
+state: "mt"
+town_data: "chester-mt"
 ---

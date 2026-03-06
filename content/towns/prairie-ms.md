@@ -1,7 +1,7 @@
 ---
-title: "Prairie, Mississippi Business Directory"
+title: "Prairie, MS Business Directory"
+type: "towns"
 slug: "prairie-ms"
-state: "MS"
-county: "Monroe"
-population: 98
+state: "ms"
+town_data: "prairie-ms"
 ---

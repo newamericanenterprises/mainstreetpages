@@ -1,9 +1,7 @@
 ---
-title: "Adams, Massachusetts Business Directory"
+title: "Adams, MA Business Directory"
+type: "towns"
 slug: "adams-ma"
-town: "Adams"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8166
+state: "ma"
+town_data: "adams-ma"
 ---

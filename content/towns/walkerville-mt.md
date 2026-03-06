@@ -1,7 +1,7 @@
 ---
-title: "Walkerville, Montana Business Directory"
+title: "Walkerville, MT Business Directory"
+type: "towns"
 slug: "walkerville-mt"
-state: "MT"
-county: "Butte-Silver Bow"
-population: 500
+state: "mt"
+town_data: "walkerville-mt"
 ---

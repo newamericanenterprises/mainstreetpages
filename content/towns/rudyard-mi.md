@@ -1,9 +1,7 @@
 ---
-title: "Rudyard, Michigan Business Directory"
+title: "Rudyard, MI Business Directory"
+type: "towns"
 slug: "rudyard-mi"
-town: "Rudyard"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 540
+state: "mi"
+town_data: "rudyard-mi"
 ---

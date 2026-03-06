@@ -1,7 +1,7 @@
 ---
-title: "Flora, Mississippi Business Directory"
+title: "Flora, MS Business Directory"
+type: "towns"
 slug: "flora-ms"
-state: "MS"
-county: "Madison"
-population: 1999
+state: "ms"
+town_data: "flora-ms"
 ---

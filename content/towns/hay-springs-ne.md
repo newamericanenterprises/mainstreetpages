@@ -1,7 +1,7 @@
 ---
-title: "Hay Springs, Nebraska Business Directory"
+title: "Hay Springs, NE Business Directory"
+type: "towns"
 slug: "hay-springs-ne"
-state: "NE"
-county: "Sheridan"
-population: 563
+state: "ne"
+town_data: "hay-springs-ne"
 ---

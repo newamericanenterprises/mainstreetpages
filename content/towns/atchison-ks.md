@@ -1,9 +1,7 @@
 ---
-title: "Atchison, Kansas Business Directory"
+title: "Atchison, KS Business Directory"
+type: "towns"
 slug: "atchison-ks"
-town: "Atchison"
-state: "Kansas"
-state_abbr: "KS"
-county: "Atchison"
-population: 10397
+state: "ks"
+town_data: "atchison-ks"
 ---

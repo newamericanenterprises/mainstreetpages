@@ -1,9 +1,7 @@
 ---
-title: "Blakesburg, Iowa Business Directory"
+title: "Blakesburg, IA Business Directory"
+type: "towns"
 slug: "blakesburg-ia"
-town: "Blakesburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wapello"
-population: 1358
+state: "ia"
+town_data: "blakesburg-ia"
 ---

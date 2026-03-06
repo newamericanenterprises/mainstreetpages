@@ -1,7 +1,7 @@
 ---
-title: "Strang, Nebraska Business Directory"
+title: "Strang, NE Business Directory"
+type: "towns"
 slug: "strang-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "strang-ne"
 ---

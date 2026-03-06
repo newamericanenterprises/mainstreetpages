@@ -1,9 +1,7 @@
 ---
-title: "Bremen, Indiana Business Directory"
+title: "Bremen, IN Business Directory"
+type: "towns"
 slug: "bremen-in"
-town: "Bremen"
-state: "Indiana"
-state_abbr: "IN"
-county: "Marshall"
-population: 5202
+state: "in"
+town_data: "bremen-in"
 ---

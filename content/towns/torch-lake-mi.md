@@ -1,9 +1,7 @@
 ---
-title: "Torch Lake, Michigan Business Directory"
+title: "Torch Lake, MI Business Directory"
+type: "towns"
 slug: "torch-lake-mi"
-town: "Torch Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Antrim"
-population: 2403
+state: "mi"
+town_data: "torch-lake-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Nashua, Montana Business Directory"
+title: "Nashua, MT Business Directory"
+type: "towns"
 slug: "nashua-mt"
-state: "MT"
-county: "Valley"
-population: 500
+state: "mt"
+town_data: "nashua-mt"
 ---

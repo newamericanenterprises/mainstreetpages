@@ -1,9 +1,7 @@
 ---
-title: "Greensboro, Indiana Business Directory"
+title: "Greensboro, IN Business Directory"
+type: "towns"
 slug: "greensboro-in"
-town: "Greensboro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Henry"
-population: 4631
+state: "in"
+town_data: "greensboro-in"
 ---

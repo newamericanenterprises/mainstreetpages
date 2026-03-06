@@ -1,7 +1,7 @@
 ---
-title: "Goodman, Missouri Business Directory"
+title: "Goodman, MO Business Directory"
+type: "towns"
 slug: "goodman-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "goodman-mo"
 ---

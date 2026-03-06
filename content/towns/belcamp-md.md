@@ -1,9 +1,7 @@
 ---
-title: "Belcamp, Maryland Business Directory"
+title: "Belcamp, MD Business Directory"
+type: "towns"
 slug: "belcamp-md"
-town: "Belcamp"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 544
+state: "md"
+town_data: "belcamp-md"
 ---

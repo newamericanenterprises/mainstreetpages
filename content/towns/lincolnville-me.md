@@ -1,9 +1,7 @@
 ---
-title: "Lincolnville, Maine Business Directory"
+title: "Lincolnville, ME Business Directory"
+type: "towns"
 slug: "lincolnville-me"
-town: "Lincolnville"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 366
+state: "me"
+town_data: "lincolnville-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Myrtle, Mississippi Business Directory"
+title: "Myrtle, MS Business Directory"
+type: "towns"
 slug: "myrtle-ms"
-state: "MS"
-county: "Union"
-population: 454
+state: "ms"
+town_data: "myrtle-ms"
 ---

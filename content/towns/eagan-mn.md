@@ -1,9 +1,7 @@
 ---
-title: "Eagan, Minnesota Business Directory"
+title: "Eagan, MN Business Directory"
+type: "towns"
 slug: "eagan-mn"
-town: "Eagan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 68855
+state: "mn"
+town_data: "eagan-mn"
 ---

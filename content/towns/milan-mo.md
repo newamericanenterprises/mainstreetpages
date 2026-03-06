@@ -1,7 +1,7 @@
 ---
-title: "Milan, Missouri Business Directory"
+title: "Milan, MO Business Directory"
+type: "towns"
 slug: "milan-mo"
-state: "MO"
-county: "Sullivan"
-population: 1911
+state: "mo"
+town_data: "milan-mo"
 ---

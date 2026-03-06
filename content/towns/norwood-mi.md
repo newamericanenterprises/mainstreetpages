@@ -1,9 +1,7 @@
 ---
-title: "Norwood, Michigan Business Directory"
+title: "Norwood, MI Business Directory"
+type: "towns"
 slug: "norwood-mi"
-town: "Norwood"
-state: "Michigan"
-state_abbr: "MI"
-county: "Charlevoix"
-population: 3379
+state: "mi"
+town_data: "norwood-mi"
 ---

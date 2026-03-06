@@ -1,9 +1,7 @@
 ---
-title: "Scammon, Kansas Business Directory"
+title: "Scammon, KS Business Directory"
+type: "towns"
 slug: "scammon-ks"
-town: "Scammon"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cherokee"
-population: 2317
+state: "ks"
+town_data: "scammon-ks"
 ---

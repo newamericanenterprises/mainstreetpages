@@ -1,7 +1,7 @@
 ---
-title: "Slater, Missouri Business Directory"
+title: "Slater, MO Business Directory"
+type: "towns"
 slug: "slater-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "slater-mo"
 ---

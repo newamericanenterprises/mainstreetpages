@@ -1,7 +1,7 @@
 ---
-title: "Gray Summit, Missouri Business Directory"
+title: "Gray Summit, MO Business Directory"
+type: "towns"
 slug: "gray-summit-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "gray-summit-mo"
 ---

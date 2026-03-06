@@ -1,7 +1,7 @@
 ---
-title: "Ramsay, Montana Business Directory"
+title: "Ramsay, MT Business Directory"
+type: "towns"
 slug: "ramsay-mt"
-state: "MT"
-county: "Butte-Silver Bow"
-population: 500
+state: "mt"
+town_data: "ramsay-mt"
 ---

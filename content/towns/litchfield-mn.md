@@ -1,9 +1,7 @@
 ---
-title: "Litchfield, Minnesota Business Directory"
+title: "Litchfield, MN Business Directory"
+type: "towns"
 slug: "litchfield-mn"
-town: "Litchfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Meeker"
-population: 6726
+state: "mn"
+town_data: "litchfield-mn"
 ---

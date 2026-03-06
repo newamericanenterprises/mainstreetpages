@@ -1,9 +1,7 @@
 ---
-title: "Jordan, Minnesota Business Directory"
+title: "Jordan, MN Business Directory"
+type: "towns"
 slug: "jordan-mn"
-town: "Jordan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 2762
+state: "mn"
+town_data: "jordan-mn"
 ---

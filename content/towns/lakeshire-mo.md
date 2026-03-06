@@ -1,7 +1,7 @@
 ---
-title: "Lakeshire, Missouri Business Directory"
+title: "Lakeshire, MO Business Directory"
+type: "towns"
 slug: "lakeshire-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "lakeshire-mo"
 ---

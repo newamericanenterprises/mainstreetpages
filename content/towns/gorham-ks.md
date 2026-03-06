@@ -1,9 +1,7 @@
 ---
-title: "Gorham, Kansas Business Directory"
+title: "Gorham, KS Business Directory"
+type: "towns"
 slug: "gorham-ks"
-town: "Gorham"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 2221
+state: "ks"
+town_data: "gorham-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wayland, Massachusetts Business Directory"
+title: "Wayland, MA Business Directory"
+type: "towns"
 slug: "wayland-ma"
-town: "Wayland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 2812
+state: "ma"
+town_data: "wayland-ma"
 ---

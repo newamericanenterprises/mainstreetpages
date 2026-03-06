@@ -1,9 +1,7 @@
 ---
-title: "Attica, Kansas Business Directory"
+title: "Attica, KS Business Directory"
+type: "towns"
 slug: "attica-ks"
-town: "Attica"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 1298
+state: "ks"
+town_data: "attica-ks"
 ---

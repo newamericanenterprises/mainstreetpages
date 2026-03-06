@@ -1,9 +1,7 @@
 ---
-title: "Kalvesta, Kansas Business Directory"
+title: "Kalvesta, KS Business Directory"
+type: "towns"
 slug: "kalvesta-ks"
-town: "Kalvesta"
-state: "Kansas"
-state_abbr: "KS"
-county: "Finney"
-population: 2768
+state: "ks"
+town_data: "kalvesta-ks"
 ---

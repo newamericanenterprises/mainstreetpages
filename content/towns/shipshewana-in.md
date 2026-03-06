@@ -1,9 +1,7 @@
 ---
-title: "Shipshewana, Indiana Business Directory"
+title: "Shipshewana, IN Business Directory"
+type: "towns"
 slug: "shipshewana-in"
-town: "Shipshewana"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaGrange"
-population: 2398
+state: "in"
+town_data: "shipshewana-in"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Strafford, Missouri Business Directory"
+title: "Strafford, MO Business Directory"
+type: "towns"
 slug: "strafford-mo"
-state: "MO"
-county: "Greene"
-population: 1500
+state: "mo"
+town_data: "strafford-mo"
 ---

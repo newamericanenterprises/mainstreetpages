@@ -1,9 +1,7 @@
 ---
-title: "Holden, Louisiana Business Directory"
+title: "Holden, LA Business Directory"
+type: "towns"
 slug: "holden-la"
-town: "Holden"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Livingston"
-population: 1037
+state: "la"
+town_data: "holden-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Avon, Minnesota Business Directory"
+title: "Avon, MN Business Directory"
+type: "towns"
 slug: "avon-mn"
-town: "Avon"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1306
+state: "mn"
+town_data: "avon-mn"
 ---

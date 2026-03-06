@@ -1,7 +1,7 @@
 ---
-title: "Superior, Nebraska Business Directory"
+title: "Superior, NE Business Directory"
+type: "towns"
 slug: "superior-ne"
-state: "NE"
-county: "Nuckolls"
-population: 1957
+state: "ne"
+town_data: "superior-ne"
 ---

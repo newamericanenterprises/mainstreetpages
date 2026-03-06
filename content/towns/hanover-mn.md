@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Minnesota Business Directory"
+title: "Hanover, MN Business Directory"
+type: "towns"
 slug: "hanover-mn"
-town: "Hanover"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 866
+state: "mn"
+town_data: "hanover-mn"
 ---

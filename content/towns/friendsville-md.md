@@ -1,9 +1,7 @@
 ---
-title: "Friendsville, Maryland Business Directory"
+title: "Friendsville, MD Business Directory"
+type: "towns"
 slug: "friendsville-md"
-town: "Friendsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 5051
+state: "md"
+town_data: "friendsville-md"
 ---

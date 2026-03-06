@@ -1,9 +1,7 @@
 ---
-title: "Kanorado, Kansas Business Directory"
+title: "Kanorado, KS Business Directory"
+type: "towns"
 slug: "kanorado-ks"
-town: "Kanorado"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sherman"
-population: 1947
+state: "ks"
+town_data: "kanorado-ks"
 ---

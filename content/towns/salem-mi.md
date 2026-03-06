@@ -1,9 +1,7 @@
 ---
-title: "Salem, Michigan Business Directory"
+title: "Salem, MI Business Directory"
+type: "towns"
 slug: "salem-mi"
-town: "Salem"
-state: "Michigan"
-state_abbr: "MI"
-county: "Washtenaw"
-population: 4918
+state: "mi"
+town_data: "salem-mi"
 ---

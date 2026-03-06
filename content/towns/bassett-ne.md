@@ -1,7 +1,7 @@
 ---
-title: "Bassett, Nebraska Business Directory"
+title: "Bassett, NE Business Directory"
+type: "towns"
 slug: "bassett-ne"
-state: "NE"
-county: "Rock"
-population: 639
+state: "ne"
+town_data: "bassett-ne"
 ---

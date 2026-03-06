@@ -1,9 +1,7 @@
 ---
-title: "Pendleton, Indiana Business Directory"
+title: "Pendleton, IN Business Directory"
+type: "towns"
 slug: "pendleton-in"
-town: "Pendleton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Madison"
-population: 4253
+state: "in"
+town_data: "pendleton-in"
 ---

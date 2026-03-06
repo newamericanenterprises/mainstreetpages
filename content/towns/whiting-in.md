@@ -1,9 +1,7 @@
 ---
-title: "Whiting, Indiana Business Directory"
+title: "Whiting, IN Business Directory"
+type: "towns"
 slug: "whiting-in"
-town: "Whiting"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 4997
+state: "in"
+town_data: "whiting-in"
 ---

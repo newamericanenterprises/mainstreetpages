@@ -1,7 +1,7 @@
 ---
-title: "Greenville, Missouri Business Directory"
+title: "Greenville, MO Business Directory"
+type: "towns"
 slug: "greenville-mo"
-state: "MO"
-county: "Wayne"
-population: 463
+state: "mo"
+town_data: "greenville-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Round Hill Village, Nevada Business Directory"
+title: "Round Hill Village, NV Business Directory"
+type: "towns"
 slug: "round-hill-village-nv"
-state: "NV"
-county: "Douglas"
-population: 2442
+state: "nv"
+town_data: "round-hill-village-nv"
 ---

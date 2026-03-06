@@ -1,7 +1,7 @@
 ---
-title: "Philipsburg, Montana Business Directory"
+title: "Philipsburg, MT Business Directory"
+type: "towns"
 slug: "philipsburg-mt"
-state: "MT"
-county: "Granite"
-population: 820
+state: "mt"
+town_data: "philipsburg-mt"
 ---

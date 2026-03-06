@@ -1,9 +1,7 @@
 ---
-title: "Napoleonville, Louisiana Business Directory"
+title: "Napoleonville, LA Business Directory"
+type: "towns"
 slug: "napoleonville-la"
-town: "Napoleonville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Assumption"
-population: 3003
+state: "la"
+town_data: "napoleonville-la"
 ---

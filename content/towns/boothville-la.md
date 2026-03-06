@@ -1,9 +1,7 @@
 ---
-title: "Boothville, Louisiana Business Directory"
+title: "Boothville, LA Business Directory"
+type: "towns"
 slug: "boothville-la"
-town: "Boothville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Plaquemines"
-population: 2348
+state: "la"
+town_data: "boothville-la"
 ---

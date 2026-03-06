@@ -1,9 +1,7 @@
 ---
-title: "Corcoran, Minnesota Business Directory"
+title: "Corcoran, MN Business Directory"
+type: "towns"
 slug: "corcoran-mn"
-town: "Corcoran"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 494
+state: "mn"
+town_data: "corcoran-mn"
 ---

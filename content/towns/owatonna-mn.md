@@ -1,9 +1,7 @@
 ---
-title: "Owatonna, Minnesota Business Directory"
+title: "Owatonna, MN Business Directory"
+type: "towns"
 slug: "owatonna-mn"
-town: "Owatonna"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Steele"
-population: 25954
+state: "mn"
+town_data: "owatonna-mn"
 ---

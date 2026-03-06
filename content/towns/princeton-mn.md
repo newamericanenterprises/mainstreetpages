@@ -1,9 +1,7 @@
 ---
-title: "Princeton, Minnesota Business Directory"
+title: "Princeton, MN Business Directory"
+type: "towns"
 slug: "princeton-mn"
-town: "Princeton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mille Lacs"
-population: 1877
+state: "mn"
+town_data: "princeton-mn"
 ---

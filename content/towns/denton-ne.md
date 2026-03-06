@@ -1,7 +1,7 @@
 ---
-title: "Denton, Nebraska Business Directory"
+title: "Denton, NE Business Directory"
+type: "towns"
 slug: "denton-ne"
-state: "NE"
-county: "Lancaster"
-population: 500
+state: "ne"
+town_data: "denton-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Holden, Massachusetts Business Directory"
+title: "Holden, MA Business Directory"
+type: "towns"
 slug: "holden-ma"
-town: "Holden"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 18983
+state: "ma"
+town_data: "holden-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Westminster, Massachusetts Business Directory"
+title: "Westminster, MA Business Directory"
+type: "towns"
 slug: "westminster-ma"
-town: "Westminster"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 1421
+state: "ma"
+town_data: "westminster-ma"
 ---

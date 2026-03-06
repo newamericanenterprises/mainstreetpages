@@ -1,7 +1,7 @@
 ---
-title: "University, Mississippi Business Directory"
+title: "University, MS Business Directory"
+type: "towns"
 slug: "university-ms"
-state: "MS"
-county: "Lafayette"
-population: 5540
+state: "ms"
+town_data: "university-ms"
 ---

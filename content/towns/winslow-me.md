@@ -1,9 +1,7 @@
 ---
-title: "Winslow, Maine Business Directory"
+title: "Winslow, ME Business Directory"
+type: "towns"
 slug: "winslow-me"
-town: "Winslow"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 7794
+state: "me"
+town_data: "winslow-me"
 ---

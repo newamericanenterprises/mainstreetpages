@@ -1,9 +1,7 @@
 ---
-title: "Albion, Indiana Business Directory"
+title: "Albion, IN Business Directory"
+type: "towns"
 slug: "albion-in"
-town: "Albion"
-state: "Indiana"
-state_abbr: "IN"
-county: "Noble"
-population: 1574
+state: "in"
+town_data: "albion-in"
 ---

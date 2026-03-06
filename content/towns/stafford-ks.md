@@ -1,9 +1,7 @@
 ---
-title: "Stafford, Kansas Business Directory"
+title: "Stafford, KS Business Directory"
+type: "towns"
 slug: "stafford-ks"
-town: "Stafford"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 2093
+state: "ks"
+town_data: "stafford-ks"
 ---

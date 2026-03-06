@@ -1,9 +1,7 @@
 ---
-title: "New Carrollton, Maryland Business Directory"
+title: "New Carrollton, MD Business Directory"
+type: "towns"
 slug: "new-carrollton-md"
-town: "New Carrollton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5178
+state: "md"
+town_data: "new-carrollton-md"
 ---

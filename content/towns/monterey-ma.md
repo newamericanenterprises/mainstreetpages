@@ -1,9 +1,7 @@
 ---
-title: "Monterey, Massachusetts Business Directory"
+title: "Monterey, MA Business Directory"
+type: "towns"
 slug: "monterey-ma"
-town: "Monterey"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 4799
+state: "ma"
+town_data: "monterey-ma"
 ---

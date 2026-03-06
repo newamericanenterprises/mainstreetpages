@@ -1,7 +1,7 @@
 ---
-title: "Dexter, Missouri Business Directory"
+title: "Dexter, MO Business Directory"
+type: "towns"
 slug: "dexter-mo"
-state: "MO"
-county: "Stoddard"
-population: 7873
+state: "mo"
+town_data: "dexter-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brentwood, Maryland Business Directory"
+title: "Brentwood, MD Business Directory"
+type: "towns"
 slug: "brentwood-md"
-town: "Brentwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5366
+state: "md"
+town_data: "brentwood-md"
 ---

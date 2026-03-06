@@ -1,9 +1,7 @@
 ---
-title: "Ogunquit, Maine Business Directory"
+title: "Ogunquit, ME Business Directory"
+type: "towns"
 slug: "ogunquit-me"
-town: "Ogunquit"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2234
+state: "me"
+town_data: "ogunquit-me"
 ---

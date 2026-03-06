@@ -1,7 +1,7 @@
 ---
-title: "Cedarcreek, Missouri Business Directory"
+title: "Cedarcreek, MO Business Directory"
+type: "towns"
 slug: "cedarcreek-mo"
-state: "MO"
-county: "Taney"
-population: 1500
+state: "mo"
+town_data: "cedarcreek-mo"
 ---

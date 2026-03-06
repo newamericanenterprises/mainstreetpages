@@ -1,9 +1,7 @@
 ---
-title: "West Stockbridge, Massachusetts Business Directory"
+title: "West Stockbridge, MA Business Directory"
+type: "towns"
 slug: "west-stockbridge-ma"
-town: "West Stockbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 4230
+state: "ma"
+town_data: "west-stockbridge-ma"
 ---

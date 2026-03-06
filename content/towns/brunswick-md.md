@@ -1,9 +1,7 @@
 ---
-title: "Brunswick, Maryland Business Directory"
+title: "Brunswick, MD Business Directory"
+type: "towns"
 slug: "brunswick-md"
-town: "Brunswick"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 6264
+state: "md"
+town_data: "brunswick-md"
 ---

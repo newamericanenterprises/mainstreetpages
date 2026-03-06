@@ -1,7 +1,7 @@
 ---
-title: "Bolivar, Missouri Business Directory"
+title: "Bolivar, MO Business Directory"
+type: "towns"
 slug: "bolivar-mo"
-state: "MO"
-county: "Polk"
-population: 10325
+state: "mo"
+town_data: "bolivar-mo"
 ---

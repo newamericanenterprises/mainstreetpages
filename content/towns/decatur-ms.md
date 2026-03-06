@@ -1,7 +1,7 @@
 ---
-title: "Decatur, Mississippi Business Directory"
+title: "Decatur, MS Business Directory"
+type: "towns"
 slug: "decatur-ms"
-state: "MS"
-county: "Newton"
-population: 1499
+state: "ms"
+town_data: "decatur-ms"
 ---

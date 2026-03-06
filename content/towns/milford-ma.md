@@ -1,9 +1,7 @@
 ---
-title: "Milford, Massachusetts Business Directory"
+title: "Milford, MA Business Directory"
+type: "towns"
 slug: "milford-ma"
-town: "Milford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 30000
+state: "ma"
+town_data: "milford-ma"
 ---

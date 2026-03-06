@@ -1,9 +1,7 @@
 ---
-title: "Iowa Falls, Iowa Business Directory"
+title: "Iowa Falls, IA Business Directory"
+type: "towns"
 slug: "iowa-falls-ia"
-town: "Iowa Falls"
-state: "Iowa"
-state_abbr: "IA"
-county: "Hardin"
-population: 1014
+state: "ia"
+town_data: "iowa-falls-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hessmer, Louisiana Business Directory"
+title: "Hessmer, LA Business Directory"
+type: "towns"
 slug: "hessmer-la"
-town: "Hessmer"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 2113
+state: "la"
+town_data: "hessmer-la"
 ---

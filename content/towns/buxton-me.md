@@ -1,9 +1,7 @@
 ---
-title: "Buxton, Maine Business Directory"
+title: "Buxton, ME Business Directory"
+type: "towns"
 slug: "buxton-me"
-town: "Buxton"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1994
+state: "me"
+town_data: "buxton-me"
 ---

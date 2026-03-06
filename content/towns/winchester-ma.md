@@ -1,9 +1,7 @@
 ---
-title: "Winchester, Massachusetts Business Directory"
+title: "Winchester, MA Business Directory"
+type: "towns"
 slug: "winchester-ma"
-town: "Winchester"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 3875
+state: "ma"
+town_data: "winchester-ma"
 ---

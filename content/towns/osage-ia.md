@@ -1,9 +1,7 @@
 ---
-title: "Osage, Iowa Business Directory"
+title: "Osage, IA Business Directory"
+type: "towns"
 slug: "osage-ia"
-town: "Osage"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 3619
+state: "ia"
+town_data: "osage-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Polk, Missouri Business Directory"
+title: "Polk, MO Business Directory"
+type: "towns"
 slug: "polk-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "polk-mo"
 ---

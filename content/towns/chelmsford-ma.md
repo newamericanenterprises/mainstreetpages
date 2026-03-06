@@ -1,9 +1,7 @@
 ---
-title: "Chelmsford, Massachusetts Business Directory"
+title: "Chelmsford, MA Business Directory"
+type: "towns"
 slug: "chelmsford-ma"
-town: "Chelmsford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 35940
+state: "ma"
+town_data: "chelmsford-ma"
 ---

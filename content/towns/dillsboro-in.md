@@ -1,9 +1,7 @@
 ---
-title: "Dillsboro, Indiana Business Directory"
+title: "Dillsboro, IN Business Directory"
+type: "towns"
 slug: "dillsboro-in"
-town: "Dillsboro"
-state: "Indiana"
-state_abbr: "IN"
-county: "Dearborn"
-population: 1724
+state: "in"
+town_data: "dillsboro-in"
 ---

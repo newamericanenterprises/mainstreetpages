@@ -1,9 +1,7 @@
 ---
-title: "Irvine, Kentucky Business Directory"
+title: "Irvine, KY Business Directory"
+type: "towns"
 slug: "irvine-ky"
-town: "Irvine"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Estill"
-population: 2489
+state: "ky"
+town_data: "irvine-ky"
 ---

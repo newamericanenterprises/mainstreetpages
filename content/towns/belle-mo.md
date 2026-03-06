@@ -1,7 +1,7 @@
 ---
-title: "Belle, Missouri Business Directory"
+title: "Belle, MO Business Directory"
+type: "towns"
 slug: "belle-mo"
-state: "MO"
-county: "Maries"
-population: 1591
+state: "mo"
+town_data: "belle-mo"
 ---

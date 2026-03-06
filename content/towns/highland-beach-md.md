@@ -1,9 +1,7 @@
 ---
-title: "Highland Beach, Maryland Business Directory"
+title: "Highland Beach, MD Business Directory"
+type: "towns"
 slug: "highland-beach-md"
-town: "Highland Beach"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 794
+state: "md"
+town_data: "highland-beach-md"
 ---

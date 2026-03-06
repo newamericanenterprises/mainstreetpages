@@ -1,7 +1,7 @@
 ---
-title: "Neck City, Missouri Business Directory"
+title: "Neck City, MO Business Directory"
+type: "towns"
 slug: "neck-city-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "neck-city-mo"
 ---

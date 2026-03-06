@@ -1,9 +1,7 @@
 ---
-title: "Farmerville, Louisiana Business Directory"
+title: "Farmerville, LA Business Directory"
+type: "towns"
 slug: "farmerville-la"
-town: "Farmerville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Union"
-population: 3872
+state: "la"
+town_data: "farmerville-la"
 ---

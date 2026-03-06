@@ -1,7 +1,7 @@
 ---
-title: "North Kansas City, Missouri Business Directory"
+title: "North Kansas City, MO Business Directory"
+type: "towns"
 slug: "north-kansas-city-mo"
-state: "MO"
-county: "Clay"
-population: 1500
+state: "mo"
+town_data: "north-kansas-city-mo"
 ---

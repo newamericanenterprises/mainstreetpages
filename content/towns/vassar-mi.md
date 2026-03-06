@@ -1,9 +1,7 @@
 ---
-title: "Vassar, Michigan Business Directory"
+title: "Vassar, MI Business Directory"
+type: "towns"
 slug: "vassar-mi"
-town: "Vassar"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 522
+state: "mi"
+town_data: "vassar-mi"
 ---

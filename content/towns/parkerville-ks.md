@@ -1,9 +1,7 @@
 ---
-title: "Parkerville, Kansas Business Directory"
+title: "Parkerville, KS Business Directory"
+type: "towns"
 slug: "parkerville-ks"
-town: "Parkerville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Morris"
-population: 3193
+state: "ks"
+town_data: "parkerville-ks"
 ---

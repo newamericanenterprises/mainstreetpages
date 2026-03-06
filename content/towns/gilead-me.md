@@ -1,9 +1,7 @@
 ---
-title: "Gilead, Maine Business Directory"
+title: "Gilead, ME Business Directory"
+type: "towns"
 slug: "gilead-me"
-town: "Gilead"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2414
+state: "me"
+town_data: "gilead-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Newman Grove, Nebraska Business Directory"
+title: "Newman Grove, NE Business Directory"
+type: "towns"
 slug: "newman-grove-ne"
-state: "NE"
-county: "Madison"
-population: 739
+state: "ne"
+town_data: "newman-grove-ne"
 ---

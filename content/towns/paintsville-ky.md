@@ -1,9 +1,7 @@
 ---
-title: "Paintsville, Kentucky Business Directory"
+title: "Paintsville, KY Business Directory"
+type: "towns"
 slug: "paintsville-ky"
-town: "Paintsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Johnson"
-population: 3954
+state: "ky"
+town_data: "paintsville-ky"
 ---

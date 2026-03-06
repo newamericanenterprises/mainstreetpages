@@ -1,9 +1,7 @@
 ---
-title: "Andale, Kansas Business Directory"
+title: "Andale, KS Business Directory"
+type: "towns"
 slug: "andale-ks"
-town: "Andale"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 1355
+state: "ks"
+town_data: "andale-ks"
 ---

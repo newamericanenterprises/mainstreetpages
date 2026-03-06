@@ -1,7 +1,7 @@
 ---
-title: "Ashton, Nebraska Business Directory"
+title: "Ashton, NE Business Directory"
+type: "towns"
 slug: "ashton-ne"
-state: "NE"
-county: "Sherman"
-population: 500
+state: "ne"
+town_data: "ashton-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fulda, Minnesota Business Directory"
+title: "Fulda, MN Business Directory"
+type: "towns"
 slug: "fulda-mn"
-town: "Fulda"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Murray"
-population: 2215
+state: "mn"
+town_data: "fulda-mn"
 ---

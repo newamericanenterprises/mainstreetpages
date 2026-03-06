@@ -1,9 +1,7 @@
 ---
-title: "Gaston, Indiana Business Directory"
+title: "Gaston, IN Business Directory"
+type: "towns"
 slug: "gaston-in"
-town: "Gaston"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 2895
+state: "in"
+town_data: "gaston-in"
 ---

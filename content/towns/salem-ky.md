@@ -1,9 +1,7 @@
 ---
-title: "Salem, Kentucky Business Directory"
+title: "Salem, KY Business Directory"
+type: "towns"
 slug: "salem-ky"
-town: "Salem"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Livingston"
-population: 2225
+state: "ky"
+town_data: "salem-ky"
 ---

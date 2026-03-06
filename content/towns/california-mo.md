@@ -1,7 +1,7 @@
 ---
-title: "California, Missouri Business Directory"
+title: "California, MO Business Directory"
+type: "towns"
 slug: "california-mo"
-state: "MO"
-county: "Moniteau"
-population: 4454
+state: "mo"
+town_data: "california-mo"
 ---

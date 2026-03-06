@@ -1,7 +1,7 @@
 ---
-title: "Moorhead, Mississippi Business Directory"
+title: "Moorhead, MS Business Directory"
+type: "towns"
 slug: "moorhead-ms"
-state: "MS"
-county: "Sunflower"
-population: 2140
+state: "ms"
+town_data: "moorhead-ms"
 ---

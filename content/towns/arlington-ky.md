@@ -1,9 +1,7 @@
 ---
-title: "Arlington, Kentucky Business Directory"
+title: "Arlington, KY Business Directory"
+type: "towns"
 slug: "arlington-ky"
-town: "Arlington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Carlisle"
-population: 2709
+state: "ky"
+town_data: "arlington-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Shamrock Lakes, Indiana Business Directory"
+title: "Shamrock Lakes, IN Business Directory"
+type: "towns"
 slug: "shamrock-lakes-in"
-town: "Shamrock Lakes"
-state: "Indiana"
-state_abbr: "IN"
-county: "Blackford"
-population: 4554
+state: "in"
+town_data: "shamrock-lakes-in"
 ---

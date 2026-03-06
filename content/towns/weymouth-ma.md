@@ -1,9 +1,7 @@
 ---
-title: "Weymouth, Massachusetts Business Directory"
+title: "Weymouth, MA Business Directory"
+type: "towns"
 slug: "weymouth-ma"
-town: "Weymouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 57746
+state: "ma"
+town_data: "weymouth-ma"
 ---

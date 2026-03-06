@@ -1,9 +1,7 @@
 ---
-title: "Havensville, Kansas Business Directory"
+title: "Havensville, KS Business Directory"
+type: "towns"
 slug: "havensville-ks"
-town: "Havensville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Pottawatomie"
-population: 1517
+state: "ks"
+town_data: "havensville-ks"
 ---

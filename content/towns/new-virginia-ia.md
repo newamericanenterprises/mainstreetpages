@@ -1,9 +1,7 @@
 ---
-title: "New Virginia, Iowa Business Directory"
+title: "New Virginia, IA Business Directory"
+type: "towns"
 slug: "new-virginia-ia"
-town: "New Virginia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 2298
+state: "ia"
+town_data: "new-virginia-ia"
 ---

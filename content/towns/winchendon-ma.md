@@ -1,9 +1,7 @@
 ---
-title: "Winchendon, Massachusetts Business Directory"
+title: "Winchendon, MA Business Directory"
+type: "towns"
 slug: "winchendon-ma"
-town: "Winchendon"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 8363
+state: "ma"
+town_data: "winchendon-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cannelton, Indiana Business Directory"
+title: "Cannelton, IN Business Directory"
+type: "towns"
 slug: "cannelton-in"
-town: "Cannelton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Perry"
-population: 1927
+state: "in"
+town_data: "cannelton-in"
 ---

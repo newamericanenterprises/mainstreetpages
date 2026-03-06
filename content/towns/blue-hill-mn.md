@@ -1,9 +1,7 @@
 ---
-title: "Blue Hill, Minnesota Business Directory"
+title: "Blue Hill, MN Business Directory"
+type: "towns"
 slug: "blue-hill-mn"
-town: "Blue Hill"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 1254
+state: "mn"
+town_data: "blue-hill-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "South Lyon, Michigan Business Directory"
+title: "South Lyon, MI Business Directory"
+type: "towns"
 slug: "south-lyon-mi"
-town: "South Lyon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4987
+state: "mi"
+town_data: "south-lyon-mi"
 ---

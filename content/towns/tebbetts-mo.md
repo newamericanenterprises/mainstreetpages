@@ -1,7 +1,7 @@
 ---
-title: "Tebbetts, Missouri Business Directory"
+title: "Tebbetts, MO Business Directory"
+type: "towns"
 slug: "tebbetts-mo"
-state: "MO"
-county: "Callaway"
-population: 1500
+state: "mo"
+town_data: "tebbetts-mo"
 ---

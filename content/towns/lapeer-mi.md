@@ -1,9 +1,7 @@
 ---
-title: "Lapeer, Michigan Business Directory"
+title: "Lapeer, MI Business Directory"
+type: "towns"
 slug: "lapeer-mi"
-town: "Lapeer"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lapeer"
-population: 5481
+state: "mi"
+town_data: "lapeer-mi"
 ---

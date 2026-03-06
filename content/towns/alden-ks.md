@@ -1,9 +1,7 @@
 ---
-title: "Alden, Kansas Business Directory"
+title: "Alden, KS Business Directory"
+type: "towns"
 slug: "alden-ks"
-town: "Alden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 1117
+state: "ks"
+town_data: "alden-ks"
 ---

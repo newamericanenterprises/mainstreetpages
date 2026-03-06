@@ -1,9 +1,7 @@
 ---
-title: "Wolverine, Michigan Business Directory"
+title: "Wolverine, MI Business Directory"
+type: "towns"
 slug: "wolverine-mi"
-town: "Wolverine"
-state: "Michigan"
-state_abbr: "MI"
-county: "Cheboygan"
-population: 2635
+state: "mi"
+town_data: "wolverine-mi"
 ---

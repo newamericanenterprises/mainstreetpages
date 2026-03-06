@@ -1,9 +1,7 @@
 ---
-title: "Lone Tree, Iowa Business Directory"
+title: "Lone Tree, IA Business Directory"
+type: "towns"
 slug: "lone-tree-ia"
-town: "Lone Tree"
-state: "Iowa"
-state_abbr: "IA"
-county: "Johnson"
-population: 2486
+state: "ia"
+town_data: "lone-tree-ia"
 ---

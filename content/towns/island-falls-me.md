@@ -1,9 +1,7 @@
 ---
-title: "Island Falls, Maine Business Directory"
+title: "Island Falls, ME Business Directory"
+type: "towns"
 slug: "island-falls-me"
-town: "Island Falls"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 415
+state: "me"
+town_data: "island-falls-me"
 ---

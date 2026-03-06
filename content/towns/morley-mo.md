@@ -1,7 +1,7 @@
 ---
-title: "Morley, Missouri Business Directory"
+title: "Morley, MO Business Directory"
+type: "towns"
 slug: "morley-mo"
-state: "MO"
-county: "Scott"
-population: 1500
+state: "mo"
+town_data: "morley-mo"
 ---

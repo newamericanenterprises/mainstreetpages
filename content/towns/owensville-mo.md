@@ -1,7 +1,7 @@
 ---
-title: "Owensville, Missouri Business Directory"
+title: "Owensville, MO Business Directory"
+type: "towns"
 slug: "owensville-mo"
-state: "MO"
-county: "Gasconade"
-population: 2676
+state: "mo"
+town_data: "owensville-mo"
 ---

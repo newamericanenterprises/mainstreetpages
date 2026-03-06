@@ -1,7 +1,7 @@
 ---
-title: "Crystal Bay, Nevada Business Directory"
+title: "Crystal Bay, NV Business Directory"
+type: "towns"
 slug: "crystal-bay-nv"
-state: "NV"
-county: "Washoe"
-population: 278
+state: "nv"
+town_data: "crystal-bay-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Orleans, Indiana Business Directory"
+title: "Orleans, IN Business Directory"
+type: "towns"
 slug: "orleans-in"
-town: "Orleans"
-state: "Indiana"
-state_abbr: "IN"
-county: "Orange"
-population: 2949
+state: "in"
+town_data: "orleans-in"
 ---

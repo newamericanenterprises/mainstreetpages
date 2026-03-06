@@ -1,7 +1,7 @@
 ---
-title: "Browning, Montana Business Directory"
+title: "Browning, MT Business Directory"
+type: "towns"
 slug: "browning-mt"
-state: "MT"
-county: "Glacier"
-population: 1016
+state: "mt"
+town_data: "browning-mt"
 ---

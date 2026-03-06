@@ -1,9 +1,7 @@
 ---
-title: "Silver Spring, Maryland Business Directory"
+title: "Silver Spring, MD Business Directory"
+type: "towns"
 slug: "silver-spring-md"
-town: "Silver Spring"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 81015
+state: "md"
+town_data: "silver-spring-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Opelousas, Louisiana Business Directory"
+title: "Opelousas, LA Business Directory"
+type: "towns"
 slug: "opelousas-la"
-town: "Opelousas"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Landry"
-population: 16010
+state: "la"
+town_data: "opelousas-la"
 ---

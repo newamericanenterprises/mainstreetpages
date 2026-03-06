@@ -1,9 +1,7 @@
 ---
-title: "Goldsboro, Maryland Business Directory"
+title: "Goldsboro, MD Business Directory"
+type: "towns"
 slug: "goldsboro-md"
-town: "Goldsboro"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 1791
+state: "md"
+town_data: "goldsboro-md"
 ---

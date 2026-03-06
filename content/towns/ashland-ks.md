@@ -1,9 +1,7 @@
 ---
-title: "Ashland, Kansas Business Directory"
+title: "Ashland, KS Business Directory"
+type: "towns"
 slug: "ashland-ks"
-town: "Ashland"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clark"
-population: 798
+state: "ks"
+town_data: "ashland-ks"
 ---

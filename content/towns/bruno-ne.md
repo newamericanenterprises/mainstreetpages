@@ -1,7 +1,7 @@
 ---
-title: "Bruno, Nebraska Business Directory"
+title: "Bruno, NE Business Directory"
+type: "towns"
 slug: "bruno-ne"
-state: "NE"
-county: "Butler"
-population: 500
+state: "ne"
+town_data: "bruno-ne"
 ---

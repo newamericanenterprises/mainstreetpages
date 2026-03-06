@@ -1,9 +1,7 @@
 ---
-title: "Mount Vernon, Iowa Business Directory"
+title: "Mount Vernon, IA Business Directory"
+type: "towns"
 slug: "mount-vernon-ia"
-town: "Mount Vernon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 3163
+state: "ia"
+town_data: "mount-vernon-ia"
 ---

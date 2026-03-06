@@ -1,9 +1,7 @@
 ---
-title: "Crab Orchard, Kentucky Business Directory"
+title: "Crab Orchard, KY Business Directory"
+type: "towns"
 slug: "crab-orchard-ky"
-town: "Crab Orchard"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Lincoln"
-population: 2743
+state: "ky"
+town_data: "crab-orchard-ky"
 ---

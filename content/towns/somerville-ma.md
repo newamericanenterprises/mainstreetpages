@@ -1,9 +1,7 @@
 ---
-title: "Somerville, Massachusetts Business Directory"
+title: "Somerville, MA Business Directory"
+type: "towns"
 slug: "somerville-ma"
-town: "Somerville"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 81360
+state: "ma"
+town_data: "somerville-ma"
 ---

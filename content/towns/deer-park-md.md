@@ -1,9 +1,7 @@
 ---
-title: "Deer Park, Maryland Business Directory"
+title: "Deer Park, MD Business Directory"
+type: "towns"
 slug: "deer-park-md"
-town: "Deer Park"
-state: "Maryland"
-state_abbr: "MD"
-county: "Garrett"
-population: 1848
+state: "md"
+town_data: "deer-park-md"
 ---

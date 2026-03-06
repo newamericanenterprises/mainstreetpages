@@ -1,7 +1,7 @@
 ---
-title: "Grand Pass, Missouri Business Directory"
+title: "Grand Pass, MO Business Directory"
+type: "towns"
 slug: "grand-pass-mo"
-state: "MO"
-county: "Saline"
-population: 1500
+state: "mo"
+town_data: "grand-pass-mo"
 ---

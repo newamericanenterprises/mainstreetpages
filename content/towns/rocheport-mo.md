@@ -1,7 +1,7 @@
 ---
-title: "Rocheport, Missouri Business Directory"
+title: "Rocheport, MO Business Directory"
+type: "towns"
 slug: "rocheport-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "rocheport-mo"
 ---

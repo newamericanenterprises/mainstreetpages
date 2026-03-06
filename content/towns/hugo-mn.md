@@ -1,9 +1,7 @@
 ---
-title: "Hugo, Minnesota Business Directory"
+title: "Hugo, MN Business Directory"
+type: "towns"
 slug: "hugo-mn"
-town: "Hugo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 2702
+state: "mn"
+town_data: "hugo-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Norton Shores, Michigan Business Directory"
+title: "Norton Shores, MI Business Directory"
+type: "towns"
 slug: "norton-shores-mi"
-town: "Norton Shores"
-state: "Michigan"
-state_abbr: "MI"
-county: "Muskegon"
-population: 3195
+state: "mi"
+town_data: "norton-shores-mi"
 ---

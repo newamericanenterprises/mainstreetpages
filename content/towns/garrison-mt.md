@@ -1,7 +1,7 @@
 ---
-title: "Garrison, Montana Business Directory"
+title: "Garrison, MT Business Directory"
+type: "towns"
 slug: "garrison-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "garrison-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Adelphi, Maryland Business Directory"
+title: "Adelphi, MD Business Directory"
+type: "towns"
 slug: "adelphi-md"
-town: "Adelphi"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 4629
+state: "md"
+town_data: "adelphi-md"
 ---

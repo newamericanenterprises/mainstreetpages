@@ -1,9 +1,7 @@
 ---
-title: "The Forks, Maine Business Directory"
+title: "The Forks, ME Business Directory"
+type: "towns"
 slug: "the-forks-me"
-town: "The Forks"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 328
+state: "me"
+town_data: "the-forks-me"
 ---

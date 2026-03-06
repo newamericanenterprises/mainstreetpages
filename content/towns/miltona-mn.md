@@ -1,9 +1,7 @@
 ---
-title: "Miltona, Minnesota Business Directory"
+title: "Miltona, MN Business Directory"
+type: "towns"
 slug: "miltona-mn"
-town: "Miltona"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 1265
+state: "mn"
+town_data: "miltona-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Rockville, Missouri Business Directory"
+title: "Rockville, MO Business Directory"
+type: "towns"
 slug: "rockville-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "rockville-mo"
 ---

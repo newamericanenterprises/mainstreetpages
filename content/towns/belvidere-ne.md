@@ -1,7 +1,7 @@
 ---
-title: "Belvidere, Nebraska Business Directory"
+title: "Belvidere, NE Business Directory"
+type: "towns"
 slug: "belvidere-ne"
-state: "NE"
-county: "Thayer"
-population: 500
+state: "ne"
+town_data: "belvidere-ne"
 ---

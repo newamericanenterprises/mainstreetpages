@@ -1,9 +1,7 @@
 ---
-title: "Taylorsville, Maryland Business Directory"
+title: "Taylorsville, MD Business Directory"
+type: "towns"
 slug: "taylorsville-md"
-town: "Taylorsville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 922
+state: "md"
+town_data: "taylorsville-md"
 ---

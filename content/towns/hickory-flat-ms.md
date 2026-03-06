@@ -1,7 +1,7 @@
 ---
-title: "Hickory Flat, Mississippi Business Directory"
+title: "Hickory Flat, MS Business Directory"
+type: "towns"
 slug: "hickory-flat-ms"
-state: "MS"
-county: "Benton"
-population: 539
+state: "ms"
+town_data: "hickory-flat-ms"
 ---

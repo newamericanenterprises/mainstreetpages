@@ -1,9 +1,7 @@
 ---
-title: "Donnelly, Minnesota Business Directory"
+title: "Donnelly, MN Business Directory"
+type: "towns"
 slug: "donnelly-mn"
-town: "Donnelly"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stevens"
-population: 2617
+state: "mn"
+town_data: "donnelly-mn"
 ---

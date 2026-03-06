@@ -1,9 +1,7 @@
 ---
-title: "Marengo, Indiana Business Directory"
+title: "Marengo, IN Business Directory"
+type: "towns"
 slug: "marengo-in"
-town: "Marengo"
-state: "Indiana"
-state_abbr: "IN"
-county: "Crawford"
-population: 3257
+state: "in"
+town_data: "marengo-in"
 ---

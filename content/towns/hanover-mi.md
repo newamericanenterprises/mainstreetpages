@@ -1,9 +1,7 @@
 ---
-title: "Hanover, Michigan Business Directory"
+title: "Hanover, MI Business Directory"
+type: "towns"
 slug: "hanover-mi"
-town: "Hanover"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 3556
+state: "mi"
+town_data: "hanover-mi"
 ---

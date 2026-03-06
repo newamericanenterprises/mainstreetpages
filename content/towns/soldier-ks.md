@@ -1,9 +1,7 @@
 ---
-title: "Soldier, Kansas Business Directory"
+title: "Soldier, KS Business Directory"
+type: "towns"
 slug: "soldier-ks"
-town: "Soldier"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 818
+state: "ks"
+town_data: "soldier-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Humeston, Iowa Business Directory"
+title: "Humeston, IA Business Directory"
+type: "towns"
 slug: "humeston-ia"
-town: "Humeston"
-state: "Iowa"
-state_abbr: "IA"
-county: "Wayne"
-population: 817
+state: "ia"
+town_data: "humeston-ia"
 ---

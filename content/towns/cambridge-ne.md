@@ -1,7 +1,7 @@
 ---
-title: "Cambridge, Nebraska Business Directory"
+title: "Cambridge, NE Business Directory"
+type: "towns"
 slug: "cambridge-ne"
-state: "NE"
-county: "Furnas"
-population: 1063
+state: "ne"
+town_data: "cambridge-ne"
 ---

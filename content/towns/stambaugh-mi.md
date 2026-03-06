@@ -1,9 +1,7 @@
 ---
-title: "Stambaugh, Michigan Business Directory"
+title: "Stambaugh, MI Business Directory"
+type: "towns"
 slug: "stambaugh-mi"
-town: "Stambaugh"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iron"
-population: 3254
+state: "mi"
+town_data: "stambaugh-mi"
 ---

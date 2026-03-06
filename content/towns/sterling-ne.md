@@ -1,7 +1,7 @@
 ---
-title: "Sterling, Nebraska Business Directory"
+title: "Sterling, NE Business Directory"
+type: "towns"
 slug: "sterling-ne"
-state: "NE"
-county: "Johnson"
-population: 500
+state: "ne"
+town_data: "sterling-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Maple Plain, Minnesota Business Directory"
+title: "Maple Plain, MN Business Directory"
+type: "towns"
 slug: "maple-plain-mn"
-town: "Maple Plain"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 1507
+state: "mn"
+town_data: "maple-plain-mn"
 ---

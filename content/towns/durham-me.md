@@ -1,9 +1,7 @@
 ---
-title: "Durham, Maine Business Directory"
+title: "Durham, ME Business Directory"
+type: "towns"
 slug: "durham-me"
-town: "Durham"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 1768
+state: "me"
+town_data: "durham-me"
 ---

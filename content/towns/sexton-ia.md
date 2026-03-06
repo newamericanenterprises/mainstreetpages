@@ -1,9 +1,7 @@
 ---
-title: "Sexton, Iowa Business Directory"
+title: "Sexton, IA Business Directory"
+type: "towns"
 slug: "sexton-ia"
-town: "Sexton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 884
+state: "ia"
+town_data: "sexton-ia"
 ---

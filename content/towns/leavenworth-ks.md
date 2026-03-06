@@ -1,9 +1,7 @@
 ---
-title: "Leavenworth, Kansas Business Directory"
+title: "Leavenworth, KS Business Directory"
+type: "towns"
 slug: "leavenworth-ks"
-town: "Leavenworth"
-state: "Kansas"
-state_abbr: "KS"
-county: "Leavenworth"
-population: 35797
+state: "ks"
+town_data: "leavenworth-ks"
 ---

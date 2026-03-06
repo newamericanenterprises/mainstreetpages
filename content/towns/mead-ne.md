@@ -1,7 +1,7 @@
 ---
-title: "Mead, Nebraska Business Directory"
+title: "Mead, NE Business Directory"
+type: "towns"
 slug: "mead-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "mead-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Harvard, Nebraska Business Directory"
+title: "Harvard, NE Business Directory"
+type: "towns"
 slug: "harvard-ne"
-state: "NE"
-county: "Clay"
-population: 1013
+state: "ne"
+town_data: "harvard-ne"
 ---

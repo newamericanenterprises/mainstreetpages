@@ -1,9 +1,7 @@
 ---
-title: "Doon, Iowa Business Directory"
+title: "Doon, IA Business Directory"
+type: "towns"
 slug: "doon-ia"
-town: "Doon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Lyon"
-population: 1810
+state: "ia"
+town_data: "doon-ia"
 ---

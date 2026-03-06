@@ -1,7 +1,7 @@
 ---
-title: "Rosebud, Missouri Business Directory"
+title: "Rosebud, MO Business Directory"
+type: "towns"
 slug: "rosebud-mo"
-state: "MO"
-county: "Gasconade"
-population: 1500
+state: "mo"
+town_data: "rosebud-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Chatham, Massachusetts Business Directory"
+title: "Chatham, MA Business Directory"
+type: "towns"
 slug: "chatham-ma"
-town: "Chatham"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 5911
+state: "ma"
+town_data: "chatham-ma"
 ---

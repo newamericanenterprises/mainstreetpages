@@ -1,9 +1,7 @@
 ---
-title: "Readlyn, Iowa Business Directory"
+title: "Readlyn, IA Business Directory"
+type: "towns"
 slug: "readlyn-ia"
-town: "Readlyn"
-state: "Iowa"
-state_abbr: "IA"
-county: "Bremer"
-population: 1631
+state: "ia"
+town_data: "readlyn-ia"
 ---

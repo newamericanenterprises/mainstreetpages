@@ -1,9 +1,7 @@
 ---
-title: "St. John, Kansas Business Directory"
+title: "St. John, KS Business Directory"
+type: "towns"
 slug: "st-john-ks"
-town: "St. John"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 2413
+state: "ks"
+town_data: "st-john-ks"
 ---

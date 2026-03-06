@@ -1,7 +1,7 @@
 ---
-title: "Enterprise, Mississippi Business Directory"
+title: "Enterprise, MS Business Directory"
+type: "towns"
 slug: "enterprise-ms"
-state: "MS"
-county: "Clarke"
-population: 556
+state: "ms"
+town_data: "enterprise-ms"
 ---

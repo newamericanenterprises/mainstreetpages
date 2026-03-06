@@ -1,9 +1,7 @@
 ---
-title: "Dickens, Iowa Business Directory"
+title: "Dickens, IA Business Directory"
+type: "towns"
 slug: "dickens-ia"
-town: "Dickens"
-state: "Iowa"
-state_abbr: "IA"
-county: "Clay"
-population: 2675
+state: "ia"
+town_data: "dickens-ia"
 ---

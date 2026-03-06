@@ -1,9 +1,7 @@
 ---
-title: "Dawson Springs, Kentucky Business Directory"
+title: "Dawson Springs, KY Business Directory"
+type: "towns"
 slug: "dawson-springs-ky"
-town: "Dawson Springs"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hopkins"
-population: 1177
+state: "ky"
+town_data: "dawson-springs-ky"
 ---

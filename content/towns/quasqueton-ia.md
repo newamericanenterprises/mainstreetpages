@@ -1,9 +1,7 @@
 ---
-title: "Quasqueton, Iowa Business Directory"
+title: "Quasqueton, IA Business Directory"
+type: "towns"
 slug: "quasqueton-ia"
-town: "Quasqueton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 2833
+state: "ia"
+town_data: "quasqueton-ia"
 ---

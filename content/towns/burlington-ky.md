@@ -1,9 +1,7 @@
 ---
-title: "Burlington, Kentucky Business Directory"
+title: "Burlington, KY Business Directory"
+type: "towns"
 slug: "burlington-ky"
-town: "Burlington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Boone"
-population: 708
+state: "ky"
+town_data: "burlington-ky"
 ---

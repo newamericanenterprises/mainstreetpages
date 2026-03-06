@@ -1,9 +1,7 @@
 ---
-title: "Laurens, Iowa Business Directory"
+title: "Laurens, IA Business Directory"
+type: "towns"
 slug: "laurens-ia"
-town: "Laurens"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 2158
+state: "ia"
+town_data: "laurens-ia"
 ---

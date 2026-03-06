@@ -1,9 +1,7 @@
 ---
-title: "Cunningham, Kansas Business Directory"
+title: "Cunningham, KS Business Directory"
+type: "towns"
 slug: "cunningham-ks"
-town: "Cunningham"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 338
+state: "ks"
+town_data: "cunningham-ks"
 ---

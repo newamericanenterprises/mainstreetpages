@@ -1,9 +1,7 @@
 ---
-title: "Still Pond, Maryland Business Directory"
+title: "Still Pond, MD Business Directory"
+type: "towns"
 slug: "still-pond-md"
-town: "Still Pond"
-state: "Maryland"
-state_abbr: "MD"
-county: "Kent"
-population: 1173
+state: "md"
+town_data: "still-pond-md"
 ---

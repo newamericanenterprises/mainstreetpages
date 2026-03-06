@@ -1,7 +1,7 @@
 ---
-title: "Helena, Montana Business Directory"
+title: "Helena, MT Business Directory"
+type: "towns"
 slug: "helena-mt"
-state: "MT"
-county: "Lewis and Clark"
-population: 32091
+state: "mt"
+town_data: "helena-mt"
 ---

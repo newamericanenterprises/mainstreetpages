@@ -1,9 +1,7 @@
 ---
-title: "Radcliff, Kentucky Business Directory"
+title: "Radcliff, KY Business Directory"
+type: "towns"
 slug: "radcliff-ky"
-town: "Radcliff"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 23191
+state: "ky"
+town_data: "radcliff-ky"
 ---

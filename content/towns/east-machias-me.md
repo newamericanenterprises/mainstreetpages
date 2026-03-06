@@ -1,9 +1,7 @@
 ---
-title: "East Machias, Maine Business Directory"
+title: "East Machias, ME Business Directory"
+type: "towns"
 slug: "east-machias-me"
-town: "East Machias"
-state: "Maine"
-state_abbr: "ME"
-county: "Washington"
-population: 1570
+state: "me"
+town_data: "east-machias-me"
 ---

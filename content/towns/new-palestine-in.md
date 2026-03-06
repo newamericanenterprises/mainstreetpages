@@ -1,9 +1,7 @@
 ---
-title: "New Palestine, Indiana Business Directory"
+title: "New Palestine, IN Business Directory"
+type: "towns"
 slug: "new-palestine-in"
-town: "New Palestine"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 4952
+state: "in"
+town_data: "new-palestine-in"
 ---

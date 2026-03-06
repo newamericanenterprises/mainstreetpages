@@ -1,7 +1,7 @@
 ---
-title: "Eagle, Nebraska Business Directory"
+title: "Eagle, NE Business Directory"
+type: "towns"
 slug: "eagle-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "eagle-ne"
 ---

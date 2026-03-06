@@ -1,7 +1,7 @@
 ---
-title: "Kenesaw, Nebraska Business Directory"
+title: "Kenesaw, NE Business Directory"
+type: "towns"
 slug: "kenesaw-ne"
-state: "NE"
-county: "Adams"
-population: 500
+state: "ne"
+town_data: "kenesaw-ne"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ansley, Nebraska Business Directory"
+title: "Ansley, NE Business Directory"
+type: "towns"
 slug: "ansley-ne"
-state: "NE"
-county: "Custer"
-population: 500
+state: "ne"
+town_data: "ansley-ne"
 ---

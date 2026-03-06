@@ -1,9 +1,7 @@
 ---
-title: "Partridge, Kansas Business Directory"
+title: "Partridge, KS Business Directory"
+type: "towns"
 slug: "partridge-ks"
-town: "Partridge"
-state: "Kansas"
-state_abbr: "KS"
-county: "Reno"
-population: 3079
+state: "ks"
+town_data: "partridge-ks"
 ---

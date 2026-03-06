@@ -1,7 +1,7 @@
 ---
-title: "Jane, Missouri Business Directory"
+title: "Jane, MO Business Directory"
+type: "towns"
 slug: "jane-mo"
-state: "MO"
-county: "McDonald"
-population: 1500
+state: "mo"
+town_data: "jane-mo"
 ---

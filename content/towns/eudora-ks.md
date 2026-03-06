@@ -1,9 +1,7 @@
 ---
-title: "Eudora, Kansas Business Directory"
+title: "Eudora, KS Business Directory"
+type: "towns"
 slug: "eudora-ks"
-town: "Eudora"
-state: "Kansas"
-state_abbr: "KS"
-county: "Douglas"
-population: 6551
+state: "ks"
+town_data: "eudora-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Spring Lake, Minnesota Business Directory"
+title: "Spring Lake, MN Business Directory"
+type: "towns"
 slug: "spring-lake-mn"
-town: "Spring Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 1413
+state: "mn"
+town_data: "spring-lake-mn"
 ---

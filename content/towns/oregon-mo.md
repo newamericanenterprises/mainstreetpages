@@ -1,7 +1,7 @@
 ---
-title: "Oregon, Missouri Business Directory"
+title: "Oregon, MO Business Directory"
+type: "towns"
 slug: "oregon-mo"
-state: "MO"
-county: "Holt"
-population: 803
+state: "mo"
+town_data: "oregon-mo"
 ---

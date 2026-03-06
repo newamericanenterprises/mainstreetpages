@@ -1,9 +1,7 @@
 ---
-title: "Waterproof, Louisiana Business Directory"
+title: "Waterproof, LA Business Directory"
+type: "towns"
 slug: "waterproof-la"
-town: "Waterproof"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tensas"
-population: 2564
+state: "la"
+town_data: "waterproof-la"
 ---

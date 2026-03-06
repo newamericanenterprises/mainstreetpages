@@ -1,7 +1,7 @@
 ---
-title: "Shawmut, Montana Business Directory"
+title: "Shawmut, MT Business Directory"
+type: "towns"
 slug: "shawmut-mt"
-state: "MT"
-county: "Wheatland"
-population: 500
+state: "mt"
+town_data: "shawmut-mt"
 ---

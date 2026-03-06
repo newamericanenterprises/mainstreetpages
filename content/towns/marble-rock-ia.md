@@ -1,9 +1,7 @@
 ---
-title: "Marble Rock, Iowa Business Directory"
+title: "Marble Rock, IA Business Directory"
+type: "towns"
 slug: "marble-rock-ia"
-town: "Marble Rock"
-state: "Iowa"
-state_abbr: "IA"
-county: "Floyd"
-population: 1626
+state: "ia"
+town_data: "marble-rock-ia"
 ---

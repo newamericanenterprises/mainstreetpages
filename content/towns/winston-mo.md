@@ -1,7 +1,7 @@
 ---
-title: "Winston, Missouri Business Directory"
+title: "Winston, MO Business Directory"
+type: "towns"
 slug: "winston-mo"
-state: "MO"
-county: "Daviess"
-population: 1500
+state: "mo"
+town_data: "winston-mo"
 ---

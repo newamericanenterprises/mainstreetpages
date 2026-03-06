@@ -1,9 +1,7 @@
 ---
-title: "Rogers City, Michigan Business Directory"
+title: "Rogers City, MI Business Directory"
+type: "towns"
 slug: "rogers-city-mi"
-town: "Rogers City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Presque Isle"
-population: 2495
+state: "mi"
+town_data: "rogers-city-mi"
 ---

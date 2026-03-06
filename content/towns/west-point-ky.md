@@ -1,9 +1,7 @@
 ---
-title: "West Point, Kentucky Business Directory"
+title: "West Point, KY Business Directory"
+type: "towns"
 slug: "west-point-ky"
-town: "West Point"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 3252
+state: "ky"
+town_data: "west-point-ky"
 ---

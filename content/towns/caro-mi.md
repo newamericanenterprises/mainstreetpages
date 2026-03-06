@@ -1,9 +1,7 @@
 ---
-title: "Caro, Michigan Business Directory"
+title: "Caro, MI Business Directory"
+type: "towns"
 slug: "caro-mi"
-town: "Caro"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 4409
+state: "mi"
+town_data: "caro-mi"
 ---

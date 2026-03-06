@@ -1,9 +1,7 @@
 ---
-title: "Fifth Ward, Louisiana Business Directory"
+title: "Fifth Ward, LA Business Directory"
+type: "towns"
 slug: "fifth-ward-la"
-town: "Fifth Ward"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 645
+state: "la"
+town_data: "fifth-ward-la"
 ---

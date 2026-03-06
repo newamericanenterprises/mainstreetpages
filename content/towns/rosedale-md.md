@@ -1,9 +1,7 @@
 ---
-title: "Rosedale, Maryland Business Directory"
+title: "Rosedale, MD Business Directory"
+type: "towns"
 slug: "rosedale-md"
-town: "Rosedale"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 3152
+state: "md"
+town_data: "rosedale-md"
 ---

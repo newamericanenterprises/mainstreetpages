@@ -1,7 +1,7 @@
 ---
-title: "Hysham, Montana Business Directory"
+title: "Hysham, MT Business Directory"
+type: "towns"
 slug: "hysham-mt"
-state: "MT"
-county: "Treasure"
-population: 500
+state: "mt"
+town_data: "hysham-mt"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Battle Creek, Nebraska Business Directory"
+title: "Battle Creek, NE Business Directory"
+type: "towns"
 slug: "battle-creek-ne"
-state: "NE"
-county: "Madison"
-population: 1213
+state: "ne"
+town_data: "battle-creek-ne"
 ---

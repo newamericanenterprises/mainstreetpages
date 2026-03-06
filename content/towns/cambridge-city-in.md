@@ -1,9 +1,7 @@
 ---
-title: "Cambridge City, Indiana Business Directory"
+title: "Cambridge City, IN Business Directory"
+type: "towns"
 slug: "cambridge-city-in"
-town: "Cambridge City"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wayne"
-population: 3757
+state: "in"
+town_data: "cambridge-city-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Grandview Plaza, Kansas Business Directory"
+title: "Grandview Plaza, KS Business Directory"
+type: "towns"
 slug: "grandview-plaza-ks"
-town: "Grandview Plaza"
-state: "Kansas"
-state_abbr: "KS"
-county: "Geary"
-population: 700
+state: "ks"
+town_data: "grandview-plaza-ks"
 ---

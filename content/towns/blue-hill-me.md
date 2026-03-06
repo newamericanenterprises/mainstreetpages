@@ -1,9 +1,7 @@
 ---
-title: "Blue Hill, Maine Business Directory"
+title: "Blue Hill, ME Business Directory"
+type: "towns"
 slug: "blue-hill-me"
-town: "Blue Hill"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2690
+state: "me"
+town_data: "blue-hill-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Maryland Heights, Missouri Business Directory"
+title: "Maryland Heights, MO Business Directory"
+type: "towns"
 slug: "maryland-heights-mo"
-state: "MO"
-county: "St. Louis"
-population: 27472
+state: "mo"
+town_data: "maryland-heights-mo"
 ---

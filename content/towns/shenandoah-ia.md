@@ -1,9 +1,7 @@
 ---
-title: "Shenandoah, Iowa Business Directory"
+title: "Shenandoah, IA Business Directory"
+type: "towns"
 slug: "shenandoah-ia"
-town: "Shenandoah"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 4976
+state: "ia"
+town_data: "shenandoah-ia"
 ---

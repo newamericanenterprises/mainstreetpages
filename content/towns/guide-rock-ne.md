@@ -1,7 +1,7 @@
 ---
-title: "Guide Rock, Nebraska Business Directory"
+title: "Guide Rock, NE Business Directory"
+type: "towns"
 slug: "guide-rock-ne"
-state: "NE"
-county: "Webster"
-population: 500
+state: "ne"
+town_data: "guide-rock-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Brighton, Michigan Business Directory"
+title: "Brighton, MI Business Directory"
+type: "towns"
 slug: "brighton-mi"
-town: "Brighton"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 7899
+state: "mi"
+town_data: "brighton-mi"
 ---

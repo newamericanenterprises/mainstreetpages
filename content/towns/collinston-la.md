@@ -1,9 +1,7 @@
 ---
-title: "Collinston, Louisiana Business Directory"
+title: "Collinston, LA Business Directory"
+type: "towns"
 slug: "collinston-la"
-town: "Collinston"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Morehouse"
-population: 1670
+state: "la"
+town_data: "collinston-la"
 ---

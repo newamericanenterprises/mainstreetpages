@@ -1,9 +1,7 @@
 ---
-title: "Pitkin, Louisiana Business Directory"
+title: "Pitkin, LA Business Directory"
+type: "towns"
 slug: "pitkin-la"
-town: "Pitkin"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Vernon"
-population: 1098
+state: "la"
+town_data: "pitkin-la"
 ---

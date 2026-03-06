@@ -1,9 +1,7 @@
 ---
-title: "Carsonville, Michigan Business Directory"
+title: "Carsonville, MI Business Directory"
+type: "towns"
 slug: "carsonville-mi"
-town: "Carsonville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 1869
+state: "mi"
+town_data: "carsonville-mi"
 ---

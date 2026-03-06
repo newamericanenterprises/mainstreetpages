@@ -1,9 +1,7 @@
 ---
-title: "Medina, Minnesota Business Directory"
+title: "Medina, MN Business Directory"
+type: "towns"
 slug: "medina-mn"
-town: "Medina"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 3262
+state: "mn"
+town_data: "medina-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Paden, Mississippi Business Directory"
+title: "Paden, MS Business Directory"
+type: "towns"
 slug: "paden-ms"
-state: "MS"
-county: "Tishomingo"
-population: 106
+state: "ms"
+town_data: "paden-ms"
 ---

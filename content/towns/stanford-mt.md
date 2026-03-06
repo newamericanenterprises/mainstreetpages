@@ -1,7 +1,7 @@
 ---
-title: "Stanford, Montana Business Directory"
+title: "Stanford, MT Business Directory"
+type: "towns"
 slug: "stanford-mt"
-state: "MT"
-county: "Judith Basin"
-population: 401
+state: "mt"
+town_data: "stanford-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Vienna, Louisiana Business Directory"
+title: "Vienna, LA Business Directory"
+type: "towns"
 slug: "vienna-la"
-town: "Vienna"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Lincoln"
-population: 1577
+state: "la"
+town_data: "vienna-la"
 ---

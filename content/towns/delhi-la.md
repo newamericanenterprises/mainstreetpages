@@ -1,9 +1,7 @@
 ---
-title: "Delhi, Louisiana Business Directory"
+title: "Delhi, LA Business Directory"
+type: "towns"
 slug: "delhi-la"
-town: "Delhi"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Richland"
-population: 1350
+state: "la"
+town_data: "delhi-la"
 ---

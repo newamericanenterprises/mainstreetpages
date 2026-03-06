@@ -1,9 +1,7 @@
 ---
-title: "Malcom, Iowa Business Directory"
+title: "Malcom, IA Business Directory"
+type: "towns"
 slug: "malcom-ia"
-town: "Malcom"
-state: "Iowa"
-state_abbr: "IA"
-county: "Poweshiek"
-population: 2626
+state: "ia"
+town_data: "malcom-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Franklin, Massachusetts Business Directory"
+title: "Franklin, MA Business Directory"
+type: "towns"
 slug: "franklin-ma"
-town: "Franklin"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Norfolk"
-population: 33644
+state: "ma"
+town_data: "franklin-ma"
 ---

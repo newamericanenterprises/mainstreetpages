@@ -1,7 +1,7 @@
 ---
-title: "Lake Tapawingo, Missouri Business Directory"
+title: "Lake Tapawingo, MO Business Directory"
+type: "towns"
 slug: "lake-tapawingo-mo"
-state: "MO"
-county: "Jackson"
-population: 1500
+state: "mo"
+town_data: "lake-tapawingo-mo"
 ---

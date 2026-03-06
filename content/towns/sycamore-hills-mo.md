@@ -1,7 +1,7 @@
 ---
-title: "Sycamore Hills, Missouri Business Directory"
+title: "Sycamore Hills, MO Business Directory"
+type: "towns"
 slug: "sycamore-hills-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "sycamore-hills-mo"
 ---

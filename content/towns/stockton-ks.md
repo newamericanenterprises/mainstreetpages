@@ -1,9 +1,7 @@
 ---
-title: "Stockton, Kansas Business Directory"
+title: "Stockton, KS Business Directory"
+type: "towns"
 slug: "stockton-ks"
-town: "Stockton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rooks"
-population: 1329
+state: "ks"
+town_data: "stockton-ks"
 ---

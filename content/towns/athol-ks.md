@@ -1,9 +1,7 @@
 ---
-title: "Athol, Kansas Business Directory"
+title: "Athol, KS Business Directory"
+type: "towns"
 slug: "athol-ks"
-town: "Athol"
-state: "Kansas"
-state_abbr: "KS"
-county: "Smith"
-population: 1292
+state: "ks"
+town_data: "athol-ks"
 ---

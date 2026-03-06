@@ -1,9 +1,7 @@
 ---
-title: "New Marlborough, Massachusetts Business Directory"
+title: "New Marlborough, MA Business Directory"
+type: "towns"
 slug: "new-marlborough-ma"
-town: "New Marlborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 8539
+state: "ma"
+town_data: "new-marlborough-ma"
 ---

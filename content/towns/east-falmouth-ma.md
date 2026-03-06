@@ -1,9 +1,7 @@
 ---
-title: "East Falmouth, Massachusetts Business Directory"
+title: "East Falmouth, MA Business Directory"
+type: "towns"
 slug: "east-falmouth-ma"
-town: "East Falmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 7575
+state: "ma"
+town_data: "east-falmouth-ma"
 ---

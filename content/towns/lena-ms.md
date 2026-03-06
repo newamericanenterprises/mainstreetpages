@@ -1,7 +1,7 @@
 ---
-title: "Lena, Mississippi Business Directory"
+title: "Lena, MS Business Directory"
+type: "towns"
 slug: "lena-ms"
-state: "MS"
-county: "Leake"
-population: 159
+state: "ms"
+town_data: "lena-ms"
 ---

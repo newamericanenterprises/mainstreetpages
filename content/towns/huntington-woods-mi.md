@@ -1,9 +1,7 @@
 ---
-title: "Huntington Woods, Michigan Business Directory"
+title: "Huntington Woods, MI Business Directory"
+type: "towns"
 slug: "huntington-woods-mi"
-town: "Huntington Woods"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4831
+state: "mi"
+town_data: "huntington-woods-mi"
 ---

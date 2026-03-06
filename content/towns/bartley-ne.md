@@ -1,7 +1,7 @@
 ---
-title: "Bartley, Nebraska Business Directory"
+title: "Bartley, NE Business Directory"
+type: "towns"
 slug: "bartley-ne"
-state: "NE"
-county: "Red Willow"
-population: 500
+state: "ne"
+town_data: "bartley-ne"
 ---

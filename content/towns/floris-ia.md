@@ -1,9 +1,7 @@
 ---
-title: "Floris, Iowa Business Directory"
+title: "Floris, IA Business Directory"
+type: "towns"
 slug: "floris-ia"
-town: "Floris"
-state: "Iowa"
-state_abbr: "IA"
-county: "Davis"
-population: 1847
+state: "ia"
+town_data: "floris-ia"
 ---

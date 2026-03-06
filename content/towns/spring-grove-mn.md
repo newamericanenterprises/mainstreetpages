@@ -1,9 +1,7 @@
 ---
-title: "Spring Grove, Minnesota Business Directory"
+title: "Spring Grove, MN Business Directory"
+type: "towns"
 slug: "spring-grove-mn"
-town: "Spring Grove"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 420
+state: "mn"
+town_data: "spring-grove-mn"
 ---

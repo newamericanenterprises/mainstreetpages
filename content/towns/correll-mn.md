@@ -1,9 +1,7 @@
 ---
-title: "Correll, Minnesota Business Directory"
+title: "Correll, MN Business Directory"
+type: "towns"
 slug: "correll-mn"
-town: "Correll"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Big Stone"
-population: 2696
+state: "mn"
+town_data: "correll-mn"
 ---

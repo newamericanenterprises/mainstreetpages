@@ -1,7 +1,7 @@
 ---
-title: "Nodaway, Missouri Business Directory"
+title: "Nodaway, MO Business Directory"
+type: "towns"
 slug: "nodaway-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "nodaway-mo"
 ---

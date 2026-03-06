@@ -1,7 +1,7 @@
 ---
-title: "Nelson, Nebraska Business Directory"
+title: "Nelson, NE Business Directory"
+type: "towns"
 slug: "nelson-ne"
-state: "NE"
-county: "Nuckolls"
-population: 500
+state: "ne"
+town_data: "nelson-ne"
 ---

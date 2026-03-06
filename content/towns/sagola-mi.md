@@ -1,9 +1,7 @@
 ---
-title: "Sagola, Michigan Business Directory"
+title: "Sagola, MI Business Directory"
+type: "towns"
 slug: "sagola-mi"
-town: "Sagola"
-state: "Michigan"
-state_abbr: "MI"
-county: "Dickinson"
-population: 1960
+state: "mi"
+town_data: "sagola-mi"
 ---

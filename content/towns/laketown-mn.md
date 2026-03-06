@@ -1,9 +1,7 @@
 ---
-title: "Laketown, Minnesota Business Directory"
+title: "Laketown, MN Business Directory"
+type: "towns"
 slug: "laketown-mn"
-town: "Laketown"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1304
+state: "mn"
+town_data: "laketown-mn"
 ---

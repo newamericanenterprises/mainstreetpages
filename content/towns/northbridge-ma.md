@@ -1,9 +1,7 @@
 ---
-title: "Northbridge, Massachusetts Business Directory"
+title: "Northbridge, MA Business Directory"
+type: "towns"
 slug: "northbridge-ma"
-town: "Northbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 5097
+state: "ma"
+town_data: "northbridge-ma"
 ---

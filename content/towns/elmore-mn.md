@@ -1,9 +1,7 @@
 ---
-title: "Elmore, Minnesota Business Directory"
+title: "Elmore, MN Business Directory"
+type: "towns"
 slug: "elmore-mn"
-town: "Elmore"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 2188
+state: "mn"
+town_data: "elmore-mn"
 ---

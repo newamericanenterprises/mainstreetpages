@@ -1,9 +1,7 @@
 ---
-title: "Flat Rock, Michigan Business Directory"
+title: "Flat Rock, MI Business Directory"
+type: "towns"
 slug: "flat-rock-mi"
-town: "Flat Rock"
-state: "Michigan"
-state_abbr: "MI"
-county: "Wayne"
-population: 1104
+state: "mi"
+town_data: "flat-rock-mi"
 ---

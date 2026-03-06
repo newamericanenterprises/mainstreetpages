@@ -1,9 +1,7 @@
 ---
-title: "Bremen, Maine Business Directory"
+title: "Bremen, ME Business Directory"
+type: "towns"
 slug: "bremen-me"
-town: "Bremen"
-state: "Maine"
-state_abbr: "ME"
-county: "Lincoln"
-population: 2545
+state: "me"
+town_data: "bremen-me"
 ---

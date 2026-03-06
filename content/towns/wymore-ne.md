@@ -1,7 +1,7 @@
 ---
-title: "Wymore, Nebraska Business Directory"
+title: "Wymore, NE Business Directory"
+type: "towns"
 slug: "wymore-ne"
-state: "NE"
-county: "Gage"
-population: 1457
+state: "ne"
+town_data: "wymore-ne"
 ---

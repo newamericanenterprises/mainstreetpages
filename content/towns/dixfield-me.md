@@ -1,9 +1,7 @@
 ---
-title: "Dixfield, Maine Business Directory"
+title: "Dixfield, ME Business Directory"
+type: "towns"
 slug: "dixfield-me"
-town: "Dixfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2757
+state: "me"
+town_data: "dixfield-me"
 ---

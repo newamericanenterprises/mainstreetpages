@@ -1,9 +1,7 @@
 ---
-title: "Montgomery, Indiana Business Directory"
+title: "Montgomery, IN Business Directory"
+type: "towns"
 slug: "montgomery-in"
-town: "Montgomery"
-state: "Indiana"
-state_abbr: "IN"
-county: "Daviess"
-population: 2983
+state: "in"
+town_data: "montgomery-in"
 ---

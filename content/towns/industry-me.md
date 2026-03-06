@@ -1,9 +1,7 @@
 ---
-title: "Industry, Maine Business Directory"
+title: "Industry, ME Business Directory"
+type: "towns"
 slug: "industry-me"
-town: "Industry"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 2074
+state: "me"
+town_data: "industry-me"
 ---

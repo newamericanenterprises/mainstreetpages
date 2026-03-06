@@ -1,7 +1,7 @@
 ---
-title: "Lula, Mississippi Business Directory"
+title: "Lula, MS Business Directory"
+type: "towns"
 slug: "lula-ms"
-state: "MS"
-county: "Coahoma"
-population: 307
+state: "ms"
+town_data: "lula-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gunnison, Mississippi Business Directory"
+title: "Gunnison, MS Business Directory"
+type: "towns"
 slug: "gunnison-ms"
-state: "MS"
-county: "Bolivar"
-population: 304
+state: "ms"
+town_data: "gunnison-ms"
 ---

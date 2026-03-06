@@ -1,7 +1,7 @@
 ---
-title: "Pickering, Missouri Business Directory"
+title: "Pickering, MO Business Directory"
+type: "towns"
 slug: "pickering-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "pickering-mo"
 ---

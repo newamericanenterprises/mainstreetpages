@@ -1,7 +1,7 @@
 ---
-title: "Helmville, Montana Business Directory"
+title: "Helmville, MT Business Directory"
+type: "towns"
 slug: "helmville-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "helmville-mt"
 ---

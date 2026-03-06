@@ -1,9 +1,7 @@
 ---
-title: "Gray, Maine Business Directory"
+title: "Gray, ME Business Directory"
+type: "towns"
 slug: "gray-me"
-town: "Gray"
-state: "Maine"
-state_abbr: "ME"
-county: "Cumberland"
-population: 2310
+state: "me"
+town_data: "gray-me"
 ---

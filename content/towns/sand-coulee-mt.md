@@ -1,7 +1,7 @@
 ---
-title: "Sand Coulee, Montana Business Directory"
+title: "Sand Coulee, MT Business Directory"
+type: "towns"
 slug: "sand-coulee-mt"
-state: "MT"
-county: "Cascade"
-population: 192
+state: "mt"
+town_data: "sand-coulee-mt"
 ---

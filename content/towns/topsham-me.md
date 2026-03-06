@@ -1,9 +1,7 @@
 ---
-title: "Topsham, Maine Business Directory"
+title: "Topsham, ME Business Directory"
+type: "towns"
 slug: "topsham-me"
-town: "Topsham"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 8893
+state: "me"
+town_data: "topsham-me"
 ---

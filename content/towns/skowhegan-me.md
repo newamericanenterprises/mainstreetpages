@@ -1,9 +1,7 @@
 ---
-title: "Skowhegan, Maine Business Directory"
+title: "Skowhegan, ME Business Directory"
+type: "towns"
 slug: "skowhegan-me"
-town: "Skowhegan"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 8552
+state: "me"
+town_data: "skowhegan-me"
 ---

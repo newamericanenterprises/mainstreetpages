@@ -1,7 +1,7 @@
 ---
-title: "Empire, Nevada Business Directory"
+title: "Empire, NV Business Directory"
+type: "towns"
 slug: "empire-nv"
-state: "NV"
-county: "Washoe"
-population: 217
+state: "nv"
+town_data: "empire-nv"
 ---

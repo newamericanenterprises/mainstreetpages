@@ -1,9 +1,7 @@
 ---
-title: "Lorraine, Kansas Business Directory"
+title: "Lorraine, KS Business Directory"
+type: "towns"
 slug: "lorraine-ks"
-town: "Lorraine"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellsworth"
-population: 1268
+state: "ks"
+town_data: "lorraine-ks"
 ---

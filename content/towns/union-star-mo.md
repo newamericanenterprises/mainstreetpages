@@ -1,7 +1,7 @@
 ---
-title: "Union Star, Missouri Business Directory"
+title: "Union Star, MO Business Directory"
+type: "towns"
 slug: "union-star-mo"
-state: "MO"
-county: "DeKalb"
-population: 1500
+state: "mo"
+town_data: "union-star-mo"
 ---

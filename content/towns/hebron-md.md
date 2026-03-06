@@ -1,9 +1,7 @@
 ---
-title: "Hebron, Maryland Business Directory"
+title: "Hebron, MD Business Directory"
+type: "towns"
 slug: "hebron-md"
-town: "Hebron"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 4185
+state: "md"
+town_data: "hebron-md"
 ---

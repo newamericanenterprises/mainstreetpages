@@ -1,9 +1,7 @@
 ---
-title: "Ludell, Kansas Business Directory"
+title: "Ludell, KS Business Directory"
+type: "towns"
 slug: "ludell-ks"
-town: "Ludell"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rawlins"
-population: 2955
+state: "ks"
+town_data: "ludell-ks"
 ---

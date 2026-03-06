@@ -1,7 +1,7 @@
 ---
-title: "Gothenburg, Nebraska Business Directory"
+title: "Gothenburg, NE Business Directory"
+type: "towns"
 slug: "gothenburg-ne"
-state: "NE"
-county: "Dawson"
-population: 3574
+state: "ne"
+town_data: "gothenburg-ne"
 ---

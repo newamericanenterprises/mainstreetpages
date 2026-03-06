@@ -1,9 +1,7 @@
 ---
-title: "Polk City, Iowa Business Directory"
+title: "Polk City, IA Business Directory"
+type: "towns"
 slug: "polk-city-ia"
-town: "Polk City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 2708
+state: "ia"
+town_data: "polk-city-ia"
 ---

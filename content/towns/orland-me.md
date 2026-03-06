@@ -1,9 +1,7 @@
 ---
-title: "Orland, Maine Business Directory"
+title: "Orland, ME Business Directory"
+type: "towns"
 slug: "orland-me"
-town: "Orland"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 1780
+state: "me"
+town_data: "orland-me"
 ---

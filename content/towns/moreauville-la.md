@@ -1,9 +1,7 @@
 ---
-title: "Moreauville, Louisiana Business Directory"
+title: "Moreauville, LA Business Directory"
+type: "towns"
 slug: "moreauville-la"
-town: "Moreauville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 549
+state: "la"
+town_data: "moreauville-la"
 ---

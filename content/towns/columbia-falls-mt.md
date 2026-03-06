@@ -1,7 +1,7 @@
 ---
-title: "Columbia Falls, Montana Business Directory"
+title: "Columbia Falls, MT Business Directory"
+type: "towns"
 slug: "columbia-falls-mt"
-state: "MT"
-county: "Flathead"
-population: 5639
+state: "mt"
+town_data: "columbia-falls-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Hammond, Minnesota Business Directory"
+title: "Hammond, MN Business Directory"
+type: "towns"
 slug: "hammond-mn"
-town: "Hammond"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wabasha"
-population: 3278
+state: "mn"
+town_data: "hammond-mn"
 ---

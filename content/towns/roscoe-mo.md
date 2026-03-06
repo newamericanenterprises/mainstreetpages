@@ -1,7 +1,7 @@
 ---
-title: "Roscoe, Missouri Business Directory"
+title: "Roscoe, MO Business Directory"
+type: "towns"
 slug: "roscoe-mo"
-state: "MO"
-county: "St. Clair"
-population: 1500
+state: "mo"
+town_data: "roscoe-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "South Dennis, Massachusetts Business Directory"
+title: "South Dennis, MA Business Directory"
+type: "towns"
 slug: "south-dennis-ma"
-town: "South Dennis"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 5679
+state: "ma"
+town_data: "south-dennis-ma"
 ---

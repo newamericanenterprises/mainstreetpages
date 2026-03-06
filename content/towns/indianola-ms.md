@@ -1,7 +1,7 @@
 ---
-title: "Indianola, Mississippi Business Directory"
+title: "Indianola, MS Business Directory"
+type: "towns"
 slug: "indianola-ms"
-state: "MS"
-county: "Sunflower"
-population: 9813
+state: "ms"
+town_data: "indianola-ms"
 ---

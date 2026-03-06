@@ -1,9 +1,7 @@
 ---
-title: "Hartford, Iowa Business Directory"
+title: "Hartford, IA Business Directory"
+type: "towns"
 slug: "hartford-ia"
-town: "Hartford"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 948
+state: "ia"
+town_data: "hartford-ia"
 ---

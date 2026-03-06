@@ -1,9 +1,7 @@
 ---
-title: "Little Canada, Minnesota Business Directory"
+title: "Little Canada, MN Business Directory"
+type: "towns"
 slug: "little-canada-mn"
-town: "Little Canada"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 2994
+state: "mn"
+town_data: "little-canada-mn"
 ---

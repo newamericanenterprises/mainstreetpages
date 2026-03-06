@@ -1,9 +1,7 @@
 ---
-title: "Grafton, Massachusetts Business Directory"
+title: "Grafton, MA Business Directory"
+type: "towns"
 slug: "grafton-ma"
-town: "Grafton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 19503
+state: "ma"
+town_data: "grafton-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Jean Lafitte, Louisiana Business Directory"
+title: "Jean Lafitte, LA Business Directory"
+type: "towns"
 slug: "jean-lafitte-la"
-town: "Jean Lafitte"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jefferson"
-population: 1296
+state: "la"
+town_data: "jean-lafitte-la"
 ---

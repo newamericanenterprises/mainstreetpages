@@ -1,9 +1,7 @@
 ---
-title: "Delta, Louisiana Business Directory"
+title: "Delta, LA Business Directory"
+type: "towns"
 slug: "delta-la"
-town: "Delta"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Madison"
-population: 3271
+state: "la"
+town_data: "delta-la"
 ---

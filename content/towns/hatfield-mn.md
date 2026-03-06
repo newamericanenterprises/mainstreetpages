@@ -1,9 +1,7 @@
 ---
-title: "Hatfield, Minnesota Business Directory"
+title: "Hatfield, MN Business Directory"
+type: "towns"
 slug: "hatfield-mn"
-town: "Hatfield"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pipestone"
-population: 2402
+state: "mn"
+town_data: "hatfield-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Montgomery, Massachusetts Business Directory"
+title: "Montgomery, MA Business Directory"
+type: "towns"
 slug: "montgomery-ma"
-town: "Montgomery"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 1127
+state: "ma"
+town_data: "montgomery-ma"
 ---

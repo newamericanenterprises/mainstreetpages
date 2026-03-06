@@ -1,7 +1,7 @@
 ---
-title: "Clyde, Missouri Business Directory"
+title: "Clyde, MO Business Directory"
+type: "towns"
 slug: "clyde-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "clyde-mo"
 ---

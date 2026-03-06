@@ -1,7 +1,7 @@
 ---
-title: "Heidelberg, Mississippi Business Directory"
+title: "Heidelberg, MS Business Directory"
+type: "towns"
 slug: "heidelberg-ms"
-state: "MS"
-county: "Jasper"
-population: 1500
+state: "ms"
+town_data: "heidelberg-ms"
 ---

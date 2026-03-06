@@ -1,7 +1,7 @@
 ---
-title: "Auburn, Nebraska Business Directory"
+title: "Auburn, NE Business Directory"
+type: "towns"
 slug: "auburn-ne"
-state: "NE"
-county: "Nemaha"
-population: 3460
+state: "ne"
+town_data: "auburn-ne"
 ---

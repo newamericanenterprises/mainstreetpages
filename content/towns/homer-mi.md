@@ -1,9 +1,7 @@
 ---
-title: "Homer, Michigan Business Directory"
+title: "Homer, MI Business Directory"
+type: "towns"
 slug: "homer-mi"
-town: "Homer"
-state: "Michigan"
-state_abbr: "MI"
-county: "Calhoun"
-population: 3043
+state: "mi"
+town_data: "homer-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mitchellville, Iowa Business Directory"
+title: "Mitchellville, IA Business Directory"
+type: "towns"
 slug: "mitchellville-ia"
-town: "Mitchellville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Polk"
-population: 1112
+state: "ia"
+town_data: "mitchellville-ia"
 ---

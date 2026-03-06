@@ -1,9 +1,7 @@
 ---
-title: "Grand Haven, Michigan Business Directory"
+title: "Grand Haven, MI Business Directory"
+type: "towns"
 slug: "grand-haven-mi"
-town: "Grand Haven"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 11168
+state: "mi"
+town_data: "grand-haven-mi"
 ---

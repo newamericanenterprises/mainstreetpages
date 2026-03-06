@@ -1,7 +1,7 @@
 ---
-title: "Morse Bluff, Nebraska Business Directory"
+title: "Morse Bluff, NE Business Directory"
+type: "towns"
 slug: "morse-bluff-ne"
-state: "NE"
-county: "Saunders"
-population: 500
+state: "ne"
+town_data: "morse-bluff-ne"
 ---

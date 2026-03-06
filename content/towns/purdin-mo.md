@@ -1,7 +1,7 @@
 ---
-title: "Purdin, Missouri Business Directory"
+title: "Purdin, MO Business Directory"
+type: "towns"
 slug: "purdin-mo"
-state: "MO"
-county: "Linn"
-population: 1500
+state: "mo"
+town_data: "purdin-mo"
 ---

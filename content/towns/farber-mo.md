@@ -1,7 +1,7 @@
 ---
-title: "Farber, Missouri Business Directory"
+title: "Farber, MO Business Directory"
+type: "towns"
 slug: "farber-mo"
-state: "MO"
-county: "Audrain"
-population: 1500
+state: "mo"
+town_data: "farber-mo"
 ---

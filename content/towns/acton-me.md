@@ -1,9 +1,7 @@
 ---
-title: "Acton, Maine Business Directory"
+title: "Acton, ME Business Directory"
+type: "towns"
 slug: "acton-me"
-town: "Acton"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 2140
+state: "me"
+town_data: "acton-me"
 ---

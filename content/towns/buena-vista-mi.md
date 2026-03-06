@@ -1,9 +1,7 @@
 ---
-title: "Buena Vista, Michigan Business Directory"
+title: "Buena Vista, MI Business Directory"
+type: "towns"
 slug: "buena-vista-mi"
-town: "Buena Vista"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 1169
+state: "mi"
+town_data: "buena-vista-mi"
 ---

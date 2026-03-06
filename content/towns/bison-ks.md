@@ -1,9 +1,7 @@
 ---
-title: "Bison, Kansas Business Directory"
+title: "Bison, KS Business Directory"
+type: "towns"
 slug: "bison-ks"
-town: "Bison"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rush"
-population: 3118
+state: "ks"
+town_data: "bison-ks"
 ---

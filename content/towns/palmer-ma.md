@@ -1,9 +1,7 @@
 ---
-title: "Palmer, Massachusetts Business Directory"
+title: "Palmer, MA Business Directory"
+type: "towns"
 slug: "palmer-ma"
-town: "Palmer"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampden"
-population: 12295
+state: "ma"
+town_data: "palmer-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Iota, Louisiana Business Directory"
+title: "Iota, LA Business Directory"
+type: "towns"
 slug: "iota-la"
-town: "Iota"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Acadia"
-population: 1893
+state: "la"
+town_data: "iota-la"
 ---

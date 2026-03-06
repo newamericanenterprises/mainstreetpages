@@ -1,9 +1,7 @@
 ---
-title: "Morning Sun, Iowa Business Directory"
+title: "Morning Sun, IA Business Directory"
+type: "towns"
 slug: "morning-sun-ia"
-town: "Morning Sun"
-state: "Iowa"
-state_abbr: "IA"
-county: "Louisa"
-population: 1059
+state: "ia"
+town_data: "morning-sun-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Daggett, Michigan Business Directory"
+title: "Daggett, MI Business Directory"
+type: "towns"
 slug: "daggett-mi"
-town: "Daggett"
-state: "Michigan"
-state_abbr: "MI"
-county: "Menominee"
-population: 4192
+state: "mi"
+town_data: "daggett-mi"
 ---

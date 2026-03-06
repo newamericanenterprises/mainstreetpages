@@ -1,7 +1,7 @@
 ---
-title: "Terry, Montana Business Directory"
+title: "Terry, MT Business Directory"
+type: "towns"
 slug: "terry-mt"
-state: "MT"
-county: "Prairie"
-population: 605
+state: "mt"
+town_data: "terry-mt"
 ---

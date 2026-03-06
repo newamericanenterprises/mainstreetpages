@@ -1,7 +1,7 @@
 ---
-title: "Chalco, Nebraska Business Directory"
+title: "Chalco, NE Business Directory"
+type: "towns"
 slug: "chalco-ne"
-state: "NE"
-county: "Sarpy"
-population: 10994
+state: "ne"
+town_data: "chalco-ne"
 ---

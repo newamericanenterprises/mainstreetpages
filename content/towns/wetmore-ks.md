@@ -1,9 +1,7 @@
 ---
-title: "Wetmore, Kansas Business Directory"
+title: "Wetmore, KS Business Directory"
+type: "towns"
 slug: "wetmore-ks"
-town: "Wetmore"
-state: "Kansas"
-state_abbr: "KS"
-county: "Nemaha"
-population: 348
+state: "ks"
+town_data: "wetmore-ks"
 ---

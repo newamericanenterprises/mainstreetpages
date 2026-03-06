@@ -1,7 +1,7 @@
 ---
-title: "New Haven, Missouri Business Directory"
+title: "New Haven, MO Business Directory"
+type: "towns"
 slug: "new-haven-mo"
-state: "MO"
-county: "Franklin"
-population: 1500
+state: "mo"
+town_data: "new-haven-mo"
 ---

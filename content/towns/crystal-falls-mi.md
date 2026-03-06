@@ -1,9 +1,7 @@
 ---
-title: "Crystal Falls, Michigan Business Directory"
+title: "Crystal Falls, MI Business Directory"
+type: "towns"
 slug: "crystal-falls-mi"
-town: "Crystal Falls"
-state: "Michigan"
-state_abbr: "MI"
-county: "Iron"
-population: 5240
+state: "mi"
+town_data: "crystal-falls-mi"
 ---

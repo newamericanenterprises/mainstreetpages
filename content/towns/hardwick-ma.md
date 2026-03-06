@@ -1,9 +1,7 @@
 ---
-title: "Hardwick, Massachusetts Business Directory"
+title: "Hardwick, MA Business Directory"
+type: "towns"
 slug: "hardwick-ma"
-town: "Hardwick"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 4622
+state: "ma"
+town_data: "hardwick-ma"
 ---

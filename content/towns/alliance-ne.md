@@ -1,7 +1,7 @@
 ---
-title: "Alliance, Nebraska Business Directory"
+title: "Alliance, NE Business Directory"
+type: "towns"
 slug: "alliance-ne"
-state: "NE"
-county: "Box Butte"
-population: 8491
+state: "ne"
+town_data: "alliance-ne"
 ---

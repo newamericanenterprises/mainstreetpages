@@ -1,9 +1,7 @@
 ---
-title: "Center City, Minnesota Business Directory"
+title: "Center City, MN Business Directory"
+type: "towns"
 slug: "center-city-mn"
-town: "Center City"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Chisago"
-population: 1057
+state: "mn"
+town_data: "center-city-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mount Pleasant, Michigan Business Directory"
+title: "Mount Pleasant, MI Business Directory"
+type: "towns"
 slug: "mount-pleasant-mi"
-town: "Mount Pleasant"
-state: "Michigan"
-state_abbr: "MI"
-county: "Isabella"
-population: 25946
+state: "mi"
+town_data: "mount-pleasant-mi"
 ---

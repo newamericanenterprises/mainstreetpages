@@ -1,9 +1,7 @@
 ---
-title: "Dallas Center, Iowa Business Directory"
+title: "Dallas Center, IA Business Directory"
+type: "towns"
 slug: "dallas-center-ia"
-town: "Dallas Center"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dallas"
-population: 2106
+state: "ia"
+town_data: "dallas-center-ia"
 ---

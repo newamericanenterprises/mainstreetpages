@@ -1,7 +1,7 @@
 ---
-title: "Adams, Nebraska Business Directory"
+title: "Adams, NE Business Directory"
+type: "towns"
 slug: "adams-ne"
-state: "NE"
-county: "Gage"
-population: 500
+state: "ne"
+town_data: "adams-ne"
 ---

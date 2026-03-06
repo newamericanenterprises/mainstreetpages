@@ -1,9 +1,7 @@
 ---
-title: "Riceville, Iowa Business Directory"
+title: "Riceville, IA Business Directory"
+type: "towns"
 slug: "riceville-ia"
-town: "Riceville"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mitchell"
-population: 541
+state: "ia"
+town_data: "riceville-ia"
 ---

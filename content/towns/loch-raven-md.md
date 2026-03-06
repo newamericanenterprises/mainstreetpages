@@ -1,9 +1,7 @@
 ---
-title: "Loch Raven, Maryland Business Directory"
+title: "Loch Raven, MD Business Directory"
+type: "towns"
 slug: "loch-raven-md"
-town: "Loch Raven"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 2141
+state: "md"
+town_data: "loch-raven-md"
 ---

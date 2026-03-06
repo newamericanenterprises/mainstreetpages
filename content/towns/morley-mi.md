@@ -1,9 +1,7 @@
 ---
-title: "Morley, Michigan Business Directory"
+title: "Morley, MI Business Directory"
+type: "towns"
 slug: "morley-mi"
-town: "Morley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mecosta"
-population: 5364
+state: "mi"
+town_data: "morley-mi"
 ---

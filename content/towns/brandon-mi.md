@@ -1,9 +1,7 @@
 ---
-title: "Brandon, Michigan Business Directory"
+title: "Brandon, MI Business Directory"
+type: "towns"
 slug: "brandon-mi"
-town: "Brandon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2426
+state: "mi"
+town_data: "brandon-mi"
 ---

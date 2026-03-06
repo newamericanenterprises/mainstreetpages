@@ -1,9 +1,7 @@
 ---
-title: "Baudette, Minnesota Business Directory"
+title: "Baudette, MN Business Directory"
+type: "towns"
 slug: "baudette-mn"
-town: "Baudette"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lake of the Woods"
-population: 1694
+state: "mn"
+town_data: "baudette-mn"
 ---

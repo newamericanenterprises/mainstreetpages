@@ -1,9 +1,7 @@
 ---
-title: "Hudson, Indiana Business Directory"
+title: "Hudson, IN Business Directory"
+type: "towns"
 slug: "hudson-in"
-town: "Hudson"
-state: "Indiana"
-state_abbr: "IN"
-county: "Steuben"
-population: 2843
+state: "in"
+town_data: "hudson-in"
 ---

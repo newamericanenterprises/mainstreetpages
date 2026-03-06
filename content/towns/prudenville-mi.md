@@ -1,9 +1,7 @@
 ---
-title: "Prudenville, Michigan Business Directory"
+title: "Prudenville, MI Business Directory"
+type: "towns"
 slug: "prudenville-mi"
-town: "Prudenville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Roscommon"
-population: 4472
+state: "mi"
+town_data: "prudenville-mi"
 ---

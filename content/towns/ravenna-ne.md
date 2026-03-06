@@ -1,7 +1,7 @@
 ---
-title: "Ravenna, Nebraska Business Directory"
+title: "Ravenna, NE Business Directory"
+type: "towns"
 slug: "ravenna-ne"
-state: "NE"
-county: "Buffalo"
-population: 1360
+state: "ne"
+town_data: "ravenna-ne"
 ---

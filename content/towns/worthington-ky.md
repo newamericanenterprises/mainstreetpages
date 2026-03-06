@@ -1,9 +1,7 @@
 ---
-title: "Worthington, Kentucky Business Directory"
+title: "Worthington, KY Business Directory"
+type: "towns"
 slug: "worthington-ky"
-town: "Worthington"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Greenup"
-population: 2635
+state: "ky"
+town_data: "worthington-ky"
 ---

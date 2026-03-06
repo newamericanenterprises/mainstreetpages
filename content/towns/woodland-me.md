@@ -1,9 +1,7 @@
 ---
-title: "Woodland, Maine Business Directory"
+title: "Woodland, ME Business Directory"
+type: "towns"
 slug: "woodland-me"
-town: "Woodland"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 2067
+state: "me"
+town_data: "woodland-me"
 ---

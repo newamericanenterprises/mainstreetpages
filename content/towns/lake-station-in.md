@@ -1,9 +1,7 @@
 ---
-title: "Lake Station, Indiana Business Directory"
+title: "Lake Station, IN Business Directory"
+type: "towns"
 slug: "lake-station-in"
-town: "Lake Station"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 11936
+state: "in"
+town_data: "lake-station-in"
 ---

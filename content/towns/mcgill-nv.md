@@ -1,7 +1,7 @@
 ---
-title: "McGill, Nevada Business Directory"
+title: "Mcgill, NV Business Directory"
+type: "towns"
 slug: "mcgill-nv"
-state: "NV"
-county: "White Pine"
-population: 1148
+state: "nv"
+town_data: "mcgill-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Muldraugh, Kentucky Business Directory"
+title: "Muldraugh, KY Business Directory"
+type: "towns"
 slug: "muldraugh-ky"
-town: "Muldraugh"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Meade"
-population: 1329
+state: "ky"
+town_data: "muldraugh-ky"
 ---

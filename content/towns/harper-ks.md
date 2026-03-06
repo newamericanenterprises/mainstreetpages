@@ -1,9 +1,7 @@
 ---
-title: "Harper, Kansas Business Directory"
+title: "Harper, KS Business Directory"
+type: "towns"
 slug: "harper-ks"
-town: "Harper"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harper"
-population: 2843
+state: "ks"
+town_data: "harper-ks"
 ---

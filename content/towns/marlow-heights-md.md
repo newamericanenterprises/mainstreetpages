@@ -1,9 +1,7 @@
 ---
-title: "Marlow Heights, Maryland Business Directory"
+title: "Marlow Heights, MD Business Directory"
+type: "towns"
 slug: "marlow-heights-md"
-town: "Marlow Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 5292
+state: "md"
+town_data: "marlow-heights-md"
 ---

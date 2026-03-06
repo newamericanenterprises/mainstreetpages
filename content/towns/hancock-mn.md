@@ -1,9 +1,7 @@
 ---
-title: "Hancock, Minnesota Business Directory"
+title: "Hancock, MN Business Directory"
+type: "towns"
 slug: "hancock-mn"
-town: "Hancock"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stevens"
-population: 1809
+state: "mn"
+town_data: "hancock-mn"
 ---

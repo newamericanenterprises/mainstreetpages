@@ -1,9 +1,7 @@
 ---
-title: "Whitesville, Kentucky Business Directory"
+title: "Whitesville, KY Business Directory"
+type: "towns"
 slug: "whitesville-ky"
-town: "Whitesville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Daviess"
-population: 2274
+state: "ky"
+town_data: "whitesville-ky"
 ---

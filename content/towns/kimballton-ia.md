@@ -1,9 +1,7 @@
 ---
-title: "Kimballton, Iowa Business Directory"
+title: "Kimballton, IA Business Directory"
+type: "towns"
 slug: "kimballton-ia"
-town: "Kimballton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Audubon"
-population: 1307
+state: "ia"
+town_data: "kimballton-ia"
 ---

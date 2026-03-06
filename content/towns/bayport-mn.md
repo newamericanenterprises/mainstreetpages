@@ -1,9 +1,7 @@
 ---
-title: "Bayport, Minnesota Business Directory"
+title: "Bayport, MN Business Directory"
+type: "towns"
 slug: "bayport-mn"
-town: "Bayport"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 568
+state: "mn"
+town_data: "bayport-mn"
 ---

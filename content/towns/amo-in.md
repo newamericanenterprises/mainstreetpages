@@ -1,9 +1,7 @@
 ---
-title: "Amo, Indiana Business Directory"
+title: "Amo, IN Business Directory"
+type: "towns"
 slug: "amo-in"
-town: "Amo"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 2887
+state: "in"
+town_data: "amo-in"
 ---

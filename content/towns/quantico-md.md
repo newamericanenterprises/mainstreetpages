@@ -1,9 +1,7 @@
 ---
-title: "Quantico, Maryland Business Directory"
+title: "Quantico, MD Business Directory"
+type: "towns"
 slug: "quantico-md"
-town: "Quantico"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 1558
+state: "md"
+town_data: "quantico-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Berwick, Louisiana Business Directory"
+title: "Berwick, LA Business Directory"
+type: "towns"
 slug: "berwick-la"
-town: "Berwick"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Mary"
-population: 2710
+state: "la"
+town_data: "berwick-la"
 ---

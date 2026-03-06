@@ -1,9 +1,7 @@
 ---
-title: "Long Grove, Iowa Business Directory"
+title: "Long Grove, IA Business Directory"
+type: "towns"
 slug: "long-grove-ia"
-town: "Long Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Scott"
-population: 1769
+state: "ia"
+town_data: "long-grove-ia"
 ---

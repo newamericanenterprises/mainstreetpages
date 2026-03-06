@@ -1,9 +1,7 @@
 ---
-title: "Marion, Iowa Business Directory"
+title: "Marion, IA Business Directory"
+type: "towns"
 slug: "marion-ia"
-town: "Marion"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 40359
+state: "ia"
+town_data: "marion-ia"
 ---

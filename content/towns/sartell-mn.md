@@ -1,9 +1,7 @@
 ---
-title: "Sartell, Minnesota Business Directory"
+title: "Sartell, MN Business Directory"
+type: "towns"
 slug: "sartell-mn"
-town: "Sartell"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 18611
+state: "mn"
+town_data: "sartell-mn"
 ---

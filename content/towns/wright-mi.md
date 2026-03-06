@@ -1,9 +1,7 @@
 ---
-title: "Wright, Michigan Business Directory"
+title: "Wright, MI Business Directory"
+type: "towns"
 slug: "wright-mi"
-town: "Wright"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 2012
+state: "mi"
+town_data: "wright-mi"
 ---

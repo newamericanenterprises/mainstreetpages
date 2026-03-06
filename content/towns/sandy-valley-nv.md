@@ -1,7 +1,7 @@
 ---
-title: "Sandy Valley, Nevada Business Directory"
+title: "Sandy Valley, NV Business Directory"
+type: "towns"
 slug: "sandy-valley-nv"
-state: "NV"
-county: "Clark"
-population: 2653
+state: "nv"
+town_data: "sandy-valley-nv"
 ---

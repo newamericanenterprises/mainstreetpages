@@ -1,7 +1,7 @@
 ---
-title: "Pocahontas, Missouri Business Directory"
+title: "Pocahontas, MO Business Directory"
+type: "towns"
 slug: "pocahontas-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 1500
+state: "mo"
+town_data: "pocahontas-mo"
 ---

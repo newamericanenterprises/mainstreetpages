@@ -1,9 +1,7 @@
 ---
-title: "Bellevue, Michigan Business Directory"
+title: "Bellevue, MI Business Directory"
+type: "towns"
 slug: "bellevue-mi"
-town: "Bellevue"
-state: "Michigan"
-state_abbr: "MI"
-county: "Eaton"
-population: 3978
+state: "mi"
+town_data: "bellevue-mi"
 ---

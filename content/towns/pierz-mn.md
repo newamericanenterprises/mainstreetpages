@@ -1,9 +1,7 @@
 ---
-title: "Pierz, Minnesota Business Directory"
+title: "Pierz, MN Business Directory"
+type: "towns"
 slug: "pierz-mn"
-town: "Pierz"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 892
+state: "mn"
+town_data: "pierz-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Wells, Nevada Business Directory"
+title: "Wells, NV Business Directory"
+type: "towns"
 slug: "wells-nv"
-state: "NV"
-county: "Elko"
-population: 1292
+state: "nv"
+town_data: "wells-nv"
 ---

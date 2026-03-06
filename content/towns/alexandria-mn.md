@@ -1,9 +1,7 @@
 ---
-title: "Alexandria, Minnesota Business Directory"
+title: "Alexandria, MN Business Directory"
+type: "towns"
 slug: "alexandria-mn"
-town: "Alexandria"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 14042
+state: "mn"
+town_data: "alexandria-mn"
 ---

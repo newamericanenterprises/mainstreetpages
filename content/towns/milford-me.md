@@ -1,9 +1,7 @@
 ---
-title: "Milford, Maine Business Directory"
+title: "Milford, ME Business Directory"
+type: "towns"
 slug: "milford-me"
-town: "Milford"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 690
+state: "me"
+town_data: "milford-me"
 ---

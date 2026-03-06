@@ -1,7 +1,7 @@
 ---
-title: "Satartia, Mississippi Business Directory"
+title: "Satartia, MS Business Directory"
+type: "towns"
 slug: "satartia-ms"
-state: "MS"
-county: "Yazoo"
-population: 1500
+state: "ms"
+town_data: "satartia-ms"
 ---

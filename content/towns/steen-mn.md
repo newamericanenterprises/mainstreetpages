@@ -1,9 +1,7 @@
 ---
-title: "Steen, Minnesota Business Directory"
+title: "Steen, MN Business Directory"
+type: "towns"
 slug: "steen-mn"
-town: "Steen"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 919
+state: "mn"
+town_data: "steen-mn"
 ---

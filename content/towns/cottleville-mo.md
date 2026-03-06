@@ -1,7 +1,7 @@
 ---
-title: "Cottleville, Missouri Business Directory"
+title: "Cottleville, MO Business Directory"
+type: "towns"
 slug: "cottleville-mo"
-state: "MO"
-county: "St. Charles"
-population: 1500
+state: "mo"
+town_data: "cottleville-mo"
 ---

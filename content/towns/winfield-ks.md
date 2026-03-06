@@ -1,9 +1,7 @@
 ---
-title: "Winfield, Kansas Business Directory"
+title: "Winfield, KS Business Directory"
+type: "towns"
 slug: "winfield-ks"
-town: "Winfield"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 11990
+state: "ks"
+town_data: "winfield-ks"
 ---

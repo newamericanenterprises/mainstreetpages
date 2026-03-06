@@ -1,9 +1,7 @@
 ---
-title: "Wall Lake, Iowa Business Directory"
+title: "Wall Lake, IA Business Directory"
+type: "towns"
 slug: "wall-lake-ia"
-town: "Wall Lake"
-state: "Iowa"
-state_abbr: "IA"
-county: "Sac"
-population: 2922
+state: "ia"
+town_data: "wall-lake-ia"
 ---

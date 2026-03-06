@@ -1,7 +1,7 @@
 ---
-title: "Truesdale, Missouri Business Directory"
+title: "Truesdale, MO Business Directory"
+type: "towns"
 slug: "truesdale-mo"
-state: "MO"
-county: "Warren"
-population: 1500
+state: "mo"
+town_data: "truesdale-mo"
 ---

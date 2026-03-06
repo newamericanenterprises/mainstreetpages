@@ -1,9 +1,7 @@
 ---
-title: "Dale, Indiana Business Directory"
+title: "Dale, IN Business Directory"
+type: "towns"
 slug: "dale-in"
-town: "Dale"
-state: "Indiana"
-state_abbr: "IN"
-county: "Spencer"
-population: 1586
+state: "in"
+town_data: "dale-in"
 ---

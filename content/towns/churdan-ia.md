@@ -1,9 +1,7 @@
 ---
-title: "Churdan, Iowa Business Directory"
+title: "Churdan, IA Business Directory"
+type: "towns"
 slug: "churdan-ia"
-town: "Churdan"
-state: "Iowa"
-state_abbr: "IA"
-county: "Greene"
-population: 2480
+state: "ia"
+town_data: "churdan-ia"
 ---

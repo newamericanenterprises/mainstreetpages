@@ -1,9 +1,7 @@
 ---
-title: "Boxford, Massachusetts Business Directory"
+title: "Boxford, MA Business Directory"
+type: "towns"
 slug: "boxford-ma"
-town: "Boxford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 8453
+state: "ma"
+town_data: "boxford-ma"
 ---

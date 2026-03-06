@@ -1,7 +1,7 @@
 ---
-title: "Olivette, Missouri Business Directory"
+title: "Olivette, MO Business Directory"
+type: "towns"
 slug: "olivette-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "olivette-mo"
 ---

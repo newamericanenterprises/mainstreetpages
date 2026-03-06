@@ -1,9 +1,7 @@
 ---
-title: "Norwell, Massachusetts Business Directory"
+title: "Norwell, MA Business Directory"
+type: "towns"
 slug: "norwell-ma"
-town: "Norwell"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 4968
+state: "ma"
+town_data: "norwell-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Newton, Kansas Business Directory"
+title: "Newton, KS Business Directory"
+type: "towns"
 slug: "newton-ks"
-town: "Newton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Harvey"
-population: 18753
+state: "ks"
+town_data: "newton-ks"
 ---

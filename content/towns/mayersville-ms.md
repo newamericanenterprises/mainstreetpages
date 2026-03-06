@@ -1,7 +1,7 @@
 ---
-title: "Mayersville, Mississippi Business Directory"
+title: "Mayersville, MS Business Directory"
+type: "towns"
 slug: "mayersville-ms"
-state: "MS"
-county: "Issaquena"
-population: 155
+state: "ms"
+town_data: "mayersville-ms"
 ---

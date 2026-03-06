@@ -1,7 +1,7 @@
 ---
-title: "Greenwood, Nebraska Business Directory"
+title: "Greenwood, NE Business Directory"
+type: "towns"
 slug: "greenwood-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "greenwood-ne"
 ---

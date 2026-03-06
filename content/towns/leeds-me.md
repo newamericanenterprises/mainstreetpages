@@ -1,9 +1,7 @@
 ---
-title: "Leeds, Maine Business Directory"
+title: "Leeds, ME Business Directory"
+type: "towns"
 slug: "leeds-me"
-town: "Leeds"
-state: "Maine"
-state_abbr: "ME"
-county: "Androscoggin"
-population: 581
+state: "me"
+town_data: "leeds-me"
 ---

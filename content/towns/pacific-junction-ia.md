@@ -1,9 +1,7 @@
 ---
-title: "Pacific Junction, Iowa Business Directory"
+title: "Pacific Junction, IA Business Directory"
+type: "towns"
 slug: "pacific-junction-ia"
-town: "Pacific Junction"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mills"
-population: 629
+state: "ia"
+town_data: "pacific-junction-ia"
 ---

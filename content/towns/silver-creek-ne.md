@@ -1,7 +1,7 @@
 ---
-title: "Silver Creek, Nebraska Business Directory"
+title: "Silver Creek, NE Business Directory"
+type: "towns"
 slug: "silver-creek-ne"
-state: "NE"
-county: "Merrick"
-population: 500
+state: "ne"
+town_data: "silver-creek-ne"
 ---

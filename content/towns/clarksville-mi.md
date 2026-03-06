@@ -1,9 +1,7 @@
 ---
-title: "Clarksville, Michigan Business Directory"
+title: "Clarksville, MI Business Directory"
+type: "towns"
 slug: "clarksville-mi"
-town: "Clarksville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 4543
+state: "mi"
+town_data: "clarksville-mi"
 ---

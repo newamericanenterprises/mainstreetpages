@@ -1,9 +1,7 @@
 ---
-title: "Mount Vernon, Maine Business Directory"
+title: "Mount Vernon, ME Business Directory"
+type: "towns"
 slug: "mount-vernon-me"
-town: "Mount Vernon"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1976
+state: "me"
+town_data: "mount-vernon-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Crofton, Maryland Business Directory"
+title: "Crofton, MD Business Directory"
+type: "towns"
 slug: "crofton-md"
-town: "Crofton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 29726
+state: "md"
+town_data: "crofton-md"
 ---

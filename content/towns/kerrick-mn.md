@@ -1,9 +1,7 @@
 ---
-title: "Kerrick, Minnesota Business Directory"
+title: "Kerrick, MN Business Directory"
+type: "towns"
 slug: "kerrick-mn"
-town: "Kerrick"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pine"
-population: 1256
+state: "mn"
+town_data: "kerrick-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Mardela Springs, Maryland Business Directory"
+title: "Mardela Springs, MD Business Directory"
+type: "towns"
 slug: "mardela-springs-md"
-town: "Mardela Springs"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 4990
+state: "md"
+town_data: "mardela-springs-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sibley, Louisiana Business Directory"
+title: "Sibley, LA Business Directory"
+type: "towns"
 slug: "sibley-la"
-town: "Sibley"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Webster"
-population: 2901
+state: "la"
+town_data: "sibley-la"
 ---

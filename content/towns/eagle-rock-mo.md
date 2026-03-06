@@ -1,7 +1,7 @@
 ---
-title: "Eagle Rock, Missouri Business Directory"
+title: "Eagle Rock, MO Business Directory"
+type: "towns"
 slug: "eagle-rock-mo"
-state: "MO"
-county: "Barry"
-population: 1500
+state: "mo"
+town_data: "eagle-rock-mo"
 ---

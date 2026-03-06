@@ -1,9 +1,7 @@
 ---
-title: "Snow Hill, Maryland Business Directory"
+title: "Snow Hill, MD Business Directory"
+type: "towns"
 slug: "snow-hill-md"
-town: "Snow Hill"
-state: "Maryland"
-state_abbr: "MD"
-county: "Worcester"
-population: 2103
+state: "md"
+town_data: "snow-hill-md"
 ---

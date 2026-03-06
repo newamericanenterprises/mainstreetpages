@@ -1,7 +1,7 @@
 ---
-title: "Kearney, Missouri Business Directory"
+title: "Kearney, MO Business Directory"
+type: "towns"
 slug: "kearney-mo"
-state: "MO"
-county: "Clay"
-population: 10052
+state: "mo"
+town_data: "kearney-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Tonopah, Nevada Business Directory"
+title: "Tonopah, NV Business Directory"
+type: "towns"
 slug: "tonopah-nv"
-state: "NV"
-county: "Nye"
-population: 2478
+state: "nv"
+town_data: "tonopah-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Houston, Minnesota Business Directory"
+title: "Houston, MN Business Directory"
+type: "towns"
 slug: "houston-mn"
-town: "Houston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 2245
+state: "mn"
+town_data: "houston-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Dyer, Nevada Business Directory"
+title: "Dyer, NV Business Directory"
+type: "towns"
 slug: "dyer-nv"
-state: "NV"
-county: "Esmeralda"
-population: 259
+state: "nv"
+town_data: "dyer-nv"
 ---

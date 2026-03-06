@@ -1,7 +1,7 @@
 ---
-title: "Plentywood, Montana Business Directory"
+title: "Plentywood, MT Business Directory"
+type: "towns"
 slug: "plentywood-mt"
-state: "MT"
-county: "Sheridan"
-population: 1718
+state: "mt"
+town_data: "plentywood-mt"
 ---

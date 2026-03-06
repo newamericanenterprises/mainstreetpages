@@ -1,7 +1,7 @@
 ---
-title: "Fort Shaw, Montana Business Directory"
+title: "Fort Shaw, MT Business Directory"
+type: "towns"
 slug: "fort-shaw-mt"
-state: "MT"
-county: "Cascade"
-population: 500
+state: "mt"
+town_data: "fort-shaw-mt"
 ---

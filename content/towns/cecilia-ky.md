@@ -1,9 +1,7 @@
 ---
-title: "Cecilia, Kentucky Business Directory"
+title: "Cecilia, KY Business Directory"
+type: "towns"
 slug: "cecilia-ky"
-town: "Cecilia"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Hardin"
-population: 1026
+state: "ky"
+town_data: "cecilia-ky"
 ---

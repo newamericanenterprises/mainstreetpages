@@ -1,7 +1,7 @@
 ---
-title: "Dutchtown, Missouri Business Directory"
+title: "Dutchtown, MO Business Directory"
+type: "towns"
 slug: "dutchtown-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 1500
+state: "mo"
+town_data: "dutchtown-mo"
 ---

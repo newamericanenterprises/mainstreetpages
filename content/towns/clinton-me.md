@@ -1,9 +1,7 @@
 ---
-title: "Clinton, Maine Business Directory"
+title: "Clinton, ME Business Directory"
+type: "towns"
 slug: "clinton-me"
-town: "Clinton"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1435
+state: "me"
+town_data: "clinton-me"
 ---

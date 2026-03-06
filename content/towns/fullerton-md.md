@@ -1,9 +1,7 @@
 ---
-title: "Fullerton, Maryland Business Directory"
+title: "Fullerton, MD Business Directory"
+type: "towns"
 slug: "fullerton-md"
-town: "Fullerton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 4627
+state: "md"
+town_data: "fullerton-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Wilmont, Minnesota Business Directory"
+title: "Wilmont, MN Business Directory"
+type: "towns"
 slug: "wilmont-mn"
-town: "Wilmont"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Nobles"
-population: 2395
+state: "mn"
+town_data: "wilmont-mn"
 ---

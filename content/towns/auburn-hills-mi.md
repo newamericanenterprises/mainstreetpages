@@ -1,9 +1,7 @@
 ---
-title: "Auburn Hills, Michigan Business Directory"
+title: "Auburn Hills, MI Business Directory"
+type: "towns"
 slug: "auburn-hills-mi"
-town: "Auburn Hills"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 24383
+state: "mi"
+town_data: "auburn-hills-mi"
 ---

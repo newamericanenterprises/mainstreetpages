@@ -1,9 +1,7 @@
 ---
-title: "Shorewood, Minnesota Business Directory"
+title: "Shorewood, MN Business Directory"
+type: "towns"
 slug: "shorewood-mn"
-town: "Shorewood"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 2557
+state: "mn"
+town_data: "shorewood-mn"
 ---

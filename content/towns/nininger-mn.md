@@ -1,9 +1,7 @@
 ---
-title: "Nininger, Minnesota Business Directory"
+title: "Nininger, MN Business Directory"
+type: "towns"
 slug: "nininger-mn"
-town: "Nininger"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 2176
+state: "mn"
+town_data: "nininger-mn"
 ---

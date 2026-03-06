@@ -1,9 +1,7 @@
 ---
-title: "Finksburg, Maryland Business Directory"
+title: "Finksburg, MD Business Directory"
+type: "towns"
 slug: "finksburg-md"
-town: "Finksburg"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 2573
+state: "md"
+town_data: "finksburg-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "English, Indiana Business Directory"
+title: "English, IN Business Directory"
+type: "towns"
 slug: "english-in"
-town: "English"
-state: "Indiana"
-state_abbr: "IN"
-county: "Crawford"
-population: 670
+state: "in"
+town_data: "english-in"
 ---

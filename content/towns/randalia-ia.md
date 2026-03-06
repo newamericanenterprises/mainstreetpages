@@ -1,9 +1,7 @@
 ---
-title: "Randalia, Iowa Business Directory"
+title: "Randalia, IA Business Directory"
+type: "towns"
 slug: "randalia-ia"
-town: "Randalia"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 1959
+state: "ia"
+town_data: "randalia-ia"
 ---

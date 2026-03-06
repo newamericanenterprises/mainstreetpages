@@ -1,9 +1,7 @@
 ---
-title: "Cedar Lake, Indiana Business Directory"
+title: "Cedar Lake, IN Business Directory"
+type: "towns"
 slug: "cedar-lake-in"
-town: "Cedar Lake"
-state: "Indiana"
-state_abbr: "IN"
-county: "Lake"
-population: 12876
+state: "in"
+town_data: "cedar-lake-in"
 ---

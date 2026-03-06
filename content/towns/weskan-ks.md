@@ -1,9 +1,7 @@
 ---
-title: "Weskan, Kansas Business Directory"
+title: "Weskan, KS Business Directory"
+type: "towns"
 slug: "weskan-ks"
-town: "Weskan"
-state: "Kansas"
-state_abbr: "KS"
-county: "Wallace"
-population: 1583
+state: "ks"
+town_data: "weskan-ks"
 ---

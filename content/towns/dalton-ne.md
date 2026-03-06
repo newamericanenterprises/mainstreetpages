@@ -1,7 +1,7 @@
 ---
-title: "Dalton, Nebraska Business Directory"
+title: "Dalton, NE Business Directory"
+type: "towns"
 slug: "dalton-ne"
-state: "NE"
-county: "Cheyenne"
-population: 500
+state: "ne"
+town_data: "dalton-ne"
 ---

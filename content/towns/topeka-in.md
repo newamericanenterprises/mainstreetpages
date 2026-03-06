@@ -1,9 +1,7 @@
 ---
-title: "Topeka, Indiana Business Directory"
+title: "Topeka, IN Business Directory"
+type: "towns"
 slug: "topeka-in"
-town: "Topeka"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaGrange"
-population: 1833
+state: "in"
+town_data: "topeka-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Durant, Iowa Business Directory"
+title: "Durant, IA Business Directory"
+type: "towns"
 slug: "durant-ia"
-town: "Durant"
-state: "Iowa"
-state_abbr: "IA"
-county: "Cedar"
-population: 1428
+state: "ia"
+town_data: "durant-ia"
 ---

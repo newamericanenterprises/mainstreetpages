@@ -1,9 +1,7 @@
 ---
-title: "Jasper, Minnesota Business Directory"
+title: "Jasper, MN Business Directory"
+type: "towns"
 slug: "jasper-mn"
-town: "Jasper"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Rock"
-population: 1519
+state: "mn"
+town_data: "jasper-mn"
 ---

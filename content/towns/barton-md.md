@@ -1,9 +1,7 @@
 ---
-title: "Barton, Maryland Business Directory"
+title: "Barton, MD Business Directory"
+type: "towns"
 slug: "barton-md"
-town: "Barton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 4477
+state: "md"
+town_data: "barton-md"
 ---

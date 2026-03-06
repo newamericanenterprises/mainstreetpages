@@ -1,9 +1,7 @@
 ---
-title: "Elizabeth, Indiana Business Directory"
+title: "Elizabeth, IN Business Directory"
+type: "towns"
 slug: "elizabeth-in"
-town: "Elizabeth"
-state: "Indiana"
-state_abbr: "IN"
-county: "Harrison"
-population: 3991
+state: "in"
+town_data: "elizabeth-in"
 ---

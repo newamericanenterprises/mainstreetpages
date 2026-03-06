@@ -1,9 +1,7 @@
 ---
-title: "Sharptown, Maryland Business Directory"
+title: "Sharptown, MD Business Directory"
+type: "towns"
 slug: "sharptown-md"
-town: "Sharptown"
-state: "Maryland"
-state_abbr: "MD"
-county: "Wicomico"
-population: 616
+state: "md"
+town_data: "sharptown-md"
 ---

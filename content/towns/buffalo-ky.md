@@ -1,9 +1,7 @@
 ---
-title: "Buffalo, Kentucky Business Directory"
+title: "Buffalo, KY Business Directory"
+type: "towns"
 slug: "buffalo-ky"
-town: "Buffalo"
-state: "Kentucky"
-state_abbr: "KY"
-county: "LaRue"
-population: 1820
+state: "ky"
+town_data: "buffalo-ky"
 ---

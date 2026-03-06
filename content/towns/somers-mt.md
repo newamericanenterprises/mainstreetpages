@@ -1,7 +1,7 @@
 ---
-title: "Somers, Montana Business Directory"
+title: "Somers, MT Business Directory"
+type: "towns"
 slug: "somers-mt"
-state: "MT"
-county: "Flathead"
-population: 500
+state: "mt"
+town_data: "somers-mt"
 ---

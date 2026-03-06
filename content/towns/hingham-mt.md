@@ -1,7 +1,7 @@
 ---
-title: "Hingham, Montana Business Directory"
+title: "Hingham, MT Business Directory"
+type: "towns"
 slug: "hingham-mt"
-state: "MT"
-county: "Hill"
-population: 500
+state: "mt"
+town_data: "hingham-mt"
 ---

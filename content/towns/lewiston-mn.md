@@ -1,9 +1,7 @@
 ---
-title: "Lewiston, Minnesota Business Directory"
+title: "Lewiston, MN Business Directory"
+type: "towns"
 slug: "lewiston-mn"
-town: "Lewiston"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Winona"
-population: 609
+state: "mn"
+town_data: "lewiston-mn"
 ---

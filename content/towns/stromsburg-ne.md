@@ -1,7 +1,7 @@
 ---
-title: "Stromsburg, Nebraska Business Directory"
+title: "Stromsburg, NE Business Directory"
+type: "towns"
 slug: "stromsburg-ne"
-state: "NE"
-county: "Polk"
-population: 1171
+state: "ne"
+town_data: "stromsburg-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Talmage, Kansas Business Directory"
+title: "Talmage, KS Business Directory"
+type: "towns"
 slug: "talmage-ks"
-town: "Talmage"
-state: "Kansas"
-state_abbr: "KS"
-county: "Dickinson"
-population: 2475
+state: "ks"
+town_data: "talmage-ks"
 ---

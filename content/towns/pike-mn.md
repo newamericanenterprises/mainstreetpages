@@ -1,9 +1,7 @@
 ---
-title: "Pike, Minnesota Business Directory"
+title: "Pike, MN Business Directory"
+type: "towns"
 slug: "pike-mn"
-town: "Pike"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 593
+state: "mn"
+town_data: "pike-mn"
 ---

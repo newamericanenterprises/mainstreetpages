@@ -1,9 +1,7 @@
 ---
-title: "Remington, Indiana Business Directory"
+title: "Remington, IN Business Directory"
+type: "towns"
 slug: "remington-in"
-town: "Remington"
-state: "Indiana"
-state_abbr: "IN"
-county: "Jasper"
-population: 3487
+state: "in"
+town_data: "remington-in"
 ---

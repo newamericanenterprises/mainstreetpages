@@ -1,9 +1,7 @@
 ---
-title: "Yorktown, Iowa Business Directory"
+title: "Yorktown, IA Business Directory"
+type: "towns"
 slug: "yorktown-ia"
-town: "Yorktown"
-state: "Iowa"
-state_abbr: "IA"
-county: "Page"
-population: 1082
+state: "ia"
+town_data: "yorktown-ia"
 ---

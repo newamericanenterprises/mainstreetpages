@@ -1,9 +1,7 @@
 ---
-title: "Glenwood, Maryland Business Directory"
+title: "Glenwood, MD Business Directory"
+type: "towns"
 slug: "glenwood-md"
-town: "Glenwood"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 3705
+state: "md"
+town_data: "glenwood-md"
 ---

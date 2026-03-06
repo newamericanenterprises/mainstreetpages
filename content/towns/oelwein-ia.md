@@ -1,9 +1,7 @@
 ---
-title: "Oelwein, Iowa Business Directory"
+title: "Oelwein, IA Business Directory"
+type: "towns"
 slug: "oelwein-ia"
-town: "Oelwein"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 5964
+state: "ia"
+town_data: "oelwein-ia"
 ---

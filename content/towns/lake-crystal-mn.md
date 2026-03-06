@@ -1,9 +1,7 @@
 ---
-title: "Lake Crystal, Minnesota Business Directory"
+title: "Lake Crystal, MN Business Directory"
+type: "towns"
 slug: "lake-crystal-mn"
-town: "Lake Crystal"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 2256
+state: "mn"
+town_data: "lake-crystal-mn"
 ---

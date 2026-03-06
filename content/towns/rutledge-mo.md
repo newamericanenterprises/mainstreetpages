@@ -1,7 +1,7 @@
 ---
-title: "Rutledge, Missouri Business Directory"
+title: "Rutledge, MO Business Directory"
+type: "towns"
 slug: "rutledge-mo"
-state: "MO"
-county: "Scotland"
-population: 1500
+state: "mo"
+town_data: "rutledge-mo"
 ---

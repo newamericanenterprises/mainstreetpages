@@ -1,9 +1,7 @@
 ---
-title: "Mackinac Island, Michigan Business Directory"
+title: "Mackinac Island, MI Business Directory"
+type: "towns"
 slug: "mackinac-island-mi"
-town: "Mackinac Island"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 4089
+state: "mi"
+town_data: "mackinac-island-mi"
 ---

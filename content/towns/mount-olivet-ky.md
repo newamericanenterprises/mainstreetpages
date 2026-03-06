@@ -1,9 +1,7 @@
 ---
-title: "Mount Olivet, Kentucky Business Directory"
+title: "Mount Olivet, KY Business Directory"
+type: "towns"
 slug: "mount-olivet-ky"
-town: "Mount Olivet"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Robertson"
-population: 313
+state: "ky"
+town_data: "mount-olivet-ky"
 ---

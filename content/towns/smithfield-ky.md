@@ -1,9 +1,7 @@
 ---
-title: "Smithfield, Kentucky Business Directory"
+title: "Smithfield, KY Business Directory"
+type: "towns"
 slug: "smithfield-ky"
-town: "Smithfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Henry"
-population: 2343
+state: "ky"
+town_data: "smithfield-ky"
 ---

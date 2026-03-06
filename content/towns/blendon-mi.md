@@ -1,9 +1,7 @@
 ---
-title: "Blendon, Michigan Business Directory"
+title: "Blendon, MI Business Directory"
+type: "towns"
 slug: "blendon-mi"
-town: "Blendon"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 3083
+state: "mi"
+town_data: "blendon-mi"
 ---

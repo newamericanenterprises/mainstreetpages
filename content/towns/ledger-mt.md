@@ -1,7 +1,7 @@
 ---
-title: "Ledger, Montana Business Directory"
+title: "Ledger, MT Business Directory"
+type: "towns"
 slug: "ledger-mt"
-state: "MT"
-county: "Pondera"
-population: 500
+state: "mt"
+town_data: "ledger-mt"
 ---

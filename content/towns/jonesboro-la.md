@@ -1,9 +1,7 @@
 ---
-title: "Jonesboro, Louisiana Business Directory"
+title: "Jonesboro, LA Business Directory"
+type: "towns"
 slug: "jonesboro-la"
-town: "Jonesboro"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 4531
+state: "la"
+town_data: "jonesboro-la"
 ---

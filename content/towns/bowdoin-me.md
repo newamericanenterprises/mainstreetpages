@@ -1,9 +1,7 @@
 ---
-title: "Bowdoin, Maine Business Directory"
+title: "Bowdoin, ME Business Directory"
+type: "towns"
 slug: "bowdoin-me"
-town: "Bowdoin"
-state: "Maine"
-state_abbr: "ME"
-county: "Sagadahoc"
-population: 2145
+state: "me"
+town_data: "bowdoin-me"
 ---

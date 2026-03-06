@@ -1,9 +1,7 @@
 ---
-title: "Madelia, Minnesota Business Directory"
+title: "Madelia, MN Business Directory"
+type: "towns"
 slug: "madelia-mn"
-town: "Madelia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Watonwan"
-population: 553
+state: "mn"
+town_data: "madelia-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Holland, Iowa Business Directory"
+title: "Holland, IA Business Directory"
+type: "towns"
 slug: "holland-ia"
-town: "Holland"
-state: "Iowa"
-state_abbr: "IA"
-county: "Grundy"
-population: 2614
+state: "ia"
+town_data: "holland-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Amherst, Massachusetts Business Directory"
+title: "Amherst, MA Business Directory"
+type: "towns"
 slug: "amherst-ma"
-town: "Amherst"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 40096
+state: "ma"
+town_data: "amherst-ma"
 ---

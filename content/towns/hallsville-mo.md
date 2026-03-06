@@ -1,7 +1,7 @@
 ---
-title: "Hallsville, Missouri Business Directory"
+title: "Hallsville, MO Business Directory"
+type: "towns"
 slug: "hallsville-mo"
-state: "MO"
-county: "Boone"
-population: 1500
+state: "mo"
+town_data: "hallsville-mo"
 ---

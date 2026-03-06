@@ -1,7 +1,7 @@
 ---
-title: "Ferguson, Missouri Business Directory"
+title: "Ferguson, MO Business Directory"
+type: "towns"
 slug: "ferguson-mo"
-state: "MO"
-county: "St. Louis"
-population: 21111
+state: "mo"
+town_data: "ferguson-mo"
 ---

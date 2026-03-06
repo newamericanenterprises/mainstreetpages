@@ -1,9 +1,7 @@
 ---
-title: "Fordsville, Kentucky Business Directory"
+title: "Fordsville, KY Business Directory"
+type: "towns"
 slug: "fordsville-ky"
-town: "Fordsville"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ohio"
-population: 2144
+state: "ky"
+town_data: "fordsville-ky"
 ---

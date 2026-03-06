@@ -1,9 +1,7 @@
 ---
-title: "New Pekin, Indiana Business Directory"
+title: "New Pekin, IN Business Directory"
+type: "towns"
 slug: "new-pekin-in"
-town: "New Pekin"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 1167
+state: "in"
+town_data: "new-pekin-in"
 ---

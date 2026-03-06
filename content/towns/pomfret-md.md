@@ -1,9 +1,7 @@
 ---
-title: "Pomfret, Maryland Business Directory"
+title: "Pomfret, MD Business Directory"
+type: "towns"
 slug: "pomfret-md"
-town: "Pomfret"
-state: "Maryland"
-state_abbr: "MD"
-county: "Charles"
-population: 5398
+state: "md"
+town_data: "pomfret-md"
 ---

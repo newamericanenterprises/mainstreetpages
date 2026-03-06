@@ -1,9 +1,7 @@
 ---
-title: "Caledonia, Minnesota Business Directory"
+title: "Caledonia, MN Business Directory"
+type: "towns"
 slug: "caledonia-mn"
-town: "Caledonia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Houston"
-population: 2868
+state: "mn"
+town_data: "caledonia-mn"
 ---

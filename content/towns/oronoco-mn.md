@@ -1,9 +1,7 @@
 ---
-title: "Oronoco, Minnesota Business Directory"
+title: "Oronoco, MN Business Directory"
+type: "towns"
 slug: "oronoco-mn"
-town: "Oronoco"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Olmsted"
-population: 3204
+state: "mn"
+town_data: "oronoco-mn"
 ---

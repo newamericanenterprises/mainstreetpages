@@ -1,9 +1,7 @@
 ---
-title: "St. Benedict, Iowa Business Directory"
+title: "St. Benedict, IA Business Directory"
+type: "towns"
 slug: "st-benedict-ia"
-town: "St. Benedict"
-state: "Iowa"
-state_abbr: "IA"
-county: "Kossuth"
-population: 2119
+state: "ia"
+town_data: "st-benedict-ia"
 ---

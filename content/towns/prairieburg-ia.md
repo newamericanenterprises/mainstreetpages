@@ -1,9 +1,7 @@
 ---
-title: "Prairieburg, Iowa Business Directory"
+title: "Prairieburg, IA Business Directory"
+type: "towns"
 slug: "prairieburg-ia"
-town: "Prairieburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Linn"
-population: 2954
+state: "ia"
+town_data: "prairieburg-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Leverett, Massachusetts Business Directory"
+title: "Leverett, MA Business Directory"
+type: "towns"
 slug: "leverett-ma"
-town: "Leverett"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 5041
+state: "ma"
+town_data: "leverett-ma"
 ---

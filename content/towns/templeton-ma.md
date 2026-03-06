@@ -1,9 +1,7 @@
 ---
-title: "Templeton, Massachusetts Business Directory"
+title: "Templeton, MA Business Directory"
+type: "towns"
 slug: "templeton-ma"
-town: "Templeton"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 6687
+state: "ma"
+town_data: "templeton-ma"
 ---

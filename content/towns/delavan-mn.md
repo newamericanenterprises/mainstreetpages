@@ -1,9 +1,7 @@
 ---
-title: "Delavan, Minnesota Business Directory"
+title: "Delavan, MN Business Directory"
+type: "towns"
 slug: "delavan-mn"
-town: "Delavan"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 578
+state: "mn"
+town_data: "delavan-mn"
 ---

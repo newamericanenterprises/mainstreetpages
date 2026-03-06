@@ -1,9 +1,7 @@
 ---
-title: "Southborough, Massachusetts Business Directory"
+title: "Southborough, MA Business Directory"
+type: "towns"
 slug: "southborough-ma"
-town: "Southborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 2688
+state: "ma"
+town_data: "southborough-ma"
 ---

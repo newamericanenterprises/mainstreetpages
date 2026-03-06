@@ -1,9 +1,7 @@
 ---
-title: "Bel Air, Maryland Business Directory"
+title: "Bel Air, MD Business Directory"
+type: "towns"
 slug: "bel-air-md"
-town: "Bel Air"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 10120
+state: "md"
+town_data: "bel-air-md"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "McDermitt, Nevada Business Directory"
+title: "Mcdermitt, NV Business Directory"
+type: "towns"
 slug: "mcdermitt-nv"
-state: "NV"
-county: "Humboldt"
-population: 513
+state: "nv"
+town_data: "mcdermitt-nv"
 ---

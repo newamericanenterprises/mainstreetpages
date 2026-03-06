@@ -1,9 +1,7 @@
 ---
-title: "Bowerbank, Maine Business Directory"
+title: "Bowerbank, ME Business Directory"
+type: "towns"
 slug: "bowerbank-me"
-town: "Bowerbank"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1777
+state: "me"
+town_data: "bowerbank-me"
 ---

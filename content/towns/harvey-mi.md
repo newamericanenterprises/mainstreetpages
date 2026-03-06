@@ -1,9 +1,7 @@
 ---
-title: "Harvey, Michigan Business Directory"
+title: "Harvey, MI Business Directory"
+type: "towns"
 slug: "harvey-mi"
-town: "Harvey"
-state: "Michigan"
-state_abbr: "MI"
-county: "Marquette"
-population: 2086
+state: "mi"
+town_data: "harvey-mi"
 ---

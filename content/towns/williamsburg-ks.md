@@ -1,9 +1,7 @@
 ---
-title: "Williamsburg, Kansas Business Directory"
+title: "Williamsburg, KS Business Directory"
+type: "towns"
 slug: "williamsburg-ks"
-town: "Williamsburg"
-state: "Kansas"
-state_abbr: "KS"
-county: "Franklin"
-population: 1836
+state: "ks"
+town_data: "williamsburg-ks"
 ---

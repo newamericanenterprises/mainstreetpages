@@ -1,9 +1,7 @@
 ---
-title: "Luzerne, Iowa Business Directory"
+title: "Luzerne, IA Business Directory"
+type: "towns"
 slug: "luzerne-ia"
-town: "Luzerne"
-state: "Iowa"
-state_abbr: "IA"
-county: "Benton"
-population: 2100
+state: "ia"
+town_data: "luzerne-ia"
 ---

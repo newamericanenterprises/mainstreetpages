@@ -1,9 +1,7 @@
 ---
-title: "Whiting, Kansas Business Directory"
+title: "Whiting, KS Business Directory"
+type: "towns"
 slug: "whiting-ks"
-town: "Whiting"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jackson"
-population: 3164
+state: "ks"
+town_data: "whiting-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Smithville, Missouri Business Directory"
+title: "Smithville, MO Business Directory"
+type: "towns"
 slug: "smithville-mo"
-state: "MO"
-county: "Clay"
-population: 9489
+state: "mo"
+town_data: "smithville-mo"
 ---

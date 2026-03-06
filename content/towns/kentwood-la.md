@@ -1,9 +1,7 @@
 ---
-title: "Kentwood, Louisiana Business Directory"
+title: "Kentwood, LA Business Directory"
+type: "towns"
 slug: "kentwood-la"
-town: "Kentwood"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 1587
+state: "la"
+town_data: "kentwood-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ellsworth, Kansas Business Directory"
+title: "Ellsworth, KS Business Directory"
+type: "towns"
 slug: "ellsworth-ks"
-town: "Ellsworth"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellsworth"
-population: 725
+state: "ks"
+town_data: "ellsworth-ks"
 ---

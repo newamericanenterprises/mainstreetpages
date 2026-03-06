@@ -1,9 +1,7 @@
 ---
-title: "Dry Ridge, Kentucky Business Directory"
+title: "Dry Ridge, KY Business Directory"
+type: "towns"
 slug: "dry-ridge-ky"
-town: "Dry Ridge"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Grant"
-population: 916
+state: "ky"
+town_data: "dry-ridge-ky"
 ---

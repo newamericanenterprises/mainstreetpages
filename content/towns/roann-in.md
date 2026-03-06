@@ -1,9 +1,7 @@
 ---
-title: "Roann, Indiana Business Directory"
+title: "Roann, IN Business Directory"
+type: "towns"
 slug: "roann-in"
-town: "Roann"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wabash"
-population: 3832
+state: "in"
+town_data: "roann-in"
 ---

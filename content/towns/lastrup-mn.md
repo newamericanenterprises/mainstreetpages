@@ -1,9 +1,7 @@
 ---
-title: "Lastrup, Minnesota Business Directory"
+title: "Lastrup, MN Business Directory"
+type: "towns"
 slug: "lastrup-mn"
-town: "Lastrup"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Morrison"
-population: 1668
+state: "mn"
+town_data: "lastrup-mn"
 ---

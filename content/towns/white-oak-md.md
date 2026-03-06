@@ -1,9 +1,7 @@
 ---
-title: "White Oak, Maryland Business Directory"
+title: "White Oak, MD Business Directory"
+type: "towns"
 slug: "white-oak-md"
-town: "White Oak"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 4747
+state: "md"
+town_data: "white-oak-md"
 ---

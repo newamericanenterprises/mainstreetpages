@@ -1,9 +1,7 @@
 ---
-title: "Bloomfield, Kentucky Business Directory"
+title: "Bloomfield, KY Business Directory"
+type: "towns"
 slug: "bloomfield-ky"
-town: "Bloomfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Nelson"
-population: 426
+state: "ky"
+town_data: "bloomfield-ky"
 ---

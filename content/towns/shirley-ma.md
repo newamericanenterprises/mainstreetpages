@@ -1,9 +1,7 @@
 ---
-title: "Shirley, Massachusetts Business Directory"
+title: "Shirley, MA Business Directory"
+type: "towns"
 slug: "shirley-ma"
-town: "Shirley"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Middlesex"
-population: 4756
+state: "ma"
+town_data: "shirley-ma"
 ---

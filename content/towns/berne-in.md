@@ -1,9 +1,7 @@
 ---
-title: "Berne, Indiana Business Directory"
+title: "Berne, IN Business Directory"
+type: "towns"
 slug: "berne-in"
-town: "Berne"
-state: "Indiana"
-state_abbr: "IN"
-county: "Adams"
-population: 607
+state: "in"
+town_data: "berne-in"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lake Odessa, Michigan Business Directory"
+title: "Lake Odessa, MI Business Directory"
+type: "towns"
 slug: "lake-odessa-mi"
-town: "Lake Odessa"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ionia"
-population: 3780
+state: "mi"
+town_data: "lake-odessa-mi"
 ---

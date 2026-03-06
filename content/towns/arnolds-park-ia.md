@@ -1,9 +1,7 @@
 ---
-title: "Arnolds Park, Iowa Business Directory"
+title: "Arnolds Park, IA Business Directory"
+type: "towns"
 slug: "arnolds-park-ia"
-town: "Arnolds Park"
-state: "Iowa"
-state_abbr: "IA"
-county: "Dickinson"
-population: 1068
+state: "ia"
+town_data: "arnolds-park-ia"
 ---

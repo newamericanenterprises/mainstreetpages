@@ -1,9 +1,7 @@
 ---
-title: "Lizton, Indiana Business Directory"
+title: "Lizton, IN Business Directory"
+type: "towns"
 slug: "lizton-in"
-town: "Lizton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hendricks"
-population: 1016
+state: "in"
+town_data: "lizton-in"
 ---

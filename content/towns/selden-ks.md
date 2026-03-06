@@ -1,9 +1,7 @@
 ---
-title: "Selden, Kansas Business Directory"
+title: "Selden, KS Business Directory"
+type: "towns"
 slug: "selden-ks"
-town: "Selden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sheridan"
-population: 669
+state: "ks"
+town_data: "selden-ks"
 ---

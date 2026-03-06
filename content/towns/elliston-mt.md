@@ -1,7 +1,7 @@
 ---
-title: "Elliston, Montana Business Directory"
+title: "Elliston, MT Business Directory"
+type: "towns"
 slug: "elliston-mt"
-state: "MT"
-county: "Powell"
-population: 500
+state: "mt"
+town_data: "elliston-mt"
 ---

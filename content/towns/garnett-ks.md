@@ -1,9 +1,7 @@
 ---
-title: "Garnett, Kansas Business Directory"
+title: "Garnett, KS Business Directory"
+type: "towns"
 slug: "garnett-ks"
-town: "Garnett"
-state: "Kansas"
-state_abbr: "KS"
-county: "Anderson"
-population: 3265
+state: "ks"
+town_data: "garnett-ks"
 ---

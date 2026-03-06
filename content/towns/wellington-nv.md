@@ -1,7 +1,7 @@
 ---
-title: "Wellington, Nevada Business Directory"
+title: "Wellington, NV Business Directory"
+type: "towns"
 slug: "wellington-nv"
-state: "NV"
-county: "Lyon"
-population: 3194
+state: "nv"
+town_data: "wellington-nv"
 ---

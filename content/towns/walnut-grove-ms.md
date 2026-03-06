@@ -1,7 +1,7 @@
 ---
-title: "Walnut Grove, Mississippi Business Directory"
+title: "Walnut Grove, MS Business Directory"
+type: "towns"
 slug: "walnut-grove-ms"
-state: "MS"
-county: "Leake"
-population: 436
+state: "ms"
+town_data: "walnut-grove-ms"
 ---

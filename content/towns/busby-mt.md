@@ -1,7 +1,7 @@
 ---
-title: "Busby, Montana Business Directory"
+title: "Busby, MT Business Directory"
+type: "towns"
 slug: "busby-mt"
-state: "MT"
-county: "Big Horn"
-population: 500
+state: "mt"
+town_data: "busby-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kechi, Kansas Business Directory"
+title: "Kechi, KS Business Directory"
+type: "towns"
 slug: "kechi-ks"
-town: "Kechi"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 1066
+state: "ks"
+town_data: "kechi-ks"
 ---

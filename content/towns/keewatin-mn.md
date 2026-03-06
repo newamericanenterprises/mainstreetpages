@@ -1,9 +1,7 @@
 ---
-title: "Keewatin, Minnesota Business Directory"
+title: "Keewatin, MN Business Directory"
+type: "towns"
 slug: "keewatin-mn"
-town: "Keewatin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 1392
+state: "mn"
+town_data: "keewatin-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sarcoxie, Missouri Business Directory"
+title: "Sarcoxie, MO Business Directory"
+type: "towns"
 slug: "sarcoxie-mo"
-state: "MO"
-county: "Jasper"
-population: 1500
+state: "mo"
+town_data: "sarcoxie-mo"
 ---

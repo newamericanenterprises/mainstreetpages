@@ -1,9 +1,7 @@
 ---
-title: "Calverton, Maryland Business Directory"
+title: "Calverton, MD Business Directory"
+type: "towns"
 slug: "calverton-md"
-town: "Calverton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 3475
+state: "md"
+town_data: "calverton-md"
 ---

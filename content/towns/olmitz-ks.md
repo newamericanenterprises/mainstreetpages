@@ -1,9 +1,7 @@
 ---
-title: "Olmitz, Kansas Business Directory"
+title: "Olmitz, KS Business Directory"
+type: "towns"
 slug: "olmitz-ks"
-town: "Olmitz"
-state: "Kansas"
-state_abbr: "KS"
-county: "Barton"
-population: 1575
+state: "ks"
+town_data: "olmitz-ks"
 ---

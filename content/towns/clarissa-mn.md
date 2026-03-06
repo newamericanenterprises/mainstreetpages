@@ -1,9 +1,7 @@
 ---
-title: "Clarissa, Minnesota Business Directory"
+title: "Clarissa, MN Business Directory"
+type: "towns"
 slug: "clarissa-mn"
-town: "Clarissa"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Todd"
-population: 3271
+state: "mn"
+town_data: "clarissa-mn"
 ---

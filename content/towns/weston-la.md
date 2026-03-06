@@ -1,9 +1,7 @@
 ---
-title: "Weston, Louisiana Business Directory"
+title: "Weston, LA Business Directory"
+type: "towns"
 slug: "weston-la"
-town: "Weston"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Jackson"
-population: 1908
+state: "la"
+town_data: "weston-la"
 ---

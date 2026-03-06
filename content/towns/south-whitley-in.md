@@ -1,9 +1,7 @@
 ---
-title: "South Whitley, Indiana Business Directory"
+title: "South Whitley, IN Business Directory"
+type: "towns"
 slug: "south-whitley-in"
-town: "South Whitley"
-state: "Indiana"
-state_abbr: "IN"
-county: "Whitley"
-population: 2467
+state: "in"
+town_data: "south-whitley-in"
 ---

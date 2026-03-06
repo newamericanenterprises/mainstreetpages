@@ -1,7 +1,7 @@
 ---
-title: "Oasis, Nevada Business Directory"
+title: "Oasis, NV Business Directory"
+type: "towns"
 slug: "oasis-nv"
-state: "NV"
-county: "Elko"
-population: 100
+state: "nv"
+town_data: "oasis-nv"
 ---

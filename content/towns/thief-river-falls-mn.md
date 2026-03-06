@@ -1,9 +1,7 @@
 ---
-title: "Thief River Falls, Minnesota Business Directory"
+title: "Thief River Falls, MN Business Directory"
+type: "towns"
 slug: "thief-river-falls-mn"
-town: "Thief River Falls"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Pennington"
-population: 8818
+state: "mn"
+town_data: "thief-river-falls-mn"
 ---

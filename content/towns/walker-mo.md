@@ -1,7 +1,7 @@
 ---
-title: "Walker, Missouri Business Directory"
+title: "Walker, MO Business Directory"
+type: "towns"
 slug: "walker-mo"
-state: "MO"
-county: "Vernon"
-population: 1500
+state: "mo"
+town_data: "walker-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "New Cambria, Missouri Business Directory"
+title: "New Cambria, MO Business Directory"
+type: "towns"
 slug: "new-cambria-mo"
-state: "MO"
-county: "Macon"
-population: 1500
+state: "mo"
+town_data: "new-cambria-mo"
 ---

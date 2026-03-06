@@ -1,9 +1,7 @@
 ---
-title: "Simmesport, Louisiana Business Directory"
+title: "Simmesport, LA Business Directory"
+type: "towns"
 slug: "simmesport-la"
-town: "Simmesport"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 2663
+state: "la"
+town_data: "simmesport-la"
 ---

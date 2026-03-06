@@ -1,9 +1,7 @@
 ---
-title: "McKinley, Minnesota Business Directory"
+title: "McKinley, MN Business Directory"
+type: "towns"
 slug: "mckinley-mn"
-town: "McKinley"
-state: "Minnesota"
-state_abbr: "MN"
-county: "St. Louis"
-population: 3248
+state: "mn"
+town_data: "mckinley-mn"
 ---

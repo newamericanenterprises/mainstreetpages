@@ -1,9 +1,7 @@
 ---
-title: "Roscoe, Minnesota Business Directory"
+title: "Roscoe, MN Business Directory"
+type: "towns"
 slug: "roscoe-mn"
-town: "Roscoe"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Stearns"
-population: 1445
+state: "mn"
+town_data: "roscoe-mn"
 ---

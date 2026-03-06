@@ -1,7 +1,7 @@
 ---
-title: "Waynesboro, Mississippi Business Directory"
+title: "Waynesboro, MS Business Directory"
+type: "towns"
 slug: "waynesboro-ms"
-state: "MS"
-county: "Wayne"
-population: 4616
+state: "ms"
+town_data: "waynesboro-ms"
 ---

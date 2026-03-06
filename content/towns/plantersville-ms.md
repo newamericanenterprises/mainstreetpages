@@ -1,7 +1,7 @@
 ---
-title: "Plantersville, Mississippi Business Directory"
+title: "Plantersville, MS Business Directory"
+type: "towns"
 slug: "plantersville-ms"
-state: "MS"
-county: "Lee"
-population: 1047
+state: "ms"
+town_data: "plantersville-ms"
 ---

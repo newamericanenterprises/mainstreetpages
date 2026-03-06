@@ -1,9 +1,7 @@
 ---
-title: "Fort Dodge, Iowa Business Directory"
+title: "Fort Dodge, IA Business Directory"
+type: "towns"
 slug: "fort-dodge-ia"
-town: "Fort Dodge"
-state: "Iowa"
-state_abbr: "IA"
-county: "Webster"
-population: 24871
+state: "ia"
+town_data: "fort-dodge-ia"
 ---

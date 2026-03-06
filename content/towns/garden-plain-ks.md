@@ -1,9 +1,7 @@
 ---
-title: "Garden Plain, Kansas Business Directory"
+title: "Garden Plain, KS Business Directory"
+type: "towns"
 slug: "garden-plain-ks"
-town: "Garden Plain"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 2975
+state: "ks"
+town_data: "garden-plain-ks"
 ---

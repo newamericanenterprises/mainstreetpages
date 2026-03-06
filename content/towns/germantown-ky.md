@@ -1,9 +1,7 @@
 ---
-title: "Germantown, Kentucky Business Directory"
+title: "Germantown, KY Business Directory"
+type: "towns"
 slug: "germantown-ky"
-town: "Germantown"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bracken"
-population: 2025
+state: "ky"
+town_data: "germantown-ky"
 ---

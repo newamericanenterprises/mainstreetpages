@@ -1,9 +1,7 @@
 ---
-title: "Bridgewater, Iowa Business Directory"
+title: "Bridgewater, IA Business Directory"
+type: "towns"
 slug: "bridgewater-ia"
-town: "Bridgewater"
-state: "Iowa"
-state_abbr: "IA"
-county: "Adair"
-population: 1776
+state: "ia"
+town_data: "bridgewater-ia"
 ---

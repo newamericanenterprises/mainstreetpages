@@ -1,9 +1,7 @@
 ---
-title: "Palmer, Iowa Business Directory"
+title: "Palmer, IA Business Directory"
+type: "towns"
 slug: "palmer-ia"
-town: "Palmer"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 3237
+state: "ia"
+town_data: "palmer-ia"
 ---

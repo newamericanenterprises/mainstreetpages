@@ -1,9 +1,7 @@
 ---
-title: "Lecompte, Louisiana Business Directory"
+title: "Lecompte, LA Business Directory"
+type: "towns"
 slug: "lecompte-la"
-town: "Lecompte"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Rapides"
-population: 2948
+state: "la"
+town_data: "lecompte-la"
 ---

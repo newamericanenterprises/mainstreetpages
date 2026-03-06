@@ -1,7 +1,7 @@
 ---
-title: "Lawson, Missouri Business Directory"
+title: "Lawson, MO Business Directory"
+type: "towns"
 slug: "lawson-mo"
-state: "MO"
-county: "Ray"
-population: 2421
+state: "mo"
+town_data: "lawson-mo"
 ---

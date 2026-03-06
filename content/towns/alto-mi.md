@@ -1,9 +1,7 @@
 ---
-title: "Alto, Michigan Business Directory"
+title: "Alto, MI Business Directory"
+type: "towns"
 slug: "alto-mi"
-town: "Alto"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kent"
-population: 2979
+state: "mi"
+town_data: "alto-mi"
 ---

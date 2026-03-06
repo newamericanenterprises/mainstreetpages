@@ -1,9 +1,7 @@
 ---
-title: "Bicknell, Indiana Business Directory"
+title: "Bicknell, IN Business Directory"
+type: "towns"
 slug: "bicknell-in"
-town: "Bicknell"
-state: "Indiana"
-state_abbr: "IN"
-county: "Knox"
-population: 979
+state: "in"
+town_data: "bicknell-in"
 ---

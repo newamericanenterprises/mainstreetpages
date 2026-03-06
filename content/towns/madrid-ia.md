@@ -1,9 +1,7 @@
 ---
-title: "Madrid, Iowa Business Directory"
+title: "Madrid, IA Business Directory"
+type: "towns"
 slug: "madrid-ia"
-town: "Madrid"
-state: "Iowa"
-state_abbr: "IA"
-county: "Boone"
-population: 2147
+state: "ia"
+town_data: "madrid-ia"
 ---

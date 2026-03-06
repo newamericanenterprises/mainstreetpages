@@ -1,9 +1,7 @@
 ---
-title: "Mount Vernon, Maryland Business Directory"
+title: "Mount Vernon, MD Business Directory"
+type: "towns"
 slug: "mount-vernon-md"
-town: "Mount Vernon"
-state: "Maryland"
-state_abbr: "MD"
-county: "Somerset"
-population: 3117
+state: "md"
+town_data: "mount-vernon-md"
 ---

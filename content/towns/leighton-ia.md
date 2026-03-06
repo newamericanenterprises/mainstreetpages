@@ -1,9 +1,7 @@
 ---
-title: "Leighton, Iowa Business Directory"
+title: "Leighton, IA Business Directory"
+type: "towns"
 slug: "leighton-ia"
-town: "Leighton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Mahaska"
-population: 3372
+state: "ia"
+town_data: "leighton-ia"
 ---

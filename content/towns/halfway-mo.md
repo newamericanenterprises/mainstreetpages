@@ -1,7 +1,7 @@
 ---
-title: "Halfway, Missouri Business Directory"
+title: "Halfway, MO Business Directory"
+type: "towns"
 slug: "halfway-mo"
-state: "MO"
-county: "Polk"
-population: 1500
+state: "mo"
+town_data: "halfway-mo"
 ---

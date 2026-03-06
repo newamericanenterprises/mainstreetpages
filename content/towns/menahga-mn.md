@@ -1,9 +1,7 @@
 ---
-title: "Menahga, Minnesota Business Directory"
+title: "Menahga, MN Business Directory"
+type: "towns"
 slug: "menahga-mn"
-town: "Menahga"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wadena"
-population: 3096
+state: "mn"
+town_data: "menahga-mn"
 ---

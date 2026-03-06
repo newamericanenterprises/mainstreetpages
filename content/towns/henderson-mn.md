@@ -1,9 +1,7 @@
 ---
-title: "Henderson, Minnesota Business Directory"
+title: "Henderson, MN Business Directory"
+type: "towns"
 slug: "henderson-mn"
-town: "Henderson"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sibley"
-population: 1084
+state: "mn"
+town_data: "henderson-mn"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Curtis, Nebraska Business Directory"
+title: "Curtis, NE Business Directory"
+type: "towns"
 slug: "curtis-ne"
-state: "NE"
-county: "Frontier"
-population: 920
+state: "ne"
+town_data: "curtis-ne"
 ---

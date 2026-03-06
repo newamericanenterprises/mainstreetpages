@@ -1,9 +1,7 @@
 ---
-title: "Prairieville, Louisiana Business Directory"
+title: "Prairieville, LA Business Directory"
+type: "towns"
 slug: "prairieville-la"
-town: "Prairieville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Ascension"
-population: 33197
+state: "la"
+town_data: "prairieville-la"
 ---

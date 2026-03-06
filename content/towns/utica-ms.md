@@ -1,7 +1,7 @@
 ---
-title: "Utica, Mississippi Business Directory"
+title: "Utica, MS Business Directory"
+type: "towns"
 slug: "utica-ms"
-state: "MS"
-county: "Hinds"
-population: 816
+state: "ms"
+town_data: "utica-ms"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ecru, Mississippi Business Directory"
+title: "Ecru, MS Business Directory"
+type: "towns"
 slug: "ecru-ms"
-state: "MS"
-county: "Pontotoc"
-population: 952
+state: "ms"
+town_data: "ecru-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Piedmont, Kansas Business Directory"
+title: "Piedmont, KS Business Directory"
+type: "towns"
 slug: "piedmont-ks"
-town: "Piedmont"
-state: "Kansas"
-state_abbr: "KS"
-county: "Greenwood"
-population: 2019
+state: "ks"
+town_data: "piedmont-ks"
 ---

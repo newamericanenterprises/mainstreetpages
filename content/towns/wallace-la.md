@@ -1,9 +1,7 @@
 ---
-title: "Wallace, Louisiana Business Directory"
+title: "Wallace, LA Business Directory"
+type: "towns"
 slug: "wallace-la"
-town: "Wallace"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. John the Baptist"
-population: 490
+state: "la"
+town_data: "wallace-la"
 ---

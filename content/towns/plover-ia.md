@@ -1,9 +1,7 @@
 ---
-title: "Plover, Iowa Business Directory"
+title: "Plover, IA Business Directory"
+type: "towns"
 slug: "plover-ia"
-town: "Plover"
-state: "Iowa"
-state_abbr: "IA"
-county: "Pocahontas"
-population: 1660
+state: "ia"
+town_data: "plover-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Lake Ozark, Missouri Business Directory"
+title: "Lake Ozark, MO Business Directory"
+type: "towns"
 slug: "lake-ozark-mo"
-state: "MO"
-county: "Miller"
-population: 1813
+state: "mo"
+town_data: "lake-ozark-mo"
 ---

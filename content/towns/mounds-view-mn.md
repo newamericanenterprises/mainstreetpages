@@ -1,9 +1,7 @@
 ---
-title: "Mounds View, Minnesota Business Directory"
+title: "Mounds View, MN Business Directory"
+type: "towns"
 slug: "mounds-view-mn"
-town: "Mounds View"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 693
+state: "mn"
+town_data: "mounds-view-mn"
 ---

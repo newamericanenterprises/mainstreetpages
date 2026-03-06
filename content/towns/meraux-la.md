@@ -1,9 +1,7 @@
 ---
-title: "Meraux, Louisiana Business Directory"
+title: "Meraux, LA Business Directory"
+type: "towns"
 slug: "meraux-la"
-town: "Meraux"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Bernard"
-population: 660
+state: "la"
+town_data: "meraux-la"
 ---

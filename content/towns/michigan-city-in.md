@@ -1,9 +1,7 @@
 ---
-title: "Michigan City, Indiana Business Directory"
+title: "Michigan City, IN Business Directory"
+type: "towns"
 slug: "michigan-city-in"
-town: "Michigan City"
-state: "Indiana"
-state_abbr: "IN"
-county: "LaPorte"
-population: 31479
+state: "in"
+town_data: "michigan-city-in"
 ---

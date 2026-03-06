@@ -1,7 +1,7 @@
 ---
-title: "Cape Girardeau, Missouri Business Directory"
+title: "Cape Girardeau, MO Business Directory"
+type: "towns"
 slug: "cape-girardeau-mo"
-state: "MO"
-county: "Cape Girardeau"
-population: 40100
+state: "mo"
+town_data: "cape-girardeau-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "New Brighton, Minnesota Business Directory"
+title: "New Brighton, MN Business Directory"
+type: "towns"
 slug: "new-brighton-mn"
-town: "New Brighton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 22663
+state: "mn"
+town_data: "new-brighton-mn"
 ---

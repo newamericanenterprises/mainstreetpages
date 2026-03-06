@@ -1,9 +1,7 @@
 ---
-title: "Sulphur, Louisiana Business Directory"
+title: "Sulphur, LA Business Directory"
+type: "towns"
 slug: "sulphur-la"
-town: "Sulphur"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Calcasieu"
-population: 20165
+state: "la"
+town_data: "sulphur-la"
 ---

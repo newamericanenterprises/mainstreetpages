@@ -1,9 +1,7 @@
 ---
-title: "Dennis, Kansas Business Directory"
+title: "Dennis, KS Business Directory"
+type: "towns"
 slug: "dennis-ks"
-town: "Dennis"
-state: "Kansas"
-state_abbr: "KS"
-county: "Labette"
-population: 748
+state: "ks"
+town_data: "dennis-ks"
 ---

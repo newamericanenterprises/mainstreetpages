@@ -1,9 +1,7 @@
 ---
-title: "Denton, Maryland Business Directory"
+title: "Denton, MD Business Directory"
+type: "towns"
 slug: "denton-md"
-town: "Denton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Caroline"
-population: 4408
+state: "md"
+town_data: "denton-md"
 ---

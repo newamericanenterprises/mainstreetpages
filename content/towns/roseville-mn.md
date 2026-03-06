@@ -1,9 +1,7 @@
 ---
-title: "Roseville, Minnesota Business Directory"
+title: "Roseville, MN Business Directory"
+type: "towns"
 slug: "roseville-mn"
-town: "Roseville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 36698
+state: "mn"
+town_data: "roseville-mn"
 ---

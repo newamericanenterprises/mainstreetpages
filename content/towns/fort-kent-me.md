@@ -1,9 +1,7 @@
 ---
-title: "Fort Kent, Maine Business Directory"
+title: "Fort Kent, ME Business Directory"
+type: "towns"
 slug: "fort-kent-me"
-town: "Fort Kent"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 4088
+state: "me"
+town_data: "fort-kent-me"
 ---

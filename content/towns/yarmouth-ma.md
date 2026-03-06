@@ -1,9 +1,7 @@
 ---
-title: "Yarmouth, Massachusetts Business Directory"
+title: "Yarmouth, MA Business Directory"
+type: "towns"
 slug: "yarmouth-ma"
-town: "Yarmouth"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Barnstable"
-population: 23449
+state: "ma"
+town_data: "yarmouth-ma"
 ---

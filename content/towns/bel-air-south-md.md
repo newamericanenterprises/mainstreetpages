@@ -1,9 +1,7 @@
 ---
-title: "Bel Air South, Maryland Business Directory"
+title: "Bel Air South, MD Business Directory"
+type: "towns"
 slug: "bel-air-south-md"
-town: "Bel Air South"
-state: "Maryland"
-state_abbr: "MD"
-county: "Harford"
-population: 884
+state: "md"
+town_data: "bel-air-south-md"
 ---

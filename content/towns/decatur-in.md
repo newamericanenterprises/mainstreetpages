@@ -1,9 +1,7 @@
 ---
-title: "Decatur, Indiana Business Directory"
+title: "Decatur, IN Business Directory"
+type: "towns"
 slug: "decatur-in"
-town: "Decatur"
-state: "Indiana"
-state_abbr: "IN"
-county: "Adams"
-population: 9867
+state: "in"
+town_data: "decatur-in"
 ---

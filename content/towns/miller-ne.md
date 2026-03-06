@@ -1,7 +1,7 @@
 ---
-title: "Miller, Nebraska Business Directory"
+title: "Miller, NE Business Directory"
+type: "towns"
 slug: "miller-ne"
-state: "NE"
-county: "Buffalo"
-population: 500
+state: "ne"
+town_data: "miller-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Livonia, Minnesota Business Directory"
+title: "Livonia, MN Business Directory"
+type: "towns"
 slug: "livonia-mn"
-town: "Livonia"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Sherburne"
-population: 1813
+state: "mn"
+town_data: "livonia-mn"
 ---

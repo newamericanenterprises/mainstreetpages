@@ -1,9 +1,7 @@
 ---
-title: "Manistee, Michigan Business Directory"
+title: "Manistee, MI Business Directory"
+type: "towns"
 slug: "manistee-mi"
-town: "Manistee"
-state: "Michigan"
-state_abbr: "MI"
-county: "Manistee"
-population: 4213
+state: "mi"
+town_data: "manistee-mi"
 ---

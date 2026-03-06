@@ -1,9 +1,7 @@
 ---
-title: "Marshall, Minnesota Business Directory"
+title: "Marshall, MN Business Directory"
+type: "towns"
 slug: "marshall-mn"
-town: "Marshall"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Lyon"
-population: 13680
+state: "mn"
+town_data: "marshall-mn"
 ---

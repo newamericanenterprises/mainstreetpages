@@ -1,9 +1,7 @@
 ---
-title: "May, Minnesota Business Directory"
+title: "May, MN Business Directory"
+type: "towns"
 slug: "may-mn"
-town: "May"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 767
+state: "mn"
+town_data: "may-mn"
 ---

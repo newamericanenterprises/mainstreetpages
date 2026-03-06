@@ -1,9 +1,7 @@
 ---
-title: "Merrill, Michigan Business Directory"
+title: "Merrill, MI Business Directory"
+type: "towns"
 slug: "merrill-mi"
-town: "Merrill"
-state: "Michigan"
-state_abbr: "MI"
-county: "Saginaw"
-population: 2526
+state: "mi"
+town_data: "merrill-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cass City, Michigan Business Directory"
+title: "Cass City, MI Business Directory"
+type: "towns"
 slug: "cass-city-mi"
-town: "Cass City"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 754
+state: "mi"
+town_data: "cass-city-mi"
 ---

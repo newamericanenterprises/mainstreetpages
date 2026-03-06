@@ -1,9 +1,7 @@
 ---
-title: "Louisville, Minnesota Business Directory"
+title: "Louisville, MN Business Directory"
+type: "towns"
 slug: "louisville-mn"
-town: "Louisville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Scott"
-population: 717
+state: "mn"
+town_data: "louisville-mn"
 ---

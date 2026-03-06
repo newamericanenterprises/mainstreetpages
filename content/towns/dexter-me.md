@@ -1,9 +1,7 @@
 ---
-title: "Dexter, Maine Business Directory"
+title: "Dexter, ME Business Directory"
+type: "towns"
 slug: "dexter-me"
-town: "Dexter"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 3890
+state: "me"
+town_data: "dexter-me"
 ---

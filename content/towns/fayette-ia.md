@@ -1,9 +1,7 @@
 ---
-title: "Fayette, Iowa Business Directory"
+title: "Fayette, IA Business Directory"
+type: "towns"
 slug: "fayette-ia"
-town: "Fayette"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 3312
+state: "ia"
+town_data: "fayette-ia"
 ---

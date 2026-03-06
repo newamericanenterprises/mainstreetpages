@@ -1,9 +1,7 @@
 ---
-title: "Edson, Kansas Business Directory"
+title: "Edson, KS Business Directory"
+type: "towns"
 slug: "edson-ks"
-town: "Edson"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sherman"
-population: 409
+state: "ks"
+town_data: "edson-ks"
 ---

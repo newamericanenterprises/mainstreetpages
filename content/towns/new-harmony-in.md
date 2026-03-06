@@ -1,9 +1,7 @@
 ---
-title: "New Harmony, Indiana Business Directory"
+title: "New Harmony, IN Business Directory"
+type: "towns"
 slug: "new-harmony-in"
-town: "New Harmony"
-state: "Indiana"
-state_abbr: "IN"
-county: "Posey"
-population: 789
+state: "in"
+town_data: "new-harmony-in"
 ---

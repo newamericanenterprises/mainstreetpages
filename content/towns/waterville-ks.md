@@ -1,9 +1,7 @@
 ---
-title: "Waterville, Kansas Business Directory"
+title: "Waterville, KS Business Directory"
+type: "towns"
 slug: "waterville-ks"
-town: "Waterville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marshall"
-population: 2653
+state: "ks"
+town_data: "waterville-ks"
 ---

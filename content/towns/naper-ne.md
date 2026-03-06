@@ -1,7 +1,7 @@
 ---
-title: "Naper, Nebraska Business Directory"
+title: "Naper, NE Business Directory"
+type: "towns"
 slug: "naper-ne"
-state: "NE"
-county: "Boyd"
-population: 500
+state: "ne"
+town_data: "naper-ne"
 ---

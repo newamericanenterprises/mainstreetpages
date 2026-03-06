@@ -1,7 +1,7 @@
 ---
-title: "Green Ridge, Missouri Business Directory"
+title: "Green Ridge, MO Business Directory"
+type: "towns"
 slug: "green-ridge-mo"
-state: "MO"
-county: "Pettis"
-population: 1500
+state: "mo"
+town_data: "green-ridge-mo"
 ---

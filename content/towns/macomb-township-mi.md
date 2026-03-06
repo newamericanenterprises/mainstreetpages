@@ -1,9 +1,7 @@
 ---
-title: "Macomb Township, Michigan Business Directory"
+title: "Macomb Township, MI Business Directory"
+type: "towns"
 slug: "macomb-township-mi"
-town: "Macomb Township"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 3075
+state: "mi"
+town_data: "macomb-township-mi"
 ---

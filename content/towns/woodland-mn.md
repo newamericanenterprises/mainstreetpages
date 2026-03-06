@@ -1,9 +1,7 @@
 ---
-title: "Woodland, Minnesota Business Directory"
+title: "Woodland, MN Business Directory"
+type: "towns"
 slug: "woodland-mn"
-town: "Woodland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Hennepin"
-population: 895
+state: "mn"
+town_data: "woodland-mn"
 ---

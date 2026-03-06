@@ -1,9 +1,7 @@
 ---
-title: "Chatham, Michigan Business Directory"
+title: "Chatham, MI Business Directory"
+type: "towns"
 slug: "chatham-mi"
-town: "Chatham"
-state: "Michigan"
-state_abbr: "MI"
-county: "Alger"
-population: 947
+state: "mi"
+town_data: "chatham-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Table Rock, Nebraska Business Directory"
+title: "Table Rock, NE Business Directory"
+type: "towns"
 slug: "table-rock-ne"
-state: "NE"
-county: "Pawnee"
-population: 500
+state: "ne"
+town_data: "table-rock-ne"
 ---

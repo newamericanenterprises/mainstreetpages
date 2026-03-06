@@ -1,7 +1,7 @@
 ---
-title: "Fulton, Missouri Business Directory"
+title: "Fulton, MO Business Directory"
+type: "towns"
 slug: "fulton-mo"
-state: "MO"
-county: "Callaway"
-population: 12790
+state: "mo"
+town_data: "fulton-mo"
 ---

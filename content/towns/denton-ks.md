@@ -1,9 +1,7 @@
 ---
-title: "Denton, Kansas Business Directory"
+title: "Denton, KS Business Directory"
+type: "towns"
 slug: "denton-ks"
-town: "Denton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Doniphan"
-population: 1735
+state: "ks"
+town_data: "denton-ks"
 ---

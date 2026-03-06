@@ -1,9 +1,7 @@
 ---
-title: "Luther, Michigan Business Directory"
+title: "Luther, MI Business Directory"
+type: "towns"
 slug: "luther-mi"
-town: "Luther"
-state: "Michigan"
-state_abbr: "MI"
-county: "Lake"
-population: 3485
+state: "mi"
+town_data: "luther-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Fields, Louisiana Business Directory"
+title: "Fields, LA Business Directory"
+type: "towns"
 slug: "fields-la"
-town: "Fields"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Beauregard"
-population: 980
+state: "la"
+town_data: "fields-la"
 ---

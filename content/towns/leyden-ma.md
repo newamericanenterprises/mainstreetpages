@@ -1,9 +1,7 @@
 ---
-title: "Leyden, Massachusetts Business Directory"
+title: "Leyden, MA Business Directory"
+type: "towns"
 slug: "leyden-ma"
-town: "Leyden"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Franklin"
-population: 6141
+state: "ma"
+town_data: "leyden-ma"
 ---

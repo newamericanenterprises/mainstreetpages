@@ -1,9 +1,7 @@
 ---
-title: "Vienna, Maryland Business Directory"
+title: "Vienna, MD Business Directory"
+type: "towns"
 slug: "vienna-md"
-town: "Vienna"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 1419
+state: "md"
+town_data: "vienna-md"
 ---

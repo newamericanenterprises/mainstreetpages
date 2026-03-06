@@ -1,7 +1,7 @@
 ---
-title: "Ord, Nebraska Business Directory"
+title: "Ord, NE Business Directory"
+type: "towns"
 slug: "ord-ne"
-state: "NE"
-county: "Valley"
-population: 2112
+state: "ne"
+town_data: "ord-ne"
 ---

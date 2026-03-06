@@ -1,9 +1,7 @@
 ---
-title: "La Vale, Maryland Business Directory"
+title: "La Vale, MD Business Directory"
+type: "towns"
 slug: "la-vale-md"
-town: "La Vale"
-state: "Maryland"
-state_abbr: "MD"
-county: "Allegany"
-population: 4850
+state: "md"
+town_data: "la-vale-md"
 ---

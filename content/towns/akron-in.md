@@ -1,9 +1,7 @@
 ---
-title: "Akron, Indiana Business Directory"
+title: "Akron, IN Business Directory"
+type: "towns"
 slug: "akron-in"
-town: "Akron"
-state: "Indiana"
-state_abbr: "IN"
-county: "Fulton"
-population: 2680
+state: "in"
+town_data: "akron-in"
 ---

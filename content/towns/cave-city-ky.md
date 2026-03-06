@@ -1,9 +1,7 @@
 ---
-title: "Cave City, Kentucky Business Directory"
+title: "Cave City, KY Business Directory"
+type: "towns"
 slug: "cave-city-ky"
-town: "Cave City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Barren"
-population: 2381
+state: "ky"
+town_data: "cave-city-ky"
 ---

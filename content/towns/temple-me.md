@@ -1,9 +1,7 @@
 ---
-title: "Temple, Maine Business Directory"
+title: "Temple, ME Business Directory"
+type: "towns"
 slug: "temple-me"
-town: "Temple"
-state: "Maine"
-state_abbr: "ME"
-county: "Franklin"
-population: 1622
+state: "me"
+town_data: "temple-me"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Paint Lick, Kentucky Business Directory"
+title: "Paint Lick, KY Business Directory"
+type: "towns"
 slug: "paint-lick-ky"
-town: "Paint Lick"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Madison"
-population: 2648
+state: "ky"
+town_data: "paint-lick-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Waubun, Minnesota Business Directory"
+title: "Waubun, MN Business Directory"
+type: "towns"
 slug: "waubun-mn"
-town: "Waubun"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mahnomen"
-population: 948
+state: "mn"
+town_data: "waubun-mn"
 ---

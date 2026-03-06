@@ -1,9 +1,7 @@
 ---
-title: "Milan, Indiana Business Directory"
+title: "Milan, IN Business Directory"
+type: "towns"
 slug: "milan-in"
-town: "Milan"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 2181
+state: "in"
+town_data: "milan-in"
 ---

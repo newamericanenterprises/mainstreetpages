@@ -1,9 +1,7 @@
 ---
-title: "Dolliver, Iowa Business Directory"
+title: "Dolliver, IA Business Directory"
+type: "towns"
 slug: "dolliver-ia"
-town: "Dolliver"
-state: "Iowa"
-state_abbr: "IA"
-county: "Emmet"
-population: 3096
+state: "ia"
+town_data: "dolliver-ia"
 ---

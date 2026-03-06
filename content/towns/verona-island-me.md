@@ -1,9 +1,7 @@
 ---
-title: "Verona Island, Maine Business Directory"
+title: "Verona Island, ME Business Directory"
+type: "towns"
 slug: "verona-island-me"
-town: "Verona Island"
-state: "Maine"
-state_abbr: "ME"
-county: "Hancock"
-population: 2775
+state: "me"
+town_data: "verona-island-me"
 ---

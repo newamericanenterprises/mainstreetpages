@@ -1,9 +1,7 @@
 ---
-title: "Delphi, Indiana Business Directory"
+title: "Delphi, IN Business Directory"
+type: "towns"
 slug: "delphi-in"
-town: "Delphi"
-state: "Indiana"
-state_abbr: "IN"
-county: "Carroll"
-population: 2893
+state: "in"
+town_data: "delphi-in"
 ---

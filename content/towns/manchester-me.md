@@ -1,9 +1,7 @@
 ---
-title: "Manchester, Maine Business Directory"
+title: "Manchester, ME Business Directory"
+type: "towns"
 slug: "manchester-me"
-town: "Manchester"
-state: "Maine"
-state_abbr: "ME"
-county: "Kennebec"
-population: 1137
+state: "me"
+town_data: "manchester-me"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Byrnes Mill, Missouri Business Directory"
+title: "Byrnes Mill, MO Business Directory"
+type: "towns"
 slug: "byrnes-mill-mo"
-state: "MO"
-county: "Jefferson"
-population: 1500
+state: "mo"
+town_data: "byrnes-mill-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lake View, Maine Business Directory"
+title: "Lake View, ME Business Directory"
+type: "towns"
 slug: "lake-view-me"
-town: "Lake View"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1633
+state: "me"
+town_data: "lake-view-me"
 ---

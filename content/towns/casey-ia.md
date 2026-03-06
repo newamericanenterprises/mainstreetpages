@@ -1,9 +1,7 @@
 ---
-title: "Casey, Iowa Business Directory"
+title: "Casey, IA Business Directory"
+type: "towns"
 slug: "casey-ia"
-town: "Casey"
-state: "Iowa"
-state_abbr: "IA"
-county: "Guthrie"
-population: 2427
+state: "ia"
+town_data: "casey-ia"
 ---

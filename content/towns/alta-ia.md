@@ -1,9 +1,7 @@
 ---
-title: "Alta, Iowa Business Directory"
+title: "Alta, IA Business Directory"
+type: "towns"
 slug: "alta-ia"
-town: "Alta"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buena Vista"
-population: 3108
+state: "ia"
+town_data: "alta-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Colstrip, Montana Business Directory"
+title: "Colstrip, MT Business Directory"
+type: "towns"
 slug: "colstrip-mt"
-state: "MT"
-county: "Rosebud"
-population: 2123
+state: "mt"
+town_data: "colstrip-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Marksville, Louisiana Business Directory"
+title: "Marksville, LA Business Directory"
+type: "towns"
 slug: "marksville-la"
-town: "Marksville"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 5432
+state: "la"
+town_data: "marksville-la"
 ---

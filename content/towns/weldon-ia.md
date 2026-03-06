@@ -1,9 +1,7 @@
 ---
-title: "Weldon, Iowa Business Directory"
+title: "Weldon, IA Business Directory"
+type: "towns"
 slug: "weldon-ia"
-town: "Weldon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Decatur"
-population: 1819
+state: "ia"
+town_data: "weldon-ia"
 ---

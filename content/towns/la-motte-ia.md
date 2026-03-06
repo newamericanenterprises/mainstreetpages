@@ -1,9 +1,7 @@
 ---
-title: "La Motte, Iowa Business Directory"
+title: "La Motte, IA Business Directory"
+type: "towns"
 slug: "la-motte-ia"
-town: "La Motte"
-state: "Iowa"
-state_abbr: "IA"
-county: "Jackson"
-population: 2148
+state: "ia"
+town_data: "la-motte-ia"
 ---

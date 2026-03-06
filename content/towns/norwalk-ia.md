@@ -1,9 +1,7 @@
 ---
-title: "Norwalk, Iowa Business Directory"
+title: "Norwalk, IA Business Directory"
+type: "towns"
 slug: "norwalk-ia"
-town: "Norwalk"
-state: "Iowa"
-state_abbr: "IA"
-county: "Warren"
-population: 1913
+state: "ia"
+town_data: "norwalk-ia"
 ---

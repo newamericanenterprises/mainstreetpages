@@ -1,9 +1,7 @@
 ---
-title: "Medford, Maine Business Directory"
+title: "Medford, ME Business Directory"
+type: "towns"
 slug: "medford-me"
-town: "Medford"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 2505
+state: "me"
+town_data: "medford-me"
 ---

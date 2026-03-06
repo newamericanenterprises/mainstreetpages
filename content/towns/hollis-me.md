@@ -1,9 +1,7 @@
 ---
-title: "Hollis, Maine Business Directory"
+title: "Hollis, ME Business Directory"
+type: "towns"
 slug: "hollis-me"
-town: "Hollis"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1355
+state: "me"
+town_data: "hollis-me"
 ---

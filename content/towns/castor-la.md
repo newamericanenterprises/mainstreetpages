@@ -1,9 +1,7 @@
 ---
-title: "Castor, Louisiana Business Directory"
+title: "Castor, LA Business Directory"
+type: "towns"
 slug: "castor-la"
-town: "Castor"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Bienville"
-population: 2767
+state: "la"
+town_data: "castor-la"
 ---

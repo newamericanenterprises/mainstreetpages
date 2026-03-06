@@ -1,9 +1,7 @@
 ---
-title: "Cecilia, Louisiana Business Directory"
+title: "Cecilia, LA Business Directory"
+type: "towns"
 slug: "cecilia-la"
-town: "Cecilia"
-state: "Louisiana"
-state_abbr: "LA"
-county: "St. Martin"
-population: 2570
+state: "la"
+town_data: "cecilia-la"
 ---

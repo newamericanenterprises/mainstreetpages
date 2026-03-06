@@ -1,7 +1,7 @@
 ---
-title: "Bayard, Nebraska Business Directory"
+title: "Bayard, NE Business Directory"
+type: "towns"
 slug: "bayard-ne"
-state: "NE"
-county: "Morrill"
-population: 1182
+state: "ne"
+town_data: "bayard-ne"
 ---

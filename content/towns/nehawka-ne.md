@@ -1,7 +1,7 @@
 ---
-title: "Nehawka, Nebraska Business Directory"
+title: "Nehawka, NE Business Directory"
+type: "towns"
 slug: "nehawka-ne"
-state: "NE"
-county: "Cass"
-population: 500
+state: "ne"
+town_data: "nehawka-ne"
 ---

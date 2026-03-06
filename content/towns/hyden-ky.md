@@ -1,9 +1,7 @@
 ---
-title: "Hyden, Kentucky Business Directory"
+title: "Hyden, KY Business Directory"
+type: "towns"
 slug: "hyden-ky"
-town: "Hyden"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Leslie"
-population: 369
+state: "ky"
+town_data: "hyden-ky"
 ---

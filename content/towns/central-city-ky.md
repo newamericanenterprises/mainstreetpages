@@ -1,9 +1,7 @@
 ---
-title: "Central City, Kentucky Business Directory"
+title: "Central City, KY Business Directory"
+type: "towns"
 slug: "central-city-ky"
-town: "Central City"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Muhlenberg"
-population: 5971
+state: "ky"
+town_data: "central-city-ky"
 ---

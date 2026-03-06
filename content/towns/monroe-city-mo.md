@@ -1,7 +1,7 @@
 ---
-title: "Monroe City, Missouri Business Directory"
+title: "Monroe City, MO Business Directory"
+type: "towns"
 slug: "monroe-city-mo"
-state: "MO"
-county: "Monroe"
-population: 2557
+state: "mo"
+town_data: "monroe-city-mo"
 ---

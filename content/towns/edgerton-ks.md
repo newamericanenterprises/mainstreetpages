@@ -1,9 +1,7 @@
 ---
-title: "Edgerton, Kansas Business Directory"
+title: "Edgerton, KS Business Directory"
+type: "towns"
 slug: "edgerton-ks"
-town: "Edgerton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 1161
+state: "ks"
+town_data: "edgerton-ks"
 ---

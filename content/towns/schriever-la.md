@@ -1,9 +1,7 @@
 ---
-title: "Schriever, Louisiana Business Directory"
+title: "Schriever, LA Business Directory"
+type: "towns"
 slug: "schriever-la"
-town: "Schriever"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Terrebonne"
-population: 2330
+state: "la"
+town_data: "schriever-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Ricketts, Iowa Business Directory"
+title: "Ricketts, IA Business Directory"
+type: "towns"
 slug: "ricketts-ia"
-town: "Ricketts"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 1374
+state: "ia"
+town_data: "ricketts-ia"
 ---

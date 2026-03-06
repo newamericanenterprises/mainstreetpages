@@ -1,9 +1,7 @@
 ---
-title: "Caseville, Michigan Business Directory"
+title: "Caseville, MI Business Directory"
+type: "towns"
 slug: "caseville-mi"
-town: "Caseville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Huron"
-population: 824
+state: "mi"
+town_data: "caseville-mi"
 ---

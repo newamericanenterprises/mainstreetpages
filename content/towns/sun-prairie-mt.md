@@ -1,7 +1,7 @@
 ---
-title: "Sun Prairie, Montana Business Directory"
+title: "Sun Prairie, MT Business Directory"
+type: "towns"
 slug: "sun-prairie-mt"
-state: "MT"
-county: "Chouteau"
-population: 500
+state: "mt"
+town_data: "sun-prairie-mt"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Gem Lake, Minnesota Business Directory"
+title: "Gem Lake, MN Business Directory"
+type: "towns"
 slug: "gem-lake-mn"
-town: "Gem Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Ramsey"
-population: 2532
+state: "mn"
+town_data: "gem-lake-mn"
 ---

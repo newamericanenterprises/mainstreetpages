@@ -1,9 +1,7 @@
 ---
-title: "Covert, Michigan Business Directory"
+title: "Covert, MI Business Directory"
+type: "towns"
 slug: "covert-mi"
-town: "Covert"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 5039
+state: "mi"
+town_data: "covert-mi"
 ---

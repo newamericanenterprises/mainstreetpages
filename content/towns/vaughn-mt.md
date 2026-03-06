@@ -1,7 +1,7 @@
 ---
-title: "Vaughn, Montana Business Directory"
+title: "Vaughn, MT Business Directory"
+type: "towns"
 slug: "vaughn-mt"
-state: "MT"
-county: "Cascade"
-population: 586
+state: "mt"
+town_data: "vaughn-mt"
 ---

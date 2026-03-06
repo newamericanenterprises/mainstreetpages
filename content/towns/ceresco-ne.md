@@ -1,7 +1,7 @@
 ---
-title: "Ceresco, Nebraska Business Directory"
+title: "Ceresco, NE Business Directory"
+type: "towns"
 slug: "ceresco-ne"
-state: "NE"
-county: "Saunders"
-population: 967
+state: "ne"
+town_data: "ceresco-ne"
 ---

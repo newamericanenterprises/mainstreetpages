@@ -1,7 +1,7 @@
 ---
-title: "Okolona, Mississippi Business Directory"
+title: "Okolona, MS Business Directory"
+type: "towns"
 slug: "okolona-ms"
-state: "MS"
-county: "Chickasaw"
-population: 2692
+state: "ms"
+town_data: "okolona-ms"
 ---

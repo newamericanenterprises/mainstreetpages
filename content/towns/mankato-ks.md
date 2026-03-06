@@ -1,9 +1,7 @@
 ---
-title: "Mankato, Kansas Business Directory"
+title: "Mankato, KS Business Directory"
+type: "towns"
 slug: "mankato-ks"
-town: "Mankato"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jewell"
-population: 818
+state: "ks"
+town_data: "mankato-ks"
 ---

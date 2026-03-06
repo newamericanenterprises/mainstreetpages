@@ -1,9 +1,7 @@
 ---
-title: "Grass Lake, Michigan Business Directory"
+title: "Grass Lake, MI Business Directory"
+type: "towns"
 slug: "grass-lake-mi"
-town: "Grass Lake"
-state: "Michigan"
-state_abbr: "MI"
-county: "Jackson"
-population: 2682
+state: "mi"
+town_data: "grass-lake-mi"
 ---

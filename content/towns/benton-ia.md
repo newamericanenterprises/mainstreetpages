@@ -1,9 +1,7 @@
 ---
-title: "Benton, Iowa Business Directory"
+title: "Benton, IA Business Directory"
+type: "towns"
 slug: "benton-ia"
-town: "Benton"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 2636
+state: "ia"
+town_data: "benton-ia"
 ---

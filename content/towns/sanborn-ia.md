@@ -1,9 +1,7 @@
 ---
-title: "Sanborn, Iowa Business Directory"
+title: "Sanborn, IA Business Directory"
+type: "towns"
 slug: "sanborn-ia"
-town: "Sanborn"
-state: "Iowa"
-state_abbr: "IA"
-county: "O'Brien"
-population: 2128
+state: "ia"
+town_data: "sanborn-ia"
 ---

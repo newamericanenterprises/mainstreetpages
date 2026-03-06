@@ -1,9 +1,7 @@
 ---
-title: "Westminster, Maryland Business Directory"
+title: "Westminster, MD Business Directory"
+type: "towns"
 slug: "westminster-md"
-town: "Westminster"
-state: "Maryland"
-state_abbr: "MD"
-county: "Carroll"
-population: 18590
+state: "md"
+town_data: "westminster-md"
 ---

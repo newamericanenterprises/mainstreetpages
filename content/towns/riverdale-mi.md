@@ -1,9 +1,7 @@
 ---
-title: "Riverdale, Michigan Business Directory"
+title: "Riverdale, MI Business Directory"
+type: "towns"
 slug: "riverdale-mi"
-town: "Riverdale"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 4469
+state: "mi"
+town_data: "riverdale-mi"
 ---

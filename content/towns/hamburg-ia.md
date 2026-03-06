@@ -1,9 +1,7 @@
 ---
-title: "Hamburg, Iowa Business Directory"
+title: "Hamburg, IA Business Directory"
+type: "towns"
 slug: "hamburg-ia"
-town: "Hamburg"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fremont"
-population: 1483
+state: "ia"
+town_data: "hamburg-ia"
 ---

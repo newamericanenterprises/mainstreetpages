@@ -1,7 +1,7 @@
 ---
-title: "Ennis, Montana Business Directory"
+title: "Ennis, MT Business Directory"
+type: "towns"
 slug: "ennis-mt"
-state: "MT"
-county: "Madison"
-population: 984
+state: "mt"
+town_data: "ennis-mt"
 ---

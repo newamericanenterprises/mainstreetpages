@@ -1,9 +1,7 @@
 ---
-title: "Brandon, Iowa Business Directory"
+title: "Brandon, IA Business Directory"
+type: "towns"
 slug: "brandon-ia"
-town: "Brandon"
-state: "Iowa"
-state_abbr: "IA"
-county: "Buchanan"
-population: 1595
+state: "ia"
+town_data: "brandon-ia"
 ---

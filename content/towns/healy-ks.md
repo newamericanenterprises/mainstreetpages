@@ -1,9 +1,7 @@
 ---
-title: "Healy, Kansas Business Directory"
+title: "Healy, KS Business Directory"
+type: "towns"
 slug: "healy-ks"
-town: "Healy"
-state: "Kansas"
-state_abbr: "KS"
-county: "Lane"
-population: 2856
+state: "ks"
+town_data: "healy-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Scobey, Montana Business Directory"
+title: "Scobey, MT Business Directory"
+type: "towns"
 slug: "scobey-mt"
-state: "MT"
-county: "Daniels"
-population: 1020
+state: "mt"
+town_data: "scobey-mt"
 ---

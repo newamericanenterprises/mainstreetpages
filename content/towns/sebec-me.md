@@ -1,9 +1,7 @@
 ---
-title: "Sebec, Maine Business Directory"
+title: "Sebec, ME Business Directory"
+type: "towns"
 slug: "sebec-me"
-town: "Sebec"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 1857
+state: "me"
+town_data: "sebec-me"
 ---

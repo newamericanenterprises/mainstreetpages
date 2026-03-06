@@ -1,9 +1,7 @@
 ---
-title: "Point of Rocks, Maryland Business Directory"
+title: "Point of Rocks, MD Business Directory"
+type: "towns"
 slug: "point-of-rocks-md"
-town: "Point of Rocks"
-state: "Maryland"
-state_abbr: "MD"
-county: "Frederick"
-population: 903
+state: "md"
+town_data: "point-of-rocks-md"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Genoa, Michigan Business Directory"
+title: "Genoa, MI Business Directory"
+type: "towns"
 slug: "genoa-mi"
-town: "Genoa"
-state: "Michigan"
-state_abbr: "MI"
-county: "Livingston"
-population: 2378
+state: "mi"
+town_data: "genoa-mi"
 ---

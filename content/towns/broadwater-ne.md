@@ -1,7 +1,7 @@
 ---
-title: "Broadwater, Nebraska Business Directory"
+title: "Broadwater, NE Business Directory"
+type: "towns"
 slug: "broadwater-ne"
-state: "NE"
-county: "Morrill"
-population: 500
+state: "ne"
+town_data: "broadwater-ne"
 ---

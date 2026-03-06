@@ -1,7 +1,7 @@
 ---
-title: "Crystal Springs, Mississippi Business Directory"
+title: "Crystal Springs, MS Business Directory"
+type: "towns"
 slug: "crystal-springs-ms"
-state: "MS"
-county: "Copiah"
-population: 5044
+state: "ms"
+town_data: "crystal-springs-ms"
 ---

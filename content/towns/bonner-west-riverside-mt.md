@@ -1,7 +1,7 @@
 ---
-title: "Bonner-West Riverside, Montana Business Directory"
+title: "Bonner West Riverside, MT Business Directory"
+type: "towns"
 slug: "bonner-west-riverside-mt"
-state: "MT"
-county: "Missoula"
-population: 1903
+state: "mt"
+town_data: "bonner-west-riverside-mt"
 ---

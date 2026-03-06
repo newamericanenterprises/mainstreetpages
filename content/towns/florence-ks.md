@@ -1,9 +1,7 @@
 ---
-title: "Florence, Kansas Business Directory"
+title: "Florence, KS Business Directory"
+type: "towns"
 slug: "florence-ks"
-town: "Florence"
-state: "Kansas"
-state_abbr: "KS"
-county: "Marion"
-population: 3265
+state: "ks"
+town_data: "florence-ks"
 ---

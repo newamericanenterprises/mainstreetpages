@@ -1,7 +1,7 @@
 ---
-title: "Stevensville, Montana Business Directory"
+title: "Stevensville, MT Business Directory"
+type: "towns"
 slug: "stevensville-mt"
-state: "MT"
-county: "Ravalli"
-population: 2038
+state: "mt"
+town_data: "stevensville-mt"
 ---

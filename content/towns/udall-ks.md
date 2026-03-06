@@ -1,9 +1,7 @@
 ---
-title: "Udall, Kansas Business Directory"
+title: "Udall, KS Business Directory"
+type: "towns"
 slug: "udall-ks"
-town: "Udall"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cowley"
-population: 1371
+state: "ks"
+town_data: "udall-ks"
 ---

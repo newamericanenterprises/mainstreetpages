@@ -1,9 +1,7 @@
 ---
-title: "Natalbany, Louisiana Business Directory"
+title: "Natalbany, LA Business Directory"
+type: "towns"
 slug: "natalbany-la"
-town: "Natalbany"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Tangipahoa"
-population: 972
+state: "la"
+town_data: "natalbany-la"
 ---

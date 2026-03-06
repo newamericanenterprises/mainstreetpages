@@ -1,9 +1,7 @@
 ---
-title: "Glenn Dale, Maryland Business Directory"
+title: "Glenn Dale, MD Business Directory"
+type: "towns"
 slug: "glenn-dale-md"
-town: "Glenn Dale"
-state: "Maryland"
-state_abbr: "MD"
-county: "Prince George's"
-population: 992
+state: "md"
+town_data: "glenn-dale-md"
 ---

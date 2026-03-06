@@ -1,9 +1,7 @@
 ---
-title: "Lester Prairie, Minnesota Business Directory"
+title: "Lester Prairie, MN Business Directory"
+type: "towns"
 slug: "lester-prairie-mn"
-town: "Lester Prairie"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 1824
+state: "mn"
+town_data: "lester-prairie-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Windom, Kansas Business Directory"
+title: "Windom, KS Business Directory"
+type: "towns"
 slug: "windom-ks"
-town: "Windom"
-state: "Kansas"
-state_abbr: "KS"
-county: "McPherson"
-population: 958
+state: "ks"
+town_data: "windom-ks"
 ---

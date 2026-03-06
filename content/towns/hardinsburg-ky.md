@@ -1,9 +1,7 @@
 ---
-title: "Hardinsburg, Kentucky Business Directory"
+title: "Hardinsburg, KY Business Directory"
+type: "towns"
 slug: "hardinsburg-ky"
-town: "Hardinsburg"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Breckinridge"
-population: 2340
+state: "ky"
+town_data: "hardinsburg-ky"
 ---

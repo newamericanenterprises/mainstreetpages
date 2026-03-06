@@ -1,9 +1,7 @@
 ---
-title: "Pikesville, Maryland Business Directory"
+title: "Pikesville, MD Business Directory"
+type: "towns"
 slug: "pikesville-md"
-town: "Pikesville"
-state: "Maryland"
-state_abbr: "MD"
-county: "Baltimore County"
-population: 32216
+state: "md"
+town_data: "pikesville-md"
 ---

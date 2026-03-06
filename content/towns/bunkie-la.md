@@ -1,9 +1,7 @@
 ---
-title: "Bunkie, Louisiana Business Directory"
+title: "Bunkie, LA Business Directory"
+type: "towns"
 slug: "bunkie-la"
-town: "Bunkie"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Avoyelles"
-population: 4075
+state: "la"
+town_data: "bunkie-la"
 ---

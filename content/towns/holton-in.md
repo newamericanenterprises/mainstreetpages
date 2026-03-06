@@ -1,9 +1,7 @@
 ---
-title: "Holton, Indiana Business Directory"
+title: "Holton, IN Business Directory"
+type: "towns"
 slug: "holton-in"
-town: "Holton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Ripley"
-population: 4151
+state: "in"
+town_data: "holton-in"
 ---

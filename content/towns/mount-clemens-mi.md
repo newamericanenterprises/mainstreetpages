@@ -1,9 +1,7 @@
 ---
-title: "Mount Clemens, Michigan Business Directory"
+title: "Mount Clemens, MI Business Directory"
+type: "towns"
 slug: "mount-clemens-mi"
-town: "Mount Clemens"
-state: "Michigan"
-state_abbr: "MI"
-county: "Macomb"
-population: 4242
+state: "mi"
+town_data: "mount-clemens-mi"
 ---

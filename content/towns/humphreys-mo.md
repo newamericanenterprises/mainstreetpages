@@ -1,7 +1,7 @@
 ---
-title: "Humphreys, Missouri Business Directory"
+title: "Humphreys, MO Business Directory"
+type: "towns"
 slug: "humphreys-mo"
-state: "MO"
-county: "Sullivan"
-population: 1500
+state: "mo"
+town_data: "humphreys-mo"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Gautier, Mississippi Business Directory"
+title: "Gautier, MS Business Directory"
+type: "towns"
 slug: "gautier-ms"
-state: "MS"
-county: "Jackson"
-population: 18814
+state: "ms"
+town_data: "gautier-ms"
 ---

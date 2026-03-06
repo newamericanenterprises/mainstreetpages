@@ -1,9 +1,7 @@
 ---
-title: "Ferguson, Kentucky Business Directory"
+title: "Ferguson, KY Business Directory"
+type: "towns"
 slug: "ferguson-ky"
-town: "Ferguson"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Pulaski"
-population: 2584
+state: "ky"
+town_data: "ferguson-ky"
 ---

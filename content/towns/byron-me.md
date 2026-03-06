@@ -1,9 +1,7 @@
 ---
-title: "Byron, Maine Business Directory"
+title: "Byron, ME Business Directory"
+type: "towns"
 slug: "byron-me"
-town: "Byron"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 513
+state: "me"
+town_data: "byron-me"
 ---

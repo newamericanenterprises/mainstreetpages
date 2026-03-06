@@ -1,9 +1,7 @@
 ---
-title: "Pioneer, Louisiana Business Directory"
+title: "Pioneer, LA Business Directory"
+type: "towns"
 slug: "pioneer-la"
-town: "Pioneer"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Carroll"
-population: 2058
+state: "la"
+town_data: "pioneer-la"
 ---

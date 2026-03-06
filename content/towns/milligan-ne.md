@@ -1,7 +1,7 @@
 ---
-title: "Milligan, Nebraska Business Directory"
+title: "Milligan, NE Business Directory"
+type: "towns"
 slug: "milligan-ne"
-state: "NE"
-county: "Fillmore"
-population: 500
+state: "ne"
+town_data: "milligan-ne"
 ---

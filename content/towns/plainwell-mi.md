@@ -1,9 +1,7 @@
 ---
-title: "Plainwell, Michigan Business Directory"
+title: "Plainwell, MI Business Directory"
+type: "towns"
 slug: "plainwell-mi"
-town: "Plainwell"
-state: "Michigan"
-state_abbr: "MI"
-county: "Allegan"
-population: 1489
+state: "mi"
+town_data: "plainwell-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Leawood, Kansas Business Directory"
+title: "Leawood, KS Business Directory"
+type: "towns"
 slug: "leawood-ks"
-town: "Leawood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Johnson"
-population: 34702
+state: "ks"
+town_data: "leawood-ks"
 ---

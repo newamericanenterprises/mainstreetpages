@@ -1,9 +1,7 @@
 ---
-title: "Holyrood, Kansas Business Directory"
+title: "Holyrood, KS Business Directory"
+type: "towns"
 slug: "holyrood-ks"
-town: "Holyrood"
-state: "Kansas"
-state_abbr: "KS"
-county: "Ellsworth"
-population: 2593
+state: "ks"
+town_data: "holyrood-ks"
 ---

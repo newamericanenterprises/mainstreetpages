@@ -1,9 +1,7 @@
 ---
-title: "Rockville, Indiana Business Directory"
+title: "Rockville, IN Business Directory"
+type: "towns"
 slug: "rockville-in"
-town: "Rockville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Parke"
-population: 2465
+state: "in"
+town_data: "rockville-in"
 ---

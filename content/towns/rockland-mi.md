@@ -1,9 +1,7 @@
 ---
-title: "Rockland, Michigan Business Directory"
+title: "Rockland, MI Business Directory"
+type: "towns"
 slug: "rockland-mi"
-town: "Rockland"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ontonagon"
-population: 998
+state: "mi"
+town_data: "rockland-mi"
 ---

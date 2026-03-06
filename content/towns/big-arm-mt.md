@@ -1,7 +1,7 @@
 ---
-title: "Big Arm, Montana Business Directory"
+title: "Big Arm, MT Business Directory"
+type: "towns"
 slug: "big-arm-mt"
-state: "MT"
-county: "Lake"
-population: 500
+state: "mt"
+town_data: "big-arm-mt"
 ---

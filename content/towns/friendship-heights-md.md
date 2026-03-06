@@ -1,9 +1,7 @@
 ---
-title: "Friendship Heights, Maryland Business Directory"
+title: "Friendship Heights, MD Business Directory"
+type: "towns"
 slug: "friendship-heights-md"
-town: "Friendship Heights"
-state: "Maryland"
-state_abbr: "MD"
-county: "Montgomery"
-population: 794
+state: "md"
+town_data: "friendship-heights-md"
 ---

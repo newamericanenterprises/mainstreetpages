@@ -1,9 +1,7 @@
 ---
-title: "Conway, Michigan Business Directory"
+title: "Conway, MI Business Directory"
+type: "towns"
 slug: "conway-mi"
-town: "Conway"
-state: "Michigan"
-state_abbr: "MI"
-county: "Emmet"
-population: 3773
+state: "mi"
+town_data: "conway-mi"
 ---

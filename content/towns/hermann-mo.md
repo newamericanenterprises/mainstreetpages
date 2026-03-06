@@ -1,7 +1,7 @@
 ---
-title: "Hermann, Missouri Business Directory"
+title: "Hermann, MO Business Directory"
+type: "towns"
 slug: "hermann-mo"
-state: "MO"
-county: "Gasconade"
-population: 2431
+state: "mo"
+town_data: "hermann-mo"
 ---

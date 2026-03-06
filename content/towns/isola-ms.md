@@ -1,7 +1,7 @@
 ---
-title: "Isola, Mississippi Business Directory"
+title: "Isola, MS Business Directory"
+type: "towns"
 slug: "isola-ms"
-state: "MS"
-county: "Humphreys"
-population: 589
+state: "ms"
+town_data: "isola-ms"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Paradise, Kansas Business Directory"
+title: "Paradise, KS Business Directory"
+type: "towns"
 slug: "paradise-ks"
-town: "Paradise"
-state: "Kansas"
-state_abbr: "KS"
-county: "Russell"
-population: 1429
+state: "ks"
+town_data: "paradise-ks"
 ---

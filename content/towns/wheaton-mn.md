@@ -1,9 +1,7 @@
 ---
-title: "Wheaton, Minnesota Business Directory"
+title: "Wheaton, MN Business Directory"
+type: "towns"
 slug: "wheaton-mn"
-town: "Wheaton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Traverse"
-population: 1360
+state: "mn"
+town_data: "wheaton-mn"
 ---

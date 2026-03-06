@@ -1,9 +1,7 @@
 ---
-title: "Augusta, Kansas Business Directory"
+title: "Augusta, KS Business Directory"
+type: "towns"
 slug: "augusta-ks"
-town: "Augusta"
-state: "Kansas"
-state_abbr: "KS"
-county: "Butler"
-population: 9274
+state: "ks"
+town_data: "augusta-ks"
 ---

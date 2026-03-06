@@ -1,9 +1,7 @@
 ---
-title: "Salem, Indiana Business Directory"
+title: "Salem, IN Business Directory"
+type: "towns"
 slug: "salem-in"
-town: "Salem"
-state: "Indiana"
-state_abbr: "IN"
-county: "Washington"
-population: 6172
+state: "in"
+town_data: "salem-in"
 ---

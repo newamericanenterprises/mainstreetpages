@@ -1,7 +1,7 @@
 ---
-title: "Hunnewell, Missouri Business Directory"
+title: "Hunnewell, MO Business Directory"
+type: "towns"
 slug: "hunnewell-mo"
-state: "MO"
-county: "Shelby"
-population: 1500
+state: "mo"
+town_data: "hunnewell-mo"
 ---

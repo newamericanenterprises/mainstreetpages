@@ -1,9 +1,7 @@
 ---
-title: "Pierceville, Kansas Business Directory"
+title: "Pierceville, KS Business Directory"
+type: "towns"
 slug: "pierceville-ks"
-town: "Pierceville"
-state: "Kansas"
-state_abbr: "KS"
-county: "Finney"
-population: 2250
+state: "ks"
+town_data: "pierceville-ks"
 ---

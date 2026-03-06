@@ -1,7 +1,7 @@
 ---
-title: "Santee, Nebraska Business Directory"
+title: "Santee, NE Business Directory"
+type: "towns"
 slug: "santee-ne"
-state: "NE"
-county: "Knox"
-population: 381
+state: "ne"
+town_data: "santee-ne"
 ---

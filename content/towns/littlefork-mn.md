@@ -1,9 +1,7 @@
 ---
-title: "Littlefork, Minnesota Business Directory"
+title: "Littlefork, MN Business Directory"
+type: "towns"
 slug: "littlefork-mn"
-town: "Littlefork"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Koochiching"
-population: 418
+state: "mn"
+town_data: "littlefork-mn"
 ---

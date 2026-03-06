@@ -1,9 +1,7 @@
 ---
-title: "Grandy, Minnesota Business Directory"
+title: "Grandy, MN Business Directory"
+type: "towns"
 slug: "grandy-mn"
-town: "Grandy"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Isanti"
-population: 809
+state: "mn"
+town_data: "grandy-mn"
 ---

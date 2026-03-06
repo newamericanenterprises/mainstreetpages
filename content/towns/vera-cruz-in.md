@@ -1,9 +1,7 @@
 ---
-title: "Vera Cruz, Indiana Business Directory"
+title: "Vera Cruz, IN Business Directory"
+type: "towns"
 slug: "vera-cruz-in"
-town: "Vera Cruz"
-state: "Indiana"
-state_abbr: "IN"
-county: "Wells"
-population: 4057
+state: "in"
+town_data: "vera-cruz-in"
 ---

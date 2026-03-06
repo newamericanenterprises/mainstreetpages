@@ -1,7 +1,7 @@
 ---
-title: "Mantee, Mississippi Business Directory"
+title: "Mantee, MS Business Directory"
+type: "towns"
 slug: "mantee-ms"
-state: "MS"
-county: "Oktibbeha"
-population: 200
+state: "ms"
+town_data: "mantee-ms"
 ---

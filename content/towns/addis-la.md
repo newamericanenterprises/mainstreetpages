@@ -1,9 +1,7 @@
 ---
-title: "Addis, Louisiana Business Directory"
+title: "Addis, LA Business Directory"
+type: "towns"
 slug: "addis-la"
-town: "Addis"
-state: "Louisiana"
-state_abbr: "LA"
-county: "West Baton Rouge"
-population: 720
+state: "la"
+town_data: "addis-la"
 ---

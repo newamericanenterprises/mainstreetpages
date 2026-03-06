@@ -1,9 +1,7 @@
 ---
-title: "Valley Center, Kansas Business Directory"
+title: "Valley Center, KS Business Directory"
+type: "towns"
 slug: "valley-center-ks"
-town: "Valley Center"
-state: "Kansas"
-state_abbr: "KS"
-county: "Sedgwick"
-population: 7299
+state: "ks"
+town_data: "valley-center-ks"
 ---

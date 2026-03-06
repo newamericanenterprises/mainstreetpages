@@ -1,7 +1,7 @@
 ---
-title: "Wisdom, Montana Business Directory"
+title: "Wisdom, MT Business Directory"
+type: "towns"
 slug: "wisdom-mt"
-state: "MT"
-county: "Beaverhead"
-population: 500
+state: "mt"
+town_data: "wisdom-mt"
 ---

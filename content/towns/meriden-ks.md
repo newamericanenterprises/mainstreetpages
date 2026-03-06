@@ -1,9 +1,7 @@
 ---
-title: "Meriden, Kansas Business Directory"
+title: "Meriden, KS Business Directory"
+type: "towns"
 slug: "meriden-ks"
-town: "Meriden"
-state: "Kansas"
-state_abbr: "KS"
-county: "Jefferson"
-population: 2556
+state: "ks"
+town_data: "meriden-ks"
 ---

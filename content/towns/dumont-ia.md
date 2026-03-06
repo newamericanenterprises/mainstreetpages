@@ -1,9 +1,7 @@
 ---
-title: "Dumont, Iowa Business Directory"
+title: "Dumont, IA Business Directory"
+type: "towns"
 slug: "dumont-ia"
-town: "Dumont"
-state: "Iowa"
-state_abbr: "IA"
-county: "Butler"
-population: 2492
+state: "ia"
+town_data: "dumont-ia"
 ---

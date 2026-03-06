@@ -1,9 +1,7 @@
 ---
-title: "Chester, Michigan Business Directory"
+title: "Chester, MI Business Directory"
+type: "towns"
 slug: "chester-mi"
-town: "Chester"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ottawa"
-population: 1386
+state: "mi"
+town_data: "chester-mi"
 ---

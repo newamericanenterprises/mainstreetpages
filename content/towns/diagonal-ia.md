@@ -1,9 +1,7 @@
 ---
-title: "Diagonal, Iowa Business Directory"
+title: "Diagonal, IA Business Directory"
+type: "towns"
 slug: "diagonal-ia"
-town: "Diagonal"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 1043
+state: "ia"
+town_data: "diagonal-ia"
 ---

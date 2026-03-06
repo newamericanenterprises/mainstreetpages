@@ -1,7 +1,7 @@
 ---
-title: "Hartwell, Missouri Business Directory"
+title: "Hartwell, MO Business Directory"
+type: "towns"
 slug: "hartwell-mo"
-state: "MO"
-county: "Henry"
-population: 1500
+state: "mo"
+town_data: "hartwell-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Nashville, Michigan Business Directory"
+title: "Nashville, MI Business Directory"
+type: "towns"
 slug: "nashville-mi"
-town: "Nashville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Barry"
-population: 3618
+state: "mi"
+town_data: "nashville-mi"
 ---

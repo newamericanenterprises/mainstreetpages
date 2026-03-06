@@ -1,9 +1,7 @@
 ---
-title: "Woolford, Maryland Business Directory"
+title: "Woolford, MD Business Directory"
+type: "towns"
 slug: "woolford-md"
-town: "Woolford"
-state: "Maryland"
-state_abbr: "MD"
-county: "Dorchester"
-population: 3532
+state: "md"
+town_data: "woolford-md"
 ---

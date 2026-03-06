@@ -1,9 +1,7 @@
 ---
-title: "West Terre Haute, Indiana Business Directory"
+title: "West Terre Haute, IN Business Directory"
+type: "towns"
 slug: "west-terre-haute-in"
-town: "West Terre Haute"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vigo"
-population: 2955
+state: "in"
+town_data: "west-terre-haute-in"
 ---

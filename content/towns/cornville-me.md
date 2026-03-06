@@ -1,9 +1,7 @@
 ---
-title: "Cornville, Maine Business Directory"
+title: "Cornville, ME Business Directory"
+type: "towns"
 slug: "cornville-me"
-town: "Cornville"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 819
+state: "me"
+town_data: "cornville-me"
 ---

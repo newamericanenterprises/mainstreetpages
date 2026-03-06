@@ -1,9 +1,7 @@
 ---
-title: "Biscay, Minnesota Business Directory"
+title: "Biscay, MN Business Directory"
+type: "towns"
 slug: "biscay-mn"
-town: "Biscay"
-state: "Minnesota"
-state_abbr: "MN"
-county: "McLeod"
-population: 1073
+state: "mn"
+town_data: "biscay-mn"
 ---

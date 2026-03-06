@@ -1,7 +1,7 @@
 ---
-title: "Bellefontaine Neighbors, Missouri Business Directory"
+title: "Bellefontaine Neighbors, MO Business Directory"
+type: "towns"
 slug: "bellefontaine-neighbors-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "bellefontaine-neighbors-mo"
 ---

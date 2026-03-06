@@ -1,9 +1,7 @@
 ---
-title: "Waterboro, Maine Business Directory"
+title: "Waterboro, ME Business Directory"
+type: "towns"
 slug: "waterboro-me"
-town: "Waterboro"
-state: "Maine"
-state_abbr: "ME"
-county: "York"
-population: 1024
+state: "me"
+town_data: "waterboro-me"
 ---

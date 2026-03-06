@@ -1,7 +1,7 @@
 ---
-title: "Oakland, Nebraska Business Directory"
+title: "Oakland, NE Business Directory"
+type: "towns"
 slug: "oakland-ne"
-state: "NE"
-county: "Burt"
-population: 1244
+state: "ne"
+town_data: "oakland-ne"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Le Mars, Iowa Business Directory"
+title: "Le Mars, IA Business Directory"
+type: "towns"
 slug: "le-mars-ia"
-town: "Le Mars"
-state: "Iowa"
-state_abbr: "IA"
-county: "Plymouth"
-population: 10571
+state: "ia"
+town_data: "le-mars-ia"
 ---

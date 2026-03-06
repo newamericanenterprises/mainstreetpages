@@ -1,9 +1,7 @@
 ---
-title: "Ravenna, Kentucky Business Directory"
+title: "Ravenna, KY Business Directory"
+type: "towns"
 slug: "ravenna-ky"
-town: "Ravenna"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Estill"
-population: 1492
+state: "ky"
+town_data: "ravenna-ky"
 ---

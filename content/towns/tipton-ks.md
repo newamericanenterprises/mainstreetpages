@@ -1,9 +1,7 @@
 ---
-title: "Tipton, Kansas Business Directory"
+title: "Tipton, KS Business Directory"
+type: "towns"
 slug: "tipton-ks"
-town: "Tipton"
-state: "Kansas"
-state_abbr: "KS"
-county: "Mitchell"
-population: 1725
+state: "ks"
+town_data: "tipton-ks"
 ---

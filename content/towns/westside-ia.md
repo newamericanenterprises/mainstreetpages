@@ -1,9 +1,7 @@
 ---
-title: "Westside, Iowa Business Directory"
+title: "Westside, IA Business Directory"
+type: "towns"
 slug: "westside-ia"
-town: "Westside"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 788
+state: "ia"
+town_data: "westside-ia"
 ---

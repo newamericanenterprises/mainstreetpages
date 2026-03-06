@@ -1,9 +1,7 @@
 ---
-title: "Brownfields, Louisiana Business Directory"
+title: "Brownfields, LA Business Directory"
+type: "towns"
 slug: "brownfields-la"
-town: "Brownfields"
-state: "Louisiana"
-state_abbr: "LA"
-county: "East Baton Rouge"
-population: 3202
+state: "la"
+town_data: "brownfields-la"
 ---

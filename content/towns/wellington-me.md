@@ -1,9 +1,7 @@
 ---
-title: "Wellington, Maine Business Directory"
+title: "Wellington, ME Business Directory"
+type: "towns"
 slug: "wellington-me"
-town: "Wellington"
-state: "Maine"
-state_abbr: "ME"
-county: "Somerset"
-population: 444
+state: "me"
+town_data: "wellington-me"
 ---

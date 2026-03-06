@@ -1,9 +1,7 @@
 ---
-title: "Lake Orion, Michigan Business Directory"
+title: "Lake Orion, MI Business Directory"
+type: "towns"
 slug: "lake-orion-mi"
-town: "Lake Orion"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 2973
+state: "mi"
+town_data: "lake-orion-mi"
 ---

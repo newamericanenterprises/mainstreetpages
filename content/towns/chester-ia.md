@@ -1,9 +1,7 @@
 ---
-title: "Chester, Iowa Business Directory"
+title: "Chester, IA Business Directory"
+type: "towns"
 slug: "chester-ia"
-town: "Chester"
-state: "Iowa"
-state_abbr: "IA"
-county: "Howard"
-population: 1440
+state: "ia"
+town_data: "chester-ia"
 ---

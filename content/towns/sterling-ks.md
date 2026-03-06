@@ -1,9 +1,7 @@
 ---
-title: "Sterling, Kansas Business Directory"
+title: "Sterling, KS Business Directory"
+type: "towns"
 slug: "sterling-ks"
-town: "Sterling"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 2209
+state: "ks"
+town_data: "sterling-ks"
 ---

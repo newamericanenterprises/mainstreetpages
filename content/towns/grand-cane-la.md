@@ -1,9 +1,7 @@
 ---
-title: "Grand Cane, Louisiana Business Directory"
+title: "Grand Cane, LA Business Directory"
+type: "towns"
 slug: "grand-cane-la"
-town: "Grand Cane"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 2235
+state: "la"
+town_data: "grand-cane-la"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Eaton, Indiana Business Directory"
+title: "Eaton, IN Business Directory"
+type: "towns"
 slug: "eaton-in"
-town: "Eaton"
-state: "Indiana"
-state_abbr: "IN"
-county: "Delaware"
-population: 4857
+state: "in"
+town_data: "eaton-in"
 ---

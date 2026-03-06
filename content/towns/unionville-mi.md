@@ -1,9 +1,7 @@
 ---
-title: "Unionville, Michigan Business Directory"
+title: "Unionville, MI Business Directory"
+type: "towns"
 slug: "unionville-mi"
-town: "Unionville"
-state: "Michigan"
-state_abbr: "MI"
-county: "Tuscola"
-population: 4148
+state: "mi"
+town_data: "unionville-mi"
 ---

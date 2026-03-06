@@ -1,7 +1,7 @@
 ---
-title: "Cushing, Nebraska Business Directory"
+title: "Cushing, NE Business Directory"
+type: "towns"
 slug: "cushing-ne"
-state: "NE"
-county: "Howard"
-population: 500
+state: "ne"
+town_data: "cushing-ne"
 ---

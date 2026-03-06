@@ -1,9 +1,7 @@
 ---
-title: "Abington, Massachusetts Business Directory"
+title: "Abington, MA Business Directory"
+type: "towns"
 slug: "abington-ma"
-town: "Abington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Plymouth"
-population: 7956
+state: "ma"
+town_data: "abington-ma"
 ---

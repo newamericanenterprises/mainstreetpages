@@ -1,9 +1,7 @@
 ---
-title: "Hudson, Maine Business Directory"
+title: "Hudson, ME Business Directory"
+type: "towns"
 slug: "hudson-me"
-town: "Hudson"
-state: "Maine"
-state_abbr: "ME"
-county: "Penobscot"
-population: 2513
+state: "me"
+town_data: "hudson-me"
 ---

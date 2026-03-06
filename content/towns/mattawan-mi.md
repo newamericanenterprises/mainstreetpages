@@ -1,9 +1,7 @@
 ---
-title: "Mattawan, Michigan Business Directory"
+title: "Mattawan, MI Business Directory"
+type: "towns"
 slug: "mattawan-mi"
-town: "Mattawan"
-state: "Michigan"
-state_abbr: "MI"
-county: "Van Buren"
-population: 3450
+state: "mi"
+town_data: "mattawan-mi"
 ---

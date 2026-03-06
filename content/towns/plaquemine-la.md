@@ -1,9 +1,7 @@
 ---
-title: "Plaquemine, Louisiana Business Directory"
+title: "Plaquemine, LA Business Directory"
+type: "towns"
 slug: "plaquemine-la"
-town: "Plaquemine"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Iberville"
-population: 6353
+state: "la"
+town_data: "plaquemine-la"
 ---

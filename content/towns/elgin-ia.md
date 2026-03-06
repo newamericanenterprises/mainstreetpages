@@ -1,9 +1,7 @@
 ---
-title: "Elgin, Iowa Business Directory"
+title: "Elgin, IA Business Directory"
+type: "towns"
 slug: "elgin-ia"
-town: "Elgin"
-state: "Iowa"
-state_abbr: "IA"
-county: "Fayette"
-population: 1890
+state: "ia"
+town_data: "elgin-ia"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Mansfield, Missouri Business Directory"
+title: "Mansfield, MO Business Directory"
+type: "towns"
 slug: "mansfield-mo"
-state: "MO"
-county: "Wright"
-population: 1500
+state: "mo"
+town_data: "mansfield-mo"
 ---

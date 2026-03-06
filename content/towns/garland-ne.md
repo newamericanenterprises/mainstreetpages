@@ -1,7 +1,7 @@
 ---
-title: "Garland, Nebraska Business Directory"
+title: "Garland, NE Business Directory"
+type: "towns"
 slug: "garland-ne"
-state: "NE"
-county: "Seward"
-population: 500
+state: "ne"
+town_data: "garland-ne"
 ---

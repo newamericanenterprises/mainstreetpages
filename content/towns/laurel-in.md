@@ -1,9 +1,7 @@
 ---
-title: "Laurel, Indiana Business Directory"
+title: "Laurel, IN Business Directory"
+type: "towns"
 slug: "laurel-in"
-town: "Laurel"
-state: "Indiana"
-state_abbr: "IN"
-county: "Franklin"
-population: 2463
+state: "in"
+town_data: "laurel-in"
 ---

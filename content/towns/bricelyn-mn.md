@@ -1,9 +1,7 @@
 ---
-title: "Bricelyn, Minnesota Business Directory"
+title: "Bricelyn, MN Business Directory"
+type: "towns"
 slug: "bricelyn-mn"
-town: "Bricelyn"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Faribault"
-population: 1644
+state: "mn"
+town_data: "bricelyn-mn"
 ---

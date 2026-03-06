@@ -1,7 +1,7 @@
 ---
-title: "Crofton, Nebraska Business Directory"
+title: "Crofton, NE Business Directory"
+type: "towns"
 slug: "crofton-ne"
-state: "NE"
-county: "Knox"
-population: 699
+state: "ne"
+town_data: "crofton-ne"
 ---

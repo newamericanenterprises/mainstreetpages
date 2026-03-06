@@ -1,9 +1,7 @@
 ---
-title: "Newburgh, Indiana Business Directory"
+title: "Newburgh, IN Business Directory"
+type: "towns"
 slug: "newburgh-in"
-town: "Newburgh"
-state: "Indiana"
-state_abbr: "IN"
-county: "Vanderburgh"
-population: 3325
+state: "in"
+town_data: "newburgh-in"
 ---

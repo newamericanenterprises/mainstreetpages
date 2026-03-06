@@ -1,9 +1,7 @@
 ---
-title: "Hessel, Michigan Business Directory"
+title: "Hessel, MI Business Directory"
+type: "towns"
 slug: "hessel-mi"
-town: "Hessel"
-state: "Michigan"
-state_abbr: "MI"
-county: "Mackinac"
-population: 4771
+state: "mi"
+town_data: "hessel-mi"
 ---

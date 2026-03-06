@@ -1,9 +1,7 @@
 ---
-title: "Lyons, Kansas Business Directory"
+title: "Lyons, KS Business Directory"
+type: "towns"
 slug: "lyons-ks"
-town: "Lyons"
-state: "Kansas"
-state_abbr: "KS"
-county: "Rice"
-population: 3439
+state: "ks"
+town_data: "lyons-ks"
 ---

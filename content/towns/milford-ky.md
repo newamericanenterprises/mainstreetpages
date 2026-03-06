@@ -1,9 +1,7 @@
 ---
-title: "Milford, Kentucky Business Directory"
+title: "Milford, KY Business Directory"
+type: "towns"
 slug: "milford-ky"
-town: "Milford"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Bracken"
-population: 3094
+state: "ky"
+town_data: "milford-ky"
 ---

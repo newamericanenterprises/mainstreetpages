@@ -1,9 +1,7 @@
 ---
-title: "New Richland, Minnesota Business Directory"
+title: "New Richland, MN Business Directory"
+type: "towns"
 slug: "new-richland-mn"
-town: "New Richland"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Waseca"
-population: 795
+state: "mn"
+town_data: "new-richland-mn"
 ---

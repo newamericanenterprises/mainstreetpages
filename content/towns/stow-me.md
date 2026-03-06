@@ -1,9 +1,7 @@
 ---
-title: "Stow, Maine Business Directory"
+title: "Stow, ME Business Directory"
+type: "towns"
 slug: "stow-me"
-town: "Stow"
-state: "Maine"
-state_abbr: "ME"
-county: "Oxford"
-population: 2754
+state: "me"
+town_data: "stow-me"
 ---

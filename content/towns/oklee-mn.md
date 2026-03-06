@@ -1,9 +1,7 @@
 ---
-title: "Oklee, Minnesota Business Directory"
+title: "Oklee, MN Business Directory"
+type: "towns"
 slug: "oklee-mn"
-town: "Oklee"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Red Lake"
-population: 2263
+state: "mn"
+town_data: "oklee-mn"
 ---

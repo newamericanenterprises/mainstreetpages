@@ -1,9 +1,7 @@
 ---
-title: "Alford, Massachusetts Business Directory"
+title: "Alford, MA Business Directory"
+type: "towns"
 slug: "alford-ma"
-town: "Alford"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 7624
+state: "ma"
+town_data: "alford-ma"
 ---

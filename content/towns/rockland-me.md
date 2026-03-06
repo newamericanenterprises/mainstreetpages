@@ -1,9 +1,7 @@
 ---
-title: "Rockland, Maine Business Directory"
+title: "Rockland, ME Business Directory"
+type: "towns"
 slug: "rockland-me"
-town: "Rockland"
-state: "Maine"
-state_abbr: "ME"
-county: "Knox"
-population: 7297
+state: "me"
+town_data: "rockland-me"
 ---

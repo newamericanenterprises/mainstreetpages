@@ -1,7 +1,7 @@
 ---
-title: "Rosendale, Missouri Business Directory"
+title: "Rosendale, MO Business Directory"
+type: "towns"
 slug: "rosendale-mo"
-state: "MO"
-county: "Andrew"
-population: 1500
+state: "mo"
+town_data: "rosendale-mo"
 ---

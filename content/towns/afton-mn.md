@@ -1,9 +1,7 @@
 ---
-title: "Afton, Minnesota Business Directory"
+title: "Afton, MN Business Directory"
+type: "towns"
 slug: "afton-mn"
-town: "Afton"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Washington"
-population: 1408
+state: "mn"
+town_data: "afton-mn"
 ---

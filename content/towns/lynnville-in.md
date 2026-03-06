@@ -1,9 +1,7 @@
 ---
-title: "Lynnville, Indiana Business Directory"
+title: "Lynnville, IN Business Directory"
+type: "towns"
 slug: "lynnville-in"
-town: "Lynnville"
-state: "Indiana"
-state_abbr: "IN"
-county: "Warrick"
-population: 564
+state: "in"
+town_data: "lynnville-in"
 ---

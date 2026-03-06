@@ -1,9 +1,7 @@
 ---
-title: "Beaconsfield, Iowa Business Directory"
+title: "Beaconsfield, IA Business Directory"
+type: "towns"
 slug: "beaconsfield-ia"
-town: "Beaconsfield"
-state: "Iowa"
-state_abbr: "IA"
-county: "Ringgold"
-population: 2353
+state: "ia"
+town_data: "beaconsfield-ia"
 ---

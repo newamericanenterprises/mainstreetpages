@@ -1,7 +1,7 @@
 ---
-title: "Inavale, Nebraska Business Directory"
+title: "Inavale, NE Business Directory"
+type: "towns"
 slug: "inavale-ne"
-state: "NE"
-county: "Webster"
-population: 500
+state: "ne"
+town_data: "inavale-ne"
 ---

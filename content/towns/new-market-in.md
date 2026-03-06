@@ -1,9 +1,7 @@
 ---
-title: "New Market, Indiana Business Directory"
+title: "New Market, IN Business Directory"
+type: "towns"
 slug: "new-market-in"
-town: "New Market"
-state: "Indiana"
-state_abbr: "IN"
-county: "Montgomery"
-population: 2203
+state: "in"
+town_data: "new-market-in"
 ---

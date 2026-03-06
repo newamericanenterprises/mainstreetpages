@@ -1,9 +1,7 @@
 ---
-title: "Warba, Minnesota Business Directory"
+title: "Warba, MN Business Directory"
+type: "towns"
 slug: "warba-mn"
-town: "Warba"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 1139
+state: "mn"
+town_data: "warba-mn"
 ---

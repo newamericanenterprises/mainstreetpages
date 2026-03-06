@@ -1,7 +1,7 @@
 ---
-title: "Camas, Montana Business Directory"
+title: "Camas, MT Business Directory"
+type: "towns"
 slug: "camas-mt"
-state: "MT"
-county: "Sanders"
-population: 500
+state: "mt"
+town_data: "camas-mt"
 ---

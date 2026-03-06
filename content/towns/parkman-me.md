@@ -1,9 +1,7 @@
 ---
-title: "Parkman, Maine Business Directory"
+title: "Parkman, ME Business Directory"
+type: "towns"
 slug: "parkman-me"
-town: "Parkman"
-state: "Maine"
-state_abbr: "ME"
-county: "Piscataquis"
-population: 2548
+state: "me"
+town_data: "parkman-me"
 ---

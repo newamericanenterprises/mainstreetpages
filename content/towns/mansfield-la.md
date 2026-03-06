@@ -1,9 +1,7 @@
 ---
-title: "Mansfield, Louisiana Business Directory"
+title: "Mansfield, LA Business Directory"
+type: "towns"
 slug: "mansfield-la"
-town: "Mansfield"
-state: "Louisiana"
-state_abbr: "LA"
-county: "DeSoto"
-population: 4697
+state: "la"
+town_data: "mansfield-la"
 ---

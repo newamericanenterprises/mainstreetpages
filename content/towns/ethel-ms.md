@@ -1,7 +1,7 @@
 ---
-title: "Ethel, Mississippi Business Directory"
+title: "Ethel, MS Business Directory"
+type: "towns"
 slug: "ethel-ms"
-state: "MS"
-county: "Attala"
-population: 510
+state: "ms"
+town_data: "ethel-ms"
 ---

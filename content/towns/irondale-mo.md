@@ -1,7 +1,7 @@
 ---
-title: "Irondale, Missouri Business Directory"
+title: "Irondale, MO Business Directory"
+type: "towns"
 slug: "irondale-mo"
-state: "MO"
-county: "Washington"
-population: 1500
+state: "mo"
+town_data: "irondale-mo"
 ---

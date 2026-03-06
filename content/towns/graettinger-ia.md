@@ -1,9 +1,7 @@
 ---
-title: "Graettinger, Iowa Business Directory"
+title: "Graettinger, IA Business Directory"
+type: "towns"
 slug: "graettinger-ia"
-town: "Graettinger"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 608
+state: "ia"
+town_data: "graettinger-ia"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Lanesboro, Iowa Business Directory"
+title: "Lanesboro, IA Business Directory"
+type: "towns"
 slug: "lanesboro-ia"
-town: "Lanesboro"
-state: "Iowa"
-state_abbr: "IA"
-county: "Carroll"
-population: 845
+state: "ia"
+town_data: "lanesboro-ia"
 ---

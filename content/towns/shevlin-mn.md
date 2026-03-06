@@ -1,9 +1,7 @@
 ---
-title: "Shevlin, Minnesota Business Directory"
+title: "Shevlin, MN Business Directory"
+type: "towns"
 slug: "shevlin-mn"
-town: "Shevlin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Clearwater"
-population: 1531
+state: "mn"
+town_data: "shevlin-mn"
 ---

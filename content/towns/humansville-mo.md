@@ -1,7 +1,7 @@
 ---
-title: "Humansville, Missouri Business Directory"
+title: "Humansville, MO Business Directory"
+type: "towns"
 slug: "humansville-mo"
-state: "MO"
-county: "Polk"
-population: 938
+state: "mo"
+town_data: "humansville-mo"
 ---

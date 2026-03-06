@@ -1,7 +1,7 @@
 ---
-title: "Grant City, Missouri Business Directory"
+title: "Grant City, MO Business Directory"
+type: "towns"
 slug: "grant-city-mo"
-state: "MO"
-county: "Worth"
-population: 861
+state: "mo"
+town_data: "grant-city-mo"
 ---

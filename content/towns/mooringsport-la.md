@@ -1,9 +1,7 @@
 ---
-title: "Mooringsport, Louisiana Business Directory"
+title: "Mooringsport, LA Business Directory"
+type: "towns"
 slug: "mooringsport-la"
-town: "Mooringsport"
-state: "Louisiana"
-state_abbr: "LA"
-county: "Caddo"
-population: 712
+state: "la"
+town_data: "mooringsport-la"
 ---

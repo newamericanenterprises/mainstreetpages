@@ -1,7 +1,7 @@
 ---
-title: "Homestown, Missouri Business Directory"
+title: "Homestown, MO Business Directory"
+type: "towns"
 slug: "homestown-mo"
-state: "MO"
-county: "Pemiscot"
-population: 1500
+state: "mo"
+town_data: "homestown-mo"
 ---

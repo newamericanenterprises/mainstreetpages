@@ -1,7 +1,7 @@
 ---
-title: "Gering, Nebraska Business Directory"
+title: "Gering, NE Business Directory"
+type: "towns"
 slug: "gering-ne"
-state: "NE"
-county: "Scotts Bluff"
-population: 8500
+state: "ne"
+town_data: "gering-ne"
 ---

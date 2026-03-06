@@ -1,9 +1,7 @@
 ---
-title: "Buck Grove, Iowa Business Directory"
+title: "Buck Grove, IA Business Directory"
+type: "towns"
 slug: "buck-grove-ia"
-town: "Buck Grove"
-state: "Iowa"
-state_abbr: "IA"
-county: "Crawford"
-population: 1596
+state: "ia"
+town_data: "buck-grove-ia"
 ---

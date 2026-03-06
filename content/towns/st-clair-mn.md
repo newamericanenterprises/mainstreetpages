@@ -1,9 +1,7 @@
 ---
-title: "St. Clair, Minnesota Business Directory"
+title: "St. Clair, MN Business Directory"
+type: "towns"
 slug: "st-clair-mn"
-town: "St. Clair"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Blue Earth"
-population: 1181
+state: "mn"
+town_data: "st-clair-mn"
 ---

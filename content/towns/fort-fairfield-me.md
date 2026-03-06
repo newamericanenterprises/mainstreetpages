@@ -1,9 +1,7 @@
 ---
-title: "Fort Fairfield, Maine Business Directory"
+title: "Fort Fairfield, ME Business Directory"
+type: "towns"
 slug: "fort-fairfield-me"
-town: "Fort Fairfield"
-state: "Maine"
-state_abbr: "ME"
-county: "Aroostook"
-population: 1676
+state: "me"
+town_data: "fort-fairfield-me"
 ---

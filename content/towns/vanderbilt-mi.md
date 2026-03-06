@@ -1,9 +1,7 @@
 ---
-title: "Vanderbilt, Michigan Business Directory"
+title: "Vanderbilt, MI Business Directory"
+type: "towns"
 slug: "vanderbilt-mi"
-town: "Vanderbilt"
-state: "Michigan"
-state_abbr: "MI"
-county: "Otsego"
-population: 5091
+state: "mi"
+town_data: "vanderbilt-mi"
 ---

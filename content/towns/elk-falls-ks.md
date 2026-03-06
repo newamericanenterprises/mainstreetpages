@@ -1,9 +1,7 @@
 ---
-title: "Elk Falls, Kansas Business Directory"
+title: "Elk Falls, KS Business Directory"
+type: "towns"
 slug: "elk-falls-ks"
-town: "Elk Falls"
-state: "Kansas"
-state_abbr: "KS"
-county: "Elk"
-population: 2080
+state: "ks"
+town_data: "elk-falls-ks"
 ---

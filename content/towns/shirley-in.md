@@ -1,9 +1,7 @@
 ---
-title: "Shirley, Indiana Business Directory"
+title: "Shirley, IN Business Directory"
+type: "towns"
 slug: "shirley-in"
-town: "Shirley"
-state: "Indiana"
-state_abbr: "IN"
-county: "Hancock"
-population: 3748
+state: "in"
+town_data: "shirley-in"
 ---

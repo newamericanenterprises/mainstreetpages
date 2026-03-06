@@ -1,9 +1,7 @@
 ---
-title: "Clutier, Iowa Business Directory"
+title: "Clutier, IA Business Directory"
+type: "towns"
 slug: "clutier-ia"
-town: "Clutier"
-state: "Iowa"
-state_abbr: "IA"
-county: "Tama"
-population: 2541
+state: "ia"
+town_data: "clutier-ia"
 ---

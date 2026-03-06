@@ -1,9 +1,7 @@
 ---
-title: "Martin, Kentucky Business Directory"
+title: "Martin, KY Business Directory"
+type: "towns"
 slug: "martin-ky"
-town: "Martin"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Floyd"
-population: 1952
+state: "ky"
+town_data: "martin-ky"
 ---

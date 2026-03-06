@@ -1,9 +1,7 @@
 ---
-title: "West River, Maryland Business Directory"
+title: "West River, MD Business Directory"
+type: "towns"
 slug: "west-river-md"
-town: "West River"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 1834
+state: "md"
+town_data: "west-river-md"
 ---

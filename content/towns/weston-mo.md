@@ -1,7 +1,7 @@
 ---
-title: "Weston, Missouri Business Directory"
+title: "Weston, MO Business Directory"
+type: "towns"
 slug: "weston-mo"
-state: "MO"
-county: "Platte"
-population: 1500
+state: "mo"
+town_data: "weston-mo"
 ---

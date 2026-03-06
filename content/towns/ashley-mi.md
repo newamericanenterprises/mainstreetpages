@@ -1,9 +1,7 @@
 ---
-title: "Ashley, Michigan Business Directory"
+title: "Ashley, MI Business Directory"
+type: "towns"
 slug: "ashley-mi"
-town: "Ashley"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gratiot"
-population: 3557
+state: "mi"
+town_data: "ashley-mi"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Garden, Michigan Business Directory"
+title: "Garden, MI Business Directory"
+type: "towns"
 slug: "garden-mi"
-town: "Garden"
-state: "Michigan"
-state_abbr: "MI"
-county: "Delta"
-population: 1617
+state: "mi"
+town_data: "garden-mi"
 ---

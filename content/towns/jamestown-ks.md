@@ -1,9 +1,7 @@
 ---
-title: "Jamestown, Kansas Business Directory"
+title: "Jamestown, KS Business Directory"
+type: "towns"
 slug: "jamestown-ks"
-town: "Jamestown"
-state: "Kansas"
-state_abbr: "KS"
-county: "Cloud"
-population: 2116
+state: "ks"
+town_data: "jamestown-ks"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fort Calhoun, Nebraska Business Directory"
+title: "Fort Calhoun, NE Business Directory"
+type: "towns"
 slug: "fort-calhoun-ne"
-state: "NE"
-county: "Washington"
-population: 1007
+state: "ne"
+town_data: "fort-calhoun-ne"
 ---

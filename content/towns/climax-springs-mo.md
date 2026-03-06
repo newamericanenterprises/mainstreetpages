@@ -1,7 +1,7 @@
 ---
-title: "Climax Springs, Missouri Business Directory"
+title: "Climax Springs, MO Business Directory"
+type: "towns"
 slug: "climax-springs-mo"
-state: "MO"
-county: "Camden"
-population: 1500
+state: "mo"
+town_data: "climax-springs-mo"
 ---

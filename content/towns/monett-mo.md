@@ -1,7 +1,7 @@
 ---
-title: "Monett, Missouri Business Directory"
+title: "Monett, MO Business Directory"
+type: "towns"
 slug: "monett-mo"
-state: "MO"
-county: "Barry"
-population: 9178
+state: "mo"
+town_data: "monett-mo"
 ---

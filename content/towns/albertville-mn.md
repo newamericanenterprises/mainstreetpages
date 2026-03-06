@@ -1,9 +1,7 @@
 ---
-title: "Albertville, Minnesota Business Directory"
+title: "Albertville, MN Business Directory"
+type: "towns"
 slug: "albertville-mn"
-town: "Albertville"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Wright"
-population: 1021
+state: "mn"
+town_data: "albertville-mn"
 ---

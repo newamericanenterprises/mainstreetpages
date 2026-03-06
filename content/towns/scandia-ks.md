@@ -1,9 +1,7 @@
 ---
-title: "Scandia, Kansas Business Directory"
+title: "Scandia, KS Business Directory"
+type: "towns"
 slug: "scandia-ks"
-town: "Scandia"
-state: "Kansas"
-state_abbr: "KS"
-county: "Republic"
-population: 463
+state: "ks"
+town_data: "scandia-ks"
 ---

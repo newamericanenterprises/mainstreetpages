@@ -1,9 +1,7 @@
 ---
-title: "Kouts, Indiana Business Directory"
+title: "Kouts, IN Business Directory"
+type: "towns"
 slug: "kouts-in"
-town: "Kouts"
-state: "Indiana"
-state_abbr: "IN"
-county: "Porter"
-population: 1014
+state: "in"
+town_data: "kouts-in"
 ---

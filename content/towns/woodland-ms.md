@@ -1,7 +1,7 @@
 ---
-title: "Woodland, Mississippi Business Directory"
+title: "Woodland, MS Business Directory"
+type: "towns"
 slug: "woodland-ms"
-state: "MS"
-county: "Chickasaw"
-population: 149
+state: "ms"
+town_data: "woodland-ms"
 ---

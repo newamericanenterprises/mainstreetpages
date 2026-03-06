@@ -1,7 +1,7 @@
 ---
-title: "Stanton, Nebraska Business Directory"
+title: "Stanton, NE Business Directory"
+type: "towns"
 slug: "stanton-ne"
-state: "NE"
-county: "Stanton"
-population: 1565
+state: "ne"
+town_data: "stanton-ne"
 ---

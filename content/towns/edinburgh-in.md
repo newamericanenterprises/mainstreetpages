@@ -1,9 +1,7 @@
 ---
-title: "Edinburgh, Indiana Business Directory"
+title: "Edinburgh, IN Business Directory"
+type: "towns"
 slug: "edinburgh-in"
-town: "Edinburgh"
-state: "Indiana"
-state_abbr: "IN"
-county: "Johnson"
-population: 3286
+state: "in"
+town_data: "edinburgh-in"
 ---

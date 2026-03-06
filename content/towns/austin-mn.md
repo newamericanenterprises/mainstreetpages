@@ -1,9 +1,7 @@
 ---
-title: "Austin, Minnesota Business Directory"
+title: "Austin, MN Business Directory"
+type: "towns"
 slug: "austin-mn"
-town: "Austin"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Mower"
-population: 25945
+state: "mn"
+town_data: "austin-mn"
 ---

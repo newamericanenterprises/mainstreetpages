@@ -1,7 +1,7 @@
 ---
-title: "Amsterdam, Missouri Business Directory"
+title: "Amsterdam, MO Business Directory"
+type: "towns"
 slug: "amsterdam-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "amsterdam-mo"
 ---

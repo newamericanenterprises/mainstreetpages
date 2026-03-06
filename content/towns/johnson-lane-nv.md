@@ -1,7 +1,7 @@
 ---
-title: "Johnson Lane, Nevada Business Directory"
+title: "Johnson Lane, NV Business Directory"
+type: "towns"
 slug: "johnson-lane-nv"
-state: "NV"
-county: "Douglas"
-population: 6405
+state: "nv"
+town_data: "johnson-lane-nv"
 ---

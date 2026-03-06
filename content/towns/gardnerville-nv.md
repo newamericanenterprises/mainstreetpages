@@ -1,7 +1,7 @@
 ---
-title: "Gardnerville, Nevada Business Directory"
+title: "Gardnerville, NV Business Directory"
+type: "towns"
 slug: "gardnerville-nv"
-state: "NV"
-county: "Douglas"
-population: 6211
+state: "nv"
+town_data: "gardnerville-nv"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sturbridge, Massachusetts Business Directory"
+title: "Sturbridge, MA Business Directory"
+type: "towns"
 slug: "sturbridge-ma"
-town: "Sturbridge"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 3131
+state: "ma"
+town_data: "sturbridge-ma"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Sterling, Michigan Business Directory"
+title: "Sterling, MI Business Directory"
+type: "towns"
 slug: "sterling-mi"
-town: "Sterling"
-state: "Michigan"
-state_abbr: "MI"
-county: "Arenac"
-population: 2002
+state: "mi"
+town_data: "sterling-mi"
 ---

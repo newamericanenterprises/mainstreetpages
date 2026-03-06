@@ -1,9 +1,7 @@
 ---
-title: "Greenvale, Minnesota Business Directory"
+title: "Greenvale, MN Business Directory"
+type: "towns"
 slug: "greenvale-mn"
-town: "Greenvale"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Dakota"
-population: 1942
+state: "mn"
+town_data: "greenvale-mn"
 ---

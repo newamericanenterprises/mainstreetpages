@@ -1,9 +1,7 @@
 ---
-title: "Macy, Indiana Business Directory"
+title: "Macy, IN Business Directory"
+type: "towns"
 slug: "macy-in"
-town: "Macy"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 551
+state: "in"
+town_data: "macy-in"
 ---

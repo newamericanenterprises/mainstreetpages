@@ -1,9 +1,7 @@
 ---
-title: "Carlos, Minnesota Business Directory"
+title: "Carlos, MN Business Directory"
+type: "towns"
 slug: "carlos-mn"
-town: "Carlos"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Douglas"
-population: 2558
+state: "mn"
+town_data: "carlos-mn"
 ---

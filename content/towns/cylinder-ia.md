@@ -1,9 +1,7 @@
 ---
-title: "Cylinder, Iowa Business Directory"
+title: "Cylinder, IA Business Directory"
+type: "towns"
 slug: "cylinder-ia"
-town: "Cylinder"
-state: "Iowa"
-state_abbr: "IA"
-county: "Palo Alto"
-population: 2079
+state: "ia"
+town_data: "cylinder-ia"
 ---

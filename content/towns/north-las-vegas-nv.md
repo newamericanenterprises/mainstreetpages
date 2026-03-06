@@ -1,7 +1,7 @@
 ---
-title: "North Las Vegas, Nevada Business Directory"
+title: "North Las Vegas, NV Business Directory"
+type: "towns"
 slug: "north-las-vegas-nv"
-state: "NV"
-county: "Clark"
-population: 262527
+state: "nv"
+town_data: "north-las-vegas-nv"
 ---

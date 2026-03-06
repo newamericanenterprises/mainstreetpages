@@ -1,7 +1,7 @@
 ---
-title: "Lincoln, Missouri Business Directory"
+title: "Lincoln, MO Business Directory"
+type: "towns"
 slug: "lincoln-mo"
-state: "MO"
-county: "Benton"
-population: 1204
+state: "mo"
+town_data: "lincoln-mo"
 ---

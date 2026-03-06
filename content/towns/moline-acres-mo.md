@@ -1,7 +1,7 @@
 ---
-title: "Moline Acres, Missouri Business Directory"
+title: "Moline Acres, MO Business Directory"
+type: "towns"
 slug: "moline-acres-mo"
-state: "MO"
-county: "St. Louis"
-population: 1500
+state: "mo"
+town_data: "moline-acres-mo"
 ---

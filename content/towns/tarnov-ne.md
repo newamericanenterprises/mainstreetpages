@@ -1,7 +1,7 @@
 ---
-title: "Tarnov, Nebraska Business Directory"
+title: "Tarnov, NE Business Directory"
+type: "towns"
 slug: "tarnov-ne"
-state: "NE"
-county: "Platte"
-population: 500
+state: "ne"
+town_data: "tarnov-ne"
 ---

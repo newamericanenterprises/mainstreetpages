@@ -1,7 +1,7 @@
 ---
-title: "Dodge, Nebraska Business Directory"
+title: "Dodge, NE Business Directory"
+type: "towns"
 slug: "dodge-ne"
-state: "NE"
-county: "Dodge"
-population: 500
+state: "ne"
+town_data: "dodge-ne"
 ---

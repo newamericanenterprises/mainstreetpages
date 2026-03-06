@@ -1,7 +1,7 @@
 ---
-title: "Indian Point, Missouri Business Directory"
+title: "Indian Point, MO Business Directory"
+type: "towns"
 slug: "indian-point-mo"
-state: "MO"
-county: "Stone"
-population: 1500
+state: "mo"
+town_data: "indian-point-mo"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Kingman, Kansas Business Directory"
+title: "Kingman, KS Business Directory"
+type: "towns"
 slug: "kingman-ks"
-town: "Kingman"
-state: "Kansas"
-state_abbr: "KS"
-county: "Kingman"
-population: 2952
+state: "ks"
+town_data: "kingman-ks"
 ---

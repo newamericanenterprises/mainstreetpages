@@ -1,9 +1,7 @@
 ---
-title: "Oslo, Minnesota Business Directory"
+title: "Oslo, MN Business Directory"
+type: "towns"
 slug: "oslo-mn"
-town: "Oslo"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Marshall"
-population: 2232
+state: "mn"
+town_data: "oslo-mn"
 ---

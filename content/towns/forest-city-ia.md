@@ -1,9 +1,7 @@
 ---
-title: "Forest City, Iowa Business Directory"
+title: "Forest City, IA Business Directory"
+type: "towns"
 slug: "forest-city-ia"
-town: "Forest City"
-state: "Iowa"
-state_abbr: "IA"
-county: "Winnebago"
-population: 4151
+state: "ia"
+town_data: "forest-city-ia"
 ---

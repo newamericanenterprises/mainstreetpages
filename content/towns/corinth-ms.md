@@ -1,7 +1,7 @@
 ---
-title: "Corinth, Mississippi Business Directory"
+title: "Corinth, MS Business Directory"
+type: "towns"
 slug: "corinth-ms"
-state: "MS"
-county: "Alcorn"
-population: 14573
+state: "ms"
+town_data: "corinth-ms"
 ---

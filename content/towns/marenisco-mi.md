@@ -1,9 +1,7 @@
 ---
-title: "Marenisco, Michigan Business Directory"
+title: "Marenisco, MI Business Directory"
+type: "towns"
 slug: "marenisco-mi"
-town: "Marenisco"
-state: "Michigan"
-state_abbr: "MI"
-county: "Gogebic"
-population: 4012
+state: "mi"
+town_data: "marenisco-mi"
 ---

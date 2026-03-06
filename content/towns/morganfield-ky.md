@@ -1,9 +1,7 @@
 ---
-title: "Morganfield, Kentucky Business Directory"
+title: "Morganfield, KY Business Directory"
+type: "towns"
 slug: "morganfield-ky"
-town: "Morganfield"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Union"
-population: 3285
+state: "ky"
+town_data: "morganfield-ky"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Everest, Kansas Business Directory"
+title: "Everest, KS Business Directory"
+type: "towns"
 slug: "everest-ks"
-town: "Everest"
-state: "Kansas"
-state_abbr: "KS"
-county: "Brown"
-population: 1506
+state: "ks"
+town_data: "everest-ks"
 ---

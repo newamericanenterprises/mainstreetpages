@@ -1,9 +1,7 @@
 ---
-title: "Dahlgren, Minnesota Business Directory"
+title: "Dahlgren, MN Business Directory"
+type: "towns"
 slug: "dahlgren-mn"
-town: "Dahlgren"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Carver"
-population: 1716
+state: "mn"
+town_data: "dahlgren-mn"
 ---

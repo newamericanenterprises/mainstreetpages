@@ -1,9 +1,7 @@
 ---
-title: "Odenton, Maryland Business Directory"
+title: "Odenton, MD Business Directory"
+type: "towns"
 slug: "odenton-md"
-town: "Odenton"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 42258
+state: "md"
+town_data: "odenton-md"
 ---

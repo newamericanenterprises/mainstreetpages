@@ -1,7 +1,7 @@
 ---
-title: "Deer Lodge, Montana Business Directory"
+title: "Deer Lodge, MT Business Directory"
+type: "towns"
 slug: "deer-lodge-mt"
-state: "MT"
-county: "Powell"
-population: 2879
+state: "mt"
+town_data: "deer-lodge-mt"
 ---

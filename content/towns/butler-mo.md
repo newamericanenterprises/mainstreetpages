@@ -1,7 +1,7 @@
 ---
-title: "Butler, Missouri Business Directory"
+title: "Butler, MO Business Directory"
+type: "towns"
 slug: "butler-mo"
-state: "MO"
-county: "Bates"
-population: 1500
+state: "mo"
+town_data: "butler-mo"
 ---

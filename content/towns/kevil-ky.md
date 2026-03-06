@@ -1,9 +1,7 @@
 ---
-title: "Kevil, Kentucky Business Directory"
+title: "Kevil, KY Business Directory"
+type: "towns"
 slug: "kevil-ky"
-town: "Kevil"
-state: "Kentucky"
-state_abbr: "KY"
-county: "Ballard"
-population: 3134
+state: "ky"
+town_data: "kevil-ky"
 ---

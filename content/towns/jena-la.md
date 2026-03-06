@@ -1,9 +1,7 @@
 ---
-title: "Jena, Louisiana Business Directory"
+title: "Jena, LA Business Directory"
+type: "towns"
 slug: "jena-la"
-town: "Jena"
-state: "Louisiana"
-state_abbr: "LA"
-county: "LaSalle"
-population: 3398
+state: "la"
+town_data: "jena-la"
 ---

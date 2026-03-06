@@ -1,7 +1,7 @@
 ---
-title: "Mendenhall, Mississippi Business Directory"
+title: "Mendenhall, MS Business Directory"
+type: "towns"
 slug: "mendenhall-ms"
-state: "MS"
-county: "Simpson"
-population: 2547
+state: "ms"
+town_data: "mendenhall-ms"
 ---

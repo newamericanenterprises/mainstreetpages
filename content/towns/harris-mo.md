@@ -1,7 +1,7 @@
 ---
-title: "Harris, Missouri Business Directory"
+title: "Harris, MO Business Directory"
+type: "towns"
 slug: "harris-mo"
-state: "MO"
-county: "Sullivan"
-population: 1500
+state: "mo"
+town_data: "harris-mo"
 ---

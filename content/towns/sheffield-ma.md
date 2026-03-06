@@ -1,9 +1,7 @@
 ---
-title: "Sheffield, Massachusetts Business Directory"
+title: "Sheffield, MA Business Directory"
+type: "towns"
 slug: "sheffield-ma"
-town: "Sheffield"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Berkshire"
-population: 6599
+state: "ma"
+town_data: "sheffield-ma"
 ---

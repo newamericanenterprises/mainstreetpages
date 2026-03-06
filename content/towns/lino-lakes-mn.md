@@ -1,9 +1,7 @@
 ---
-title: "Lino Lakes, Minnesota Business Directory"
+title: "Lino Lakes, MN Business Directory"
+type: "towns"
 slug: "lino-lakes-mn"
-town: "Lino Lakes"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Anoka"
-population: 2553
+state: "mn"
+town_data: "lino-lakes-mn"
 ---

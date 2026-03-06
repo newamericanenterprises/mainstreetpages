@@ -1,9 +1,7 @@
 ---
-title: "Pella, Iowa Business Directory"
+title: "Pella, IA Business Directory"
+type: "towns"
 slug: "pella-ia"
-town: "Pella"
-state: "Iowa"
-state_abbr: "IA"
-county: "Marion"
-population: 10352
+state: "ia"
+town_data: "pella-ia"
 ---

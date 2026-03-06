@@ -1,7 +1,7 @@
 ---
-title: "Taylor, Nebraska Business Directory"
+title: "Taylor, NE Business Directory"
+type: "towns"
 slug: "taylor-ne"
-state: "NE"
-county: "Loup"
-population: 500
+state: "ne"
+town_data: "taylor-ne"
 ---

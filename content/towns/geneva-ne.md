@@ -1,7 +1,7 @@
 ---
-title: "Geneva, Nebraska Business Directory"
+title: "Geneva, NE Business Directory"
+type: "towns"
 slug: "geneva-ne"
-state: "NE"
-county: "Fillmore"
-population: 2172
+state: "ne"
+town_data: "geneva-ne"
 ---

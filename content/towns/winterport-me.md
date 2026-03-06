@@ -1,9 +1,7 @@
 ---
-title: "Winterport, Maine Business Directory"
+title: "Winterport, ME Business Directory"
+type: "towns"
 slug: "winterport-me"
-town: "Winterport"
-state: "Maine"
-state_abbr: "ME"
-county: "Waldo"
-population: 1879
+state: "me"
+town_data: "winterport-me"
 ---

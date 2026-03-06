@@ -1,7 +1,7 @@
 ---
-title: "Martinsville, Missouri Business Directory"
+title: "Martinsville, MO Business Directory"
+type: "towns"
 slug: "martinsville-mo"
-state: "MO"
-county: "Harrison"
-population: 1500
+state: "mo"
+town_data: "martinsville-mo"
 ---

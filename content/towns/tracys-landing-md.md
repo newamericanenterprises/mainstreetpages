@@ -1,9 +1,7 @@
 ---
-title: "Tracys Landing, Maryland Business Directory"
+title: "Tracys Landing, MD Business Directory"
+type: "towns"
 slug: "tracys-landing-md"
-town: "Tracys Landing"
-state: "Maryland"
-state_abbr: "MD"
-county: "Anne Arundel"
-population: 2809
+state: "md"
+town_data: "tracys-landing-md"
 ---

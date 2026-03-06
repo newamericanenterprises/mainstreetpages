@@ -1,9 +1,7 @@
 ---
-title: "Bloomfield Hills, Michigan Business Directory"
+title: "Bloomfield Hills, MI Business Directory"
+type: "towns"
 slug: "bloomfield-hills-mi"
-town: "Bloomfield Hills"
-state: "Michigan"
-state_abbr: "MI"
-county: "Oakland"
-population: 4104
+state: "mi"
+town_data: "bloomfield-hills-mi"
 ---

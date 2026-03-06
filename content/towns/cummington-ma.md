@@ -1,9 +1,7 @@
 ---
-title: "Cummington, Massachusetts Business Directory"
+title: "Cummington, MA Business Directory"
+type: "towns"
 slug: "cummington-ma"
-town: "Cummington"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Hampshire"
-population: 2773
+state: "ma"
+town_data: "cummington-ma"
 ---

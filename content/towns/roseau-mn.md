@@ -1,9 +1,7 @@
 ---
-title: "Roseau, Minnesota Business Directory"
+title: "Roseau, MN Business Directory"
+type: "towns"
 slug: "roseau-mn"
-town: "Roseau"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Roseau"
-population: 1905
+state: "mn"
+town_data: "roseau-mn"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Cromwell, Iowa Business Directory"
+title: "Cromwell, IA Business Directory"
+type: "towns"
 slug: "cromwell-ia"
-town: "Cromwell"
-state: "Iowa"
-state_abbr: "IA"
-county: "Union"
-population: 1243
+state: "ia"
+town_data: "cromwell-ia"
 ---

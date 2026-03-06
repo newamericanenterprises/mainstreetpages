@@ -1,9 +1,7 @@
 ---
-title: "Converse, Indiana Business Directory"
+title: "Converse, IN Business Directory"
+type: "towns"
 slug: "converse-in"
-town: "Converse"
-state: "Indiana"
-state_abbr: "IN"
-county: "Miami"
-population: 2422
+state: "in"
+town_data: "converse-in"
 ---

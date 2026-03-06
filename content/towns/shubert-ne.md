@@ -1,7 +1,7 @@
 ---
-title: "Shubert, Nebraska Business Directory"
+title: "Shubert, NE Business Directory"
+type: "towns"
 slug: "shubert-ne"
-state: "NE"
-county: "Richardson"
-population: 500
+state: "ne"
+town_data: "shubert-ne"
 ---

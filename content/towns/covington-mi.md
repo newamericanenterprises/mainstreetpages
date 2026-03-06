@@ -1,9 +1,7 @@
 ---
-title: "Covington, Michigan Business Directory"
+title: "Covington, MI Business Directory"
+type: "towns"
 slug: "covington-mi"
-town: "Covington"
-state: "Michigan"
-state_abbr: "MI"
-county: "Baraga"
-population: 5304
+state: "mi"
+town_data: "covington-mi"
 ---

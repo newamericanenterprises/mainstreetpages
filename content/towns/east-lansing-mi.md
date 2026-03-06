@@ -1,9 +1,7 @@
 ---
-title: "East Lansing, Michigan Business Directory"
+title: "East Lansing, MI Business Directory"
+type: "towns"
 slug: "east-lansing-mi"
-town: "East Lansing"
-state: "Michigan"
-state_abbr: "MI"
-county: "Ingham"
-population: 48437
+state: "mi"
+town_data: "east-lansing-mi"
 ---

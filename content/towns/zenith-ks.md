@@ -1,9 +1,7 @@
 ---
-title: "Zenith, Kansas Business Directory"
+title: "Zenith, KS Business Directory"
+type: "towns"
 slug: "zenith-ks"
-town: "Zenith"
-state: "Kansas"
-state_abbr: "KS"
-county: "Stafford"
-population: 3248
+state: "ks"
+town_data: "zenith-ks"
 ---

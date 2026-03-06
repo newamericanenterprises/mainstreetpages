@@ -1,9 +1,7 @@
 ---
-title: "Alamo, Michigan Business Directory"
+title: "Alamo, MI Business Directory"
+type: "towns"
 slug: "alamo-mi"
-town: "Alamo"
-state: "Michigan"
-state_abbr: "MI"
-county: "Kalamazoo"
-population: 758
+state: "mi"
+town_data: "alamo-mi"
 ---

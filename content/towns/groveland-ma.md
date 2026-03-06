@@ -1,9 +1,7 @@
 ---
-title: "Groveland, Massachusetts Business Directory"
+title: "Groveland, MA Business Directory"
+type: "towns"
 slug: "groveland-ma"
-town: "Groveland"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Essex"
-population: 2511
+state: "ma"
+town_data: "groveland-ma"
 ---

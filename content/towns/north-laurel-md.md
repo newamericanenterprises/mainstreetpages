@@ -1,9 +1,7 @@
 ---
-title: "North Laurel, Maryland Business Directory"
+title: "North Laurel, MD Business Directory"
+type: "towns"
 slug: "north-laurel-md"
-town: "North Laurel"
-state: "Maryland"
-state_abbr: "MD"
-county: "Howard"
-population: 5318
+state: "md"
+town_data: "north-laurel-md"
 ---

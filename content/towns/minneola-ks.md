@@ -1,9 +1,7 @@
 ---
-title: "Minneola, Kansas Business Directory"
+title: "Minneola, KS Business Directory"
+type: "towns"
 slug: "minneola-ks"
-town: "Minneola"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clark"
-population: 2301
+state: "ks"
+town_data: "minneola-ks"
 ---

@@ -1,9 +1,7 @@
 ---
-title: "Green, Kansas Business Directory"
+title: "Green, KS Business Directory"
+type: "towns"
 slug: "green-ks"
-town: "Green"
-state: "Kansas"
-state_abbr: "KS"
-county: "Clay"
-population: 614
+state: "ks"
+town_data: "green-ks"
 ---

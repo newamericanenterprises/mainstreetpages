@@ -1,9 +1,7 @@
 ---
-title: "Sault Ste. Marie, Michigan Business Directory"
+title: "Sault Ste. Marie, MI Business Directory"
+type: "towns"
 slug: "sault-ste-marie-mi"
-town: "Sault Ste. Marie"
-state: "Michigan"
-state_abbr: "MI"
-county: "Chippewa"
-population: 13752
+state: "mi"
+town_data: "sault-ste-marie-mi"
 ---

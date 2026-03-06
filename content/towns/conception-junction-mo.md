@@ -1,7 +1,7 @@
 ---
-title: "Conception Junction, Missouri Business Directory"
+title: "Conception Junction, MO Business Directory"
+type: "towns"
 slug: "conception-junction-mo"
-state: "MO"
-county: "Nodaway"
-population: 1500
+state: "mo"
+town_data: "conception-junction-mo"
 ---

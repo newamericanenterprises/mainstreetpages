@@ -1,9 +1,7 @@
 ---
-title: "Squaw Lake, Minnesota Business Directory"
+title: "Squaw Lake, MN Business Directory"
+type: "towns"
 slug: "squaw-lake-mn"
-town: "Squaw Lake"
-state: "Minnesota"
-state_abbr: "MN"
-county: "Itasca"
-population: 868
+state: "mn"
+town_data: "squaw-lake-mn"
 ---

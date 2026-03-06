@@ -1,9 +1,7 @@
 ---
-title: "Westborough, Massachusetts Business Directory"
+title: "Westborough, MA Business Directory"
+type: "towns"
 slug: "westborough-ma"
-town: "Westborough"
-state: "Massachusetts"
-state_abbr: "MA"
-county: "Worcester"
-population: 19539
+state: "ma"
+town_data: "westborough-ma"
 ---

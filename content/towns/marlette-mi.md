@@ -1,9 +1,7 @@
 ---
-title: "Marlette, Michigan Business Directory"
+title: "Marlette, MI Business Directory"
+type: "towns"
 slug: "marlette-mi"
-town: "Marlette"
-state: "Michigan"
-state_abbr: "MI"
-county: "Sanilac"
-population: 2125
+state: "mi"
+town_data: "marlette-mi"
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Ekalaka, Montana Business Directory"
+title: "Ekalaka, MT Business Directory"
+type: "towns"
 slug: "ekalaka-mt"
-state: "MT"
-county: "Carter"
-population: 332
+state: "mt"
+town_data: "ekalaka-mt"
 ---
