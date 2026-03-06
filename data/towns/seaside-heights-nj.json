@@ -2,7 +2,7 @@
   "name": "Seaside Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 2440,
   "slug": "seaside-heights-nj",
   "businesses": [

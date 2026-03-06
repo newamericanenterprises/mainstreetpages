@@ -2,7 +2,7 @@
   "name": "Leonia",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 9304,
   "slug": "leonia-nj",
   "businesses": [

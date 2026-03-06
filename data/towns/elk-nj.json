@@ -2,7 +2,7 @@
   "name": "Elk",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": null,
   "slug": "elk-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "South Plainfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 22795,
   "slug": "south-plainfield-nj",
   "businesses": [

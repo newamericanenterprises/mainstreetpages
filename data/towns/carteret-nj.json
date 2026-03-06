@@ -2,7 +2,7 @@
   "name": "Carteret",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 22264,
   "slug": "carteret-nj",
   "businesses": [

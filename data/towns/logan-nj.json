@@ -2,7 +2,7 @@
   "name": "Logan",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": null,
   "slug": "logan-nj",
   "businesses": [

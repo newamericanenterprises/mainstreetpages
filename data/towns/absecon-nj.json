@@ -2,7 +2,7 @@
   "name": "Absecon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 8065,
   "slug": "absecon-nj",
   "businesses": [

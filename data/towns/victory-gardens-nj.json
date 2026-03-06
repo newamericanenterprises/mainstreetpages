@@ -2,7 +2,7 @@
   "name": "Victory Gardens",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 1523,
   "slug": "victory-gardens-nj",
   "businesses": []

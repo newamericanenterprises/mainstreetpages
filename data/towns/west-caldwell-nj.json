@@ -2,7 +2,7 @@
   "name": "West Caldwell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 10797,
   "slug": "west-caldwell-nj",
   "businesses": [

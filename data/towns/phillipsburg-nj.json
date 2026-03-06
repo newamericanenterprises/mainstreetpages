@@ -2,7 +2,7 @@
   "name": "Phillipsburg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 14831,
   "slug": "phillipsburg-nj",
   "businesses": [

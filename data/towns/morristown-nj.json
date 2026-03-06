@@ -2,7 +2,7 @@
   "name": "Morristown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 19122,
   "slug": "morristown-nj",
   "businesses": [

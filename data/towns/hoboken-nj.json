@@ -2,7 +2,7 @@
   "name": "Hoboken",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 39853,
   "slug": "hoboken-nj",
   "businesses": [

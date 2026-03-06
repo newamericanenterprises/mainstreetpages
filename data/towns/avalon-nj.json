@@ -2,7 +2,7 @@
   "name": "Avalon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 2125,
   "slug": "avalon-nj",
   "businesses": [

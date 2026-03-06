@@ -2,7 +2,7 @@
   "name": "Milltown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 7038,
   "slug": "milltown-nj",
   "businesses": [

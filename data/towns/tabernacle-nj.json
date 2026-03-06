@@ -2,7 +2,7 @@
   "name": "Tabernacle",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 7337,
   "slug": "tabernacle-nj",
   "businesses": [

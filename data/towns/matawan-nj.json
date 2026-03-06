@@ -2,7 +2,7 @@
   "name": "Matawan",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 8781,
   "slug": "matawan-nj",
   "businesses": [

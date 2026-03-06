@@ -2,7 +2,7 @@
   "name": "Gloucester",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 11482,
   "slug": "gloucester-nj",
   "businesses": [

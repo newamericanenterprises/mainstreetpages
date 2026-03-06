@@ -2,7 +2,7 @@
   "name": "Millstone",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 431,
   "slug": "millstone-nj",
   "businesses": [

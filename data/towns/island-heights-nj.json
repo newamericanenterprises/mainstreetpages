@@ -2,7 +2,7 @@
   "name": "Island Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1650,
   "slug": "island-heights-nj",
   "businesses": [

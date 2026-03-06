@@ -2,7 +2,7 @@
   "name": "Dover",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 18387,
   "slug": "dover-nj",
   "businesses": [

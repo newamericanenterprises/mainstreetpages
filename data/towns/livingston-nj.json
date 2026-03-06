@@ -2,7 +2,7 @@
   "name": "Livingston",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 28413,
   "slug": "livingston-nj",
   "businesses": [

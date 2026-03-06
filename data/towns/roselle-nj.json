@@ -2,7 +2,7 @@
   "name": "Roselle",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 21158,
   "slug": "roselle-nj",
   "businesses": [

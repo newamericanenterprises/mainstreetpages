@@ -2,7 +2,7 @@
   "name": "Haworth",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 3433,
   "slug": "haworth-nj",
   "businesses": [

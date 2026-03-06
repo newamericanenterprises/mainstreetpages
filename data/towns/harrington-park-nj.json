@@ -2,7 +2,7 @@
   "name": "Harrington Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 4916,
   "slug": "harrington-park-nj",
   "businesses": [

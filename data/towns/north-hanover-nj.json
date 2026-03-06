@@ -2,7 +2,7 @@
   "name": "North Hanover",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 7963,
   "slug": "north-hanover-nj",
   "businesses": [

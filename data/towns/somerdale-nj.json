@@ -2,7 +2,7 @@
   "name": "Somerdale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 5123,
   "slug": "somerdale-nj",
   "businesses": [

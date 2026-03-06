@@ -2,7 +2,7 @@
   "name": "Garfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 29644,
   "slug": "garfield-nj",
   "businesses": [

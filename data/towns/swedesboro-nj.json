@@ -2,7 +2,7 @@
   "name": "Swedesboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 2043,
   "slug": "swedesboro-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Oradell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 7957,
   "slug": "oradell-nj",
   "businesses": [

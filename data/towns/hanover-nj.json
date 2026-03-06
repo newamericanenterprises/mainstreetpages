@@ -2,7 +2,7 @@
   "name": "Hanover",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 13737,
   "slug": "hanover-nj",
   "businesses": [

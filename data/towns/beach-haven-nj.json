@@ -2,7 +2,7 @@
   "name": "Beach Haven",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1191,
   "slug": "beach-haven-nj",
   "businesses": [

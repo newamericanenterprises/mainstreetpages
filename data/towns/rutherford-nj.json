@@ -2,7 +2,7 @@
   "name": "Rutherford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 17871,
   "slug": "rutherford-nj",
   "businesses": [

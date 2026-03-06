@@ -2,7 +2,7 @@
   "name": "Wall",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 26164,
   "slug": "wall-nj",
   "businesses": [

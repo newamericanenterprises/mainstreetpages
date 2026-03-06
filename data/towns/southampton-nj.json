@@ -2,7 +2,7 @@
   "name": "Southampton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 10317,
   "slug": "southampton-nj",
   "businesses": [

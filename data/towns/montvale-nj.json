@@ -2,7 +2,7 @@
   "name": "Montvale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 7308,
   "slug": "montvale-nj",
   "businesses": [

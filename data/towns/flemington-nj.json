@@ -2,7 +2,7 @@
   "name": "Flemington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 4267,
   "slug": "flemington-nj",
   "businesses": [

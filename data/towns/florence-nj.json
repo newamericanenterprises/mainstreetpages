@@ -2,7 +2,7 @@
   "name": "Florence",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 11637,
   "slug": "florence-nj",
   "businesses": [

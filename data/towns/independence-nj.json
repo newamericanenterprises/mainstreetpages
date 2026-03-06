@@ -2,7 +2,7 @@
   "name": "Independence",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": null,
   "slug": "independence-nj",
   "businesses": [

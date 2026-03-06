@@ -2,7 +2,7 @@
   "name": "Clinton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 2605,
   "slug": "clinton-nj",
   "businesses": [

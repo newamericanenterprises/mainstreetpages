@@ -2,7 +2,7 @@
   "name": "Audubon Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 1071,
   "slug": "audubon-park-nj",
   "businesses": []

@@ -2,7 +2,7 @@
   "name": "Lyndhurst",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 19732,
   "slug": "lyndhurst-nj",
   "businesses": [

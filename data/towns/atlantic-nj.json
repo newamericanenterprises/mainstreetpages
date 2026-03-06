@@ -2,7 +2,7 @@
   "name": "Atlantic",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 39958,
   "slug": "atlantic-nj",
   "businesses": [

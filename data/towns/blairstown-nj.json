@@ -2,7 +2,7 @@
   "name": "Blairstown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 5982,
   "slug": "blairstown-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Camden",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 77344,
   "slug": "camden-nj",
   "businesses": [

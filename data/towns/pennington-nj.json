@@ -2,7 +2,7 @@
   "name": "Pennington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 2688,
   "slug": "pennington-nj",
   "businesses": [

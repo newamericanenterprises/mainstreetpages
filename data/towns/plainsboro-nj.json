@@ -2,7 +2,7 @@
   "name": "Plainsboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 21213,
   "slug": "plainsboro-nj",
   "businesses": [

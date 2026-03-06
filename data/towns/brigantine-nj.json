@@ -2,7 +2,7 @@
   "name": "Brigantine",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 12886,
   "slug": "brigantine-nj",
   "businesses": [

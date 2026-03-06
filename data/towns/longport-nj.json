@@ -2,7 +2,7 @@
   "name": "Longport",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 876,
   "slug": "longport-nj",
   "businesses": [

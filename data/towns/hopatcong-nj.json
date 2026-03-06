@@ -2,7 +2,7 @@
   "name": "Hopatcong",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 15884,
   "slug": "hopatcong-nj",
   "businesses": [

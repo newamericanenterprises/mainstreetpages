@@ -2,7 +2,7 @@
   "name": "Gibbsboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 2451,
   "slug": "gibbsboro-nj",
   "businesses": [

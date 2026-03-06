@@ -2,7 +2,7 @@
   "name": "Laurel Springs",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 1923,
   "slug": "laurel-springs-nj",
   "businesses": [

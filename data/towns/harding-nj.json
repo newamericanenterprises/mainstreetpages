@@ -2,7 +2,7 @@
   "name": "Harding",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": null,
   "slug": "harding-nj",
   "businesses": [

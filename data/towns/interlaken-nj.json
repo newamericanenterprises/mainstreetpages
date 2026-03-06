@@ -2,7 +2,7 @@
   "name": "Interlaken",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 881,
   "slug": "interlaken-nj",
   "businesses": [

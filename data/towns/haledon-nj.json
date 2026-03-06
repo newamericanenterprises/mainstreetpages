@@ -2,7 +2,7 @@
   "name": "Haledon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 8358,
   "slug": "haledon-nj",
   "businesses": [

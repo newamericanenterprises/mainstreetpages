@@ -2,7 +2,7 @@
   "name": "Stanhope",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 3666,
   "slug": "stanhope-nj",
   "businesses": [

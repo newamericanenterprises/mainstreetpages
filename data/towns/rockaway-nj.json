@@ -2,7 +2,7 @@
   "name": "Rockaway",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 6410,
   "slug": "rockaway-nj",
   "businesses": [

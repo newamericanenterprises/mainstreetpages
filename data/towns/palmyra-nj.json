@@ -2,7 +2,7 @@
   "name": "Palmyra",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 7598,
   "slug": "palmyra-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Mountain Lakes",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 4343,
   "slug": "mountain-lakes-nj",
   "businesses": [

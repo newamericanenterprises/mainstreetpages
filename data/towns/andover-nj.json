@@ -2,7 +2,7 @@
   "name": "Andover",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 654,
   "slug": "andover-nj",
   "businesses": [

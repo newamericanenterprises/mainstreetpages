@@ -2,7 +2,7 @@
   "name": "Tinton Falls",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 17082,
   "slug": "tinton-falls-nj",
   "businesses": [

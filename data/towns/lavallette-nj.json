@@ -2,7 +2,7 @@
   "name": "Lavallette",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1787,
   "slug": "lavallette-nj",
   "businesses": [

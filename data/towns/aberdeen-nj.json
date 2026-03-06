@@ -2,7 +2,7 @@
   "name": "Aberdeen",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 18210,
   "slug": "aberdeen-nj",
   "businesses": [

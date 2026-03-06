@@ -2,7 +2,7 @@
   "name": "Bridgewater",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 44464,
   "slug": "bridgewater-nj",
   "businesses": [

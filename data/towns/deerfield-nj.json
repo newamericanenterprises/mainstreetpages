@@ -2,7 +2,7 @@
   "name": "Deerfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": null,
   "slug": "deerfield-nj",
   "businesses": [

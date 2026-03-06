@@ -2,7 +2,7 @@
   "name": "Englishtown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1841,
   "slug": "englishtown-nj",
   "businesses": [

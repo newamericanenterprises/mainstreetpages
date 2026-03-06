@@ -2,7 +2,7 @@
   "name": "Glen Rock",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 11396,
   "slug": "glen-rock-nj",
   "businesses": [

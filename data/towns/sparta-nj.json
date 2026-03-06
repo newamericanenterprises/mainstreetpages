@@ -2,7 +2,7 @@
   "name": "Sparta",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 19348,
   "slug": "sparta-nj",
   "businesses": [

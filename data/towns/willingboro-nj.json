@@ -2,7 +2,7 @@
   "name": "Willingboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 33045,
   "slug": "willingboro-nj",
   "businesses": [

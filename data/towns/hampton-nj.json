@@ -2,7 +2,7 @@
   "name": "Hampton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 1658,
   "slug": "hampton-nj",
   "businesses": [

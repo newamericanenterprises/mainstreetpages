@@ -2,7 +2,7 @@
   "name": "Beverly",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 2651,
   "slug": "beverly-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Tavistock",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 26,
   "slug": "tavistock-nj",
   "businesses": []

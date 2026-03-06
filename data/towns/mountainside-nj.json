@@ -2,7 +2,7 @@
   "name": "Mountainside",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 6644,
   "slug": "mountainside-nj",
   "businesses": [

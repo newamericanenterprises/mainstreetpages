@@ -2,7 +2,7 @@
   "name": "Bound Brook",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 10225,
   "slug": "bound-brook-nj",
   "businesses": [

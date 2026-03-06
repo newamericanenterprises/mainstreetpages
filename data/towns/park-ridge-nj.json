@@ -2,7 +2,7 @@
   "name": "Park Ridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 8945,
   "slug": "park-ridge-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Clark",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 14650,
   "slug": "clark-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Evesham",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "evesham-nj",
   "businesses": [

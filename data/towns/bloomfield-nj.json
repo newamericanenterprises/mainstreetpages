@@ -2,7 +2,7 @@
   "name": "Bloomfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 45372,
   "slug": "bloomfield-nj",
   "businesses": [

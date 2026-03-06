@@ -2,7 +2,7 @@
   "name": "Princeton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 13684,
   "slug": "princeton-nj",
   "businesses": [

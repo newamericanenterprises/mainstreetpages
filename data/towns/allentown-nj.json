@@ -2,7 +2,7 @@
   "name": "Allentown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1847,
   "slug": "allentown-nj",
   "businesses": [

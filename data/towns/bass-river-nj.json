@@ -2,7 +2,7 @@
   "name": "Bass River",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 1570,
   "slug": "bass-river-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Madison",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 16016,
   "slug": "madison-nj",
   "businesses": [

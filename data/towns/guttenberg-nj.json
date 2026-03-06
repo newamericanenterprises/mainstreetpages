@@ -2,7 +2,7 @@
   "name": "Guttenberg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 10717,
   "slug": "guttenberg-nj",
   "businesses": [

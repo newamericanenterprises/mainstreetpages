@@ -2,7 +2,7 @@
   "name": "National Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 3215,
   "slug": "national-park-nj",
   "businesses": [

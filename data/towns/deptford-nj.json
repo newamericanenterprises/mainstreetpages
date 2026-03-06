@@ -2,7 +2,7 @@
   "name": "Deptford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 30561,
   "slug": "deptford-nj",
   "businesses": [

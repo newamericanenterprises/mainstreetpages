@@ -2,7 +2,7 @@
   "name": "North Haledon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 9039,
   "slug": "north-haledon-nj",
   "businesses": [

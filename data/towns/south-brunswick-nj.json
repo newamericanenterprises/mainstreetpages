@@ -2,7 +2,7 @@
   "name": "South Brunswick",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 47043,
   "slug": "south-brunswick-nj",
   "businesses": [

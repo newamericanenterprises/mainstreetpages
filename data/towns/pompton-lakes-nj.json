@@ -2,7 +2,7 @@
   "name": "Pompton Lakes",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 11243,
   "slug": "pompton-lakes-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "West Amwell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 3840,
   "slug": "west-amwell-nj",
   "businesses": [

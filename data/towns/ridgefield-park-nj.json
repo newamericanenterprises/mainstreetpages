@@ -2,7 +2,7 @@
   "name": "Ridgefield Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 12665,
   "slug": "ridgefield-park-nj",
   "businesses": [

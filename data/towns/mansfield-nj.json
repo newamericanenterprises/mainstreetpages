@@ -2,7 +2,7 @@
   "name": "Mansfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 8047,
   "slug": "mansfield-nj",
   "businesses": [

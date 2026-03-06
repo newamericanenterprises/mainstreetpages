@@ -2,7 +2,7 @@
   "name": "Keansburg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 10573,
   "slug": "keansburg-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Lodi",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 24310,
   "slug": "lodi-nj",
   "businesses": [

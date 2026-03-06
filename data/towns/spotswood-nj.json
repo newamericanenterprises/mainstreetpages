@@ -2,7 +2,7 @@
   "name": "Spotswood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 8179,
   "slug": "spotswood-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Buena",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 3804,
   "slug": "buena-nj",
   "businesses": [

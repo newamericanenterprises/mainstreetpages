@@ -2,7 +2,7 @@
   "name": "Berlin",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 7910,
   "slug": "berlin-nj",
   "businesses": [

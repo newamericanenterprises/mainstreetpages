@@ -2,7 +2,7 @@
   "name": "Bayonne",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 58844,
   "slug": "bayonne-nj",
   "businesses": [

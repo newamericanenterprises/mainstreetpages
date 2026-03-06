@@ -2,7 +2,7 @@
   "name": "West New York",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 49708,
   "slug": "west-new-york-nj",
   "businesses": [

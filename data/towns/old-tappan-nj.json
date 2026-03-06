@@ -2,7 +2,7 @@
   "name": "Old Tappan",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 6013,
   "slug": "old-tappan-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Ship Bottom",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1156,
   "slug": "ship-bottom-nj",
   "businesses": [

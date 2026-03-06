@@ -2,7 +2,7 @@
   "name": "Lambertville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 3808,
   "slug": "lambertville-nj",
   "businesses": [

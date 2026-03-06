@@ -2,7 +2,7 @@
   "name": "Upper",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 12373,
   "slug": "upper-nj",
   "businesses": [

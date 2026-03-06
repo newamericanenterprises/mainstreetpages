@@ -2,7 +2,7 @@
   "name": "Wanaque",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 11171,
   "slug": "wanaque-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Pequannock",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 16320,
   "slug": "pequannock-nj",
   "businesses": [

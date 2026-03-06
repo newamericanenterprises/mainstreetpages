@@ -2,7 +2,7 @@
   "name": "Salem",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Salem",
   "population": 5784,
   "slug": "salem-nj",
   "businesses": [

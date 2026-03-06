@@ -2,7 +2,7 @@
   "name": "River Edge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 10862,
   "slug": "river-edge-nj",
   "businesses": [

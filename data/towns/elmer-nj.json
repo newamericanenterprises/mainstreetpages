@@ -2,7 +2,7 @@
   "name": "Elmer",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Salem",
   "population": 1370,
   "slug": "elmer-nj",
   "businesses": [

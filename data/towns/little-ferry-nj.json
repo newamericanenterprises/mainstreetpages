@@ -2,7 +2,7 @@
   "name": "Little Ferry",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 10715,
   "slug": "little-ferry-nj",
   "businesses": [

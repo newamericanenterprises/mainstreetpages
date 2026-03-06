@@ -2,7 +2,7 @@
   "name": "Elizabeth",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 126179,
   "slug": "elizabeth-nj",
   "businesses": [

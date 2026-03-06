@@ -2,7 +2,7 @@
   "name": "Farmingdale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1563,
   "slug": "farmingdale-nj",
   "businesses": [

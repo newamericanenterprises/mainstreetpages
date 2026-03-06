@@ -2,7 +2,7 @@
   "name": "Lake Como",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": null,
   "slug": "lake-como-nj",
   "businesses": [

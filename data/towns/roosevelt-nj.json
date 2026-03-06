@@ -2,7 +2,7 @@
   "name": "Roosevelt",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 913,
   "slug": "roosevelt-nj",
   "businesses": [

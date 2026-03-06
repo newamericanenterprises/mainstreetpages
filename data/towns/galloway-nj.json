@@ -2,7 +2,7 @@
   "name": "Galloway",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 37349,
   "slug": "galloway-nj",
   "businesses": [

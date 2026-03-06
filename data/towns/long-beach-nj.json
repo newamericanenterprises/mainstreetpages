@@ -2,7 +2,7 @@
   "name": "Long Beach",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 3498,
   "slug": "long-beach-nj",
   "businesses": [

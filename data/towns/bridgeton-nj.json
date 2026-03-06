@@ -2,7 +2,7 @@
   "name": "Bridgeton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 24389,
   "slug": "bridgeton-nj",
   "businesses": [

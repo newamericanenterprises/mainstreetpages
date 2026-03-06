@@ -2,7 +2,7 @@
   "name": "Moonachie",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 2797,
   "slug": "moonachie-nj",
   "businesses": [

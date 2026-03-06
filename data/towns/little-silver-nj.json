@@ -2,7 +2,7 @@
   "name": "Little Silver",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 6131,
   "slug": "little-silver-nj",
   "businesses": [

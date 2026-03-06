@@ -2,7 +2,7 @@
   "name": "Middletown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 66807,
   "slug": "middletown-nj",
   "businesses": [

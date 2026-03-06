@@ -1,0 +1,179 @@
+{{ define "main" }}
+{{ $state := .Params.state }}
+{{ $stateName := .Params.state_name }}
+
+{{/* Collect all towns for this state and group by county */}}
+{{ $townsByCounty := dict }}
+{{ $totalTowns := 0 }}
+{{ $totalBusinesses := 0 }}
+
+{{ range $key, $town := .Site.Data.towns }}
+  {{ if eq (lower $town.state_abbr) $state }}
+    {{ $totalTowns = add $totalTowns 1 }}
+    {{ $totalBusinesses = add $totalBusinesses (len $town.businesses) }}
+    {{ $county := $town.county | default "Other" }}
+    {{ $existing := index $townsByCounty $county | default slice }}
+    {{ $townsByCounty = merge $townsByCounty (dict $county ($existing | append $town)) }}
+  {{ end }}
+{{ end }}
+
+<div class="state-page">
+  <header class="state-header">
+    <h1>{{ $stateName }} Business Directory</h1>
+    <div class="state-meta">
+      <span class="meta-item"><strong>{{ $totalTowns }}</strong> Towns</span>
+      <span class="meta-item"><strong>{{ $totalBusinesses | lang.FormatNumber 0 }}</strong> Businesses</span>
+      <span class="meta-item"><strong>{{ len $townsByCounty }}</strong> Counties</span>
+    </div>
+  </header>
+
+  <nav class="county-nav">
+    <h2>Jump to County</h2>
+    <div class="county-links">
+      {{ range $county, $towns := $townsByCounty }}
+      <a href="#{{ $county | urlize }}">{{ $county }} ({{ len $towns }})</a>
+      {{ end }}
+    </div>
+  </nav>
+
+  <div class="counties-list">
+    {{ range $county, $towns := $townsByCounty }}
+    <section class="county-section" id="{{ $county | urlize }}">
+      <h2 class="county-name">{{ $county }} County</h2>
+      <p class="county-stats">{{ len $towns }} towns</p>
+      <div class="towns-grid">
+        {{ range sort $towns "name" }}
+        <a href="/towns/{{ .slug }}/" class="town-link">
+          <span class="town-name">{{ .name }}</span>
+          <span class="business-count">{{ len .businesses }} businesses</span>
+        </a>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </div>
+</div>
+
+<style>
+.state-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.state-header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.state-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.state-meta {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.state-meta .meta-item {
+  background: #f5f5f5;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+}
+
+.county-nav {
+  background: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.county-nav h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.county-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.county-links a {
+  background: #fff;
+  padding: 0.5rem 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+}
+
+.county-links a:hover {
+  background: #e8f4fc;
+  border-color: #2196F3;
+}
+
+.counties-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.county-section {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.county-name {
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem 0;
+  color: #333;
+}
+
+.county-stats {
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.towns-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.town-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: #f9f9f9;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.2s;
+}
+
+.town-link:hover {
+  background: #e8f4fc;
+}
+
+.town-name {
+  font-weight: 500;
+  color: #333;
+}
+
+.business-count {
+  font-size: 0.85rem;
+  color: #666;
+}
+</style>
+{{ end }}

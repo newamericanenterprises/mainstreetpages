@@ -2,7 +2,7 @@
   "name": "Hightstown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 5300,
   "slug": "hightstown-nj",
   "businesses": [

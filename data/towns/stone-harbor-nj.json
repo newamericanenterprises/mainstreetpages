@@ -2,7 +2,7 @@
   "name": "Stone Harbor",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 1039,
   "slug": "stone-harbor-nj",
   "businesses": [

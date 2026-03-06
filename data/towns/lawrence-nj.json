@@ -2,7 +2,7 @@
   "name": "Lawrence",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 33077,
   "slug": "lawrence-nj",
   "businesses": [

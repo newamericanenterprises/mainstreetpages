@@ -2,7 +2,7 @@
   "name": "Shrewsbury",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 3717,
   "slug": "shrewsbury-nj",
   "businesses": [

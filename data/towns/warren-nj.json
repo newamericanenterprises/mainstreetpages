@@ -2,7 +2,7 @@
   "name": "Warren",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": null,
   "slug": "warren-nj",
   "businesses": [

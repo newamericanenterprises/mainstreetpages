@@ -2,7 +2,7 @@
   "name": "West Deptford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 22197,
   "slug": "west-deptford-nj",
   "businesses": [

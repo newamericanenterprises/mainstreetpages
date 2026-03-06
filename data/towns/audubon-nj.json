@@ -2,7 +2,7 @@
   "name": "Audubon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 8981,
   "slug": "audubon-nj",
   "businesses": [

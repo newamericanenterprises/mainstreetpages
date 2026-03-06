@@ -2,7 +2,7 @@
   "name": "Lakewood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 92843,
   "slug": "lakewood-nj",
   "businesses": [

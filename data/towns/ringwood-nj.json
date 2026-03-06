@@ -2,7 +2,7 @@
   "name": "Ringwood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 12814,
   "slug": "ringwood-nj",
   "businesses": [

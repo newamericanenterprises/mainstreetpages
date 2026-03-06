@@ -2,7 +2,7 @@
   "name": "Glen Ridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 6908,
   "slug": "glen-ridge-nj",
   "businesses": [

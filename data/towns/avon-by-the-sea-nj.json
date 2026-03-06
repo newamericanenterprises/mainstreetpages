@@ -2,7 +2,7 @@
   "name": "Avon-by-the-Sea",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 2166,
   "slug": "avon-by-the-sea-nj",
   "businesses": [

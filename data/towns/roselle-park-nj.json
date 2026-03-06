@@ -2,7 +2,7 @@
   "name": "Roselle Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 13124,
   "slug": "roselle-park-nj",
   "businesses": [

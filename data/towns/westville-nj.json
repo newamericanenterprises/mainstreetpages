@@ -2,7 +2,7 @@
   "name": "Westville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 4458,
   "slug": "westville-nj",
   "businesses": [

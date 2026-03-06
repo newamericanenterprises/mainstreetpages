@@ -2,7 +2,7 @@
   "name": "East Rutherford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 8931,
   "slug": "east-rutherford-nj",
   "businesses": [

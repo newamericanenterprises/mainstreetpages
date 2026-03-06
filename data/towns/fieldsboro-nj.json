@@ -2,7 +2,7 @@
   "name": "Fieldsboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 577,
   "slug": "fieldsboro-nj",
   "businesses": [

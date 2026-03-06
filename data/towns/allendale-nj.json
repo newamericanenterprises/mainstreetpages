@@ -2,7 +2,7 @@
   "name": "Allendale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 6713,
   "slug": "allendale-nj",
   "businesses": [

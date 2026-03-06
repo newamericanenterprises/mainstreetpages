@@ -2,7 +2,7 @@
   "name": "Harmony",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": null,
   "slug": "harmony-nj",
   "businesses": [

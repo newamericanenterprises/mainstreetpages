@@ -2,7 +2,7 @@
   "name": "Clifton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 79606,
   "slug": "clifton-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Ridgefield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 10996,
   "slug": "ridgefield-nj",
   "businesses": [

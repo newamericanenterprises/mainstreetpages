@@ -2,7 +2,7 @@
   "name": "Springfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": null,
   "slug": "springfield-nj",
   "businesses": [

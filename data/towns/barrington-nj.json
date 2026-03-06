@@ -2,7 +2,7 @@
   "name": "Barrington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 7004,
   "slug": "barrington-nj",
   "businesses": [

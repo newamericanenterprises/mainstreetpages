@@ -2,7 +2,7 @@
   "name": "Voorhees",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 29131,
   "slug": "voorhees-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "West Milford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 28144,
   "slug": "west-milford-nj",
   "businesses": [

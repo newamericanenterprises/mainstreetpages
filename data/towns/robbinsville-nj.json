@@ -2,7 +2,7 @@
   "name": "Robbinsville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 15476,
   "slug": "robbinsville-nj",
   "businesses": [

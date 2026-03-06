@@ -2,7 +2,7 @@
   "name": "Boonton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 8600,
   "slug": "boonton-nj",
   "businesses": [

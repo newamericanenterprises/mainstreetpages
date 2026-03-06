@@ -2,7 +2,7 @@
   "name": "Wood-Ridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 7594,
   "slug": "wood-ridge-nj",
   "businesses": [

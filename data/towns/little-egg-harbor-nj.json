@@ -2,7 +2,7 @@
   "name": "Little Egg Harbor",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 20065,
   "slug": "little-egg-harbor-nj",
   "businesses": [

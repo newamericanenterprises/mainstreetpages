@@ -2,7 +2,7 @@
   "name": "Winslow",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 38612,
   "slug": "winslow-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Ocean",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 15124,
   "slug": "ocean-nj",
   "businesses": [

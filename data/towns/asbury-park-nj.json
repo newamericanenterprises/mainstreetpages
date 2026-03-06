@@ -2,7 +2,7 @@
   "name": "Asbury Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 16546,
   "slug": "asbury-park-nj",
   "businesses": [

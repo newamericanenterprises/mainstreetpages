@@ -2,7 +2,7 @@
   "name": "Haddon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 14484,
   "slug": "haddon-nj",
   "businesses": [

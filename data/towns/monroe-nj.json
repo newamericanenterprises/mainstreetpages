@@ -2,7 +2,7 @@
   "name": "Monroe",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 48594,
   "slug": "monroe-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "West Cape May",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 1007,
   "slug": "west-cape-may-nj",
   "businesses": [

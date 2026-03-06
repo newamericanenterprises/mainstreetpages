@@ -2,7 +2,7 @@
   "name": "Union Beach",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 6631,
   "slug": "union-beach-nj",
   "businesses": [

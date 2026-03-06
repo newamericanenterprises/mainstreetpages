@@ -2,7 +2,7 @@
   "name": "Bergenfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 26194,
   "slug": "bergenfield-nj",
   "businesses": [

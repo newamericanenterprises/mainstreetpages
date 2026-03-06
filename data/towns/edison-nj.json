@@ -2,7 +2,7 @@
   "name": "Edison",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 107588,
   "slug": "edison-nj",
   "businesses": [

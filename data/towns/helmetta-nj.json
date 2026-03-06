@@ -2,7 +2,7 @@
   "name": "Helmetta",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 2455,
   "slug": "helmetta-nj",
   "businesses": []

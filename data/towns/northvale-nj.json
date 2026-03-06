@@ -2,7 +2,7 @@
   "name": "Northvale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 4562,
   "slug": "northvale-nj",
   "businesses": [

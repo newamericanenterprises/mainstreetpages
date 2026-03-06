@@ -2,7 +2,7 @@
   "name": "Barnegat",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 21192,
   "slug": "barnegat-nj",
   "businesses": [

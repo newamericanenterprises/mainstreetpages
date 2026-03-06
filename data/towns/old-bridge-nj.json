@@ -2,7 +2,7 @@
   "name": "Old Bridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 65661,
   "slug": "old-bridge-nj",
   "businesses": [

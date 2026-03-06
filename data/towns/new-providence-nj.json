@@ -2,7 +2,7 @@
   "name": "New Providence",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 11915,
   "slug": "new-providence-nj",
   "businesses": [

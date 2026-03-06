@@ -2,7 +2,7 @@
   "name": "Montgomery",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 23243,
   "slug": "montgomery-nj",
   "businesses": [

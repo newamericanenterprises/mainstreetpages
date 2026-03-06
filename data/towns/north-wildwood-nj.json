@@ -2,7 +2,7 @@
   "name": "North Wildwood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 4803,
   "slug": "north-wildwood-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Maurice River",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 8083,
   "slug": "maurice-river-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Dennis",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": null,
   "slug": "dennis-nj",
   "businesses": [

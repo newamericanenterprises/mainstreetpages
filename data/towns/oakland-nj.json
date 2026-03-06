@@ -2,7 +2,7 @@
   "name": "Oakland",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 13558,
   "slug": "oakland-nj",
   "businesses": [

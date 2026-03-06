@@ -2,7 +2,7 @@
   "name": "Bloomingdale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 7604,
   "slug": "bloomingdale-nj",
   "businesses": [

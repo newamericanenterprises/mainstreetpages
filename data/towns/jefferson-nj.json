@@ -2,7 +2,7 @@
   "name": "Jefferson",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": null,
   "slug": "jefferson-nj",
   "businesses": [

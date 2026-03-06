@@ -2,7 +2,7 @@
   "name": "Millville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 28194,
   "slug": "millville-nj",
   "businesses": [

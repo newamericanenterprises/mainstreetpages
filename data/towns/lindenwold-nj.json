@@ -2,7 +2,7 @@
   "name": "Lindenwold",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 17160,
   "slug": "lindenwold-nj",
   "businesses": [

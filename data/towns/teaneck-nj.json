@@ -2,7 +2,7 @@
   "name": "Teaneck",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": null,
   "slug": "teaneck-nj",
   "businesses": [

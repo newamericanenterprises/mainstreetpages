@@ -2,7 +2,7 @@
   "name": "Jersey",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 292449,
   "slug": "jersey-nj",
   "businesses": [

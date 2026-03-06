@@ -2,7 +2,7 @@
   "name": "Keyport",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 7471,
   "slug": "keyport-nj",
   "businesses": [

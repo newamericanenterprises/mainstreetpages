@@ -2,7 +2,7 @@
   "name": "Hackettstown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 10248,
   "slug": "hackettstown-nj",
   "businesses": [

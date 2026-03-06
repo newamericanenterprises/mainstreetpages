@@ -2,7 +2,7 @@
   "name": "Winfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 1486,
   "slug": "winfield-nj",
   "businesses": [

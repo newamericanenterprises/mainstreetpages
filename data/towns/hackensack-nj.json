@@ -2,7 +2,7 @@
   "name": "Hackensack",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 44756,
   "slug": "hackensack-nj",
   "businesses": [

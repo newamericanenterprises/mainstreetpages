@@ -2,7 +2,7 @@
   "name": "Highland Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 13869,
   "slug": "highland-park-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Downe",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 1585,
   "slug": "downe-nj",
   "businesses": [

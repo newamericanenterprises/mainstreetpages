@@ -2,7 +2,7 @@
   "name": "Margate",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 8601,
   "slug": "margate-nj",
   "businesses": [

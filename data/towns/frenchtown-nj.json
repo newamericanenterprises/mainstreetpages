@@ -2,7 +2,7 @@
   "name": "Frenchtown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 1370,
   "slug": "frenchtown-nj",
   "businesses": [

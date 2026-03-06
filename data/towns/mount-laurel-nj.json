@@ -2,7 +2,7 @@
   "name": "Mount Laurel",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "mount-laurel-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Jackson",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 54856,
   "slug": "jackson-nj",
   "businesses": [

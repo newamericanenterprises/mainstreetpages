@@ -2,7 +2,7 @@
   "name": "Haddon Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 7365,
   "slug": "haddon-heights-nj",
   "businesses": [

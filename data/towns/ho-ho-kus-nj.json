@@ -2,7 +2,7 @@
   "name": "Ho-Ho-Kus",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 4095,
   "slug": "ho-ho-kus-nj",
   "businesses": [

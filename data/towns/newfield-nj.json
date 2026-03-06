@@ -2,7 +2,7 @@
   "name": "Newfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 1664,
   "slug": "newfield-nj",
   "businesses": [

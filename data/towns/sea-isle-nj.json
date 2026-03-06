@@ -2,7 +2,7 @@
   "name": "Sea Isle",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 2104,
   "slug": "sea-isle-nj",
   "businesses": [

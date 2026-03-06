@@ -2,7 +2,7 @@
   "name": "Woodbury Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 3030,
   "slug": "woodbury-heights-nj",
   "businesses": [

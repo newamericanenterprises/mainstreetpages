@@ -2,7 +2,7 @@
   "name": "Spring Lake",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 3475,
   "slug": "spring-lake-nj",
   "businesses": [

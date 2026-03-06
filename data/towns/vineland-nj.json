@@ -2,7 +2,7 @@
   "name": "Vineland",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 60724,
   "slug": "vineland-nj",
   "businesses": [

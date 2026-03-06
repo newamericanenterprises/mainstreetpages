@@ -2,7 +2,7 @@
   "name": "Saddle River",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 3786,
   "slug": "saddle-river-nj",
   "businesses": [

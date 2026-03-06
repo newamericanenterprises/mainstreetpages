@@ -2,7 +2,7 @@
   "name": "Harvey Cedars",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 389,
   "slug": "harvey-cedars-nj",
   "businesses": [

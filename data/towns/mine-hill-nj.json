@@ -2,7 +2,7 @@
   "name": "Mine Hill",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 3666,
   "slug": "mine-hill-nj",
   "businesses": [

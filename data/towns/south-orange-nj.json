@@ -2,7 +2,7 @@
   "name": "South Orange",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": null,
   "slug": "south-orange-nj",
   "businesses": [

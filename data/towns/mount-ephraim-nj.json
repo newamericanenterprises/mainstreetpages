@@ -2,7 +2,7 @@
   "name": "Mount Ephraim",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 4437,
   "slug": "mount-ephraim-nj",
   "businesses": [

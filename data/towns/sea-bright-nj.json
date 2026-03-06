@@ -2,7 +2,7 @@
   "name": "Sea Bright",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1799,
   "slug": "sea-bright-nj",
   "businesses": [

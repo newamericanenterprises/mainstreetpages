@@ -2,7 +2,7 @@
   "name": "Woodcliff Lake",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 5953,
   "slug": "woodcliff-lake-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Township of Washington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 10304,
   "slug": "township-of-washington-nj",
   "businesses": [

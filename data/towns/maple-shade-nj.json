@@ -2,7 +2,7 @@
   "name": "Maple Shade",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "maple-shade-nj",
   "businesses": [

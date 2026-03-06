@@ -2,7 +2,7 @@
   "name": "Lawnside",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 2800,
   "slug": "lawnside-nj",
   "businesses": [

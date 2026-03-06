@@ -2,7 +2,7 @@
   "name": "Washington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 6841,
   "slug": "washington-nj",
   "businesses": [

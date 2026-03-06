@@ -2,7 +2,7 @@
   "name": "Oldmans",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Salem",
   "population": 1827,
   "slug": "oldmans-nj",
   "businesses": [

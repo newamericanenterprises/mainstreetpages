@@ -2,7 +2,7 @@
   "name": "Prospect Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 5720,
   "slug": "prospect-park-nj",
   "businesses": [

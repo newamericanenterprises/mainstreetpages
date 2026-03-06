@@ -2,7 +2,7 @@
   "name": "Harrison",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 13942,
   "slug": "harrison-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Watchung",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 6284,
   "slug": "watchung-nj",
   "businesses": [

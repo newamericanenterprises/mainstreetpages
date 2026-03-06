@@ -2,7 +2,7 @@
   "name": "Union",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 63930,
   "slug": "union-nj",
   "businesses": [

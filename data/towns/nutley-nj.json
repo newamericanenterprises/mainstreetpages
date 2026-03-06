@@ -2,7 +2,7 @@
   "name": "Nutley",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 27011,
   "slug": "nutley-nj",
   "businesses": [

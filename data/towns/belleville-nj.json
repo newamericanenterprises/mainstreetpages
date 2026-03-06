@@ -2,7 +2,7 @@
   "name": "Belleville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 34444,
   "slug": "belleville-nj",
   "businesses": [

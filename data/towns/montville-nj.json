@@ -2,7 +2,7 @@
   "name": "Montville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": null,
   "slug": "montville-nj",
   "businesses": [

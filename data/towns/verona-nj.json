@@ -2,7 +2,7 @@
   "name": "Verona",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 12937,
   "slug": "verona-nj",
   "businesses": [

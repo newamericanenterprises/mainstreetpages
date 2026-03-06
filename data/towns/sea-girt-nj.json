@@ -2,7 +2,7 @@
   "name": "Sea Girt",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1725,
   "slug": "sea-girt-nj",
   "businesses": [

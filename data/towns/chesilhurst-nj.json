@@ -2,7 +2,7 @@
   "name": "Chesilhurst",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 1879,
   "slug": "chesilhurst-nj",
   "businesses": [

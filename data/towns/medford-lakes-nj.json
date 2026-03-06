@@ -2,7 +2,7 @@
   "name": "Medford Lakes",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "medford-lakes-nj",
   "businesses": [

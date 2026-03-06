@@ -2,7 +2,7 @@
   "name": "Stratford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 7122,
   "slug": "stratford-nj",
   "businesses": [

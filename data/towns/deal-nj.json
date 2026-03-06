@@ -2,7 +2,7 @@
   "name": "Deal",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 1044,
   "slug": "deal-nj",
   "businesses": [

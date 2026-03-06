@@ -2,7 +2,7 @@
   "name": "Linden",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 39874,
   "slug": "linden-nj",
   "businesses": [

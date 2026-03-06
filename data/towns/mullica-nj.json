@@ -2,7 +2,7 @@
   "name": "Mullica",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 6147,
   "slug": "mullica-nj",
   "businesses": [

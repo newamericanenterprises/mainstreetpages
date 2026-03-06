@@ -2,7 +2,7 @@
   "name": "Pennsauken",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 35443,
   "slug": "pennsauken-nj",
   "businesses": [

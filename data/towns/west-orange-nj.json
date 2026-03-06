@@ -2,7 +2,7 @@
   "name": "West Orange",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 43536,
   "slug": "west-orange-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Hi-Nella",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 1007,
   "slug": "hi-nella-nj",
   "businesses": [

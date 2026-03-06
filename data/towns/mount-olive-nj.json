@@ -2,7 +2,7 @@
   "name": "Mount Olive",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 28886,
   "slug": "mount-olive-nj",
   "businesses": [

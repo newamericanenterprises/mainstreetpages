@@ -2,7 +2,7 @@
   "name": "Pittsgrove",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Salem",
   "population": null,
   "slug": "pittsgrove-nj",
   "businesses": [

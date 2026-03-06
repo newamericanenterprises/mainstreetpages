@@ -2,7 +2,7 @@
   "name": "Woodbine",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 2508,
   "slug": "woodbine-nj",
   "businesses": [

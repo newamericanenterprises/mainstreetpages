@@ -2,7 +2,7 @@
   "name": "Clementon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 4922,
   "slug": "clementon-nj",
   "businesses": [

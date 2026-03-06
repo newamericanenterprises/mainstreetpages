@@ -2,7 +2,7 @@
   "name": "Cedar Grove",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 12848,
   "slug": "cedar-grove-nj",
   "businesses": [

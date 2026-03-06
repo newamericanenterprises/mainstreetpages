@@ -2,7 +2,7 @@
   "name": "Burlington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 9715,
   "slug": "burlington-nj",
   "businesses": [

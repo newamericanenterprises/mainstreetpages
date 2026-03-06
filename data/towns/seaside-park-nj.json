@@ -2,7 +2,7 @@
   "name": "Seaside Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1436,
   "slug": "seaside-park-nj",
   "businesses": [

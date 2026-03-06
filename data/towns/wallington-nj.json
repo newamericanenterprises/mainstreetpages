@@ -2,7 +2,7 @@
   "name": "Wallington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 11430,
   "slug": "wallington-nj",
   "businesses": [

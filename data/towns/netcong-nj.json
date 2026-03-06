@@ -2,7 +2,7 @@
   "name": "Netcong",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 3375,
   "slug": "netcong-nj",
   "businesses": [

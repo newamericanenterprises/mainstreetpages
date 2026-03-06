@@ -2,7 +2,7 @@
   "name": "Wenonah",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 2333,
   "slug": "wenonah-nj",
   "businesses": [

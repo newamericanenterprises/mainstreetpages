@@ -2,7 +2,7 @@
   "name": "Paterson",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 147000,
   "slug": "paterson-nj",
   "businesses": [

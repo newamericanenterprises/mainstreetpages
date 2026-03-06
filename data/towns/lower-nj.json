@@ -2,7 +2,7 @@
   "name": "Lower",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 22866,
   "slug": "lower-nj",
   "businesses": [

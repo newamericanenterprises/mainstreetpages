@@ -2,7 +2,7 @@
   "name": "Mount Arlington",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 5708,
   "slug": "mount-arlington-nj",
   "businesses": [

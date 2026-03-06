@@ -2,7 +2,7 @@
   "name": "Teterboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 18,
   "slug": "teterboro-nj",
   "businesses": [

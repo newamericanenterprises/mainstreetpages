@@ -2,7 +2,7 @@
   "name": "West Long Branch",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 8312,
   "slug": "west-long-branch-nj",
   "businesses": [

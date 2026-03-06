@@ -2,7 +2,7 @@
   "name": "Stillwater",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": null,
   "slug": "stillwater-nj",
   "businesses": [

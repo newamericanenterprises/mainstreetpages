@@ -2,7 +2,7 @@
   "name": "Manville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 10481,
   "slug": "manville-nj",
   "businesses": [

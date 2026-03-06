@@ -2,7 +2,7 @@
   "name": "Parsippany-Troy Hills",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 53238,
   "slug": "parsippany-troy-hills-nj",
   "businesses": [

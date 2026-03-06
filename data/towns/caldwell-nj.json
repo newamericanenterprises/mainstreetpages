@@ -2,7 +2,7 @@
   "name": "Caldwell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 7373,
   "slug": "caldwell-nj",
   "businesses": [

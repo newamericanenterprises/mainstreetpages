@@ -2,7 +2,7 @@
   "name": "Wrightstown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 741,
   "slug": "wrightstown-nj",
   "businesses": [

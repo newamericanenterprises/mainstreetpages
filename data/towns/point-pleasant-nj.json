@@ -2,7 +2,7 @@
   "name": "Point Pleasant",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 18686,
   "slug": "point-pleasant-nj",
   "businesses": [

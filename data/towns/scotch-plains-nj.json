@@ -2,7 +2,7 @@
   "name": "Scotch Plains",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 23246,
   "slug": "scotch-plains-nj",
   "businesses": [

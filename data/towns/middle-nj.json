@@ -2,7 +2,7 @@
   "name": "Middle",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 18911,
   "slug": "middle-nj",
   "businesses": [

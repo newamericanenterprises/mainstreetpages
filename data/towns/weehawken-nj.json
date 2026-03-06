@@ -2,7 +2,7 @@
   "name": "Weehawken",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 12649,
   "slug": "weehawken-nj",
   "businesses": [

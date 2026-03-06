@@ -2,7 +2,7 @@
   "name": "Delran",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 16896,
   "slug": "delran-nj",
   "businesses": [

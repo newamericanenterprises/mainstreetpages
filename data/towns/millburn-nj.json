@@ -2,7 +2,7 @@
   "name": "Millburn",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 19153,
   "slug": "millburn-nj",
   "businesses": [

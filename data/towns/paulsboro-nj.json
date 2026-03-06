@@ -2,7 +2,7 @@
   "name": "Paulsboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 6062,
   "slug": "paulsboro-nj",
   "businesses": [

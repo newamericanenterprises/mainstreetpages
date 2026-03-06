@@ -2,7 +2,7 @@
   "name": "Oaklyn",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 4080,
   "slug": "oaklyn-nj",
   "businesses": [

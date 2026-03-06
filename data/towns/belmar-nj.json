@@ -2,7 +2,7 @@
   "name": "Belmar",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 5923,
   "slug": "belmar-nj",
   "businesses": [

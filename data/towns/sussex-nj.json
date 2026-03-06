@@ -2,7 +2,7 @@
   "name": "Sussex",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 2170,
   "slug": "sussex-nj",
   "businesses": [

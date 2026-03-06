@@ -2,7 +2,7 @@
   "name": "Kenilworth",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 7741,
   "slug": "kenilworth-nj",
   "businesses": [

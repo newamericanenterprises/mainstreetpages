@@ -2,7 +2,7 @@
   "name": "Ramsey",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 14775,
   "slug": "ramsey-nj",
   "businesses": [

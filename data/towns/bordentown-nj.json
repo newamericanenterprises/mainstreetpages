@@ -2,7 +2,7 @@
   "name": "Bordentown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 3993,
   "slug": "bordentown-nj",
   "businesses": [

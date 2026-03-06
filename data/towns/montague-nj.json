@@ -2,7 +2,7 @@
   "name": "Montague",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 3904,
   "slug": "montague-nj",
   "businesses": [

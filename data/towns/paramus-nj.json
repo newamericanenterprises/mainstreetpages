@@ -2,7 +2,7 @@
   "name": "Paramus",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 26880,
   "slug": "paramus-nj",
   "businesses": [

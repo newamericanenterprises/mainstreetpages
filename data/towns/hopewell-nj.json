@@ -2,7 +2,7 @@
   "name": "Hopewell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 2022,
   "slug": "hopewell-nj",
   "businesses": [

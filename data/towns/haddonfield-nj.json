@@ -2,7 +2,7 @@
   "name": "Haddonfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 11515,
   "slug": "haddonfield-nj",
   "businesses": [

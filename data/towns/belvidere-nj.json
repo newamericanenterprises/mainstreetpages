@@ -2,7 +2,7 @@
   "name": "Belvidere",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 2701,
   "slug": "belvidere-nj",
   "businesses": [

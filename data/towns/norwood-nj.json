@@ -2,7 +2,7 @@
   "name": "Norwood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 6267,
   "slug": "norwood-nj",
   "businesses": [

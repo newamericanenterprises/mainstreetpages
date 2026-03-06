@@ -2,7 +2,7 @@
   "name": "Edgewater Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "edgewater-park-nj",
   "businesses": [

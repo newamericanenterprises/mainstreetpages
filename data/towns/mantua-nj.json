@@ -2,7 +2,7 @@
   "name": "Mantua",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 14974,
   "slug": "mantua-nj",
   "businesses": [

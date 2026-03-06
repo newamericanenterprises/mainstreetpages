@@ -2,7 +2,7 @@
   "name": "Secaucus",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 15562,
   "slug": "secaucus-nj",
   "businesses": [

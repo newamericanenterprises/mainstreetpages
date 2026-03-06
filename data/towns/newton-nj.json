@@ -2,7 +2,7 @@
   "name": "Newton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 8337,
   "slug": "newton-nj",
   "businesses": [

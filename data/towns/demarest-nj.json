@@ -2,7 +2,7 @@
   "name": "Demarest",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 5106,
   "slug": "demarest-nj",
   "businesses": [

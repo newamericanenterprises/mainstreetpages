@@ -2,7 +2,7 @@
   "name": "Cranford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 22369,
   "slug": "cranford-nj",
   "businesses": [

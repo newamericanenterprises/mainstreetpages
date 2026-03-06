@@ -2,7 +2,7 @@
   "name": "Franklin Lakes",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 11340,
   "slug": "franklin-lakes-nj",
   "businesses": [

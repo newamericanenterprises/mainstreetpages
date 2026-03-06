@@ -2,7 +2,7 @@
   "name": "Hamburg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 3554,
   "slug": "hamburg-nj",
   "businesses": [

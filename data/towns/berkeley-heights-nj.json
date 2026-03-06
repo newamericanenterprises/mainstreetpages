@@ -2,7 +2,7 @@
   "name": "Berkeley Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 13575,
   "slug": "berkeley-heights-nj",
   "businesses": [

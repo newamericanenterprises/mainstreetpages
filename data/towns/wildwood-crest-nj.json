@@ -2,7 +2,7 @@
   "name": "Wildwood Crest",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 3979,
   "slug": "wildwood-crest-nj",
   "businesses": [

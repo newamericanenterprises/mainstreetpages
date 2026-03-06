@@ -2,7 +2,7 @@
   "name": "East Orange",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 67247,
   "slug": "east-orange-nj",
   "businesses": [

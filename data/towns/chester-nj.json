@@ -2,7 +2,7 @@
   "name": "Chester",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 1681,
   "slug": "chester-nj",
   "businesses": [

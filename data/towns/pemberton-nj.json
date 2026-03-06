@@ -2,7 +2,7 @@
   "name": "Pemberton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 1381,
   "slug": "pemberton-nj",
   "businesses": [

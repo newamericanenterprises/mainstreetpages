@@ -2,7 +2,7 @@
   "name": "Chatham",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 8390,
   "slug": "chatham-nj",
   "businesses": [

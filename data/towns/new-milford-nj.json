@@ -2,7 +2,7 @@
   "name": "New Milford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 16243,
   "slug": "new-milford-nj",
   "businesses": [

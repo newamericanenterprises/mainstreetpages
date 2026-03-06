@@ -2,7 +2,7 @@
   "name": "Elmwood Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 18805,
   "slug": "elmwood-park-nj",
   "businesses": [

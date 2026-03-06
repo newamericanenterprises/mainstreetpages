@@ -2,7 +2,7 @@
   "name": "Perth Amboy",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 48607,
   "slug": "perth-amboy-nj",
   "businesses": [

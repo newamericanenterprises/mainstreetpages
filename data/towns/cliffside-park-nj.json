@@ -2,7 +2,7 @@
   "name": "Cliffside Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 23594,
   "slug": "cliffside-park-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Bellmawr",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 11707,
   "slug": "bellmawr-nj",
   "businesses": [

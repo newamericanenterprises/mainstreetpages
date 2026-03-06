@@ -2,7 +2,7 @@
   "name": "Passaic",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 67974,
   "slug": "passaic-nj",
   "businesses": [

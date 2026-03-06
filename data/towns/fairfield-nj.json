@@ -2,7 +2,7 @@
   "name": "Fairfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 7707,
   "slug": "fairfield-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "New Brunswick",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 50172,
   "slug": "new-brunswick-nj",
   "businesses": [

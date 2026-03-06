@@ -2,7 +2,7 @@
   "name": "Ewing",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Mercer",
   "population": 37264,
   "slug": "ewing-nj",
   "businesses": [

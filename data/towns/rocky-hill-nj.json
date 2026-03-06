@@ -2,7 +2,7 @@
   "name": "Rocky Hill",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 678,
   "slug": "rocky-hill-nj",
   "businesses": [

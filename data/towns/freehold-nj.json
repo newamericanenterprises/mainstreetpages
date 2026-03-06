@@ -2,7 +2,7 @@
   "name": "Freehold",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 11394,
   "slug": "freehold-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Cranbury",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": null,
   "slug": "cranbury-nj",
   "businesses": [

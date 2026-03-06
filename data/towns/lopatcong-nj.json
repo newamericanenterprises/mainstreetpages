@@ -2,7 +2,7 @@
   "name": "Lopatcong",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 8014,
   "slug": "lopatcong-nj",
   "businesses": [

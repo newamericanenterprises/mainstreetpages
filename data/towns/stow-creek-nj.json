@@ -2,7 +2,7 @@
   "name": "Stow Creek",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": null,
   "slug": "stow-creek-nj",
   "businesses": []

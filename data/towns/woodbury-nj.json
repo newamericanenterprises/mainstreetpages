@@ -2,7 +2,7 @@
   "name": "Woodbury",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 10410,
   "slug": "woodbury-nj",
   "businesses": [

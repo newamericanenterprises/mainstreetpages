@@ -2,7 +2,7 @@
   "name": "Fanwood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 7697,
   "slug": "fanwood-nj",
   "businesses": [

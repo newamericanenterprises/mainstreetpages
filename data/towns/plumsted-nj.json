@@ -2,7 +2,7 @@
   "name": "Plumsted",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 8421,
   "slug": "plumsted-nj",
   "businesses": [

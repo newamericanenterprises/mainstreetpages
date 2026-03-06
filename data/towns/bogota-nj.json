@@ -2,7 +2,7 @@
   "name": "Bogota",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 8108,
   "slug": "bogota-nj",
   "businesses": [

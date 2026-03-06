@@ -2,7 +2,7 @@
   "name": "Plainfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 47353,
   "slug": "plainfield-nj",
   "businesses": [

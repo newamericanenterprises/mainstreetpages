@@ -2,7 +2,7 @@
   "name": "Shiloh",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 650,
   "slug": "shiloh-nj",
   "businesses": [

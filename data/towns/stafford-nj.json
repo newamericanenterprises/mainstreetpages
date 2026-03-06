@@ -2,7 +2,7 @@
   "name": "Stafford",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 26535,
   "slug": "stafford-nj",
   "businesses": [

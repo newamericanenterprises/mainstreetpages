@@ -2,7 +2,7 @@
   "name": "Eatontown",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 14022,
   "slug": "eatontown-nj",
   "businesses": [

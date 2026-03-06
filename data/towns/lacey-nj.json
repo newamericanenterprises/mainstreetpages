@@ -2,7 +2,7 @@
   "name": "Lacey",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 26300,
   "slug": "lacey-nj",
   "businesses": [

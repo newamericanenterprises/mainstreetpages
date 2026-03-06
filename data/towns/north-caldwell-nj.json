@@ -2,7 +2,7 @@
   "name": "North Caldwell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 7207,
   "slug": "north-caldwell-nj",
   "businesses": [

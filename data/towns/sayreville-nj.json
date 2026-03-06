@@ -2,7 +2,7 @@
   "name": "Sayreville",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 42560,
   "slug": "sayreville-nj",
   "businesses": [

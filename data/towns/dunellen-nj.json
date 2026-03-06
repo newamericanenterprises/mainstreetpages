@@ -2,7 +2,7 @@
   "name": "Dunellen",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 6940,
   "slug": "dunellen-nj",
   "businesses": [

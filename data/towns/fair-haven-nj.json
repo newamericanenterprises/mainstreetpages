@@ -2,7 +2,7 @@
   "name": "Fair Haven",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 5885,
   "slug": "fair-haven-nj",
   "businesses": [

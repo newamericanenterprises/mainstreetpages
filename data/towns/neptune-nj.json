@@ -2,7 +2,7 @@
   "name": "Neptune",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 5150,
   "slug": "neptune-nj",
   "businesses": [

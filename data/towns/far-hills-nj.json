@@ -2,7 +2,7 @@
   "name": "Far Hills",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 928,
   "slug": "far-hills-nj",
   "businesses": []

@@ -2,7 +2,7 @@
   "name": "Atlantic Highlands",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 4614,
   "slug": "atlantic-highlands-nj",
   "businesses": [

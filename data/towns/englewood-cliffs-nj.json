@@ -2,7 +2,7 @@
   "name": "Englewood Cliffs",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 5793,
   "slug": "englewood-cliffs-nj",
   "businesses": [

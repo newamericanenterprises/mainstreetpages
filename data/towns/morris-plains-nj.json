@@ -2,7 +2,7 @@
   "name": "Morris Plains",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 5601,
   "slug": "morris-plains-nj",
   "businesses": [

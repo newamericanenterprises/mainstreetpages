@@ -2,7 +2,7 @@
   "name": "Cape May",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 3809,
   "slug": "cape-may-nj",
   "businesses": [

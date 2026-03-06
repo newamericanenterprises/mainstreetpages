@@ -2,7 +2,7 @@
   "name": "Commercial",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cumberland",
   "population": 5178,
   "slug": "commercial-nj",
   "businesses": [

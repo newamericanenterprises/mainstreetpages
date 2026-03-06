@@ -2,7 +2,7 @@
   "name": "East Amwell",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 4013,
   "slug": "east-amwell-nj",
   "businesses": [

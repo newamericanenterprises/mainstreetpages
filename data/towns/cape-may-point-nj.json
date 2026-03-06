@@ -2,7 +2,7 @@
   "name": "Cape May Point",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Cape May",
   "population": 291,
   "slug": "cape-may-point-nj",
   "businesses": [

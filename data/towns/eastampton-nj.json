@@ -2,7 +2,7 @@
   "name": "Eastampton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 6191,
   "slug": "eastampton-nj",
   "businesses": [

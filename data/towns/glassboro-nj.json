@@ -2,7 +2,7 @@
   "name": "Glassboro",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 19360,
   "slug": "glassboro-nj",
   "businesses": [

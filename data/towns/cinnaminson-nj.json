@@ -2,7 +2,7 @@
   "name": "Cinnaminson",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 15449,
   "slug": "cinnaminson-nj",
   "businesses": [

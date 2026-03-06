@@ -2,7 +2,7 @@
   "name": "Highlands",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 4987,
   "slug": "highlands-nj",
   "businesses": [

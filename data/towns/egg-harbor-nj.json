@@ -2,7 +2,7 @@
   "name": "Egg Harbor",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 4454,
   "slug": "egg-harbor-nj",
   "businesses": [

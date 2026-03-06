@@ -2,7 +2,7 @@
   "name": "Hawthorne",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 18166,
   "slug": "hawthorne-nj",
   "businesses": [

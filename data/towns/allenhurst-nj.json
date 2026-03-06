@@ -2,7 +2,7 @@
   "name": "Allenhurst",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 701,
   "slug": "allenhurst-nj",
   "businesses": []

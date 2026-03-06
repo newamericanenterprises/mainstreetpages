@@ -2,7 +2,7 @@
   "name": "Woodbridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 99208,
   "slug": "woodbridge-nj",
   "businesses": [

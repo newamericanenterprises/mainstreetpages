@@ -2,7 +2,7 @@
   "name": "Hardwick",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Warren",
   "population": 1631,
   "slug": "hardwick-nj",
   "businesses": [

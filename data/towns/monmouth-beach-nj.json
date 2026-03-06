@@ -2,7 +2,7 @@
   "name": "Monmouth Beach",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 3574,
   "slug": "monmouth-beach-nj",
   "businesses": [

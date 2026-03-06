@@ -2,7 +2,7 @@
   "name": "Ventnor",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 12564,
   "slug": "ventnor-nj",
   "businesses": [

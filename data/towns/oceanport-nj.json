@@ -2,7 +2,7 @@
   "name": "Oceanport",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 5751,
   "slug": "oceanport-nj",
   "businesses": [

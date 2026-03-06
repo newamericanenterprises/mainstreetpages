@@ -2,7 +2,7 @@
   "name": "Jamesburg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 6429,
   "slug": "jamesburg-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Westfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 29944,
   "slug": "westfield-nj",
   "businesses": [

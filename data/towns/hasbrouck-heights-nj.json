@@ -2,7 +2,7 @@
   "name": "Hasbrouck Heights",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 11621,
   "slug": "hasbrouck-heights-nj",
   "businesses": [

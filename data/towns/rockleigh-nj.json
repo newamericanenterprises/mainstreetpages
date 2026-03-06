@@ -2,7 +2,7 @@
   "name": "Rockleigh",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 393,
   "slug": "rockleigh-nj",
   "businesses": []

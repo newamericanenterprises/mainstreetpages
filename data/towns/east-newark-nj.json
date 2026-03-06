@@ -2,7 +2,7 @@
   "name": "East Newark",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hudson",
   "population": 2217,
   "slug": "east-newark-nj",
   "businesses": [

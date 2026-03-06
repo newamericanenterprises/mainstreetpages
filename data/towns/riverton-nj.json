@@ -2,7 +2,7 @@
   "name": "Riverton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 2715,
   "slug": "riverton-nj",
   "businesses": [

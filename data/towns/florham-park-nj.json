@@ -2,7 +2,7 @@
   "name": "Florham Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 11496,
   "slug": "florham-park-nj",
   "businesses": [

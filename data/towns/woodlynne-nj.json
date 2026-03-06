@@ -2,7 +2,7 @@
   "name": "Woodlynne",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": null,
   "slug": "woodlynne-nj",
   "businesses": [

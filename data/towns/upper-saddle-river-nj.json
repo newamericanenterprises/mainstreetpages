@@ -2,7 +2,7 @@
   "name": "Upper Saddle River",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 8531,
   "slug": "upper-saddle-river-nj",
   "businesses": [

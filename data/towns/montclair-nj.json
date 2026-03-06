@@ -2,7 +2,7 @@
   "name": "Montclair",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 37669,
   "slug": "montclair-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Wayne",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 54849,
   "slug": "wayne-nj",
   "businesses": [

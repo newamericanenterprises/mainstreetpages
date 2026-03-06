@@ -2,7 +2,7 @@
   "name": "Palisades Park",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 19306,
   "slug": "palisades-park-nj",
   "businesses": [

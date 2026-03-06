@@ -2,7 +2,7 @@
   "name": "Garwood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Union",
   "population": 4233,
   "slug": "garwood-nj",
   "businesses": [

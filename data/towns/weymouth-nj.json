@@ -2,7 +2,7 @@
   "name": "Weymouth",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 2715,
   "slug": "weymouth-nj",
   "businesses": [

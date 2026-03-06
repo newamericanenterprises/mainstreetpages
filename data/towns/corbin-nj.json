@@ -2,7 +2,7 @@
   "name": "Corbin",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 530,
   "slug": "corbin-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Hillsdale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 10053,
   "slug": "hillsdale-nj",
   "businesses": [

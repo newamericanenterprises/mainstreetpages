@@ -2,7 +2,7 @@
   "name": "Mendham",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 5176,
   "slug": "mendham-nj",
   "businesses": [

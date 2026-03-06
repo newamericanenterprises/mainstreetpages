@@ -2,7 +2,7 @@
   "name": "Fort Lee",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 37008,
   "slug": "fort-lee-nj",
   "businesses": [

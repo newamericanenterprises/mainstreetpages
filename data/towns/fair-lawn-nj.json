@@ -2,7 +2,7 @@
   "name": "Fair Lawn",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Bergen",
   "population": 34927,
   "slug": "fair-lawn-nj",
   "businesses": [

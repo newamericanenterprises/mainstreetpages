@@ -2,7 +2,7 @@
   "name": "Chesterfield",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": 6451,
   "slug": "chesterfield-nj",
   "businesses": [

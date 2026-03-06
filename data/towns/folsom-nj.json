@@ -2,7 +2,7 @@
   "name": "Folsom",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 1948,
   "slug": "folsom-nj",
   "businesses": [

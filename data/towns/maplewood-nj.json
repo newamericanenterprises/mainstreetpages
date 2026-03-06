@@ -2,7 +2,7 @@
   "name": "Maplewood",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 22759,
   "slug": "maplewood-nj",
   "businesses": [

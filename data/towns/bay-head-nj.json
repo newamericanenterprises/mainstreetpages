@@ -2,7 +2,7 @@
   "name": "Bay Head",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Ocean",
   "population": 1050,
   "slug": "bay-head-nj",
   "businesses": [

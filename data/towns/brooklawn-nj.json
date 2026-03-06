@@ -2,7 +2,7 @@
   "name": "Brooklawn",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Camden",
   "population": 2294,
   "slug": "brooklawn-nj",
   "businesses": [

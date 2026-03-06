@@ -2,7 +2,7 @@
   "name": "Little Falls",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Passaic",
   "population": 11829,
   "slug": "little-falls-nj",
   "businesses": [

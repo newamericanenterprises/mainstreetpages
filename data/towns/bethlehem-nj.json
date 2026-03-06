@@ -2,7 +2,7 @@
   "name": "Bethlehem",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": null,
   "slug": "bethlehem-nj",
   "businesses": [

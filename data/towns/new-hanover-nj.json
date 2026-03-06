@@ -2,7 +2,7 @@
   "name": "New Hanover",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Burlington",
   "population": null,
   "slug": "new-hanover-nj",
   "businesses": [

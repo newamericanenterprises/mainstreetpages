@@ -2,7 +2,7 @@
   "name": "Roseland",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Essex",
   "population": 5400,
   "slug": "roseland-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "High Bridge",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 3763,
   "slug": "high-bridge-nj",
   "businesses": [

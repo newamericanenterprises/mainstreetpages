@@ -2,7 +2,7 @@
   "name": "Riverdale",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 2676,
   "slug": "riverdale-nj",
   "businesses": [

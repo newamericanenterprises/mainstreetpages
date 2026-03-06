@@ -2,7 +2,7 @@
   "name": "Kinnelon",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Morris",
   "population": 9681,
   "slug": "kinnelon-nj",
   "businesses": [

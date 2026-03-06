@@ -2,7 +2,7 @@
   "name": "Loch Arbour",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Monmouth",
   "population": 274,
   "slug": "loch-arbour-nj",
   "businesses": [

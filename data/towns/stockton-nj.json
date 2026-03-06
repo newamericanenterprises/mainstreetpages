@@ -2,7 +2,7 @@
   "name": "Stockton",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Hunterdon",
   "population": 555,
   "slug": "stockton-nj",
   "businesses": [

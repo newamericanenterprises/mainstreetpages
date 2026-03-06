@@ -2,7 +2,7 @@
   "name": "Somers Point",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Atlantic",
   "population": 11573,
   "slug": "somers-point-nj",
   "businesses": [

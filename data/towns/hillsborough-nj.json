@@ -2,7 +2,7 @@
   "name": "Hillsborough",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Somerset",
   "population": 38303,
   "slug": "hillsborough-nj",
   "businesses": [

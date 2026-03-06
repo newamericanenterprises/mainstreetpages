@@ -2,7 +2,7 @@
   "name": "Middlesex",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Middlesex",
   "population": 13746,
   "slug": "middlesex-nj",
   "businesses": [

@@ -2,7 +2,7 @@
   "name": "Ogdensburg",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Sussex",
   "population": 2623,
   "slug": "ogdensburg-nj",
   "businesses": [

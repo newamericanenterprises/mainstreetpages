@@ -2,7 +2,7 @@
   "name": "Pitman",
   "state": "New Jersey",
   "state_abbr": "NJ",
-  "county": null,
+  "county": "Gloucester",
   "population": 9199,
   "slug": "pitman-nj",
   "businesses": [
