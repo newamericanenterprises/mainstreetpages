@@ -1,7 +1,7 @@
 ---
-title: "Henderson, NV Business Directory"
-type: "towns"
+title: "Henderson, Nevada Business Directory"
 slug: "henderson-nv"
-state: "nv"
-town_data: "henderson-nv"
+state: "NV"
+county: "Clark"
+population: 320189
 ---

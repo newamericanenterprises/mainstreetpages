@@ -1,7 +1,7 @@
 ---
-title: "Elko, NV Business Directory"
-type: "towns"
+title: "Elko, Nevada Business Directory"
 slug: "elko-nv"
-state: "nv"
-town_data: "elko-nv"
+state: "NV"
+county: "Elko"
+population: 20279
 ---

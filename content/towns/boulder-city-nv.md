@@ -1,7 +1,7 @@
 ---
-title: "Boulder City, NV Business Directory"
-type: "towns"
+title: "Boulder City, Nevada Business Directory"
 slug: "boulder-city-nv"
-state: "nv"
-town_data: "boulder-city-nv"
+state: "NV"
+county: "Clark"
+population: 15977
 ---

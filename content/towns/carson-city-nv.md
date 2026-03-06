@@ -1,7 +1,7 @@
 ---
-title: "Carson City, NV Business Directory"
-type: "towns"
+title: "Carson City, Nevada Business Directory"
 slug: "carson-city-nv"
-state: "nv"
-town_data: "carson-city-nv"
+state: "NV"
+county: "Carson City"
+population: 58639
 ---
