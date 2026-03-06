@@ -1,7 +1,7 @@
 ---
-title: "Independence, MO Business Directory"
-type: "towns"
+title: "Independence, Missouri Business Directory"
 slug: "independence-mo"
-state: "mo"
-town_data: "independence-mo"
+state: "MO"
+county: "Jackson"
+population: 123011
 ---

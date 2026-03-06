@@ -1,7 +1,7 @@
 ---
-title: "Springfield, MO Business Directory"
-type: "towns"
+title: "Springfield, Missouri Business Directory"
 slug: "springfield-mo"
-state: "mo"
-town_data: "springfield-mo"
+state: "MO"
+county: "Greene"
+population: 169176
 ---
