@@ -1,7 +1,7 @@
 ---
-title: "Jackson, MS Business Directory"
-type: "towns"
+title: "Jackson, Mississippi Business Directory"
 slug: "jackson-ms"
-state: "ms"
-town_data: "jackson-ms"
+state: "MS"
+county: "Hinds"
+population: 153701
 ---

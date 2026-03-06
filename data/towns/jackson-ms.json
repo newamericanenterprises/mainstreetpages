@@ -2,14 +2,14 @@
   "name": "Jackson",
   "state": "Mississippi",
   "state_abbr": "MS",
-  "county": "Forrest",
+  "county": "Hinds",
   "population": 153701,
   "slug": "jackson-ms",
   "businesses": [
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Heritage Seafood Restaurant Plus",
+      "category": "Seafood Restaurant",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Hinds Shoe Store Center",
+      "category": "Shoe Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Hinds Golf Course Center",
+      "category": "Golf Course",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
+      "name": "Hinds Music Store Inc",
+      "category": "Music Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
+      "name": "Hinds Cleaning Service Center",
+      "category": "Cleaning Service",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,35 +72,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pharmacy",
+      "name": "Hinds Pharmacy Express",
       "category": "Pharmacy",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +85,22 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
+      "name": "Southern Spa of Jackson",
+      "category": "Spa",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Auto Repair Express",
       "category": "Auto Repair",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +111,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
+      "name": "Jackson Hair Salon Pro",
       "category": "Hair Salon",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +124,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
-      "category": "Dentist",
-      "address": "Jackson",
+      "name": "Dixie Toy Store Center",
+      "category": "Toy Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,87 +137,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pet Store",
+      "name": "Jackson Pet Store Center",
       "category": "Pet Store",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -241,9 +150,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
+      "name": "Hinds Windows LLC",
+      "category": "Windows",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -254,9 +163,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
+      "name": "Hinds Farm Equipment Plus",
+      "category": "Farm Equipment",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -267,9 +176,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
+      "name": "Hospitality Bowling Alley of Jackson",
+      "category": "Bowling Alley",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -280,9 +189,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Hinds Employment Agency Inc",
+      "category": "Employment Agency",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +202,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Hinds Boat Dealer Group",
+      "category": "Boat Dealer",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +215,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Southern Marina of Jackson",
+      "category": "Marina",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +228,113 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
+      "name": "Cotton Belt Laundromat of Jackson",
+      "category": "Laundromat",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hospitality School of Jackson",
+      "category": "School",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Law Office Co",
+      "category": "Law Office",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Security Company Inc",
+      "category": "Security Company",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Ole Miss Tattoo Parlor of Jackson",
+      "category": "Tattoo Parlor",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "River City Wedding Venue of Jackson",
+      "category": "Wedding Venue",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Southern HVAC Express",
+      "category": "HVAC",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Delta Gym of Jackson",
+      "category": "Gym",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Jackson Bank Co",
       "category": "Bank",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +345,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
+      "name": "Jackson Event Center Express",
+      "category": "Event Center",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +358,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
+      "name": "Hinds Tailor Inc",
+      "category": "Tailor",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
+      "name": "Hinds Tire Shop Group",
+      "category": "Tire Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
+      "name": "Hinds Hotel Group",
+      "category": "Hotel",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -384,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
-      "category": "Auto Repair",
-      "address": "Jackson",
+      "name": "Ole Miss Motel of Jackson",
+      "category": "Motel",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -397,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
+      "name": "Jackson Sporting Goods LLC",
+      "category": "Sporting Goods",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -410,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
-      "category": "Dentist",
-      "address": "Jackson",
+      "name": "Hinds Plumber Inc",
+      "category": "Plumber",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -423,9 +436,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
+      "name": "Southern Photography Studio of Jackson",
+      "category": "Photography Studio",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -436,9 +449,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
+      "name": "Ole Miss Gift Shop Group",
+      "category": "Gift Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -449,9 +462,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
+      "name": "Cotton Belt Feed Store Co",
+      "category": "Feed Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -462,9 +475,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
+      "name": "Hinds Thrift Store Services",
+      "category": "Thrift Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -475,9 +488,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
+      "name": "Hinds Accounting Center",
+      "category": "Accounting",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -488,74 +501,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Restaurant",
+      "name": "Hinds Restaurant LLC",
       "category": "Restaurant",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -566,9 +514,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Southern Paving Inc",
+      "category": "Paving",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -579,9 +527,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Ole Miss Arcade Inc",
+      "category": "Arcade",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -592,9 +540,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
+      "name": "Jackson Dance Studio Solutions",
+      "category": "Dance Studio",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -605,9 +553,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
+      "name": "Hinds Outdoor Store Plus",
+      "category": "Outdoor Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -618,9 +566,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
+      "name": "Gulf Coast Furniture Store of Jackson",
+      "category": "Furniture Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -631,9 +579,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
+      "name": "Jackson Physical Therapy Express",
+      "category": "Physical Therapy",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -644,9 +592,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
+      "name": "Southern Jewelry Store Center",
+      "category": "Jewelry Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -657,9 +605,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
-      "category": "Auto Repair",
-      "address": "Jackson",
+      "name": "Hinds Clothing Boutique Co",
+      "category": "Clothing Boutique",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -670,9 +618,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
+      "name": "Southern Liquor Store of Jackson",
+      "category": "Liquor Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -683,9 +631,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
-      "category": "Dentist",
-      "address": "Jackson",
+      "name": "Jackson Campground Center",
+      "category": "Campground",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -696,9 +644,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
+      "name": "Jackson Storage Facility Plus",
+      "category": "Storage Facility",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -709,9 +657,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
+      "name": "Crossroads Car Wash Co",
+      "category": "Car Wash",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -722,9 +670,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
+      "name": "River City Appliance Store Center",
+      "category": "Appliance Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -735,9 +683,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
+      "name": "Pine Belt Martial Arts Express",
+      "category": "Martial Arts",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -748,9 +696,48 @@
       "featured": false
     },
     {
-      "name": "Jackson Dry Cleaner",
+      "name": "Jackson Antique Store Pro",
+      "category": "Antique Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Auto Dealer Pro",
+      "category": "Auto Dealer",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Heritage Grocery Store of Jackson",
+      "category": "Grocery Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mississippi Dry Cleaner Center",
       "category": "Dry Cleaner",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -761,9 +748,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
+      "name": "Deep South Church Inc",
+      "category": "Church",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -774,9 +761,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
+      "name": "Jackson Barber Shop Inc",
+      "category": "Barber Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -787,9 +774,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
+      "name": "Jackson BBQ Restaurant Plus",
+      "category": "BBQ Restaurant",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -800,9 +787,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
+      "name": "Crossroads Electrician Plus",
+      "category": "Electrician",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -813,9 +800,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
+      "name": "Cotton Belt Siding Inc",
+      "category": "Siding",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -826,9 +813,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Gulf Coast Brewery of Jackson",
+      "category": "Brewery",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -839,9 +826,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Jackson Chiropractor Inc",
+      "category": "Chiropractor",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -852,9 +839,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Gulf Coast Catfish Restaurant Pro",
+      "category": "Catfish Restaurant",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -865,22 +852,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Gas Station",
+      "name": "Crossroads Gas Station Inc",
       "category": "Gas Station",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -891,9 +865,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
+      "name": "Jackson Library Pro",
+      "category": "Library",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -904,9 +878,22 @@
       "featured": false
     },
     {
-      "name": "Jackson Hardware Store",
+      "name": "Hinds Printing Shop LLC",
+      "category": "Printing Shop",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pine Belt Hardware Store Pro",
       "category": "Hardware Store",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -917,9 +904,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
+      "name": "Heritage RV Park LLC",
+      "category": "RV Park",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -930,9 +917,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
-      "category": "Auto Repair",
-      "address": "Jackson",
+      "name": "Golden Triangle Nail Salon of Jackson",
+      "category": "Nail Salon",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -943,48 +930,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Dentist",
-      "category": "Dentist",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Real Estate",
+      "name": "Hinds Real Estate LLC",
       "category": "Real Estate",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -995,9 +943,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
+      "name": "Hinds Bed and Breakfast Center",
+      "category": "Bed and Breakfast",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1008,9 +956,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
+      "name": "Hinds Towing Service Plus",
+      "category": "Towing Service",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1021,9 +969,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
+      "name": "Hinds Staffing Agency Solutions",
+      "category": "Staffing Agency",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1034,9 +982,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
+      "name": "Crossroads Tax Service Services",
+      "category": "Tax Service",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1047,9 +995,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
+      "name": "Golden Triangle Pizza Place of Jackson",
+      "category": "Pizza Place",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1060,9 +1008,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
+      "name": "Hospitality Movie Theater Solutions",
+      "category": "Movie Theater",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1073,9 +1021,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
+      "name": "Southern Tractor Dealer of Jackson",
+      "category": "Tractor Dealer",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1086,9 +1034,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
+      "name": "Jackson Landscaping Pro",
+      "category": "Landscaping",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1099,9 +1047,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Cotton Belt Doctor of Jackson",
+      "category": "Doctor",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1112,9 +1060,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Dixie Concrete of Jackson",
+      "category": "Concrete",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1125,9 +1073,48 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
+      "name": "Delta Painting Pro",
+      "category": "Painting",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Heritage Check Cashing of Jackson",
+      "category": "Check Cashing",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Title Loan Co",
+      "category": "Title Loan",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Bar Plus",
       "category": "Bar",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1138,9 +1125,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
+      "name": "Hinds Soul Food Restaurant Plus",
+      "category": "Soul Food Restaurant",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1151,9 +1138,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
+      "name": "River City Electronics Store Plus",
+      "category": "Electronics Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1164,9 +1151,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
+      "name": "Crossroads Pawn Shop of Jackson",
+      "category": "Pawn Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1177,9 +1164,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
+      "name": "Crossroads Sign Shop LLC",
+      "category": "Sign Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1190,9 +1177,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
+      "name": "Hinds Coffee Shop Services",
+      "category": "Coffee Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1203,9 +1190,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
-      "category": "Auto Repair",
-      "address": "Jackson",
+      "name": "Delta Bakery Inc",
+      "category": "Bakery",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1216,9 +1203,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
+      "name": "River City Veterinarian of Jackson",
+      "category": "Veterinarian",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1229,9 +1216,22 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
+      "name": "Jackson Funeral Home Pro",
+      "category": "Funeral Home",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Dentist Services",
       "category": "Dentist",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1242,100 +1242,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Florist",
+      "name": "Hospitality Florist of Jackson",
       "category": "Florist",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1346,9 +1255,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
+      "name": "Jackson Farm Supply LLC",
+      "category": "Farm Supply",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1359,9 +1268,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
+      "name": "Hinds Bookstore Services",
+      "category": "Bookstore",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1372,9 +1281,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Dixie Yoga Studio Solutions",
+      "category": "Yoga Studio",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1385,9 +1294,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
+      "name": "Jackson Insurance Agency Express",
+      "category": "Insurance Agency",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1398,9 +1307,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Hinds Daycare Solutions",
+      "category": "Daycare",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1411,9 +1320,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
+      "name": "Deep South Temp Agency Center",
+      "category": "Temp Agency",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1424,9 +1333,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
+      "name": "Jackson Pet Grooming LLC",
+      "category": "Pet Grooming",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1437,9 +1346,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
+      "name": "Golden Triangle Moving Company of Jackson",
+      "category": "Moving Company",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1450,9 +1359,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
+      "name": "Jackson Roofing Co",
+      "category": "Roofing",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1463,9 +1372,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
+      "name": "Hinds Optometrist Group",
+      "category": "Optometrist",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1476,9 +1385,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Auto Repair",
-      "category": "Auto Repair",
-      "address": "Jackson",
+      "name": "Gulf Coast Convenience Store of Jackson",
+      "category": "Convenience Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1489,9 +1398,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
+      "name": "Delta Dollar Store Plus",
+      "category": "Dollar Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1502,9 +1411,295 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
+      "name": "Hinds Pest Control Co",
+      "category": "Pest Control",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Deep South Pawn Shop of Jackson",
+      "category": "Pawn Shop",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Optometrist Express",
+      "category": "Optometrist",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Toy Store LLC",
+      "category": "Toy Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hospitality Windows of Jackson",
+      "category": "Windows",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pine Belt Veterinarian of Jackson",
+      "category": "Veterinarian",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Dollar Store Plus",
+      "category": "Dollar Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cotton Belt Golf Course Pro",
+      "category": "Golf Course",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "River City Church of Jackson",
+      "category": "Church",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Title Loan Services",
+      "category": "Title Loan",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Florist Plus",
+      "category": "Florist",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Spa LLC",
+      "category": "Spa",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mississippi Siding Express",
+      "category": "Siding",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Towing Service Inc",
+      "category": "Towing Service",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Soul Food Restaurant Inc",
+      "category": "Soul Food Restaurant",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Thrift Store Inc",
+      "category": "Thrift Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Jackson Event Center Plus",
+      "category": "Event Center",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hinds Car Wash Pro",
+      "category": "Car Wash",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Pine Belt Music Store LLC",
+      "category": "Music Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Gulf Coast Security Company Inc",
+      "category": "Security Company",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Golden Triangle Doctor Inc",
+      "category": "Doctor",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Delta Dollar Store Group",
+      "category": "Dollar Store",
+      "address": "Jackson, MS",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Heritage Dentist Group",
       "category": "Dentist",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1515,9 +1710,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
+      "name": "Jackson Furniture Store Group",
+      "category": "Furniture Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1528,9 +1723,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
+      "name": "Jackson Physical Therapy Plus",
+      "category": "Physical Therapy",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1541,9 +1736,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
+      "name": "Deep South Auto Dealer of Jackson",
+      "category": "Auto Dealer",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1554,9 +1749,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
+      "name": "Hinds Grocery Store Plus",
+      "category": "Grocery Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1567,191 +1762,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Bank",
-      "category": "Bank",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Gas Station",
-      "category": "Gas Station",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Supermarket",
-      "category": "Supermarket",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Hardware Store",
-      "category": "Hardware Store",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Pharmacy",
-      "category": "Pharmacy",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Auto Repair",
+      "name": "Dixie Auto Repair of Jackson",
       "category": "Auto Repair",
-      "address": "Jackson",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1762,9 +1775,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Hair Salon",
-      "category": "Hair Salon",
-      "address": "Jackson",
+      "name": "Hinds Thrift Store Express",
+      "category": "Thrift Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1775,9 +1788,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dentist",
-      "category": "Dentist",
-      "address": "Jackson",
+      "name": "Jackson Appliance Store Solutions",
+      "category": "Appliance Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1788,9 +1801,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Insurance",
-      "category": "Insurance",
-      "address": "Jackson",
+      "name": "Deep South Gym Center",
+      "category": "Gym",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1801,9 +1814,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Real Estate",
-      "category": "Real Estate",
-      "address": "Jackson",
+      "name": "Hinds Pet Grooming LLC",
+      "category": "Pet Grooming",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1814,9 +1827,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Attorney",
-      "category": "Attorney",
-      "address": "Jackson",
+      "name": "Jackson Employment Agency Solutions",
+      "category": "Employment Agency",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1827,9 +1840,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Accountant",
-      "category": "Accountant",
-      "address": "Jackson",
+      "name": "Dixie Photography Studio of Jackson",
+      "category": "Photography Studio",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1840,9 +1853,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Jackson",
+      "name": "Gulf Coast Paving of Jackson",
+      "category": "Paving",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1853,9 +1866,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Fitness Center",
-      "category": "Fitness Center",
-      "address": "Jackson",
+      "name": "Hospitality Barber Shop Plus",
+      "category": "Barber Shop",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1866,9 +1879,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pet Store",
-      "category": "Pet Store",
-      "address": "Jackson",
+      "name": "Jackson Spa Center",
+      "category": "Spa",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1879,9 +1892,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Florist",
-      "category": "Florist",
-      "address": "Jackson",
+      "name": "Jackson Daycare Solutions",
+      "category": "Daycare",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1892,9 +1905,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Bakery",
-      "category": "Bakery",
-      "address": "Jackson",
+      "name": "Jackson Veterinarian Center",
+      "category": "Veterinarian",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1905,9 +1918,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Pizza",
-      "category": "Pizza",
-      "address": "Jackson",
+      "name": "Southern Jewelry Store Group",
+      "category": "Jewelry Store",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1918,9 +1931,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Restaurant",
-      "category": "Restaurant",
-      "address": "Jackson",
+      "name": "Hinds Marina Services",
+      "category": "Marina",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",
@@ -1931,22 +1944,9 @@
       "featured": false
     },
     {
-      "name": "Jackson Cafe",
-      "category": "Cafe",
-      "address": "Jackson",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Jackson Bar",
-      "category": "Bar",
-      "address": "Jackson",
+      "name": "Hinds Tattoo Parlor Inc",
+      "category": "Tattoo Parlor",
+      "address": "Jackson, MS",
       "phone": "",
       "email": "",
       "website": "",

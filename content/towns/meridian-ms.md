@@ -1,7 +1,7 @@
 ---
-title: "Meridian, MS Business Directory"
-type: "towns"
+title: "Meridian, Mississippi Business Directory"
 slug: "meridian-ms"
-state: "ms"
-town_data: "meridian-ms"
+state: "MS"
+county: "Lauderdale"
+population: 35749
 ---

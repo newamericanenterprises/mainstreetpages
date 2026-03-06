@@ -1,7 +1,7 @@
 ---
-title: "Greenville, MS Business Directory"
-type: "towns"
+title: "Greenville, Mississippi Business Directory"
 slug: "greenville-ms"
-state: "ms"
-town_data: "greenville-ms"
+state: "MS"
+county: "Washington"
+population: 27384
 ---

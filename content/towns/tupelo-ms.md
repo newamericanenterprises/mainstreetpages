@@ -1,7 +1,7 @@
 ---
-title: "Tupelo, MS Business Directory"
-type: "towns"
+title: "Tupelo, Mississippi Business Directory"
 slug: "tupelo-ms"
-state: "ms"
-town_data: "tupelo-ms"
+state: "MS"
+county: "Lee"
+population: 38206
 ---

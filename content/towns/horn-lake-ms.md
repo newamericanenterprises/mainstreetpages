@@ -1,7 +1,7 @@
 ---
-title: "Horn Lake, MS Business Directory"
-type: "towns"
+title: "Horn Lake, Mississippi Business Directory"
 slug: "horn-lake-ms"
-state: "ms"
-town_data: "horn-lake-ms"
+state: "MS"
+county: "DeSoto"
+population: 27799
 ---
