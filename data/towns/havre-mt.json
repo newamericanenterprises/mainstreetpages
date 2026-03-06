@@ -2,14 +2,14 @@
   "name": "Havre",
   "state": "Montana",
   "state_abbr": "MT",
-  "county": "Custer",
+  "county": "Hill",
   "population": 9846,
   "slug": "havre-mt",
   "businesses": [
     {
-      "name": "Havre Restaurant",
-      "category": "Restaurant",
-      "address": "Havre",
+      "name": "Havre Staffing Agency Pro",
+      "category": "Staffing Agency",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Havre Cafe",
-      "category": "Cafe",
-      "address": "Havre",
+      "name": "Havre Printing Shop Pro",
+      "category": "Printing Shop",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Havre Bar",
-      "category": "Bar",
-      "address": "Havre",
+      "name": "Big Horn Brewery Group",
+      "category": "Brewery",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Havre Bank",
-      "category": "Bank",
-      "address": "Havre",
+      "name": "Havre Pest Control Solutions",
+      "category": "Pest Control",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,9 @@
       "featured": false
     },
     {
-      "name": "Havre Gas Station",
-      "category": "Gas Station",
-      "address": "Havre",
+      "name": "Big Horn Furniture Store of Havre",
+      "category": "Furniture Store",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +72,9 @@
       "featured": false
     },
     {
-      "name": "Havre Supermarket",
-      "category": "Supermarket",
-      "address": "Havre",
+      "name": "Prairie Farm Equipment Solutions",
+      "category": "Farm Equipment",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +85,9 @@
       "featured": false
     },
     {
-      "name": "Havre Hardware Store",
-      "category": "Hardware Store",
-      "address": "Havre",
+      "name": "Prairie Law Office of Havre",
+      "category": "Law Office",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,9 +98,9 @@
       "featured": false
     },
     {
-      "name": "Havre Pharmacy",
-      "category": "Pharmacy",
-      "address": "Havre",
+      "name": "Hill Storage Facility LLC",
+      "category": "Storage Facility",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +111,9 @@
       "featured": false
     },
     {
-      "name": "Havre Auto Repair",
-      "category": "Auto Repair",
-      "address": "Havre",
+      "name": "Yellowstone Tailor of Havre",
+      "category": "Tailor",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +124,9 @@
       "featured": false
     },
     {
-      "name": "Havre Hair Salon",
-      "category": "Hair Salon",
-      "address": "Havre",
+      "name": "Havre Gym Co",
+      "category": "Gym",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +137,9 @@
       "featured": false
     },
     {
-      "name": "Havre Dentist",
-      "category": "Dentist",
-      "address": "Havre",
+      "name": "Hill Windows Co",
+      "category": "Windows",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,9 +150,9 @@
       "featured": false
     },
     {
-      "name": "Havre Insurance",
-      "category": "Insurance",
-      "address": "Havre",
+      "name": "Western Golf Course Solutions",
+      "category": "Golf Course",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -163,9 +163,9 @@
       "featured": false
     },
     {
-      "name": "Havre Real Estate",
-      "category": "Real Estate",
-      "address": "Havre",
+      "name": "Western Doctor Express",
+      "category": "Doctor",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -176,9 +176,9 @@
       "featured": false
     },
     {
-      "name": "Havre Attorney",
-      "category": "Attorney",
-      "address": "Havre",
+      "name": "Rocky Fly Fishing Shop of Havre",
+      "category": "Fly Fishing Shop",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -189,9 +189,9 @@
       "featured": false
     },
     {
-      "name": "Havre Accountant",
-      "category": "Accountant",
-      "address": "Havre",
+      "name": "Gold Rush Sign Shop LLC",
+      "category": "Sign Shop",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -202,9 +202,87 @@
       "featured": false
     },
     {
-      "name": "Havre Dry Cleaner",
+      "name": "Havre Tax Service Pro",
+      "category": "Tax Service",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hill Wedding Venue Co",
+      "category": "Wedding Venue",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Yellowstone Auto Dealer of Havre",
+      "category": "Auto Dealer",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Havre Church Services",
+      "category": "Church",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Big Horn Cleaning Service of Havre",
+      "category": "Cleaning Service",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hill Electrician Plus",
+      "category": "Electrician",
+      "address": "Havre, MT",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Hill Dry Cleaner LLC",
       "category": "Dry Cleaner",
-      "address": "Havre",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -215,9 +293,9 @@
       "featured": false
     },
     {
-      "name": "Havre Fitness Center",
-      "category": "Fitness Center",
-      "address": "Havre",
+      "name": "Mountain Daycare Plus",
+      "category": "Daycare",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -228,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Havre Pet Store",
-      "category": "Pet Store",
-      "address": "Havre",
+      "name": "Havre Hair Salon Pro",
+      "category": "Hair Salon",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -241,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Havre Florist",
-      "category": "Florist",
-      "address": "Havre",
+      "name": "Glacier Dollar Store of Havre",
+      "category": "Dollar Store",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -254,9 +332,9 @@
       "featured": false
     },
     {
-      "name": "Havre Bakery",
-      "category": "Bakery",
-      "address": "Havre",
+      "name": "Glacier Dentist of Havre",
+      "category": "Dentist",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -267,9 +345,9 @@
       "featured": false
     },
     {
-      "name": "Havre Pizza",
-      "category": "Pizza",
-      "address": "Havre",
+      "name": "Prairie Paving of Havre",
+      "category": "Paving",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -280,9 +358,9 @@
       "featured": false
     },
     {
-      "name": "Havre Restaurant",
-      "category": "Restaurant",
-      "address": "Havre",
+      "name": "Mountain Painting of Havre",
+      "category": "Painting",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Havre Cafe",
-      "category": "Cafe",
-      "address": "Havre",
+      "name": "Hill Dance Studio Center",
+      "category": "Dance Studio",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Havre Bar",
-      "category": "Bar",
-      "address": "Havre",
+      "name": "Big Sky Pawn Shop of Havre",
+      "category": "Pawn Shop",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Havre Bank",
-      "category": "Bank",
-      "address": "Havre",
+      "name": "Pioneer Check Cashing Inc",
+      "category": "Check Cashing",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Havre Gas Station",
-      "category": "Gas Station",
-      "address": "Havre",
+      "name": "Havre Insurance Agency Services",
+      "category": "Insurance Agency",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Havre Supermarket",
-      "category": "Supermarket",
-      "address": "Havre",
+      "name": "Frontier Nail Salon of Havre",
+      "category": "Nail Salon",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +436,9 @@
       "featured": false
     },
     {
-      "name": "Havre Hardware Store",
-      "category": "Hardware Store",
-      "address": "Havre",
+      "name": "Havre Pizza Place Plus",
+      "category": "Pizza Place",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,22 +449,9 @@
       "featured": false
     },
     {
-      "name": "Havre Pharmacy",
-      "category": "Pharmacy",
-      "address": "Havre",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Havre Auto Repair",
-      "category": "Auto Repair",
-      "address": "Havre",
+      "name": "Treasure State Coffee Shop of Havre",
+      "category": "Coffee Shop",
+      "address": "Havre, MT",
       "phone": "",
       "email": "",
       "website": "",

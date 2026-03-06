@@ -1,7 +1,7 @@
 ---
-title: "Billings, MT Business Directory"
-type: "towns"
+title: "Billings, Montana Business Directory"
 slug: "billings-mt"
-state: "mt"
-town_data: "billings-mt"
+state: "MT"
+county: "Yellowstone"
+population: 117116
 ---

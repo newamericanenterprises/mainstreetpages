@@ -1,7 +1,7 @@
 ---
-title: "Missoula, MT Business Directory"
-type: "towns"
+title: "Missoula, Montana Business Directory"
 slug: "missoula-mt"
-state: "mt"
-town_data: "missoula-mt"
+state: "MT"
+county: "Missoula"
+population: 75516
 ---

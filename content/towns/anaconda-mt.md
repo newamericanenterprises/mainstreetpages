@@ -1,7 +1,7 @@
 ---
-title: "Anaconda, MT Business Directory"
-type: "towns"
+title: "Anaconda, Montana Business Directory"
 slug: "anaconda-mt"
-state: "mt"
-town_data: "anaconda-mt"
+state: "MT"
+county: "Deer Lodge"
+population: 9153
 ---

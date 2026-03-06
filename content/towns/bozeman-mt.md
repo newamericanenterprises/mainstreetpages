@@ -1,7 +1,7 @@
 ---
-title: "Bozeman, MT Business Directory"
-type: "towns"
+title: "Bozeman, Montana Business Directory"
 slug: "bozeman-mt"
-state: "mt"
-town_data: "bozeman-mt"
+state: "MT"
+county: "Gallatin"
+population: 53293
 ---

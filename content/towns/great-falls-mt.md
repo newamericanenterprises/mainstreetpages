@@ -1,7 +1,7 @@
 ---
-title: "Great Falls, MT Business Directory"
-type: "towns"
+title: "Great Falls, Montana Business Directory"
 slug: "great-falls-mt"
-state: "mt"
-town_data: "great-falls-mt"
+state: "MT"
+county: "Cascade"
+population: 60442
 ---

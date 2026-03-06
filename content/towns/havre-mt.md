@@ -1,7 +1,7 @@
 ---
-title: "Havre, MT Business Directory"
-type: "towns"
+title: "Havre, Montana Business Directory"
 slug: "havre-mt"
-state: "mt"
-town_data: "havre-mt"
+state: "MT"
+county: "Hill"
+population: 9846
 ---

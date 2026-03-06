@@ -1,7 +1,7 @@
 ---
-title: "Butte, MT Business Directory"
-type: "towns"
+title: "Butte, Montana Business Directory"
 slug: "butte-mt"
-state: "mt"
-town_data: "butte-mt"
+state: "MT"
+county: "Silver Bow"
+population: 34494
 ---
