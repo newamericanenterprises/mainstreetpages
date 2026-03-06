@@ -121,7 +121,7 @@ body {
 
 .browse-states .state-card {
   display: block;
-  background: #f8f9fa;
+  background: #fff;
   border: 1px solid #e0e0e0;
   border-radius: 8px;
   padding: 1.5rem;
@@ -137,7 +137,7 @@ body {
 
 .browse-states .state-card h3 {
   margin: 0 0 1rem 0;
-  color: #1a2744;
+  color: #333;
   font-size: 1.25rem;
 }
 
@@ -147,12 +147,11 @@ body {
 }
 
 .browse-states .state-stats .stat {
-  background: #fff;
+  background: #f5f5f5;
   padding: 0.5rem 1rem;
   border-radius: 4px;
   font-size: 0.9rem;
   color: #666;
-  border: 1px solid #e0e0e0;
 }
 
 /* Town Page */
