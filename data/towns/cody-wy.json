@@ -2,14 +2,14 @@
   "name": "Cody",
   "state": "Wyoming",
   "state_abbr": "WY",
-  "county": "Goshen",
-  "population": 10014,
+  "county": "Park",
+  "population": 10114,
   "slug": "cody-wy",
   "businesses": [
     {
-      "name": "Cody Restaurant",
-      "category": "Restaurant",
-      "address": "Cody",
+      "name": "Wyoming Marina of Cody",
+      "category": "Marina",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Cody Cafe",
-      "category": "Cafe",
-      "address": "Cody",
+      "name": "Cody Movie Theater Solutions",
+      "category": "Movie Theater",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Cody Bar",
-      "category": "Bar",
-      "address": "Cody",
+      "name": "Park Clothing Boutique Group",
+      "category": "Clothing Boutique",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Cody Bank",
-      "category": "Bank",
-      "address": "Cody",
+      "name": "Cody Saddle Shop Inc",
+      "category": "Saddle Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,61 @@
       "featured": false
     },
     {
-      "name": "Cody Gas Station",
+      "name": "Frontier Tailor of Cody",
+      "category": "Tailor",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Powder River Chiropractor Express",
+      "category": "Chiropractor",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Cleaning Service Group",
+      "category": "Cleaning Service",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Mountain Motel Center",
+      "category": "Motel",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cody Gas Station Pro",
       "category": "Gas Station",
-      "address": "Cody",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +124,9 @@
       "featured": false
     },
     {
-      "name": "Cody Supermarket",
-      "category": "Supermarket",
-      "address": "Cody",
+      "name": "High Plains Brewery of Cody",
+      "category": "Brewery",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +137,9 @@
       "featured": false
     },
     {
-      "name": "Cody Hardware Store",
-      "category": "Hardware Store",
-      "address": "Cody",
+      "name": "Park Printing Shop Inc",
+      "category": "Printing Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,9 +150,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pharmacy",
-      "category": "Pharmacy",
-      "address": "Cody",
+      "name": "Powder River Nail Salon of Cody",
+      "category": "Nail Salon",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -111,9 +163,9 @@
       "featured": false
     },
     {
-      "name": "Cody Auto Repair",
-      "category": "Auto Repair",
-      "address": "Cody",
+      "name": "Cody Jewelry Store Co",
+      "category": "Jewelry Store",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -124,9 +176,9 @@
       "featured": false
     },
     {
-      "name": "Cody Hair Salon",
-      "category": "Hair Salon",
-      "address": "Cody",
+      "name": "Powder River Moving Company of Cody",
+      "category": "Moving Company",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -137,9 +189,9 @@
       "featured": false
     },
     {
-      "name": "Cody Dentist",
-      "category": "Dentist",
-      "address": "Cody",
+      "name": "Park Law Office Solutions",
+      "category": "Law Office",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -150,9 +202,9 @@
       "featured": false
     },
     {
-      "name": "Cody Insurance",
-      "category": "Insurance",
-      "address": "Cody",
+      "name": "Wind River Auto Dealer of Cody",
+      "category": "Auto Dealer",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -163,9 +215,9 @@
       "featured": false
     },
     {
-      "name": "Cody Real Estate",
-      "category": "Real Estate",
-      "address": "Cody",
+      "name": "Rocky Mountain Tire Shop of Cody",
+      "category": "Tire Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -176,9 +228,9 @@
       "featured": false
     },
     {
-      "name": "Cody Attorney",
-      "category": "Attorney",
-      "address": "Cody",
+      "name": "Yellowstone Arcade of Cody",
+      "category": "Arcade",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -189,9 +241,9 @@
       "featured": false
     },
     {
-      "name": "Cody Accountant",
-      "category": "Accountant",
-      "address": "Cody",
+      "name": "Western Barber Shop Services",
+      "category": "Barber Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -202,9 +254,9 @@
       "featured": false
     },
     {
-      "name": "Cody Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Cody",
+      "name": "Cody Doctor Co",
+      "category": "Doctor",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -215,9 +267,9 @@
       "featured": false
     },
     {
-      "name": "Cody Fitness Center",
-      "category": "Fitness Center",
-      "address": "Cody",
+      "name": "Cody Photography Studio Plus",
+      "category": "Photography Studio",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -228,35 +280,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pet Store",
-      "category": "Pet Store",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Florist",
-      "category": "Florist",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Bakery",
+      "name": "Park Bakery Pro",
       "category": "Bakery",
-      "address": "Cody",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -267,9 +293,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pizza",
-      "category": "Pizza",
-      "address": "Cody",
+      "name": "Powder River Check Cashing of Cody",
+      "category": "Check Cashing",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -280,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Cody Restaurant",
-      "category": "Restaurant",
-      "address": "Cody",
+      "name": "Western HVAC Group",
+      "category": "HVAC",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Cody Cafe",
-      "category": "Cafe",
-      "address": "Cody",
+      "name": "Cody Music Store Pro",
+      "category": "Music Store",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +332,9 @@
       "featured": false
     },
     {
-      "name": "Cody Bar",
-      "category": "Bar",
-      "address": "Cody",
+      "name": "Cody Hunting Outfitter Solutions",
+      "category": "Hunting Outfitter",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,9 +345,9 @@
       "featured": false
     },
     {
-      "name": "Cody Bank",
-      "category": "Bank",
-      "address": "Cody",
+      "name": "Yellowstone Storage Facility Plus",
+      "category": "Storage Facility",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -332,9 +358,9 @@
       "featured": false
     },
     {
-      "name": "Cody Gas Station",
-      "category": "Gas Station",
-      "address": "Cody",
+      "name": "Cody Spa Pro",
+      "category": "Spa",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -345,9 +371,9 @@
       "featured": false
     },
     {
-      "name": "Cody Supermarket",
-      "category": "Supermarket",
-      "address": "Cody",
+      "name": "Park Sign Shop Group",
+      "category": "Sign Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -358,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Cody Hardware Store",
-      "category": "Hardware Store",
-      "address": "Cody",
+      "name": "Big Horn Windows Services",
+      "category": "Windows",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -371,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pharmacy",
-      "category": "Pharmacy",
-      "address": "Cody",
+      "name": "Park Siding Co",
+      "category": "Siding",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -384,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Cody Auto Repair",
-      "category": "Auto Repair",
-      "address": "Cody",
+      "name": "Mountain Gift Shop of Cody",
+      "category": "Gift Shop",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -397,87 +423,9 @@
       "featured": false
     },
     {
-      "name": "Cody Hair Salon",
-      "category": "Hair Salon",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Dentist",
-      "category": "Dentist",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Insurance",
-      "category": "Insurance",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Real Estate",
-      "category": "Real Estate",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Attorney",
-      "category": "Attorney",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Accountant",
-      "category": "Accountant",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Dry Cleaner",
+      "name": "Park Dry Cleaner Pro",
       "category": "Dry Cleaner",
-      "address": "Cody",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -488,9 +436,9 @@
       "featured": false
     },
     {
-      "name": "Cody Fitness Center",
-      "category": "Fitness Center",
-      "address": "Cody",
+      "name": "Powder River RV Park of Cody",
+      "category": "RV Park",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -501,9 +449,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pet Store",
-      "category": "Pet Store",
-      "address": "Cody",
+      "name": "Park Painting Inc",
+      "category": "Painting",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -514,9 +462,9 @@
       "featured": false
     },
     {
-      "name": "Cody Florist",
-      "category": "Florist",
-      "address": "Cody",
+      "name": "Cody Concrete Inc",
+      "category": "Concrete",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -527,9 +475,9 @@
       "featured": false
     },
     {
-      "name": "Cody Bakery",
-      "category": "Bakery",
-      "address": "Cody",
+      "name": "Yellowstone Gym Inc",
+      "category": "Gym",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -540,61 +488,9 @@
       "featured": false
     },
     {
-      "name": "Cody Pizza",
-      "category": "Pizza",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Restaurant",
-      "category": "Restaurant",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Cafe",
-      "category": "Cafe",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Bar",
-      "category": "Bar",
-      "address": "Cody",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Cody Bank",
+      "name": "Park Bank Solutions",
       "category": "Bank",
-      "address": "Cody",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -605,9 +501,9 @@
       "featured": false
     },
     {
-      "name": "Cody Gas Station",
-      "category": "Gas Station",
-      "address": "Cody",
+      "name": "Rocky Mountain Staffing Agency of Cody",
+      "category": "Staffing Agency",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -618,9 +514,9 @@
       "featured": false
     },
     {
-      "name": "Cody Supermarket",
-      "category": "Supermarket",
-      "address": "Cody",
+      "name": "Powder River Bed and Breakfast of Cody",
+      "category": "Bed and Breakfast",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -631,9 +527,9 @@
       "featured": false
     },
     {
-      "name": "Cody Hardware Store",
-      "category": "Hardware Store",
-      "address": "Cody",
+      "name": "Park Towing Service Plus",
+      "category": "Towing Service",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",
@@ -644,9 +540,113 @@
       "featured": false
     },
     {
-      "name": "Cody Pharmacy",
-      "category": "Pharmacy",
-      "address": "Cody",
+      "name": "Cody Grocery Store LLC",
+      "category": "Grocery Store",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Plumber Express",
+      "category": "Plumber",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Funeral Home Services",
+      "category": "Funeral Home",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Pet Grooming LLC",
+      "category": "Pet Grooming",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Coffee Shop LLC",
+      "category": "Coffee Shop",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Grand Teton Bookstore of Cody",
+      "category": "Bookstore",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Park Dentist Solutions",
+      "category": "Dentist",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Yellowstone Pawn Shop of Cody",
+      "category": "Pawn Shop",
+      "address": "Cody, WY",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Cody Feed Store Center",
+      "category": "Feed Store",
+      "address": "Cody, WY",
       "phone": "",
       "email": "",
       "website": "",

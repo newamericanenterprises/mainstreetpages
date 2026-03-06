@@ -7,9 +7,9 @@
   "slug": "central-falls-ri",
   "businesses": [
     {
-      "name": "Central Falls Restaurant",
-      "category": "Restaurant",
-      "address": "Central Falls",
+      "name": "Coastal Electronics Store Express",
+      "category": "Electronics Store",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -20,9 +20,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Cafe",
-      "category": "Cafe",
-      "address": "Central Falls",
+      "name": "Providence Antique Store Inc",
+      "category": "Antique Store",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -33,9 +33,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bar",
-      "category": "Bar",
-      "address": "Central Falls",
+      "name": "Providence Painting of Central Falls",
+      "category": "Painting",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -46,9 +46,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bank",
-      "category": "Bank",
-      "address": "Central Falls",
+      "name": "Newport Auto Dealer LLC",
+      "category": "Auto Dealer",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -59,9 +59,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Gas Station",
-      "category": "Gas Station",
-      "address": "Central Falls",
+      "name": "Central Falls Check Cashing Group",
+      "category": "Check Cashing",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -72,9 +72,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Supermarket",
-      "category": "Supermarket",
-      "address": "Central Falls",
+      "name": "Ocean State Accounting LLC",
+      "category": "Accounting",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -85,9 +85,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Hardware Store",
-      "category": "Hardware Store",
-      "address": "Central Falls",
+      "name": "Central Falls Hotel Inc",
+      "category": "Hotel",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -98,152 +98,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pharmacy",
-      "category": "Pharmacy",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Auto Repair",
-      "category": "Auto Repair",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Hair Salon",
-      "category": "Hair Salon",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Dentist",
-      "category": "Dentist",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Insurance",
-      "category": "Insurance",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Real Estate",
-      "category": "Real Estate",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Attorney",
-      "category": "Attorney",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Accountant",
-      "category": "Accountant",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Fitness Center",
-      "category": "Fitness Center",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Pet Store",
-      "category": "Pet Store",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Florist",
+      "name": "Central Falls Florist Express",
       "category": "Florist",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -254,9 +111,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bakery",
-      "category": "Bakery",
-      "address": "Central Falls",
+      "name": "Central Falls Temp Agency Group",
+      "category": "Temp Agency",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -267,9 +124,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pizza",
-      "category": "Pizza",
-      "address": "Central Falls",
+      "name": "Providence Arcade Center",
+      "category": "Arcade",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -280,9 +137,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Restaurant",
-      "category": "Restaurant",
-      "address": "Central Falls",
+      "name": "Providence HVAC Plus",
+      "category": "HVAC",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -293,9 +150,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Cafe",
-      "category": "Cafe",
-      "address": "Central Falls",
+      "name": "Aquidneck Pest Control of Central Falls",
+      "category": "Pest Control",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -306,9 +163,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bar",
-      "category": "Bar",
-      "address": "Central Falls",
+      "name": "Central Falls Title Loan Solutions",
+      "category": "Title Loan",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -319,126 +176,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bank",
-      "category": "Bank",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Gas Station",
-      "category": "Gas Station",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Supermarket",
-      "category": "Supermarket",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Hardware Store",
-      "category": "Hardware Store",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Pharmacy",
-      "category": "Pharmacy",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Auto Repair",
-      "category": "Auto Repair",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Hair Salon",
-      "category": "Hair Salon",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Dentist",
-      "category": "Dentist",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Insurance",
-      "category": "Insurance",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Real Estate",
+      "name": "Providence Real Estate Co",
       "category": "Real Estate",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -449,9 +189,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Attorney",
-      "category": "Attorney",
-      "address": "Central Falls",
+      "name": "Coastal Yoga Studio Express",
+      "category": "Yoga Studio",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -462,9 +202,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Accountant",
-      "category": "Accountant",
-      "address": "Central Falls",
+      "name": "Coastal Insurance Agency Services",
+      "category": "Insurance Agency",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -475,9 +215,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Central Falls",
+      "name": "Providence Gym Pro",
+      "category": "Gym",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -488,9 +228,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Fitness Center",
-      "category": "Fitness Center",
-      "address": "Central Falls",
+      "name": "New England Wedding Venue of Central Falls",
+      "category": "Wedding Venue",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -501,9 +241,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pet Store",
-      "category": "Pet Store",
-      "address": "Central Falls",
+      "name": "Central Falls Tire Shop Inc",
+      "category": "Tire Shop",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -514,9 +254,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Florist",
-      "category": "Florist",
-      "address": "Central Falls",
+      "name": "Central Falls Pizza Place Pro",
+      "category": "Pizza Place",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -527,9 +267,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bakery",
-      "category": "Bakery",
-      "address": "Central Falls",
+      "name": "Providence Movie Theater LLC",
+      "category": "Movie Theater",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -540,61 +280,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pizza",
-      "category": "Pizza",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Restaurant",
-      "category": "Restaurant",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Cafe",
-      "category": "Cafe",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Bar",
-      "category": "Bar",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Bank",
+      "name": "Central Falls Bank Group",
       "category": "Bank",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -605,35 +293,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Gas Station",
-      "category": "Gas Station",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Supermarket",
-      "category": "Supermarket",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Hardware Store",
+      "name": "Providence Hardware Store Group",
       "category": "Hardware Store",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -644,9 +306,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pharmacy",
-      "category": "Pharmacy",
-      "address": "Central Falls",
+      "name": "Providence Gas Station Express",
+      "category": "Gas Station",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -657,9 +319,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Auto Repair",
-      "category": "Auto Repair",
-      "address": "Central Falls",
+      "name": "New England Golf Course of Central Falls",
+      "category": "Golf Course",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -670,9 +332,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Hair Salon",
-      "category": "Hair Salon",
-      "address": "Central Falls",
+      "name": "Providence Optometrist LLC",
+      "category": "Optometrist",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -683,9 +345,35 @@
       "featured": false
     },
     {
-      "name": "Central Falls Dentist",
+      "name": "Blackstone Sailing School Solutions",
+      "category": "Sailing School",
+      "address": "Central Falls, RI",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Colonial Motel of Central Falls",
+      "category": "Motel",
+      "address": "Central Falls, RI",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "hours": "",
+      "rating": null,
+      "review_count": null,
+      "claimed": false,
+      "featured": false
+    },
+    {
+      "name": "Central Falls Dentist LLC",
       "category": "Dentist",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -696,9 +384,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Insurance",
-      "category": "Insurance",
-      "address": "Central Falls",
+      "name": "Central Falls Veterinarian Pro",
+      "category": "Veterinarian",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -709,9 +397,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Real Estate",
-      "category": "Real Estate",
-      "address": "Central Falls",
+      "name": "Aquidneck Dollar Store of Central Falls",
+      "category": "Dollar Store",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -722,9 +410,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Attorney",
-      "category": "Attorney",
-      "address": "Central Falls",
+      "name": "Central Falls Clam Shack Group",
+      "category": "Clam Shack",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -735,9 +423,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Accountant",
-      "category": "Accountant",
-      "address": "Central Falls",
+      "name": "Narragansett Dance Studio of Central Falls",
+      "category": "Dance Studio",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -748,9 +436,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Dry Cleaner",
-      "category": "Dry Cleaner",
-      "address": "Central Falls",
+      "name": "Providence Bowling Alley LLC",
+      "category": "Bowling Alley",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -761,9 +449,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Fitness Center",
-      "category": "Fitness Center",
-      "address": "Central Falls",
+      "name": "Little Rhody Nail Salon Inc",
+      "category": "Nail Salon",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -774,9 +462,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pet Store",
-      "category": "Pet Store",
-      "address": "Central Falls",
+      "name": "Providence Staffing Agency Inc",
+      "category": "Staffing Agency",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -787,9 +475,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Florist",
-      "category": "Florist",
-      "address": "Central Falls",
+      "name": "Aquidneck Fishing Supply Solutions",
+      "category": "Fishing Supply",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -800,9 +488,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bakery",
-      "category": "Bakery",
-      "address": "Central Falls",
+      "name": "Atlantic Bait Shop Plus",
+      "category": "Bait Shop",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -813,9 +501,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pizza",
-      "category": "Pizza",
-      "address": "Central Falls",
+      "name": "Ocean State Laundromat Services",
+      "category": "Laundromat",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -826,9 +514,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Restaurant",
-      "category": "Restaurant",
-      "address": "Central Falls",
+      "name": "Atlantic Oyster Bar Solutions",
+      "category": "Oyster Bar",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -839,22 +527,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Cafe",
-      "category": "Cafe",
-      "address": "Central Falls",
-      "phone": "",
-      "email": "",
-      "website": "",
-      "hours": "",
-      "rating": null,
-      "review_count": null,
-      "claimed": false,
-      "featured": false
-    },
-    {
-      "name": "Central Falls Bar",
+      "name": "Providence Bar Inc",
       "category": "Bar",
-      "address": "Central Falls",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -865,9 +540,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Bank",
-      "category": "Bank",
-      "address": "Central Falls",
+      "name": "Providence Thrift Store Plus",
+      "category": "Thrift Store",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -878,9 +553,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Gas Station",
-      "category": "Gas Station",
-      "address": "Central Falls",
+      "name": "Little Rhody Daycare of Central Falls",
+      "category": "Daycare",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -891,9 +566,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Supermarket",
-      "category": "Supermarket",
-      "address": "Central Falls",
+      "name": "Plantation Concrete Inc",
+      "category": "Concrete",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -904,9 +579,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Hardware Store",
-      "category": "Hardware Store",
-      "address": "Central Falls",
+      "name": "Central Falls Shoe Store Center",
+      "category": "Shoe Store",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -917,9 +592,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Pharmacy",
-      "category": "Pharmacy",
-      "address": "Central Falls",
+      "name": "Providence Plumber Solutions",
+      "category": "Plumber",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -930,9 +605,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Auto Repair",
-      "category": "Auto Repair",
-      "address": "Central Falls",
+      "name": "Ocean State Library of Central Falls",
+      "category": "Library",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -943,9 +618,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Hair Salon",
-      "category": "Hair Salon",
-      "address": "Central Falls",
+      "name": "Central Falls Funeral Home Inc",
+      "category": "Funeral Home",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -956,9 +631,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Dentist",
-      "category": "Dentist",
-      "address": "Central Falls",
+      "name": "Rhode Island Brewery Services",
+      "category": "Brewery",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
@@ -969,9 +644,9 @@
       "featured": false
     },
     {
-      "name": "Central Falls Insurance",
-      "category": "Insurance",
-      "address": "Central Falls",
+      "name": "Central Falls Pet Grooming Group",
+      "category": "Pet Grooming",
+      "address": "Central Falls, RI",
       "phone": "",
       "email": "",
       "website": "",
