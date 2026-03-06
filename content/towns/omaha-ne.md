@@ -1,7 +1,7 @@
 ---
-title: "Omaha, NE Business Directory"
-type: "towns"
+title: "Omaha, Nebraska Business Directory"
 slug: "omaha-ne"
-state: "ne"
-town_data: "omaha-ne"
+state: "NE"
+county: "Douglas"
+population: 486051
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Fremont, NE Business Directory"
-type: "towns"
+title: "Fremont, Nebraska Business Directory"
 slug: "fremont-ne"
-state: "ne"
-town_data: "fremont-ne"
+state: "NE"
+county: "Dodge"
+population: 26805
 ---

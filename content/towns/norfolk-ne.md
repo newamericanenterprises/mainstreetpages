@@ -1,7 +1,7 @@
 ---
-title: "Norfolk, NE Business Directory"
-type: "towns"
+title: "Norfolk, Nebraska Business Directory"
 slug: "norfolk-ne"
-state: "ne"
-town_data: "norfolk-ne"
+state: "NE"
+county: "Madison"
+population: 24765
 ---

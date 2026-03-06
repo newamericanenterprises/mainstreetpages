@@ -1,7 +1,7 @@
 ---
-title: "North Platte, NE Business Directory"
-type: "towns"
+title: "North Platte, Nebraska Business Directory"
 slug: "north-platte-ne"
-state: "ne"
-town_data: "north-platte-ne"
+state: "NE"
+county: "Lincoln"
+population: 24733
 ---

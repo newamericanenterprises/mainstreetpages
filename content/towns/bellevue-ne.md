@@ -1,7 +1,7 @@
 ---
-title: "Bellevue, NE Business Directory"
-type: "towns"
+title: "Bellevue, Nebraska Business Directory"
 slug: "bellevue-ne"
-state: "ne"
-town_data: "bellevue-ne"
+state: "NE"
+county: "Sarpy"
+population: 64176
 ---

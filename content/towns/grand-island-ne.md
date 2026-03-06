@@ -1,7 +1,7 @@
 ---
-title: "Grand Island, NE Business Directory"
-type: "towns"
+title: "Grand Island, Nebraska Business Directory"
 slug: "grand-island-ne"
-state: "ne"
-town_data: "grand-island-ne"
+state: "NE"
+county: "Hall"
+population: 53131
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Hastings, NE Business Directory"
-type: "towns"
+title: "Hastings, Nebraska Business Directory"
 slug: "hastings-ne"
-state: "ne"
-town_data: "hastings-ne"
+state: "NE"
+county: "Adams"
+population: 24878
 ---

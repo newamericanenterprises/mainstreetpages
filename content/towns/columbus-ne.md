@@ -1,7 +1,7 @@
 ---
-title: "Columbus, NE Business Directory"
-type: "towns"
+title: "Columbus, Nebraska Business Directory"
 slug: "columbus-ne"
-state: "ne"
-town_data: "columbus-ne"
+state: "NE"
+county: "Platte"
+population: 23291
 ---
